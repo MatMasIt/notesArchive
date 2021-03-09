@@ -9,4 +9,4 @@ stent tiene allargato il vaso
 
 funzionamento elettrico del cuore
 
-ripristino equilibrio dopo potenziale d'azione
+ripristino equilibrio dopo potenziale d'azioneq
