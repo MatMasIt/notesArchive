@@ -147,3 +147,13 @@ deittici -> parti del discorso, indicazioni performative
 
 
 non tutte le azioni si possono mettere in scena
+
+La Locandiera
+
+
+
+Fiorlipopoli
+
+Conte di albafiorita
+
+Ortensia e Beniamina
