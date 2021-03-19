@@ -12,7 +12,7 @@ I thought I’d get the geography prize but I actually <u>*ended **UP** winning*
 3. It’s been over two years since Sam last took exams. (TAKEN)
 Sam <u>*has not **TAKEN** exams for*</u> over two years. (Tense – Unit 2)
 4. They started the aerobics club in the school gym. (UP)
-The aerobics club  <u>*started up*</u> in the school gym. (Phrasal verb U. 2 p.162)
+The aerobics club  <u>*was set up*</u> in the school gym. (Phrasal verb U. 2 p.162)
 5. It took me about two years to become comfortable with speaking French in public. (USED)
 It took me about two years to <u>*get **USED** to speaking*</u> French in public. (tense Unit 2)
 6. I don’t know how he managed to remember so many numbers. (SUCCEEDED)
@@ -74,3 +74,14 @@ Hans really *<u>**STOOD** out</u>* in that team! (Phrasal verb Unit 5 p. 164)
 > Get used to + (-ing) -> abituarsi a 
 >
 > used to + base form -> ero solito (past habits)
+
+---
+
+19/03/2020 09:19
+
+fond of, into, keen on
+
+I'd rather I didn't play the match tonight
+
+unreal past
+
