@@ -1,31 +1,6 @@
-* Giorgione
-  * Tre età dell'uomo
-  * tempesta
-  * pala di castelfranco
-  * i tre filosofi
-  * doppio ritratto
-  * ritratto di vecchia
-* Tiziano
-  * Amor sacro 
-  * Amor profano
-  * Assunta di frari
-  * pala pesaro
-  * uomo col guanto 
-  * paolo II con nipoti
-  * ritratto di carlo VI
-  * Venere (paragone con  venere di giorgione)
+# Ripasso per l'interrogazione di Arte di Martedì 30/03/2021
 
-* Jacopo Pontorno
-  * Deposizione
-* Rosso fiorentino
-  * deposizione della croce
-* Palazzo te a mantova di giulio romano
-* Jacopo Sansovino, p 764-765
-* Palladio
-  * Basilica di Vicenza
-  * Rotonda
-
-
+## Mattia Mascarello
 
 [TOC]
 
@@ -409,7 +384,7 @@ destra -> prezioso anello
 
 naturalità 
 
-introspezione
+introspezione 
 
 ragazzo alla fine dell'adolescenza che guarda al futuro
 
@@ -473,6 +448,8 @@ no idealizzazione
 
 ### Venere
 
+entrambe olio su tela
+
 Venere di Urbino -> tiziano
 
 per futuro luca Guidobaldo della rovere
@@ -509,19 +486,163 @@ consapevole della propria bellezza
 
 allegoria fedeltà coniugale (cagnolino accovacciato)
 
+## Jacopo Pontormo
+
+Iacopo Carucci, detto Pontormo
+
+Allievo di Andrea del Sarto dopo apprendistato presso Leonardo
+
+Giorgio Vasari lo descrive come stralunato, nevrotico
+
+avverso ai Medici ma lavora su loro commissione
+
+### Deposizione
+
+1526, Firenze, Chiesa di Santa Felicita, olio su Tavola
+
+Stile più astratto 
+
+trasporto del corpo di cristo
+
+come se la salma di Gesù venisse deposta al sottostante sarcofago del banchiere, collocato di fronte all'altare della cappella
+
+#### Modelli
+
+Pala Baglioni di Raffaello
+
+disposizione personaggi e taglio diagonale
+
+Volta cappella sistina -> cromìe delle figure
+
+#### Anticlassicismo
+
+presenza nella penombra -> visione luminosa
+
+scena fuori da tempo e spazio (indefiniti)
+
+artista si concentra nei personaggi, che si incastrano senza prospettiva
+
+figure appaiono galleggiare nel vuoto
+
+il corpo morto di cristo cade in modo rigido e disarticolato
+
+colori insoliti e chiarissimi 
+
+simmetria di colori
+
+colori non rendono i volumi
+
+bocche piccole e socchiuse, occhi rotondi e colmi di lacrime
+
+stupito dolore
+
+espressione angosciosa e implorante
+
+in altro a destra il pittore si dipinge con volto barbuto in copricapo verde scuro
+
+## Rosso Fiorentino
+
+coetaneo di Pontormo
+
+più audace e irrequieto
+
+nuove esperienze, desideroso di viaggi
+
+### Deposizione della Croce
+
+1521, Volterra, Pinacoteca civica, Olio su Tavola
+
+Fugge da Firenze forse per ragioni politiche
+
+personaggi bloccati come statue di legno
+
+paesaggio brullo
+
+cielo metallico crepuscolare
+
+parte superiore pala 
+
+corpo di cristo viene staccato dalla croce  mente quattro uomini si muovono in modo concitato
+
+richiamo alla Battaglia di Cascina di Michelangelo
+
+una persona avverte pericolo caduta
+
+figure parte inferiore paio silenziose e immobili
+
+vento
+
+Maddalena cinge gambe vergine
+
+san Giovanni evangelista di ripiega su se stesso, coprendosi il volto
+
+asimmetria
+
+centralità croce, parallelismo scale
+
+verticalismo personaggi in basso
+
+disposizione dei colori
+
+## Giulio Romano (p 740-741)
+
+Raffaello muore nel 1520
+
+Giulio Pippi (Romano), discepolo prediletto di Raffaello
+
+Affrescatura stanze rimanenti vaticano
+
+Dopo il sacco di Roma del 1527 molti artisti fuggono
+
+ma Giulio Romano era già a Mantova dal 1524
+
+Federico II Gonzaga
+
+sovraintendere sistemazione palazzo ducale, apparati festivi, ricche collezioni d'arte della famiglia
+
+stipendio elevatissimo
 
 
-## Palazzo tè a Mantova
+
+### Palazzo tè a Mantova
+
+Teieto -> località dei tigli
+
+posta su lago interrato
+
+vicino a scuderie Fed II
+
+Voleva essere una di campagna, ma poi divenne una sede di rappresentanza coorte, incontri politici, teatro di feste e spettacoli teatrali
+
+Ospitò Carlo V d'Asburgo
+
+#### Impianto Classico
+
+edificio su cortile quadrato su modello domus romanana
+
+grande giardino con scuderie e locali di servizio, che separato dal loggiato  che si affaccia su due peschiere  e chiuso in fondo da una esedra ad archi, costruita nel 1600 seguendo il progetto di Giulio Romano 
 
 Facciata
 
-Paraste tuscaniche con zoccolo alto, fregio di metope alternate a triglifi, finestre più grandi architravate, finestre più piccole
+Paraste tuscaniche con zoccolo alto, trabeazione fregio di metope alternate a triglifi, finestre più grandi architravate, finestre più piccole
 
-accesso al cortile d'onore simile alla domus romana
+piano primo -> soffitto basso, locali di servizio -> finestrelle quadrate
+
+finto bugnato liscio fatto di intonaco e mattoni -> nuovo rispetto alla tradizione
 
 ingresso del giardino colonne doriche non sgrezzate con metope alternate a triglifi che ogni tanto paiono cadere
 
 ingresso loggiato al giardino
+
+Attraverso a vestibolo con volta a lacunari ottagonali (c)
+
+#### Cortile d'onore
+
+peschiere -> 2 specchi d'acqua
+
+sequenza di serliane con loggia centrale affettante composta da 3 arcate cge poggiano su colonne binarie unite da una comune trabeazione 
+
+
 
 locali di servizio scuderie
 
@@ -535,26 +656,188 @@ Licenziosità -> novità
 
 finto bugnato -> fatto di intonaco e mattoni
 
+
+
+Apporti personali rispetto allo stile classico
+
+## Jacopo Sansovino, p 764-765
+
+Iacopo Tatti
+
+detto Sansovino
+
+maniera architettonica tosco-romana con tradizione locale
+
+arriva a Venezia da roma dopo Sacco 1527 volendo andare in Francia ma viene trattenuto da restauro Basilica San Marco
+
+diventa architetto ufficiale della città e ci rimane fino alla morte
+
 ### Palazzo corner
 
-## Libreria Marciana
+1533, Venezia
 
-sostituisce procuratio vecchie con procuration nuove 
+iniziato nel 1533, situato sul canal grande, non lontano da Piazza San Marco
 
-parallele a fila già esistente
+facciata -> alternartsi ritmico di pieni e vuori
 
-abbellire campanile:
+piano a livello dell'acqua è rivestito di bugnato
 
-loggetta -> struttura di marmo con podio
+tre arcate grandi centrali che immettono in un ampio vestibolo
 
-balaustra
+finestre ai lati dell'ingresso -> stipiti ornati da coppie di colonne poggianti su mensole curvilinee
 
-vuoto alternato al pieno
+primo e secondo piano riprendono il motivo 
 
-colonne ioniche, doriche, statue marmoree
+due ordini di finestre in archi a tutto sesto separate da colonne binate e ornati da bassorilievi
+
+Cornicione a dentelli, oculi ovali dell'attico
+
+### Libreria Marciana e Loggetta, sistemazione di Piazza San Marco
+
+#### Piazza 
+
+Piazza San Marco Richiama i fori romani
+
+Procuratie -> case dei funzionari della repubblica
+
+lato destro abbattuto e ricostruito in asse parallelo  con il campanile e la basilica in posizione arretrata, ampliando la piazza
+
+loggetta -> struttura di marmo  coperta da una terrazza balaustrata e preceduta da podio balaustrato sovrastato da una trabeazione aggettante
+
+#### Libreria Marciana
+
+1536-1560
+
+sistema di logge che guida lo sguardo del visitatore verso la laguna 
+
+contiene ricca collezione di manoscritti donati alla serenissima
+
+predominanza dei vuoti sui pieni
+
+forti chiaroscuri, ricca decorazione
+
+primo ordine dorico e secondo ordine ionico
 
 profilo ti fa guardare alla laguna
 
-con palazzo ducale dietro crea la piazzetta
+con palazzo ducale dietro crea la piazzetta (piazza + piccola)
 
-##
+statue bianche marmoree si stagliano sul cielo 
+
+ambiente scenografico
+
+## Palladio
+
+Pietro della Gondola (1508-1580) detto Palladio
+
+architetto celeberrimo
+
+edifici armonici e proporzionati
+
+diventano modelli per integrazione tra struttura e ornamento, tra la forma e la funzione
+
+Padovano, figlio mugnaio
+
+s trasferisce sedicenne a vicenza
+
+Gian Giorgio Trissino lo impiega nella ristrutturazione villa
+
+gli da il nome "Palladio", dalla saggia Dea Pallade Atena
+
+gli fa studiare *De re aedificatoria* di Alberti
+
+e il *De architectura* di Vitruvio
+
+lo conduce a Roma per far osservare direttamente Bramante e Raffaello
+
+### Basilica di Vicenza
+
+1546 -> vince concorso per sistemazione palazzo comunale di Vicenza
+
+che ospitava botteghe medievali al piano terra e la Sala del Consiglio al piano superiore
+
+Palladio riveste edificio gotico con loggia classica in pietra grigia 
+
+ispirati a anfiteatri romani
+
+2 ordini  dorico↓ ionico↑
+
+trabeazione aggettante 
+
+semicolonne addossate ai pilastri
+
+serliana -> luminosità
+
+anche assicurata da oculi che si aprono nei pennacchi 
+
+### Rotonda
+
+versione moderna della *villa* rurale romana
+
+presso a Vicenza
+
+ispirata a classicità
+
+no impresa agricola, na nobile e solenne edificio
+
+cultura e interessi filosofici committente
+
+canonico Paolo Almerico Capra, rientrato a Vicenza dopo carriera alla corte papale
+
+
+
+Ispirata al Pantheon, Villa Adriana a Tivoli, Villa Madama
+
+
+
+cubo + sfera
+
+quadrato diviso in 16, cerchio al centro
+
+parte centrale pubblica, 4 appartamenti privati agli angoli
+
+sala rettangolare + stanza quadrata
+
+4 facciate con pronao simile pantheon, ma in stile ionico
+
+scalinate
+
+statue 
+
+
+
+cupola era stata pensata come ricoperta di piombo e emisferica, venne realizzata come cono ribassato
+
+visibile ai 4 lati
+
+
+
+per ogni pronao -> corridoio voltato a botte
+
+grande salone centrale
+
+4 stanze maggiori  e minori
+
+
+
+parte bassa realizzata subito -> spazi di servizio
+
+
+
+
+
+### I piani
+
+L’edificio è su **tre piani**, più un mezzanino: al pianterreno vi si accede dal giardino attraverso un passaggio voltato al di sotto delle gradinate esterne; i piani superiori si raggiungono tramite quattro **scale a chiocciola** ricavate negli angoli del quadrato in cui è inscritta la sala centrale, i quali servono da pilastri portanti per tutta l’altezza della villa.
+
+Il **pianterreno** era adibito ai locali di servizio, come la cucina ancora esistente. I soffitti sono bassi e scanditi da volte a crociera; lo spazio circolare al centro si trova esattamente in linea con la lanterna che corona la cupola: in questo punto preciso vi è il **mascherone** in pietra traforata, che mette in comunicazione il pianterreno con il piano nobile e che doveva servire da sistema di raffrescamento della Rotonda nei mesi estivi.
+
+Il **piano nobile** è il livello di rappresentanza dell’edificio, con alti soffitti decorati da affreschi e stucchi. Vi si accede dalle quattro gradinate dei pronai: le larghezze di queste, se prolungate attraverso il corpo principale, vanno a disegnare una **croce greca** all’interno della pianta quadrata, nel cui punto di intersezione si inscrive la sala rotonda centrale. Vi sono quattro sale d’angolo rettangolari e quattro camerini che comunicano con queste e portano alle scale a chiocciola; alla sala centrale, invece, si giunge dai quattro **corridoi**, di larghezza disuguale, che partono direttamente dagli ingressi delle logge.
+
+Le piccole scale a chiocciola interne servono anche un **mezzanino** composto da quattro stanzini posti sopra ai camerini del piano nobile, che prendono luce da piccole finestre al di sotto dei timpani. L’**attico**, originariamente senza suddivisioni interne e con funzioni di stoccaggio delle derrate agricole, venne riorganizzato durante l’intervento di Francesco Muttoni tra 1725-1740; è illuminato da sedici finestrelle nel sottotetto e si affaccia sulla sala centrale con una stretta balconata circolare.
+
+
+
+scrive nei suoi "*Quattro libri sull'architettura*"
+
+che vuole fare architettura come "scenario teatrale"
