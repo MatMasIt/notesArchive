@@ -104,3 +104,11 @@ p 95 paragrafo 4
 Dubbio -> strumento metodologico
 
 mette in discussione tutto il sapere
+
+
+
+Cartesio non come scettici -> il dubbio non come gli scettici che vogliono dimostrare che non esiste verità
+
+
+
+lui verità la trova
