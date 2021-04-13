@@ -1,10 +1,16 @@
-# Ripasso su SQL
+# Structured Query Language
 
-## Mattia Mascarello
+[TOC]
+
+## DKMR
+
+* Dehbi
+* Kocaj
+* Mascarello Roggero
 
 ## Introduzione
 
-Sql è un linguaggio utilizzato per comunicare con un server-database e fornirgli istruzioni per la manipolazione e l'estrapolamento di dati del database stesso
+*SQL* è un linguaggio utilizzato per comunicare con un server-database e fornirgli istruzioni per la manipolazione e l'estrapolazione di dati del database stesso
 
 Ecco una breve guida al linguaggio SQL
 
@@ -36,13 +42,13 @@ eta > 18 AND NOT precedentiPenali = TRUE
 
 ### Like
 
-il "%" in like indica un numero indefinito di caratteri prima della stringa che lo segue o dopo la stringa che lo precede
+il "%" in **LIKE** indica un numero indefinito di caratteri prima della stringa che lo segue o dopo la stringa che lo precede
 
 Ex.
 
 campo 1 in questo caso è "riconoscimento facciale"
 
-per ottenere un valore true nella condizione:
+per ottenere un valore *true* nella condizione:
 
 ```sqlite
 campo1 LIKE "%faccia%"
@@ -53,7 +59,7 @@ campo1 LIKE "riconosci%"
 
 ## Clausole
 
-### Create
+### CREATE
 
 ```sqlite
 CREATE TABLE "{Nome Tabella}" (
@@ -71,7 +77,7 @@ CREATE TABLE "{Nome Tabella}" (
 
 
 
-### Select
+### SELECT
 
 ```sqlite
 SELECT {elenco dei campi | *} FROM {Tabella} WHERE {CONDIZIONE} 
@@ -85,7 +91,7 @@ SELECT {Tabella.campo, Tabella2.campo2 | *} FROM {Tabella} JOIN Tabella2 ON Tabe
 SELECT {Tabella.campo, Tabella2.campo2 | *} WHERE {CONDIZIONE} LIMIT {numero di righe da restituire} OFFSET {righe da saltare nel risultato}
 ```
 
-### Insert
+### INSERT
 
 ```sqlite
 INSERT INTO {Tabella}({campo1, campo3}) VALUES ({valore1, valore3})
@@ -97,7 +103,7 @@ INSERT INTO {Tabella} VALUES ({valore1, valore2, valore3})
 
 
 
-### Update
+### UPDATE
 
 ```sqlite
 UPDATE {TABELLA} SET {campo}={valore}, {campo2}={valore2} WHERE {CONDIZIONE}
@@ -105,7 +111,7 @@ UPDATE {TABELLA} SET {campo}={valore}, {campo2}={valore2} WHERE {CONDIZIONE}
 
 
 
-### Delete
+### DELETE
 
 ```sqlite
 DELETE FROM {TABELLA} WHERE {CONDIZIONE}
