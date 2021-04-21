@@ -110,11 +110,12 @@ Vari partiti italiani partecipano alle elezioni
 \+ altri partiti liberali
 
 Assemblea costituente:
-|Nome Partito|Acronimo|Seggi|
-|----|----|----|----|
-|Democrazia Cristiana|DC|207  (35,2%)|
-|Partito Socialista Italiano|PSI|115|
-|Partito Comunista Italiano|PCI|104|
+
+| Nome Partito                | Acronimo | seggi        |
+|-----------------------------|----------|--------------|
+| Democrazia Cristiana        | DC       | 207 (35,2 %) |
+| Partito Socialista Italiano | PSI      | 115          |
+| Partito Comunista Italiano  | PCI      | 104          |
 
 Grande successo della Democrazia Cristiana, anche se i seggi di PSI + PCI superavano i seggi della DC
 
