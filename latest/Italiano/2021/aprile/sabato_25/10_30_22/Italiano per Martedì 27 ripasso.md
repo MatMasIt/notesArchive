@@ -2,6 +2,45 @@
 
 [TOC]
 
+||**Pena di Morte**|**Tortura**|
+|----|----|----|
+|**Contrattualismo**|Inaccettabile|Inaccettabile|
+|**Utilitarismo**|Inefficace|Inefficace|
+
+## Verri
+
+La tortura non è utile, se il delitto è certo allora ferisce un innocente, se il delitto è probabile si ferisce un innocente probabilmente, e spesso confessa non chi ha commesso il reato ma chi vuole terminare la sofferenza
+
+## Beccaria
+
+Beccaria aderisce a entrambe le categorie contestando la **pena di morte e la tortura**
+
+### Pena di morte
+
+#### Contrattualisticamente inaccettabile
+
+La pena di morte è contrattualisticamente inaccettabile siccome lo stato deve ottemperare al contratto sociale, preservando l'incolumità dell'individuo, considerate 2 eccezioni
+
+* la morte di un cittadino è necessaria se quel cittadino mette a rischio lo stato  stesso
+  	ex. Processo e condanna a morte per dittatori
+
+* se uccidendo questa persona si fermano altri dal commettere delitti 
+	ex. Adolf Hitler
+
+ #### Utilitaristicamente inefficace
+
+La pena di morte non è capace di frenare la tentazione dell'uomo a commettere delitti
+
+Verificato con studi negli stati uniti che lo stabilire pene capitali per reati genera solo una flessione temporanea e limitata del numero di delitti
+
+* non è il fatto di andare contro una pena atroce ma la certezza della pena il fattore principale per prevenire i delitti
+* l'ergastolo, che comporta la privazione della libertà per il resto della vita è una pena molto più atroce
+  Non è l'intensità stessa della pena ma l'estensione a concorrere maggiormente e a interagire nella psiche del pubblico
+
+Alla luce dell'utilitarismo occorre condannare qualcuno per evitare che ci siano conseguenze peggiori per la società
+
+La condanna non viene applicata "per ristabilire l'ordine della società", ma per fare in modo che nella società stessa si viva il meglio possibile
+
 ## Goldoni (Venezia, 25 febbraio 1707 – Parigi, 6 febbraio 1793)
 
 ### Biografia
@@ -246,7 +285,449 @@ Il Cavaliere si lancia ugualmente contro l'avversario, quando sulla scena irromp
 
 
 
-> Aggiungere: 
+## Vittorio Alfieri (Asti, 16 gennaio 1749 – Firenze, 8 ottobre 1803)
+
+> Progress Tracker
 >
-> * Analisi testi
-> * Alfieri
+> 444-450 vita :white_check_mark:
+> 455-457 Gli scritti politici :white_check_mark:
+> 463-464 Le Satire e il Misogallo :white_check_mark:
+> 479 trama del Saul :white_check_mark:
+> 474-477 Le tragedie :white_check_mark:
+
+### Introduzione
+
+Si forma a partire dal pensiero illuminista, ma non ha una fede incrollabile nella ragione, esalta passioni e sentimenti come componenti essenziali dell'essere umano.
+
+L'autore spesso vuole parlare e scrivere continuamente di sé.
+
+***Vita***, autobiografia iniziata nel 1790 e conclusa pochi mesi prima della morte
+Ritratto ideale ma utile
+
+#### Famiglia e la prima educazione
+
+Nasce ad Asti nel 1749, suo padre muore di polmonite quaNdo ha un anno e sua madre si sposa per la terza volta.
+
+Alfieri viene affidato a Don Ivaldi, precettore "ignorantuccio"
+
+**Indole malinconica e solitaria**
+
+Nel 1758 trasferito alla Reale Accademia di Torino, istituzione per la formazione della gioventù nobile, tradizioni militari
+
+Scelta del tutore e zio Pellegrino Alfieri, governatore di Cuneo
+
+Alfieri di distacca dalla madre per vivere a Torino
+
+#### Adolescenza
+
+A nove anni in accademia, luogo privo di calore umano e stimoli culturali
+
+consapevolezza di leggere poco e senza metodo
+
+Solo grazie allo zio Benedetto Alfieri reisce ad accedere all'italiano
+
+Alfieri si esprime in piemontese e Francese, ma vuole imparare l'italiano
+
+Assiste a uno spettacolo musicale e rimane stupefatto
+
+
+
+#### I viaggi
+
+Dal 1766 al 1772 Alfieri compre un grand tour europeo
+
+Spostamenti frenetici
+
+Alfieri prende atto delle condizioni politiche e sociali europee, al tempo delle monarchie assolute, che gli appaiono come tirannidi terribili
+
+Il sistema di governo inglese lo affascina
+
+
+
+#### Ritorno a Torino
+
+Ritorna a Torino nel 1772, abile corteggiatore
+
+Quattro donne (sposate) hanno influenzato la sua esistenza
+
+**Cristina Imhof**, un anno di autentica felicità
+
+1771 **Penelope Pitt**
+
+11773-1775 **Gabriella Falletti di Villafalletto**
+
+Ma la donna veramente amata:
+
+**Luisa Stolberg**, contessa d'Albany
+
+non la sposerà, ma lei **gli resterà accanto fino alla morte**
+
+#### Diventare «autor tragico»
+
+1775 va in scena La *Cleopatra*
+
+Prima di ciò:
+
+Si accorge della mancanza di strumenti linguistici adeguati 
+
+Approfondisce con impegno le opere letterarie italiane, e riprende lo studio del latino
+
+Si reca in toscana per migliorare la sua capacità di fare versi e rendere omaggio alle tombe dei grandi scrittori, per visitare gli amici e far conoscere i suoi componimenti
+
+Legge Dante, Petrarca, Aristo, Tasso
+
+Scrive tragedie
+
+#### A Parigi 
+
+Si trasferisce a Parigi nel 1788, frequenta il  salotto promosso da Luisa Stolberg
+
+Prima celebra la rivoluzione ma poi si ricrede vedendo gli eccessi sanguinari
+
+Nel 1792 fugge da Parigi
+
+Sentimento antifrancese
+
+Studia e scrive
+
+Autodidatta allo studio di greco e ebraico
+
+
+
+Muore l'8 ottobre 1803, seppellitto a Santa Croce
+
+Alcune opere inedite pubblicate dall'editore fiorentino *Piazzi*
+
+### La *Vita scritta da esso*
+
+Autobiografia
+
+opera suddivisa in due parti e quattro sezioni
+
+#### Sezioni
+
+* Puerizia
+* Adolescenza
+* Giovinezza
+* Virilità
+
+Alfieri non fa una dichiarazione di modestia, ma disegna una immagine ideale di sé
+
+Descrive il percorso poetico, la sua esperienza di formazione culturale
+
+ 
+
+Scontro tra il sentire del poeta e l'epoca gretta in cui vive
+
+#### Eroe
+
+Alfieri è un **eroe tragico**, con **grandi ideali**
+
+Libertario, per esempio
+
+contrasto con la realtà che lo ceirconta:
+
+Isolamento, amarezza, solitudine -> preponderanti nella parte seconda
+
+Resoconto di drammatiche vicende storiche
+
+atteggiamento pieno di disprezzo, si contrappone a quegli eventi (esempio: rivoluzione Francese)
+
+#### Altri temi:
+
+
+viaggio e amore
+
+Passionalità estrema, emozioni profonde, inquietudine dell'animo
+
+#### Stile
+
+Toni diversi:
+
+ironia, patetico, satirico
+
+
+
+neologismi con finalità ironiche o sarcastiche
+
+
+
+#### Il secondo viaggio in Europa (t1)
+
+*1769-1770, all'età di 20 anni alfieri lascia l'Italia e percorre numerosi paesi europei (Europa centro-settentrionale).*
+*Il testo, scritto a distanza di molto tempo, testimonia il fascino della maestosa natura scandinava e il forte sentimento antitirannico dell'autore*
+
+Paesaggio aspro, incontaminato, selvaggio , in sintonia conm la sua disposizione interiore
+
+Insofferenza per il dispotismo prussiano (controlli documenti continui)
+
+Non aveva la poesia per trasformare quella ispirazione
+
+Fuggire con inquietudine dal mondo civile, irrequietezza
+
+riflessione sulle forme di governo
+
+maledice le persone asservite ai tiranni
+
+ ### Gli scritti politici e il pensiero
+
+Passione per la letteratura 
+Volontà di conoscere per poter pensare
+In un primo momento si dedica alle opere degli illuministi francesi, da Russeau a Montesquieu, da Voltaire a Hélvetius
+
+scelte autonome di libero pensatore
+
+####  Alfieri e il pensiero illuminista
+
+|                             | Illuministi                                                  | Alfieri                                                      |
+| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| La ragione                  | Esaltata, strumento di conoscenza, principio ordinatore della realtà | rifiuta il razionalismo, esalta la dimensione irrazionale e la libera creatività individuale |
+| Il progresso                | Progresso scientifico ed economico è un fattore di benessere e felicità per tutti gli uomini | Sfiducia nel progresso, che fa arricchire solo la borghesia  |
+| I classici                  | Esempi di saggezza                                           | Ideali di rifugio per uno spirito nobile                     |
+| La cultura                  | Il progresso è sostenuto e favorito dalla divulgazione del sapere | la cultura è uno strumento di crescita intellettuale e morale, espressione di un alto sentire individuale |
+| La libertà                  | Principio politico da affermare abolendo la monarchia e instaurando una repubblica | valore supremo ma legato dalla realtà storica. La rivoluzione francese ha comportato solo una nuova forma di sudditanza |
+| Il ruolo dell'intellettuale | deve impegnarsi per migliorare la società e collaborare con i sovrani illuminati | considera la collaborazione con il potere come una forma di asservimento |
+
+Intolleranza per chi non condivide la sua concezione aristocratica della vita, non condivide l'idea illuminista di uguaglianza tra tutti gli uomini
+
+Spirito **antitirannico** e **antimilitarista**, ma non concepisce modelli concreti di governo
+
+**La libertà del grand'uomo, riservata alla aristocrazia dello spirito**
+
+Il nemico  è dentro di lui; la tirannide è la forza oscura che lo opprime e sa che non è destinato a vincere ma lotta comunque, si sente come i **Titani**
+
+Desiderio di oltrepassare i propri limiti, nonostante la certezza del fallimento
+
+Distacco incolmabile tra ideali e realtà
+Desiderio di morte, autodistruzione, termine della schiavitù delle passioni
+
+#### Scritti politici
+
+* Della Tirannide
+* Del principe e delle lettere
+
+### Le Satire 
+
+Scrittura satirica, diciassette satire in terzine di endecasillabi, che si ricollegano ai classici latini
+
+Ispirazione:
+
+* Orazio: invettiva, irrisione e la varietà dei temi
+* Giovenale: aggressività e asprezza delle denunce
+* esperienza della satira in volgare di Ariosto
+* satira antinobiliare di Parini
+
+Scrittura irosa e indignata
+
+disinganno e irritazione, lessico aspro, sintassi articolata
+
+Critica delle azioni, odio nei confronti dei vizi piuttosto che delle persone
+
+Bersagli:
+
+* La monarchia assoluta
+* gli aristocratici
+* il popolo feroce e indeciso
+* poca generosità dei critici letterari nei confronti delle sue tragedie
+* la pratica del duello
+* economia imperialista inglese e irlandese (Alfieri si interessa di culture fuori dall'europa)
+* debiti degli stgati
+* nazioni militarizzate
+* ,massonerie
+* false filosofie
+
+Critica mancato rispetto delle leggi in Italia, negligenza dei nobili nell'educare i figli (e lui lo sa), critica Voltaire per non sapere riconoscere i grandi principi morali delle religioni
+
+L'autore non risparmia se stesso, criticando l'ozio giovanile dei suoi viaggi
+
+Rovescia una satira misogina di Giovenale
+
+### Il Misogallo
+
+Alfieri è testimone diretto della rivoluzione francese
+
+Vede le esecuzioni pubbliche degli aristocratici e prova orrore
+
+nel 1792 abbandona la Francia
+
+sovversivi bramosi di ricchezze
+
+"Repubblica di carta fondata sul sangue"
+
+Sentimento antifrancese
+
+Misogallo: raccolta di testi, opera drammatica e satirica
+
+prosimetro: prosa + versi
+
+Disprezzo contro la Francia, accusa di superbia
+
+Odio verso la francai come base dell'esistenza politica dell'Italia
+
+In poeta auspica una nazione libera e unita politicamente
+
+### Le Commedie
+
+superati i 50 anni, pubblicate postume
+
+Modelli:
+
+* Aristofane
+* Plauto e Terenzio
+
+#### Politico-storica
+
+prime quarto compose in venti atti
+
+sistemi politici, forma di governo migliore
+
+critica agli aristocratici
+
+Crisi democrazia ateniese
+
+soluzione: modello inglese
+
+
+
+#### Di costume
+
+*Il divorzio*
+
+trame e intrighi tra aristocratici per matrimoni di interesse
+
+### Le Rime
+
+Progetto secondario, raccolta complessiva
+
+intreccio di riflessioni su se stesso, conflitto con realtà esterna
+
+letterato-eroe
+
+### Le Tragedie
+
+ventuno tragedie create sotto ispirazione
+
+Compito intellettuale e morale di diventare attore tragico
+
+ignoranza delle regole dell'arte tragica, poca pratica nell'usare la lingua italiana
+
+Ideali rappresentati sulla scena
+
+Rifiuta il confronto con il grande pubblico
+
+Alfieri vorrebbe un teatro come istituzione fissa, con fondi pubblici
+
+vuole essere celebrato come il rinnovatore
+
+
+
+ripetitività, poca verosomiglianza, stile aspro e scuro, drammatico
+
+conciliare rigore e passionalità, tradizione e innovazione
+
+
+
+ideazione -> scrittura -> versificazione
+
+pochi personaggi
+
+rispetta unità di azione Aristotele
+
+
+
+tragedia
+
+stile tragico energetico e antilirico 
+
+periodi frammentati
+
+lessico alto, arcaico
+
+spazio astratto, tempo londano
+
+
+
+contrasti universali
+
+
+
+base -> tiranno, tirannide
+
+poi temi personali
+
+infine dimensione etica e psicologica
+
+#### Schema
+
+* Finalità: educativa; ispirare nel pubblico l'amore per la libertà
+* Destinazione: ambienti privati, pubblico selezionato
+* Composizione: Tre fasi (respiri):
+  * Ideare
+  * stendere
+  * verseggiare
+* Intrecci:
+  * Rispetto unità aristoteliche di azione, tempo e luogo
+  * argomenti tratti dal mito, dalla storia, dalla Bibbia
+* Stile alto ed energetico, lessico lontano dal parlato, sintassi spezzata e ricca di iperboli
+* Metrica: quasi sempre endecasillabi sciolti, enjambement frequenti
+* Temi
+  * Conflitto tra libertà e tirannide
+  * Conflitto interiore dell'uomo con le forze oscure che agitano il suo animo
+
+### Il Saul
+
+Ispirazione bibbia
+
+Sault -> personaggio tragico ma molto umano
+
+opera composta freneticamente nel 1782
+
+Unica tragedia alfieriana di argomento Biblico
+
+forza poetica intrinseca del racconto
+
+#### La trama
+
+Saul è un guerriero valoroso, consacrato primo re di Israele dal sommo sacerdote Samuele.
+Samuele ordina di sterminare i nemici filistei ma Saul contravviene all'ordine.
+Samuele proclama segretamente David re, sposo di Micol, figlia di Saul,
+Saul ha sensi di colpa per la disobbedienza, sente crescere l'invidia nei confronti di David e prima tenta di ucciderlo, poi lo allontana dal regno
+
+Racconto biblico; David torna nel campo degli israeliti alla vigilia della battaglia decisiva contro i Filistei, desideroso di combattere per dimostrare la fedeltà al re,
+Dopo essersi riconciliato con lui, Saul affida a David l'esercito per combattere con Gionata, suo fedele amico.
+Saul sospetta congiura e costringe David a fuggire e accusa di infedeltà Achimelech, sacerdote che lo protegge
+Saul, ormai sconvolto da violente allucinazioni si uccide per non cadere in mani nemiche
+
+5 atti, lotta tra tirannide e libertà
+
+consapevolezza di essere sconfitto dagli eventi
+
+dramma interiore
+
+vanitl della resistenza
+
+la forza divina grava inesorabile sul destino umano
+
+#### t5 I rimpianti di Saul
+
+Saul dialoga con il cugino Abner, generale dell'esercito, ricordando i felici tempi del passato
+Si rammarica di aver allontanato David
+
+
+
+#### Il delirio di Saul
+
+Soppiamento della personalitò deamma mentale sensi di colpa
+
+Saul è solo, suicidio eroico, affermazione duorema della libertà
+
+ritmo faticoso
+
+suoni duri
+
+sintassi lenta 
+
+monologo 
+
+ultima esplosione delle passioni
+
