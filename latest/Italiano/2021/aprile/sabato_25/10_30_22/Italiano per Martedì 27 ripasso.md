@@ -306,7 +306,7 @@ Ritratto ideale ma utile
 
 #### Famiglia e la prima educazione
 
-Nasce ad Asti nel 1749, suo padre muore di polmonite quaNdo ha un anno e sua madre si sposa per la terza volta.
+Nasce ad Asti nel 1749, suo padre muore di polmonite quando ha un anno e sua madre si sposa per la terza volta.
 
 Alfieri viene affidato a Don Ivaldi, precettore "ignorantuccio"
 
