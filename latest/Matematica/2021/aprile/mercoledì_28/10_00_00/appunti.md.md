@@ -25,7 +25,7 @@ $$
 t^2+2t+1=0\\
 (t-1)^2=0\\
 t_{1}=t_{2}=1\\
-\
+\forallt,(\sqrt{2}-1)^x=1 \rightarrow
 $$
 
 
@@ -35,9 +35,11 @@ $$
 $$
 ### es 18
 $$
-\logx=\sqrt{\frac{1}{5}=-1\\
-
+\log x=\sqrt{\frac{1}{5}}=-1\\
+x^{-1}=5?{-\frac{1}{2}}\\
+x^{-1}=(\sqrt{5})^{-1}\\
+z=\sqrt{5}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODM1MzkzNywtMTA3MDUzNTI0MF19
+eyJoaXN0b3J5IjpbLTkzOTYyMjUyOCwtMTA3MDUzNTI0MF19
 -->
