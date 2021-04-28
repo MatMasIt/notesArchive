@@ -9,7 +9,10 @@ $$
 (\sqrt{2}+1)\frac{(\sqrt{2}-1)}{(\sqrt{2}-1)}=\frac{2-1}{(\sqrt{2}-1)}\\
 \frac{1}{\sqrt{2}-1}
 $$
-
+Risolvo
+$$
+(\sqrt{2}-1)^x+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDI5NzE4MywtMTA3MDUzNTI0MF19
+eyJoaXN0b3J5IjpbMTE2NDcxMTA3NSwtMTA3MDUzNTI0MF19
 -->
