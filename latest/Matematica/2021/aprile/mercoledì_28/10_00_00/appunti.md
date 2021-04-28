@@ -142,13 +142,17 @@ Regola segni
 $$
 F1\gg 0 
 \\x \gg 4\\
-\\
+\\---\\
 F2 \gg 0\\
 z \gg 1\\
-F3
+---\\
+F3 \gg 0\\
+x \gg -1 \\
 $$
-
+|||-4||-1||1||
+|---|---|---|--
+|F1|-||+||+||+|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2OTA2Mjc3LDE2MDMyNzQ0NjAsOTEyNj
-c2ODMxXX0=
+eyJoaXN0b3J5IjpbLTE2NDIwNjM1OSwxNjAzMjc0NDYwLDkxMj
+Y3NjgzMV19
 -->
