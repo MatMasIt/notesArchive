@@ -34,7 +34,7 @@ Regola dei segni
 |---|---|---|
 |+||+|
 |+||+|
-|---||---|
+|###|###|###|
 |+||+
 $$
 \leq 0?\\
@@ -152,9 +152,12 @@ $$
 |  | | -4|   |-1|  |1||
 |--|--|--|---|---|--|--|--|
 |F1|-|   |+| |+| |+|
-|F2
+|F2|-| |-| |-|  |+|
+|F3|-| |-| |+| |+|
+|###|###|###|###|###|###|###|###|
+|    |-| |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzU0ODUxMCwxNjAzMjc0NDYwLDkxMj
+eyJoaXN0b3J5IjpbMTAwMTk2OTAzMywxNjAzMjc0NDYwLDkxMj
 Y3NjgzMV19
 -->
