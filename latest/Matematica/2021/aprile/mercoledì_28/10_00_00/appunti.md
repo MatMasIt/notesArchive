@@ -155,9 +155,11 @@ $$
 |F2|-| |-| |-|  |+|
 |F3|-| |-| |+| |+|
 |###|###|###|###|###|###|###|###|
-|    |-| |
-
+|    |-| |(+)|  |-  ||(+)||
+$$
+-4 \llx \ll -1
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTk2OTAzMywxNjAzMjc0NDYwLDkxMj
+eyJoaXN0b3J5IjpbMTg4NjE1Mzg1NywxNjAzMjc0NDYwLDkxMj
 Y3NjgzMV19
 -->
