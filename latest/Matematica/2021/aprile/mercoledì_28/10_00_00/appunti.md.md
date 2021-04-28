@@ -118,7 +118,11 @@ $$
 $$
 y=\log_{a}x
 $$
-
+funzione inversa:
+$$
+y=a^x
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1NzU0NzMsLTEwNzA1MzUyNDBdfQ==
+eyJoaXN0b3J5IjpbLTE4MjczNzAxNzQsMzU1NzU0NzMsLTEwNz
+A1MzUyNDBdfQ==
 -->
