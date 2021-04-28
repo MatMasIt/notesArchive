@@ -1,6 +1,8 @@
 # Lezione di Matematica (3° ora)
 
 ## mercoledì 28 aprile 2021, 10:00:00
+
+## Esercizi
 $$
 (\sqrt{2}-1)^x+(\sqrt{2}+1)\leq 2\\
 $$
@@ -86,7 +88,14 @@ $$
 $$
 \log_{a}(\frac{b}{c})=\log_{a}b-\log_{a}c
 $$
-##
+### Logaritmo di una potenza
+$$
+\log_{a}(b^c)=c\log_{a}b
+$$
+### Cambiamento di base
+$$
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDI4MDY2NywtMTA3MDUzNTI0MF19
+eyJoaXN0b3J5IjpbLTc4NTMzOTU2NywtMTA3MDUzNTI0MF19
 -->
