@@ -125,9 +125,10 @@ $$
 
 
 $$
-y=a^x, a\gqì
+y=a^x, a\gg 1
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg2ODY2NjAsMzU1NzU0NzMsLTEwNz
-A1MzUyNDBdfQ==
+eyJoaXN0b3J5IjpbMjE3OTY4NzksMzU1NzU0NzMsLTEwNzA1Mz
+UyNDBdfQ==
 -->
