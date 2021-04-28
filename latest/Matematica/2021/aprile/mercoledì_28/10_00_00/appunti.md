@@ -128,6 +128,11 @@ $$
 y=a^x, a\gg 1
 $$
 grafici sul quaderno
+
+Dominio
+$$
+y=\ln (x^3+4x^x-x-4)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5NTQ2ODE5XX0=
+eyJoaXN0b3J5IjpbLTIxMTIyMjAzMV19
 -->
