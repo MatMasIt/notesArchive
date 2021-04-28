@@ -133,6 +133,7 @@ Dominio
 $$
 y=\ln (x^3+4x^x-x-4)
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTIyMjAzMV19
+eyJoaXN0b3J5IjpbOTEyNjc2ODMxXX0=
 -->
