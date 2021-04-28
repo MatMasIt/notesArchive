@@ -157,9 +157,9 @@ $$
 |###|###|###|###|###|###|###|###|
 |    |-| |(+)|  |-  ||(+)||
 $$
--4 \llx \ll -1
+-4 \ll x \ll -1 \vee x \gg 1
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjE1Mzg1NywxNjAzMjc0NDYwLDkxMj
-Y3NjgzMV19
+eyJoaXN0b3J5IjpbODM2NzcyOTgyLDE2MDMyNzQ0NjAsOTEyNj
+c2ODMxXX0=
 -->
