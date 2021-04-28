@@ -94,8 +94,9 @@ $$
 $$
 ### Cambiamento di base
 $$
-
+\log_{a}b=\frac{\log_{c}b}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTMzOTU2NywtMTA3MDUzNTI0MF19
+eyJoaXN0b3J5IjpbLTE1MzI3ODI0MzIsLTEwNzA1MzUyNDBdfQ
+==
 -->
