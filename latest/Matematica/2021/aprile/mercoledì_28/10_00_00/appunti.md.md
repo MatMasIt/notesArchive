@@ -25,9 +25,15 @@ $$
 t^2+2t+1=0\\
 (t-1)^2=0\\
 t_{1}=t_{2}=1\\
-\forallt,(\sqrt{2}-1)^x=1 \rightarrow
+\forall t,(\sqrt{2}-1)^x=1 \rightarrow x=0
 $$
-
+Regola dei segni
+|@|0|@|
+|---|---|---|
+|+||+|
+|+||+|
+|---||---|
+|+||+
 
 ## Logaritmi
 $$
@@ -41,5 +47,5 @@ x^{-1}=(\sqrt{5})^{-1}\\
 z=\sqrt{5}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTYyMjUyOCwtMTA3MDUzNTI0MF19
+eyJoaXN0b3J5IjpbNTIzOTA0NTkyLC0xMDcwNTM1MjQwXX0=
 -->
