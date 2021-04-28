@@ -127,8 +127,8 @@ $$
 $$
 y=a^x, a\gg 1
 $$
-
+grafici sul quaderno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3OTY4NzksMzU1NzU0NzMsLTEwNzA1Mz
-UyNDBdfQ==
+eyJoaXN0b3J5IjpbNjE5NTQ2ODE5LDM1NTc1NDczLC0xMDcwNT
+M1MjQwXX0=
 -->
