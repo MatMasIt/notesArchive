@@ -11,8 +11,9 @@ $$
 $$
 Risolvo
 $$
-(\sqrt{2}-1)^x+
+(\sqrt{2}-1)^x+\frac{1}{(\sqrt{2}-1)^x}-2\leq0\\
+\frac{(\sqrt{2}-1)^{2x}-2(\sqrt{2}-1)^x+1}{(\sqrt{2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDcxMTA3NSwtMTA3MDUzNTI0MF19
+eyJoaXN0b3J5IjpbNDMxNTg5NjU2LC0xMDcwNTM1MjQwXX0=
 -->
