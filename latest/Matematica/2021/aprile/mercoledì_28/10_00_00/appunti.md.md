@@ -6,8 +6,8 @@ $$
 $$
 Razionalizzo
 $$
-(\
+(\sqrt{2}+1)\frac{(\sqrt{2}-1)}{(\sqrt{2}-1)}=\frac{2-1}{(\s
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQxMjkwNDddfQ==
+eyJoaXN0b3J5IjpbLTkyMDEwMzkwMV19
 -->
