@@ -12,8 +12,13 @@ $$
 Risolvo
 $$
 (\sqrt{2}-1)^x+\frac{1}{(\sqrt{2}-1)^x}-2\leq0\\
-\frac{(\sqrt{2}-1)^{2x}-2(\sqrt{2}-1)^x+1}{(\sqrt{2}
+\frac{(\sqrt{2}-1)^{2x}-2(\sqrt{2}-1)^x+1}{(\sqrt{2}-1)^x}
+$$
+Regola dei segni
+$$
+N\geq0\\
+(\sqrt{2}-1)^{2x}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxNTg5NjU2LC0xMDcwNTM1MjQwXX0=
+eyJoaXN0b3J5IjpbMTgwMjU0ODY2MiwtMTA3MDUzNTI0MF19
 -->
