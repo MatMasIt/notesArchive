@@ -56,8 +56,14 @@ semplifica senza calcolatrice
 
 $$
 a=\log_{b}c\\
-b^a
+b^a=c\\
+b^{\log_{b}c}=c
+$$
+
+$$
+2^x=5\\
+2^{log_{2}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA0NjA0NTYsLTEwNzA1MzUyNDBdfQ
-==
+eyJoaXN0b3J5IjpbMTIyNDYwNzk4OCwtMTA3MDUzNTI0MF19
 -->
