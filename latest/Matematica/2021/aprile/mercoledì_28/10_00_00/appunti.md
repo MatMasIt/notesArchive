@@ -149,10 +149,11 @@ z \gg 1\\
 F3 \gg 0\\
 x \gg -1 \\
 $$
-|||-4||-1||1||
-|---|---|---|--
-|F1|-||+||+||+|
+|  |  | |
+|--|--|
+|F1|-|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDIwNjM1OSwxNjAzMjc0NDYwLDkxMj
-Y3NjgzMV19
+eyJoaXN0b3J5IjpbLTIxNDY2NDY0MzksMTYwMzI3NDQ2MCw5MT
+I2NzY4MzFdfQ==
 -->
