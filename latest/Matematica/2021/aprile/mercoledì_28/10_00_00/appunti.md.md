@@ -17,8 +17,10 @@ $$
 Regola dei segni
 $$
 N\geq0\\
-(\sqrt{2}-1)^{2x}
+(\sqrt{2}-1)^{2x}-2(\sqrt{2}-1)^x\geq0\\
+t=(\sqrt
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjU0ODY2MiwtMTA3MDUzNTI0MF19
+eyJoaXN0b3J5IjpbLTI0NDkxNzI5NiwtMTA3MDUzNTI0MF19
 -->
