@@ -107,11 +107,13 @@ Esercizi
 $$
 \ln e^{12x}=12x\ln e
 $$
-
 $$
 10^{\log{\sqrt{x}}}=\sqrt{x}
 $$
+$$
+6^{2	\log_{6}3}=6^{\log_{6}3^2}=9
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzY5ODg3NTcsLTEwNzA1MzUyNDBdfQ
-==
+eyJoaXN0b3J5IjpbLTYyNTU0ODg4OCwtMTA3MDUzNTI0MF19
 -->
