@@ -122,7 +122,12 @@ funzione inversa:
 $$
 y=a^x
 $$
+
+
+$$
+y=a^x, a\gqì
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjczNzAxNzQsMzU1NzU0NzMsLTEwNz
+eyJoaXN0b3J5IjpbLTE2Mjg2ODY2NjAsMzU1NzU0NzMsLTEwNz
 A1MzUyNDBdfQ==
 -->
