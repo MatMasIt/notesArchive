@@ -2,9 +2,12 @@
 
 ## mercoledì 28 aprile 2021, 10:00:00
 $$
-(\sqrt{2}-1)^x+(\sqrt{2
+(\sqrt{2}-1)^x+(\sqrt{2}+1)\leq 2\\
 $$
-
+Razionalizzo
+$$
+(\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjIyNjkzNzFdfQ==
+eyJoaXN0b3J5IjpbLTIwNzQxMjkwNDddfQ==
 -->
