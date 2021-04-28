@@ -98,8 +98,11 @@ $$
 $$
 Esempio:
 $$
-\log_{2}5=\frac{\log_{5}5}{\log_{5}2}=\frac{1}{log_{
+\log_{2}5=\frac{\log_{5}5}{\log_{5}2}=\frac{1}{log_{5}2}
 $$
+Il risultato è uguale al reciproco del logaritmo inziale, con  base ae argomento invertiti (in questo esempio)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjY4MzM4OCwtMTA3MDUzNTI0MF19
+eyJoaXN0b3J5IjpbLTk4ODQyNTc2MCwtMTA3MDUzNTI0MF19
 -->
