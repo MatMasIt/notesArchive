@@ -80,8 +80,13 @@ $$
 ## Proprietà dei logaritmi, p 49
 ### Logaritmo di un prodotto
 $$
-log_{a}(b\cdot c)=log_
+log_{a}(b\cdot c)=\log_{a}b+\log_{a}c
 $$
+### Logaritmo di un quoziente
+$$
+\log_{a}(\frac{b}{c})=\log_{a}b-\log_{a}c
+$$
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDc3MTE5MiwtMTA3MDUzNTI0MF19
+eyJoaXN0b3J5IjpbMTE0NDI4MDY2NywtMTA3MDUzNTI0MF19
 -->
