@@ -2,9 +2,9 @@
 
 ## mercoledì 28 aprile 2021, 10:00:00
 $$
-\(\sqrt
+(\sqrt{2}-1)^x+(\sqrt{2
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDY4Mzk1MF19
+eyJoaXN0b3J5IjpbLTEwMjIyNjkzNzFdfQ==
 -->
