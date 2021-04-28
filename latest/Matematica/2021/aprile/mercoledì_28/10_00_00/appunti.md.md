@@ -102,7 +102,16 @@ $$
 $$
 Il risultato è uguale al reciproco del logaritmo inziale, con  base ae argomento invertiti (in questo esempio)
 
+Esercizi
 
+$$
+\ln e^{12x}=12x\ln e
+$$
+
+$$
+10^{\log{\sqrt{x}}}=\sqrt{x}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODQyNTc2MCwtMTA3MDUzNTI0MF19
+eyJoaXN0b3J5IjpbLTEzNzY5ODg3NTcsLTEwNzA1MzUyNDBdfQ
+==
 -->
