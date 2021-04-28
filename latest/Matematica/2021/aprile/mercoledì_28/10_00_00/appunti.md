@@ -131,9 +131,10 @@ grafici sul quaderno
 
 Dominio
 $$
-y=\ln (x^3+4x^x-x-4)
+y=\ln (x^3+4x^x-x-4)\\
+D \rightarrow x^3+4x^2-x-4\gg0
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyNjc2ODMxXX0=
+eyJoaXN0b3J5IjpbMTYwMzI3NDQ2MCw5MTI2NzY4MzFdfQ==
 -->
