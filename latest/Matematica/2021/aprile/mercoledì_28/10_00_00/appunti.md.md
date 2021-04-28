@@ -28,7 +28,7 @@ t_{1}=t_{2}=1\\
 \forall t,(\sqrt{2}-1)^x=1 \rightarrow x=0
 $$
 Regola dei segni
-|@|0|@|
+||0||
 |---|---|---|
 |+||+|
 |+||+|
@@ -46,6 +46,18 @@ x^{-1}=5?{-\frac{1}{2}}\\
 x^{-1}=(\sqrt{5})^{-1}\\
 z=\sqrt{5}
 $$
+
+$$
+\log_{100}x=-2\\
+x=100^{-2}=100
+$$
+
+semplifica senza calcolatrice
+
+$$
+a=\log_{b}c\\
+b^a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzOTA0NTkyLC0xMDcwNTM1MjQwXX0=
+eyJoaXN0b3J5IjpbLTE3MTA0NjA0NTYsLTEwNzA1MzUyNDBdfQ
+==
 -->
