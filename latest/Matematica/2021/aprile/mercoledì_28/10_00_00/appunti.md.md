@@ -113,7 +113,12 @@ $$
 $$
 6^{2	\log_{6}3}=6^{\log_{6}3^2}=9
 $$
+## La funzione logaritmica
+
+$$
+y=\log_{a}x
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTU0ODg4OCwtMTA3MDUzNTI0MF19
+eyJoaXN0b3J5IjpbMzU1NzU0NzMsLTEwNzA1MzUyNDBdfQ==
 -->
