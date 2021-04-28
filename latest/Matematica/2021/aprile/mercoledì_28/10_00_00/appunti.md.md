@@ -31,9 +31,13 @@ $$
 
 ## Logaritmi
 $$
-\log_{\frac{2}{3}}\sqrt{\frac{9}{4}}=log_{\frac{2}{3}}
+\log_{\frac{2}{3}}\sqrt{\frac{9}{4}}=log_{\frac{2}{3}}(\frac{2}{3})^{-\frac{2}{3}}=-\frac{2}{3}
+$$
+### es 18
+$$
+\logx=\sqrt{\frac{1}{5}=-1\\
+
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk4MTE3MTcsLTEwNzA1MzUyNDBdfQ
-==
+eyJoaXN0b3J5IjpbLTIxODM1MzkzNywtMTA3MDUzNTI0MF19
 -->
