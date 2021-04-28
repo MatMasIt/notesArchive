@@ -73,8 +73,15 @@ $$
 
 es 26 p 66
 $$
-8^{log_{8}7}=7
-e^{\l
+8^{\log_{8}7}=7\\
+e^{\ln12}=12
+$$
+
+## Proprietà dei logaritmi, p 49
+### Logaritmo di un prodotto
+$$
+log_{a}(b\cdot c)=log_
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0Njg2ODkwLC0xMDcwNTM1MjQwXX0=
+eyJoaXN0b3J5IjpbLTY0NDc3MTE5MiwtMTA3MDUzNTI0MF19
 -->
