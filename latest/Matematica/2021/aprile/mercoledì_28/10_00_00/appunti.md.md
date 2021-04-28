@@ -94,9 +94,12 @@ $$
 $$
 ### Cambiamento di base
 $$
-\log_{a}b=\frac{\log_{c}b}
+\log_{a}b=\frac{\log_{c} b}{\log_{c}a}
+$$
+Esempio:
+$$
+\log_{2}5=\frac{\log_{5}5}{\log_{5}2}=\frac{1}{log_{
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI3ODI0MzIsLTEwNzA1MzUyNDBdfQ
-==
+eyJoaXN0b3J5IjpbLTYzNjY4MzM4OCwtMTA3MDUzNTI0MF19
 -->
