@@ -34,6 +34,10 @@ Regola dei segni
 |+||+|
 |---||---|
 |+||+
+$$
+\leq 0?\\
+x=0
+$$
 
 ## Logaritmi
 $$
@@ -62,8 +66,15 @@ $$
 
 $$
 2^x=5\\
-2^{log_{2}
+2^{\log_{2}5}=5\\
+s=\log_{2}5
 $$
+**proprietà molto importante!**
+
+es 26 p 66
+$$
+8^{log_{8}7}=7
+e^{\l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDYwNzk4OCwtMTA3MDUzNTI0MF19
+eyJoaXN0b3J5IjpbNzk0Njg2ODkwLC0xMDcwNTM1MjQwXX0=
 -->
