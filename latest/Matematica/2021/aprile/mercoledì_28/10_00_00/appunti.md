@@ -135,10 +135,20 @@ y=\ln (x^3+4x^x-x-4)\\
 D \rightarrow x^3+4x^2-x-4\gg0\\
 x^2(x+4)-(x+4)\gg 0\\
 (x+4)(x^2-1)\gg0\\
-(x+4)(x-1)
+(x+4)(x-1)(x+1)\gg 0
+$$
+Regola segni
+
+$$
+F1\gg 0 
+\\x \gg 4\\
+\\
+F2 \gg 0\\
+z \gg 1\\
+F3
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjYwMDg1LDE2MDMyNzQ0NjAsOTEyNj
+eyJoaXN0b3J5IjpbNjk2OTA2Mjc3LDE2MDMyNzQ0NjAsOTEyNj
 c2ODMxXX0=
 -->
