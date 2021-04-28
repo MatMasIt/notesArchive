@@ -27,6 +27,13 @@ t^2+2t+1=0\\
 t_{1}=t_{2}=1\\
 \
 $$
+
+
+## Logaritmi
+$$
+\log_{\frac{2}{3}}\sqrt{\frac{9}{4}}=log_{\frac{2}{3}}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDU0MjUxMSwtMTA3MDUzNTI0MF19
+eyJoaXN0b3J5IjpbLTE2NTk4MTE3MTcsLTEwNzA1MzUyNDBdfQ
+==
 -->
