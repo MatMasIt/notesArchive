@@ -38,8 +38,21 @@ Modi per elettrizzare:
 * induzione
 * contatto
 
-Oggetti si attraggono o re
+Oggetti si attraggono o si respingono, se sono rispettivamente di cariche opposte  o uguali
+
+---
+
+Ora, campo magnetico
+Che oggetti occorre considerare in interazione *Magnetostatica*?
+
+Due pezzi di filo percorsi da corrente
+
+$$
+|\\
+\\\
+\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg5ODYyMDIsLTExODkyODE0NCwxOD
-c3NDIzODExLC0xNjk3MTk2MTc3LDE0MDM3NDUzMDVdfQ==
+eyJoaXN0b3J5IjpbMTExNjg2MjAyOCwtMTE4OTI4MTQ0LDE4Nz
+c0MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0NTMwNV19
 -->
