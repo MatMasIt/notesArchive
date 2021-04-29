@@ -59,11 +59,12 @@ Influenza tra due pezzi di filo
 
 ### Legge
 $$
-\vec{F_{m}}=K\frac{I1\cdot I2 \cdot L1}{d}
+\vec{F_{m}}=K\frac{I1\cdot I2 \cdot L1}{d}\\
+K=\frac{_{0}}{2\pi}=4\pi\cdot 10^{-7}\frac
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc5ODI5NDgsLTE4MTY3NDg4MTIsMj
-A0MDMzMjA4OSwtMTE4OTI4MTQ0LDE4Nzc0MjM4MTEsLTE2OTcx
-OTYxNzcsMTQwMzc0NTMwNV19
+eyJoaXN0b3J5IjpbMTk0ODM4MzU3MSwtMTgxNjc0ODgxMiwyMD
+QwMzMyMDg5LC0xMTg5MjgxNDQsMTg3NzQyMzgxMSwtMTY5NzE5
+NjE3NywxNDAzNzQ1MzA1XX0=
 -->
