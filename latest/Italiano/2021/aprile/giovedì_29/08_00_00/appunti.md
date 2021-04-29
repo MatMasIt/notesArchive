@@ -17,9 +17,10 @@
 		* Salviati
 	* La *Favola dei suoni*
 		* Descrizione del metodo scientifico
+## Dogliani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzcyNDM0NSwtMTA3MjI2NjE4MSw2Mj
+eyJoaXN0b3J5IjpbMTcxODk4NTE0MCwtMTA3MjI2NjE4MSw2Mj
 M2MTM3NSwtMTMyNDA1MDIwN119
 -->
