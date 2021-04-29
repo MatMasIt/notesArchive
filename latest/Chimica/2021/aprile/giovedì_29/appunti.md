@@ -49,7 +49,8 @@ $$
 
 
 $$
-C_{a}=\
+C_{a}=\frac{[H^{+}]^{2}}{K_{a}}=\frac{
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5MjE2ODI5LDYyMTk4MzcyOF19
+eyJoaXN0b3J5IjpbLTIwMzUyNDUzMDUsNjIxOTgzNzI4XX0=
 -->
