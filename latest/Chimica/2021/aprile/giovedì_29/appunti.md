@@ -80,11 +80,12 @@ $$
 $$
 d\cdot 1000mL=\\0,904\cdot 1000= 904 \frac{g}{L}\\
 26\%soluto\\
-m_{soluto}=904_{g}{L}\cdot0,26\cdot 1
+C_{soluto}=904_{g}{L}\cdot0,26=235,04\frac{g}{L}\\
+C_{b}=\frac{235,04\frac{g}{L}}{17,03 \frac{g}{mol}}=13,
 $$
 
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4MTQwNDc1LDYyMTk4MzcyOF19
+eyJoaXN0b3J5IjpbMTY1NjQ2OTI3MSw2MjE5ODM3MjhdfQ==
 -->
