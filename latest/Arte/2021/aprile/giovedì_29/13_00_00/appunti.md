@@ -17,7 +17,7 @@
 	* San't Ivo alla sapienza (Lorenzo)
 		* Illusionismo prospettico (Lorenzo)
 * Vocazione di San Matteo (Diego, argomento a piacere)
-* 
+*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjgwMTM1OV19
+eyJoaXN0b3J5IjpbLTQ0MDAzMzY1OV19
 -->
