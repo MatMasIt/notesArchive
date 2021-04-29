@@ -115,8 +115,9 @@ $$
 pH=10 \rightarrow pOH= 10^{-4}\\
 10^4=\sqrt{ \frac{10^{-pK_{w}}   }{1\cdot10^{-17} }C_{s}}\\
 10^4=\sqrt{ \frac{10^{-13,8}   }{1\cdot10^{-17} }C_{s}}\\
-C_{s}=[10^{-4}]^2=
+C_{s}=10^{-8}\cdot\frac{10^{-7}}{10^{-13,8}}\\
+C_{S}=0,2M
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwODE3MTQwLDYyMTk4MzcyOF19
+eyJoaXN0b3J5IjpbMTY5MjIxOTM5OSw2MjE5ODM3MjhdfQ==
 -->
