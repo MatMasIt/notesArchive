@@ -87,8 +87,9 @@ forte simbolismo
 
 Esterno
 
+cupola ondulata
 
 Lanterna stile pagoda, che ricorda Borromini ( San Nicola sapienza)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5NDU4MTU5LDExMTE1MzAyNzldfQ==
+eyJoaXN0b3J5IjpbMTI1MDg4NzM2OSwxMTExNTMwMjc5XX0=
 -->
