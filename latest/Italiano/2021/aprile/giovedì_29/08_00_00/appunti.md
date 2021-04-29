@@ -23,8 +23,10 @@
 	* carattere operoso
 	* Le *Baruffe Chiozzotte*
 	* t5, _I rimpianti di Saul_, p 481
+		* Vicenda
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwMjgwMzg0LDEzOTYxNzg5NjMsLTEwNz
-IyNjYxODEsNjIzNjEzNzUsLTEzMjQwNTAyMDddfQ==
+eyJoaXN0b3J5IjpbNjExMzIyMzg2LDI3MDI4MDM4NCwxMzk2MT
+c4OTYzLC0xMDcyMjY2MTgxLDYyMzYxMzc1LC0xMzI0MDUwMjA3
+XX0=
 -->
