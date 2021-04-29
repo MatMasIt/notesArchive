@@ -77,7 +77,12 @@ Base debole
 $$
 C_{[OH^{-}]}=\sqrt{K_{b}\cdot C_{b}}
 $$
+$$
+d\cdot 1000mL=\\0,904\cdot 1000= 904 
+$$
+
+---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDY0NTc2NCw2MjE5ODM3MjhdfQ==
+eyJoaXN0b3J5IjpbNjEyMjk2MzA0LDYyMTk4MzcyOF19
 -->
