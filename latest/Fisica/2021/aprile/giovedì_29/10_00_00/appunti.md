@@ -35,7 +35,11 @@ Collegamento tra gravitazione e Cariche elettriche
 
 Modi per elettrizzare:
 * strofinio meccanico
+* induzione
+* contatto
+
+Oggetti si attraggono o re
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTM0NTQwNiwtMTE4OTI4MTQ0LDE4Nz
-c0MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0NTMwNV19
+eyJoaXN0b3J5IjpbLTIwNjg5ODYyMDIsLTExODkyODE0NCwxOD
+c3NDIzODExLC0xNjk3MTk2MTc3LDE0MDM3NDUzMDVdfQ==
 -->
