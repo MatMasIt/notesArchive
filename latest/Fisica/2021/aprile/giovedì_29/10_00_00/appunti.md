@@ -93,9 +93,13 @@ $$
 g=\frac{F_{g}}{m}=G\frac{M_{T}}{r^2}
 $$
 
+Mettere l'attenzione solo sull'oggetto che sta generando l'alterazione
+
+
+**Il campo è un vettore**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5Mjc3MjY4LC0xNjE1NjgzNzkwLC0xOD
-kyNzE3NzYwLC0xODE2NzQ4ODEyLDIwNDAzMzIwODksLTExODky
-ODE0NCwxODc3NDIzODExLC0xNjk3MTk2MTc3LDE0MDM3NDUzMD
-VdfQ==
+eyJoaXN0b3J5IjpbMTYyODA5Mzg4MCwtMTYxNTY4Mzc5MCwtMT
+g5MjcxNzc2MCwtMTgxNjc0ODgxMiwyMDQwMzMyMDg5LC0xMTg5
+MjgxNDQsMTg3NzQyMzgxMSwtMTY5NzE5NjE3NywxNDAzNzQ1Mz
+A1XX0=
 -->
