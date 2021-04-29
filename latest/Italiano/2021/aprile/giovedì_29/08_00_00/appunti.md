@@ -34,8 +34,9 @@
 * Gran Tour
 * Opere
 	* Tragedie
+* Testo: Pietro Verri, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQ5MTY2NzMsMjcwMjgwMzg0LDEzOT
-YxNzg5NjMsLTEwNzIyNjYxODEsNjIzNjEzNzUsLTEzMjQwNTAy
-MDddfQ==
+eyJoaXN0b3J5IjpbLTc3NjU3MTQ1LDI3MDI4MDM4NCwxMzk2MT
+c4OTYzLC0xMDcyMjY2MTgxLDYyMzYxMzc1LC0xMzI0MDUwMjA3
+XX0=
 -->
