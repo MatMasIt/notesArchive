@@ -9,8 +9,9 @@
 
 ## Klevisa
 * Galileo
-* 
+	* Sidereus Nuncius
+	* Il Saggiatore_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzIyNjYxODEsNjIzNjEzNzUsLTEzMj
-QwNTAyMDddfQ==
+eyJoaXN0b3J5IjpbLTIxMDAwMjQ5MjYsLTEwNzIyNjYxODEsNj
+IzNjEzNzUsLTEzMjQwNTAyMDddfQ==
 -->
