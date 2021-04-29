@@ -49,8 +49,9 @@ $$
 
 
 $$
-C_{a}=\frac{[H^{+}]^{2}}{K_{a}}=\frac{
+C_{a}=\frac{[H^{+}]^{2}}{K_{a}}=\\
+\frac{{10^{-pH}}^2}{K_{a}}=
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzUyNDUzMDUsNjIxOTgzNzI4XX0=
+eyJoaXN0b3J5IjpbMjg3NTM5NTA4LDYyMTk4MzcyOF19
 -->
