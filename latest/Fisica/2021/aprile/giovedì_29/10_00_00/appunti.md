@@ -82,9 +82,10 @@ Dal caso elettrostatico al caso magnetico
 
 Due pezzi di filo determinano una interazione e quesa forza di interazione 
 ## Il campo
-
+### Campo gravit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU2ODM3OTAsLTE4OTI3MTc3NjAsLT
-E4MTY3NDg4MTIsMjA0MDMzMjA4OSwtMTE4OTI4MTQ0LDE4Nzc0
-MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0NTMwNV19
+eyJoaXN0b3J5IjpbLTE0NDgyMDYyODAsLTE2MTU2ODM3OTAsLT
+E4OTI3MTc3NjAsLTE4MTY3NDg4MTIsMjA0MDMzMjA4OSwtMTE4
+OTI4MTQ0LDE4Nzc0MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0NT
+MwNV19
 -->
