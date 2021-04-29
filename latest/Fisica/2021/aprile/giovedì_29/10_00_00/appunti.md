@@ -89,10 +89,13 @@ $$
 $$
 
 Indicatore di come cambiano le forze prendendo sempre la stessa massa e variando la posizione
+$$
+g=\frac{F_{g}}{m}=G\frac{M_{T}}{r^2}
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjEzMzE4MSwtMTYxNTY4Mzc5MCwtMT
-g5MjcxNzc2MCwtMTgxNjc0ODgxMiwyMDQwMzMyMDg5LC0xMTg5
-MjgxNDQsMTg3NzQyMzgxMSwtMTY5NzE5NjE3NywxNDAzNzQ1Mz
-A1XX0=
+eyJoaXN0b3J5IjpbMzk5Mjc3MjY4LC0xNjE1NjgzNzkwLC0xOD
+kyNzE3NzYwLC0xODE2NzQ4ODEyLDIwNDAzMzIwODksLTExODky
+ODE0NCwxODc3NDIzODExLC0xNjk3MTk2MTc3LDE0MDM3NDUzMD
+VdfQ==
 -->
