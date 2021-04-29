@@ -28,9 +28,10 @@
 		* Squilibri psicologici di Saul
 			* Dissidio interiore, riferimento al sonetto di presentazione di Alfier
 			* Sospetto della congiura, perdita dell'orientamnto, non riesce a distinguere realltà e finzione
-
+## Menzio
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Mzc4MTE0NCwyNzAyODAzODQsMTM5Nj
-E3ODk2MywtMTA3MjI2NjE4MSw2MjM2MTM3NSwtMTMyNDA1MDIw
-N119
+eyJoaXN0b3J5IjpbLTE5MTk5OTY1NTAsMjcwMjgwMzg0LDEzOT
+YxNzg5NjMsLTEwNzIyNjYxODEsNjIzNjEzNzUsLTEzMjQwNTAy
+MDddfQ==
 -->
