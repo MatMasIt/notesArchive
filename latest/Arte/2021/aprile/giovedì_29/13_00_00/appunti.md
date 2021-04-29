@@ -6,6 +6,8 @@
 	* Il David (Lorenzo)
 		* Lineamenti Facciali (Diego)
 	* Apollo e Daphne (Lorenzo)
+* Borromini (Diego)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzNzc0MzUzXX0=
+eyJoaXN0b3J5IjpbLTMzNzcxMTgwN119
 -->
