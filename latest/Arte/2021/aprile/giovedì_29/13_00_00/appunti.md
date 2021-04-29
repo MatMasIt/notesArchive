@@ -19,6 +19,11 @@
 * Vocazione di San Matteo (Diego, argomento a piacere)
 * Principali caratteristiche di un dipinto di Caravaggio (Diego)
 * Natura morta di Caravaggio (Lorenzo)
+## Lezione
+p 847
+### Pietro da cortona
+
+### Chiesa dei santi Luca e Martina 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTUzMDI3OV19
+eyJoaXN0b3J5IjpbNjU2NzEwOTYsMTExMTUzMDI3OV19
 -->
