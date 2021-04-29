@@ -81,11 +81,17 @@ $$
 d\cdot 1000mL=\\0,904\cdot 1000= 904 \frac{g}{L}\\
 26\%soluto\\
 C_{soluto}=904_{g}{L}\cdot0,26=235,04\frac{g}{L}\\
-C_{b}=\frac{235,04\frac{g}{L}}{17,03 \frac{g}{mol}}=13,
+C_{b}=\frac{235,04\frac{g}{L}}{17,03 \frac{g}{mol}}=13,8\frac{mol}{L}
+$$
+
+diluzione 1:10, concentrazione 10 volte più piccola
+$$
+C_{b_{2}}=1,38\frac{mol}{L}\\
+[OH^{-}}=\sqrt{K_{B}\cdotC_{b
 $$
 
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjQ2OTI3MSw2MjE5ODM3MjhdfQ==
+eyJoaXN0b3J5IjpbLTE5MjI4ODc5ODcsNjIxOTgzNzI4XX0=
 -->
