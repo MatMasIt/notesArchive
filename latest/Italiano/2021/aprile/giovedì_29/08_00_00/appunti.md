@@ -29,9 +29,9 @@
 			* Dissidio interiore, riferimento al sonetto di presentazione di Alfier
 			* Sospetto della congiura, perdita dell'orientamnto, non riesce a distinguere realltà e finzione
 ## Menzio
-* 
+* Introduzione alla Vita di Alfieri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk5OTY1NTAsMjcwMjgwMzg0LDEzOT
-YxNzg5NjMsLTEwNzIyNjYxODEsNjIzNjEzNzUsLTEzMjQwNTAy
-MDddfQ==
+eyJoaXN0b3J5IjpbMTgxNjk0MTE1MywyNzAyODAzODQsMTM5Nj
+E3ODk2MywtMTA3MjI2NjE4MSw2MjM2MTM3NSwtMTMyNDA1MDIw
+N119
 -->
