@@ -18,7 +18,7 @@
 		* Illusionismo prospettico (Lorenzo)
 * Vocazione di San Matteo (Diego, argomento a piacere)
 * Principali caratteristiche di un dipinto di Caravaggio (Diego)
-* 
+* Natura morta di Caravaggio (Lorenzo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTA3MjY3Nl19
+eyJoaXN0b3J5IjpbMTExMTUzMDI3OV19
 -->
