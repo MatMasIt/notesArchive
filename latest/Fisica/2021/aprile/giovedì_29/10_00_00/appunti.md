@@ -17,6 +17,10 @@ particelle si scotrano con particelle atmosfera
 urti, effetto luminoso
 Bande luminose, effetto aurore boreali
 
+$$
+E=hf
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMDkwMjgxLDE0MDM3NDUzMDVdfQ==
+eyJoaXN0b3J5IjpbODMzMjM4NTEsMTQwMzc0NTMwNV19
 -->
