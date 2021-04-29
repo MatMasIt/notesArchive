@@ -20,10 +20,19 @@ $$
 ---
 Concentrazione soluzione di acido acetico
 $$
+CH_{3}COOH\\
 pH=3,4\\
-K_{a}=1,76\cdot 1
+K_{a}=1,76\cdot 10^{-5}
 $$
 
+Occorre trovare 
+$$
+C_{a}
+$$
+Acido debole, quindi
+$$
+[{H^{+}]0\sq
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Mzc5NDI3NCw2MjE5ODM3MjhdfQ==
+eyJoaXN0b3J5IjpbLTE3ODIxNjM5MTQsNjIxOTgzNzI4XX0=
 -->
