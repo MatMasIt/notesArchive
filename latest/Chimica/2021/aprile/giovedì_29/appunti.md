@@ -87,11 +87,18 @@ $$
 diluzione 1:10, concentrazione 10 volte più piccola
 $$
 C_{b_{2}}=1,38\frac{mol}{L}\\
-[OH^{-}}=\sqrt{K_{B}\cdotC_{b
+$$
+
+$$
+[OH^{-}]=\sqrt{K_{b}\cdot C_{b}}
 $$
 
 ---
 
+
+$$
+Na\rightarrow HA+NaOH\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI4ODc5ODcsNjIxOTgzNzI4XX0=
+eyJoaXN0b3J5IjpbLTE5ODAyMDIxOTcsNjIxOTgzNzI4XX0=
 -->
