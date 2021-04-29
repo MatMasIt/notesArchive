@@ -90,6 +90,10 @@ Esterno
 cupola ondulata
 
 Lanterna stile pagoda, che ricorda Borromini ( San Nicola sapienza)
+
+#### Palazzo Carignano 
+Torino
+p 852
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDg4NzM2OSwxMTExNTMwMjc5XX0=
+eyJoaXN0b3J5IjpbMjEzMTI2NjE1MiwxMTExNTMwMjc5XX0=
 -->
