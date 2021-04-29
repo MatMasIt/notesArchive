@@ -21,9 +21,10 @@
 * La borghesia nela commedia di Goldoni
 	* pearvenù
 	* carattere operoso
-	* Le *Baruffe Chiozzot
+	* Le *Baruffe Chiozzotte*
+	* t5, _I rimpianti di Saul_, p 481
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3ODA3MjI5LDEzOTYxNzg5NjMsLTEwNz
+eyJoaXN0b3J5IjpbMjcwMjgwMzg0LDEzOTYxNzg5NjMsLTEwNz
 IyNjYxODEsNjIzNjEzNzUsLTEzMjQwNTAyMDddfQ==
 -->
