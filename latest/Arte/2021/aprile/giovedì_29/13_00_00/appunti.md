@@ -68,7 +68,14 @@ Cupola molto pesante: problema
 Doppia calotta
 Calotta interna in muratura
 Calotta esterna in legno, rivestita in piombo
-Contrafforti
+Contrafforti su lati ottagonsli
+### Guarini
+Torino
+#### Cappella della sindone
+Torino
+p 850
+
+Pianta di tipo centrale, triangolare, ai cui lati applica delle concaità su gni 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM2ODIxMTgsMTExMTUzMDI3OV19
+eyJoaXN0b3J5IjpbLTQ3MTUwMzUsMTExMTUzMDI3OV19
 -->
