@@ -56,7 +56,7 @@ Influenza tra due pezzi di filo
 ## esperienza di Ampere
 2 alimentatori con corrente continua e li ha connessi separatamente, facendo in modo che la corrente scorresse nei due fili nello stesso verso e ha osservato i fili
 
-Du
+Due pezzi di filo hanno interazione magnetica che è formalmente simile alle formule del caso gravitazionale e elettrico
 
 ### Legge
 $$
@@ -65,8 +65,10 @@ K=\frac{\mu_{0}}{2\pi}=4\pi\cdot 10^{-7}\frac{N}{A^2}
 $$
 
 Dal caso elettrostatico al caso magnetico
+
+Due pezzi di filo determinano una interazione e quesa fo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ5MzE3NDIsLTE4MTY3NDg4MTIsMj
-A0MDMzMjA4OSwtMTE4OTI4MTQ0LDE4Nzc0MjM4MTEsLTE2OTcx
-OTYxNzcsMTQwMzc0NTMwNV19
+eyJoaXN0b3J5IjpbMzcxNzc4NDE5LC0xODE2NzQ4ODEyLDIwND
+AzMzIwODksLTExODkyODE0NCwxODc3NDIzODExLC0xNjk3MTk2
+MTc3LDE0MDM3NDUzMDVdfQ==
 -->
