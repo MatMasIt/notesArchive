@@ -21,9 +21,9 @@
 * La borghesia nela commedia di Goldoni
 	* pearvenù
 	* carattere operoso
-	* 
+	* Le *Baruffe Chiozzot
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0MzIxOTAxLDEzOTYxNzg5NjMsLTEwNz
+eyJoaXN0b3J5IjpbNzI3ODA3MjI5LDEzOTYxNzg5NjMsLTEwNz
 IyNjYxODEsNjIzNjEzNzUsLTEzMjQwNTAyMDddfQ==
 -->
