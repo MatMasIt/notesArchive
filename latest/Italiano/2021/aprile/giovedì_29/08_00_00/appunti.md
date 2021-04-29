@@ -20,9 +20,10 @@
 ## Dogliani
 * La borghesia nela commedia di Goldoni
 	* pearvenù
-
+	* carattere operoso
+	* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODA0OTAzMywxMzk2MTc4OTYzLC0xMD
-cyMjY2MTgxLDYyMzYxMzc1LC0xMzI0MDUwMjA3XX0=
+eyJoaXN0b3J5IjpbNjk0MzIxOTAxLDEzOTYxNzg5NjMsLTEwNz
+IyNjYxODEsNjIzNjEzNzUsLTEzMjQwNTAyMDddfQ==
 -->
