@@ -11,8 +11,14 @@
 * Galileo
 	* _Sidereus Nuncius_
 	* _Il Saggiatore_
-	* 
+	* _Il Dialogo Sopra I due Massimi Sistemi_
+		* Simplicio
+		* Sagredo
+		* Salviati
+
+
+@#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzkxMjQwMSwtMTA3MjI2NjE4MSw2Mj
+eyJoaXN0b3J5IjpbLTQ5NjI3OTQ2MCwtMTA3MjI2NjE4MSw2Mj
 M2MTM3NSwtMTMyNDA1MDIwN119
 -->
