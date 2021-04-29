@@ -35,7 +35,14 @@ portone centrale
 secondo livello, paraste e finesra timpanata
 
 
-pianta centrale bracci di egual misura, sul cui punto di incroi
+pianta centrale bracci di egual misura, sul cui punto di incrocio si alza la cupola
+
+Interno: movimento plastico di vuoti e di pieni
+
+### Baldassare
+A Venezia 
+848
+A venezi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk1ODY1NDYsMTExMTUzMDI3OV19
+eyJoaXN0b3J5IjpbMTU2NDY0Njk2MCwxMTExNTMwMjc5XX0=
 -->
