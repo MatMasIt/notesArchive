@@ -31,8 +31,11 @@ C_{a}
 $$
 Acido debole, quindi
 $$
-[{H^{+}]0\sq
+[H^{+}]=\sqrt{K_{a}\cdot C_{a} }\\
+pH=-\log(H^{+})
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODIxNjM5MTQsNjIxOTgzNzI4XX0=
+eyJoaXN0b3J5IjpbLTgwNjI2NzM5Niw2MjE5ODM3MjhdfQ==
 -->
