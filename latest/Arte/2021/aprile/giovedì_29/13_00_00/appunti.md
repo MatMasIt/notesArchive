@@ -2,10 +2,10 @@
 
 ## giovedì 29 aprile 2021, 13:00:00
 
-## Benetello
-* Bernini
-	* Il David
-	* 
+* Bernini (Lorenzo)
+	* Il David (Lorenzo)
+	* Lineameni Facciali (Diego)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjg4MDc5Ml19
+eyJoaXN0b3J5IjpbNDU2MTMyMTI3XX0=
 -->
