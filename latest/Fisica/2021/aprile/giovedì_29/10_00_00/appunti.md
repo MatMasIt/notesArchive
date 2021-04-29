@@ -54,10 +54,16 @@ Influenza tra due pezzi di filo
 ![enter image description here](https://i.imgur.com/hHHbyiu.jpg)
 
 ## esperienza di Ampere
-2 alimentatori con corrente continua e li ha connessi separatamente, facendo in modo che la corrente scorresse neidue fili nello stesso verso
+2 alimentatori con corrente continua e li ha connessi separatamente, facendo in modo che la corrente scorresse nei due fili nello stesso verso e ha osservato i fili
+
+
+### Legge
+$$
+\vec{F_{m}}=K\frac{I1\cdot I2 \cdot L1}{d}
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMwMDQ0NiwtMTgxNjc0ODgxMiwyMD
-QwMzMyMDg5LC0xMTg5MjgxNDQsMTg3NzQyMzgxMSwtMTY5NzE5
-NjE3NywxNDAzNzQ1MzA1XX0=
+eyJoaXN0b3J5IjpbLTE5MTc5ODI5NDgsLTE4MTY3NDg4MTIsMj
+A0MDMzMjA4OSwtMTE4OTI4MTQ0LDE4Nzc0MjM4MTEsLTE2OTcx
+OTYxNzcsMTQwMzc0NTMwNV19
 -->
