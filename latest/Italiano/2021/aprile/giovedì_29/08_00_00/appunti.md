@@ -18,9 +18,10 @@
 	* La *Favola dei suoni*
 		* Descrizione del metodo scientifico
 ## Dogliani
-
+* La borghesia nela commedia di Goldoni
+* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODk4NTE0MCwtMTA3MjI2NjE4MSw2Mj
+eyJoaXN0b3J5IjpbMTM5NjE3ODk2MywtMTA3MjI2NjE4MSw2Mj
 M2MTM3NSwtMTMyNDA1MDIwN119
 -->
