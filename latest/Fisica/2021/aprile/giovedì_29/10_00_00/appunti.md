@@ -56,15 +56,17 @@ Influenza tra due pezzi di filo
 ## esperienza di Ampere
 2 alimentatori con corrente continua e li ha connessi separatamente, facendo in modo che la corrente scorresse nei due fili nello stesso verso e ha osservato i fili
 
+Du
 
 ### Legge
 $$
 \vec{F_{m}}=K\frac{I1\cdot I2 \cdot L1}{d}\\
-K=\frac{_{0}}{2\pi}=4\pi\cdot 10^{-7}\frac
+K=\frac{\mu_{0}}{2\pi}=4\pi\cdot 10^{-7}\frac{N}{A^2}
 $$
 
+Dal caso elettrostatico al caso magnetico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODM4MzU3MSwtMTgxNjc0ODgxMiwyMD
-QwMzMyMDg5LC0xMTg5MjgxNDQsMTg3NzQyMzgxMSwtMTY5NzE5
-NjE3NywxNDAzNzQ1MzA1XX0=
+eyJoaXN0b3J5IjpbLTE4ODQ5MzE3NDIsLTE4MTY3NDg4MTIsMj
+A0MDMzMjA4OSwtMTE4OTI4MTQ0LDE4Nzc0MjM4MTEsLTE2OTcx
+OTYxNzcsMTQwMzc0NTMwNV19
 -->
