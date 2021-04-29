@@ -113,8 +113,10 @@ Idrolisi basica (base forte)
 $$
 [OH^{-}]=\sqrt{\frac{K_{w}}{K_{a}}\cdot C_{s}}\\
 pH=10 \rightarrow pOH= 10^{-4}\\
-10^4=\sqrt{ \frac{10^{-pK_{w}}{[1\cdot10^{-17} }}
+10^4=\sqrt{ \frac{10^{-pK_{w}}   }{1\cdot10^{-17} }C_{s}}\\
+10^4=\sqrt{ \frac{10^{-13,8}   }{1\cdot10^{-17} }C_{s}}\\
+C_{s}=[10^{-4}]^2=
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjE1NzA3NCw2MjE5ODM3MjhdfQ==
+eyJoaXN0b3J5IjpbODIwODE3MTQwLDYyMTk4MzcyOF19
 -->
