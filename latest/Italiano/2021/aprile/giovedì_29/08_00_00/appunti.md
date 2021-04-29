@@ -26,11 +26,11 @@
 		* Vicenda
 			* Tentaivo di allontanamento
 		* Squilibri psicologici di Saul
-			* Dissidio interiore, riferimento al sonetto di presentazione di Alfieri
-
+			* Dissidio interiore, riferimento al sonetto di presentazione di Alfier
+			* Sospetto della congiura, perdita dell'orientamnto, non riesce a distinguere realltà e finzione
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjE4ODcyMiwyNzAyODAzODQsMTM5Nj
+eyJoaXN0b3J5IjpbLTQ1Mzc4MTE0NCwyNzAyODAzODQsMTM5Nj
 E3ODk2MywtMTA3MjI2NjE4MSw2MjM2MTM3NSwtMTMyNDA1MDIw
 N119
 -->
