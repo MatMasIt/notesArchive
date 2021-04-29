@@ -37,8 +37,19 @@ $$
 
 $$
 10^{-pH}=\sqrt{K_{a} \cdot C_{a}}\\
-[H^{+}]=\sqrt{K_{a}\cdotC_{a}}
 $$
+
+$$
+[H^{+}]=\sqrt{K_{a}\cdot C_{a}}\\
+$$
+
+$$
+[H^{+}]^2=K_{a}\cdot C_{a}
+$$
+
+
+$$
+C_{a}=\
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzYyNzk5MjMsNjIxOTgzNzI4XX0=
+eyJoaXN0b3J5IjpbNzY5MjE2ODI5LDYyMTk4MzcyOF19
 -->
