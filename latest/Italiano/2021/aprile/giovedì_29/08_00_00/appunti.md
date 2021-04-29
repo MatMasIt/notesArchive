@@ -36,9 +36,10 @@
 	* Tragedie
 * Testo: Pietro Verri, *Ossservazioni sulla Tortura*
 	* Ispira la *Colonna Infame* di Alessandro Manzoni
-	* Ragi
+	* Ragionamento deduttivo, per ipotesi, per assurdo
+		* Uso  della lingua nei testi, persuasivo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTczNDIzMSwtMTQ1NTc4NzY3NiwyNz
+eyJoaXN0b3J5IjpbMTc5NTk2NzI0NSwtMTQ1NTc4NzY3NiwyNz
 AyODAzODQsMTM5NjE3ODk2MywtMTA3MjI2NjE4MSw2MjM2MTM3
 NSwtMTMyNDA1MDIwN119
 -->
