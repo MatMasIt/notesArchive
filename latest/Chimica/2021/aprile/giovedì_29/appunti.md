@@ -105,8 +105,14 @@ $$
 
 $$
 HA+NaOH \rightarrow NaA+H_{2}O\\
-C_{
+C_{NaA}=?\\
+$$
+NaA: sale formato da un acido debole con una base forte 
+Idrolisi basica (base forte)
+
+$$
+[OH^{-}]=\sqrt{
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk5MTUwNzUsNjIxOTgzNzI4XX0=
+eyJoaXN0b3J5IjpbLTE5MzI1MjY5NTcsNjIxOTgzNzI4XX0=
 -->
