@@ -8,8 +8,9 @@
 * La *Vita* di Alfieri, un brano (**Svezia**)
 
 ## Klevisa
-
+* Galileo
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjQ1NzM4NCw2MjM2MTM3NSwtMTMyND
-A1MDIwN119
+eyJoaXN0b3J5IjpbLTEwNzIyNjYxODEsNjIzNjEzNzUsLTEzMj
+QwNTAyMDddfQ==
 -->
