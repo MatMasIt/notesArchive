@@ -26,7 +26,16 @@ Scoperta casuale, passaggio di corrente in un filo, ago della bussola ruota
 ago di dispone perpendicolare al filo
 
 Limatura di ferro cè come tanti piccoli aghi se si dispongono con un certo orientament
+
+Collegamento tra gravitazione e Cariche elettriche
+
+|Gravitazione|Elettrostatica|
+|---------------|-----------|
+|Massa|Carica|
+
+Modi per elettrizzare:
+* strofinio meccanico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODkyODE0NCwxODc3NDIzODExLC0xNj
-k3MTk2MTc3LDE0MDM3NDUzMDVdfQ==
+eyJoaXN0b3J5IjpbLTI5NTM0NTQwNiwtMTE4OTI4MTQ0LDE4Nz
+c0MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0NTMwNV19
 -->
