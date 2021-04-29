@@ -49,7 +49,12 @@ Due pezzi di filo percorsi da corrente
 |Massa|Carica|Pezzo di filo percorso da corrente|
 
 
+Influenza tra due pezzi di filo
+
+
+## esperienza di Ampere
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzUwOTA0OSwtMTE4OTI4MTQ0LDE4Nz
-c0MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0NTMwNV19
+eyJoaXN0b3J5IjpbNzU3ODM3NDQ2LC0xMTg5MjgxNDQsMTg3Nz
+QyMzgxMSwtMTY5NzE5NjE3NywxNDAzNzQ1MzA1XX0=
 -->
