@@ -15,10 +15,10 @@
 		* Simplicio
 		* Sagredo
 		* Salviati
+	* La *Favola dei suoni*
 
 
-@#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjI3OTQ2MCwtMTA3MjI2NjE4MSw2Mj
-M2MTM3NSwtMTMyNDA1MDIwN119
+eyJoaXN0b3J5IjpbODc0OTc1Nzg1LC0xMDcyMjY2MTgxLDYyMz
+YxMzc1LC0xMzI0MDUwMjA3XX0=
 -->
