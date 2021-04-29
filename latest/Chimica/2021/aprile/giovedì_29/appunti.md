@@ -118,6 +118,7 @@ pH=10 \rightarrow pOH= 10^{-4}\\
 C_{s}=10^{-8}\cdot\frac{10^{-7}}{10^{-13,8}}\\
 C_{S}=0,2M
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjIxOTM5OSw2MjE5ODM3MjhdfQ==
+eyJoaXN0b3J5IjpbNDYzODIyOTY1LDYyMTk4MzcyOF19
 -->
