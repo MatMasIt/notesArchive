@@ -29,9 +29,6 @@ Limatura di ferro cè come tanti piccoli aghi se si dispongono con un certo orie
 
 Collegamento tra gravitazione e Cariche elettriche
 
-|Gravitazione|Elettrostatica|
-|---------------|-----------|
-|Massa|Carica|
 
 Modi per elettrizzare:
 * strofinio meccanico
@@ -47,12 +44,12 @@ Che oggetti occorre considerare in interazione *Magnetostatica*?
 
 Due pezzi di filo percorsi da corrente
 
-$$
-|\\
-\\\
-\
-$$
+|Gravitazione|Elettrostatica|Magnetostatica|
+|---------------|-----------|--------------|
+|Massa|Carica|Pezzo di filo percorso da corrente|
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjg2MjAyOCwtMTE4OTI4MTQ0LDE4Nz
+eyJoaXN0b3J5IjpbLTYwMzUwOTA0OSwtMTE4OTI4MTQ0LDE4Nz
 c0MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0NTMwNV19
 -->
