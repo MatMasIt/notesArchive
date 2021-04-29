@@ -3,8 +3,8 @@
 ## giovedì 22 aprile 2021, 08:05:58
 
 
-Manera: storia della commedia di Goldoni
+#Manera: storia della commedia di Goldoni
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQwNTAyMDddfQ==
+eyJoaXN0b3J5IjpbLTQ0MzIwNjU2NCwtMTMyNDA1MDIwN119
 -->
