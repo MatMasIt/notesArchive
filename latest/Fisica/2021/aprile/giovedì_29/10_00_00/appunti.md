@@ -54,8 +54,9 @@ Influenza tra due pezzi di filo
 ![enter image description here](https://i.imgur.com/hHHbyiu.jpg)
 
 ## esperienza di Ampere
-
+2 alimentatori con corrente continua e li ha connessi separatamente, facendo in modo che la corrente scorresse neidue fili nello stesso verso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDMzMjA4OSwtMTE4OTI4MTQ0LDE4Nz
-c0MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0NTMwNV19
+eyJoaXN0b3J5IjpbLTE4MTY3NDg4MTIsMjA0MDMzMjA4OSwtMT
+E4OTI4MTQ0LDE4Nzc0MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0
+NTMwNV19
 -->
