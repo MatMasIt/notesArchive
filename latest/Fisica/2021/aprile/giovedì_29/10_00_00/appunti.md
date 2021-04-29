@@ -8,6 +8,10 @@ e 70'000 nano tesla ai poli
 
 Particelle intrppolate in fasce di Van Allen, Toroide ristretto ai poli
 Particelle catturate
+Effffetto imbuto ai poli
+
+particelle si scotrno con particelle atmosfera
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxMzI0MTI5LDE0MDM3NDUzMDVdfQ==
+eyJoaXN0b3J5IjpbNDQ5OTYwODIsMTQwMzc0NTMwNV19
 -->
