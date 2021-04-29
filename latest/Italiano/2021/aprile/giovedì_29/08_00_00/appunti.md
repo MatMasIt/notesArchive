@@ -36,10 +36,9 @@
 	* Tragedie
 * Testo: Pietro Verri, *Ossservazioni sulla Tortura*
 	* Ispira la *Colonna Infame* di Alessandro Manzoni
-
-
+	* Ragi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU3ODc2NzYsMjcwMjgwMzg0LDEzOT
-YxNzg5NjMsLTEwNzIyNjYxODEsNjIzNjEzNzUsLTEzMjQwNTAy
-MDddfQ==
+eyJoaXN0b3J5IjpbMTMzMTczNDIzMSwtMTQ1NTc4NzY3NiwyNz
+AyODAzODQsMTM5NjE3ODk2MywtMTA3MjI2NjE4MSw2MjM2MTM3
+NSwtMTMyNDA1MDIwN119
 -->
