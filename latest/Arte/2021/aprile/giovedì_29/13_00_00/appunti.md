@@ -1,7 +1,10 @@
 # Lezione di Arte (6° ora)
 
 ## giovedì 29 aprile 2021, 13:00:00
-
+### Interrogazione di 
+* Lorenzo Gianni Benetello
+* Diego Scanavino
+## Contenuti
 * Bernini (Lorenzo)
 	* Il David (Lorenzo)
 		* Lineamenti Facciali (Diego)
@@ -13,5 +16,5 @@
 			* Differene tra livelli (Diego)
 	* San't Ivo alla sapienza (lorenzo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNjc3MzAwXX0=
+eyJoaXN0b3J5IjpbMTM3MTI0MzY5Nl19
 -->
