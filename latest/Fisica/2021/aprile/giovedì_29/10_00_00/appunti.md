@@ -65,7 +65,7 @@ Se le due direzione di corrente sono uguali i ili si avvicinano
 ![Avvicinamento](https://i.imgur.com/jVDCmEk.jpg)
 
 Se la corrente scorre in versi opposti si respingono
-![enter image description here](https://i.imgur.com/WHVDm0P.jpg)
+![Allontanamento](https://i.imgur.com/WHVDm0P.jpg)
 
 ### Legge
 $$
@@ -81,8 +81,9 @@ Permeabilità magnetica del vuoto
 Dal caso elettrostatico al caso magnetico
 
 Due pezzi di filo determinano una interazione e quesa forza di interazione 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzEzODMzNTksLTE4OTI3MTc3NjAsLT
-E4MTY3NDg4MTIsMjA0MDMzMjA4OSwtMTE4OTI4MTQ0LDE4Nzc0
-MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0NTMwNV19
+eyJoaXN0b3J5IjpbNjU5MTIyNzgzLC0xODkyNzE3NzYwLC0xOD
+E2NzQ4ODEyLDIwNDAzMzIwODksLTExODkyODE0NCwxODc3NDIz
+ODExLC0xNjk3MTk2MTc3LDE0MDM3NDUzMDVdfQ==
 -->
