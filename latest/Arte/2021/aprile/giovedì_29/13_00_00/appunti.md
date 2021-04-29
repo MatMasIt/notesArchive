@@ -64,7 +64,11 @@ Deambolatorio esterno con cappelle quadrandolari
 Presbiterio absidato ai lati+ coro
  Struttura allungata
 Esterno: facciata classica, idea di tempio classico
-
+Cupola molto pesante: problema
+Doppia calotta
+Calotta interna in muratura
+Calotta esterna in legno, rivestita in piombo
+Contrafforti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MzU1Njg0LDExMTE1MzAyNzldfQ==
+eyJoaXN0b3J5IjpbLTEwNTM2ODIxMTgsMTExMTUzMDI3OV19
 -->
