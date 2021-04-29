@@ -26,9 +26,11 @@
 		* Vicenda
 			* Tentaivo di allontanamento
 		* Squilibri psicologici di Saul
+			* Dissidio interiore, riferimento al sonetto di presentazione di Alfieri
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkxMTc3MywyNzAyODAzODQsMTM5Nj
+eyJoaXN0b3J5IjpbMTM1MjE4ODcyMiwyNzAyODAzODQsMTM5Nj
 E3ODk2MywtMTA3MjI2NjE4MSw2MjM2MTM3NSwtMTMyNDA1MDIw
 N119
 -->
