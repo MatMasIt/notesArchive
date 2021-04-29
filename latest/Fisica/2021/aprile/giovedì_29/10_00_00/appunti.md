@@ -60,15 +60,20 @@ Due pezzi di filo hanno interazione magnetica che è formalmente simile alle for
 
 ### Legge
 $$
-\vec{F_{m}}=K\frac{I1\cdot I2 \cdot L1}{d}\\
-K=\frac{\mu_{0}}{2\pi}=4\pi\cdot 10^{-7}\frac{N}{A^2}
+\vec{F_{m}}=K\frac{I1\cdot I2 \cdot L1}{d^2}\\
+K=\frac{\mu_{0}}{2\pi}\\
+\mu_{0}=4\pi\cdot 10^{-7}\frac{N}{A^2}
 $$
+$$\mu_{0}
+$$
+Permeabilità magnetica del vuoto
+
 
 Dal caso elettrostatico al caso magnetico
 
-Due pezzi di filo determinano una interazione e quesa fo
+Due pezzi di filo determinano una interazione e quesa forza di interazione 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxNzc4NDE5LC0xODE2NzQ4ODEyLDIwND
-AzMzIwODksLTExODkyODE0NCwxODc3NDIzODExLC0xNjk3MTk2
-MTc3LDE0MDM3NDUzMDVdfQ==
+eyJoaXN0b3J5IjpbLTE4OTI3MTc3NjAsLTE4MTY3NDg4MTIsMj
+A0MDMzMjA4OSwtMTE4OTI4MTQ0LDE4Nzc0MjM4MTEsLTE2OTcx
+OTYxNzcsMTQwMzc0NTMwNV19
 -->
