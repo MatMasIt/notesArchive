@@ -50,8 +50,13 @@ $$
 
 $$
 C_{a}=\frac{[H^{+}]^{2}}{K_{a}}=\\
-\frac{{10^{-pH}}^2}{K_{a}}=
+\frac{{10^{-pH}}^2}{K_{a}}=\\
+\frac{{10^{-3,4}}^2}{1,76\cdot 10^{-5}}=\\
+\frac{10^{-6,8}}{1,76\cdot 10^{-5}}=0,009=9\cdot 10^{-3}\frac{mol}{L}
 $$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3NTM5NTA4LDYyMTk4MzcyOF19
+eyJoaXN0b3J5IjpbLTc5ODk1NTMzMSw2MjE5ODM3MjhdfQ==
 -->
