@@ -23,7 +23,8 @@ E=hf
 $$
 ## Esperimento di Ersted
 Scoperta casuale, passaggio di corrente in un filo, ago della bussola ruota
-
+Ago
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTcxOTYxNzcsMTQwMzc0NTMwNV19
+eyJoaXN0b3J5IjpbLTE3NzYwMTM0OCwtMTY5NzE5NjE3NywxND
+AzNzQ1MzA1XX0=
 -->
