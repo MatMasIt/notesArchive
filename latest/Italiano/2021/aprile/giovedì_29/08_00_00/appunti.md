@@ -32,8 +32,9 @@
 * Introduzione alla Vita di Alfieri
 * La formazione (autodidatta)
 * Gran Tour
+* Opere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQxNDQyMTcsMjcwMjgwMzg0LDEzOT
-YxNzg5NjMsLTEwNzIyNjYxODEsNjIzNjEzNzUsLTEzMjQwNTAy
-MDddfQ==
+eyJoaXN0b3J5IjpbMTQwMjA1NTU1MCwyNzAyODAzODQsMTM5Nj
+E3ODk2MywtMTA3MjI2NjE4MSw2MjM2MTM3NSwtMTMyNDA1MDIw
+N119
 -->
