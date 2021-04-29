@@ -4,8 +4,7 @@
 
 
 Manera: storia della commedia di Goldoni
-  bhbgbhbgbhbgbhbhbhbhbhbgbgbgbgbvbvbvbvbbnbnbnbnhbhbhbbggbgbgbvbvbvbvbnhbgnvbhnhbgbgbgnybgnhnhnhngngbyngbgbggbng
-  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDE3MzY3NF19
+eyJoaXN0b3J5IjpbLTEzMjQwNTAyMDddfQ==
 -->
