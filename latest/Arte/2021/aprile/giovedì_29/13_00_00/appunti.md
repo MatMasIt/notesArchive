@@ -75,7 +75,13 @@ Torino
 Torino
 p 850
 
-Pianta di tipo centrale, triangolare, ai cui lati applica delle concaità su gni 
+Pianta di tipo centrale, triangolare, ai cui lati applica delle concaità su ogni lato e taglia i vertici del triangolo
+Crea altare e entrate
+Cappelle radiali
+Voto e pieno
+
+Cpola con fiestre a raggiera
+esagono di archetti che ruotano di 30 gradi rispetto all'esagono sottos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTUwMzUsMTExMTUzMDI3OV19
+eyJoaXN0b3J5IjpbLTIwOTMzNzc2MjAsMTExMTUzMDI3OV19
 -->
