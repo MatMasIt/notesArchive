@@ -97,8 +97,16 @@ $$
 
 
 $$
-Na\rightarrow HA+NaOH\
+Na\rightarrow HA+NaOH\\
+pH=10
+Ka=1\cdot 10^{-7}\\
+p_{K_{w}}=14
+$$
+
+$$
+HA+NaOH \rightarrow NaA+H_{2}O\\
+C_{
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAyMDIxOTcsNjIxOTgzNzI4XX0=
+eyJoaXN0b3J5IjpbLTEyNzk5MTUwNzUsNjIxOTgzNzI4XX0=
 -->
