@@ -73,7 +73,11 @@ $$
 pK_{b}=4,5
 $$
 
-Base deo
+Base debole
+$$
+C_{[OH^{-}]}=\sqrt{K_{b}\cdot C_{b}}
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA0NTYwMDgsNjIxOTgzNzI4XX0=
+eyJoaXN0b3J5IjpbMjEzNDY0NTc2NCw2MjE5ODM3MjhdfQ==
 -->
