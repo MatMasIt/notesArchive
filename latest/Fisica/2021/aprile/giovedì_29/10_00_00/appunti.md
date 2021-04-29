@@ -10,8 +10,12 @@ Particelle intrppolate in fasce di Van Allen, Toroide ristretto ai poli
 Particelle catturate
 Effffetto imbuto ai poli
 
-particelle si scotrno con particelle atmosfera
+Terra come un grande magnete
+![Campo magnetico Terrestre](https://i.imgur.com/BDIYt7b.jpg)
+
+particelle si scotrano con particelle atmosfera
+urti, effetto luminoso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5OTYwODIsMTQwMzc0NTMwNV19
+eyJoaXN0b3J5IjpbLTEzMzAzMTg2NDYsMTQwMzc0NTMwNV19
 -->
