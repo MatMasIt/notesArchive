@@ -44,6 +44,7 @@ A Venezia
 p. 848
 
 #### Ca' Pesaro
+Venezia
 Casa di famiglia importante sul canal grande
 tre livelli
 parte inferiore: rivestimaneto a bugnato
@@ -53,6 +54,11 @@ Finestre riprendono biblioteca Laurenziana di Michelangelo
 Vestibolo di ingressso
 
 Livello superiore colonne singole o binate
+Ordini separati da balaustre
+
+#### Santa Maria della Salute
+Venezia
+Pianta a base ot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDI2OTM5MywxMTExNTMwMjc5XX0=
+eyJoaXN0b3J5IjpbMTIyMzcxMzk2MCwxMTExNTMwMjc5XX0=
 -->
