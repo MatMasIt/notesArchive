@@ -23,7 +23,19 @@
 p 847
 ### Pietro da cortona
 
-### Chiesa dei santi Luca e Martina 
+### Chiesa dei santi Luca e Martina - Roma
+Si ispira a Borromini
+Più livellli
+
+Convessità ad entrambi i livelli
+
+inferiore: colonne adossate alla prete dividono parete
+portone centrale
+
+secondo livello, paraste e finesra timpanata
+
+
+pianta centrale bracci di egual misura, sul cui punto di incroi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2NzEwOTYsMTExMTUzMDI3OV19
+eyJoaXN0b3J5IjpbLTE1Mjk1ODY1NDYsMTExMTUzMDI3OV19
 -->
