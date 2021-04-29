@@ -82,9 +82,13 @@ Dal caso elettrostatico al caso magnetico
 
 Due pezzi di filo determinano una interazione e quesa forza di interazione 
 ## Il campo
-### Campo gravit
+### Campo gravitazionale
+Forza *per unità di massa : campo
+$$
+\vec{g_{T}}=\frac{F_{g}}{m}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDgyMDYyODAsLTE2MTU2ODM3OTAsLT
+eyJoaXN0b3J5IjpbLTE4MDc1MjU2NTQsLTE2MTU2ODM3OTAsLT
 E4OTI3MTc3NjAsLTE4MTY3NDg4MTIsMjA0MDMzMjA4OSwtMTE4
 OTI4MTQ0LDE4Nzc0MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0NT
 MwNV19
