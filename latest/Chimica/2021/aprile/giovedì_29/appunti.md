@@ -63,8 +63,17 @@ $$
 Etichetta originale
 $$
 26\% \frac{m}{m}\\
-d=0,904 \fra
+d=0,904 \frac{g}{mL}\\
+MM=17,03 \frac{g}{mol}
 $$
+
+Calcolare il pH della soluzione diluita
+
+$$
+pK_{b}=4,5
+$$
+
+Base deo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1NDg5NTcwLDYyMTk4MzcyOF19
+eyJoaXN0b3J5IjpbLTE2MjA0NTYwMDgsNjIxOTgzNzI4XX0=
 -->
