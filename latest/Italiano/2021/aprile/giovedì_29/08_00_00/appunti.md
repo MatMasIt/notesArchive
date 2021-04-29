@@ -16,9 +16,10 @@
 		* Sagredo
 		* Salviati
 	* La *Favola dei suoni*
+		* Descrizione del metodo scientifico
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0OTc1Nzg1LC0xMDcyMjY2MTgxLDYyMz
-YxMzc1LC0xMzI0MDUwMjA3XX0=
+eyJoaXN0b3J5IjpbLTE0NzcyNDM0NSwtMTA3MjI2NjE4MSw2Mj
+M2MTM3NSwtMTMyNDA1MDIwN119
 -->
