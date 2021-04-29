@@ -19,9 +19,10 @@
 		* Descrizione del metodo scientifico
 ## Dogliani
 * La borghesia nela commedia di Goldoni
-* 
+	* pearvenù
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjE3ODk2MywtMTA3MjI2NjE4MSw2Mj
-M2MTM3NSwtMTMyNDA1MDIwN119
+eyJoaXN0b3J5IjpbMTgyODA0OTAzMywxMzk2MTc4OTYzLC0xMD
+cyMjY2MTgxLDYyMzYxMzc1LC0xMzI0MDUwMjA3XX0=
 -->
