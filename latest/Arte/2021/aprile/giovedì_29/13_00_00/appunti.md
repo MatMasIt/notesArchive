@@ -48,7 +48,11 @@ Casa di famiglia importante sul canal grande
 tre livelli
 parte inferiore: rivestimaneto a bugnato
 
-Finestre riprendono biblioteca
+Finestre riprendono biblioteca Laurenziana di Michelangelo
+
+Vestibolo di ingressso
+
+Livello superiore colonne singole o binate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTY0NjgzNywxMTExNTMwMjc5XX0=
+eyJoaXN0b3J5IjpbLTk0MDI2OTM5MywxMTExNTMwMjc5XX0=
 -->
