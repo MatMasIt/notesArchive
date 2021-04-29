@@ -8,6 +8,8 @@
 	* Apollo e Daphne (Lorenzo)
 * Borromini (Diego)
 	* San Carlo alle Quattro Fontane (Diego)
+		* Interni (Diego)
+		* Facciata (Diego)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTE4NjI1Nl19
+eyJoaXN0b3J5IjpbMTMxMjA3NzgxOV19
 -->
