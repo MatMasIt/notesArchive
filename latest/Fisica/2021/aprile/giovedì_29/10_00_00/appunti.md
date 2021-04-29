@@ -51,10 +51,11 @@ Due pezzi di filo percorsi da corrente
 
 Influenza tra due pezzi di filo
 
+![enter image description here](https://i.imgur.com/hHHbyiu.jpg)
 
 ## esperienza di Ampere
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3ODM3NDQ2LC0xMTg5MjgxNDQsMTg3Nz
-QyMzgxMSwtMTY5NzE5NjE3NywxNDAzNzQ1MzA1XX0=
+eyJoaXN0b3J5IjpbMjA0MDMzMjA4OSwtMTE4OTI4MTQ0LDE4Nz
+c0MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0NTMwNV19
 -->
