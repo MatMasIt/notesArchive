@@ -35,7 +35,10 @@ $$
 pH=-\log(H^{+})
 $$
 
-
+$$
+10^{-pH}=\sqrt{K_{a} \cdot C_{a}}\\
+[H^{+}]=\sqrt{K_{a}\cdotC_{a}}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjI2NzM5Niw2MjE5ODM3MjhdfQ==
+eyJoaXN0b3J5IjpbLTE2MzYyNzk5MjMsNjIxOTgzNzI4XX0=
 -->
