@@ -31,8 +31,9 @@
 ## Menzio
 * Introduzione alla Vita di Alfieri
 * La formazione (autodidatta)
+* Gran Tour
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY3NzU5NDcsMjcwMjgwMzg0LDEzOT
+eyJoaXN0b3J5IjpbLTIwODQxNDQyMTcsMjcwMjgwMzg0LDEzOT
 YxNzg5NjMsLTEwNzIyNjYxODEsNjIzNjEzNzUsLTEzMjQwNTAy
 MDddfQ==
 -->
