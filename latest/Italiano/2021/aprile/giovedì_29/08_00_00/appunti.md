@@ -5,13 +5,9 @@
 
 ## Manera
 * storia della commedia di Goldoni
-* La *Vita* di Alfieri
-
-Brano di Alfieri
-
+* La *Vita* di Alfieri, un brano (**Svezia**)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIzNTU4MDQsLTEzMjQwNTAyMDddfQ
-==
+eyJoaXN0b3J5IjpbNjIzNjEzNzUsLTEzMjQwNTAyMDddfQ==
 -->
