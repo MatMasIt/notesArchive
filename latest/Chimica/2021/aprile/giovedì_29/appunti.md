@@ -78,11 +78,13 @@ $$
 C_{[OH^{-}]}=\sqrt{K_{b}\cdot C_{b}}
 $$
 $$
-d\cdot 1000mL=\\0,904\cdot 1000= 904 
+d\cdot 1000mL=\\0,904\cdot 1000= 904 \frac{g}{L}\\
+26\%soluto\\
+m_{soluto}=904_{g}{L}\cdot0,26\cdot 1
 $$
 
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMjk2MzA0LDYyMTk4MzcyOF19
+eyJoaXN0b3J5IjpbNzQ4MTQwNDc1LDYyMTk4MzcyOF19
 -->
