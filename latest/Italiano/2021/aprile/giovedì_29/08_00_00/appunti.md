@@ -33,8 +33,9 @@
 * La formazione (autodidatta)
 * Gran Tour
 * Opere
+	* Tragedie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjA1NTU1MCwyNzAyODAzODQsMTM5Nj
-E3ODk2MywtMTA3MjI2NjE4MSw2MjM2MTM3NSwtMTMyNDA1MDIw
-N119
+eyJoaXN0b3J5IjpbLTEzODQ5MTY2NzMsMjcwMjgwMzg0LDEzOT
+YxNzg5NjMsLTEwNzIyNjYxODEsNjIzNjEzNzUsLTEzMjQwNTAy
+MDddfQ==
 -->
