@@ -14,7 +14,10 @@
 		* Interni (Diego)
 		* Facciata (Diego)
 			* Differene tra livelli (Diego)
-	* San't Ivo alla sapienza (lorenzo)
+	* San't Ivo alla sapienza (Lorenzo)
+		* Illusionismo prospettico (Lorenzo)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTI0MzY5Nl19
+eyJoaXN0b3J5IjpbLTQ4NTc4OTQzMV19
 -->
