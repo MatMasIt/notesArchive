@@ -58,6 +58,15 @@ Influenza tra due pezzi di filo
 
 Due pezzi di filo hanno interazione magnetica che è formalmente simile alle formule del caso gravitazionale e elettrico
 
+### Osservazioni
+
+Se le due direzione di corrente sono uguali i ili si avvicinano
+
+![Avvicinamento](https://i.imgur.com/jVDCmEk.jpg)
+
+Se la corrente scorre in versi opposti si respingono
+![enter image description here](https://i.imgur.com/WHVDm0P.jpg)
+
 ### Legge
 $$
 \vec{F_{m}}=K\frac{I1\cdot I2 \cdot L1}{d^2}\\
@@ -73,7 +82,7 @@ Dal caso elettrostatico al caso magnetico
 
 Due pezzi di filo determinano una interazione e quesa forza di interazione 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI3MTc3NjAsLTE4MTY3NDg4MTIsMj
-A0MDMzMjA4OSwtMTE4OTI4MTQ0LDE4Nzc0MjM4MTEsLTE2OTcx
-OTYxNzcsMTQwMzc0NTMwNV19
+eyJoaXN0b3J5IjpbLTExMzEzODMzNTksLTE4OTI3MTc3NjAsLT
+E4MTY3NDg4MTIsMjA0MDMzMjA4OSwtMTE4OTI4MTQ0LDE4Nzc0
+MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0NTMwNV19
 -->
