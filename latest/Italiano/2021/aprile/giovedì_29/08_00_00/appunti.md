@@ -34,9 +34,12 @@
 * Gran Tour
 * Opere
 	* Tragedie
-* Testo: Pietro Verri, 
+* Testo: Pietro Verri, *Ossservazioni sulla Tortura*
+	* Ispira la *Colonna Infame* di Alessandro Manzoni
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjU3MTQ1LDI3MDI4MDM4NCwxMzk2MT
-c4OTYzLC0xMDcyMjY2MTgxLDYyMzYxMzc1LC0xMzI0MDUwMjA3
-XX0=
+eyJoaXN0b3J5IjpbLTE0NTU3ODc2NzYsMjcwMjgwMzg0LDEzOT
+YxNzg5NjMsLTEwNzIyNjYxODEsNjIzNjEzNzUsLTEzMjQwNTAy
+MDddfQ==
 -->
