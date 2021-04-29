@@ -101,13 +101,14 @@ Mettere l'attenzione solo sull'oggetto che sta generando l'alterazione
 siccome la forza a numeratore è un vettore
 
 
+![Campo terrestre](https://i.imgur.com/8CYQkE0.jpg)
 
-> *"Il campo è un vettore"*
-> \- Daniela Genta
-
+$$
+g=G\frac{M_{T}}{R_{T}}=6,6
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjMzMDYyMCwtMTYxNTY4Mzc5MCwtMT
-g5MjcxNzc2MCwtMTgxNjc0ODgxMiwyMDQwMzMyMDg5LC0xMTg5
-MjgxNDQsMTg3NzQyMzgxMSwtMTY5NzE5NjE3NywxNDAzNzQ1Mz
-A1XX0=
+eyJoaXN0b3J5IjpbMTI3MTkzNTcwLC0xNjE1NjgzNzkwLC0xOD
+kyNzE3NzYwLC0xODE2NzQ4ODEyLDIwNDAzMzIwODksLTExODky
+ODE0NCwxODc3NDIzODExLC0xNjk3MTk2MTc3LDE0MDM3NDUzMD
+VdfQ==
 -->
