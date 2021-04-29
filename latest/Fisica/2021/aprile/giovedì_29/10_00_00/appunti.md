@@ -81,9 +81,10 @@ Permeabilità magnetica del vuoto
 Dal caso elettrostatico al caso magnetico
 
 Due pezzi di filo determinano una interazione e quesa forza di interazione 
+## Il campo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5MTIyNzgzLC0xODkyNzE3NzYwLC0xOD
-E2NzQ4ODEyLDIwNDAzMzIwODksLTExODkyODE0NCwxODc3NDIz
-ODExLC0xNjk3MTk2MTc3LDE0MDM3NDUzMDVdfQ==
+eyJoaXN0b3J5IjpbLTE2MTU2ODM3OTAsLTE4OTI3MTc3NjAsLT
+E4MTY3NDg4MTIsMjA0MDMzMjA4OSwtMTE4OTI4MTQ0LDE4Nzc0
+MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0NTMwNV19
 -->
