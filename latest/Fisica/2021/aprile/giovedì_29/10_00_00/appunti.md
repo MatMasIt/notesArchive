@@ -15,7 +15,8 @@ Terra come un grande magnete
 
 particelle si scotrano con particelle atmosfera
 urti, effetto luminoso
+Bande luminose, effetto aurore boreali
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAzMTg2NDYsMTQwMzc0NTMwNV19
+eyJoaXN0b3J5IjpbNDYzMDkwMjgxLDE0MDM3NDUzMDVdfQ==
 -->
