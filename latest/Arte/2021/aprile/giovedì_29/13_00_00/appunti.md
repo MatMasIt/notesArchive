@@ -7,7 +7,7 @@
 		* Lineamenti Facciali (Diego)
 	* Apollo e Daphne (Lorenzo)
 * Borromini (Diego)
-* 
+	* San Carlo alle Quattro Fontane (Diego)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzcxMTgwN119
+eyJoaXN0b3J5IjpbLTQ3OTE4NjI1Nl19
 -->
