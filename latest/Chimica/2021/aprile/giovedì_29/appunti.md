@@ -111,8 +111,11 @@ NaA: sale formato da un acido debole con una base forte
 Idrolisi basica (base forte)
 
 $$
-[OH^{-}]=\sqrt{
+[OH^{-}]=\sqrt{\frac{K_{w}}{K_{a}}\cdot C_{s}}\\
+pH=10 \rightarrow pOH= 10^{-4}\\
+
+10
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI1MjY5NTcsNjIxOTgzNzI4XX0=
+eyJoaXN0b3J5IjpbMTM1NTUzNTYzNSw2MjE5ODM3MjhdfQ==
 -->
