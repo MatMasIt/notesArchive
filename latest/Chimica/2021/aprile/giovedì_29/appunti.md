@@ -56,7 +56,15 @@ C_{a}=\frac{[H^{+}]^{2}}{K_{a}}=\\
 $$
 
 
-
+---
+$$
+25 mL \rightarrow  250 mL\\
+$$
+Etichetta originale
+$$
+26\% \frac{m}{m}\\
+d=0,904 \fra
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODk1NTMzMSw2MjE5ODM3MjhdfQ==
+eyJoaXN0b3J5IjpbNjc1NDg5NTcwLDYyMTk4MzcyOF19
 -->
