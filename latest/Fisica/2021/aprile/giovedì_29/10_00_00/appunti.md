@@ -5,6 +5,7 @@ P 364
 Campo magnetico 
 20'000 nano tesla all'equatore
 e 70'000 nano tesla ai poli
+Tela: unità di misura molto grande
 
 Particelle intrppolate in fasce di Van Allen, Toroide ristretto ai poli
 Particelle catturate
@@ -22,5 +23,5 @@ E=hf
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzMjM4NTEsMTQwMzc0NTMwNV19
+eyJoaXN0b3J5IjpbLTYyNjUwNzQzMSwxNDAzNzQ1MzA1XX0=
 -->
