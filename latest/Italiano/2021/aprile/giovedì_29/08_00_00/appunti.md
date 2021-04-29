@@ -24,9 +24,11 @@
 	* Le *Baruffe Chiozzotte*
 	* t5, _I rimpianti di Saul_, p 481
 		* Vicenda
+			* Tentaivo di allontanamento
+		* Squilibri psicologici di Saul
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExMzIyMzg2LDI3MDI4MDM4NCwxMzk2MT
-c4OTYzLC0xMDcyMjY2MTgxLDYyMzYxMzc1LC0xMzI0MDUwMjA3
-XX0=
+eyJoaXN0b3J5IjpbLTEyNTkxMTc3MywyNzAyODAzODQsMTM5Nj
+E3ODk2MywtMTA3MjI2NjE4MSw2MjM2MTM3NSwtMTMyNDA1MDIw
+N119
 -->
