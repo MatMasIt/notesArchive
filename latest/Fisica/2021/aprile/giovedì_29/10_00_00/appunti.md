@@ -25,7 +25,8 @@ $$
 Scoperta casuale, passaggio di corrente in un filo, ago della bussola ruota
 ago di dispone perpendicolare al filo
 
+Limatura di ferro cè come tanti piccoli aghi se si dispongono con un certo orientament
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzQyMzgxMSwtMTY5NzE5NjE3NywxND
-AzNzQ1MzA1XX0=
+eyJoaXN0b3J5IjpbLTExODkyODE0NCwxODc3NDIzODExLC0xNj
+k3MTk2MTc3LDE0MDM3NDUzMDVdfQ==
 -->
