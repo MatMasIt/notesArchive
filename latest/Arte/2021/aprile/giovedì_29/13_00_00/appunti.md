@@ -81,7 +81,14 @@ Cappelle radiali
 Voto e pieno
 
 Cpola con fiestre a raggiera
-esagono di archetti che ruotano di 30 gradi rispetto all'esagono sottos
+esagono di archetti che ruotano di 30 gradi rispetto all'esagono sottostante e dimensione progressiamente ridotta
+Al centro spirito santo 
+forte simbolismo
+
+Esterno
+
+
+Lanterna stile pagoda, che ricorda Borromini ( San Nicola sapienza)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMzNzc2MjAsMTExMTUzMDI3OV19
+eyJoaXN0b3J5IjpbOTY5NDU4MTU5LDExMTE1MzAyNzldfQ==
 -->
