@@ -39,10 +39,16 @@ pianta centrale bracci di egual misura, sul cui punto di incrocio si alza la cup
 
 Interno: movimento plastico di vuoti e di pieni
 
-### Baldassare
+### Baldassare Longhena
 A Venezia 
-848
-A venezi
+p. 848
+
+#### Ca' Pesaro
+Casa di famiglia importante sul canal grande
+tre livelli
+parte inferiore: rivestimaneto a bugnato
+
+Finestre riprendono biblioteca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDY0Njk2MCwxMTExNTMwMjc5XX0=
+eyJoaXN0b3J5IjpbMTI5MTY0NjgzNywxMTExNTMwMjc5XX0=
 -->
