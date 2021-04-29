@@ -39,8 +39,11 @@
 	* Ragionamento deduttivo, per ipotesi, per assurdo
 		* Uso  della lingua nei testi, persuasivo
 		* Il caffè
+* Cosa hai preferito della letteratura di quest'anno?
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjY0MjIzMjgsLTE0NTU3ODc2NzYsMj
-cwMjgwMzg0LDEzOTYxNzg5NjMsLTEwNzIyNjYxODEsNjIzNjEz
-NzUsLTEzMjQwNTAyMDddfQ==
+eyJoaXN0b3J5IjpbLTMyOTQzNzMwNCwtMTQ1NTc4NzY3NiwyNz
+AyODAzODQsMTM5NjE3ODk2MywtMTA3MjI2NjE4MSw2MjM2MTM3
+NSwtMTMyNDA1MDIwN119
 -->
