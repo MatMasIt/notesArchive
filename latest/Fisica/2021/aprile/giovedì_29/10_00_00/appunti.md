@@ -55,8 +55,9 @@ Influenza tra due pezzi di filo
 
 ## esperienza di Ampere
 2 alimentatori con corrente continua e li ha connessi separatamente, facendo in modo che la corrente scorresse neidue fili nello stesso verso
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTY3NDg4MTIsMjA0MDMzMjA4OSwtMT
-E4OTI4MTQ0LDE4Nzc0MjM4MTEsLTE2OTcxOTYxNzcsMTQwMzc0
-NTMwNV19
+eyJoaXN0b3J5IjpbLTEwNTMwMDQ0NiwtMTgxNjc0ODgxMiwyMD
+QwMzMyMDg5LC0xMTg5MjgxNDQsMTg3NzQyMzgxMSwtMTY5NzE5
+NjE3NywxNDAzNzQ1MzA1XX0=
 -->
