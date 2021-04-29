@@ -4,8 +4,8 @@
 
 * Bernini (Lorenzo)
 	* Il David (Lorenzo)
-	* Lineameni Facciali (Diego)
-
+		* Lineamenti Facciali (Diego)
+	* Apollo e Daphne (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2MTMyMTI3XX0=
+eyJoaXN0b3J5IjpbLTE0NjQzMzcyNjddfQ==
 -->
