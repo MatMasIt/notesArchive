@@ -58,7 +58,13 @@ Ordini separati da balaustre
 
 #### Santa Maria della Salute
 Venezia
-Pianta a base ot
+Pianta centrale a base ottagonale
+Deambolatorio esterno con cappelle quadrandolari 
+
+Presbiterio absidato ai lati+ coro
+ Struttura allungata
+Esterno: facciata classica, idea di tempio classico
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzcxMzk2MCwxMTExNTMwMjc5XX0=
+eyJoaXN0b3J5IjpbODY3MzU1Njg0LDExMTE1MzAyNzldfQ==
 -->
