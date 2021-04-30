@@ -125,17 +125,17 @@ E_{2}=8,9\cdot10^9\frac{Nm^2}{C^2}=\frac{1\cdot10^{-6}}{16\cdot10^{-4}m^2}=5,5\c
 E_{3}=8,9\cdot10^9\frac{Nm^2}{C^2}=\frac{4\cdot10^{-6}}{13\cdot10^{-4}m^2}=2,7\cdot 10^7\frac{N}{C}
 $$
 
-alcolo angoli
+Calcolo angoli
 $$
-\theta=\\
+\theta=\frac{lopp}{ladiac}=\frac{2}{1}=\arctan2=63\\
 \alpha=
 $$
 
 $$
-E_{1}=e_{1}\cos\theta\vec{i}-E_{1}\sin\theta\vec{j}
+E_{1}=e_{1}\cos\theta\vec{i}-E_{1}\sin\theta\vec{j}=(2,4\vec{i}-4,8\vec{j})\cdot10^{7}\frac{N}{C}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDMxNDA4MDksNDk2ODYzMzg2LC0zND
-gzNjgwNTEsOTAzODk3OTYwLC0xNDkwMjYxNTIyLDEwNTQ5MDA4
-OTAsLTQ1ODQ1MDg3M119
+eyJoaXN0b3J5IjpbMTczMDY0NjIxNiw0OTY4NjMzODYsLTM0OD
+M2ODA1MSw5MDM4OTc5NjAsLTE0OTAyNjE1MjIsMTA1NDkwMDg5
+MCwtNDU4NDUwODczXX0=
 -->
