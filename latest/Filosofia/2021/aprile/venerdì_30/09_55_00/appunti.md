@@ -6,7 +6,16 @@
  
  Diritto di emigrazione, tutela lavoro italiano all'estero
  # Lezione di Filosofia (3° ora)
- ## 
+ ## Venerdì 30 aprile 2021, 10:01:00
+ Cartesio
+ idee:
+* avventizie
+* fattizie
+* innate
+
+Dio è una idea innata
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzkxMTcyMl19
+eyJoaXN0b3J5IjpbMTUxNDU2NTQxNl19
 -->
