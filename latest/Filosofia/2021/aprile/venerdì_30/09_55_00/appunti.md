@@ -23,8 +23,9 @@ Qualcosa di meno perfetto non può avere prodotto qualcosa di più perfetto
 **Dunque Dio esiste**
 * La cosa pensante, che sappiamo con certezza che esiste, non può essersi causata da sé, allora non sarebbe dubitante, mi sarei dato la perfezione della omniscenza
 **Un ente supremo le ha dato l'esistenza**
+* 
 * prova di sant' Anselmo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxODAxMDgzXX0=
+eyJoaXN0b3J5IjpbMjExNjkzNzI2Nyw5NDE4MDEwODNdfQ==
 -->
