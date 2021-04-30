@@ -22,6 +22,7 @@ G=6,67\cdot 10^{-11}\frac{Nm^2
 }{Kg^2}\\
 ---\\
 \vec{F_{e}}=\frac{1}{4\pi\epsilon_{0}}\frac{Qq}{\vec{R}^2}\\
+---\\
 \vec{F_{m}}=K\frac{F_{1}F_{2}l}{\vec{d}}\\
 ---\\
 \frac{1}{4\pi\epsilon_{0}}=K_{0}=8,9\cdot 10^9\frac{Nm^2}{C^2}\\
@@ -59,10 +60,12 @@ $$
 \bigodot uscente\space\space\\
 \bigotimes entrante
 $$
-$$
-\l
-$$
+
+## Esercizi
+### Volume 2, pagina 217, es 52
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDY4NjY1MCwtMTQ5MDI2MTUyMiwxMD
+eyJoaXN0b3J5IjpbMjA5MjE1NTE5MSwtMTQ5MDI2MTUyMiwxMD
 U0OTAwODkwLC00NTg0NTA4NzNdfQ==
 -->
