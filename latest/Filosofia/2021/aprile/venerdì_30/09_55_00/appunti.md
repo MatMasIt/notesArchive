@@ -33,8 +33,10 @@ Esistenza delle cose estene sono idee chiare e distinte siccome Dio fa come gara
 
 Altro pezzo di realtà, occupare uno spazio, essere dotata di movimento
 
-possedere uno spazio: re
+possedere uno spazio: *res extensa*
+
+Dio garante della verità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5MjcxMTEwLC0xMjY5OTAwMTg2LDExOT
-g0MDQ2NTYsOTQxODAxMDgzXX0=
+eyJoaXN0b3J5IjpbMTA5MDAwMTU3NywtMTI2OTkwMDE4NiwxMT
+k4NDA0NjU2LDk0MTgwMTA4M119
 -->
