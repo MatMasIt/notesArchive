@@ -17,8 +17,9 @@ $$
 Acido debole + suo sale : soluzione tampone acida
 
 $$
-n_{s}=\frac{m_{s}}{MM_{s}}=\frac{3g}{
+n_{s}=\frac{m_{s}}{MM_{s}}=\frac{3g}{68,01\frac{g}{mol}}=0,044111mol\\
+C_{s}=\frac{n_{s}}{V_{a}}=\frac{0,044
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Njk3NTcxN119
+eyJoaXN0b3J5IjpbLTQ3NTcyMzgyXX0=
 -->
