@@ -9,15 +9,16 @@ $$
 si aggiungono
 $$
 HCOONa\\
-m(g)=3g
+m_{s}(g)=3g=0,003Kg
+MM
 $$
 
 ---
 Acido debole + suo sale : soluzione tampone acida
 
 $$
-pH=pK
+n_{s}=\frac{m_{s}}{MM_{s}}=
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTA2MDYyNF19
+eyJoaXN0b3J5IjpbLTE2MzYwODQ5OTNdfQ==
 -->
