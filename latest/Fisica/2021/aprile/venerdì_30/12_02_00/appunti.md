@@ -164,11 +164,14 @@ Possiamo considerare i fili a coppie
 
 coppia I1 e I2: forza repulsiva
 $$
-F_{12}=K\frac{I_{
+F_{12}=K\frac{I_{1}I_{2}l}{d}=\\
+2\cdot10^{-7}\frac{N}{A}\cdot \frac{9A\cdot10A\cdot 1m}{2\cdot 10^{-2}m}=9\cdot10^{-4}N\\
+F_{13}=K\frac{I_{1}I_{2}l}{d}=\\
+2\cdot10^{-7}\frac{N}{A}\cdot \frac{9A\cdot10A\cdot 1m}{2\cdot 10^{-2}m}=9\cdot10^{-4}N
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODc0MDg3Nyw0OTY4NjMzODYsLTM0OD
-M2ODA1MSw5MDM4OTc5NjAsLTE0OTAyNjE1MjIsMTA1NDkwMDg5
-MCwtNDU4NDUwODczXX0=
+eyJoaXN0b3J5IjpbLTE3NDg3ODEzNzQsNDk2ODYzMzg2LC0zND
+gzNjgwNTEsOTAzODk3OTYwLC0xNDkwMjYxNTIyLDEwNTQ5MDA4
+OTAsLTQ1ODQ1MDg3M119
 -->
