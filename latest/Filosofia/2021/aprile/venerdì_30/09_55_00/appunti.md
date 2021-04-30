@@ -28,7 +28,9 @@ Qualcosa di meno perfetto non può avere prodotto qualcosa di più perfetto
 *Dio esiste con sicurezza*
 
 Dio non può aver consentito l'inganno di un genio maligno
+
+Esistenza delle cose este
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjk5MDAxODYsMTE5ODQwNDY1Niw5ND
-E4MDEwODNdfQ==
+eyJoaXN0b3J5IjpbMjQxMTc4NjU3LC0xMjY5OTAwMTg2LDExOT
+g0MDQ2NTYsOTQxODAxMDgzXX0=
 -->
