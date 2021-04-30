@@ -96,6 +96,7 @@ Risultante dei quattro vettori è uguale  a 0
 
 ## p 218 es 58 vol 2
 In un sistema di riferimento cartesiano Oxy si trovano due cariche
+![Schema](https://i.imgur.com/ZEs4K2x.jpg)
 Cariche
 $$
 q_{1}=+3\mu C=3\cdot 10^-6C\\
@@ -128,7 +129,7 @@ $$
 Calcolo angoli
 $$
 \theta=\frac{lopp}{ladiac}=\frac{2}{1}=\arctan2=63°26'5.82''\\
-\alpha=
+\alpha=\arctan\frac{2}{3}=33°41'22,24''
 $$
 
 $$
@@ -147,7 +148,7 @@ F=q\cdot E=5\cdot10^{-6}\cancel{C}\cdot6.08\cdot10^7\frac{N}{\cancel{C}}=304N\\
 E=\frac{F}{q}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDQxMDMzNyw0OTY4NjMzODYsLTM0OD
+eyJoaXN0b3J5IjpbMTMwNjk2MTAzMSw0OTY4NjMzODYsLTM0OD
 M2ODA1MSw5MDM4OTc5NjAsLTE0OTAyNjE1MjIsMTA1NDkwMDg5
 MCwtNDU4NDUwODczXX0=
 -->
