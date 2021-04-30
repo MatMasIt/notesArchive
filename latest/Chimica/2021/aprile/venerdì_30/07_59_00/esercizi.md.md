@@ -44,6 +44,10 @@ $$
 C_{b}=\frac{10^{-2\cdot 4}}{K_{b}}=0,01M
 $$
 
+$$
+C_{i}\cdot V_{i}=C_{f} \cdot V_{f}\\
+V_{f}=\fra
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NTUwMDU0XX0=
+eyJoaXN0b3J5IjpbMTIyMjA2ODkwNF19
 -->
