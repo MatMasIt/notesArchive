@@ -14,6 +14,10 @@ The theme of  the **otherness**
 Perspective, perception
 
 It's just a matter of a point of view, 
+
+Everyone seems *other* to anyone
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjgzNDU0OTgsMTk1NDU1MTA1MV19
+eyJoaXN0b3J5IjpbMTA4NjI5MTE1OSwxOTU0NTUxMDUxXX0=
 -->
