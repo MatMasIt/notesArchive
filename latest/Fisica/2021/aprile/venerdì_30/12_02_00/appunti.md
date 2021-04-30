@@ -104,13 +104,14 @@ q_{1}=-4\mu C=-4\cdot 10^-6C\\
 $$
 Coordinate
 $$
-A(-1,0)cm\\
-B(0,2)cm\\
-C(3,0)cm=(3,0)\\
+A(-1,0)cm=(-1,0)\cdot 10^{-2}m\\
+B(0,2)cm=(0,2)\cdot 10^{-2}m\\
+C(3,0)cm=(3,0)\cdot 10^{-2}m\\
 D(0-2)\cdot 10^{-2}m
 $$
+q1: campo elettrico radiale e uscete
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzAwNzk0NiwtMzQ4MzY4MDUxLDkwMz
-g5Nzk2MCwtMTQ5MDI2MTUyMiwxMDU0OTAwODkwLC00NTg0NTA4
-NzNdfQ==
+eyJoaXN0b3J5IjpbNDk2ODYzMzg2LC0zNDgzNjgwNTEsOTAzOD
+k3OTYwLC0xNDkwMjYxNTIyLDEwNTQ5MDA4OTAsLTQ1ODQ1MDg3
+M119
 -->
