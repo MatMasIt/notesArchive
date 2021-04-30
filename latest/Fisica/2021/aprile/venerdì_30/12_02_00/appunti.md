@@ -59,8 +59,10 @@ $$
 \bigodot uscente\space\space\\
 \bigotimes entrante
 $$
-
+$$
+\l
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzIyMjU3NCwtMTQ5MDI2MTUyMiwxMD
+eyJoaXN0b3J5IjpbMTI5MDY4NjY1MCwtMTQ5MDI2MTUyMiwxMD
 U0OTAwODkwLC00NTg0NTA4NzNdfQ==
 -->
