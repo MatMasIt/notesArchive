@@ -17,7 +17,10 @@ Dio è una idea innata
 
 p.98
 Cartesio Dimostra esistenza di Dio:
+* La causa di qualcosa deve essere maggiore o uguale all'effetto 
+La cosa pensante dubita, quindi è imperfetta, ma come può avere innata l'idea di Dio, che è perfet
 * prova di sant' Anselmo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY3NjczMThdfQ==
+eyJoaXN0b3J5IjpbNzM4MTM0NzE4XX0=
 -->
