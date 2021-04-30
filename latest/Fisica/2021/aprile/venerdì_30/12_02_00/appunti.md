@@ -67,9 +67,12 @@ $$
 $$
 Q_{A}=Q_{B}=Q{C}=Q{D}=Q=+7,2\cdot 10^{-5}C\\
 \hat{AB}=l=10 cm=0,1m\\
-1)
+1)Q_{A}\rightarrow E\\
+2)Q_{A},Q{B}\\
+3)Q_{A},Q_{B},Q_{C},Q_{D}
 $$
+Consideriamo un sisdema di riferimento con origine il o e orientato come in figura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzEyNzAxNywtMTQ5MDI2MTUyMiwxMD
+eyJoaXN0b3J5IjpbMTAxMzE3NDU3NCwtMTQ5MDI2MTUyMiwxMD
 U0OTAwODkwLC00NTg0NTA4NzNdfQ==
 -->
