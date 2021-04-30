@@ -29,8 +29,12 @@ Qualcosa di meno perfetto non può avere prodotto qualcosa di più perfetto
 
 Dio non può aver consentito l'inganno di un genio maligno
 
-Esistenza delle cose este
+Esistenza delle cose estene sono idee chiare e distinte siccome Dio fa come garante e quindi non è possibile che ci illuda, quindi si può essere tranquilli
+
+Altro pezzo di realtà, occupare uno spazio, essere dotata di movimento
+
+possedere uno spazio: re
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxMTc4NjU3LC0xMjY5OTAwMTg2LDExOT
+eyJoaXN0b3J5IjpbNTY5MjcxMTEwLC0xMjY5OTAwMTg2LDExOT
 g0MDQ2NTYsOTQxODAxMDgzXX0=
 -->
