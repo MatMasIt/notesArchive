@@ -96,7 +96,14 @@ Risultante dei quattro vettori è uguale  a 0
 
 ## p 218 es 58 vol 2
 In un sistema di riferimento cartesiano Oxy si trovano due cariche
+
+$$
+q_{1}=+3\mu C=3\cdot 10^-6C\\
+q_{2}=+\\mu C=1\cdot 10^-6C\\
+q_{1}=+3\mu C=3\cdot 10^-6C\\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODM2ODA1MSw5MDM4OTc5NjAsLTE0OT
-AyNjE1MjIsMTA1NDkwMDg5MCwtNDU4NDUwODczXX0=
+eyJoaXN0b3J5IjpbLTIwOTA4NjM5NDMsLTM0ODM2ODA1MSw5MD
+M4OTc5NjAsLTE0OTAyNjE1MjIsMTA1NDkwMDg5MCwtNDU4NDUw
+ODczXX0=
 -->
