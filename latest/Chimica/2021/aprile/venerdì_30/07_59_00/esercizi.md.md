@@ -13,7 +13,10 @@ V_{b}=75 mL\\
 C_{b}=0,215M
 $$
 
+Quindi
+$$
 
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjM2Njg1ODFdfQ==
+eyJoaXN0b3J5IjpbNDk2NDM2MTUxXX0=
 -->
