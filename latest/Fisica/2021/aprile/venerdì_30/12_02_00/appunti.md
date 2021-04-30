@@ -94,7 +94,9 @@ $$
 
 Risultante dei quattro vettori è uguale  a 0
 
+## p 218 es 58 vol 2
+In un sistema di riferimento cartesiano Oxy si trovano due cariche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzE0ODQ1MCw5MDM4OTc5NjAsLTE0OT
+eyJoaXN0b3J5IjpbLTM0ODM2ODA1MSw5MDM4OTc5NjAsLTE0OT
 AyNjE1MjIsMTA1NDkwMDg5MCwtNDU4NDUwODczXX0=
 -->
