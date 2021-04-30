@@ -49,8 +49,12 @@ natura puramente intellettuale
 volontà buona, se fosse anche un pochino cativo sarebbe imperfetto,
 se è buono non può ingannare
 
-Dio è garante
+Dio è garante gnoseologico
+
+carattere precipitoso ci porta a saltare passaggi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzg5NzI3MSwtMTI2OTkwMDE4NiwxMT
-k4NDA0NjU2LDk0MTgwMTA4M119
+eyJoaXN0b3J5IjpbLTM5MjUxNjc1LC0xMjY5OTAwMTg2LDExOT
+g0MDQ2NTYsOTQxODAxMDgzXX0=
 -->
