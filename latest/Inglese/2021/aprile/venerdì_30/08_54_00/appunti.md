@@ -43,8 +43,8 @@ Friday himself he is a cannibal, he sows to Robinson that he would like to dig b
 
 Robinson was horrored, disgusted
 
-so he ordered to him to come away an
+so he ordered to him to come away and friday obeys
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjQ4NDg0OCwtMTE3MTkyNzk4MSwtMT
+eyJoaXN0b3J5IjpbMTE4Mjg1NTY4OSwtMTE3MTkyNzk4MSwtMT
 YyOTE4Njg5MSwxMDg2MjkxMTU5LDE5NTQ1NTEwNTFdfQ==
 -->
