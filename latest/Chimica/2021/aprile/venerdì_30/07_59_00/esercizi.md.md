@@ -35,8 +35,14 @@ pOH=-\log\sqrt{K_{b}C_{b}}\\
 (14-10,5)=-\log\sqrt{K_{b}C_{b}}\\
 10^{-2\cdot3.5}=K_{b}C_{b}\\
 K_{b}=\frac{10^{-2\cdot3.5}}{C_{b}}\\
-K_{b}=\frac{10^{-2\cdot3.5}}{0,1}=
+K_{b}=\frac{10^{-2\cdot3.5}}{0,1}=10^{-6}
+$$
+
+ora calcolo Cb per ph=10 (pOh=4)
+
+$$
+C_{b}=\frac{10}{}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTU3NTk5NF19
+eyJoaXN0b3J5IjpbLTE3NTcyNjU5MTRdfQ==
 -->
