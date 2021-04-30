@@ -35,7 +35,9 @@ $$
 \vec{H}=\frac{\vec{F_{g}}}{m}\rightarrow \frac{m}{s^2}\\
 H=G\frac{M}{R^2}
 $$
+I vettori sono tutti diversi, tutto dipende dalla distanza
+![Campo](https://i.imgur.com/evbUlA5.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODQ1MDg3M119
+eyJoaXN0b3J5IjpbLTkyNDA2MDQxMiwtNDU4NDUwODczXX0=
 -->
