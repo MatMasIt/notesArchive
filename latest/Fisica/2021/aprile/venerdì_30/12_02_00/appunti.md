@@ -118,13 +118,14 @@ E_{1}=K_{0}\frac{q_{1}}{\overline{AD}^2}\\
 5\cdot10^{-4}m^2\\
 {\overline{DC}}={\overline{OC}}^2+{\overline{OD}}^2=(9+4)\cdot10^{-4}m^2=13\cdot10^{-4}m^2
 $$
-
+Risolvo i campi
 $$
 E_{1}=8,9\cdot10^9\frac{Nm^2}{C^2}=\frac{3\cdot10^{-6}}{5\cdot10^{-4}m^2}=5,34\cdot 10^7\frac{N}{C}\\
-E_{1}=8,9\cdot10^9\frac{Nm^2}{C^2}=\frac{1\cdot10^{-6}}{16\cdot10^{-4}m^2}=5,34\cdot 10^7\frac{N}{C}
+E_{2}=8,9\cdot10^9\frac{Nm^2}{C^2}=\frac{1\cdot10^{-6}}{16\cdot10^{-4}m^2}=5,5\cdot 10^6\frac{N}{C}=0,55\cdot10^{7}\frac{N}{C}\\
+E_{3}=8,9\cdot10^9\frac{Nm^2}{C^2}=\frac{4\cdot10^{-6}}{13\cdot10^{-4}m^2}=2,7\cdot 10^7\frac{N}{C}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODg3NTg1MDcsNDk2ODYzMzg2LC0zND
+eyJoaXN0b3J5IjpbLTEwODgxMjY1MzYsNDk2ODYzMzg2LC0zND
 gzNjgwNTEsOTAzODk3OTYwLC0xNDkwMjYxNTIyLDEwNTQ5MDA4
 OTAsLTQ1ODQ1MDg3M119
 -->
