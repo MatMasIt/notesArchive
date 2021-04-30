@@ -41,8 +41,8 @@ $$
 ora calcolo Cb per ph=10 (pOh=4)
 
 $$
-C_{b}=\frac{10}{}
+C_{b}=\frac{10^{-2\cdot 4}}{K_{b}}=0,01M
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTcyNjU5MTRdfQ==
+eyJoaXN0b3J5IjpbLTE5ODM5MTg4MF19
 -->
