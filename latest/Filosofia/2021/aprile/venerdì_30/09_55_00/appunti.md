@@ -36,7 +36,9 @@ Altro pezzo di realtà, occupare uno spazio, essere dotata di movimento
 possedere uno spazio: *res extensa*
 
 Dio garante della verità
+
+applicazione del dubbio metodico p.99, riaa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDAwMTU3NywtMTI2OTkwMDE4NiwxMT
+eyJoaXN0b3J5IjpbLTI5NDEyNzc1MSwtMTI2OTkwMDE4NiwxMT
 k4NDA0NjU2LDk0MTgwMTA4M119
 -->
