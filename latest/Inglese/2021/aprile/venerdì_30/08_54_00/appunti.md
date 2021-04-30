@@ -32,7 +32,11 @@ he tries to teach Friday english
  he teaches him yes/no (orders from the colonizer)
 
 He also teaches him "Master", that was to be Robinson's name
+
+Line 34 
+
+Robinson does not allow Friday to mai
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTI4MTIwNSwtMTE3MTkyNzk4MSwtMT
+eyJoaXN0b3J5IjpbLTMzMTc0MzA3NiwtMTE3MTkyNzk4MSwtMT
 YyOTE4Njg5MSwxMDg2MjkxMTU5LDE5NTQ1NTEwNTFdfQ==
 -->
