@@ -76,14 +76,15 @@ Consideriamo un sisdema di riferimento con origine il o e orientato come in figu
 $$ 1) E_{A}=\frac{1}{4\pi\epsilon_{0}}\frac{Q}{{\overline{AO}}^2}\\
 \overline{AO}=\frac{1}{2}\overline{AC}=\\
 \frac{1}{2}0,1m\sqrt{2}=0,1\frac{\sqrt{2}}{2}=0,071m\\
-1)E_{A}=8,9\cdot10^{-9}\frac{Nm^2}{R^2}\cdot\frac{7,2\cdot10^{-5}}{(0,071^2)m}=1,28\cdot10^8\frac{N}{C}=\\
+1)E_{A}=8,9\cdot10^{-9}\frac{Nm^2}{R^2}\cdot\frac{7,2\cdot10^{-5}}{(0,071^2)m}=1,28\cdot10^8\frac{N}{C}\\
 $$
 Calcolo componenti
 $$
 E 45°N\\
-E_{Ax}=E_{Ay}=E_{A}\cdot\sin(45)=0,1\cdot(\frac{\sqrt{2}}{
+E_{Ax}=E_{Ay}=E_{A}\cdot\sin45=9,06\cdot 10^7\frac{N}{C}\\
+E_{A}=(9,1i
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODQxNDQ1OSwtMTQ5MDI2MTUyMiwxMD
+eyJoaXN0b3J5IjpbLTU1MTQ4NDE2OCwtMTQ5MDI2MTUyMiwxMD
 U0OTAwODkwLC00NTg0NTA4NzNdfQ==
 -->
