@@ -88,10 +88,13 @@ $$
 Punto 2
 $$
 E_{B}=E_{A}\\
-\vec{E_{AB}}=\vec{E_{A}}+\vec{E_{B}}=(-9,1\vec{i}+9,1\vec{j}+9,1\vec{i}+9,1\vec{j})\cdot10^7\frac{N}{C}\\
-E
+\vec{E_{AB}}=\vec{E_{A}}+\vec{E_{B}}=(\cancel{-9,1\vec{i}}+9,1\vec{j}+\cancel{9,1\vec{i}}+9,1\vec{j})\cdot10^7\frac{N}{C}\\
+=1,821\cdot10^8\frac{N}{C}
 $$
+
+Risultante dei quattro vettori è uguale  a 0
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODkwODc4Niw5MDM4OTc5NjAsLTE0OT
+eyJoaXN0b3J5IjpbMTEyNzE0ODQ1MCw5MDM4OTc5NjAsLTE0OT
 AyNjE1MjIsMTA1NDkwMDg5MCwtNDU4NDUwODczXX0=
 -->
