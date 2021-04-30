@@ -31,8 +31,10 @@ $$
 
 H2O da aggiungere per ph=10
 $$
-pOH=-\log\sqrt{K_{a}C_{a}}
+pOH=-\log\sqrt{K_{b}C_{b}}\\
+(14-10,5)=-\log\sqrt{K_{b}C_{b}}\\
+10^{-2\cdot3.5}=K_{b}C_{b}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzc2NjAzOF19
+eyJoaXN0b3J5IjpbLTEwMDgyODgzMjJdfQ==
 -->
