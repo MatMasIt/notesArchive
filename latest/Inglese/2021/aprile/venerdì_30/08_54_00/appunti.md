@@ -21,7 +21,11 @@ Friday wants to thank Robinson
 
 sows signs of humblness, submissions
 
+In his opinion this behaivour is  simething natural and compulsory
+
+Typical ENGLISH COLONIZER, natives are inferior
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE5Mjc5ODEsLTE2MjkxODY4OTEsMT
-A4NjI5MTE1OSwxOTU0NTUxMDUxXX0=
+eyJoaXN0b3J5IjpbMjEwMTI3MDE5MywtMTE3MTkyNzk4MSwtMT
+YyOTE4Njg5MSwxMDg2MjkxMTU5LDE5NTQ1NTEwNTFdfQ==
 -->
