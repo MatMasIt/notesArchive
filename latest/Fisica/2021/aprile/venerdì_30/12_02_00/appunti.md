@@ -74,9 +74,11 @@ $$
 Consideriamo un sisdema di riferimento con origine il o e orientato come in figura
 
 $$ 1) E_{A}=\frac{1}{4\pi\epsilon_{0}}\frac{Q}{{\overline{AO}}^2}\\
-\overline{AO}=\frac{1}{2}\overline{AC}=\
+\overline{AO}=\frac{1}{2}\overline{AC}=\\
+\frac{1}{2}0,1m\sqrt{2}=0,1\frac{\sqrt{2}}{2}=0,071m\\
+1)E_{A}=8,9\cdot10^{-9}\frac{Nm^2}{R^2}\cdot\fra
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE3NDIwNzAsLTE0OTAyNjE1MjIsMT
-A1NDkwMDg5MCwtNDU4NDUwODczXX0=
+eyJoaXN0b3J5IjpbLTk0NDg5ODQyMywtMTQ5MDI2MTUyMiwxMD
+U0OTAwODkwLC00NTg0NTA4NzNdfQ==
 -->
