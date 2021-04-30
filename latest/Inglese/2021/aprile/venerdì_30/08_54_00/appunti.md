@@ -19,8 +19,9 @@ Everyone seems *other* to anyone
 
 Friday wants to thank Robinson
 
-sowns signs of humblness, submissions
+sows signs of humblness, submissions
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkxODY4OTEsMTA4NjI5MTE1OSwxOT
-U0NTUxMDUxXX0=
+eyJoaXN0b3J5IjpbLTExNzE5Mjc5ODEsLTE2MjkxODY4OTEsMT
+A4NjI5MTE1OSwxOTU0NTUxMDUxXX0=
 -->
