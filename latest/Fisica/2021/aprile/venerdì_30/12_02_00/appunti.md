@@ -109,7 +109,7 @@ B(0,2)cm=(0,2)\cdot 10^{-2}m\\
 C(3,0)cm=(3,0)\cdot 10^{-2}m\\
 D(0-2)\cdot 10^{-2}m
 $$
-q1: campo elettrico radiale e uscete
+q1: campo elettrico radiale e uscente
 
 
 $$
@@ -125,7 +125,7 @@ E_{2}=8,9\cdot10^9\frac{Nm^2}{C^2}=\frac{1\cdot10^{-6}}{16\cdot10^{-4}m^2}=5,5\c
 E_{3}=8,9\cdot10^9\frac{Nm^2}{C^2}=\frac{4\cdot10^{-6}}{13\cdot10^{-4}m^2}=2,7\cdot 10^7\frac{N}{C}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODgxMjY1MzYsNDk2ODYzMzg2LC0zND
+eyJoaXN0b3J5IjpbLTE0MzcwNTQ3MTIsNDk2ODYzMzg2LC0zND
 gzNjgwNTEsOTAzODk3OTYwLC0xNDkwMjYxNTIyLDEwNTQ5MDA4
 OTAsLTQ1ODQ1MDg3M119
 -->
