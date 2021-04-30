@@ -85,8 +85,12 @@ E 45°N\\
 E_{Ax}=E_{Ay}=E_{A}\cdot\sin45=9,06\cdot 10^7\frac{N}{C}\\
 \vec{E_{A}}=(9,1\vec{i}+9,1\vec{j})\cdot10^7\frac{N}{C}
 $$
-
+Punto 2
+$$
+E_{B}=E_{A}\\
+E_{AB}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzODk3OTYwLC0xNDkwMjYxNTIyLDEwNT
-Q5MDA4OTAsLTQ1ODQ1MDg3M119
+eyJoaXN0b3J5IjpbMTgwNDA4Njc5LDkwMzg5Nzk2MCwtMTQ5MD
+I2MTUyMiwxMDU0OTAwODkwLC00NTg0NTA4NzNdfQ==
 -->
