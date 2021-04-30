@@ -15,7 +15,9 @@
 
 Dio è una idea innata
 
-
+p.98
+Cartesio Dimostra esistenza di Dio:
+* prova di sant' Anselmo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDU2NTQxNl19
+eyJoaXN0b3J5IjpbLTE0MDY3NjczMThdfQ==
 -->
