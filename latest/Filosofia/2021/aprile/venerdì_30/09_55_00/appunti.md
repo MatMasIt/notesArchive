@@ -61,8 +61,13 @@ Concezione metafisica:
 
 realtà composta da due sostanze:
 res cogitans, res extensas
-questo significa
+questo significa la rimozione degli elementi spirituali dalla natura 
+
+anima e Dio sono *res cogitans*
+il resto è e va studiato solo come *res extensa*, come fa il sapere scientifico
+magia, astrologia .. nah
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjk5NzIwNSwtMTI2OTkwMDE4NiwxMT
-k4NDA0NjU2LDk0MTgwMTA4M119
+eyJoaXN0b3J5IjpbMTAyMTU4MTc2LC0xMjY5OTAwMTg2LDExOT
+g0MDQ2NTYsOTQxODAxMDgzXX0=
 -->
