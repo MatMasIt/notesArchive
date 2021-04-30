@@ -162,10 +162,13 @@ Calcolo intensità in A
 
 Possiamo considerare i fili a coppie
 
-### Coppia I1 e I2
- forza repulsiva
+coppia I1 e I2: forza repulsiva
+$$
+F_{12}=K\frac{I_{
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjE0NTY4NCw0OTY4NjMzODYsLTM0OD
+eyJoaXN0b3J5IjpbMTcwODc0MDg3Nyw0OTY4NjMzODYsLTM0OD
 M2ODA1MSw5MDM4OTc5NjAsLTE0OTAyNjE1MjIsMTA1NDkwMDg5
 MCwtNDU4NDUwODczXX0=
 -->
