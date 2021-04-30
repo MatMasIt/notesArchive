@@ -53,8 +53,8 @@ Dio è garante gnoseologico
 
 carattere precipitoso ci porta a saltare passaggi
 
-
+Dio garantisce la realtà del  mondo esterno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjUxNjc1LC0xMjY5OTAwMTg2LDExOT
-g0MDQ2NTYsOTQxODAxMDgzXX0=
+eyJoaXN0b3J5IjpbMjA2MjcxOTg2MSwtMTI2OTkwMDE4NiwxMT
+k4NDA0NjU2LDk0MTgwMTA4M119
 -->
