@@ -148,9 +148,10 @@ F=q\cdot E=5\cdot10^{-6}\cancel{C}\cdot6.08\cdot10^7\frac{N}{\cancel{C}}=304N\\
 E=\frac{F}{q}
 $$
 
-#
+## es 6 p 419
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDA3ODQ3OCw0OTY4NjMzODYsLTM0OD
+eyJoaXN0b3J5IjpbLTE0MTcxNTc5Myw0OTY4NjMzODYsLTM0OD
 M2ODA1MSw5MDM4OTc5NjAsLTE0OTAyNjE1MjIsMTA1NDkwMDg5
 MCwtNDU4NDUwODczXX0=
 -->
