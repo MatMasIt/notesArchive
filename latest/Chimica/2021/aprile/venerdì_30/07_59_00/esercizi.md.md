@@ -19,8 +19,8 @@ Acido debole + suo sale : soluzione tampone acida
 $$
 n_{s}=\frac{m_{s}}{MM_{s}}=\frac{3g}{68,01\frac{g}{mol}}=0,044111mol\\
 C_{s}=\frac{n_{s}}{V_{a}}=\frac{0,044111mol}{0,25L}=0,17644 M\\
-pH=pK_{a}+\log(\frac{C_{s}}{C_{a}})=3,7+
+pH=pK_{a}+\log(\frac{C_{s}}{C_{a}})=3,7+\log(\frac{0,17644M}{0,1M})=3,94
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQyMzY4NzldfQ==
+eyJoaXN0b3J5IjpbMTU1NjIyMjYyOF19
 -->
