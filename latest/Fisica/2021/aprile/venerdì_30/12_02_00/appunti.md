@@ -110,8 +110,14 @@ C(3,0)cm=(3,0)\cdot 10^{-2}m\\
 D(0-2)\cdot 10^{-2}m
 $$
 q1: campo elettrico radiale e uscete
+
+
+$$
+E_{1}=K_{0}\frac{q_{1}}{\overline{AD}^2}\\
+{\overline{
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2ODYzMzg2LC0zNDgzNjgwNTEsOTAzOD
-k3OTYwLC0xNDkwMjYxNTIyLDEwNTQ5MDA4OTAsLTQ1ODQ1MDg3
-M119
+eyJoaXN0b3J5IjpbOTMxMTk0NTk0LDQ5Njg2MzM4NiwtMzQ4Mz
+Y4MDUxLDkwMzg5Nzk2MCwtMTQ5MDI2MTUyMiwxMDU0OTAwODkw
+LC00NTg0NTA4NzNdfQ==
 -->
