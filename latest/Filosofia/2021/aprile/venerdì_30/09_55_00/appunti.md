@@ -26,6 +26,9 @@ Qualcosa di meno perfetto non può avere prodotto qualcosa di più perfetto
 * prova di sant' Anselmo
 
 *Dio esiste con sicurezza*
+
+Dio non può aver consentito l'inganno di un genio maligno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODQwNDY1Niw5NDE4MDEwODNdfQ==
+eyJoaXN0b3J5IjpbLTEyNjk5MDAxODYsMTE5ODQwNDY1Niw5ND
+E4MDEwODNdfQ==
 -->
