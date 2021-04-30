@@ -66,9 +66,10 @@ $$
 
 $$
 Q_{A}=Q_{B}=Q{C}=Q{D}=Q=+7,2\cdot 10^{-5}C\\
-\hat{AB}=l=10 cm=0,1m
+\hat{AB}=l=10 cm=0,1m\\
+1)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjMwMzE3LC0xNDkwMjYxNTIyLDEwNT
-Q5MDA4OTAsLTQ1ODQ1MDg3M119
+eyJoaXN0b3J5IjpbMTYxNzEyNzAxNywtMTQ5MDI2MTUyMiwxMD
+U0OTAwODkwLC00NTg0NTA4NzNdfQ==
 -->
