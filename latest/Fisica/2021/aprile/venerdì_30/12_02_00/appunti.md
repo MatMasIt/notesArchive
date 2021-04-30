@@ -132,11 +132,13 @@ $$
 $$
 
 $$
-E_{1}=e_{1}\cos\theta\vec{i}-E_{1}\sin\theta\vec{j}=(2,4\vec{i}-4,8\vec{j})\cdot10^{7}\frac{N}{C}\\
-E_{2}=-0,55\vec{j}\cdot10^{7
+E_{1}=E_{1}\cos\theta\vec{i}-E_{1}\sin\theta\vec{j}=(2,4\vec{i}-4,8\vec{j})\cdot10^{7}\frac{N}{C}\\
+E_{2}=-0,55\vec{j}\cdot10^{7}\frac{N}{C}\\
+E_{3}=E_{3}\cos\alpha\vec{i}-E_{3}\sin\alpha\vec{j}=(2,4\vec{i}-4,8\vec{j})\cdot10^{7}\frac{N}{C}\\
+\vec{E_{T}}=\vec{E_{1}}+\vec{E_{
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODU4ODc5Myw0OTY4NjMzODYsLTM0OD
-M2ODA1MSw5MDM4OTc5NjAsLTE0OTAyNjE1MjIsMTA1NDkwMDg5
-MCwtNDU4NDUwODczXX0=
+eyJoaXN0b3J5IjpbLTY3NjI2OCw0OTY4NjMzODYsLTM0ODM2OD
+A1MSw5MDM4OTc5NjAsLTE0OTAyNjE1MjIsMTA1NDkwMDg5MCwt
+NDU4NDUwODczXX0=
 -->
