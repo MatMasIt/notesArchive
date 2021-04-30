@@ -114,10 +114,12 @@ q1: campo elettrico radiale e uscete
 
 $$
 E_{1}=K_{0}\frac{q_{1}}{\overline{AD}^2}\\
-{\overline{
+{\overline{AD}}^2={\overline{AO}}^2+{\overline{OD}}^2=(1+4)\cdot10^{-4}m^2=\\
+5\cdot10^{-4}m^2\\
+{\overhat{DC}}={\overhat{OC}}^2
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxMTk0NTk0LDQ5Njg2MzM4NiwtMzQ4Mz
-Y4MDUxLDkwMzg5Nzk2MCwtMTQ5MDI2MTUyMiwxMDU0OTAwODkw
-LC00NTg0NTA4NzNdfQ==
+eyJoaXN0b3J5IjpbMTMwMjAzMjcwMiw0OTY4NjMzODYsLTM0OD
+M2ODA1MSw5MDM4OTc5NjAsLTE0OTAyNjE1MjIsMTA1NDkwMDg5
+MCwtNDU4NDUwODczXX0=
 -->
