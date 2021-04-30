@@ -3,7 +3,10 @@
  
  Diritto di costituire e partecipare ai sindacati, sciopero
  art 35, comma 4
+ 
  Diritto di emigrazione, tutela lavoro italiano all'estero
+ # Lezione di Filosofia (3° ora)
+ ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTgyODE2NF19
+eyJoaXN0b3J5IjpbLTU0NzkxMTcyMl19
 -->
