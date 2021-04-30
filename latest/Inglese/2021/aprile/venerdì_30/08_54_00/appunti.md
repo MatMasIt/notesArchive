@@ -39,8 +39,8 @@ Robinson does not allow Friday to maintain his habits
 
 He was completely nude, but Robinson does not allow this
 
-F
+Friday himself he is a cannibal, he sows to Robinson that he would like to dig bodies up and eat them (l.38,39)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTAzODM0OSwtMTE3MTkyNzk4MSwtMT
+eyJoaXN0b3J5IjpbMTcxODgyNDg0MSwtMTE3MTkyNzk4MSwtMT
 YyOTE4Njg5MSwxMDg2MjkxMTU5LDE5NTQ1NTEwNTFdfQ==
 -->
