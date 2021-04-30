@@ -25,7 +25,11 @@ In his opinion this behaivour is  simething natural and compulsory
 
 Typical ENGLISH COLONIZER, natives are inferior
 
+MASTER-SLAVE relationship
+
+he tries to teach Friday english
+ he teaches him yes/no (orders from the c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTI3MDE5MywtMTE3MTkyNzk4MSwtMT
+eyJoaXN0b3J5IjpbLTM0MDU2MTk1MCwtMTE3MTkyNzk4MSwtMT
 YyOTE4Njg5MSwxMDg2MjkxMTU5LDE5NTQ1NTEwNTFdfQ==
 -->
