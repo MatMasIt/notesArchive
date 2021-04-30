@@ -42,7 +42,12 @@ I vettori sono tutti diversi, tutto dipende dalla distanza
 $$
 \vec{E}=\frac{\vec{F_{e}}}{q} \rightarrow \frac{N}{C}\\
 $$
+Per convenzione la carica è sempre positiva
 
+|Carica|Campo|
+|------|---|
+|+|Radiale uscente|
+|-|Radiale entrante|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDUwMDE5MCwtNDU4NDUwODczXX0=
+eyJoaXN0b3J5IjpbLTU3MDU0MDI2NiwtNDU4NDUwODczXX0=
 -->
