@@ -8,8 +8,12 @@ V_{a}=?
 $$
 Soluzione 2
 $$
-
+NH_{3}\\
+V_{b}=75 mL\\
+C_{b}=0,215M
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzE3NDc5NF19
+eyJoaXN0b3J5IjpbLTEwMjM2Njg1ODFdfQ==
 -->
