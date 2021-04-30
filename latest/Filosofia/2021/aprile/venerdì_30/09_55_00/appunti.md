@@ -54,7 +54,15 @@ Dio è garante gnoseologico
 carattere precipitoso ci porta a saltare passaggi
 
 Dio garantisce la realtà del  mondo esterno
+
+
+
+Concezione metafisica:
+
+realtà composta da due sostanze:
+res cogitans, res extensas
+questo significa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjcxOTg2MSwtMTI2OTkwMDE4NiwxMT
+eyJoaXN0b3J5IjpbLTYxNjk5NzIwNSwtMTI2OTkwMDE4NiwxMT
 k4NDA0NjU2LDk0MTgwMTA4M119
 -->
