@@ -1,6 +1,6 @@
 # Lezione di Fisica (3° ora)
 
-## giovedì 29 aprile 2021, 10:00:00
+## venerdì 30 aprile 2021, 12:14:00
 
 ## Campi
 Campi: gravitazionale, elettrico, magnete
@@ -29,6 +29,13 @@ $$
 
 
 ## Campo Gravitazionale 
+
+è un campo radiale
+$$
+\vec{H}=\frac{\vec{F_{g}}}{m}\rightarrow \frac{m}{s^2}\\
+H=G\frac{M}{R^2}
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2OTkxMjQ5XX0=
+eyJoaXN0b3J5IjpbLTQ1ODQ1MDg3M119
 -->
