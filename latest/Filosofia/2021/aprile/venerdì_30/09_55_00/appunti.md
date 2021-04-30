@@ -37,8 +37,10 @@ possedere uno spazio: *res extensa*
 
 Dio garante della verità
 
-applicazione del dubbio metodico p.99, riaa
+applicazione del dubbio metodico p.99, riassunto
+
+ragionamento esente da altri bias, raggionamento privo di errore, molto solido
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDEyNzc1MSwtMTI2OTkwMDE4NiwxMT
+eyJoaXN0b3J5IjpbLTcyODkxNTk2MiwtMTI2OTkwMDE4NiwxMT
 k4NDA0NjU2LDk0MTgwMTA4M119
 -->
