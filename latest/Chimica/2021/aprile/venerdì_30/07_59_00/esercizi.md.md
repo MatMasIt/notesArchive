@@ -49,12 +49,24 @@ Vf=4,5\cdot 10^2 mL
 $$
 ## 13.14
 $$
+HCOOH+NaOH\rightarrow HCOONa+H_{2}O\\
+$$
+
+---
+
+$$
 50 mL\\
 C_{a}=0,35M\\
 pK_{a}=3,7\\
 $$
++
+$$
+100mL\\
+KOH\\
+0,25M
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4MzQ5NDE2LC0yMDUwMzgyNzU0LC04OT
-c4MjkxMjQsMTAxNDA1ODY5M119
+eyJoaXN0b3J5IjpbLTE2NjA4ODc1ODIsLTIwNTAzODI3NTQsLT
+g5NzgyOTEyNCwxMDE0MDU4NjkzXX0=
 -->
