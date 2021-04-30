@@ -51,7 +51,8 @@ Per convenzione la carica è sempre positiva
 ![Campo Elettrico](https://i.imgur.com/GP6ib3q.jpg)
 
 ### Campo magnetico
-
+Regola della mano destra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDkwMDg5MCwtNDU4NDUwODczXX0=
+eyJoaXN0b3J5IjpbLTE0OTAyNjE1MjIsMTA1NDkwMDg5MCwtND
+U4NDUwODczXX0=
 -->
