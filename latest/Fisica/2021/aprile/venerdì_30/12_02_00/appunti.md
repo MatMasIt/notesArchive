@@ -139,10 +139,15 @@ $$
 $$
 $$
 E_{T}=\sqrt{{4,7}^2+{3,85}^2}\cdot10^7\frac{N}{C}=6,08\cdot10^7\frac{N}{C}\\
-\beta=\arctan\frac{3,85}{4,7}=39°
+\beta=\arctan\frac{3,85}{4,7}=39°19'21,3''
+$$
+
+$$
+F=q\cdot E=5\cdot10^{-6}\cancel{C}\cdot6.08\cdot10^7\frac{N}{\cancel{C}}=304N\\
+E=\frac{F}{q}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI1NTg4MDQsNDk2ODYzMzg2LC0zND
-gzNjgwNTEsOTAzODk3OTYwLC0xNDkwMjYxNTIyLDEwNTQ5MDA4
-OTAsLTQ1ODQ1MDg3M119
+eyJoaXN0b3J5IjpbMTE0NDQxMDMzNyw0OTY4NjMzODYsLTM0OD
+M2ODA1MSw5MDM4OTc5NjAsLTE0OTAyNjE1MjIsMTA1NDkwMDg5
+MCwtNDU4NDUwODczXX0=
 -->
