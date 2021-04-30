@@ -45,10 +45,8 @@ C_{b}=\frac{10^{-2\cdot 4}}{K_{b}}=0,01M
 $$
 
 $$
-C_{i}\cdot V_{i}=C_{f} \cdot V_{f}\\
-V_{f}=\frac{C_{i}\cdot V_{i}}{C_{f}}=0,4\\
-\Delta V=V_{f}-V_{i}=
+
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDA1ODY5M119
+eyJoaXN0b3J5IjpbLTE4NTE2MDEyOTYsMTAxNDA1ODY5M119
 -->
