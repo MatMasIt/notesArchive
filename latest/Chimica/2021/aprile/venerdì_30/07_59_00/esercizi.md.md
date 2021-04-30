@@ -22,9 +22,12 @@ C_{s}=\frac{n_{s}}{V_{a}}=\frac{0,044111mol}{0,25L}=0,17644 M\\
 pH=pK_{a}+\log(\frac{C_{s}}{C_{a}})=3,7+\log(\frac{0,17644M}{0,1M})=3,94
 $$
 ## 11.14
+Base debole
 $$
-C_{b}
+C_{b}=0,1M\\
+pH=10,5\\
+pK_{w}=14\\
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjY1NDU0OV19
+eyJoaXN0b3J5IjpbLTEyOTkzMDI4NzJdfQ==
 -->
