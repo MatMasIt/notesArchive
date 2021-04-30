@@ -28,8 +28,11 @@ Typical ENGLISH COLONIZER, natives are inferior
 MASTER-SLAVE relationship
 
 he tries to teach Friday english
- he teaches him yes/no (orders from the c
+
+ he teaches him yes/no (orders from the colonizer)
+
+He also teaches him "Master", that was to be Robinson's name
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDU2MTk1MCwtMTE3MTkyNzk4MSwtMT
+eyJoaXN0b3J5IjpbMTA5MTI4MTIwNSwtMTE3MTkyNzk4MSwtMT
 YyOTE4Njg5MSwxMDg2MjkxMTU5LDE5NTQ1NTEwNTFdfQ==
 -->
