@@ -4,8 +4,12 @@ Soluzione 1
 $$
 HCl\\
 C_{a}=0,100M\\
+V_{a}=?
+$$
+Soluzione 2
+$$
 
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzczNTY0Nl19
+eyJoaXN0b3J5IjpbMTQ3MzE3NDc5NF19
 -->
