@@ -45,8 +45,9 @@ C_{b}=\frac{10^{-2\cdot 4}}{K_{b}}=0,01M
 $$
 
 $$
-
+Vf=4,5\cdot 10^2 mL
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE2MDEyOTYsMTAxNDA1ODY5M119
+eyJoaXN0b3J5IjpbLTg5NzgyOTEyNCwxMDE0MDU4NjkzXX0=
 -->
