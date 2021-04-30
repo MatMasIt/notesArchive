@@ -43,8 +43,14 @@ ragionamento esente da altri bias, raggionamento privo di errore, molto solido
 Cartesio non nega il ragionare, renderebbe tutto impossibile
 No atteggiamento acritico nei confronti del ragionare, molta attenzione e molto sospetto
 
-non può essere materia 8
+Dio
+non può essere materia siccome la materia si corrompe
+natura puramente intellettuale
+volontà buona, se fosse anche un pochino cativo sarebbe imperfetto,
+se è buono non può ingannare
+
+Dio è garante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU2NDg1MywtMTI2OTkwMDE4NiwxMT
+eyJoaXN0b3J5IjpbMjAzNzg5NzI3MSwtMTI2OTkwMDE4NiwxMT
 k4NDA0NjU2LDk0MTgwMTA4M119
 -->
