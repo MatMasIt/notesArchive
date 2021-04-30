@@ -28,6 +28,11 @@ C_{b}=0,1M\\
 pH=10,5\\
 pK_{w}=14\\
 $$
+
+H2O da aggiungere per ph=10
+$$
+pOH=-\log\sqrt{K_{a}C_{a}}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTkzMDI4NzJdfQ==
+eyJoaXN0b3J5IjpbLTgyNzc2NjAzOF19
 -->
