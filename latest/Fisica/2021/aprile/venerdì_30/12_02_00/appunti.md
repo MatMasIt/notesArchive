@@ -149,9 +149,16 @@ E=\frac{F}{q}
 $$
 
 ## es 6 p 419
-
+$$
+l_{1}=l_{2}=l_{3}=l=1m
+\\
+d=2cm=2\cdot10^{-2}m\\
+I_{1}=9A\\
+I_{2}=10A\\
+I_{3}=20A\\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTcxNTc5Myw0OTY4NjMzODYsLTM0OD
+eyJoaXN0b3J5IjpbMTYzMDM5NzkxOSw0OTY4NjMzODYsLTM0OD
 M2ODA1MSw5MDM4OTc5NjAsLTE0OTAyNjE1MjIsMTA1NDkwMDg5
 MCwtNDU4NDUwODczXX0=
 -->
