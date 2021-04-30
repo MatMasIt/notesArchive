@@ -124,8 +124,18 @@ E_{1}=8,9\cdot10^9\frac{Nm^2}{C^2}=\frac{3\cdot10^{-6}}{5\cdot10^{-4}m^2}=5,34\c
 E_{2}=8,9\cdot10^9\frac{Nm^2}{C^2}=\frac{1\cdot10^{-6}}{16\cdot10^{-4}m^2}=5,5\cdot 10^6\frac{N}{C}=0,55\cdot10^{7}\frac{N}{C}\\
 E_{3}=8,9\cdot10^9\frac{Nm^2}{C^2}=\frac{4\cdot10^{-6}}{13\cdot10^{-4}m^2}=2,7\cdot 10^7\frac{N}{C}
 $$
+
+alcolo angoli
+$$
+\theta=\\
+\alpha=
+$$
+
+$$
+E_{1}=e_{1}\cos\theta\vec{i}-E_{1}\sin\theta\vec{j}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzcwNTQ3MTIsNDk2ODYzMzg2LC0zND
+eyJoaXN0b3J5IjpbLTE4MDMxNDA4MDksNDk2ODYzMzg2LC0zND
 gzNjgwNTEsOTAzODk3OTYwLC0xNDkwMjYxNTIyLDEwNTQ5MDA4
 OTAsLTQ1ODQ1MDg3M119
 -->
