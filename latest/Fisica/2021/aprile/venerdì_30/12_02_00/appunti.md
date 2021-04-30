@@ -55,8 +55,12 @@ Regola della mano destra
 
 ![Campo magnetico](https://i.imgur.com/J91ewsD.jpg)
 
+$$
+\bigodot uscente\space\space\\
+\bigotimes entrante
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDk4MzA5LC0xNDkwMjYxNTIyLDEwNT
-Q5MDA4OTAsLTQ1ODQ1MDg3M119
+eyJoaXN0b3J5IjpbMTg5NzIyMjU3NCwtMTQ5MDI2MTUyMiwxMD
+U0OTAwODkwLC00NTg0NTA4NzNdfQ==
 -->
