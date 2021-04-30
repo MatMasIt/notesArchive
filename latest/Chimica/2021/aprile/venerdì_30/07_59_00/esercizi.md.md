@@ -21,6 +21,10 @@ n_{s}=\frac{m_{s}}{MM_{s}}=\frac{3g}{68,01\frac{g}{mol}}=0,044111mol\\
 C_{s}=\frac{n_{s}}{V_{a}}=\frac{0,044111mol}{0,25L}=0,17644 M\\
 pH=pK_{a}+\log(\frac{C_{s}}{C_{a}})=3,7+\log(\frac{0,17644M}{0,1M})=3,94
 $$
+## 11.14
+$$
+C_{b}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjIyMjYyOF19
+eyJoaXN0b3J5IjpbLTY4NjY1NDU0OV19
 -->
