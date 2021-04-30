@@ -149,6 +149,7 @@ E=\frac{F}{q}
 $$
 
 ## es 6 p 419
+![Schema](https://i.imgur.com/fvPAEYY.jpg)
 $$
 l_{1}=l_{2}=l_{3}=l=1m
 \\
@@ -166,12 +167,12 @@ coppia I1 e I2: forza repulsiva
 $$
 F_{12}=K\frac{I_{1}I_{2}l}{d}=\\
 2\cdot10^{-7}\frac{N}{A}\cdot \frac{9A\cdot10A\cdot 1m}{2\cdot 10^{-2}m}=9\cdot10^{-4}N\\
-F_{13}=K\frac{I_{1}I_{2}l}{d}=\\
-2\cdot10^{-7}\frac{N}{A}\cdot \frac{9A\cdot10A\cdot 1m}{2\cdot 10^{-2}m}=9\cdot10^{-4}N
+F_{13}=K\frac{I_{1}I_{3}l}{d}=\\
+2\cdot10^{-7}\frac{N}{A}\cdot \frac{9A\cdot20A\cdot 1m}{2\cdot 10^{-2}m}=1,8\cdot10^{-3}N
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDg3ODEzNzQsNDk2ODYzMzg2LC0zND
-gzNjgwNTEsOTAzODk3OTYwLC0xNDkwMjYxNTIyLDEwNTQ5MDA4
-OTAsLTQ1ODQ1MDg3M119
+eyJoaXN0b3J5IjpbNTk5NDA3MjAzLDQ5Njg2MzM4NiwtMzQ4Mz
+Y4MDUxLDkwMzg5Nzk2MCwtMTQ5MDI2MTUyMiwxMDU0OTAwODkw
+LC00NTg0NTA4NzNdfQ==
 -->
