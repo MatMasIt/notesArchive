@@ -40,7 +40,11 @@ Dio garante della verità
 applicazione del dubbio metodico p.99, riassunto
 
 ragionamento esente da altri bias, raggionamento privo di errore, molto solido
+Cartesio non nega il ragionare, renderebbe tutto impossibile
+No atteggiamento acritico nei confronti del ragionare, molta attenzione e molto sospetto
+
+non può essere materia 8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODkxNTk2MiwtMTI2OTkwMDE4NiwxMT
+eyJoaXN0b3J5IjpbLTExODU2NDg1MywtMTI2OTkwMDE4NiwxMT
 k4NDA0NjU2LDk0MTgwMTA4M119
 -->
