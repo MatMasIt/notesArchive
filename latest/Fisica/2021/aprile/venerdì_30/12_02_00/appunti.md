@@ -157,8 +157,15 @@ I_{1}=9A\\
 I_{2}=10A\\
 I_{3}=20A\\
 $$
+
+Calcolo intensità in A
+
+Possiamo considerare i fili a coppie
+
+### Coppia I1 e I2
+ forza repulsiva
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDM5NzkxOSw0OTY4NjMzODYsLTM0OD
+eyJoaXN0b3J5IjpbLTUzNjE0NTY4NCw0OTY4NjMzODYsLTM0OD
 M2ODA1MSw5MDM4OTc5NjAsLTE0OTAyNjE1MjIsMTA1NDkwMDg5
 MCwtNDU4NDUwODczXX0=
 -->
