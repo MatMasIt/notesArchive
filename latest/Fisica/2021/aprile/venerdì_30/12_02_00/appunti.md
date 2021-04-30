@@ -28,7 +28,7 @@ k=\frac{\mu_{0}}{2\pi}
 $$
 
 
-## Campo Gravitazionale 
+### Campo Gravitazionale 
 
 è un campo radiale
 $$
@@ -38,6 +38,11 @@ $$
 I vettori sono tutti diversi, tutto dipende dalla distanza
 ![Campo](https://i.imgur.com/evbUlA5.jpg)
 
+### Campo elettrico
+$$
+\vec{E}=\frac{\vec{F_{e}}}{q} \rightarrow \frac{N}{C}\\
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDA2MDQxMiwtNDU4NDUwODczXX0=
+eyJoaXN0b3J5IjpbLTc3NDUwMDE5MCwtNDU4NDUwODczXX0=
 -->
