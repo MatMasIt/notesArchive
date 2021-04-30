@@ -63,6 +63,7 @@ $$
 
 ## Esercizi
 ### Volume 2, pagina 217, es 52
+![Disegno](https://i.imgur.com/djpsBMM.jpg)
 
 $$
 Q_{A}=Q_{B}=Q{C}=Q{D}=Q=+7,2\cdot 10^{-5}C\\
@@ -82,9 +83,10 @@ Calcolo componenti
 $$
 E 45°N\\
 E_{Ax}=E_{Ay}=E_{A}\cdot\sin45=9,06\cdot 10^7\frac{N}{C}\\
-E_{A}=(9,1i
+\vec{E_{A}}=(9,1\vec{i}+9,1\vec{j})\cdot10^7\frac{N}{C}
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTQ4NDE2OCwtMTQ5MDI2MTUyMiwxMD
-U0OTAwODkwLC00NTg0NTA4NzNdfQ==
+eyJoaXN0b3J5IjpbOTAzODk3OTYwLC0xNDkwMjYxNTIyLDEwNT
+Q5MDA4OTAsLTQ1ODQ1MDg3M119
 -->
