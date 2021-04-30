@@ -5,6 +5,7 @@
 
 Friday is beautiful *because* he seems european
 
+Robinson is racist, prejudiced
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDc4ODIzMTYsMTk1NDU1MTA1MV19
+eyJoaXN0b3J5IjpbMjEwNTM3NzA5OSwxOTU0NTUxMDUxXX0=
 -->
