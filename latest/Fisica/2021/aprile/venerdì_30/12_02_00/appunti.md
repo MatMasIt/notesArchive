@@ -64,8 +64,11 @@ $$
 ## Esercizi
 ### Volume 2, pagina 217, es 52
 
-
+$$
+Q_{A}=Q_{B}=Q{C}=Q{D}=Q=+7,2\cdot 10^{-5}C\\
+\hat{AB}=l=10 cm=0,1m
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjE1NTE5MSwtMTQ5MDI2MTUyMiwxMD
-U0OTAwODkwLC00NTg0NTA4NzNdfQ==
+eyJoaXN0b3J5IjpbLTQ2NjMwMzE3LC0xNDkwMjYxNTIyLDEwNT
+Q5MDA4OTAsLTQ1ODQ1MDg3M119
 -->
