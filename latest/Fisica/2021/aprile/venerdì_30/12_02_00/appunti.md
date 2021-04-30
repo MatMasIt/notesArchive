@@ -5,6 +5,7 @@
 ## Campi
 Campi: gravitazionale, elettrico, magnete
 sono vettori
+sono radiali
 $$
 \vec{H}=\frac{\vec{F_{g}}}{m}\rightarrow \frac{m}{s^2}\\
 \vec{E}=\frac{\vec{F_{e}}}{q} \rightarrow \frac{N}{C}\\
@@ -30,7 +31,6 @@ $$
 
 ### Campo Gravitazionale 
 
-è un campo radiale
 $$
 \vec{H}=\frac{\vec{F_{g}}}{m}\rightarrow \frac{m}{s^2}\\
 H=G\frac{M}{R^2}
@@ -48,6 +48,10 @@ Per convenzione la carica è sempre positiva
 |------|---|
 |+|Radiale uscente|
 |-|Radiale entrante|
+![Campo Elettrico](https://i.imgur.com/GP6ib3q.jpg)
+
+### Campo magnetico
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDU0MDI2NiwtNDU4NDUwODczXX0=
+eyJoaXN0b3J5IjpbMTA1NDkwMDg5MCwtNDU4NDUwODczXX0=
 -->
