@@ -11,6 +11,13 @@ $$
 HCOONa\\
 m(g)=3g
 $$
+
+---
+Acido debole + suo sale : soluzione tampone acida
+
+$$
+pH=pK
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTc0NjQxM119
+eyJoaXN0b3J5IjpbMTk4MTA2MDYyNF19
 -->
