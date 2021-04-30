@@ -88,9 +88,10 @@ $$
 Punto 2
 $$
 E_{B}=E_{A}\\
-E_{AB}
+\vec{E_{AB}}=\vec{E_{A}}+\vec{E_{B}}=(-9,1\vec{i}+9,1\vec{j}+9,1\vec{i}+9,1\vec{j})\cdot10^7\frac{N}{C}\\
+
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDA4Njc5LDkwMzg5Nzk2MCwtMTQ5MD
+eyJoaXN0b3J5IjpbMTc4NjgyMjMzLDkwMzg5Nzk2MCwtMTQ5MD
 I2MTUyMiwxMDU0OTAwODkwLC00NTg0NTA4NzNdfQ==
 -->
