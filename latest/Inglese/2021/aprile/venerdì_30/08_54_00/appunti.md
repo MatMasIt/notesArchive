@@ -6,6 +6,11 @@
 Friday is beautiful *because* he seems european
 
 Robinson is racist, prejudiced
+
+Europeans felt superior, had the right to enslave the natives
+
+The theme of  the **otherness**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTM3NzA5OSwxOTU0NTUxMDUxXX0=
+eyJoaXN0b3J5IjpbMjAwNTg4MjQ5NCwxOTU0NTUxMDUxXX0=
 -->
