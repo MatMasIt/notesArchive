@@ -132,16 +132,17 @@ $$
 $$
 
 $$
-E_{1}=E_{1}\cos\theta\vec{i}-E_{1}\sin\theta\vec{j}=(2,4\vec{i}-4,8\vec{j})\cdot10^{7}\frac{N}{C}\\
-E_{2}=-0,55\vec{j}\cdot10^{7}\frac{N}{C}\\
-E_{3}=E_{3}\cos\alpha\vec{i}-E_{3}\sin\alpha\vec{j}=(2,4\vec{i}-4,8\vec{j})\cdot10^{7}\frac{N}{C}\\
+\vec{E_{1}}=E_{1}\cos\theta\vec{i}-E_{1}\sin\theta\vec{j}=(2,4\vec{i}-4,8\vec{j})\cdot10^{7}\frac{N}{C}\\
+\vec{E_{2}}=-0,55\vec{j}\cdot10^{7}\frac{N}{C}\\
+\vec{E_{3}}=E_{3}\cos\alpha\vec{i}-E_{3}\sin\alpha\vec{j}=(2,4\vec{i}-4,8\vec{j})\cdot10^{7}\frac{N}{C}\\
 \vec{E_{T}}=\vec{E_{1}}+\vec{E_{2}}+\vec{E_{3}}=(4,7\vec{i}-3,85\vec{j})\cdot10^[7]\frac{N}{C}
 $$
 $$
-
+E_{T}=\sqrt{{4,7}^2+{3,85}^2}\cdot10^7\frac{N}{C}=6,08\cdot10^7\frac{N}{C}\\
+\beta=\arctan\frac{3,85}{4,7}=39°
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc3MjQwNjgsNDk2ODYzMzg2LC0zND
+eyJoaXN0b3J5IjpbLTIwNzI1NTg4MDQsNDk2ODYzMzg2LC0zND
 gzNjgwNTEsOTAzODk3OTYwLC0xNDkwMjYxNTIyLDEwNTQ5MDA4
 OTAsLTQ1ODQ1MDg3M119
 -->
