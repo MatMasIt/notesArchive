@@ -47,9 +47,14 @@ $$
 $$
 Vf=4,5\cdot 10^2 mL
 $$
-## 13.4
+## 13.14
+$$
+50 mL\\
+C_{a}=0,35M\\
+pK_{a}=3,7\\
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTAzODI3NTQsLTg5NzgyOTEyNCwxMD
-E0MDU4NjkzXX0=
+eyJoaXN0b3J5IjpbNjY4MzQ5NDE2LC0yMDUwMzgyNzU0LC04OT
+c4MjkxMjQsMTAxNDA1ODY5M119
 -->
