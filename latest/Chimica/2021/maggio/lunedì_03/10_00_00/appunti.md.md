@@ -34,11 +34,11 @@ $$
 $$
 Ossidazione\\
 Zn\xrightarrow{OX}Zn^{+2}+2e^{}\\
-Riduzione\
+Riduzione\\
 H^{+}+2e^{-}\xrightarrow{RD}H_{2}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1NjE3MDEwLDE1NTEyODkzMTYsLTExOD
-E0NzM5NDAsNzk3MTU4MDUyLC01MDkwODczNThdfQ==
+eyJoaXN0b3J5IjpbMTM5ODY5MTgyNiwxNTUxMjg5MzE2LC0xMT
+gxNDczOTQwLDc5NzE1ODA1MiwtNTA5MDg3MzU4XX0=
 -->
