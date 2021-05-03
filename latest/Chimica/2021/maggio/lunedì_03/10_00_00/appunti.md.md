@@ -23,8 +23,13 @@ Respirazione cellulare
 $$
 C_{6}H_{12}O_{6}+O_{2}\rightarrow O_{2} +H_{2}O
 $$
+Ossidoriduzione
+Bilanciamento in massa e in carica
+
+$$
+Zn+2HCl\rightarrow ZnCl_{2}+H
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTI4OTMxNiwtMTE4MTQ3Mzk0MCw3OT
-cxNTgwNTIsLTUwOTA4NzM1OF19
+eyJoaXN0b3J5IjpbMTU4MTI1OTM3NywxNTUxMjg5MzE2LC0xMT
+gxNDczOTQwLDc5NzE1ODA1MiwtNTA5MDg3MzU4XX0=
 -->
