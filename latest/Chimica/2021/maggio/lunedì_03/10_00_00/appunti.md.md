@@ -32,10 +32,13 @@ o\rightarrow +2; OX; \Delta e=2e^{-}\\
 $$
 
 $$
-xrightarrow[\text{world}]{\text{hello}}
+Ossidazione\\
+Zn\xrightarrow{OX}Zn^{+2}+2e^{}\\
+Riduzione\
+H^{+}+2e^{-}\xrightarrow{RD}H_{2}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2NDgzMTc1LDE1NTEyODkzMTYsLTExOD
+eyJoaXN0b3J5IjpbNTg1NjE3MDEwLDE1NTEyODkzMTYsLTExOD
 E0NzM5NDAsNzk3MTU4MDUyLC01MDkwODczNThdfQ==
 -->
