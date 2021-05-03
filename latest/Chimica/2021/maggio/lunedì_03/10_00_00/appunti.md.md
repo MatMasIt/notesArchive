@@ -7,7 +7,9 @@ $$
 HCl\rightarrow H^{+}+Cl^{-}\\
 2H_{2}O\rightarrow H_{3}O^{+}+OH^{-}
 $$
-|
+[Connessione mal funzionante]
+Libro di testo 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Mzc4MTk3XX0=
+eyJoaXN0b3J5IjpbLTUwOTA4NzM1OF19
 -->
