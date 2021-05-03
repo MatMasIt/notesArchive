@@ -14,8 +14,10 @@ Libro di testo
 ## Le ossidoriduzioni
 
 $$
+CH_{4}+O_{2} \rightarrow CO_{2} +H_{2}O
 $$
+Esotermica, l'ossigeno "brucia"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTI2MDk4LDc5NzE1ODA1MiwtNTA5MD
-g3MzU4XX0=
+eyJoaXN0b3J5IjpbLTExODE0NzM5NDAsNzk3MTU4MDUyLC01MD
+kwODczNThdfQ==
 -->
