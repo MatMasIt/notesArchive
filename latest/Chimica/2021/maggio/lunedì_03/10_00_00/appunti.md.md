@@ -27,9 +27,15 @@ Ossidoriduzione
 Bilanciamento in massa e in carica
 
 $$
-Zn+2HCl\rightarrow ZnCl_{2}+H
+Zn+2HCl\rightarrow ZnCl_{2}+H_{2}\\
+o\rightarrow +2; OX; \Delta e=2e^{-}\\
+$$
+
+$$
+xrightarrow[\text{world}]{\text{hello}}
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTI1OTM3NywxNTUxMjg5MzE2LC0xMT
-gxNDczOTQwLDc5NzE1ODA1MiwtNTA5MDg3MzU4XX0=
+eyJoaXN0b3J5IjpbNDA2NDgzMTc1LDE1NTEyODkzMTYsLTExOD
+E0NzM5NDAsNzk3MTU4MDUyLC01MDkwODczNThdfQ==
 -->
