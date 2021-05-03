@@ -21,9 +21,10 @@ Esotermica, l'ossigeno "brucia"
 
 Respirazione cellulare
 $$
-C_{6}H_{
+C_{6}H_{12}O_{6}+O_{2}\rightarrow O_{2} +H_{2}O
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTMyMjM3MywtMTE4MTQ3Mzk0MCw3OT
+eyJoaXN0b3J5IjpbMTU1MTI4OTMxNiwtMTE4MTQ3Mzk0MCw3OT
 cxNTgwNTIsLTUwOTA4NzM1OF19
 -->
