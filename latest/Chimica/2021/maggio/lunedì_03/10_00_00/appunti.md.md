@@ -13,11 +13,17 @@ Libro di testo
 ---
 ## Le ossidoriduzioni
 
+Combustione del metano
 $$
 CH_{4}+O_{2} \rightarrow CO_{2} +H_{2}O
 $$
 Esotermica, l'ossigeno "brucia"
+
+Respirazione cellulare
+$$
+C_{6}H_{
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE0NzM5NDAsNzk3MTU4MDUyLC01MD
-kwODczNThdfQ==
+eyJoaXN0b3J5IjpbMTEzNTMyMjM3MywtMTE4MTQ3Mzk0MCw3OT
+cxNTgwNTIsLTUwOTA4NzM1OF19
 -->
