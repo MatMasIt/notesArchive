@@ -11,7 +11,9 @@ Assoluta chiarezza ed evidenza
 Altri aspetti su cui si possono avere dubbi: colore, sapore
 Appaiono variabili tra persone
 
-Qualità primarie (
+Qualità primarie (oggettive) e secondarie (soggettive)
+
+Dio è garante dal fatto che non possiamo essere ingannati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTI4OTU5MSwxOTg5MjI2Njg3XX0=
+eyJoaXN0b3J5IjpbLTE1Mzk3MjY0NDMsMTk4OTIyNjY4N119
 -->
