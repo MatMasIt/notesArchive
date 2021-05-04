@@ -11,8 +11,8 @@ He got it in the local library
 His family could not afford the fees of the school
 3. He manage to build a windmill using his father's bycicle, a dynamo that he had, he went to a junkyard
 He could power two radios and 4 light bulbs
-4. Electricity to pumpo 
-
+4. Electricity to pumpo water from wells in order to irrigate crops, provide electricity for houses
+5. We have to act if we want to realize our dreams
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY1MDkwMTYsMjE0MDk5NTQ2OV19
+eyJoaXN0b3J5IjpbLTE5OTQzMjg2ODIsMjE0MDk5NTQ2OV19
 -->
