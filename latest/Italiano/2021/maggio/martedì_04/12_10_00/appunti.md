@@ -35,9 +35,9 @@ Canzone all'Italia, Petrarca
 Machiavelli, liberare Italia
 
 
-riscatto della patria
+Anche se si corrompe, c'è un che di spirituale ultimo che  si conserva ed è la poesia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTQyMjgwLC0yMDEzMjA5NzMwLC0xMj
+eyJoaXN0b3J5IjpbODQzMjM4ODI2LC0yMDEzMjA5NzMwLC0xMj
 kyOTQ3MzY5LDE5ODU0NDcwMzUsLTYwODg5OTE1OSwtODMzMzI0
 Nzc4XX0=
 -->
