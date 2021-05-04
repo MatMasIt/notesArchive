@@ -32,7 +32,9 @@ Per Aristotele indicavano
 
 Per Aristotele: individuo era una sostanza che derivava da unione della materia e della essenza
 
-Aristotele -> sostanza: materia + 
+Aristotele -> sostanza: materia + forma
+
+Ente con una autonoma capacità di sussistenza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI0OTg0MCwxOTg5MjI2Njg3XX0=
+eyJoaXN0b3J5IjpbMjUyMzU4NDIxLDE5ODkyMjY2ODddfQ==
 -->
