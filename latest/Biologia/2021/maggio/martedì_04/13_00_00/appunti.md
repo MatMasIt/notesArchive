@@ -37,8 +37,11 @@ Il latte viene dopo
 pianto -> fase respiratoria
 insopportabile, a livello evolutivo
 
+Ossitocina attiva le cure parentali
 
+Prolattina -> funzione anticoncezionale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4OTIyNTc5LC0xNDk2ODQ4NTU3LC01Nz
-kyNDk1ODcsLTE2MjAyMTE3MSwyMDY1NjQyMzIwXX0=
+eyJoaXN0b3J5IjpbOTE5MTk5NTM5LDQ4ODkyMjU3OSwtMTQ5Nj
+g0ODU1NywtNTc5MjQ5NTg3LC0xNjIwMjExNzEsMjA2NTY0MjMy
+MF19
 -->
