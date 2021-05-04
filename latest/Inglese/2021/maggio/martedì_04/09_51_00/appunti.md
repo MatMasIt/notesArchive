@@ -10,8 +10,9 @@ B.2 "
 He got it in the local library
 His family could not afford the fees of the school
 3. He manage to build a windmill using his father's bycicle, a dynamo that he had, he went to a junkyard
-4. 
+He could power tw
+5. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3NTk5ODU3LDIxNDA5OTU0NjldfQ==
+eyJoaXN0b3J5IjpbLTYzMjcxOTY0NCwyMTQwOTk1NDY5XX0=
 -->
