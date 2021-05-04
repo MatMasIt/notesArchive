@@ -8,8 +8,9 @@ B.2 "
 1. **Blowing in the wind**" lack of water: lack of crops
 2. Science and physics magazine and books Book: *Using Energy*
 He got it in the local library
-
+His family could not afford the fees of the school
+3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjM1NjMyMiwyMTQwOTk1NDY5XX0=
+eyJoaXN0b3J5IjpbMTU2NzgyNDE2OSwyMTQwOTk1NDY5XX0=
 -->
