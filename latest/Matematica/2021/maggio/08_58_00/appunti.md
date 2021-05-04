@@ -11,7 +11,8 @@ Corpo nero -> buon emettitore, assorbitore
 Idealmente, sfera cava nera con un piccolo foro, luce rimbalza nelle pareti, buon emettitore e buon assorbitore
 
 
+Ter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzM3MDcwNiwtNzAxNjY3NzU5LC02OD
-AxOTQ5OV19
+eyJoaXN0b3J5IjpbNjM1MDE3MTExLC0yNTMzNzA3MDYsLTcwMT
+Y2Nzc1OSwtNjgwMTk0OTldfQ==
 -->
