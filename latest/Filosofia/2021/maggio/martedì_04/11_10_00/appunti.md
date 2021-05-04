@@ -49,8 +49,10 @@ Approccio rigorosamente scientifico per analizzare la res extensa
 
 
 p. 100
-I principii di filosofia
+I principi di filosofia
+
+Sostanza non ha bisogno di niente per esistere se non di DI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU0NTc5NzksMjUyMzU4NDIxLDE5OD
-kyMjY2ODddfQ==
+eyJoaXN0b3J5IjpbMTg0ODU1MTI1MCwyNTIzNTg0MjEsMTk4OT
+IyNjY4N119
 -->
