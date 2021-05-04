@@ -27,7 +27,12 @@ Il bambino attiva contrazioni con la sua testa
 p 550
 
 spinte volontarie
+
+Fase del travaglio -> dolore
+causato dalla contrazione
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzk3MDUyOCwtMTYyMDIxMTcxLDIwNj
+eyJoaXN0b3J5IjpbLTU3OTI0OTU4NywtMTYyMDIxMTcxLDIwNj
 U2NDIzMjBdfQ==
 -->
