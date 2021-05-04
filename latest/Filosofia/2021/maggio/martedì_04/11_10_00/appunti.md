@@ -60,7 +60,11 @@ Metafisica compatibile con la scienza
 Sostanza pensante -> libera, consapevole
 
 Sostanza estesa (inclusa animali) è puramente deterministica
+
+Uomini sono liberi dal puro determinismo
+
+Dualismo cartesiano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3OTIwMTg3LDI1MjM1ODQyMSwxOTg5Mj
+eyJoaXN0b3J5IjpbMzIxNTIyNjQ4LDI1MjM1ODQyMSwxOTg5Mj
 I2Njg3XX0=
 -->
