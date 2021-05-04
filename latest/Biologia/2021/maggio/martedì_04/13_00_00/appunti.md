@@ -8,8 +8,12 @@ Ovulo -> corpo luteo
 il corpo luteo produce progesterone
 
 Parte anteriore -> adenoipofisi
-AntiDiureicHor, ossitocina
+AntiDiureicHormone, ossitocina
 parte anteriore -> neuroipofisi
+
+p 474
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3NzI1MzE0XX0=
+eyJoaXN0b3J5IjpbMTM3Mzc5NzMzNl19
 -->
