@@ -24,8 +24,8 @@ Adressing young and poor people
 
 ## Global Students Leaders Summit
 
-1. Students from all over the world meet together and discuss on important issues
+1. Students from all over the world meet together and discuss on important issues, with notable spekers and labs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTU4MzU1MiwtMTIzODU0MDEwMCwtMT
-c1NDY0MzgxMiwyMTQwOTk1NDY5XX0=
+eyJoaXN0b3J5IjpbMjAzMDg4MjE5MSwtNzYxNTgzNTUyLC0xMj
+M4NTQwMTAwLC0xNzU0NjQzODEyLDIxNDA5OTU0NjldfQ==
 -->
