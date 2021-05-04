@@ -14,6 +14,8 @@ He could power two radios and 4 light bulbs
 4. Electricity to pumpo water from wells in order to irrigate crops, provide electricity for houses
 5. We have to act if we want to realize our dreams
 Trust youself, don't give up
+Adressing young and poor people
+6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI3ODA5NzYsMjE0MDk5NTQ2OV19
+eyJoaXN0b3J5IjpbMjA0MzU3MDU3NiwyMTQwOTk1NDY5XX0=
 -->
