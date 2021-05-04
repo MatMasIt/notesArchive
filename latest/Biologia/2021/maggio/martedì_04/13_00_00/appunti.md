@@ -24,8 +24,8 @@ minerali
 
 Il bambino attiva contrazioni con la sua testa
 
-p 
+p 550
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTUwMDc0NCwtMTYyMDIxMTcxLDIwNj
+eyJoaXN0b3J5IjpbMTA1NjY0NDczMiwtMTYyMDIxMTcxLDIwNj
 U2NDIzMjBdfQ==
 -->
