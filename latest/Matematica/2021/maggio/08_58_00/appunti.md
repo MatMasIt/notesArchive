@@ -67,7 +67,11 @@ $$
 W<0
 $$
 l'ambiente esegue lavoro sul sistema
+
+
+Cosa intendiamo con energia interna di un sistem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0NDQxMzUzLDEwMzUzODE0MDAsLTI1Mz
-M3MDcwNiwtNzAxNjY3NzU5LC02ODAxOTQ5OV19
+eyJoaXN0b3J5IjpbMjAzMzUzMDU3NCw5NDQ0NDEzNTMsMTAzNT
+M4MTQwMCwtMjUzMzcwNzA2LC03MDE2Njc3NTksLTY4MDE5NDk5
+XX0=
 -->
