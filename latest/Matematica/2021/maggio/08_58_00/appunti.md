@@ -14,8 +14,13 @@ Idealmente, sfera cava nera con un piccolo foro, luce rimbalza nelle pareti, buo
 Termologia studia fenomeni legati al calore
 Pressione, volume e temperatura sono i valori da considerare
 
-Recip
+Recipiente con stantuffo e biella -> movimento, si genera lavoro - Termodinamica
+
+Esempio: motore a 4 tempi
+
+![Motore a 4 Tempi](https://www.tecnologiaduepuntozero.it/wp-content/uploads/2018/01/Diesel-4-tempi.gif)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3NTc5MjMwLC0yNTMzNzA3MDYsLTcwMT
-Y2Nzc1OSwtNjgwMTk0OTldfQ==
+eyJoaXN0b3J5IjpbMTAzNTM4MTQwMCwtMjUzMzcwNzA2LC03MD
+E2Njc3NTksLTY4MDE5NDk5XX0=
 -->
