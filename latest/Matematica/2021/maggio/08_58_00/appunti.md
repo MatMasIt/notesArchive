@@ -38,8 +38,36 @@ W
 $$
 Lavoro eseguito <u>dal</u> sistema o <u>sul</u> sistema
 
+**Relazione:**
+$$
+\Delta U=Q-W
+$$
 
+Se
+$$
+Q>0
+$$
+il sistema acquista calore
+
+oppure
+$$
+Q<0
+$$
+il sistema cede calore
+
+---
+Se
+$$
+W>0
+$$
+il sistema esegue lavoro sull'ambiente
+
+oppure
+$$
+<0
+$$
+il sistema cede calore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI5MDM0NjcsMTAzNTM4MTQwMCwtMj
-UzMzcwNzA2LC03MDE2Njc3NTksLTY4MDE5NDk5XX0=
+eyJoaXN0b3J5IjpbLTIxNjk4NzA1LDEwMzUzODE0MDAsLTI1Mz
+M3MDcwNiwtNzAxNjY3NzU5LC02ODAxOTQ5OV19
 -->
