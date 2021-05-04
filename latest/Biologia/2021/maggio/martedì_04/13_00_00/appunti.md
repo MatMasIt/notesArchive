@@ -22,8 +22,10 @@ L'ipofisi posteriore
 
 minerali
 
-Il bambino attiva scossoe
+Il bambino attiva contrazioni con la sua testa
+
+p 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTYzMDQyOCwtMTYyMDIxMTcxLDIwNj
+eyJoaXN0b3J5IjpbMTgzNTUwMDc0NCwtMTYyMDIxMTcxLDIwNj
 U2NDIzMjBdfQ==
 -->
