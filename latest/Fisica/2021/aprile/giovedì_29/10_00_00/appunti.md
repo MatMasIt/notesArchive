@@ -25,7 +25,7 @@ $$
 Scoperta casuale, passaggio di corrente in un filo, ago della bussola ruota
 ago di dispone perpendicolare al filo
 
-Limatura di ferro cè come tanti piccoli aghi se si dispongono con un certo orientament
+Limatura di ferro  come tanti piccoli aghi se si dispongono con un certo orientamento
 
 Collegamento tra gravitazione e Cariche elettriche
 
@@ -108,8 +108,8 @@ g=G\frac{M_{T}}{R_{T}}=6,67\cdot10^{-11}\frac{N}{m^2{Kg}^2}\cdot\frac{5,98\cdot 
 9,799\frac{N}{Kg}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODcwMDMwOSwxODEzMTkzNjExLC0xNj
-E1NjgzNzkwLC0xODkyNzE3NzYwLC0xODE2NzQ4ODEyLDIwNDAz
-MzIwODksLTExODkyODE0NCwxODc3NDIzODExLC0xNjk3MTk2MT
-c3LDE0MDM3NDUzMDVdfQ==
+eyJoaXN0b3J5IjpbLTEyOTAwMzM0MDcsMTgxMzE5MzYxMSwtMT
+YxNTY4Mzc5MCwtMTg5MjcxNzc2MCwtMTgxNjc0ODgxMiwyMDQw
+MzMyMDg5LC0xMTg5MjgxNDQsMTg3NzQyMzgxMSwtMTY5NzE5Nj
+E3NywxNDAzNzQ1MzA1XX0=
 -->
