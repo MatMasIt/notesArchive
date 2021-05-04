@@ -24,7 +24,12 @@ Come Parini, sepolto in una fossa comune
 Letture di Gian Battista Vico
 
 Vico: dove c'è un cimitero curato, allora c'è civiltà umana (come in antichità, necropoli)
+
+Ricerca del senso della poetica
+
+Le tombe dei Grandi
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTI5NDczNjksMTk4NTQ0NzAzNSwtNj
-A4ODk5MTU5LC04MzMzMjQ3NzhdfQ==
+eyJoaXN0b3J5IjpbMTAyMDcyMDIwOSwtMTI5Mjk0NzM2OSwxOT
+g1NDQ3MDM1LC02MDg4OTkxNTksLTgzMzMyNDc3OF19
 -->
