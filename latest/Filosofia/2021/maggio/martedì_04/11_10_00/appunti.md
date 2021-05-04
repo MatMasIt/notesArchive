@@ -53,8 +53,14 @@ I principi di filosofia
 
 Sostanza non ha bisogno di niente per esistere se non di Dio
 
+Unica sostanza estesa uguale in tutto  l'universo
 
+Metafisica compatibile con la scienza
+
+Sostanza pensante -> libera, consapevole
+
+Sostanza estesa (inclusa animali) è pur
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDAwMDgxLDI1MjM1ODQyMSwxOTg5Mj
-I2Njg3XX0=
+eyJoaXN0b3J5IjpbLTE0NTkwNjU1MjAsMjUyMzU4NDIxLDE5OD
+kyMjY2ODddfQ==
 -->
