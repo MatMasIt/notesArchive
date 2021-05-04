@@ -85,8 +85,11 @@ Supposizioni mondializzazione
 File sul classroom
 
 
+$$
+\Delta p_{x}=p_{f_{x}}-p_{i_{x}}=-mv_{x}-mv_{x_{2}}=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjkyMTkxMiw5NDQ0NDEzNTMsMTAzNT
+eyJoaXN0b3J5IjpbMTQ5MDk4MzU5MSw5NDQ0NDEzNTMsMTAzNT
 M4MTQwMCwtMjUzMzcwNzA2LC03MDE2Njc3NTksLTY4MDE5NDk5
 XX0=
 -->
