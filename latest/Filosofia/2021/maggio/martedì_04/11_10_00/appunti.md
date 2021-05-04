@@ -24,6 +24,15 @@ Corpo: res extensa
 Lui usa in termine *substantia* per indicare la *res cogitans* e la *res extensa*
 
 Cosa cambia dal concetto di "sostanza" si aristotele
+
+Per Aristotele indicavano 
+* Materia
+* Forma
+
+
+Per Aristotele: individuo era una sostanza che derivava da unione della materia e della essenza
+
+Aristotele -> sostanza: materia + 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTA0MDkwNTQsMTk4OTIyNjY4N119
+eyJoaXN0b3J5IjpbLTE2MDI0OTg0MCwxOTg5MjI2Njg3XX0=
 -->
