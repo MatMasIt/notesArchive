@@ -11,7 +11,7 @@ He got it in the local library
 His family could not afford the fees of the school
 3. He managed to build a windmill using his father's bycicle, a dynamo that he had, he went to a junkyard
 He could power two radios and 4 light bulbs
-4. Electricity to pumpo water from wells in order to irrigate crops, provide electricity for houses
+4. Electricity to pump water from wells in order to irrigate crops, provide electricity for houses
 5. We have to act if we want to realize our dreams
 Trust youself, don't give up
 Adressing young and poor people
@@ -22,5 +22,5 @@ Adressing young and poor people
 	 * founder of "Moving Windimills", organization that tries to innovate Malawi, focusing on education projects and development
 8. Innovation centre where people with innovative ideas can create a brighter future
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDkwNzM2NTUsMjE0MDk5NTQ2OV19
+eyJoaXN0b3J5IjpbLTE3NTQ2NDM4MTIsMjE0MDk5NTQ2OV19
 -->
