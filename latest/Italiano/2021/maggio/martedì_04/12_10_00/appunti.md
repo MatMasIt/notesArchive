@@ -22,7 +22,9 @@ Egualitarismo non etico
 Come Parini, sepolto in una fossa comune
 
 Letture di Gian Battista Vico
+
+Vico: dove c'è un cimitero curato, allora c'è civiltà umana (come in antichità, necropoli)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzY3NzcwNCwxOTg1NDQ3MDM1LC02MD
-g4OTkxNTksLTgzMzMyNDc3OF19
+eyJoaXN0b3J5IjpbLTEyOTI5NDczNjksMTk4NTQ0NzAzNSwtNj
+A4ODk5MTU5LC04MzMzMjQ3NzhdfQ==
 -->
