@@ -59,8 +59,8 @@ Metafisica compatibile con la scienza
 
 Sostanza pensante -> libera, consapevole
 
-Sostanza estesa (inclusa animali) è pur
+Sostanza estesa (inclusa animali) è puramente deterministica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTkwNjU1MjAsMjUyMzU4NDIxLDE5OD
-kyMjY2ODddfQ==
+eyJoaXN0b3J5IjpbNjk3OTIwMTg3LDI1MjM1ODQyMSwxOTg5Mj
+I2Njg3XX0=
 -->
