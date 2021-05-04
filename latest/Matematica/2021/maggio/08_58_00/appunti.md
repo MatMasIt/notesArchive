@@ -20,7 +20,24 @@ Esempio: motore a 4 tempi
 
 ![Motore a 4 Tempi](https://www.tecnologiaduepuntozero.it/wp-content/uploads/2018/01/Diesel-4-tempi.gif)
 
+> Energia si trasforma in un sistema, seguendo il primo principio della termodinamica
+
+Energie in gioco:
+$$
+\Delta U
+$$
+Energia interna al sistema
+
+$$
+Q
+$$
+Calore fornito o ceduto
+
+$$
+W
+$$
+lavore ese
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTM4MTQwMCwtMjUzMzcwNzA2LC03MD
-E2Njc3NTksLTY4MDE5NDk5XX0=
+eyJoaXN0b3J5IjpbMTU1NzYwNDc3MSwxMDM1MzgxNDAwLC0yNT
+MzNzA3MDYsLTcwMTY2Nzc1OSwtNjgwMTk0OTldfQ==
 -->
