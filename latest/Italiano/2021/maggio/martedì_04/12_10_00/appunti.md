@@ -29,7 +29,12 @@ Ricerca del senso della poetica
 
 Le tombe dei Grandi
 
+Riscatto della patria
+
+Canzone all'Italia, Petrarca
+Machiavelli, liberare Italia
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDcyMDIwOSwtMTI5Mjk0NzM2OSwxOT
-g1NDQ3MDM1LC02MDg4OTkxNTksLTgzMzMyNDc3OF19
+eyJoaXN0b3J5IjpbLTIwMTMyMDk3MzAsLTEyOTI5NDczNjksMT
+k4NTQ0NzAzNSwtNjA4ODk5MTU5LC04MzMzMjQ3NzhdfQ==
 -->
