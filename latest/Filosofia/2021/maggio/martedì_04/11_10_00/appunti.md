@@ -63,8 +63,12 @@ Sostanza estesa (inclusa animali) è puramente deterministica
 
 Uomini sono liberi dal puro determinismo
 
-Dualismo cartesiano
+Dualismo cartesiano è un **grosso problema**
+
+L'uomo è parte della natura, ma la res cogitans, che collegamento sussiste
+
+materie troppo diverse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxNTIyNjQ4LDI1MjM1ODQyMSwxOTg5Mj
-I2Njg3XX0=
+eyJoaXN0b3J5IjpbMTYyMzU5OTQyNSwyNTIzNTg0MjEsMTk4OT
+IyNjY4N119
 -->
