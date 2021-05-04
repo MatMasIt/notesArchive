@@ -33,7 +33,10 @@ causato dalla contrazione
 
 Colostro -> non latte, ma ricco di immunoglobuline
 Il latte viene dopo
+
+pianto -> fase respiratoria
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY4NDg1NTcsLTU3OTI0OTU4NywtMT
-YyMDIxMTcxLDIwNjU2NDIzMjBdfQ==
+eyJoaXN0b3J5IjpbLTE4OTQ5ODkyNzEsLTE0OTY4NDg1NTcsLT
+U3OTI0OTU4NywtMTYyMDIxMTcxLDIwNjU2NDIzMjBdfQ==
 -->
