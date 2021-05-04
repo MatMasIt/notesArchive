@@ -69,9 +69,20 @@ $$
 l'ambiente esegue lavoro sul sistema
 
 
-Cosa intendiamo con energia interna di un sistem
+Cosa intendiamo con energia interna di un sistema?
+Grandezza macroscopica che descrive cosa accade a un livello microscopico 
+
+Teoria cinetica di un gas
+
+Supposizioni mondializzazione
+
+* tante molecole
+* identiche
+* di dimensione trascurabili
+* si muovono in modo casuale ma rispettano le leggi di newton
+* gli urti con le pareti 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzUzMDU3NCw5NDQ0NDEzNTMsMTAzNT
-M4MTQwMCwtMjUzMzcwNzA2LC03MDE2Njc3NTksLTY4MDE5NDk5
-XX0=
+eyJoaXN0b3J5IjpbLTEwOTg1Mjk1OTQsOTQ0NDQxMzUzLDEwMz
+UzODE0MDAsLTI1MzM3MDcwNiwtNzAxNjY3NzU5LC02ODAxOTQ5
+OV19
 -->
