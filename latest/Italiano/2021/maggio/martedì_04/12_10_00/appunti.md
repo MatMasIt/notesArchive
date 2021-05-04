@@ -18,7 +18,11 @@ T12
 Le tombe garantiscono la sopravvivenza nella memoria dei vivi, si critica editto di Saint Cloud, siccome le tombe devono diventare un richiamo alla vita eroica, civilmente impegnata di colui che lì è sepolto
 
 Egualitarismo non etico
+
+Come Parini, sepolto in una fossa comune
+
+Letture di Gian Battista Vico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE3MjA5MzMsMTk4NTQ0NzAzNSwtNj
-A4ODk5MTU5LC04MzMzMjQ3NzhdfQ==
+eyJoaXN0b3J5IjpbMjEwMzY3NzcwNCwxOTg1NDQ3MDM1LC02MD
+g4OTkxNTksLTgzMzMyNDc3OF19
 -->
