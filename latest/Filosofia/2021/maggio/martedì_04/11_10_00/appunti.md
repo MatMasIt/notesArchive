@@ -45,8 +45,12 @@ Harvey aveva analizzato la circolazione meccanica del corpo (apparato cardiocirc
 
 Le essenze non contano più niente
 
-Approc
+Approccio rigorosamente scientifico per analizzare la res extensa
+
+
+p. 100
+I principii di filosofia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1NzI2NjcyLDI1MjM1ODQyMSwxOTg5Mj
-I2Njg3XX0=
+eyJoaXN0b3J5IjpbLTExMjU0NTc5NzksMjUyMzU4NDIxLDE5OD
+kyMjY2ODddfQ==
 -->
