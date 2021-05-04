@@ -35,8 +35,9 @@ Colostro -> non latte, ma ricco di immunoglobuline
 Il latte viene dopo
 
 pianto -> fase respiratoria
+insopportabile, a livello evolutivo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQ5ODkyNzEsLTE0OTY4NDg1NTcsLT
-U3OTI0OTU4NywtMTYyMDIxMTcxLDIwNjU2NDIzMjBdfQ==
+eyJoaXN0b3J5IjpbLTkwNDM5OTY0MywtMTQ5Njg0ODU1NywtNT
+c5MjQ5NTg3LC0xNjIwMjExNzEsMjA2NTY0MjMyMF19
 -->
