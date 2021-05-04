@@ -6,6 +6,9 @@
 
 
 Lettera da Ventimiglia, testo fornito
+
+L
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODg5OTE1OSwtODMzMzI0Nzc4XX0=
+eyJoaXN0b3J5IjpbNTczOTY4OTMxLC02MDg4OTkxNTksLTgzMz
+MyNDc3OF19
 -->
