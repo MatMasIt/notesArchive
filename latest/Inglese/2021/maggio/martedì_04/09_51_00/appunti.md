@@ -15,7 +15,8 @@ He could power two radios and 4 light bulbs
 5. We have to act if we want to realize our dreams
 Trust youself, don't give up
 Adressing young and poor people
-6. 
+6. Dartmouth college (USA), graduated in environmental studies and field of Energy
+7. He built a secondo windmill ("the green machine"), used to pumo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzU3MDU3NiwyMTQwOTk1NDY5XX0=
+eyJoaXN0b3J5IjpbMTM1NjQwOTAzNywyMTQwOTk1NDY5XX0=
 -->
