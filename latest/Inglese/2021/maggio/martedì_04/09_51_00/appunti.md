@@ -21,6 +21,10 @@ Adressing young and poor people
 	 * School
 	 * founder of "Moving Windimills", organization that tries to innovate Malawi, focusing on education projects and development
 8. Innovation centre where people with innovative ideas can create a brighter future
+
+## Global Students Leaders Summit
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ2NDM4MTIsMjE0MDk5NTQ2OV19
+eyJoaXN0b3J5IjpbLTEyMzg1NDAxMDAsLTE3NTQ2NDM4MTIsMj
+E0MDk5NTQ2OV19
 -->
