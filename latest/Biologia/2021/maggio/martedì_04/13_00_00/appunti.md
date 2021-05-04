@@ -31,8 +31,9 @@ spinte volontarie
 Fase del travaglio -> dolore
 causato dalla contrazione
 
-
+Colostro -> non latte, ma ricco di immunoglobuline
+Il latte viene dopo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTI0OTU4NywtMTYyMDIxMTcxLDIwNj
-U2NDIzMjBdfQ==
+eyJoaXN0b3J5IjpbLTE0OTY4NDg1NTcsLTU3OTI0OTU4NywtMT
+YyMDIxMTcxLDIwNjU2NDIzMjBdfQ==
 -->
