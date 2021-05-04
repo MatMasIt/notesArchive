@@ -37,7 +37,10 @@ Aristotele -> sostanza: materia + forma
 Ente con una autonoma capacità di sussistenza
 
 Res cogitans: solo nell'uomo
+
+cancellato residui spirituali nella realtà
+Animali sono meccanismi che non sono dotati di un'anima, res extensa, meccanicistici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTU1MjY0LDI1MjM1ODQyMSwxOTg5Mj
-I2Njg3XX0=
+eyJoaXN0b3J5IjpbLTkyMTY1MTk2NCwyNTIzNTg0MjEsMTk4OT
+IyNjY4N119
 -->
