@@ -13,7 +13,7 @@ parte anteriore -> neuroipofisi
 
 p 474
 
-
+in presenza di un eccesso di H2O, la produzione di ADH si arresta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Mzc5NzMzNl19
+eyJoaXN0b3J5IjpbLTE1NDk2MTMxMzZdfQ==
 -->
