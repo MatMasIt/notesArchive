@@ -14,6 +14,16 @@ Appaiono variabili tra persone
 Qualità primarie (oggettive) e secondarie (soggettive)
 
 Dio è garante dal fatto che non possiamo essere ingannati
+
+Corpo: res extensa
+
+* Estensione: occupare uno spazio
+* Divisibilità in parti
+* movimento
+
+Lui usa in termine *substantia* per indicare la *res cogitans* e la *res extensa*
+
+Cosa cambia dal concetto di "sostanza" si aristotele
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk3MjY0NDMsMTk4OTIyNjY4N119
+eyJoaXN0b3J5IjpbLTEwOTA0MDkwNTQsMTk4OTIyNjY4N119
 -->
