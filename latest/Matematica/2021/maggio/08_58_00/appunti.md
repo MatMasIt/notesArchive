@@ -36,8 +36,10 @@ Calore fornito o ceduto
 $$
 W
 $$
-lavore ese
+Lavoro eseguito <u>dal</u> sistema o <u>sul</u> sistema
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzYwNDc3MSwxMDM1MzgxNDAwLC0yNT
-MzNzA3MDYsLTcwMTY2Nzc1OSwtNjgwMTk0OTldfQ==
+eyJoaXN0b3J5IjpbLTE5MDI5MDM0NjcsMTAzNTM4MTQwMCwtMj
+UzMzcwNzA2LC03MDE2Njc3NTksLTY4MDE5NDk5XX0=
 -->
