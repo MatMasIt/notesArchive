@@ -40,8 +40,10 @@ insopportabile, a livello evolutivo
 Ossitocina attiva le cure parentali
 
 Prolattina -> funzione anticoncezionale
+
+Tiroide, Paratormone   livelli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5MTk5NTM5LDQ4ODkyMjU3OSwtMTQ5Nj
-g0ODU1NywtNTc5MjQ5NTg3LC0xNjIwMjExNzEsMjA2NTY0MjMy
-MF19
+eyJoaXN0b3J5IjpbLTg3NjQyNjk2Miw0ODg5MjI1NzksLTE0OT
+Y4NDg1NTcsLTU3OTI0OTU4NywtMTYyMDIxMTcxLDIwNjU2NDIz
+MjBdfQ==
 -->
