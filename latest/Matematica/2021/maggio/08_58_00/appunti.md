@@ -64,10 +64,10 @@ il sistema esegue lavoro sull'ambiente
 
 oppure
 $$
-<0
+W<0
 $$
-il sistema cede calore
+l'ambiente esegue lavoro sul sistema
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjk4NzA1LDEwMzUzODE0MDAsLTI1Mz
+eyJoaXN0b3J5IjpbOTQ0NDQxMzUzLDEwMzUzODE0MDAsLTI1Mz
 M3MDcwNiwtNzAxNjY3NzU5LC02ODAxOTQ5OV19
 -->
