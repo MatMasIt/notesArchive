@@ -9,8 +9,9 @@ B.2 "
 2. Science and physics magazine and books Book: *Using Energy*
 He got it in the local library
 His family could not afford the fees of the school
-3. 
+3. He manage to  a windmill
+4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzgyNDE2OSwyMTQwOTk1NDY5XX0=
+eyJoaXN0b3J5IjpbMTUwMjkyNTg2NSwyMTQwOTk1NDY5XX0=
 -->
