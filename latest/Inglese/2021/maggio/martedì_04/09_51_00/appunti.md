@@ -16,7 +16,10 @@ He could power two radios and 4 light bulbs
 Trust youself, don't give up
 Adressing young and poor people
 6. Dartmouth college (USA), graduated in environmental studies and field of Energy
-7. He built a secondo windmill ("the green machine"), used to pumo 
+7. He built a second windmill ("the green machine"), used to pump the water
+	 * Green Machine
+	 * School
+	 * founder of "Moving Windimills", organization that tries to innovate Malawi, focusing on education projects and development
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjQwOTAzNywyMTQwOTk1NDY5XX0=
+eyJoaXN0b3J5IjpbLTE3MjY1MTgwMzUsMjE0MDk5NTQ2OV19
 -->
