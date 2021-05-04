@@ -35,6 +35,9 @@ Per Aristotele: individuo era una sostanza che derivava da unione della materia 
 Aristotele -> sostanza: materia + forma
 
 Ente con una autonoma capacità di sussistenza
+
+Res cogitans: solo nell'uomo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMzU4NDIxLDE5ODkyMjY2ODddfQ==
+eyJoaXN0b3J5IjpbLTkxOTU1MjY0LDI1MjM1ODQyMSwxOTg5Mj
+I2Njg3XX0=
 -->
