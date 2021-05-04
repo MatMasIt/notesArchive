@@ -40,7 +40,13 @@ Res cogitans: solo nell'uomo
 
 cancellato residui spirituali nella realtà
 Animali sono meccanismi che non sono dotati di un'anima, res extensa, meccanicistici
+
+Harvey aveva analizzato la circolazione meccanica del corpo (apparato cardiocircolatorio)
+
+Le essenze non contano più niente
+
+Approc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTY1MTk2NCwyNTIzNTg0MjEsMTk4OT
-IyNjY4N119
+eyJoaXN0b3J5IjpbOTI1NzI2NjcyLDI1MjM1ODQyMSwxOTg5Mj
+I2Njg3XX0=
 -->
