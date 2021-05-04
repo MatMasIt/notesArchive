@@ -5,7 +5,11 @@
 p. 539
 
 Ovulo -> corpo luteo
+il corpo luteo produce progesterone
 
+Parte anteriore -> adenoipofisi
+
+parte anteriore -> neuroipofisi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjgxODEzOTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NTM4NzkzNzZdfQ==
 -->
