@@ -4,6 +4,8 @@
 
 p. 539
 
+Ovulo -> corpo luteo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODE4MDAxMF19
+eyJoaXN0b3J5IjpbLTEwMjgxODEzOTZdfQ==
 -->
