@@ -7,8 +7,10 @@
 
 Lettera da Ventimiglia, testo fornito
 
-L
+La letteratura può più delle tombe
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczOTY4OTMxLC02MDg4OTkxNTksLTgzMz
-MyNDc3OF19
+eyJoaXN0b3J5IjpbMTk4NTQ0NzAzNSwtNjA4ODk5MTU5LC04Mz
+MzMjQ3NzhdfQ==
 -->
