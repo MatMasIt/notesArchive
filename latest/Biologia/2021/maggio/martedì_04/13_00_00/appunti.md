@@ -25,7 +25,9 @@ minerali
 Il bambino attiva contrazioni con la sua testa
 
 p 550
+
+spinte volontarie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjY0NDczMiwtMTYyMDIxMTcxLDIwNj
+eyJoaXN0b3J5IjpbLTIxNzk3MDUyOCwtMTYyMDIxMTcxLDIwNj
 U2NDIzMjBdfQ==
 -->
