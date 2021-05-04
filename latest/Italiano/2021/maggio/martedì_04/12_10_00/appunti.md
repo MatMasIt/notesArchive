@@ -15,8 +15,10 @@ Finitudine umana nella sepoltura
 p557,559 risposte di Foscolo
 T12
 
-Le tombe garantiscono la sopravvivenza nella memoria dei vivi, si critica editto di Saint Co
+Le tombe garantiscono la sopravvivenza nella memoria dei vivi, si critica editto di Saint Cloud, siccome le tombe devono diventare un richiamo alla vita eroica, civilmente impegnata di colui che lì è sepolto
+
+Egualitarismo non etico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDMzNiwxOTg1NDQ3MDM1LC02MDg4OT
-kxNTksLTgzMzMyNDc3OF19
+eyJoaXN0b3J5IjpbLTExNDE3MjA5MzMsMTk4NTQ0NzAzNSwtNj
+A4ODk5MTU5LC04MzMzMjQ3NzhdfQ==
 -->
