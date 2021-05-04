@@ -52,7 +52,9 @@ p. 100
 I principi di filosofia
 
 Sostanza non ha bisogno di niente per esistere se non di Dio
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA0MDk2NDUsMjUyMzU4NDIxLDE5OD
-kyMjY2ODddfQ==
+eyJoaXN0b3J5IjpbLTg2NDAwMDgxLDI1MjM1ODQyMSwxOTg5Mj
+I2Njg3XX0=
 -->
