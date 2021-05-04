@@ -4,8 +4,8 @@
 # Lezione di Inglese (3° ora)
 
 ## martedì 04 maggio 2021, 09:52:00
-B.2 
-1. **Blowing in the wind**" lack of water: lack of crops
+B.2 **Blowing in the wind**
+1. Initial issue: lack of water: lack of crops
 2. Science and physics magazine and books Book: *Using Energy*
 He got it in the local library
 His family could not afford the fees of the school
@@ -15,5 +15,5 @@ He could power two radios and 4 light bulbs
 5. We have to act if we want to realize our dreams
 Trust youself, don't give up
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2MzM3NzU1LDIxNDA5OTU0NjldfQ==
+eyJoaXN0b3J5IjpbLTE0MzI3ODA5NzYsMjE0MDk5NTQ2OV19
 -->
