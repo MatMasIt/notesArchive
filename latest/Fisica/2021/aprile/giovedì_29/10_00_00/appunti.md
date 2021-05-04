@@ -21,7 +21,7 @@ Bande luminose, effetto aurore boreali
 $$
 E=hf
 $$
-## Esperimento di Ersted
+## Esperimento di Orsted
 Scoperta casuale, passaggio di corrente in un filo, ago della bussola ruota
 ago di dispone perpendicolare al filo
 
@@ -108,8 +108,8 @@ g=G\frac{M_{T}}{R_{T}}=6,67\cdot10^{-11}\frac{N}{m^2{Kg}^2}\cdot\frac{5,98\cdot 
 9,799\frac{N}{Kg}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzE5MzYxMSwtMTYxNTY4Mzc5MCwtMT
-g5MjcxNzc2MCwtMTgxNjc0ODgxMiwyMDQwMzMyMDg5LC0xMTg5
-MjgxNDQsMTg3NzQyMzgxMSwtMTY5NzE5NjE3NywxNDAzNzQ1Mz
-A1XX0=
+eyJoaXN0b3J5IjpbMTgwODcwMDMwOSwxODEzMTkzNjExLC0xNj
+E1NjgzNzkwLC0xODkyNzE3NzYwLC0xODE2NzQ4ODEyLDIwNDAz
+MzIwODksLTExODkyODE0NCwxODc3NDIzODExLC0xNjk3MTk2MT
+c3LDE0MDM3NDUzMDVdfQ==
 -->
