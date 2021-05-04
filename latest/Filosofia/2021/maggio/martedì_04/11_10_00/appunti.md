@@ -72,7 +72,10 @@ materie troppo diverse
 Comunicazione tra anima e corpo?
 
 Ghiandola pineale, epifisi
+non divisa in due parti nel cervello, e lì avrebbe la sua sede la res cogitans, ma è una entità inestesa e ha una sede spaziale... (?)
+
+È l'interfaccia tra il resto del corpo umano e la res 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MzI3MTMzLDI1MjM1ODQyMSwxOTg5Mj
+eyJoaXN0b3J5IjpbOTAwNTg3NjAzLDI1MjM1ODQyMSwxOTg5Mj
 I2Njg3XX0=
 -->
