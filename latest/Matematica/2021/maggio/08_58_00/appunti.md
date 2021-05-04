@@ -6,9 +6,12 @@
 
 > Scheda con ripasso di termologia (classroom)
 
+Corpo nero -> buon emettitore, assorbitore
 
+Idealmente, sfera cava nera con un piccolo foro, luce rimbalza nelle pareti, buon emettitore e buon assorbitore
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTY2Nzc1OSwtNjgwMTk0OTldfQ==
+eyJoaXN0b3J5IjpbLTI1MzM3MDcwNiwtNzAxNjY3NzU5LC02OD
+AxOTQ5OV19
 -->
