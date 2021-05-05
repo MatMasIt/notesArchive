@@ -6,6 +6,8 @@ Rapporto tra Res Cogitans e Res Extensa
 Come può la Res Cogitans influire sulla materia de corpo
 p 103	
 Come può la sostanza pensante influenzare la sostanza estesa (movimento)
+
+Metà p 101 Ruolo di Dio nel sistema di Cartesio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTQ0NjU1Ml19
+eyJoaXN0b3J5IjpbLTc3MzczNzE2OF19
 -->
