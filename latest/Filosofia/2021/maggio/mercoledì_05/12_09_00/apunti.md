@@ -16,8 +16,12 @@ Dio freddo, razionale, non il Dio personale, a cui ci si può affidare come oriz
 influezerà il pensiero di Pascal
 
 
-Blaise Pascal denuncia i limiti del sapere scientifico
-P 126, è stato introdotto allo stdio della matematica e della fisica e appena a 16 anni scrive uun saggio sulle c
+Blaise Pascal denuncia i limiti del sapere scientifico, pur essendo un ottimo scienziato
+P 126, è stato introdotto allo stdio della matematica e della fisica e appena a 16 anni scrive uun saggio sulle coniche, che contiene il * teorema di Pascal* 
+A 18 anni inventa una macchina calcolatrice che poi migliorerà
+Studio dinamica dei liquidi (*principio di Pascal*)
+
+Pascal sostiene c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjUwODkyOTZdfQ==
+eyJoaXN0b3J5IjpbLTE3MTU5OTMwMTBdfQ==
 -->
