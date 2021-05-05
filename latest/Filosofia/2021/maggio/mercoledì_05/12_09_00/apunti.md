@@ -50,7 +50,13 @@ Scrive 17 lettere provinciali, difendendo il Giansenismo
 
 Pascal scrive un'opera che vorrebbe chiamare "*Apologia del Cristianesimo*" ma non riuscirà a finirla nel 1699 i suoi amici pubblicano appunti e parti nei "*Pensieri*" in cui vuole  mostrare la bontà del cristianesimo
 
-Fin da giovane soffrì d
+Fin da giovane soffrì di problemi di salute, forse può aver ibfluito sulla sua "*Conversione*" 
+
+
+p 127
+
+Il valore della Ragione dagli studi scientifici
+La Ragione non 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjM0MDc2OF19
+eyJoaXN0b3J5IjpbLTY1NjQ0MjM3MV19
 -->
