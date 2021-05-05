@@ -46,6 +46,11 @@ Pascal si avvicina ai Giansenisti, probabilmente influenzato dalla sorella
 
 Scrive 17 lettere provinciali, difendendo il Giansenismo
 
+---
+
+Pascal scrive un'opera che vorrebbe chiamare "*Apologia del Cristianesimo*" ma non riuscirà a finirla nel 1699 i suoi amici pubblicano appunti e parti nei "*Pensieri*" in cui vuole  mostrare la bontà del cristianesimo
+
+Fin da giovane soffrì d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQwODMyNjhdfQ==
+eyJoaXN0b3J5IjpbMjAwNjM0MDc2OF19
 -->
