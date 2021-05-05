@@ -12,8 +12,12 @@ Dio ha creato la sostanza estesa
 Dio magnanimo
 provvidenza ordinaria, garantisce la materia e la quantità di moto dell'universo costanti
 Dio che non interferisce nella natura, che a quel punto la natura funziona meccanicisticamente (no miracoli, etc)
-Dio freddo, razionale, non il Dio personale
-infuìì
+Dio freddo, razionale, non il Dio personale, a cui ci si può affidare come orizzonte di Vita
+influezerà il pensiero di Pascal
+
+
+Blaise Pascal denuncia i limiti del sapere scientifico
+P 126, è stato introdotto allo stdio della matematica e della fisica e appena a 16 anni scrive uun saggio sulle c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTg4MjAzXX0=
+eyJoaXN0b3J5IjpbLTE5NjUwODkyOTZdfQ==
 -->
