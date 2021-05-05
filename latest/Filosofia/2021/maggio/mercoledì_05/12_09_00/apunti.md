@@ -29,7 +29,8 @@ Pascal, cattolico per formazione, ma a 35 anni ha una conversione, crede veramen
 > da *Cornelius Iansen*
 > posizione simile al luteranesimo sul tema della grazia divina (opere buone e grazia divina)
 > Abbazia di port Royale  --  Giansenisti / Portorealisti
-> 
+
+Gesuiti (Ignazio di Loyola) sono lassisti, è sempre possibile il perdono
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjk5NDE1OF19
+eyJoaXN0b3J5IjpbLTEyOTE2MTg0NjZdfQ==
 -->
