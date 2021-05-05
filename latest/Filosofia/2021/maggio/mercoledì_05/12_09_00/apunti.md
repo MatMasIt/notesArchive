@@ -34,8 +34,12 @@ Gesuiti (Ignazio di Loyola) sono lassisti, è sempre possibile il perdono, i pro
 Protestanti: se ti viene facile rispettare i principi cristiani forse è perchè sei stato destinato da Dio a essere salvato
 Mondo cattolico: sempre possibile ottenere remissioni delle colpe
 
-    
+   
+
+> Giansenisti oppongono Sant'Agostino e la sua dottrina della Grazia
+
+secondo i Gesuiti ogni individuo ha già da dio una grazia sufficiente a salvarlo se solo si comporterà bene, tra cui donare una parte delle proprie ricchezze alla chiesa
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDYwNTcwMTVdfQ==
+eyJoaXN0b3J5IjpbNzA3NzA1MjQ3XX0=
 -->
