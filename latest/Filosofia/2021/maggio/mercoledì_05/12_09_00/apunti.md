@@ -9,7 +9,9 @@ Come può la sostanza pensante influenzare la sostanza estesa (movimento)
 
 Metà p 101 Ruolo di Dio nel sistema di Cartesio
 Dio ha creato la sostanza estesa
-Dio 
+Dio magnanimo
+provvidenza ordinaria, garantisce la materia e la quantità di moto dell'universo costanti
+Dio che non interferisce nella natura, che a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyMjEwNTU2XX0=
+eyJoaXN0b3J5IjpbMTg5NDk2MTM5M119
 -->
