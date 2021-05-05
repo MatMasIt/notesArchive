@@ -63,6 +63,10 @@ Limiti della ragione scientifica
 Assiomi intuitivi, non ragionaer, ma  sentire
 
 Questo è il primo limite
+
+Il cuore sente che lo spazio ha 3 dimensioni e che i numeri sono infiniti, ma senza queste intuizioni molti ragionamenti scientifici non funzionerebbero
+
+	Spi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwNTUzMzMxXX0=
+eyJoaXN0b3J5IjpbLTQ2Mjk1ODIwN119
 -->
