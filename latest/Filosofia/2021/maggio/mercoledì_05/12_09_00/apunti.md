@@ -73,8 +73,15 @@ Secondo Pascal il discorso scientifico non può appagare l'essere umano, che vuo
 	Questioni di SENSO
 che la scienza non può risolvere, ma questa ricerca per l'essere umano è indispensabile
 
-> Il cuore ha le sue ragioni che la ragio
+> Il cuore ha le sue ragioni che la ragione non conosce
+
+
+p 128, Cuore e Ragione, facoltà dell'uomo con campi di azioni diverse
+
+"Spirito di Geometria" e "Spirito di Finezza"
+
+Si deli
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNzc2OTYwXX0=
+eyJoaXN0b3J5IjpbLTEyMTI1MjkyOThdfQ==
 -->
