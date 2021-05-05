@@ -31,7 +31,10 @@ Pascal, cattolico per formazione, ma a 35 anni ha una conversione, crede veramen
 > Abbazia di port Royale  --  Giansenisti / Portorealisti
 
 Gesuiti (Ignazio di Loyola) sono lassisti, è sempre possibile il perdono, i protestanti sono il contrario
-Protestanti: se ti viene facile rispettare i principi cristiani forse è perchè se
+Protestanti: se ti viene facile rispettare i principi cristiani forse è perchè sei stato destinato da Dio a essere salvato
+Mondo cattolico: sempre possibile ottenere remissioni delle colpe
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI2OTk1NjFdfQ==
+eyJoaXN0b3J5IjpbMTg5NzM1NjI1MV19
 -->
