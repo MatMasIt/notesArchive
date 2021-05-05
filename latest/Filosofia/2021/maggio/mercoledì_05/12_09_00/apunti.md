@@ -71,7 +71,10 @@ Il cuore sente che lo spazio ha 3 dimensioni e che i numeri sono infiniti, ma se
 Secondo Pascal il discorso scientifico non può appagare l'essere umano, che vuole rispondere a questioni a cui la scienza non può dare risposte
 
 	Questioni di SENSO
-che la scienza non può risolvere
+che la scienza non può risolvere, ma questa ricerca per l'essere umano è indispensabile
+
+> Il cuore ha le sue ragioni che la ragio
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDc3OTU5XX0=
+eyJoaXN0b3J5IjpbMjUwNzc2OTYwXX0=
 -->
