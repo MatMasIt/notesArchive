@@ -11,7 +11,7 @@ Metà p 101 Ruolo di Dio nel sistema di Cartesio
 Dio ha creato la sostanza estesa
 Dio magnanimo
 provvidenza ordinaria, garantisce la materia e la quantità di moto dell'universo costanti
-Dio che non interferisce nella natura, che a 
+Dio che non interferisce nella natura, che a quel punto la natura funziona meccanicisticamente (no miracoli, etc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDk2MTM5M119
+eyJoaXN0b3J5IjpbOTg3MDc2ODk1XX0=
 -->
