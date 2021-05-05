@@ -85,7 +85,11 @@ Si delineano separazioni tra cultura scientifica e umanistica
 
 Indagine condotta da Pascal, basandosi sullo spirito di finezza 
 
-spirito di Fineza 
+spirito di Fineza permette di cogliere, intuire la condizione dell'uomo e di metterne in rilievo la condizione di essere intermedio tra il tutto e il nulla
+
+Attraverso allo spirito di finezza l'essere umano scopre la sua condizione di insufficienza
+
+Condizione ontologica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTA0MjkwM119
+eyJoaXN0b3J5IjpbMTU2ODExMDIwNl19
 -->
