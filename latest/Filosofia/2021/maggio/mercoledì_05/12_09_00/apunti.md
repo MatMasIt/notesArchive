@@ -109,6 +109,7 @@ Guerra, Caccia, Elezioni, Via di società
 distraggono attenzione dalle miseria umana
 
 Nulla è infatti più insopportabile epr l'uomo che chiudersi nella sua stanza 
+Gli uomini preferiscono sedarsi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjIwNTEzNDFdfQ==
+eyJoaXN0b3J5IjpbMTQwODM2NDE5Ml19
 -->
