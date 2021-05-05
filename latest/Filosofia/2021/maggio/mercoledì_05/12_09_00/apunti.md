@@ -23,7 +23,12 @@ Studio dinamica dei liquidi (*principio di Pascal*)
 
 Pascal sostiene che la scienza non può rispondere ad alcune domande umane
 
+Pascal, cattolico per formazione, ma a 35 anni ha una conversione, crede veramente
+
+> Giansenismo, p 128, corrente del Cattolicesimo
+> da *Cornelius Iansen*
+> posizione simile al luteranesimo sul tema della grazia divi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzkwODQxM119
+eyJoaXN0b3J5IjpbLTE1NzY4MzI3MDBdfQ==
 -->
