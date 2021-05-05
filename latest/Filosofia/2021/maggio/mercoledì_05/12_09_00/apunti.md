@@ -114,7 +114,17 @@ Gli uomini preferiscono sedarsi
 Pascal rimprvera cartesio di aver spogliato Dio da i suoi attributi
 dimensione Cristologica di Pascal
 
-Gli uomini devono smettere di cercare il divertimento inutile, devono tornare al cristianesimo originale, ma gli uomini questo non lo fanno e si accorge che nella cultura del suo tempo spesso si tratta 
+Gli uomini devono smettere di cercare il divertimento inutile, devono tornare al cristianesimo originale, ma gli uomini questo non lo fanno e si accorge che nella cultura del suo tempo spesso si tratta la fede in maniera distaccata
+
+Lui consiglia di giungere a Dio anche attraverso ad argomentazioni razionali 
+
+p 130
+
+Non decidere equivale a decidere per il no
+
+La "scommessa su Dio"
+ciò che si può guadagnare è tutto, ma non si perde "nulla" ( felicità mondana)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDg5NDEwNl19
+eyJoaXN0b3J5IjpbLTEzNjU0ODE3M119
 -->
