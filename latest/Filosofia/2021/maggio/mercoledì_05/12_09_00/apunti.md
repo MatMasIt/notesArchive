@@ -100,6 +100,15 @@ Pascal riconosce che l'uomo è molto debole e fragile
 Pascal dice che l'uomo è una canna (più fragile di tutta la natura) ma è una canna pensante
 
 l'universo invece non sa nulla, la nostra dignità sta nel pensiero, per cui sappiamo la nostra condizione
+
+Per Pascal gli esseri umani preferiscono a non pensare alla propria miseria
+p 129
+Attraverso al divertimento, divergere, distrarsi rispett alla consapervolezza della miseria
+
+Guerra, Caccia, Elezioni, Via di società
+distraggono attenzione dalle miseria umana
+
+Nulla è infatti più insopportabile epr l'uomo che chiudersi nella sua stanza 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTgyMjM2M119
+eyJoaXN0b3J5IjpbLTIwMjIwNTEzNDFdfQ==
 -->
