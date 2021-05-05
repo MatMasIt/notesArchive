@@ -41,9 +41,9 @@ Ossitocina attiva le cure parentali
 
 Prolattina -> funzione anticoncezionale
 
-Tiroide, Paratormone   livelli
+Tiroide, Paratormone   livelli ematici del calcio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjQyNjk2Miw0ODg5MjI1NzksLTE0OT
+eyJoaXN0b3J5IjpbMTA3MjMwNDAxMCw0ODg5MjI1NzksLTE0OT
 Y4NDg1NTcsLTU3OTI0OTU4NywtMTYyMDIxMTcxLDIwNjU2NDIz
 MjBdfQ==
 -->
