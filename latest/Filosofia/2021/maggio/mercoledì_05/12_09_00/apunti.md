@@ -40,6 +40,7 @@ Mondo cattolico: sempre possibile ottenere remissioni delle colpe
 
 secondo i Gesuiti ogni individuo ha già da dio una grazia sufficiente a salvarlo se solo si comporterà bene, tra cui donare una parte delle proprie ricchezze alla chiesa
 
+> Secondo i Giansenisti dio è l'unico che ci salva  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3NzA1MjQ3XX0=
+eyJoaXN0b3J5IjpbMTE3NzY2Mjc1MV19
 -->
