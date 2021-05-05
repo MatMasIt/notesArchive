@@ -12,6 +12,8 @@ Dio ha creato la sostanza estesa
 Dio magnanimo
 provvidenza ordinaria, garantisce la materia e la quantità di moto dell'universo costanti
 Dio che non interferisce nella natura, che a quel punto la natura funziona meccanicisticamente (no miracoli, etc)
+Dio freddo, razionale, non il Dio personale
+infuìì
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3MDc2ODk1XX0=
+eyJoaXN0b3J5IjpbMTUyNTg4MjAzXX0=
 -->
