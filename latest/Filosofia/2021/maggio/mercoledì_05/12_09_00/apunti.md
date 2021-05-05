@@ -21,7 +21,9 @@ P 126, è stato introdotto allo stdio della matematica e della fisica e appena a
 A 18 anni inventa una macchina calcolatrice che poi migliorerà
 Studio dinamica dei liquidi (*principio di Pascal*)
 
-Pascal sostiene c
+Pascal sostiene che la scienza non può rispondere ad alcune domande umane
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU5OTMwMTBdfQ==
+eyJoaXN0b3J5IjpbMTI2NzkwODQxM119
 -->
