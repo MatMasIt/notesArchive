@@ -42,7 +42,10 @@ secondo i Gesuiti ogni individuo ha già da dio una grazia sufficiente a salvarl
 
 > Secondo i Giansenisti dio è l'unico che ci salva  
 
-Pascal si avvicina ai Giansenisti, probabilmente influenzato dalla soreklla
+Pascal si avvicina ai Giansenisti, probabilmente influenzato dalla sorella
+
+Scrive 17 lettere provinciali, difendendo il Giansenismo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDQyMDg1NF19
+eyJoaXN0b3J5IjpbLTE1MTQwODMyNjhdfQ==
 -->
