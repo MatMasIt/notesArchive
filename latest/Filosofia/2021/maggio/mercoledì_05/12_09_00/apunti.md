@@ -138,6 +138,17 @@ libertus, ex schiavo affrancato
 libero pensatore vuole affrancarsi da ortodossia della controriforma da servitù intellettuale
 
 
+Giordano Bruno ha ispirato i libertini
+
+
+Rivelare con gli strumenti offerti dalla ragione l'infondatezza dei dogmi cattolici
+
+Diverse conclusioni:
+* Deismo puro
+* Pantheismo
+* Ateismo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjYxODExMywxODE5ODQ0ODc0XX0=
+eyJoaXN0b3J5IjpbODc3MDkzMDksMTgxOTg0NDg3NF19
 -->
