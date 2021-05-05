@@ -80,8 +80,12 @@ p 128, Cuore e Ragione, facoltà dell'uomo con campi di azioni diverse
 
 "Spirito di Geometria" e "Spirito di Finezza"
 
-Si deli
+Si delineano separazioni tra cultura scientifica e umanistica
 
+
+Indagine condotta da Pascal, basandosi sullo spirito di finezza 
+
+spirito di Fineza 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI1MjkyOThdfQ==
+eyJoaXN0b3J5IjpbMTAyOTA0MjkwM119
 -->
