@@ -94,6 +94,8 @@ Condizione ontologica
 Ci accorgiamo di quanto siamo irrilevani
 
 Senso di **smarrimento** 
+
+Pascal riconosce che l'uomo è molto debole e fragile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTM5ODM4Ml19
+eyJoaXN0b3J5IjpbLTY5ODYyNjY2N119
 -->
