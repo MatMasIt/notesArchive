@@ -8,6 +8,8 @@ p 103
 Come può la sostanza pensante influenzare la sostanza estesa (movimento)
 
 Metà p 101 Ruolo di Dio nel sistema di Cartesio
+Dio ha creato la sostanza estesa
+Dio 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzczNzE2OF19
+eyJoaXN0b3J5IjpbMzcyMjEwNTU2XX0=
 -->
