@@ -126,6 +126,11 @@ La "scommessa su Dio"
 ciò che si può guadagnare è tutto, ma non si perde "nulla" ( felicità mondana)
 
 se s scommette contro si può perdere tutto
+
+
+Seconda argomentazione, richiesta compiere tutti i compotamenti che i fedeli compiono
+Abitudine a comportarvi da fedeli vi renderà più facile abbracciare la fede
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjAxMTg1MF19
+eyJoaXN0b3J5IjpbMTgxOTg0NDg3NF19
 -->
