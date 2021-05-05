@@ -66,7 +66,12 @@ Questo è il primo limite
 
 Il cuore sente che lo spazio ha 3 dimensioni e che i numeri sono infiniti, ma senza queste intuizioni molti ragionamenti scientifici non funzionerebbero
 
-	Spi
+	Spirito di Finezza fs Spirito di Geometria
+
+Secondo Pascal il discorso scientifico non può appagare l'essere umano, che vuole rispondere a questioni a cui la scienza non può dare risposte
+
+	Questioni di SENSO
+che la s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Mjk1ODIwN119
+eyJoaXN0b3J5IjpbLTk3MDMxMTg4Nl19
 -->
