@@ -111,7 +111,10 @@ distraggono attenzione dalle miseria umana
 Nulla è infatti più insopportabile epr l'uomo che chiudersi nella sua stanza 
 Gli uomini preferiscono sedarsi
 
-Pascal rimprvera cartesio di aver spogliato Dio 
+Pascal rimprvera cartesio di aver spogliato Dio da i suoi attributi
+dimensione Cristologica di Pascal
+
+Gli uomini devono smettere di cercare il divertimento inutile, devono tornare al cristianesimo originale, ma gli uomini questo non lo fanno e si accorge che nella cultura del suo tempo spesso si tratta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzMDI2NDYzXX0=
+eyJoaXN0b3J5IjpbLTQ3NDg5NDEwNl19
 -->
