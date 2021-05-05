@@ -56,7 +56,9 @@ Fin da giovane soffrì di problemi di salute, forse può aver ibfluito sulla sua
 p 127
 
 Il valore della Ragione dagli studi scientifici
-La Ragione non 
+La Ragione non basta siccome ad essa sfugge i primi principi che costituiscono il punto di parteza dei loro ragioanmenti, che non possono essere dedotti con ragionamento, ma che sono intuitivi
+
+Limiti della ragione scientifica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjQ0MjM3MV19
+eyJoaXN0b3J5IjpbMjEyODYwNDU3MV19
 -->
