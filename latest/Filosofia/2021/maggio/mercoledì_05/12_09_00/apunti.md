@@ -28,8 +28,8 @@ Pascal, cattolico per formazione, ma a 35 anni ha una conversione, crede veramen
 > Giansenismo, p 128, corrente del Cattolicesimo
 > da *Cornelius Iansen*
 > posizione simile al luteranesimo sul tema della grazia divina (opere buone e grazia divina)
-> Abbazia di port Royale .
-
+> Abbazia di port Royale  --  Giansenisti / Portorealisti
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5ODc1NTAwXX0=
+eyJoaXN0b3J5IjpbMTUxNjk5NDE1OF19
 -->
