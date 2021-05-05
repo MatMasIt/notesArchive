@@ -59,6 +59,10 @@ Il valore della Ragione dagli studi scientifici
 La Ragione non basta siccome ad essa sfugge i primi principi che costituiscono il punto di parteza dei loro ragioanmenti, che non possono essere dedotti con ragionamento, ma che sono intuitivi
 
 Limiti della ragione scientifica
+
+Assiomi intuitivi, non ragionaer, ma  sentire
+
+Questo è il primo limite
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODYwNDU3MV19
+eyJoaXN0b3J5IjpbNzgwNTUzMzMxXX0=
 -->
