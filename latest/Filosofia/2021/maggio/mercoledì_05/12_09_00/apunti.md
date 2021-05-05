@@ -110,6 +110,8 @@ distraggono attenzione dalle miseria umana
 
 Nulla è infatti più insopportabile epr l'uomo che chiudersi nella sua stanza 
 Gli uomini preferiscono sedarsi
+
+Pascal rimprvera cartesio di aver spogliato Dio 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODM2NDE5Ml19
+eyJoaXN0b3J5IjpbODEzMDI2NDYzXX0=
 -->
