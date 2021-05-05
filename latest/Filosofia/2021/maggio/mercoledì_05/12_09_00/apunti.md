@@ -90,6 +90,8 @@ spirito di Fineza permette di cogliere, intuire la condizione dell'uomo e di met
 Attraverso allo spirito di finezza l'essere umano scopre la sua condizione di insufficienza
 
 Condizione ontologica
+
+Ci accorgiamo di quanto siamo ieeilevani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODExMDIwNl19
+eyJoaXN0b3J5IjpbLTIwNzgwNDA2MzRdfQ==
 -->
