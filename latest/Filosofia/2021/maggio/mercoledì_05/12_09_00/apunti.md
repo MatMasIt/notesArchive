@@ -131,6 +131,8 @@ se s scommette contro si può perdere tutto
 Seconda argomentazione, richiesta compiere tutti i compotamenti che i fedeli compiono
 Abitudine a comportarvi da fedeli vi renderà più facile abbracciare la fede
 
+p 130,131 --- il libertinismo, corrente filosofica molto interessante
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTg0NDg3NF19
+eyJoaXN0b3J5IjpbMTU4MDk4NTc3OSwxODE5ODQ0ODc0XX0=
 -->
