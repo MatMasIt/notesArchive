@@ -99,7 +99,7 @@ Pascal riconosce che l'uomo è molto debole e fragile
 
 Pascal dice che l'uomo è una canna (più fragile di tutta la natura) ma è una canna pensante
 
-l'universo invece non sa nulla, la nostra dignità vale 
+l'universo invece non sa nulla, la nostra dignità sta nel pensiero, per cui sappiamo la nostra condizione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Mjg1NDk1M119
+eyJoaXN0b3J5IjpbLTY5MTgyMjM2M119
 -->
