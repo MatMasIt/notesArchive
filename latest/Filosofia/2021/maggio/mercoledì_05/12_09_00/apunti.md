@@ -4,6 +4,8 @@
 
 Rapporto tra Res Cogitans e Res Extensa
 Come può la Res Cogitans influire sulla materia de corpo
+p 103	
+Come può la sostanza pensante influenzare la sostanza estesa (movimento)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIyODA3NjZdfQ==
+eyJoaXN0b3J5IjpbLTQ5MTQ0NjU1Ml19
 -->
