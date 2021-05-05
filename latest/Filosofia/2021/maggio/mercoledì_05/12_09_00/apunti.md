@@ -34,7 +34,8 @@ Gesuiti (Ignazio di Loyola) sono lassisti, è sempre possibile il perdono, i pro
 Protestanti: se ti viene facile rispettare i principi cristiani forse è perchè sei stato destinato da Dio a essere salvato
 Mondo cattolico: sempre possibile ottenere remissioni delle colpe
 
+    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzM1NjI1MV19
+eyJoaXN0b3J5IjpbLTE5NDYwNTcwMTVdfQ==
 -->
