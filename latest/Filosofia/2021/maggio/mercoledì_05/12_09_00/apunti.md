@@ -91,7 +91,9 @@ Attraverso allo spirito di finezza l'essere umano scopre la sua condizione di in
 
 Condizione ontologica
 
-Ci accorgiamo di quanto siamo ieeilevani
+Ci accorgiamo di quanto siamo irrilevani
+
+Senso di **smarrimento** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzgwNDA2MzRdfQ==
+eyJoaXN0b3J5IjpbMTc1NTM5ODM4Ml19
 -->
