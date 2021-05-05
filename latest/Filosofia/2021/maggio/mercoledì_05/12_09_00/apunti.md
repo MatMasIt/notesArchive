@@ -125,6 +125,7 @@ Non decidere equivale a decidere per il no
 La "scommessa su Dio"
 ciò che si può guadagnare è tutto, ma non si perde "nulla" ( felicità mondana)
 
+se s scommette contro si può perdere tutto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjU0ODE3M119
+eyJoaXN0b3J5IjpbMTM3NjAxMTg1MF19
 -->
