@@ -133,6 +133,11 @@ Abitudine a comportarvi da fedeli vi renderà più facile abbracciare la fede
 
 p 130,131 --- il libertinismo, corrente filosofica molto interessante
 
+libertus, ex schiavo affrancato
+
+libero pensatore vuole affrancarsi da ortodossia della controriforma da servitù intellettuale
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDk4NTc3OSwxODE5ODQ0ODc0XX0=
+eyJoaXN0b3J5IjpbMTM1NjYxODExMywxODE5ODQ0ODc0XX0=
 -->
