@@ -33,7 +33,12 @@ F=ma=m\cdot\frac{dv}{dt}=\frac{dmv}{dt}=\frac{dp}{d}t\\
 $$
 
 
+Quindi
+$$
+\Delta p_{x}=p_{f_{x}}-p_{i_{x}}=mV_{x}-(-mv_{X})=2mv_{x}
+$$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjI0MzQzNTBdfQ==
+eyJoaXN0b3J5IjpbLTE5NzAxMDY0NzNdfQ==
 -->
