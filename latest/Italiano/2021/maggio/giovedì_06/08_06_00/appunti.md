@@ -182,9 +182,11 @@ lingua letteraria nazionale meno stentorea
 lingua  di conversazione standard, uniformata, questione di politica culturale, identità linguistia
 
 Due posizione antipuriste
-I puristi ritenevano che il modello dovesse 
+I puristi ritenevano che il modello dovesse essere costruito seondo la precettistica di Bembo e i vocabolari della Crusca
+
+Antologia, purist
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzc4Nzg2NSw0NTA3MTU5OTcsMTUwMD
+eyJoaXN0b3J5IjpbMTQ4Mzc3OTgwMyw0NTA3MTU5OTcsMTUwMD
 QyNzM1OF19
 -->
