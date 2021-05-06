@@ -11,6 +11,9 @@ Quale consolazioni sarà un cippo che distinguerà le mie tra le infinite ossa c
 
 Ossa umane seminate da morte in terra e in mare, idea della ciclicità della natura
 
+Perchè non darsi unfondamento laico al non-senso della mrte
+
+limitar di Dite, città di Dite
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzU4NjIxNV19
+eyJoaXN0b3J5IjpbMTcwOTk0MjM4Nl19
 -->
