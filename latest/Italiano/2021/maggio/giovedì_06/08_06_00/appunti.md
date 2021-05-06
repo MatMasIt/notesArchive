@@ -131,7 +131,9 @@ Oceano è il grande patre
 Omero tramnda oltre la civiltà greca e ore Ettore ha onore di pianti
 
 p 574, 576
+creare scaletta, usando "*Per parlare di letteratura*"
 
+## I
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwMjk2NjIyLDE1MDA0MjczNThdfQ==
+eyJoaXN0b3J5IjpbNzIxNTk2MzU0LDE1MDA0MjczNThdfQ==
 -->
