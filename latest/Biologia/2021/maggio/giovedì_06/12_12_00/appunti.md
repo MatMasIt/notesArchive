@@ -24,6 +24,7 @@ Iporitoidismo
 * Iposecrezione
 * Tranquillità
 * Obesità
+Gozzo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDY5ODcyN119
+eyJoaXN0b3J5IjpbLTEyNTMzODkzNTJdfQ==
 -->
