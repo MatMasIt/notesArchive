@@ -12,7 +12,11 @@ $$
 \Delta U=Q-W
 $$
 |Grandezza|Segno|Risultato|
-|----
+|------------|--------|---|
+|Q|Positivo|Il sistema acquista calore|
+|Q|Negativo|Il sistema cede calore|
+|W|Positivo|Il sistema esegue lavoro sull'ambiente esterno|
+|Q|Negativo|L'ambiente **esegue** lavoro sul ssitema|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5OTgzMzYwXX0=
+eyJoaXN0b3J5IjpbLTY2Nzg3NjAzMF19
 -->
