@@ -80,8 +80,13 @@ Arisocratici: dotto, ricco, patrizio Vulgo
 
 fanno costruire tombe sontuose
 
+Nessuna eredità civile, sono già morte viventi
+Stemmi araldici come unica laude
 
+Metafora a scoimento
+
+così come il ricordo delle persona care tiene vivo chi è sotto il sasso, così la virtù civile  svolge una funzione simile alla tom
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0OTk1NzM4XX0=
+eyJoaXN0b3J5IjpbNjkwODM2NjY5XX0=
 -->
