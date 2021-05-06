@@ -117,7 +117,9 @@ gli molcea la cura: addocire le inquietudini
 
 **l'austero** (alfieri, Antonomasia)
 
+Vittorio alfieri sulla soggezione alla tirannide
 
+Ossa fremono amor di patria, virtù civili
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0Mjc4NTI3LDE1MDA0MjczNThdfQ==
+eyJoaXN0b3J5IjpbLTIxMDAwMjk4NzEsMTUwMDQyNzM1OF19
 -->
