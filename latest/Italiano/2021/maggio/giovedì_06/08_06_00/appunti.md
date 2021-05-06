@@ -50,7 +50,11 @@ Dalll'inizio della cviltà
 
 Uomni **pietosi**, capaci di provare empatia
 
-Istituzioni che preservavavno 
+matrimonio, tribunale, sepoltura
+
+Trasformazione ciclica di esseri viventi che la Natura impone viene evitata (pare)
+
+Si argomenta quanto fossero importanti le istituzioni civili 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTU0MTQ3Nl19
+eyJoaXN0b3J5IjpbNjA1NDIxOTMwXX0=
 -->
