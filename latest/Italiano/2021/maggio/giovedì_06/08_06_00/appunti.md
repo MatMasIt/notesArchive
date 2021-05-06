@@ -54,7 +54,10 @@ matrimonio, tribunale, sepoltura
 
 Trasformazione ciclica di esseri viventi che la Natura impone viene evitata (pare)
 
-Si argomenta quanto fossero importanti le istituzioni civili 
+Si argomenta quanto fossero importanti le istituzioni civili come tombe e altari
+
+Altari
+Lari, Mani, Penati   per i Romani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1NDIxOTMwXX0=
+eyJoaXN0b3J5IjpbLTExNTY5MzIxOThdfQ==
 -->
