@@ -86,7 +86,9 @@ Stemmi araldici come unica laude
 Metafora a scoimento
 
 così come il ricordo delle persona care tiene vivo chi è sotto il sasso, così la virtù civile  svolge una funzione simile alla tomba
-
+ 
+ 151-197
+ Augurio d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDQyNzM1OF19
+eyJoaXN0b3J5IjpbMTg3Mzg2MjgxLDE1MDA0MjczNThdfQ==
 -->
