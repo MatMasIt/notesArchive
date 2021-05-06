@@ -20,6 +20,15 @@ Uomo può avere corrispondenza d'amorosi sensi col defunto
 e spesso  per lei : complemento di mezzo
 amico estinnto, e l'estinto con noi
 
+Terra dei padri, madrepatria -- ultimo asilo, ultimo conforto
+
+diventa tomba
+
+palingenesi
+
+Ter
+in La morte del fratello Giovanni e A zacinto
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3NjA1NTMyXX0=
+eyJoaXN0b3J5IjpbNTIxNjUyNTIyXX0=
 -->
