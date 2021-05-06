@@ -39,7 +39,11 @@ il sospiro del tumulto al passeggero
 
 Pur - tuttavia, nnonostante abbiao appena dimostrato il sasso che segni il nome
 
-pur nuova legge impone
+pur nuova legge impone cose diverse
+
+Poeta: sacerdote delle muse
+
+**ùpupa** svolazza sule croci sparse per la campagna funerea, gusto macabro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE0NzI4OTNdfQ==
+eyJoaXN0b3J5IjpbMTg4NTgzOTE1N119
 -->
