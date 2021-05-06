@@ -44,7 +44,13 @@ pur nuova legge impone cose diverse
 Poeta: sacerdote delle muse
 
 **ùpupa** svolazza sule croci sparse per la campagna funerea, gusto macabro, gli viene rimproverato (insieme al laicismo, materialismo, ateismo)
-critica anche 
+critica anche da Pindemonte
+
+Dalll'inizio della cviltà
+
+Uomni **pietosi**, capaci di provare empatia
+
+Istituzioni che preservavavno 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTYxMDg5Ml19
+eyJoaXN0b3J5IjpbLTMzNTU0MTQ3Nl19
 -->
