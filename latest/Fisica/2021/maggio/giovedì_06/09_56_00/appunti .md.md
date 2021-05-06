@@ -44,6 +44,8 @@ Il tempo necessario per partire dalla parete di sinistra e colpire l'altra paret
 quindi per la seconda legge di Newton
 
 (ah ma basta seguire il documento, :smile:)
+
+g
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDEzMDQyN119
+eyJoaXN0b3J5IjpbMjk3MzgxNTkwLDE3MTAxMzA0MjddfQ==
 -->
