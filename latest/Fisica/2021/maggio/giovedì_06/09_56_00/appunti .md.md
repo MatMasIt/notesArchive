@@ -39,6 +39,7 @@ $$
 $$
 
 
+Il tempo necessario per partire dalla parete di sinistra e colpire l'altra parete e tornere indietro, ovvero per percorrere $2L$ è $ \Delta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzAxMDY0NzNdfQ==
+eyJoaXN0b3J5IjpbMTc5NDQxNDEyMF19
 -->
