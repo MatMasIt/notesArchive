@@ -67,8 +67,13 @@ Non sempre i sassi sepolcrali furono pavimenti dei tempi (come nel tempio)
 
 
 Immagine cimitero inglese come tranquillo
-Cimiteri ombrosi, giardini 
+Cimiteri ombrosi, giardini dove ci vanno vergini in modo tranquillo
+
+
+Apprezzamento sepolture degli Inglesi moderni e degli antichi
+
+Nel medioevo no, disprezzo, ma allora v'er
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyMjkxOTU4XX0=
+eyJoaXN0b3J5IjpbMjA2MTYxODIxN119
 -->
