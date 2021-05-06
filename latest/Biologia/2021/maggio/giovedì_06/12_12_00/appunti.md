@@ -10,7 +10,17 @@ Ipertiroidismo/Ipotiroidismo
 
 Ultimamente i problemi di tiroide vengono risolti con *eutirox* (R) , farmaco
 
-Nanismo e cretinismo possono inso
+Nanismo e cretinismo possono insorgere
+
+
+Ipertiroideo
+* Isterico
+* Molto magro
+* Esoftalmo (occhi fuori dalle orbite) (modifica del soma)
+Iporitoidismo
+* Iposecrezione
+* Tranquillità
+* Obesità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTkzMjk4NV19
+eyJoaXN0b3J5IjpbMTU1NzI3MzQ3Ml19
 -->
