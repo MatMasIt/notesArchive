@@ -20,6 +20,9 @@ $$
 
 L'energia interna di una sistema dinamico rappresenta una grandezza macroscopica (caratteristiche del sistema nella sua globalità
 
+Gas come insieme di molecole, condizioni:
+
+> numero *n* molto elevato di molecole, tutte con la stessa massa, identiche, punti materiali, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwMjI4NzZdfQ==
+eyJoaXN0b3J5IjpbLTUyOTk1MzMwMF19
 -->
