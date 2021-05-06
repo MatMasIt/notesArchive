@@ -45,8 +45,14 @@ quindi per la seconda legge di Newton
 
 (ah ma basta seguire il documento, :smile:)
 
-New derivate
+New derivate!
+
+$$
+D(\log_{a}x)=\frac{1}{x}\cdot\frac{1}{\ln a}\\
+D(e^x)=e^x\\
+d(\ln x)=\frac{1}{x}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTU0MDc3LDI5NzM4MTU5MCwxNzEwMT
-MwNDI3XX0=
+eyJoaXN0b3J5IjpbLTU4ODU3NjQxMiwyOTczODE1OTAsMTcxMD
+EzMDQyN119
 -->
