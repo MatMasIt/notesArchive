@@ -37,7 +37,9 @@ Citazione a Thomas Gray, *Elegia*
 il sospiro del tumulto al passeggero
 
 
-Pur - tuttavia
+Pur - tuttavia, nnonostante abbiao appena dimostrato il sasso che segni il nome
+
+pur nuova legge impone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzg5NzEwOTNdfQ==
+eyJoaXN0b3J5IjpbLTE4NTE0NzI4OTNdfQ==
 -->
