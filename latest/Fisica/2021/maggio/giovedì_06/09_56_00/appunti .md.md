@@ -22,7 +22,10 @@ L'energia interna di una sistema dinamico rappresenta una grandezza macroscopica
 
 Gas come insieme di molecole, condizioni:
 
-> numero *n* molto elevato di molecole, tutte con la stessa massa, identiche, punti materiali, 
+> numero *n* molto elevato di molecole, tutte con la stessa massa, identiche, punti materiali, nessuna interazione, movimento casuale, legge di Newton, tutti gli urti sono perfettamente elastici
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTk1MzMwMF19
+eyJoaXN0b3J5IjpbMTg1NTg4NDYzNl19
 -->
