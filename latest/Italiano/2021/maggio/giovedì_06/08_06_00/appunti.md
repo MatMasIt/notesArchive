@@ -29,7 +29,9 @@ palingenesi
 Terra  madre e tomba
 tema presente in 
 in La morte del fratello Giovanni e A zacinto
-**Sol chi non las
+**Sol chi non lascia eredità d'affetti, poa gioia ha nell'urna** (solo chi non si è speso, ha vissuto legami autentici)
+
+Errar: v
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE5ODczNTNdfQ==
+eyJoaXN0b3J5IjpbLTkxMDYzOTA5M119
 -->
