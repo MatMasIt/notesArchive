@@ -14,6 +14,10 @@ Ossa umane seminate da morte in terra e in mare, idea della ciclicità della nat
 Perchè non darsi unfondamento laico al non-senso della mrte
 
 limitar di Dite, città di Dite
+
+Uomo può avere corrispondenza d'amorosi sensi col defunto
+
+e spesso 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTk0MjM4Nl19
+eyJoaXN0b3J5IjpbMTE4ODQ2MzcxM119
 -->
