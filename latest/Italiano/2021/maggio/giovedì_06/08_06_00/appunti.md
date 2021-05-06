@@ -133,7 +133,16 @@ Omero tramnda oltre la civiltà greca e ore Ettore ha onore di pianti
 p 574, 576
 creare scaletta, usando "*Per parlare di letteratura*"
 
-## I
+## Il genere romanzo, il primo Ottocento in Italia
+
+A.Manzoni e il romanzo storico
+
+---
+Fosolo, *Jacopo Ortis*, di difende dalle accuse di Plagio di *Goethe*
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxNTk2MzU0LDE1MDA0MjczNThdfQ==
+eyJoaXN0b3J5IjpbLTU2NTg4NDMzMSwxNTAwNDI3MzU4XX0=
 -->
