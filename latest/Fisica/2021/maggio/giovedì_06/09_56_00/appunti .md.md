@@ -24,8 +24,13 @@ Gas come insieme di molecole, condizioni:
 
 > numero *n* molto elevato di molecole, tutte con la stessa massa, identiche, punti materiali, nessuna interazione, movimento casuale, legge di Newton, tutti gli urti sono perfettamente elastici
 
+Conservazione quantità di moto
+
+$$
+\vec{F}=\frac{\Delta\vec{p}}{\Delta t}
+$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTg4NDYzNl19
+eyJoaXN0b3J5IjpbMTM1NjcxMTcwMV19
 -->
