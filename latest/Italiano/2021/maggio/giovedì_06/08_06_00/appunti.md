@@ -162,8 +162,12 @@ Conteunto: vicende avvertite come simili alle proprie, omogenee alla vita che si
 Fasce sociali altre, per la prima volta umili
 Gente meccanica e di piccol affare insomma
 
-L'Historia è, I promessi sposi 
+L'Historia è, I promessi sposi, introduzione, finione manoscritto seicentesco
+
+teatro con forze malvage 
+
+Necesità lingua 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDA0NDI3MiwxNTAwNDI3MzU4XX0=
+eyJoaXN0b3J5IjpbMjUyMzc1NDczLDE1MDA0MjczNThdfQ==
 -->
