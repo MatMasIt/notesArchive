@@ -106,8 +106,18 @@ Versi altisonanti per Fire nze e le sue bellezze
 
 **belle/ di fiori/al ciel/mandano incensi**
 iperbato
-Conserva glorie italice da quelle razzie e devastazioni che di volta e 
+Firenze
+Conserva glorie italiche da quelle razzie e devastazioni che di volta e in volta interessano la peisola italiaca
+
+perde tutto ma non la memoria
+
+Vittorio {Alfiri} citato amichevolmente
+
+gli molcea la cura: addocire le inquietudini
+
+**l'austero** (alfieri, Antonomasia)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDIyMjY0NzYsMTUwMDQyNzM1OF19
+eyJoaXN0b3J5IjpbMjY0Mjc4NTI3LDE1MDA0MjczNThdfQ==
 -->
