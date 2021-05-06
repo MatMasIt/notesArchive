@@ -36,6 +36,9 @@ Non mettere tende in casa
 il sole favorisce la trasformazione della provitamina D in vitamina D
 Olio di fegato di merluzzo era ricco di vitamiana D
 Radiazioni ultraviolette attivano la produzione di vitamina  D, che agisce com un ormone
+
+Osteoporosi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzNDM3MTQ5LC0xMjUzMzg5MzUyXX0=
+eyJoaXN0b3J5IjpbLTE5MzcwMzgwNjUsLTEyNTMzODkzNTJdfQ
+==
 -->
