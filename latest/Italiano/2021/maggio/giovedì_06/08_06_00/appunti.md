@@ -159,8 +159,11 @@ Condizioni per la *ricezione* del romanzo presso il pubblico
 
 Conteunto: vicende avvertite come simili alle proprie, omogenee alla vita che si conduce
 
-Fasce sociali altre, per 
+Fasce sociali altre, per la prima volta umili
+Gente meccanica e di piccol affare insomma
+
+L'Historia è, I promessi sposi 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTc3OTgxMywxNTAwNDI3MzU4XX0=
+eyJoaXN0b3J5IjpbMTU5NDA0NDI3MiwxNTAwNDI3MzU4XX0=
 -->
