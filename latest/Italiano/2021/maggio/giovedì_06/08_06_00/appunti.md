@@ -175,9 +175,16 @@ Manzoni: sperimentatore della lingua italiana
 Il male, la violenza inutile
 tema che si ripete da antichità a moderni
 
-Invenz
+Invenzione dell'italiano moderno
+
+lingua letteraria nazionale meno stentorea
+
+lingua  di conversazione standard, uniformata, questione di politica culturale, identità linguistia
+
+Due posizione antipuriste
+I puristi ritenevano che il modello dovesse 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzI3NjA0MSw0NTA3MTU5OTcsMTUwMD
+eyJoaXN0b3J5IjpbMTkzMzc4Nzg2NSw0NTA3MTU5OTcsMTUwMD
 QyNzM1OF19
 -->
