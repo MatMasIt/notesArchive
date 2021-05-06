@@ -2,6 +2,11 @@
 
 ## giovedì 06 marzo 2021, 12:13:23
 p 528
+
+Piemonte, valle Maira, Carenza di Iodio
+Iper/Ipo quantità di ormoni tiroidei
+
+Ipertiroid
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTIyMTc4NV19
+eyJoaXN0b3J5IjpbLTEyNDc2MDQ2NDldfQ==
 -->
