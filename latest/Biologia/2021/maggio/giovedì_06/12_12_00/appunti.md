@@ -31,8 +31,11 @@ p 518
 
 Vitamina D
 
-Non mettere tende in 
-
+Neonati devono ricevere sole
+Non mettere tende in casa
+il sole favorisce la trasformazione della provitamina D in vitamina D
+Olio di fegato di merluzzo era ricco di vitamiana D
+Ra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NTM4OTAxLC0xMjUzMzg5MzUyXX0=
+eyJoaXN0b3J5IjpbLTU5MzIwOTA1MiwtMTI1MzM4OTM1Ml19
 -->
