@@ -43,7 +43,8 @@ pur nuova legge impone cose diverse
 
 Poeta: sacerdote delle muse
 
-**ùpupa** svolazza sule croci sparse per la campagna funerea, gusto macabro
+**ùpupa** svolazza sule croci sparse per la campagna funerea, gusto macabro, gli viene rimproverato (insieme al laicismo, materialismo, ateismo)
+critica anche 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTgzOTE1N119
+eyJoaXN0b3J5IjpbLTY2NTYxMDg5Ml19
 -->
