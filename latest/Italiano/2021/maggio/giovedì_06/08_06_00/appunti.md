@@ -72,8 +72,16 @@ Cimiteri ombrosi, giardini dove ci vanno vergini in modo tranquillo
 
 Apprezzamento sepolture degli Inglesi moderni e degli antichi
 
-Nel medioevo no, disprezzo, ma allora v'er
+Nel medioevo no, disprezzo, ma allora v'era la certezza della resurrezione
+
+Dove dorme il furored'inclite gesta : partia, Italia
+
+Arisocratici: dotto, ricco, patrizio Vulgo
+
+fanno costruire tombe sontuose
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTYxODIxN119
+eyJoaXN0b3J5IjpbNjc0OTk1NzM4XX0=
 -->
