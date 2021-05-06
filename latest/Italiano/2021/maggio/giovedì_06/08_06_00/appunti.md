@@ -170,8 +170,8 @@ Necesità lingua italiana moderna, comune, d'uso ( non letteraria )
 
 molteplice lingua italiana
 
-Manzoni: sperimentatore della lingua ita
+Manzoni: sperimentatore della lingua italiana 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDEzODU3MSwxNTAwNDI3MzU4XX0=
+eyJoaXN0b3J5IjpbLTExOTMyMDY5MDAsMTUwMDQyNzM1OF19
 -->
