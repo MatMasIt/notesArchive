@@ -173,7 +173,9 @@ molteplice lingua italiana
 Manzoni: sperimentatore della lingua italiana 
 
 Il male, la violenza inutile
+tema che si ripe
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNzE1OTk3LDE1MDA0MjczNThdfQ==
+eyJoaXN0b3J5IjpbMTYxMjU0ODQzMiw0NTA3MTU5OTcsMTUwMD
+QyNzM1OF19
 -->
