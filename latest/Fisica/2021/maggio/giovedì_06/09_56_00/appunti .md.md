@@ -40,6 +40,10 @@ $$
 
 
 Il tempo necessario per partire dalla parete di sinistra e colpire l'altra parete e tornere indietro, ovvero per percorrere $2L$ è $\Delta T = \frac{2L}{v_{x}}$
+
+quindi per la seconda legge di Newton
+
+(ah ma basta seguire il documento, :smile:)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTYyNzQ5NjBdfQ==
+eyJoaXN0b3J5IjpbMTcxMDEzMDQyN119
 -->
