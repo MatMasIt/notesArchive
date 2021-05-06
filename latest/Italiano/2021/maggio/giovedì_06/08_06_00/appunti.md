@@ -26,9 +26,10 @@ diventa tomba
 
 palingenesi
 
-Ter
+Terra  madre e tomba
+tema presente in 
 in La morte del fratello Giovanni e A zacinto
-
+**Sol chi non las
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxNjUyNTIyXX0=
+eyJoaXN0b3J5IjpbLTE1OTE5ODczNTNdfQ==
 -->
