@@ -13,10 +13,13 @@ $$
 $$
 |Grandezza|Segno|Risultato|
 |------------|--------|---|
-|Q|Positivo|Il sistema acquista calore|
-|Q|Negativo|Il sistema cede calore|
-|W|Positivo|Il sistema esegue lavoro sull'ambiente esterno|
-|Q|Negativo|L'ambiente **esegue** lavoro sul ssitema|
+|Q|Positivo|Il sistema **acquista** calore|
+|Q|Negativo|Il sistema **cede** calore|
+|W|Positivo|Il sistema **esegue** lavoro sull'ambiente esterno|
+|W|Negativo|L'ambiente **esegue** lavoro sul ssitema|
+
+L'energia interna di una sistema dinamico rappresenta una grandezza macroscopica (caratteristiche del sistema nella sua globalità
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Nzg3NjAzMF19
+eyJoaXN0b3J5IjpbOTQwMjI4NzZdfQ==
 -->
