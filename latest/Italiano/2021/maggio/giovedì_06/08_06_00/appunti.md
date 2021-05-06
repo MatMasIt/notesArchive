@@ -1,3 +1,7 @@
+# Lezione di Italiano (1° ora)
+
+## giovedì 06 maggio 2021, 08:06:07
+
 Domanda retorica, enjambement
 riferimento al *De Rerum natura*
 Darsi ragione della finitudine dell'uomo 
@@ -6,6 +10,7 @@ Quanto le muse non mi parleranno
 Quale consolazioni sarà un cippo che distinguerà le mie tra le infinite ossa che distinguano le mie ossa da quelle degli altri
 
 Ossa umane seminate da morte in terra e in mare, idea della ciclicità della natura
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4MjY4MTRdfQ==
+eyJoaXN0b3J5IjpbLTUwMzU4NjIxNV19
 -->
