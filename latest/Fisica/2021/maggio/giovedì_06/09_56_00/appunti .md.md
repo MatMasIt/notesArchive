@@ -45,7 +45,8 @@ quindi per la seconda legge di Newton
 
 (ah ma basta seguire il documento, :smile:)
 
-g
+New derivate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3MzgxNTkwLDE3MTAxMzA0MjddfQ==
+eyJoaXN0b3J5IjpbLTM3OTU0MDc3LDI5NzM4MTU5MCwxNzEwMT
+MwNDI3XX0=
 -->
