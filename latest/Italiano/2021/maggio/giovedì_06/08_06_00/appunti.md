@@ -17,7 +17,9 @@ limitar di Dite, città di Dite
 
 Uomo può avere corrispondenza d'amorosi sensi col defunto
 
-e spesso 
+e spesso  per lei : complemento di mezzo
+amico estinnto, e l'estinto con noi
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODQ2MzcxM119
+eyJoaXN0b3J5IjpbNTE3NjA1NTMyXX0=
 -->
