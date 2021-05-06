@@ -142,7 +142,11 @@ Fosolo, *Jacopo Ortis*, di difende dalle accuse di Plagio di *Goethe*
 
 ---
 
+aumentano contatti con l'estero
+Perchè Manzonni sceglie il genere romanzo?
+Per essere letto, per trovare un pubblico
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTg4NDMzMSwxNTAwNDI3MzU4XX0=
+eyJoaXN0b3J5IjpbLTYzODM3Nzc2MywxNTAwNDI3MzU4XX0=
 -->
