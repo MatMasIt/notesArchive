@@ -124,7 +124,11 @@ Ossa fremono amor di patria, virtù civili
 Principi, argivi, Anchei 
 
 Sacro Vate, Omero
+Omero: traslatore di civiltà
 
+Oceano è il grande patre
+
+Omero tramnda oltre la civiltà greca e ore Ettore ha onore di Pianti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTMzODE2NDksMTUwMDQyNzM1OF19
+eyJoaXN0b3J5IjpbLTk2Njk1NDU1OCwxNTAwNDI3MzU4XX0=
 -->
