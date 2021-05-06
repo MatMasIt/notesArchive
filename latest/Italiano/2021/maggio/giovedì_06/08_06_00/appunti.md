@@ -152,8 +152,15 @@ Manzoni scrive per esigenza di coumnicare (anche virtù civili)
 Ha letto in francese un bel romanzo e vuole scriverne uno lui (tradotto da inglese a francese) Ivanhoe, Walter Scott
 Ricostruzione libera del medioevo inglse
 
-Mnzoni sceglie il romanzo eprchè può aprirsi ad un pubblico medio 
+Mnzoni sceglie il romanzo eprchè può aprirsi ad un pubblico medio-borghese e alle donne
+
+
+Condizioni per la *ricezione* del romanzo presso il pubblico
+
+Conteunto: vicende avvertite come simili alle proprie, omogenee alla vita che si conduce
+
+Fasce sociali altre, per 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDAyMDg5OTIsMTUwMDQyNzM1OF19
+eyJoaXN0b3J5IjpbMTYzNTc3OTgxMywxNTAwNDI3MzU4XX0=
 -->
