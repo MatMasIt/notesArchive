@@ -184,9 +184,13 @@ lingua  di conversazione standard, uniformata, questione di politica culturale, 
 Due posizione antipuriste
 I puristi ritenevano che il modello dovesse essere costruito seondo la precettistica di Bembo e i vocabolari della Crusca
 
-Antologia, purist
+Antologia, purista del gabinetto Viesseux di Firenze
+
+Il Conciliatore, rivista milanese, vuole creare un italiano con commistione regionale
+
+Isaia Ascoli, glottologo linguista autodidatta, unità linguistica basata dal principio d'uso, assecondare la lingua viva, è il criterio che vige oggi tra i linguistici
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Mzc3OTgwMyw0NTA3MTU5OTcsMTUwMD
-QyNzM1OF19
+eyJoaXN0b3J5IjpbMTI1MDY3ODI3LDQ1MDcxNTk5NywxNTAwND
+I3MzU4XX0=
 -->
