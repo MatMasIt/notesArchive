@@ -145,8 +145,10 @@ Fosolo, *Jacopo Ortis*, di difende dalle accuse di Plagio di *Goethe*
 aumentano contatti con l'estero
 Perchè Manzonni sceglie il genere romanzo?
 Per essere letto, per trovare un pubblico
+Manzoni non vuole provare a fare intellettuale di mestiere come Foscolo
 
+Manzoni scrive per esigenza di counicare (anche vi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODM3Nzc2MywxNTAwNDI3MzU4XX0=
+eyJoaXN0b3J5IjpbNjk5ODU4MjM2LDE1MDA0MjczNThdfQ==
 -->
