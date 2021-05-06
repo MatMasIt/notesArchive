@@ -62,7 +62,13 @@ Lari, Mani, Penati   per i Romani
 Non sempre i sassi sepolcrali furono pavimenti dei tempi (come nel tempio)
 
 
+**venal prece**  preghiera di suffragio, per il purgatorio
+
+
+
+Immagine cimitero inglese come tranquillo
+Cimiteri ombrosi, giardini 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDgyOTk5Nl19
+eyJoaXN0b3J5IjpbMzkyMjkxOTU4XX0=
 -->
