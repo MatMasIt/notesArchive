@@ -90,6 +90,20 @@ così come il ricordo delle persona care tiene vivo chi è sotto il sasso, così
  151-197
  Augurio per la sua sepoltura
 Le urne dei grandi rendono bella e santa la terra che le accoglie
+
+Riferimento "al tempratore di scettri" 
+Machiavelli
+
+Michelangelo
+Galileo
+Newton (Anglo)
+
+ha visitato santa croce
+Firenze
+clima impregnato di vita dei grandi
+
+Versi alti
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTk1MzQzMSwxNTAwNDI3MzU4XX0=
+eyJoaXN0b3J5IjpbLTExNzc3ODY4OCwxNTAwNDI3MzU4XX0=
 -->
