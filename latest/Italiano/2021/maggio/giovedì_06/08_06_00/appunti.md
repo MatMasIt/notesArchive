@@ -188,9 +188,9 @@ Antologia, purista del gabinetto Viesseux di Firenze
 
 Il Conciliatore, rivista milanese, vuole creare un italiano con commistione regionale
 
-Isaia Ascoli, glottologo linguista autodidatta, unità linguistica basata dal principio d'uso, assecondare la lingua viva, è il criterio che vige oggi tra i linguistici
+Isaia Ascoli, glottologo linguista autodidatta, unità linguistica basata dal principio d'uso, assecondare la lingua viva, è il criterio che vige oggi tra i linguistici, sarebbe passato molo tempo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDY3ODI3LDQ1MDcxNTk5NywxNTAwND
-I3MzU4XX0=
+eyJoaXN0b3J5IjpbLTIxMTcyMjE1NTQsNDUwNzE1OTk3LDE1MD
+A0MjczNThdfQ==
 -->
