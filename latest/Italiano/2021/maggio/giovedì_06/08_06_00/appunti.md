@@ -147,8 +147,13 @@ Perchè Manzonni sceglie il genere romanzo?
 Per essere letto, per trovare un pubblico
 Manzoni non vuole provare a fare intellettuale di mestiere come Foscolo
 
-Manzoni scrive per esigenza di counicare (anche vi
+Manzoni scrive per esigenza di coumnicare (anche virtù civili)
+
+Ha letto in francese un bel romanzo e vuole scriverne uno lui (tradotto da inglese a francese) Ivanhoe, Walter Scott
+Ricostruzione libera del medioevo inglse
+
+Mnzoni sceglie il romanzo eprchè può aprirsi ad un pubblico medio 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5ODU4MjM2LDE1MDA0MjczNThdfQ==
+eyJoaXN0b3J5IjpbLTEzMDAyMDg5OTIsMTUwMDQyNzM1OF19
 -->
