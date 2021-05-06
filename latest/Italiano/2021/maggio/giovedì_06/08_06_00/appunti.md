@@ -1,7 +1,8 @@
+Domanda retorica, enjambement
+riferimento al *De Rerum natura*
+Darsi ragione della finitudine dell'uomo 
+Dolce amico: interlocutore
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3NDczMjcxMjFdfQ==
 -->
