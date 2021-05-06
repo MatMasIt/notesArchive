@@ -35,7 +35,7 @@ Neonati devono ricevere sole
 Non mettere tende in casa
 il sole favorisce la trasformazione della provitamina D in vitamina D
 Olio di fegato di merluzzo era ricco di vitamiana D
-Ra
+Radiazioni ultraviolette attivano la produzione di vitamina  D, che agisce com un ormone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzIwOTA1MiwtMTI1MzM4OTM1Ml19
+eyJoaXN0b3J5IjpbODQzNDM3MTQ5LC0xMjUzMzg5MzUyXX0=
 -->
