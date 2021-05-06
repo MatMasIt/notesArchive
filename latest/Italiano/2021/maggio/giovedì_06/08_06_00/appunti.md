@@ -88,7 +88,8 @@ Metafora a scoimento
 così come il ricordo delle persona care tiene vivo chi è sotto il sasso, così la virtù civile  svolge una funzione simile alla tomba
  
  151-197
- Augurio d
+ Augurio per la sua sepoltura
+Le urne dei grandi rendono bella e santa la terra che le accoglie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Mzg2MjgxLDE1MDA0MjczNThdfQ==
+eyJoaXN0b3J5IjpbMTA5OTk1MzQzMSwxNTAwNDI3MzU4XX0=
 -->
