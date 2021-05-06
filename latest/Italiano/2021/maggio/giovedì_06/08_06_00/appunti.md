@@ -128,7 +128,7 @@ Omero: traslatore di civiltà
 
 Oceano è il grande patre
 
-Omero tramnda oltre la civiltà greca e ore Ettore ha onore di Pianti
+Omero tramnda oltre la civiltà greca e ore Ettore ha onore di pianti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Njk1NDU1OCwxNTAwNDI3MzU4XX0=
+eyJoaXN0b3J5IjpbLTI2MDA3NzA4NiwxNTAwNDI3MzU4XX0=
 -->
