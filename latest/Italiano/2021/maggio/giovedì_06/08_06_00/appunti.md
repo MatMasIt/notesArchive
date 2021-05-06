@@ -58,6 +58,11 @@ Si argomenta quanto fossero importanti le istituzioni civili come tombe e altari
 
 Altari
 Lari, Mani, Penati   per i Romani
+
+Non sempre i sassi sepolcrali furono pavimenti dei tempi (come nel tempio)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY5MzIxOThdfQ==
+eyJoaXN0b3J5IjpbLTgzMDgyOTk5Nl19
 -->
