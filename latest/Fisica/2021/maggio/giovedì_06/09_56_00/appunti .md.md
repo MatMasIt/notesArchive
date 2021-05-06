@@ -27,10 +27,12 @@ Gas come insieme di molecole, condizioni:
 Conservazione quantità di moto
 
 $$
+F=ma=m\cdot\frac{dv}{dt}=\frac{dmv}{dt}=\frac{dp}{d}t\\
+---\\
 \vec{F}=\frac{\Delta\vec{p}}{\Delta t}
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjcxMTcwMV19
+eyJoaXN0b3J5IjpbLTI1NDQ5OTY3Nl19
 -->
