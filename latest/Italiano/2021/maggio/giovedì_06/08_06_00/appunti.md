@@ -102,8 +102,12 @@ ha visitato santa croce
 Firenze
 clima impregnato di vita dei grandi
 
-Versi alti
+Versi altisonanti per Fire nze e le sue bellezze
+
+**belle/ di fiori/al ciel/mandano incensi**
+iperbato
+Conserva glorie italice da quelle razzie e devastazioni che di volta e 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc3ODY4OCwxNTAwNDI3MzU4XX0=
+eyJoaXN0b3J5IjpbLTIwNDIyMjY0NzYsMTUwMDQyNzM1OF19
 -->
