@@ -120,6 +120,11 @@ gli molcea la cura: addocire le inquietudini
 Vittorio alfieri sulla soggezione alla tirannide
 
 Ossa fremono amor di patria, virtù civili
+
+Principi, argivi, Anchei 
+
+Sacro Vate, Omero
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDAwMjk4NzEsMTUwMDQyNzM1OF19
+eyJoaXN0b3J5IjpbLTEyOTMzODE2NDksMTUwMDQyNzM1OF19
 -->
