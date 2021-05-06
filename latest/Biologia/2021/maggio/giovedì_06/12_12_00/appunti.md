@@ -14,6 +14,9 @@ Nanismo e cretinismo possono insorgere
 
 
 Ipertiroideo
+ 
+Può essere causato da tumore o sa TSH, 
+
 * Isterico
 * Molto magro
 * Esoftalmo (occhi fuori dalle orbite) (modifica del soma)
@@ -22,5 +25,5 @@ Iporitoidismo
 * Tranquillità
 * Obesità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzI3MzQ3Ml19
+eyJoaXN0b3J5IjpbLTE0MDMxMjAzNjddfQ==
 -->
