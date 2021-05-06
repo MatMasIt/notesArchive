@@ -33,6 +33,7 @@ F=ma=m\cdot\frac{dv}{dt}=\frac{dmv}{dt}=\frac{dp}{d}t\\
 $$
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDQ5OTY3Nl19
+eyJoaXN0b3J5IjpbLTIwMjI0MzQzNTBdfQ==
 -->
