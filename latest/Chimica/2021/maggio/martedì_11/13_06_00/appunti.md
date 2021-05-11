@@ -1,10 +1,17 @@
 # Ossidoriduzioni in laboratorio
 
+4 coppie ossidorituduttive
+* $Ag^{1+}$
+
 Segnali di trasformazione chimica:
-* effervescenza
+* effervescenza (si forma un gas)
 * cambio di colore
 * temperatura
-* esp
+* esplosione
+* formazione di un precipitato ( si forma un solido)
+
+
+precipitato: si forma sulla superficie di contatto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMjU1MzgxXX0=
+eyJoaXN0b3J5IjpbLTk4MTQwMDkyOV19
 -->
