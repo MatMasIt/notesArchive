@@ -96,10 +96,12 @@ Ag rid
 
 ## Costruisco la scala
 Aumento del potere riducente (ossidazione), lo zinco è quello che si ossida di più
+|Elemento|Scala|
+|---|---|
 |Ag|-|
-|Cu|
-|Pb|
-|Zn|
+|Cu|!|
+|Pb|!|
+|Zn|+|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTQwMzkwNywxNzc4MTIyMjM0XX0=
+eyJoaXN0b3J5IjpbMTYyNjQxMzU1LDE3NzgxMjIyMzRdfQ==
 -->
