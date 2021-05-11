@@ -8,15 +8,15 @@ p 242
  es 5
 Tests(codiceTest,codiceDocente)
 Docenti(codiceDeocente,nome,cognome)
-Quesiti(testo,Argomento)
+Quesiti(testo,Argomento,codiceTest)
 a.
 
     SELECT COUNT(*) AS TotaleQuesiti FROM Quesiti WHERE Argomento=:argomento
 
 b.
 
-    SELECT COUNT(*) FROM Quesiti WHERE Quesiti.Argomento=:argomento INNER JOIN Docenti ON Docenti.codiceDocente=
+    SELECT COUNT(*) FROM Quesiti WHERE Quesiti.Argomento=:argomento INNER JOIN Docenti ON Docenti.codiceDocente=(SELECT Tests.codiceDocente FROM Tests WHERE Codice
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjI4MDUyNywtMTE2MTE2OTI3MV19
+eyJoaXN0b3J5IjpbMTU3NzI1NTMxMSwtMTE2MTE2OTI3MV19
 -->
