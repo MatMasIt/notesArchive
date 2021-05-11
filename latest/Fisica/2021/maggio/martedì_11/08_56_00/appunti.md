@@ -72,10 +72,16 @@ $$
 Q_{c}=W+Q_{f}
 $$
 
-Processo reversibile, anche se non nelal realtà (solo idealmente)
+Processo reversibile, anche se non nella realtà (solo idealmente)
+
+
+
+![Esempio di motore a scoppio](https://i.imgur.com/o9ujym4.jpg)
+
+Frigorifero estrae calore
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDY1NDQ3MSwyNjYyMzQ0MzMsLTQ5MT
+eyJoaXN0b3J5IjpbLTIxODUyMjEwMiwyNjYyMzQ0MzMsLTQ5MT
 c5OTM5NF19
 -->
