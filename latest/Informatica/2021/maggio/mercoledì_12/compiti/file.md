@@ -37,7 +37,9 @@ e.
 
 es. 6
 
+Corsi(codiceCorso,NomeCorso)
+Composti(codiceCorso,codiceModulo)
+Moduli(codiceModulo,nomeModul
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM1NjAzNTIsLTExNjExNjkyNzFdfQ
-==
+eyJoaXN0b3J5IjpbMTEwMzI1MTQyNSwtMTE2MTE2OTI3MV19
 -->
