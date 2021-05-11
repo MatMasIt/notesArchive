@@ -14,7 +14,10 @@ $$K_{m}=\frac52T
 $$
 Energia intertna
 
-
+|Trasformazione|Lavoro|Spiegazione|
+|------------------|----|
+|Isocora|0|La biella non si muove|
+|Isoterma| $PV=NkT$, $$NKT costanteIperbole equilatera riferita agli asindoti|Occorre calcolare l'area
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTcyMzk5N119
+eyJoaXN0b3J5IjpbMTgxNDEzMzEwM119
 -->
