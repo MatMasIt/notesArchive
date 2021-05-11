@@ -82,16 +82,17 @@ Argento e piombo
 1. $AgNO_{3}+H_{2}O\rightarrow Ag^{+}+2NO^{-}_{3}$ Pb (metallico)
 2. $Pb(NO_{3})_{2}+H_{2}O \rightarrow Pb^{+2}+2NO^{-}_{3}$ Ag (metallico)
 
-$2Ag^{+}+Pb \rightarrow PB
+$2Ag^{+}+Pb \rightarrow P
 ## Costruisco la tabella
 
 |$/$|$Ag$|$Cu$|$Pb$|$Zn$|
 |----|---|---|---|---|
-|$Ag^{+2}$|x|Sì|x|Sì|
-|$Cu^{+2}$|No|x|Sì|Sì|
-|$Pb^{+2}$|x|No|x|x|
-|$Zn^{+2}$|No|No|x|x|
+|$Ag^{+2}$|No|Sì|Sì|Sì|
+|$Cu^{+2}$|No|No|Sì|Sì|
+|$Pb^{+2}$|No|No|No|No|
+|$Zn^{+2}$|No|No|No|No|
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM4NDg0NDMsMTc3ODEyMjIzNF19
+eyJoaXN0b3J5IjpbMTY4NDAxNDUyOSwxNzc4MTIyMjM0XX0=
 -->
