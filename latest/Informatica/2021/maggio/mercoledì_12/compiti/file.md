@@ -43,11 +43,11 @@ Moduli(codiceModulo,nomeModul,durataModulo,programma)
 Frequentano(Matricola,CodiceCorso)
 Studenti(Matricola,nome,cognome)
 Insegnano(codiceInsegnante,codiceModulo,annoScolastico)
-Insegnanti(
+Insegnanti(codiceInsegnante,nominativo)
 a.
 
-    SEL
+    SELECT Moduli.nomeModulo FROM Corsi WHERE Corsi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDYxNjMzNSwtMTE2MTE2OTI3MV19
+eyJoaXN0b3J5IjpbLTYwMzMwNjU0OSwtMTE2MTE2OTI3MV19
 -->
