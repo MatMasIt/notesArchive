@@ -15,9 +15,9 @@ $$
 Energia intertna
 
 |Trasformazione|Lavoro|Spiegazione|
-|------------------|----|
+|------------------|--------|------|
 |Isocora|0|La biella non si muove|
-|Isoterma| $PV=NkT$, $$NKT costanteIperbole equilatera riferita agli asindoti|Occorre calcolare l'area
+|Isoterma| $PV=NkT$, $NKT costante$ Iperbole equilatera riferita agli asindoti|Occorre calcolare l'area, grafico di tipo $y=\frac{k}{x}$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDEzMzEwM119
+eyJoaXN0b3J5IjpbMTk2NzA5NTkzMF19
 -->
