@@ -55,8 +55,11 @@ $Zn+CU^{+2}\rightarrow ZN^{+2}+Cu$
 $Zn, OX+2$
 Zinco si ossida, rame si riduce, il segnale di reazione è un annerimento
 
-###4
+### 4
 Rame e piombo
+1. $Cu(NO_{3})_{2}+H_{2}O\rightarrow Cu^{+2}+2NO^{-}_{3}$ Pb (metallico)
+2. $Pb(NO_{3})_{2}+H_{2}O \rightarrow Pb^{+2}+2NO^{-}_{3}$ Cu(metallico)
+
 
 Costruisco la tabella
 
@@ -67,5 +70,5 @@ Costruisco la tabella
 |$Pb^{+2}$|x|x|x|x|
 |$Zn^{+2}$|No|No|x|x|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODY0NzI4N119
+eyJoaXN0b3J5IjpbLTE2MDk4NTI1MjJdfQ==
 -->
