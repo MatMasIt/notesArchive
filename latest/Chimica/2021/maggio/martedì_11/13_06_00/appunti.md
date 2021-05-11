@@ -26,6 +26,7 @@ Obiettivo: costruzione di una scala
 reazioni
 
 ### 1
+Argento e rame
 1. $AgNO_{3}+H_{2}O\rightarrow Ag^{+}+NO^{-}_{3}$ Ag (metallico)
 2. $Cu(NO_{3})_{2}+H_{2}O \rightarrow Cu^{+2}+2NO^{-}_{3}$
 
@@ -34,11 +35,13 @@ $$
 Ag: +1\rightarrow 0
 $$
 ### 2
+Argento e zinco
 1. $AgNO_{3}+H_{2}O\rightarrow Ag^{+}+NO^{-}_{3}$ Ag (metallico)
 2. $Zn(NO_{3})_{2}+H_{2}O \rightarrow Zn^{+2}+2NO^{-}_{3}$
 
-3. $OX, Zn 0\rightarrow Zn^{+2}, +2$
-4. $RID, Zn^{+2}\rightarrow Zn, -2$
+---
+1. $OX, Zn 0\rightarrow Zn^{+2}, +2$
+2. $RID, Zn^{+2}\rightarrow Zn, -2$
 
 $$
 Zn+2Ag\rightarrow Zn^{+2}+2Ag\\
@@ -46,7 +49,7 @@ OX, Zn\rightarrow Zn^{+2}\rightarrow +2
 $$
 
 ### 3
-
+Rame e zinco
 1. $Cu(NO_{3})_{2}+H_{2}O\rightarrow Cu^{+2}+2NO^{-}_{3}$ Zn (metallico)
 2. $Zn(NO_{3})_{2}+H_{2}O \rightarrow Zn^{+2}+2NO^{-}_{3}$ Cu(metallico)
 
@@ -65,7 +68,7 @@ Pb ox, 0 to+2
 Curid, +2 to 0
 
 ### 5
-Rame e piombo
+Piombo e zinco
 1. $Pb(NO_{3})_{2}+H_{2}O\rightarrow Pb^{+2}+2NO^{-}_{3}$ Zn (metallico)
 2. $Zn(NO_{3})_{2}+H_{2}O \rightarrow Zn^{+2}+2NO^{-}_{3}$ Pb (metallico)
 
@@ -75,8 +78,8 @@ $Zn$, OX, 0 to +2
 $Pb$, RID, +2 to 0
 
 ### 6
-
-1. $Cu(NO_{3})_{2}+H_{2}O\rightarrow Cu^{+2}+2NO^{-}_{3}$ Pb (metallico)
+Argento e piombo
+1. $(NO_{3})_{2}+H_{2}O\rightarrow Cu^{+2}+2NO^{-}_{3}$ Pb (metallico)
 2. $Pb(NO_{3})_{2}+H_{2}O \rightarrow Pb^{+2}+2NO^{-}_{3}$ Cu(metallico)
 
 ## Costruisco la tabella
@@ -89,5 +92,5 @@ $Pb$, RID, +2 to 0
 |$Zn^{+2}$|No|No|x|x|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5NTkyNTAzLDE3NzgxMjIyMzRdfQ==
+eyJoaXN0b3J5IjpbMTU3ODA0OTAyOCwxNzc4MTIyMjM0XX0=
 -->
