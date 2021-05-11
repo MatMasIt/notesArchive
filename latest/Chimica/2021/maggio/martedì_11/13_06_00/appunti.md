@@ -82,7 +82,9 @@ Argento e piombo
 1. $AgNO_{3}+H_{2}O\rightarrow Ag^{+}+2NO^{-}_{3}$ Pb (metallico)
 2. $Pb(NO_{3})_{2}+H_{2}O \rightarrow Pb^{+2}+2NO^{-}_{3}$ Ag (metallico)
 
-$2Ag^{+}+Pb \rightarrow P
+$2Ag^{+}+Pb \rightarrow Pb^{+2}$
+Pb ox
+Ag rid
 ## Costruisco la tabella
 
 |$/$|$Ag$|$Cu$|$Pb$|$Zn$|
@@ -92,7 +94,12 @@ $2Ag^{+}+Pb \rightarrow P
 |$Pb^{+2}$|No|No|No|No|
 |$Zn^{+2}$|No|No|No|No|
 
-
+## Costruisco la scala
+Aumento del potere riducente (ossidazione), lo zinco è quello che si ossida di più
+|Ag|-|
+|Cu|
+|Pb|
+|Zn|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDAxNDUyOSwxNzc4MTIyMjM0XX0=
+eyJoaXN0b3J5IjpbLTY4NTQwMzkwNywxNzc4MTIyMjM0XX0=
 -->
