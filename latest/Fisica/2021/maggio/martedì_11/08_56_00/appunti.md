@@ -63,8 +63,12 @@ Il salto termico che ne deriva è lo stesso del salto gravitazionale (linea del 
 > é impossibile realizzare una macchina termica il cui solo risultato sia quello di produrre lavoro scambiando calore con una sola sorgente
 
 **Macchina termica**: dispositivo che trasforma calroe in lavoro (immagine della locomotiva a vapore)
-
+Tutte le macchine termiche hanno in comune:
+* Una zona ad alta tempreaturea o sorgente, che fornisce calore alla macchina
+* Una sorgente a bassa temperatura che disperde il calore rimasto
+* Una macchina che opera il modo ciclico
+Per il prio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzUxMjA0OCwyNjYyMzQ0MzMsLTQ5MT
-c5OTM5NF19
+eyJoaXN0b3J5IjpbLTEyOTIyNTgxNTgsMjY2MjM0NDMzLC00OT
+E3OTkzOTRdfQ==
 -->
