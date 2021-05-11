@@ -54,11 +54,13 @@ $$
 
 ### Secondo Clausius
 
-> Quando due corpi a iverse temperature sono porsi a contatti con loro il passagio spontaneo di calore che ne risulta è sempre dal corpo caldo al corp freddp
+> Quando due corpi a iverse temperature sono porsi a contatti con loro il passagio spontaneo di calore che ne risulta è sempre dal corpo caldo al corp freddo
 
-Il salto termico che ne deriva è lo stesso del sal
+Il salto termico che ne deriva è lo stesso del salto gravitazionale (linea del tempo)
+
+### Second *Lord Kelvin*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTY0MDQ4NywyNjYyMzQ0MzMsLTQ5MT
-c5OTM5NF19
+eyJoaXN0b3J5IjpbLTIwNzEwNjExNzYsMjY2MjM0NDMzLC00OT
+E3OTkzOTRdfQ==
 -->
