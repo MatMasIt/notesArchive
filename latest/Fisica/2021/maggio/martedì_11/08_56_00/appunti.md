@@ -22,7 +22,12 @@ Energia intertna
 
 Calcolo integrale: operazione inversa della derivazione
 ### Trasformazione adiabatica
+![Trasformazioni](https://i.imgur.com/VRoBmrz.jpg)
 
+$$
+\[ \int_{a}^{b} x^2 \,dx \]
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2MjM0NDMzLC00OTE3OTkzOTRdfQ==
+eyJoaXN0b3J5IjpbNjI1NjU1OTQzLDI2NjIzNDQzMywtNDkxNz
+k5Mzk0XX0=
 -->
