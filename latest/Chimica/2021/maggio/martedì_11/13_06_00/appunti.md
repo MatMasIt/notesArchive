@@ -24,7 +24,8 @@ precipitato: si forma sulla superficie di contatto
 Obiettivo: costruzione di una scala 
 
 reazioni
-1. $ AgNO_{3}+H_{2}O\rightarrow Ag^{+}+NO^{-}_{3}$
+1. $AgNO_{3}+H_{2}O\rightarrow Ag^{+}+NO^{-}_{3}$ Ag (metallico)
+2. $Cu(NO_{3})_{2}+H_{2}O$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwMDM1ODk1XX0=
+eyJoaXN0b3J5IjpbLTEyODQ0NzY5Nl19
 -->
