@@ -37,12 +37,13 @@ $$
 1. $AgNO_{3}+H_{2}O\rightarrow Ag^{+}+NO^{-}_{3}$ Ag (metallico)
 2. $Zn(NO_{3})_{2}+H_{2}O \rightarrow Zn^{+2}+2NO^{-}_{3}$
 
-
+3. $OX, Zn 0\rightarrow Zn^{+2}, +2$
+4. $RID, Zn^{+2}\rightarrow Zn, -2$
 Costruisco la tabella
 
 |-|Ag|Cu|Pb|Zn|
-|----|---|---|---|
+|----|---|---|---|---|
 |h|h|h|h|j
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjEyMjcyNTVdfQ==
+eyJoaXN0b3J5IjpbMTg0Njg5NTA5N119
 -->
