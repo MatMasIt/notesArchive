@@ -26,12 +26,12 @@ Calcolo integrale: operazione inversa della derivazione
 
 $$
 \int_{}^{} \frac{1}{x^\gamma} dx=\frac{x^{-\gamma+1}}{-\gamma+1}=\frac{1}{1-\gamma}x^{-1} =\\
-\frac{1}{1-\gamma}x^{-1} 
+\frac{1}{1-\gamma}\frac{1}{x^{\gamma-1}}
 $$
 Lavoro di una trasformazie adiabatica
 $$
 \int_{}^{} \frac{K}{V^\gamma} =\frac{K}{(1-\gamma)^{\gamma-1}}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4NzM4OTI4LDI2NjIzNDQzMywtNDkxNz
-k5Mzk0XX0=
+eyJoaXN0b3J5IjpbLTEzMzExMjgxNDIsMjY2MjM0NDMzLC00OT
+E3OTkzOTRdfQ==
 -->
