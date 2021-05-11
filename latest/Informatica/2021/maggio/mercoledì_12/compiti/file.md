@@ -6,10 +6,9 @@ es 13
 
 p 242 
  es 5
-Tests(codiceTest,codiceDocente)
-Docenti(codiceDeocente,nome,cognome)
-Quesiti(testo,Argomento,codiceTest)
-
+ 
+Docenti(codiceDocente,nome,cognome)
+Quesiti(codiceQuestito,Argomento)
 Scrivono(codiceDocente,codiceQuesito)
 a.
 
@@ -17,8 +16,8 @@ a.
 
 b.
 
-
+    enter code here
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3Njc3Mjk5LC0xMTYxMTY5MjcxXX0=
+eyJoaXN0b3J5IjpbMTM2NzQyODI0MCwtMTE2MTE2OTI3MV19
 -->
