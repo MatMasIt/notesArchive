@@ -60,16 +60,23 @@ Rame e piombo
 1. $Cu(NO_{3})_{2}+H_{2}O\rightarrow Cu^{+2}+2NO^{-}_{3}$ Pb (metallico)
 2. $Pb(NO_{3})_{2}+H_{2}O \rightarrow Pb^{+2}+2NO^{-}_{3}$ Cu(metallico)
 
-1: $Cu^{+2}+Pb \rightarrow Pb^é+2}+Cu$
+Reazione 1, $Cu^{+2}+Pb \rightarrow Pb^{+2}+Cu$
+Pb ox, 0 to+2
+Curid, +2 to 0
+### 
+Rame e piombo
+1. $Cu(NO_{3})_{2}+H_{2}O\rightarrow Cu^{+2}+2NO^{-}_{3}$ Pb (metallico)
+2. $Pb(NO_{3})_{2}+H_{2}O \rightarrow Pb^{+2}+2NO^{-}_{3}$ Cu(metallico)
 
-Costruisco la tabella
+
+## Costruisco la tabella
 
 |$/$|$Ag$|$Cu$|$Pb$|$Zn$|
 |----|---|---|---|---|
 |$Ag^{+2}$|x|Sì|x|Sì|
-|$Cu^{+2}$|No|x|x|Sì|
+|$Cu^{+2}$|No|x|sì|Sì|
 |$Pb^{+2}$|x|x|x|x|
 |$Zn^{+2}$|No|No|x|x|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjE3MTA2OF19
+eyJoaXN0b3J5IjpbMTM0OTYyNTcxMF19
 -->
