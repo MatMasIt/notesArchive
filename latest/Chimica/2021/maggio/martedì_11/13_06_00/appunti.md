@@ -78,6 +78,7 @@ Rame e piombo
 |$Cu^{+2}$|No|x|Sì|Sì|
 |$Pb^{+2}$|x|No|x|x|
 |$Zn^{+2}$|No|No|x|x|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTQwNDQ2OF19
+eyJoaXN0b3J5IjpbMTc3ODEyMjIzNF19
 -->
