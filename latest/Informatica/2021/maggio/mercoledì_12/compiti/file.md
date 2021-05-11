@@ -6,8 +6,10 @@ es 13
 
 p 242 
  es 5
-Test(
+Tests(codiceTest,codiceDocente)
+Docenti(codiceDeocente,nome,cognome)
+Quesiti(
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk4NDM5NjgsLTExNjExNjkyNzFdfQ
+eyJoaXN0b3J5IjpbLTEzMTM4MDcxNzIsLTExNjExNjkyNzFdfQ
 ==
 -->
