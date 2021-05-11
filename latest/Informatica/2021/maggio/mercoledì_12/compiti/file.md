@@ -29,8 +29,8 @@ c.
 
 d.
 
-    SELECT codiceDocente FROM Scrivono GROU
+    SELECT codiceDocente FROM Scrivono GROP BY codiceDocente HAVING COUNT(*) < 10
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDMwNjAxMiwtMTE2MTE2OTI3MV19
+eyJoaXN0b3J5IjpbLTk5NjAyMzcwNSwtMTE2MTE2OTI3MV19
 -->
