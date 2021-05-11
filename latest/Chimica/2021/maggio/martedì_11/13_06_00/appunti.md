@@ -48,17 +48,19 @@ $$
 ### 3
 
 1. $Cu(NO_{3})_{2}+H_{2}O\rightarrow Cu^{+2}+2NO^{-}_{3}$ Zn (metallico)
-2. $Zn(NO_{3})_{2}+H_{2}O \rightarrow Zn^{+2}+2NO^{-}_{3}$
+2. $Zn(NO_{3})_{2}+H_{2}O \rightarrow Zn^{+2}+2NO^{-}_{3}$ Cu(metallico)
 
+
+$Zn+CU^{+2}\rightarrow ZN^{+2}+Cu$
 
 Costruisco la tabella
 
 |$/$|$Ag$|$Cu$|$Pb$|$Zn$|
 |----|---|---|---|---|
-|$Ag^{+2}$|
-|$Cu^{+2}$|
-|$Pb^{+2}$|
-|$Zn^{+2}$|
+|$Ag^{+2}$|x|Sì|x|Sì|
+|$Cu^{+2}$|No|x|x|x|
+|$Pb^{+2}$|x|x|x|x|
+|$Zn^{+2}$|No|x|x|x|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTQ1ODYxNF19
+eyJoaXN0b3J5IjpbMTkwOTk1MDI0Ml19
 -->
