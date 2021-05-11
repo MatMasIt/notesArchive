@@ -15,8 +15,8 @@ a.
 
 b.
 
-    SELECT COUNT(*) FROM Quesiti WHEREArgomento=:a
+    SELECT COUNT(*) FROM Quesiti WHERE Quesiti.Argomento=:argomento INNER JOIN Docenti ON Docenti.codiceDocente=
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDQzMjQxNywtMTE2MTE2OTI3MV19
+eyJoaXN0b3J5IjpbMTU2NjI4MDUyNywtMTE2MTE2OTI3MV19
 -->
