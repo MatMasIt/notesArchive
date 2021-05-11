@@ -67,8 +67,15 @@ Tutte le macchine termiche hanno in comune:
 * Una zona ad alta tempreaturea o sorgente, che fornisce calore alla macchina
 * Una sorgente a bassa temperatura che disperde il calore rimasto
 * Una macchina che opera il modo ciclico
-Per il prio
+Per il primo principio della termodinamica
+$$
+Q_{c}=W+Q_{f}
+$$
+
+Processo reversibile, anche se non nelal realtà (solo idealmente)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTIyNTgxNTgsMjY2MjM0NDMzLC00OT
-E3OTkzOTRdfQ==
+eyJoaXN0b3J5IjpbLTQxNDY1NDQ3MSwyNjYyMzQ0MzMsLTQ5MT
+c5OTM5NF19
 -->
