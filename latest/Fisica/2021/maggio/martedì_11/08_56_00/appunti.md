@@ -40,14 +40,16 @@ Nei gas?
 Calori specifici
 |Volume costante (Isocora)|Pressione costante (Isobora)|
 |--------------------|--------------|
-|$C_{v}=\frac32R$|$C_{p}=\frac52R$|
+|$W=0$ quindi $C_{v}=\frac32R$|$C_{p}=\frac52R$|
 
 $$
 C_{p}-C_{v}=R
 $$
 
-
+|Adiabatica|Isoterma|
+|-|-|-
+|$Q=0$|$\Delta U=0$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxMjIyNjAyLDI2NjIzNDQzMywtNDkxNz
-k5Mzk0XX0=
+eyJoaXN0b3J5IjpbMTE3NjE5OTQ5NCwyNjYyMzQ0MzMsLTQ5MT
+c5OTM5NF19
 -->
