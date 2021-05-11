@@ -79,9 +79,10 @@ $Pb$, RID, +2 to 0
 
 ### 6
 Argento e piombo
-1. $(NO_{3})_{2}+H_{2}O\rightarrow Cu^{+2}+2NO^{-}_{3}$ Pb (metallico)
-2. $Pb(NO_{3})_{2}+H_{2}O \rightarrow Pb^{+2}+2NO^{-}_{3}$ Cu(metallico)
+1. $AgNO_{3}+H_{2}O\rightarrow Ag^{+}+2NO^{-}_{3}$ Pb (metallico)
+2. $Pb(NO_{3})_{2}+H_{2}O \rightarrow Pb^{+2}+2NO^{-}_{3}$ Ag (metallico)
 
+$2Ag^{+}+Pb \rightarrow PB
 ## Costruisco la tabella
 
 |$/$|$Ag$|$Cu$|$Pb$|$Zn$|
@@ -92,5 +93,5 @@ Argento e piombo
 |$Zn^{+2}$|No|No|x|x|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODA0OTAyOCwxNzc4MTIyMjM0XX0=
+eyJoaXN0b3J5IjpbLTE0ODM4NDg0NDMsMTc3ODEyMjIzNF19
 -->
