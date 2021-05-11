@@ -28,9 +28,15 @@ reazioni
 2. $Cu(NO_{3})_{2}+H_{2}O \rightarrow CU^{+2}+2NO^{-}_{3}$
 
 $$
-2Ag^{+}+Cu\rightarrow2Ag+Cu^{2}
-
+2Ag^{+}+Cu\rightarrow2Ag+Cu^{2}\\
+Ag: +1\rightarrow 0
 $$
+
+Costruisco la tavella
+
+|Ag|Cu|Pb|Zn|
+|----|---|---|---|
+|h|h|h|h|j
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU4NDE2OTVdfQ==
+eyJoaXN0b3J5IjpbODMyMTM2MjMzXX0=
 -->
