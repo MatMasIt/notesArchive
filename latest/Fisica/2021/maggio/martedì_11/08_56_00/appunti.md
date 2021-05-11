@@ -34,9 +34,15 @@ $$
 
 Calroia:
 
-> Quantità di calroe necessario per innalzare da 14,5°C a 15,5 
+> Quantità di calroe necessario per innalzare da 14,5°C a 15,5°C 1g di acqua distillata alla pressione di una atmosfera
+
+Nei gas?
+Calori specifici
+|Volume costante|Pressione costante|
+|--------------------|--------------|
+|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwNzkwOTE5LDI2NjIzNDQzMywtNDkxNz
+eyJoaXN0b3J5IjpbMTIyNDk5MzcxLDI2NjIzNDQzMywtNDkxNz
 k5Mzk0XX0=
 -->
