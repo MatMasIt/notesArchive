@@ -54,8 +54,8 @@ a.
     AND NomeCorso=:nomeCorso
 b. 
 
-    SELECT SUM(
+    SELECT SUM(durataModulo) FROM Corsi, Composti, Moduli WHERE Corsi.CodiceCorso=Composti.CodiceCorso AND Composti.CodiceModulo=Moduli.CodiceModulo ANDNomeCorso=:nomeCorso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4OTAyODMxLC0xMTYxMTY5MjcxXX0=
+eyJoaXN0b3J5IjpbMTMwNzEzNTYwNSwtMTE2MTE2OTI3MV19
 -->
