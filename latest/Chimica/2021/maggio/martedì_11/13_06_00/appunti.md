@@ -46,10 +46,12 @@ OX, Zn\rightarrow Zn^{+2}\rightarrow +2
 $$
 Costruisco la tabella
 
-|-|Ag|Cu|Pb|Zn|
+|$/$|$Ag$|$Cu$|$Pb$|$Zn$|
 |----|---|---|---|---|
-|Ag+|
-|
+|$Ag^{+2}$|
+|$Cu^{+2}$|
+|$Pb^{+2}$|
+|$Zn^{+2}$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0MjIwMjA3XX0=
+eyJoaXN0b3J5IjpbLTE1MjQxNjM4NTBdfQ==
 -->
