@@ -31,7 +31,12 @@ $$
 Lavoro di una trasformazie adiabatica
 $$
 \int_{}^{} \frac{K}{V^\gamma} =\frac{K}{(1-\gamma)^{\gamma-1}}$$
+
+Calroia:
+
+> Quantità di calroe necessario per innalzare da 14,5°C a 15,5 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzExMjgxNDIsMjY2MjM0NDMzLC00OT
-E3OTkzOTRdfQ==
+eyJoaXN0b3J5IjpbNjEwNzkwOTE5LDI2NjIzNDQzMywtNDkxNz
+k5Mzk0XX0=
 -->
