@@ -44,6 +44,13 @@ $$
 Zn+2Ag\rightarrow Zn^{+2}+2Ag\\
 OX, Zn\rightarrow Zn^{+2}\rightarrow +2
 $$
+
+### 3
+
+1. $Cu(NO_{3})_{2}+H_{2}O\rightarrow Cu^{+2}+2NO^{-}_{3}$ Zn (metallico)
+2. $Zn(NO_{3})_{2}+H_{2}O \rightarrow Zn^{+2}+2NO^{-}_{3}$
+
+
 Costruisco la tabella
 
 |$/$|$Ag$|$Cu$|$Pb$|$Zn$|
@@ -53,5 +60,5 @@ Costruisco la tabella
 |$Pb^{+2}$|
 |$Zn^{+2}$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQxNjM4NTBdfQ==
+eyJoaXN0b3J5IjpbLTM4MTQ1ODYxNF19
 -->
