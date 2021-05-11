@@ -25,9 +25,9 @@ Calcolo integrale: operazione inversa della derivazione
 ![Trasformazioni](https://i.imgur.com/VRoBmrz.jpg)
 
 $$
-\[ \int_{a}^{b} x^2 \,dx \]
+\int_{}^{} \frac{1}{x^\gamma} dx=\frac{x^{-\gamma+1}} 
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1NjU1OTQzLDI2NjIzNDQzMywtNDkxNz
-k5Mzk0XX0=
+eyJoaXN0b3J5IjpbNjE1Mjc1NjMsMjY2MjM0NDMzLC00OTE3OT
+kzOTRdfQ==
 -->
