@@ -39,7 +39,15 @@ es. 6
 
 Corsi(codiceCorso,NomeCorso)
 Composti(codiceCorso,codiceModulo)
-Moduli(codiceModulo,nomeModul
+Moduli(codiceModulo,nomeModul,durataModulo,programma)
+Frequentano(Matricola,CodiceCorso)
+Studenti(Matricola,nome,cognome)
+Insegnano(codiceInsegnante,codiceModulo,annoScolastico)
+Insegnanti(
+a.
+
+    SEL
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzI1MTQyNSwtMTE2MTE2OTI3MV19
+eyJoaXN0b3J5IjpbMTE1MDYxNjMzNSwtMTE2MTE2OTI3MV19
 -->
