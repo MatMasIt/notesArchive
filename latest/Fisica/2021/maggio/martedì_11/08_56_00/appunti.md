@@ -13,9 +13,8 @@ Nel caso biatomico
 $$K_{m}=\frac52T
 $$
 Energia intertna
-$$
-\frac
-$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODkyNjI0MjldfQ==
+eyJoaXN0b3J5IjpbLTgzOTcyMzk5N119
 -->
