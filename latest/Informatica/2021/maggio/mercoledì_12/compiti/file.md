@@ -46,8 +46,16 @@ Insegnano(codiceInsegnante,codiceModulo,annoScolastico)
 Insegnanti(codiceInsegnante,nominativo)
 a.
 
-    SELECT Moduli.nomeModulo FROM Corsi WHERE Corsi.NomeCorso=:nome INNER JOIN Moduli ON 
+
+    SELECT NomeModulo
+    FROM Corsi, Composti, Moduli
+    WHERE Corsi.CodiceCorso=Composti.CodiceCorso
+    AND Composti.CodiceModulo=Moduli.CodiceModulo
+    AND NomeCorso=:nomeCorso
+b. 
+
+    SELECT SUM(
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0Mzk5OTc3LC0xMTYxMTY5MjcxXX0=
+eyJoaXN0b3J5IjpbMzY4OTAyODMxLC0xMTYxMTY5MjcxXX0=
 -->
