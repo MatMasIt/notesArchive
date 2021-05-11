@@ -15,8 +15,8 @@ a.
 
 b.
 
-    SELECT COUNT(*) FROM Quesiti WHERE Quesiti.Argomento=:argomento INNER JOIN Docenti ON Docenti.codiceDocente=(SELECT Tests.codiceDocente FROM Tests WHERE Codice
+    SELECT COUNT(*) FROM Quesiti WHERE Quesiti.Argomento=:argomento INNER JOIN Docenti ON Docenti.codiceDocente=(SELECT Tests.codiceDocente FROM Tests WHERE CodiceTest=Quesiti.codice
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzI1NTMxMSwtMTE2MTE2OTI3MV19
+eyJoaXN0b3J5IjpbMTUxMTIwNjA0OSwtMTE2MTE2OTI3MV19
 -->
