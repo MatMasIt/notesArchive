@@ -4,9 +4,10 @@
 
 5 gradi dii libertà
 
-risulatao finale:
+risultato finale:
 enegia cinetica media è data da 3/2KT
-$$K_{m}=\frac32T
+$$
+K_{m} =\frac32KT
 $$
 Nel caso biatomico
 $$K_{m}=\frac52T
@@ -14,5 +15,5 @@ $$
 Energia intertna
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjA1MjgwOV19
+eyJoaXN0b3J5IjpbMjgyOTQ5NjVdfQ==
 -->
