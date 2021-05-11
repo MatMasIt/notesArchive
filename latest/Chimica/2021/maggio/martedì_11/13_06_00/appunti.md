@@ -60,6 +60,7 @@ Rame e piombo
 1. $Cu(NO_{3})_{2}+H_{2}O\rightarrow Cu^{+2}+2NO^{-}_{3}$ Pb (metallico)
 2. $Pb(NO_{3})_{2}+H_{2}O \rightarrow Pb^{+2}+2NO^{-}_{3}$ Cu(metallico)
 
+1: $Cu^{+2}+Pb \rightarrow Pb^é+2}+Cu$
 
 Costruisco la tabella
 
@@ -70,5 +71,5 @@ Costruisco la tabella
 |$Pb^{+2}$|x|x|x|x|
 |$Zn^{+2}$|No|No|x|x|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk4NTI1MjJdfQ==
+eyJoaXN0b3J5IjpbMTE0NjE3MTA2OF19
 -->
