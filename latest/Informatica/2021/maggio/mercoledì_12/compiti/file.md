@@ -29,8 +29,8 @@ c.
 
 d.
 
-    enter code here
+    SELECT codiceDocente FROM Scrivono GROU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3OTg2MTEyLC0xMTYxMTY5MjcxXX0=
+eyJoaXN0b3J5IjpbMTk3NDMwNjAxMiwtMTE2MTE2OTI3MV19
 -->
