@@ -16,8 +16,10 @@ a.
 
 b.
 
-    SELECT COUNT(*) FROM Quesiti WHERE Docenti.codiceDocente=Scrivono.codiceDocente AND Scrivono.codiceQuesito=Quesito.codiceQuesito 
+    SELECT COUNT(*) FROM Quesiti WHERE Docenti.codiceDocente=Scrivono.codiceDocente AND Scrivono.codiceQuesito=Quesito.codiceQuesito AND Quesito.Argomento=:argomento
+
+    SELECT COUNT(*) FROM Quesiti WHERE Quesiti.Argomento=:argomento INNER JOIN ON Scrivono 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODI3NzkxNSwtMTE2MTE2OTI3MV19
+eyJoaXN0b3J5IjpbMTMwMjU1NjkzNywtMTE2MTE2OTI3MV19
 -->
