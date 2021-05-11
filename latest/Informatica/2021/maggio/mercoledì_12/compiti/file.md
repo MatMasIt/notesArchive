@@ -31,7 +31,13 @@ d.
 
     SELECT codiceDocente FROM Scrivono GROUP BY codiceDocente HAVING COUNT(*) < 10
 
+e. 
+
+    DELETE FROM Quesiti WHERE Argomento=:argomento
+
+es. 6
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI0NTQxNjYsLTExNjExNjkyNzFdfQ
+eyJoaXN0b3J5IjpbLTEyOTM1NjAzNTIsLTExNjExNjkyNzFdfQ
 ==
 -->
