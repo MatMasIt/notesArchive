@@ -24,19 +24,25 @@ precipitato: si forma sulla superficie di contatto
 Obiettivo: costruzione di una scala 
 
 reazioni
+
+### 1
 1. $AgNO_{3}+H_{2}O\rightarrow Ag^{+}+NO^{-}_{3}$ Ag (metallico)
-2. $Cu(NO_{3})_{2}+H_{2}O \rightarrow CU^{+2}+2NO^{-}_{3}$
+2. $Cu(NO_{3})_{2}+H_{2}O \rightarrow Cu^{+2}+2NO^{-}_{3}$
 
 $$
 2Ag^{+}+Cu\rightarrow2Ag+Cu^{2}\\
 Ag: +1\rightarrow 0
 $$
+### 2
+1. $AgNO_{3}+H_{2}O\rightarrow Ag^{+}+NO^{-}_{3}$ Ag (metallico)
+2. $Zn(NO_{3})_{2}+H_{2}O \rightarrow Zn^{+2}+2NO^{-}_{3}$
 
-Costruisco la tavella
 
-|Ag|Cu|Pb|Zn|
+Costruisco la tabella
+
+|-|Ag|Cu|Pb|Zn|
 |----|---|---|---|
 |h|h|h|h|j
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyMTM2MjMzXX0=
+eyJoaXN0b3J5IjpbLTEzMjEyMjcyNTVdfQ==
 -->
