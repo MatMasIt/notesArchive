@@ -16,11 +16,21 @@ a.
 
 b.
 
-    SELECT COUNT(*) FROM Quesiti WHERE Docenti.codiceDocente=Scrivono.codiceDocente AND Scrivono.codiceQuesito=Quesito.codiceQuesito AND Quesito.Argomento=:argomento
+    SELECT COUNT(*) as TotQuesiti  FROM Quesiti WHERE Docenti.codiceDocente=Scrivono.codiceDocente AND Scrivono.codiceQuesito=Quesito.codiceQuesito AND Quesito.Argomento=:argomento
     
 oppure
 
-    SELECT COUNT(*) FROM Quesiti WHERE Quesiti.Argomento=:argomento INNER JOIN Scrivono ON Scrivono.codiceQuesito=Quesiti.codiceQuesito AND Scrivono.codiceDocente=:codiceDocente
+    SELECT COUNT(*) AS TotQuesiti FROM Quesiti INNER JOIN Scrivono ON Scrivono.codiceQuesito=Quesiti.codiceQuesito WHERE Quesiti.Argomento=:argomento AND Scrivono.codiceDocente=:codiceDocente
+
+c.
+
+    SELECT COUNT(*) as Totquesiti FROM Quesiti GROUP BY Argomento 
+
+
+d.
+
+    enter code here
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5Nzk3Nzg3LC0xMTYxMTY5MjcxXX0=
+eyJoaXN0b3J5IjpbNTQ3OTg2MTEyLC0xMTYxMTY5MjcxXX0=
 -->
