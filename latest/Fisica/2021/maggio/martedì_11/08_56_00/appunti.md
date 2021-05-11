@@ -8,7 +8,11 @@ risulatao finale:
 enegia cinetica media è data da 3/2KT
 $$K_{m}=\frac32T
 $$
+Nel caso biatomico
+$$K_{m}=\frac52T
+$$
+Energia intertna
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTU3MTEwXX0=
+eyJoaXN0b3J5IjpbLTczMjA1MjgwOV19
 -->
