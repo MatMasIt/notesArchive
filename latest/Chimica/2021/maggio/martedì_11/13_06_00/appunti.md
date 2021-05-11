@@ -69,6 +69,8 @@ Rame e piombo
 1. $Pb(NO_{3})_{2}+H_{2}O\rightarrow Pb^{+2}+2NO^{-}_{3}$ Zn (metallico)
 2. $Zn(NO_{3})_{2}+H_{2}O \rightarrow Zn^{+2}+2NO^{-}_{3}$ Pb (metallico)
 
+Avviene la prima reazione
+
 
 ## Costruisco la tabella
 
@@ -80,5 +82,5 @@ Rame e piombo
 |$Zn^{+2}$|No|No|x|x|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODEyMjIzNF19
+eyJoaXN0b3J5IjpbLTU0NDYzNzU4MywxNzc4MTIyMjM0XX0=
 -->
