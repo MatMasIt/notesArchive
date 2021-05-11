@@ -38,11 +38,16 @@ Calroia:
 
 Nei gas?
 Calori specifici
-|Volume costante|Pressione costante|
+|Volume costante (Isocora)|Pressione costante (Isobora)|
 |--------------------|--------------|
-|
+|$C_{v}=\frac32R$|$C_{p}=\frac52R$|
+
+$$
+C_{p}-C_{v}=R
+$$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDk5MzcxLDI2NjIzNDQzMywtNDkxNz
+eyJoaXN0b3J5IjpbNDAxMjIyNjAyLDI2NjIzNDQzMywtNDkxNz
 k5Mzk0XX0=
 -->
