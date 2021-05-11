@@ -39,11 +39,17 @@ $$
 
 3. $OX, Zn 0\rightarrow Zn^{+2}, +2$
 4. $RID, Zn^{+2}\rightarrow Zn, -2$
+
+$$
+Zn+2Ag\rightarrow Zn^{+2}+2Ag\\
+OX, Zn\rightarrow Zn^{+2}\rightarrow +2
+$$
 Costruisco la tabella
 
 |-|Ag|Cu|Pb|Zn|
 |----|---|---|---|---|
-|h|h|h|h|j
+|Ag+|
+|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Njg5NTA5N119
+eyJoaXN0b3J5IjpbNTI0MjIwMjA3XX0=
 -->
