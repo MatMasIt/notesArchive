@@ -16,8 +16,8 @@ a.
 
 b.
 
-    enter code here
+    SELECT COUNT(*) FROM 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzQyODI0MCwtMTE2MTE2OTI3MV19
+eyJoaXN0b3J5IjpbLTE4NzY0Njk1MSwtMTE2MTE2OTI3MV19
 -->
