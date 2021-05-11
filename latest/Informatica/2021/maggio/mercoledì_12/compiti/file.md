@@ -16,8 +16,8 @@ a.
 
 b.
 
-    SELECT COUNT(*) FROM 
+    SELECT COUNT(*) FROM Quesiti WHERE Docenti.codiceDocente=Scrivono.codiceDocente AND Scrivono.codiceQuesito=Quesito.codiceQuesito 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY0Njk1MSwtMTE2MTE2OTI3MV19
+eyJoaXN0b3J5IjpbLTg2ODI3NzkxNSwtMTE2MTE2OTI3MV19
 -->
