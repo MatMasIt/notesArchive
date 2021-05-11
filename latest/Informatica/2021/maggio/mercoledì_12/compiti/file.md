@@ -11,8 +11,12 @@ Docenti(codiceDeocente,nome,cognome)
 Quesiti(testo,Argomento)
 a.
 
-    SELECT COUNT(*) AS TotaleQuesiti FROM Quesiti WHEW
+    SELECT COUNT(*) AS TotaleQuesiti FROM Quesiti WHERE Argomento=:argomento
+
+b.
+
+    SELECT COUNT(*) FROM Quesiti WHEREArgomento=:a
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTQzMDI3OSwtMTE2MTE2OTI3MV19
+eyJoaXN0b3J5IjpbLTk3NDQzMjQxNywtMTE2MTE2OTI3MV19
 -->
