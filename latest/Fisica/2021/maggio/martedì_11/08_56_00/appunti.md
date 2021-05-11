@@ -60,7 +60,11 @@ Il salto termico che ne deriva è lo stesso del salto gravitazionale (linea del 
 
 ### Second *Lord Kelvin*
 
+> é impossibile realizzare una macchina termica il cui solo risultato sia quello di produrre lavoro scambiando calore con una sola sorgente
+
+**Macchina termica**: dispositivo che trasforma calroe in lavoro (immagine della locomotiva a vapore)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzEwNjExNzYsMjY2MjM0NDMzLC00OT
-E3OTkzOTRdfQ==
+eyJoaXN0b3J5IjpbMTc4NzUxMjA0OCwyNjYyMzQ0MzMsLTQ5MT
+c5OTM5NF19
 -->
