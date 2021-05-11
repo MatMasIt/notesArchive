@@ -17,10 +17,12 @@ Energia intertna
 |Trasformazione|Lavoro|Spiegazione|
 |------------------|--------|------|
 |Isocora|0|La biella non si muove|
-|Isoterma| $PV=NkT$, $NKT$ costante. Iperbole equilatera riferita agli asindoti. $L=NKT\ln\frac{V_{i}}{V_{f}|Occorre calcolare l'area, grafico di tipo $y=\frac{k}{x}$|
+|Isoterma| $PV=NkT$, $NKT$ costante. Iperbole equilatera riferita agli asindoti. $L=NKT\ln\frac{V_{i}}{V_{f}}$|Occorre calcolare l'area, grafico di tipo $y=\frac{k}{x}$|
 
 
 Calcolo integrale: operazione inversa della derivazione
+### Trasformazione adiabatica
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODM1MzI4NiwtNDkxNzk5Mzk0XX0=
+eyJoaXN0b3J5IjpbMjY2MjM0NDMzLC00OTE3OTkzOTRdfQ==
 -->
