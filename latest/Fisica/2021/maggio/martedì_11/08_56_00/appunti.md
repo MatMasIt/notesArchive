@@ -29,9 +29,8 @@ $$
 $$
 
 $$
-\int_{}^{} \frac{K}{x^\gamma} dx=\frac{x^{-\gamma+1}}{-\gamma+1}=\frac{1}{1-\gamma}x^{-1} 
-$$
+\int_{}^{} \frac{K}{V^\gamma} =\frac{K}{(1-\gamma)}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjA3MjkyMCwyNjYyMzQ0MzMsLTQ5MT
-c5OTM5NF19
+eyJoaXN0b3J5IjpbNzU3NTc5NzE4LDI2NjIzNDQzMywtNDkxNz
+k5Mzk0XX0=
 -->
