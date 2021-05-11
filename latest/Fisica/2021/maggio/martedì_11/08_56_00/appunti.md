@@ -49,7 +49,16 @@ $$
 |Adiabatica|Isoterma|
 |-|-|-
 |$Q=0$|$\Delta U=0$|
+
+## Secondo principio della termodinamica
+
+### Secondo Clausius
+
+> Quando due corpi a iverse temperature sono porsi a contatti con loro il passagio spontaneo di calore che ne risulta è sempre dal corpo caldo al corp freddp
+
+Il salto termico che ne deriva è lo stesso del sal
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjE5OTQ5NCwyNjYyMzQ0MzMsLTQ5MT
+eyJoaXN0b3J5IjpbLTQ1MTY0MDQ4NywyNjYyMzQ0MzMsLTQ5MT
 c5OTM5NF19
 -->
