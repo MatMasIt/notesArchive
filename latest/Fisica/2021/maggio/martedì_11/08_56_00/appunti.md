@@ -6,9 +6,9 @@
 
 risulatao finale:
 enegia cinetica media è data da 3/2KT
-$$K_é=\frac32KT
+$$K_{m}=\frac32T
 $$
-d
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzk0NDI1OTldfQ==
+eyJoaXN0b3J5IjpbMTM2MTU3MTEwXX0=
 -->
