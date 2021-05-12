@@ -213,8 +213,10 @@ $p=\frac{1}{W}=(\frac{V_{0}}{V})^N$
 $S(V)=k\log(\frac{V}{V_{0}})^N=kN\log(\frac{V}{V_{0}})$
 
 > Quindi la variazione di entropia +
-> $\Delta(S_{1}\rightarrowS
+> $\Delta(V_{1}\rightarrow V_{2})=kN\log \frac{V_{2}}{V_{0}}-kN\log\frac{V_{1}}{V_{0}}=kN\log{V_{2}}{V_{1}}$
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjkzMTk2MDFdfQ==
+eyJoaXN0b3J5IjpbLTE1OTM1MDUzNDddfQ==
 -->
