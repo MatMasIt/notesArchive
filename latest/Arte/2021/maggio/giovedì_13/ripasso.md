@@ -200,11 +200,14 @@ Guarini aggiornato su novità artisti contemporanei italiani ed eurpei
 sacerdote, matematico, geometra, astronoo, filosofo
 	* Cappella della Sindone
 	1657
-	Corp
+	Corpo cilindrico sormontato da cupola emisferica
+	cerchio+triangolo
+	Guarini colloca ai vertici del triancolo gli ingressi
+	internio: forti effetti chiaros
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTkxMzM3MCwtMTc3NTI1MzAzMSwyMD
+eyJoaXN0b3J5IjpbLTQ5OTYwMTIyMywtMTc3NTI1MzAzMSwyMD
 UyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMz
 LDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
 cwNzYsLTIxMDIzNTEyODJdfQ==
