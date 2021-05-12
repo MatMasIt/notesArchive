@@ -49,7 +49,14 @@ $U(p,V,T)=$  energia interna del sistema, funzione di stato
   $\Delta U=L+Q$
 ## Con una restrizione
 
-"sorgenti" a temperatura $T_{1
+"sorgenti" a temperatura $T_{1}T_{2}, T_{1}\ll T_{2}$
+
+
+Calore fornise solo da temperatura maggiore a temperatura maggiore
+
+si può inverite il processo ma solo con del $Lavoro$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNDU4ODA5XX0=
+eyJoaXN0b3J5IjpbLTE5MTg5OTA5MzBdfQ==
 -->
