@@ -176,15 +176,23 @@ Edificio stravagante, gotiheggiante, visto come eccesso ti Borromini
 	a punta di diamante
 	ampie aperture ad arco (2)
 	figure e masceroni decorativi
-	Secondo e terzzo ordine loggiati con ba
+	Secondo e terzzo ordine loggiati con balconi
+	colonne semplici o binate
+	sapiente gioco chiaroscuro
+	Decorazione scultorea livelli altri invade tutto
+	fusione tra scultura e architettura
 	* Chiesa di Santa Maria dellla Salute
+	 Fatta costruire dal senato della città dopo terribile peste
+	11 progetti 
+	 vince longhena
+	All'imbocco del canal Grande
 * **Guarino Guarini**
 	* Cappella della Sindone
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY0MDYwOTIsLTE3NzUyNTMwMzEsMj
-A1MjQ4MTcxLDI5MzAwMTY3Nyw0MzA1MzUyMjIsMTMwNDczNDYz
-MywxMTc3ODcwNzc5LC01NzMzNjc0NCwxOTY1NjI5ODUsMjA2Mz
-k3MDc2LC0yMTAyMzUxMjgyXX0=
+eyJoaXN0b3J5IjpbMTA4ODk4MDYzOCwtMTc3NTI1MzAzMSwyMD
+UyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMz
+LDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
+cwNzYsLTIxMDIzNTEyODJdfQ==
 -->
