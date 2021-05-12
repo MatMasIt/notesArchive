@@ -28,8 +28,13 @@ Corso di ammissione con posti molto limitati
 
 Corsi di Orientamento Universitario
 
+### Introduzione all'entropia e all'informazione
 
+3 costanti fondamentali
+* $G$, Costante di Newton
+* $h$, costante di Planck
+* $c$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTI2Mzk0MF19
+eyJoaXN0b3J5IjpbLTYyNDM4OTQ1NV19
 -->
