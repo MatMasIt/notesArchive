@@ -140,9 +140,19 @@ Risposta alla domanda
 |Sig. Bianchi||Sig. Neri|Sig. Rossi|Sig. Verdi|
 
 
-Disposizioni possivili
+Disposizioni possibili
 
-$W(A_{1})=2
+$$
+W(A_{1})=2\\
+W(A_{2})=4\cdot 3=12\\
+W(A_{1} UA_{2})=2\cdot 12=24
+$$
+
+Probabilità è l'inverso
+
+
+Claude Shannon 1948
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTkzNTMzMF19
+eyJoaXN0b3J5IjpbLTEwODk5MjkxMTddfQ==
 -->
