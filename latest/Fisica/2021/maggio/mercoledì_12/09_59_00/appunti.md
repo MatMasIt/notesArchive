@@ -37,16 +37,19 @@ Corsi di Orientamento Universitario
 |$h$|costante di Planck|Planck|Meccanica quantistica|
 |$\frac{1}{c}$|1 su velocità della luce|-|Relatività speciale|
 
-Termodinamic classica
+# Termodinamica classica
 
 
 Sadi Carnot 1796-1832
+## Il calore
 
 Si riconosce che i calore $(Q)$ è una forma di energia
 $U(p,V,T)=$  energia interna del sistema, funzione di stato
 
-$\Delta U=L+Q$
+  $\Delta U=L+Q$
+## Con una restrizione
 
+"sorgenti" a temperatura $T_{1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0NjcxNTI1XX0=
+eyJoaXN0b3J5IjpbMjUwNDU4ODA5XX0=
 -->
