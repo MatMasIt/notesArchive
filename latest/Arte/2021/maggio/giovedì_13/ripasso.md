@@ -116,7 +116,11 @@ Lavora con bernini al baldacchino, si allontana per lite economica
 	Convento + chiesa dei padri trinitari scalzi
 	Ristrutturazione di un complesso in uno spazio anguto, crocevia delle quattro fontane
 	Pianta convento: ottagono allungato
-	Pianta chiesa: mistilineaFacciata: corpo centrale e a
+	Pianta chiesa: mistilineaFacciata: corpo centrale e ali laerali, cornicioone ondulato mistilineo, nicchie con sculture e decorazioni
+	medaglione con immagine
+edicole covesse
+Balaustre convesse
+Colonne ioniche
 	* Chiesa di Sant'Ivo alla sapienza
 * **Pietro da Cortona**
 	* p.847 Chiesa dei Santi Luca e Martina
@@ -128,7 +132,7 @@ Lavora con bernini al baldacchino, si allontana per lite economica
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Mzk0MzgxNSwtMTc3NTI1MzAzMSwyMD
+eyJoaXN0b3J5IjpbLTkzMjM3Mjc0NCwtMTc3NTI1MzAzMSwyMD
 UyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMz
 LDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
 cwNzYsLTIxMDIzNTEyODJdfQ==
