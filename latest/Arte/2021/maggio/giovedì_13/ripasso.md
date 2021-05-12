@@ -104,7 +104,11 @@ Luce interna della torcia accentua senso di profondità
 	Famiglia senese Chigi
 	Colonnato di San Pietro
 	vuole rendere visivile cupola di Michelangelo, allontanata da facciata in pianta longitudinale
-	 
+	Due spazi continui
+	sagrato trapezioidale che conduce alla facciata + Piazza  ellittica
+	Rosa dei venti e obelisco Vaticano
+	due ampi porticati di colonne tuscaniche
+	abbraccio materno della chiesa ai fedeli 
 * **Borromini**
 	* Chiesa di San Carlo alle Quattro fontane (con facciata)
 	* Chiesa di Sant'Ivo alla sapienza
@@ -118,7 +122,7 @@ Luce interna della torcia accentua senso di profondità
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4MzEyNzAwLC0xNzc1MjUzMDMxLDIwNT
+eyJoaXN0b3J5IjpbMzQyMDY2Nzk5LC0xNzc1MjUzMDMxLDIwNT
 I0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIyLDEzMDQ3MzQ2MzMs
 MTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5Nz
 A3NiwtMjEwMjM1MTI4Ml19
