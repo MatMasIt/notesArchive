@@ -30,7 +30,7 @@ Corsi di Orientamento Universitario
 
 ### Introduzione all'entropia e all'informazione
 
-3 costanti fondamentali, 3 assi
+3 costanti fondamentali, 3 assi xyz indipendenti
 |Simboli|Nome|Scienziati|Fisica|
 |---------|-------|-----------|----|
 |$G$|Costante di Newton|Newton e Maxwell|Termodinamica|
@@ -225,14 +225,18 @@ La **luce del sole** $(\gamma_{S})\rightarrow$ riserve di bassa entropia + calor
 
 $\gamma$: fotoni, quandi di energia elettromagnetica
 
-Sole       Raggi($\gamma_{S}$) terra riemette i raggi ($\gamma
+Sole       Raggi($\gamma_{S}$) terra riemette i raggi ($\gamma_{CI}$)
 
 
 $E=hv\rightarrow {\gamma CI} \gg n_{\gamma S}$
 
 * $CO_{2}+\gamma_{S}\rightarrow C+ O_{2}+\gamma_{CI}$ (fotosintesi)
 * $C+\gamma_{S}\rightarrow vita\,delle\,piante+y_{CI}$
-* $piante\,(cibo)+O_{2}+\gamma_{S}\rightarrow vita\,degli\,animali+CO_{2}+H_{2}O+\gamma_{CI}$  
+* $piante\,(cibo)+O_{2}+\gamma_{S}\rightarrow vita\,degli\,animali+CO_{2}+H_{2}O+\gamma_{CI}$ 
+
+> Il numero di fotoni emesi dalla Terra è molto più grande del numero di fotoni che ci arriva dal sole, sono multipli della frequenza $hv$, Terra emette calore
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwOTUyNTM5XX0=
+eyJoaXN0b3J5IjpbMTM3Njg5MTE5XX0=
 -->
