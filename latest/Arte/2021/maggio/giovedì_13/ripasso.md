@@ -42,7 +42,9 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	Chiesa di Santa Maria del Popolo
 	Apostolo illuminato, disarcionato e travolto, illuminato da luce divina
 	evento sacro vissuto nell'interiorità di Paolo, colpito dalla luce divina
-	Dipint
+	Dipinti ostretti ad una visione di scorcio nella cappela
+	Rifiutate per l'eccessivo realismo
+	Sfera umana e divina troppo vicine
 	* p. 814 La morte della vergine
 	* Sette opere di misericordia
 	* Resurrezione di Lazzaro
@@ -66,7 +68,7 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwNDg4MTk2LDQzMDUzNTIyMiwxMzA0Nz
-M0NjMzLDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwy
-MDYzOTcwNzYsLTIxMDIzNTEyODJdfQ==
+eyJoaXN0b3J5IjpbLTE4MDQ0NjY5ODYsNDMwNTM1MjIyLDEzMD
+Q3MzQ2MzMsMTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1
+LDIwNjM5NzA3NiwtMjEwMjM1MTI4Ml19
 -->
