@@ -64,7 +64,7 @@ si può inverite il processo ma solo con del $Lavoro$
 ma 
 $\frac{L}{Q} \ll 1-\frac{T_{1}}{T_{2}}$
 
-à Entropia e termica classica
+Entropia e termica classica
 
 Rudolf Clasius 1822-1888
 
@@ -248,8 +248,8 @@ $E=hv\rightarrow {\gamma CI} \gg n_{\gamma S}$
 
 
 > La scienza è raffinazione del pensiero comune
-> \-Albert Einstein (1940)
+> \- Albert Einstein (1940)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI1MDgzNTVdfQ==
+eyJoaXN0b3J5IjpbMTE0NjE2MDcyN119
 -->
