@@ -31,10 +31,10 @@ A r. 63 viene nominato il "Piano Amaldi", come alternativa al piano di Boeri e P
  In italia spesso vi è un persistente problema di gestione non solo dei fondi pubblici, ma delle informazioni a disposizione della pubblica Amministrazione, quando questi spesso sono la risorsa più preziosa di cui dispongono.
 Elena Cattaneo sostiene che i fondi pubblici vadano destinati agli enti già esistenti, che però appartengono ad un "sistema complesso e frammentato".
 Per poter pianificare e attuare politiche efficienti, occorre avere padronanza di conoscenze riguardo al campo di azione: al giorno d'oggi è imperativo poter fruire dei dati sul funzionamento dello Stato in modo rapido e capillare.
-Per quanto sia una complessa, l'informatizzazione di tutti i dati negli archivi statali in un formato chiaro, univoco, regolamentato, interoperabile e la pubblicazione su una piattaforma
+Per quanto sia una complessa, l'informatizzazione di tutti i dati negli archivi statali in un formato chiaro, univoco, regolamentato, interoperabile e la pubblicazione su una piattaforma decentralizzata e che permetta livelli di accesso progressivi potrebbe essere il più valido appoggio  a decisioni di ampio spettro, anche 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxMTAzMjgsLTU4ODAwNzQ5NCwxODIzNj
-kzNjc3LC0zMjk2OTQwMzgsODQzMDkwMjcyLC00MDkyNjMwNzUs
-LTEzMzYyNTU2NDgsLTQ0NTY0MDgzMywtNzcwNzAzMzA1LDEwND
-czMTI4ODMsLTEzMTM0MDgxMDNdfQ==
+eyJoaXN0b3J5IjpbMzkwNzE2NTA3LC01ODgwMDc0OTQsMTgyMz
+Y5MzY3NywtMzI5Njk0MDM4LDg0MzA5MDI3MiwtNDA5MjYzMDc1
+LC0xMzM2MjU1NjQ4LC00NDU2NDA4MzMsLTc3MDcwMzMwNSwxMD
+Q3MzEyODgzLC0xMzEzNDA4MTAzXX0=
 -->
