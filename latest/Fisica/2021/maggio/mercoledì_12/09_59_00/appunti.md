@@ -7,8 +7,17 @@
 
 Sede costruita dal Vasari su commissione dei Medici
 
-Selezione rigorosa, solo circa il 5% di chi partecipa è ammess
+Selezione rigorosa, solo circa il 5% di chi partecipa è ammesso
+
+Vita collegiale, condivisione di tempi e spazi
+
+Aree disciplinari
+* Lettere e Filosofia
+* Scienze
+* Scienze politico-sociali
+
+Ricer
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzA3OTgyXX0=
+eyJoaXN0b3J5IjpbLTkwNjUwMDI5XX0=
 -->
