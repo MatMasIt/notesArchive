@@ -155,6 +155,14 @@ Claude Shannon 1948
 JhonVon Neumann 1932
 
 L'entropia è una misura delll'informazione mancante (dell'incertezza)
+$$
+p(W(A_{1}))=\frac12\\
+W(A_{2})=4\cdot 3=12\\
+W(A_{1} UA_{2})=2\cdot 12=24
+
+$$
+
+---
 
 $$
 S(A_{1})=k_{s}\log2\\
@@ -183,7 +191,11 @@ Cambio della base della logaritmo
 
 $K_{s}=1, \log \rightarrow \log_{2}$
 
-$S=1 \right 
+$S=1 \rightarrow 1 bit$ 
+
+
+# Intuizione di Boltzmann
+*In un sistama isolato l'informazione mancante 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDU4ODYzNV19
+eyJoaXN0b3J5IjpbODA0NzUxODY5XX0=
 -->
