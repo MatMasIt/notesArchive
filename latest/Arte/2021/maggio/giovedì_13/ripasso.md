@@ -22,7 +22,10 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 		* Descrizione 
 		Momento in cui Cristo scieglie Matteo come apodtolo
 		Matteo è un pubblicano e sta contando con i suoi compagni i soldi delle imposte
-		Cris
+		Cristo sopraggiunge nella stanza buia accompagnato da Pietro e con il braccio teso indica Matteo, che sbigottito si chiede se stia chiamando proprio lui
+		Cristo e Peitro vestono all'antica, Matteo e gli altri indossano abiti secenteschi
+		Rendere l'evento sacro attuale
+		La luce è protagonista, che proviene dalla finestranon chiusa 
 	* La crocifissione di S. Pietro
 	* La conversione di S. Paolo
 	* p. 814 La morte della vergine
@@ -48,6 +51,6 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxMjg4NzAxLC01NzMzNjc0NCwxOTY1Nj
-I5ODUsMjA2Mzk3MDc2LC0yMTAyMzUxMjgyXX0=
+eyJoaXN0b3J5IjpbLTE0MTQwMzMyMjQsLTU3MzM2NzQ0LDE5Nj
+U2Mjk4NSwyMDYzOTcwNzYsLTIxMDIzNTEyODJdfQ==
 -->
