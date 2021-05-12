@@ -221,7 +221,9 @@ Dalla termodinamica classica, $\Delta S= nR\log\frac{V_{2}}{V_{1}}$
 
 # Entropia e vita sulla terra
 
-La **luce del sole** $(\gamma S)\rightarrow$ 
+La **luce del sole** $(\gamma_{S})\rightarrow$ riserve di bassa entropia + calore irraggiato $(\gamma_{CI})$+
+
+$E=hv\rightarrow {\gamma CI} \gg n_{\gamma$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTAxMzgxNF19
+eyJoaXN0b3J5IjpbMTIwNjI4NjgzM119
 -->
