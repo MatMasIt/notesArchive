@@ -23,9 +23,9 @@ Attraverso a questa efficace espressione l'autrice si riferisce alla creazione d
 
 ### 3. Riconosci nel testo esempi di accorgimenti stilistici (locuzioni, figure retoriche, lessico specialistico ecc.) che rendano piacevole la lettura e sostengono il procedimento argomentativo
 
-L'articolo si apre con la locuzione "per comprendere", segnale che l'autrice vuole illustrare ai lettori i limiti  della proposta di Tito Boeri e Roberto Perotti
+L'articolo si apre con la locuzione "per comprendere", segnale che l'autrice vuole illustrare ai lettori i limiti  della proposta di Tito Boeri e Roberto Perotti, che delinea immediatamente (r.10) come 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTI2MzA3NSwtMTMzNjI1NTY0OCwtND
-Q1NjQwODMzLC03NzA3MDMzMDUsMTA0NzMxMjg4MywtMTMxMzQw
-ODEwM119
+eyJoaXN0b3J5IjpbNzM1MzQ5NzUxLC00MDkyNjMwNzUsLTEzMz
+YyNTU2NDgsLTQ0NTY0MDgzMywtNzcwNzAzMzA1LDEwNDczMTI4
+ODMsLTEzMTM0MDgxMDNdfQ==
 -->
