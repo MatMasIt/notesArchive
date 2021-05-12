@@ -31,17 +31,18 @@ A r. 63 viene nominato il "Piano Amaldi", come alternativa al piano di Boeri e P
 
  In Italia spesso vi è un persistente problema di gestione non solo dei fondi pubblici, ma delle informazioni a disposizione della pubblica Amministrazione, quando queste spesso sono la risorsa più preziosa di cui si dispone.
 Elena Cattaneo sostiene che i fondi pubblici vadano destinati agli enti già esistenti, che però appartengono ad un "sistema complesso e frammentato".
-Per poter pianificare e attuare politiche efficienti, occorre avere padronanza di conoscenze riguardo al campo di azione: al giorno d'oggi è imperativo poter fruire dei dati sul funzionamento dello Stato in modo rapido e capillare.
+Per poter pianificare ed attuare politiche efficienti, occorre avere padronanza di conoscenze riguardo al campo di azione: al giorno d'oggi è imperativo poter fruire dei dati sul funzionamento dello Stato in modo rapido e capillare.
 Per quanto sia una complessa, l'informatizzazione di tutti i dati negli archivi statali in un formato chiaro, univoco, regolamentato, interoperabile e la pubblicazione su una piattaforma che permetta livelli di accesso progressivi sarebbe il più valido appoggio ad un ampio spettro di decisioni, soprattutto riguardo agli investimenti e potrebbe essere anche un valido mezzo di trasparenza verso i cittadini.
 Uno strumento simile infatti risulterebbe utilissimo nel problema dell'assegnazione dei contributi per la ricerca: si potrebbe interrogare un enorme archivio su una quantità di informazioni: i fondi attualmente stanziati, i risultati conseguiti dai centri di ricerca, la demografica di chi li frequenta, il numero di richieste da parte di giovani meritevoli, eccetera.
-Dai risultati ottenuti si potrebbe meglio stabilire l'organizzazione dei poli scientifici per massimizzare la loro accesibilità e la loro eccellenz, due aspetti che vanno contemperati.
+Dai risultati ottenuti si potrebbe meglio stabilire l'organizzazione dei poli scientifici per massimizzare la loro accesibilità e la loro eccellena, due aspetti che vanno contemperati.
 La strategia opportuna potrebbe essere ibrida: distribuire proporzionalmente le risorse tra grandi centri e sedi locali per diversificare le opportunità offerte alla popolazione.
-Ciò preserverebbe la ricerca in modo ottimale, siccome per alcuni campi scientifici la strumentazione è particolarmente dispendiosa, ma fornirebbe il territorio di distaccamenti locali per un grande numero di persone.
+Ciò preserverebbe la ricerca in modo ottimale, siccome per alcuni campi scientifici la strumentazione è particolarmente dispendiosa, pur fornendo il territorio di distaccamenti locali pe
 Questi enti infine potrebbero collaborare tra di loro, processo che costituisce la base del progresso scientifico.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMTg2ODcyLDE4MjU5NTE3Niw4Njc0OT
-MwMzYsMTIwMzQxNTU2LC0xNTE5OTU1NzMzLC01ODgwMDc0OTQs
-MTgyMzY5MzY3NywtMzI5Njk0MDM4LDg0MzA5MDI3MiwtNDA5Mj
-YzMDc1LC0xMzM2MjU1NjQ4LC00NDU2NDA4MzMsLTc3MDcwMzMw
-NSwxMDQ3MzEyODgzLC0xMzEzNDA4MTAzXX0=
+eyJoaXN0b3J5IjpbLTE4MTgyNTMyOTQsNTgzMTg2ODcyLDE4Mj
+U5NTE3Niw4Njc0OTMwMzYsMTIwMzQxNTU2LC0xNTE5OTU1NzMz
+LC01ODgwMDc0OTQsMTgyMzY5MzY3NywtMzI5Njk0MDM4LDg0Mz
+A5MDI3MiwtNDA5MjYzMDc1LC0xMzM2MjU1NjQ4LC00NDU2NDA4
+MzMsLTc3MDcwMzMwNSwxMDQ3MzEyODgzLC0xMzEzNDA4MTAzXX
+0=
 -->
