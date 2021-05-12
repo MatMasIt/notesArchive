@@ -16,8 +16,16 @@ Aree disciplinari
 * Scienze
 * Scienze politico-sociali
 
-Ricer
+Ricerca di base e ricerca applicata
+
+Corsi ordinari:
+Laurea Triennale, Laura Magistrale
+
+PhD (dottorato)
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjUwMDI5XX0=
+eyJoaXN0b3J5IjpbLTYwNzM1ODE2OV19
 -->
