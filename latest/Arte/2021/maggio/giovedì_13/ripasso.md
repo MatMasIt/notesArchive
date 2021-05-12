@@ -33,7 +33,10 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* La crocifissione di S. Pietro
 	 Chiesa di Santa Maria del popolo
 	 Tre aguzzini sollevano faticosamente San Pietro, inchiodato a testa in giù
-	 Incrocio di linee oblique tra sfor
+	 Incrocio di linee oblique tra sforzo dei carnefici e posizione di pietro
+	Movimento di rotazione
+	Esasperato realismo, morte del santo solo e uminiato dal dolore, senza  conforto
+	Luce che illumina Pietro ne rivela il corpo, che ha l'aspetto monumentale, Michelangiolesco
 	* La conversione di S. Paolo
 	Chiesa di Santa Maria del Popolo
 	* p. 814 La morte della vergine
@@ -59,7 +62,7 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDg5OTUzMCwxMTc3ODcwNzc5LC01Nz
+eyJoaXN0b3J5IjpbMTMwNDczNDYzMywxMTc3ODcwNzc5LC01Nz
 MzNjc0NCwxOTY1NjI5ODUsMjA2Mzk3MDc2LC0yMTAyMzUxMjgy
 XX0=
 -->
