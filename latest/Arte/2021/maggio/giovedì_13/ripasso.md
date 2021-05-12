@@ -216,11 +216,16 @@ sacerdote, matematico, geometra, astronoo, filosofo
 	* Palazzo Carignano
 	Per il principe Emaniele Filiberto
 	Edificio cittadino
-	Piant
+	Pianta a U del palazzo nobiliare con corpo ellittico centrale
+	corpo ellittico: luoghi di rappresentanza
+	resto: appartamenti
+	Copro ellittico; convesso e si innesta su ali laterali, due zone concave della facciata
+	al centro portale di ingresso e nicchia vi
+	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQ2MjI3MTgsMTYyMDcwMjY3MCwtMT
-c3NTI1MzAzMSwyMDUyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIy
-MiwxMzA0NzM0NjMzLDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5Nj
-U2Mjk4NSwyMDYzOTcwNzYsLTIxMDIzNTEyODJdfQ==
+eyJoaXN0b3J5IjpbMTI2MTIwMTMwMCwxNjIwNzAyNjcwLC0xNz
+c1MjUzMDMxLDIwNTI0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIy
+LDEzMDQ3MzQ2MzMsMTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NT
+YyOTg1LDIwNjM5NzA3NiwtMjEwMjM1MTI4Ml19
 -->
