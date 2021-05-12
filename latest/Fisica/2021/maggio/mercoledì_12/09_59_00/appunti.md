@@ -193,7 +193,7 @@ $K_{s}=1, \log \rightarrow \log_{2}$
 $S=1 \rightarrow 1 bit$ 
 
 
-# Intuizione di Boltzmann
+# Intuizione di Boltzmann (1877)
 *In un sistama isolato l'informazione mancante può solo crescere (l'informazione non può aumentare*
 
 Per un gas $N$ è simile a $N_{A}$
@@ -202,6 +202,9 @@ In termodinamica non si seguono gli atoi individuali, ma solo $V,N$, la configur
 
 ## Spiegazione di Boltzmann
 Il gas si espande perchè il numero delle disposizioni possibili degli $N$ atomi (le configurazioni macroscopiche) cresce con $V$ moltoo rapidamente (da $V_{1} a V_{2}$) , rendendo altamente improanile il ovimento inverso con un $t \gg t_{U}$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3NTI0MTZdfQ==
+eyJoaXN0b3J5IjpbLTE3ODc5NjIxOTRdfQ==
 -->
