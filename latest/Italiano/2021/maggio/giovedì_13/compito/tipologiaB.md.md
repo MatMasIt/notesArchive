@@ -21,8 +21,8 @@ Se si vuole dunque finanziare la ricerca per il bene della società, la scrittri
 ### 2. A che cosa si riferisce l'autrice quando scrive "Il paese non ha bisogno di feudi dorati"?
 Attraverso a questa efficace espressione l'autrice si riferisce alla creazione di centri di ricerca esclusivi ed isolati che ricevano l'intero finanziamento da parte dello stato e siano quindi pivi di competizione, si autoproclamino come eccellenti e escludano ai meritevoli la possibilità di ttenrere i fondi necessari per la loro ricerca, principio  sancito dalla costituzione.
 
-### 3. Riconosci nel testo esempi di accorgimenti stilistici (locuzioni, figure retoriche, lessico specialistico ecc.) che rendano piacevole la lettura e sostengono 
+### 3. Riconosci nel testo esempi di accorgimenti stilistici (locuzioni, figure retoriche, lessico specialistico ecc.) che rendano piacevole la lettura e sostengono il procedimento a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMDAyMzM1LC03NzA3MDMzMDUsMTA0Nz
-MxMjg4MywtMTMxMzQwODEwM119
+eyJoaXN0b3J5IjpbLTgxMTY4NzU5MCwtNzcwNzAzMzA1LDEwND
+czMTI4ODMsLTEzMTM0MDgxMDNdfQ==
 -->
