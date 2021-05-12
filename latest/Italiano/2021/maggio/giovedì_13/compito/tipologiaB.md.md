@@ -28,14 +28,13 @@ Il termine tecnico "governance" a r. 47 denota l'insieme di regole e procedure c
 A r. 63 viene nominato il "Piano Amaldi", come alternativa al piano di Boeri e Perotti, e infine a r.74 con una efficace metafora i centri di ricerca prodotti dalla riforma che l'autrice vuole contestare sono equiparati a "feudi dorati", isolati dalla realtà esterna.
 
 ### Produzione
- In italia spesso vi è un persistente problema di gestione non solo dei fondi pubblici, ma delle informazioni a disposizione della pubblica Amministrazione, quando quest spesso sono la risorsa più preziosa di cui dispongono.
+ In italia spesso vi è un persistente problema di gestione non solo dei fondi pubblici, ma delle informazioni a disposizione della pubblica Amministrazione, quando queste spesso sono la risorsa più preziosa di cui si dispone.
 Elena Cattaneo sostiene che i fondi pubblici vadano destinati agli enti già esistenti, che però appartengono ad un "sistema complesso e frammentato".
 Per poter pianificare e attuare politiche efficienti, occorre avere padronanza di conoscenze riguardo al campo di azione: al giorno d'oggi è imperativo poter fruire dei dati sul funzionamento dello Stato in modo rapido e capillare.
 Per quanto sia una complessa, l'informatizzazione di tutti i dati negli archivi statali in un formato chiaro, univoco, regolamentato, interoperabile e la pubblicazione su una piattaforma decentralizzata e che permetta livelli di accesso progressivi potrebbe essere il più valido appoggio  ad un ampio spettro di decisioni, soprattutto riguardo agli investimenti.
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDQ1NzM1NCwtNTg4MDA3NDk0LDE4Mj
+eyJoaXN0b3J5IjpbMjAyMTA3ODUxOSwtNTg4MDA3NDk0LDE4Mj
 M2OTM2NzcsLTMyOTY5NDAzOCw4NDMwOTAyNzIsLTQwOTI2MzA3
 NSwtMTMzNjI1NTY0OCwtNDQ1NjQwODMzLC03NzA3MDMzMDUsMT
 A0NzMxMjg4MywtMTMxMzQwODEwM119
