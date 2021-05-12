@@ -155,7 +155,14 @@ Edificio stravagante, gotiheggiante, visto come eccesso ti Borromini
 * **Pietro da Cortona**
 	* p.847 Chiesa dei Santi Luca e Martina
 	Rom
+	Pianta circolare
+	Interno: alternarsi di sporgenze e rientranze, movimento impresso alle pareti
+	pilasti e colonne ioniche innalzati agli incroci dei bracci
+	domina il bianco
+	No dipindi, ma stucchi agli angoli 
+	la luce proviene da finestre nella cupola
 	
+	Facciata
 * **Baldassarre Longhena**
 	* p.848 Ca' Pesaro
 	* Chiesa di Santa Maria dellla Salute
@@ -164,8 +171,8 @@ Edificio stravagante, gotiheggiante, visto come eccesso ti Borromini
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI0MTk4NDgsLTE3NzUyNTMwMzEsMj
-A1MjQ4MTcxLDI5MzAwMTY3Nyw0MzA1MzUyMjIsMTMwNDczNDYz
-MywxMTc3ODcwNzc5LC01NzMzNjc0NCwxOTY1NjI5ODUsMjA2Mz
-k3MDc2LC0yMTAyMzUxMjgyXX0=
+eyJoaXN0b3J5IjpbMTA4OTMyNjc5LC0xNzc1MjUzMDMxLDIwNT
+I0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIyLDEzMDQ3MzQ2MzMs
+MTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5Nz
+A3NiwtMjEwMjM1MTI4Ml19
 -->
