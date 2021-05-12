@@ -117,9 +117,11 @@ Ludwig Boltzmann 1844-1906
 
 Moti atomo
 * $A\rightarrow B$
-* $B\rightarrow A$
+* $A\leftarrow B$
 
-Se 
+Se $A\rightarrow B$ è consentita, lo è anche $A\leftarrow B$
+
+$F=ma$          $a=\frac{v}[t}=\frac{x}{t^2}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDA2Nzk5OV19
+eyJoaXN0b3J5IjpbLTY3Mjk1NDc0OV19
 -->
