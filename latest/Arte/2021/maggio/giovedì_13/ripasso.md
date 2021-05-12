@@ -210,12 +210,13 @@ sacerdote, matematico, geometra, astronoo, filosofo
 	tre pennacchi con tre arconi
 	fitta trama di motividiversi
 	sofrapposizione di archi ascendenti , waagoni concentrici ruotati di 30° e rimpiccioliti moto ascendente
+	
 	stella a 12 punte
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDcwMjY3MCwtMTc3NTI1MzAzMSwyMD
-UyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMz
-LDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
-cwNzYsLTIxMDIzNTEyODJdfQ==
+eyJoaXN0b3J5IjpbLTE1Nzk3NjczMjQsMTYyMDcwMjY3MCwtMT
+c3NTI1MzAzMSwyMDUyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIy
+MiwxMzA0NzM0NjMzLDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5Nj
+U2Mjk4NSwyMDYzOTcwNzYsLTIxMDIzNTEyODJdfQ==
 -->
