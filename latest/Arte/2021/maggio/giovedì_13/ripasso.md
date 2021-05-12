@@ -57,7 +57,6 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 * **Borromini**
 	* Chiesa di San Carlo alle Quattro fontane (con facciata)
 	* Chiesa di Sant'Ivo alla sapienza
-	* p 840 Basilica di San Giovanni in Laterano
 * **Pietro da Cortona**
 	* p.847 Chiesa dei Santi Luca e Martina
 * **Baldassarre Longhena**
@@ -68,7 +67,7 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ0NjY5ODYsNDMwNTM1MjIyLDEzMD
-Q3MzQ2MzMsMTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1
-LDIwNjM5NzA3NiwtMjEwMjM1MTI4Ml19
+eyJoaXN0b3J5IjpbMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0Nz
+M0NjMzLDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwy
+MDYzOTcwNzYsLTIxMDIzNTEyODJdfQ==
 -->
