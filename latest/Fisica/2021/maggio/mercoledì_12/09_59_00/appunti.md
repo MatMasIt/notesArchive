@@ -121,7 +121,17 @@ Moti atomo
 
 Se $A\rightarrow B$ è consentita, lo è anche $A\leftarrow B$
 
-$F=ma$          $a=\frac{v}[t}=\frac{x}{t^2}$
+$F=ma$
+$a=\frac{v}{t} =\frac{x}{t^2}$
+
+Risposta alla domanda
+
+# L'informazione
+
+## Albergo 1 (A1)
+
+|Stanza 1|Stanza 2|
+|-----------|-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Mjk1NDc0OV19
+eyJoaXN0b3J5IjpbLTg0Mzg2Nzk4Nl19
 -->
