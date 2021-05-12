@@ -26,6 +26,9 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 		Cristo e Peitro vestono all'antica, Matteo e gli altri indossano abiti secenteschi
 		Rendere l'evento sacro attuale
 		La luce è protagonista, che proviene dalla finestranon chiusa 
+		Chiaroscuro evidenzia le reazionei dei personaggi
+		Gerarchia visiva: spostamendo da dx a sx da Cristo a matteo
+		La luce è la grazia divina, che come illimina gli uomini, e in questo caso la chiamata di matte
 	* La crocifissione di S. Pietro
 	* La conversione di S. Paolo
 	* p. 814 La morte della vergine
@@ -51,6 +54,6 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQwMzMyMjQsLTU3MzM2NzQ0LDE5Nj
-U2Mjk4NSwyMDYzOTcwNzYsLTIxMDIzNTEyODJdfQ==
+eyJoaXN0b3J5IjpbLTEzOTUzOTcxNywtNTczMzY3NDQsMTk2NT
+YyOTg1LDIwNjM5NzA3NiwtMjEwMjM1MTI4Ml19
 -->
