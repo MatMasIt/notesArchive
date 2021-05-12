@@ -29,10 +29,10 @@ A r. 63 viene nominato il "Piano Amaldi", come alternativa al piano di Boeri e P
 
 ### Produzione
  In italia spesso vi è un persistente problema di gestione non solo dei fondi pubblici, ma delle informazioni a disposizione della pubblica Amministrazione, quando questi spesso sono la risorsa più preziosa di cui dispongono.
- Elena Cattaneo
+Elena Cattaneo sostiene 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzY5MzY3NywtMzI5Njk0MDM4LDg0Mz
-A5MDI3MiwtNDA5MjYzMDc1LC0xMzM2MjU1NjQ4LC00NDU2NDA4
-MzMsLTc3MDcwMzMwNSwxMDQ3MzEyODgzLC0xMzEzNDA4MTAzXX
-0=
+eyJoaXN0b3J5IjpbLTEzMTYxMjc4MjUsMTgyMzY5MzY3NywtMz
+I5Njk0MDM4LDg0MzA5MDI3MiwtNDA5MjYzMDc1LC0xMzM2MjU1
+NjQ4LC00NDU2NDA4MzMsLTc3MDcwMzMwNSwxMDQ3MzEyODgzLC
+0xMzEzNDA4MTAzXX0=
 -->
