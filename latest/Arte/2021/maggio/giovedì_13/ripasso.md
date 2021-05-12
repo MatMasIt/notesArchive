@@ -90,9 +90,13 @@ Luce interna della torcia accentua senso di profondità
 	Visione frontale
 	Per giustificare la morale "Chiunque insegue il piacere di forma fugace resta con un pugno di fogliein ano, o al massimo coglie bacche amare"
 	* Il baldacchino
-	* Sotto Uano VII
-	* amicizia con il committente
-	* sta
+	Sotto Uano VII
+	amicizia con il committente
+	stabile e maestoso, bronzo
+	Quattro grande colonne tortili di 11 metri, ispirazione a iconostasi costantiniana
+	rivestimenti dorati luccicanti e naturalistici
+	Sfera e croce di Borromini
+	Borro
 	* Piazza San Pietro
 * **Borromini**
 	* Chiesa di San Carlo alle Quattro fontane (con facciata)
@@ -107,8 +111,8 @@ Luce interna della torcia accentua senso di profondità
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1MDc5NTA5LC0xNzc1MjUzMDMxLDIwNT
-I0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIyLDEzMDQ3MzQ2MzMs
-MTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5Nz
-A3NiwtMjEwMjM1MTI4Ml19
+eyJoaXN0b3J5IjpbLTE0NjQ0MzIxNTEsLTE3NzUyNTMwMzEsMj
+A1MjQ4MTcxLDI5MzAwMTY3Nyw0MzA1MzUyMjIsMTMwNDczNDYz
+MywxMTc3ODcwNzc5LC01NzMzNjc0NCwxOTY1NjI5ODUsMjA2Mz
+k3MDc2LC0yMTAyMzUxMjgyXX0=
 -->
