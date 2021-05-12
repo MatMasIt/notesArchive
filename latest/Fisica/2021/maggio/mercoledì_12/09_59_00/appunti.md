@@ -239,8 +239,12 @@ $E=hv\rightarrow {\gamma CI} \gg n_{\gamma S}$
  # Sommario
  * dalla termodinamica classica esiste una funzione di stato, $Entropia \rightarrow S(p,V,T)$ che nella trasformazione di un sistema isolato, NNdiminuisce mai
  * In un gas fatto di atomi/molecole come può l'entropia crescere sempre se il mondo microscopico NON conosce freccia del tempo? 
- Non c'èe differenza tra passato e futuro
+ Non c'è differenza tra passato e futuro
  * 
+
+# A che serve tutto questo?
+* **La risposta classica**: La fisica di base ha modificato la nostra vita: Laser, Transistor, PC, telefonini, GPS, web, diagnostica medica
+* **Una risposta che preferisco**: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwMjYzMjU3XX0=
+eyJoaXN0b3J5IjpbLTE4Mjc1NzA0OThdfQ==
 -->
