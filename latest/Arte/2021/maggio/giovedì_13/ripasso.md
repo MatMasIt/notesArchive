@@ -220,11 +220,15 @@ sacerdote, matematico, geometra, astronoo, filosofo
 	corpo ellittico: luoghi di rappresentanza
 	resto: appartamenti
 	Copro ellittico; convesso e si innesta su ali laterali, due zone concave della facciata
-	al centro portale di ingresso e nicchia vi
+	al centro portale di ingresso e nicchia Balconata con colonne 
+	Il timpano nascoltde altezza corpo ellittico, maggiore dell'edificio
+ ( opera successiva a guarini)
+ Facciata; lavorazione in cotto con grandi lesene, a livello più basso il mattone riproduceefffetto bugnato,
+ ordini superiori sono ionici
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTIwMTMwMCwxNjIwNzAyNjcwLC0xNz
+eyJoaXN0b3J5IjpbLTQwNjU2MDc4MSwxNjIwNzAyNjcwLC0xNz
 c1MjUzMDMxLDIwNTI0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIy
 LDEzMDQ3MzQ2MzMsMTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NT
 YyOTg1LDIwNjM5NzA3NiwtMjEwMjM1MTI4Ml19
