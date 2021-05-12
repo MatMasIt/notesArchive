@@ -210,12 +210,16 @@ sacerdote, matematico, geometra, astronoo, filosofo
 	tre pennacchi con tre arconi
 	fitta trama di motividiversi
 	sofrapposizione di archi ascendenti , waagoni concentrici ruotati di 30° e rimpiccioliti moto ascendente
-	
-	stella a 12 punte
+	Al centro stella a 12 punte: spirito santo
+	All'esterno lefinestre del tiburio sono raccordate in un cornicione ondulato
+	andamento vorticoso e ascendente della lanterna sembra riprendere Sant'Ivo
 	* Palazzo Carignano
+	Per il principe Emaniele Filiberto
+	Edificio cittadino
+	Piant
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk3NjczMjQsMTYyMDcwMjY3MCwtMT
+eyJoaXN0b3J5IjpbLTE3MzQ2MjI3MTgsMTYyMDcwMjY3MCwtMT
 c3NTI1MzAzMSwyMDUyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIy
 MiwxMzA0NzM0NjMzLDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5Nj
 U2Mjk4NSwyMDYzOTcwNzYsLTIxMDIzNTEyODJdfQ==
