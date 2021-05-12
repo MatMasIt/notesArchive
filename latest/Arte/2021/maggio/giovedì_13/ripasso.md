@@ -17,8 +17,13 @@
 	* Chiesa di San Carlo alle Quattro fontane (con facciata)
 	* Chiesa di Sant'Ivo alla sapienza
 	* p 840 Basilica di San Giovanni in Laterano
-* **Pietro da C
+* **Pietro da Cortona**
+	* p.847 Chiesa dei Santi Luca e Martina
+* **Baldassarre Longhena**
+	* p.848 Ca' Pesaro
+	* Chiesa di Santa Maria dellla Salute
+* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQxNzIyMV19
+eyJoaXN0b3J5IjpbODY3MTQ5OTQ1XX0=
 -->
