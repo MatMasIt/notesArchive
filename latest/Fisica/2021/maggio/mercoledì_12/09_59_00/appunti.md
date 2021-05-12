@@ -99,8 +99,11 @@ $R=\frac{N}{n}k=N_{A}k$
 ## L'energia cinetica media è proporzionale a T
 James Clerk Maxwell, 1831-1879
 $E_{cin}=\frac{3}{2}kT$
+$k$: costante di Boltzmann
 
 Numero di molecole per intervallo di velocità: forma caratteristica e universale
+
+Distribuzione nota per cui si può calcolare una energia cinetica media, che cresce con la temperatura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTMxNTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTIwMDMzMDU2MjldfQ==
 -->
