@@ -29,10 +29,11 @@ A r. 63 viene nominato il "Piano Amaldi", come alternativa al piano di Boeri e P
 
 ### Produzione
  In italia spesso vi è un persistente problema di gestione non solo dei fondi pubblici, ma delle informazioni a disposizione della pubblica Amministrazione, quando questi spesso sono la risorsa più preziosa di cui dispongono.
-Elena Cattaneo sostiene che i fondi pubblici 
+Elena Cattaneo sostiene che i fondi pubblici vadano destinati agli enti già esistenti, che però appartengono ad un "sistema complesso e frammentato".
+Per poter pianificare e attuare politiche efficienti, occorre avere padronanza d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODAwNzQ5NCwxODIzNjkzNjc3LC0zMj
-k2OTQwMzgsODQzMDkwMjcyLC00MDkyNjMwNzUsLTEzMzYyNTU2
-NDgsLTQ0NTY0MDgzMywtNzcwNzAzMzA1LDEwNDczMTI4ODMsLT
-EzMTM0MDgxMDNdfQ==
+eyJoaXN0b3J5IjpbLTE5NDkzODkyNDQsLTU4ODAwNzQ5NCwxOD
+IzNjkzNjc3LC0zMjk2OTQwMzgsODQzMDkwMjcyLC00MDkyNjMw
+NzUsLTEzMzYyNTU2NDgsLTQ0NTY0MDgzMywtNzcwNzAzMzA1LD
+EwNDczMTI4ODMsLTEzMTM0MDgxMDNdfQ==
 -->
