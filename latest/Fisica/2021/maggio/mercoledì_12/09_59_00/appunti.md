@@ -131,7 +131,18 @@ Risposta alla domanda
 ## Albergo 1 (A1)
 
 |Stanza 1|Stanza 2|
-|-----------|-
+|-----------|------|
+|Sig. Bianchi||Sig. Neri|
+
+## Albergo 2 (A2)
+|Stanza 1|Stanza 2|Stanza 3|Stanza 4|
+|-----------|------|----|----|
+|Sig. Bianchi||Sig. Neri|Sig. Rossi|Sig. Verdi|
+
+
+Disposizioni possivili
+
+$W(A_{1})=2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Mzg2Nzk4Nl19
+eyJoaXN0b3J5IjpbLTQ5NTkzNTMzMF19
 -->
