@@ -132,12 +132,12 @@ Risposta alla domanda
 
 |Stanza 1|Stanza 2|
 |-----------|------|
-|Sig. Bianchi||Sig. Neri|
+|Sig. Bianchi|Sig. Neri|
 
 ## Albergo 2 (A2)
 |Stanza 1|Stanza 2|Stanza 3|Stanza 4|
 |-----------|------|----|----|
-|Sig. Bianchi||Sig. Neri|Sig. Rossi|Sig. Verdi|
+|Sig. Bianchi|Sig. Neri|Sig. Rossi|Sig. Verdi|
 
 
 Disposizioni possibili
@@ -238,5 +238,5 @@ $E=hv\rightarrow {\gamma CI} \gg n_{\gamma S}$
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Njg5MTE5XX0=
+eyJoaXN0b3J5IjpbLTIxNDAzMTA2MTldfQ==
 -->
