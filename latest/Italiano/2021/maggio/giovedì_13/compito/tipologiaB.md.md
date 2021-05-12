@@ -25,9 +25,12 @@ Attraverso a questa efficace espressione l'autrice si riferisce alla creazione d
 
 L'articolo si apre con la locuzione "per comprendere", segnale che l'autrice vuole illustrare ai lettori i limiti della proposta di Tito Boeri e Roberto Perotti, che delinea immediatamente (r.10) come una "cosa da non fare" (...),  procedendo ad argomentare che seppur la necessità di riformare il sistemadi ricerca italiano  attuale ("è evidente", r.34), la creazione ("informata", r.40) di nuovi enti genererebbe svantaggi sul piano di vista della competizione ("vincitori senza gara", r.40).
 Il termine tecnico "governance" a r. 47 denota l'insieme di regole e procedure che denotano la gestione di enti e apparati.
-A r. 63 viene nominato il "Piano Amaldi", come alternativa al piano di Boeri e Perotti, e infine a r.74 con una efficace metafora i centri di ricerca prodotti dalla riforma che l'autrice vuole contestare sono equiparati a "feudi dorati"
+A r. 63 viene nominato il "Piano Amaldi", come alternativa al piano di Boeri e Perotti, e infine a r.74 con una efficace metafora i centri di ricerca prodotti dalla riforma che l'autrice vuole contestare sono equiparati a "feudi dorati", isolati dalla realtà esterna.
+
+### Produzione
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NTIwMTcxLC00MDkyNjMwNzUsLTEzMz
+eyJoaXN0b3J5IjpbODQzMDkwMjcyLC00MDkyNjMwNzUsLTEzMz
 YyNTU2NDgsLTQ0NTY0MDgzMywtNzcwNzAzMzA1LDEwNDczMTI4
 ODMsLTEzMTM0MDgxMDNdfQ==
 -->
