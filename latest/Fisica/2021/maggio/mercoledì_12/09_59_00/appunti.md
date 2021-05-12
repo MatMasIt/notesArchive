@@ -47,6 +47,8 @@ Si riconosce che i calore $(Q)$ è una forma di energia
 $U(p,V,T)=$  energia interna del sistema, funzione di stato
 
   $\Delta U=L+Q$
+  
+  *una sorgente ha una capacità termica infinita*
 ## Con una restrizione
 
 "sorgenti" a temperatura $T_{1}T_{2}, T_{1}\ll T_{2}$
@@ -78,6 +80,9 @@ $\Delta S=\Delta S_{1}+\Delta S_{2} \geq 0$
 $\Delta S=\frac{Q}{T}$
 * Per  una sorgente che cede calore
 $\Delta S=-\frac{Q}{T}$
+
+
+		Il calore va dal caldo verso il freddo a causa dell'entropia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMDg5MTU5XX0=
+eyJoaXN0b3J5IjpbMjExMTA1Njc1XX0=
 -->
