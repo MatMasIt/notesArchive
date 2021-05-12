@@ -23,8 +23,8 @@ Attraverso a questa efficace espressione l'autrice si riferisce alla creazione d
 
 ### 3. Riconosci nel testo esempi di accorgimenti stilistici (locuzioni, figure retoriche, lessico specialistico ecc.) che rendano piacevole la lettura e sostengono il procedimento argomentativo
 
-
+L'articolo si apre con la locuzione "per comprendere", segnale che l'autrice 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTY0MDgzMywtNzcwNzAzMzA1LDEwND
-czMTI4ODMsLTEzMTM0MDgxMDNdfQ==
+eyJoaXN0b3J5IjpbOTMzOTg1ODM0LC00NDU2NDA4MzMsLTc3MD
+cwMzMwNSwxMDQ3MzEyODgzLC0xMzEzNDA4MTAzXX0=
 -->
