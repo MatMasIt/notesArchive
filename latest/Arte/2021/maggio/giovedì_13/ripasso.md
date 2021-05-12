@@ -37,8 +37,10 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	Movimento di rotazione
 	Esasperato realismo, morte del santo solo e uminiato dal dolore, senza  conforto
 	Luce che illumina Pietro ne rivela il corpo, che ha l'aspetto monumentale, Michelangiolesco
+	Figure paiono rovesciarsi sullo spettatore
 	* La conversione di S. Paolo
 	Chiesa di Santa Maria del Popolo
+	
 	* p. 814 La morte della vergine
 	* Sette opere di misericordia
 	* Resurrezione di Lazzaro
@@ -62,7 +64,7 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDczNDYzMywxMTc3ODcwNzc5LC01Nz
-MzNjc0NCwxOTY1NjI5ODUsMjA2Mzk3MDc2LC0yMTAyMzUxMjgy
-XX0=
+eyJoaXN0b3J5IjpbMTIyOTAzNTk5LDEzMDQ3MzQ2MzMsMTE3Nz
+g3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5NzA3Niwt
+MjEwMjM1MTI4Ml19
 -->
