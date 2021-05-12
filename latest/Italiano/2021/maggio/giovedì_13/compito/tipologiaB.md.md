@@ -36,13 +36,13 @@ Per quanto sia una complessa, l'informatizzazione di tutti i dati negli archivi 
 Uno strumento simile infatti risulterebbe utilissimo nel problema dell'assegnazione dei contributi per la ricerca: si potrebbe interrogare un enorme archivio su una quantità di informazioni: i fondi attualmente stanziati, i risultati conseguiti dai centri di ricerca, la demografica di chi li frequenta, il numero di richieste da parte di giovani meritevoli, eccetera.
 Dai risultati ottenuti si potrebbe meglio stabilire l'organizzazione dei poli scientifici per massimizzare la loro accesibilità e la loro eccellena, due aspetti che vanno contemperati.
 La strategia opportuna potrebbe essere ibrida: distribuire proporzionalmente le risorse tra grandi centri e sedi locali per diversificare le opportunità offerte alla popolazione.
-Ciò preserverebbe la ricerca in modo ottimale, siccome per alcuni campi scientifici la strumentazione è particolarmente dispendiosa, pur fornendo il territorio di distaccamenti locali per fornire opportunità a tutti.
+Ciò preserverebbe la ricerca in modo ottimale, siccome per alcuni campi scientifici la strumentazione è particolarmente dispendiosa, pur fornendo il territorio di distaccamenti locali per garantire opportunità a tutti.
 Questi enti infine potrebbero collaborare tra di loro, processo che costituisce la base del progresso scientifico.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM2NTQ3MzYsNTgzMTg2ODcyLDE4Mj
-U5NTE3Niw4Njc0OTMwMzYsMTIwMzQxNTU2LC0xNTE5OTU1NzMz
-LC01ODgwMDc0OTQsMTgyMzY5MzY3NywtMzI5Njk0MDM4LDg0Mz
-A5MDI3MiwtNDA5MjYzMDc1LC0xMzM2MjU1NjQ4LC00NDU2NDA4
-MzMsLTc3MDcwMzMwNSwxMDQ3MzEyODgzLC0xMzEzNDA4MTAzXX
-0=
+eyJoaXN0b3J5IjpbMTA1NzQ4MzY4NiwtMTE1MzY1NDczNiw1OD
+MxODY4NzIsMTgyNTk1MTc2LDg2NzQ5MzAzNiwxMjAzNDE1NTYs
+LTE1MTk5NTU3MzMsLTU4ODAwNzQ5NCwxODIzNjkzNjc3LC0zMj
+k2OTQwMzgsODQzMDkwMjcyLC00MDkyNjMwNzUsLTEzMzYyNTU2
+NDgsLTQ0NTY0MDgzMywtNzcwNzAzMzA1LDEwNDczMTI4ODMsLT
+EzMTM0MDgxMDNdfQ==
 -->
