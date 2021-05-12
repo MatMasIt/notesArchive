@@ -28,11 +28,11 @@ Il termine tecnico "governance" a r. 47 denota l'insieme di regole e procedure c
 A r. 63 viene nominato il "Piano Amaldi", come alternativa al piano di Boeri e Perotti, e infine a r.74 con una efficace metafora i centri di ricerca prodotti dalla riforma che l'autrice vuole contestare sono equiparati a "feudi dorati", isolati dalla realtà esterna.
 
 ### Produzione
- In italia spesso vi è un persistente problema di gestione non solo dei fondi pubblici, ma delle informazioni a disposizione della pubblica Amministrazione, quando questi spesso sono la risorsa più 
- Elena Cat
+ In italia spesso vi è un persistente problema di gestione non solo dei fondi pubblici, ma delle informazioni a disposizione della pubblica Amministrazione, quando questi spesso sono la risorsa più preziosa di cui dispongono.
+ Elena Cattaneo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTIxNzkyMTUsLTMyOTY5NDAzOCw4ND
-MwOTAyNzIsLTQwOTI2MzA3NSwtMTMzNjI1NTY0OCwtNDQ1NjQw
-ODMzLC03NzA3MDMzMDUsMTA0NzMxMjg4MywtMTMxMzQwODEwM1
-19
+eyJoaXN0b3J5IjpbMTgyMzY5MzY3NywtMzI5Njk0MDM4LDg0Mz
+A5MDI3MiwtNDA5MjYzMDc1LC0xMzM2MjU1NjQ4LC00NDU2NDA4
+MzMsLTc3MDcwMzMwNSwxMDQ3MzEyODgzLC0xMzEzNDA4MTAzXX
+0=
 -->
