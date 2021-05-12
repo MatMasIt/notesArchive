@@ -66,8 +66,11 @@ Luce interna della torcia accentua senso di profondità
 	 posti su un unico pian come freci antichi
 	 ambiente scuro,a angosciante e vuoto
 	 gioco di sguardi e movimenti
-	 cristo richiama lazzaro, che pur colpito dalla luce salvifica è 
+	 cristo richiama lazzaro, che pur colpito dalla luce salvifica è rigido come ub cadavere
+	 mano sinistra di Lazzaro indica ossa, richiamo alla morte
+	 Caravaggio inseristce dietro la mano di Cristo un suo autoritratto, mentre lo guarda
 	* David con la testa di Golia
+	Auto
 * **Bernini**
 	* David
 	* Apollo e Daphne
@@ -86,8 +89,8 @@ Luce interna della torcia accentua senso di profondità
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODY1NTMsLTE3NzUyNTMwMzEsMjA1Mj
-Q4MTcxLDI5MzAwMTY3Nyw0MzA1MzUyMjIsMTMwNDczNDYzMywx
-MTc3ODcwNzc5LC01NzMzNjc0NCwxOTY1NjI5ODUsMjA2Mzk3MD
-c2LC0yMTAyMzUxMjgyXX0=
+eyJoaXN0b3J5IjpbMTAwOTM5OTE5MiwtMTc3NTI1MzAzMSwyMD
+UyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMz
+LDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
+cwNzYsLTIxMDIzNTEyODJdfQ==
 -->
