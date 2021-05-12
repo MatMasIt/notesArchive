@@ -32,6 +32,8 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 		Pietro, primo potenfice inserito solo in un secondo momento
 	* La crocifissione di S. Pietro
 	 Chiesa di Santa Maria del popolo
+	 Tre aguzzini sollevano faticosamente San Pietro, inchiodato a testa in giù
+	 Incrocio di linee oblique tra sfor
 	* La conversione di S. Paolo
 	Chiesa di Santa Maria del Popolo
 	* p. 814 La morte della vergine
@@ -57,6 +59,7 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NT
-YyOTg1LDIwNjM5NzA3NiwtMjEwMjM1MTI4Ml19
+eyJoaXN0b3J5IjpbMTQxNDg5OTUzMCwxMTc3ODcwNzc5LC01Nz
+MzNjc0NCwxOTY1NjI5ODUsMjA2Mzk3MDc2LC0yMTAyMzUxMjgy
+XX0=
 -->
