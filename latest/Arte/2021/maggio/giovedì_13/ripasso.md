@@ -138,6 +138,12 @@ Trianfolo equilatero con angoli tagliati
 Semicerchi covessi
 Lesene giganti, compressione e dilatazione di volumi e asse
 cornicione mistilineo e aggettante
+Appoggio cupola con finestre
+decorazioni a studcco bianche
+Finestre + lanternino
+Lanternino: fastigio
+
+Esterno: 
 * **Pietro da Cortona**
 	* p.847 Chiesa dei Santi Luca e Martina
 * **Baldassarre Longhena**
@@ -148,7 +154,7 @@ cornicione mistilineo e aggettante
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzE3NTIyNiwtMTc3NTI1MzAzMSwyMD
+eyJoaXN0b3J5IjpbMTIxODkwMjUyMCwtMTc3NTI1MzAzMSwyMD
 UyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMz
 LDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
 cwNzYsLTIxMDIzNTEyODJdfQ==
