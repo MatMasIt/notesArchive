@@ -83,6 +83,13 @@ $\Delta S=-\frac{Q}{T}$
 
 
 		Il calore va dal caldo verso il freddo a causa dell'entropia
+
+# Teoria cinetica dei gas perfetti
+
+$pV=nRT$ equazione di stato
+
+Per un gas che si espande nel vuoto:
+$\Delta S= nRlg\frac{V_{2}}{V_{1}]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTA1Njc1XX0=
+eyJoaXN0b3J5IjpbLTkyODMzODQ4N119
 -->
