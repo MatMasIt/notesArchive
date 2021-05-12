@@ -51,8 +51,10 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	Fisionomia spontanea, abiti  semolici
 	grade telo rosso scenografico
 	Luce cacravaggesca allude alla grazia divina
-
+Mestizia e tristezza di Maria irrimediabilmente morta, non ritratta metre ascende al celo come da tradizione, quindi quadro riteuto indecoroso
 	* Sette opere di misericordia
+	* Napoli
+	* 
 	* Resurrezione di Lazzaro
 	* David con la testa di Golia
 * **Bernini**
@@ -73,8 +75,8 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDM0NDcxMywyMDUyNDgxNzEsMjkzMD
-AxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMzLDExNzc4NzA3Nzks
-LTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOTcwNzYsLTIxMDIzNT
-EyODJdfQ==
+eyJoaXN0b3J5IjpbLTE5NjI2Nzk5NTIsMjA1MjQ4MTcxLDI5Mz
+AwMTY3Nyw0MzA1MzUyMjIsMTMwNDczNDYzMywxMTc3ODcwNzc5
+LC01NzMzNjc0NCwxOTY1NjI5ODUsMjA2Mzk3MDc2LC0yMTAyMz
+UxMjgyXX0=
 -->
