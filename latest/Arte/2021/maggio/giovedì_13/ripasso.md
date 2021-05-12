@@ -22,8 +22,10 @@
 * **Baldassarre Longhena**
 	* p.848 Ca' Pesaro
 	* Chiesa di Santa Maria dellla Salute
-* 
+* **Guarino Guarini**
+	* Cappella della Sindone
+	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MTQ5OTQ1XX0=
+eyJoaXN0b3J5IjpbLTIxMDIzNTEyODJdfQ==
 -->
