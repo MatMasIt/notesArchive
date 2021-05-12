@@ -28,9 +28,12 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 		La luce è protagonista, che proviene dalla finestranon chiusa 
 		Chiaroscuro evidenzia le reazionei dei personaggi
 		Gerarchia visiva: spostamendo da dx a sx da Cristo a matteo
-		La luce è la grazia divina, che come illimina gli uomini, e in questo caso la chiamata di matte
+		La luce è la grazia divina, che come illimina gli uomini, e in questo caso la chiamata di Matteo
+		Pietro, primo potenfice inserito solo in un secondo momento
 	* La crocifissione di S. Pietro
+	 Chiesa di Santa Maria del popolo
 	* La conversione di S. Paolo
+	Chiesa di Santa Maria del Popolo
 	* p. 814 La morte della vergine
 	* Sette opere di misericordia
 	* Resurrezione di Lazzaro
@@ -54,6 +57,6 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUzOTcxNywtNTczMzY3NDQsMTk2NT
+eyJoaXN0b3J5IjpbMTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NT
 YyOTg1LDIwNjM5NzA3NiwtMjEwMjM1MTI4Ml19
 -->
