@@ -147,9 +147,15 @@ Esterno: doppio orbine di aperture
 due ali porticate
 Ritmo ascendente
 
-Tiburio  scandito da paraste intervallate a finestre, che avvolge la parte 
+Tiburio  scandito da paraste intervallate a finestre, che avvolge la parte inferiore della cupola, raggiera di contrafforti
+
+Fastigio spiraliforme elicoidale, corona metallica con sfera dorata sormontata dallacroce
+
+Edificio stravagante, gotiheggiante, visto come eccesso ti Borromini
 * **Pietro da Cortona**
 	* p.847 Chiesa dei Santi Luca e Martina
+	Rom
+	
 * **Baldassarre Longhena**
 	* p.848 Ca' Pesaro
 	* Chiesa di Santa Maria dellla Salute
@@ -158,8 +164,8 @@ Tiburio  scandito da paraste intervallate a finestre, che avvolge la parte
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ1MzM2NCwtMTc3NTI1MzAzMSwyMD
-UyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMz
-LDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
-cwNzYsLTIxMDIzNTEyODJdfQ==
+eyJoaXN0b3J5IjpbLTIwMTI0MTk4NDgsLTE3NzUyNTMwMzEsMj
+A1MjQ4MTcxLDI5MzAwMTY3Nyw0MzA1MzUyMjIsMTMwNDczNDYz
+MywxMTc3ODcwNzc5LC01NzMzNjc0NCwxOTY1NjI5ODUsMjA2Mz
+k3MDc2LC0yMTAyMzUxMjgyXX0=
 -->
