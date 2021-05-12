@@ -73,9 +73,12 @@ Luce interna della torcia accentua senso di profondità
 	Ritorno a Napoli
 	Autoritratto (testa di Golia)
 	Rughe solcano fronte e bocca aperta, smorfia di dolore
-	Tonalità cuper, una
+	Tonalità cuper, una pennellata sfrangiata
 * **Bernini**
 	* David
+	Momento di massima tensione nell'episodio biblico
+	faccia  corrucciat, ricopia il suo volto con specchio
+	
 	* Apollo e Daphne
 	* Il baldacchino
 	* Piazza San Pietro
@@ -92,8 +95,8 @@ Luce interna della torcia accentua senso di profondità
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1MzQwNDEyLC0xNzc1MjUzMDMxLDIwNT
-I0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIyLDEzMDQ3MzQ2MzMs
-MTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5Nz
-A3NiwtMjEwMjM1MTI4Ml19
+eyJoaXN0b3J5IjpbLTExMjE4OTk2MTUsLTE3NzUyNTMwMzEsMj
+A1MjQ4MTcxLDI5MzAwMTY3Nyw0MzA1MzUyMjIsMTMwNDczNDYz
+MywxMTc3ODcwNzc5LC01NzMzNjc0NCwxOTY1NjI5ODUsMjA2Mz
+k3MDc2LC0yMTAyMzUxMjgyXX0=
 -->
