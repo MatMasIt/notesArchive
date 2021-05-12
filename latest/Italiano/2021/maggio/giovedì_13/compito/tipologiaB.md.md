@@ -28,6 +28,7 @@ Il termine tecnico "governance" a r. 47 denota l'insieme di regole e procedure c
 A r. 63 viene nominato il "Piano Amaldi", come alternativa al piano di Boeri e Perotti, e infine a r.74 con una efficace metafora i centri di ricerca prodotti dalla riforma che l'autrice vuole contestare sono equiparati a "feudi dorati", isolati dalla realtà esterna.
 
 ### Produzione
+
  In Italia spesso vi è un persistente problema di gestione non solo dei fondi pubblici, ma delle informazioni a disposizione della pubblica Amministrazione, quando queste spesso sono la risorsa più preziosa di cui si dispone.
 Elena Cattaneo sostiene che i fondi pubblici vadano destinati agli enti già esistenti, che però appartengono ad un "sistema complesso e frammentato".
 Per poter pianificare e attuare politiche efficienti, occorre avere padronanza di conoscenze riguardo al campo di azione: al giorno d'oggi è imperativo poter fruire dei dati sul funzionamento dello Stato in modo rapido e capillare.
@@ -36,11 +37,11 @@ Uno strumento simile infatti risulterebbe utilissimo nel problema dell'assegnazi
 Dai risultati ottenuti si potrebbe meglio stabilire l'organizzazione dei poli scientifici per massimizzare la loro accesibilità e la loro eccellenz, due aspetti che vanno contemperati.
 La strategia opportuna potrebbe essere ibrida: distribuire proporzionalmente le risorse tra grandi centri e sedi locali per diversificare le opportunità offerte alla popolazione.
 Ciò preserverebbe la ricerca in modo ottimale, siccome per alcuni campi scientifici la strumentazione è particolarmente dispendiosa, ma fornirebbe il territorio di distaccamenti locali per un grande numero di persone.
-Questi enti infine potrebbero collaborare tra di loro, processo che è comunqula base del progresso scientifico
+Questi enti infine potrebbero collaborare tra di loro, processo che costituisce la base del progresso scientifico.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjMyOTg3OSwxODI1OTUxNzYsODY3ND
-kzMDM2LDEyMDM0MTU1NiwtMTUxOTk1NTczMywtNTg4MDA3NDk0
-LDE4MjM2OTM2NzcsLTMyOTY5NDAzOCw4NDMwOTAyNzIsLTQwOT
-I2MzA3NSwtMTMzNjI1NTY0OCwtNDQ1NjQwODMzLC03NzA3MDMz
-MDUsMTA0NzMxMjg4MywtMTMxMzQwODEwM119
+eyJoaXN0b3J5IjpbNTgzMTg2ODcyLDE4MjU5NTE3Niw4Njc0OT
+MwMzYsMTIwMzQxNTU2LC0xNTE5OTU1NzMzLC01ODgwMDc0OTQs
+MTgyMzY5MzY3NywtMzI5Njk0MDM4LDg0MzA5MDI3MiwtNDA5Mj
+YzMDc1LC0xMzM2MjU1NjQ4LC00NDU2NDA4MzMsLTc3MDcwMzMw
+NSwxMDQ3MzEyODgzLC0xMzEzNDA4MTAzXX0=
 -->
