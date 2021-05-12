@@ -78,8 +78,14 @@ Luce interna della torcia accentua senso di profondità
 	* David
 	Momento di massima tensione nell'episodio biblico
 	faccia  corrucciat, ricopia il suo volto con specchio
-	
+	resa dell'azione, stupore, meraviglia
+	fatta per essere vista frontalmente,con spettatori al posto di Golia
 	* Apollo e Daphne
+	Metamorfosi, Daphne si accorge con orrore didiventare corteccia
+	Tocco di Apollo, sconcertato
+	Assottigliarsi del marmo per leggerezza dei capelli
+	Marmo lucido per la pelle dei giovani, levigato e luminoso
+	impresa 
 	* Il baldacchino
 	* Piazza San Pietro
 * **Borromini**
@@ -95,7 +101,7 @@ Luce interna della torcia accentua senso di profondità
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE4OTk2MTUsLTE3NzUyNTMwMzEsMj
+eyJoaXN0b3J5IjpbLTIwODU4NDI1NzMsLTE3NzUyNTMwMzEsMj
 A1MjQ4MTcxLDI5MzAwMTY3Nyw0MzA1MzUyMjIsMTMwNDczNDYz
 MywxMTc3ODcwNzc5LC01NzMzNjc0NCwxOTY1NjI5ODUsMjA2Mz
 k3MDc2LC0yMTAyMzUxMjgyXX0=
