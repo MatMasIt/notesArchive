@@ -203,12 +203,16 @@ sacerdote, matematico, geometra, astronoo, filosofo
 	Corpo cilindrico sormontato da cupola emisferica
 	cerchio+triangolo
 	Guarini colloca ai vertici del triancolo gli ingressi
-	internio: forti effetti chiaros
+	internio: forti effetti chiaroscuro
+	Zona superiore luminosa rispetto a quella inferiore
+	Tiburio con sei finestroni, cupola con finestre circolari
+	Base circolare,
+	tre pennacchi con tre arconi
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTYwMTIyMywtMTc3NTI1MzAzMSwyMD
-UyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMz
-LDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
-cwNzYsLTIxMDIzNTEyODJdfQ==
+eyJoaXN0b3J5IjpbLTEzNDI2ODU1MTYsLTE3NzUyNTMwMzEsMj
+A1MjQ4MTcxLDI5MzAwMTY3Nyw0MzA1MzUyMjIsMTMwNDczNDYz
+MywxMTc3ODcwNzc5LC01NzMzNjc0NCwxOTY1NjI5ODUsMjA2Mz
+k3MDc2LC0yMTAyMzUxMjgyXX0=
 -->
