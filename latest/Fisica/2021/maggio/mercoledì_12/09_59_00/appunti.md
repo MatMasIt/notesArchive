@@ -201,7 +201,7 @@ Per un gas $N$ è simile a $N_{A}$
 In termodinamica non si seguono gli atoi individuali, ma solo $V,N$, la configurazione macroscopica
 
 ## Spiegazione di Boltzmann
-Il gas si espande perchè il numero delle disposizioni possibili degli $N$ atomi (le configurazioni m
+Il gas si espande perchè il numero delle disposizioni possibili degli $N$ atomi (le configurazioni macroscopiche) cresce con $V$ moltoo rapidamente (da $V_{1} a V_{2}$) , rendendo altamente improanile il ovimento inverso con un $t \gg t_{U}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ3NjczNzJdfQ==
+eyJoaXN0b3J5IjpbODU3NTI0MTZdfQ==
 -->
