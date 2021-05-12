@@ -236,7 +236,9 @@ $E=hv\rightarrow {\gamma CI} \gg n_{\gamma S}$
 
 > Il numero di fotoni emesi dalla Terra è molto più grande del numero di fotoni che ci arriva dal sole, sono multipli della frequenza $hv$, Terra emette calore
 
- 
+ # Sommario
+ * dalla termodinamica classica esiste una funzione di stato, $Entropia \rightarrow S(p,V,T)$ che nella trasformazione di un sistema isolato, NNdiminuisce mai
+ * In un gas fatto di atomi/m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAzMTA2MTldfQ==
+eyJoaXN0b3J5IjpbMTgyNDMyNzA5OV19
 -->
