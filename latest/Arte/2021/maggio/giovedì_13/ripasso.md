@@ -46,6 +46,7 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	Rifiutate per l'eccessivo realismo
 	Sfera umana e divina troppo vicine
 	* p. 814 La morte della vergine
+	* Teatrodella morte,
 	* Sette opere di misericordia
 	* Resurrezione di Lazzaro
 	* David con la testa di Golia
@@ -67,7 +68,7 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0Nz
-M0NjMzLDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwy
-MDYzOTcwNzYsLTIxMDIzNTEyODJdfQ==
+eyJoaXN0b3J5IjpbMTI5MDY1NjAxLDI5MzAwMTY3Nyw0MzA1Mz
+UyMjIsMTMwNDczNDYzMywxMTc3ODcwNzc5LC01NzMzNjc0NCwx
+OTY1NjI5ODUsMjA2Mzk3MDc2LC0yMTAyMzUxMjgyXX0=
 -->
