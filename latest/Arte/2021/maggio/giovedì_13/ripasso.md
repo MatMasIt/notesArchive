@@ -186,13 +186,18 @@ Edificio stravagante, gotiheggiante, visto come eccesso ti Borromini
 	11 progetti 
 	 vince longhena
 	All'imbocco del canal Grande
+Omaggio a architettura bizantina: ppianta centrale
+tre ambienti su asse olngitudinale
+grande corpo ottagonale con deambulatorio e sei cappelle radiali, un presbiterio e due absidi+ coro con altare maggiore
+Spazio fortemente centralizzato
+Ginestre inondano di luce, 
 * **Guarino Guarini**
 	* Cappella della Sindone
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODk4MDYzOCwtMTc3NTI1MzAzMSwyMD
-UyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMz
-LDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
-cwNzYsLTIxMDIzNTEyODJdfQ==
+eyJoaXN0b3J5IjpbMzIzMjQzMzI4LC0xNzc1MjUzMDMxLDIwNT
+I0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIyLDEzMDQ3MzQ2MzMs
+MTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5Nz
+A3NiwtMjEwMjM1MTI4Ml19
 -->
