@@ -34,12 +34,13 @@ Per poter pianificare e attuare politiche efficienti, occorre avere padronanza d
 Per quanto sia una complessa, l'informatizzazione di tutti i dati negli archivi statali in un formato chiaro, univoco, regolamentato, interoperabile e la pubblicazione su una piattaforma che permetta livelli di accesso progressivi sarebbe il più valido appoggio ad un ampio spettro di decisioni, soprattutto riguardo agli investimenti e potrebbe essere anche un valido mezzo di trasparenza verso i cittadini.
 Uno strumento simile infatti risulterebbe utilissimo nel problema dell'assegnazione dei contributi per la ricerca: si potrebbe interrogare un enorme archivio su una quantità di informazioni: i fondi attualmente stanziati, i risultati conseguiti dai centri di ricerca, la demografica di chi li frequenta, il numero di richieste da parte di giovani meritevoli, eccetera.
 Dai risultati ottenuti si potrebbe meglio stabilire l'organizzazione dei poli scientifici per massimizzare la loro accesibilità e la loro eccellenz, due aspetti che vanno contemperati.
-In conclusione, la strategia opportuna potrebbe essere ibrida: distribuire proporzionalmente le risorse tra grandi centri e sedi locali per diversificare le opportunità offerte alla popolazione.
-Ciò preserverebbe la ricerca in modo ottimale, siccome per alcuni campi scientifici la strumentazione è particolarmente dispendiosa, ma fornirebbe il territorio di distaccamenti locali pronti ad accoglir
+La strategia opportuna potrebbe essere ibrida: distribuire proporzionalmente le risorse tra grandi centri e sedi locali per diversificare le opportunità offerte alla popolazione.
+Ciò preserverebbe la ricerca in modo ottimale, siccome per alcuni campi scientifici la strumentazione è particolarmente dispendiosa, ma fornirebbe il territorio di distaccamenti locali per un grande numero di persone.
+Questi enti infine potrebbero collaborare tra di loro, processo che è comunqula base del progresso scientifico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU3NjQ4MTQsMTgyNTk1MTc2LDg2Nz
-Q5MzAzNiwxMjAzNDE1NTYsLTE1MTk5NTU3MzMsLTU4ODAwNzQ5
-NCwxODIzNjkzNjc3LC0zMjk2OTQwMzgsODQzMDkwMjcyLC00MD
-kyNjMwNzUsLTEzMzYyNTU2NDgsLTQ0NTY0MDgzMywtNzcwNzAz
-MzA1LDEwNDczMTI4ODMsLTEzMTM0MDgxMDNdfQ==
+eyJoaXN0b3J5IjpbMTg5MjMyOTg3OSwxODI1OTUxNzYsODY3ND
+kzMDM2LDEyMDM0MTU1NiwtMTUxOTk1NTczMywtNTg4MDA3NDk0
+LDE4MjM2OTM2NzcsLTMyOTY5NDAzOCw4NDMwOTAyNzIsLTQwOT
+I2MzA3NSwtMTMzNjI1NTY0OCwtNDQ1NjQwODMzLC03NzA3MDMz
+MDUsMTA0NzMxMjg4MywtMTMxMzQwODEwM119
 -->
