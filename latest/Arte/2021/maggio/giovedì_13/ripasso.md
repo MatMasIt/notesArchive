@@ -18,7 +18,10 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 		 Simboli cristologici: uva scura, fichi (sacrificiodi Gesù)
 	* p 810, La vocazione di san Matteo
 	Parte del ciclo decorativo (2 grandi tele) desinato alla cappella di famiglia di un cardinale
-	Pala rifiutata all'inizio per un eccessivo realismo 
+	Pala rifiutata all'inizio per un eccessivo realismo, segna affermazione di Caravaggio
+		* Descrizione 
+		Momento in cui Cristo scieglie Matteo come apodtolo
+		Matteo è un pubblicano e sta contando con i suoi compagni i soldi delle imposte
 	* La crocifissione di S. Pietro
 	* La conversione di S. Paolo
 	* p. 814 La morte della vergine
@@ -44,6 +47,6 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY2OTU0NDAsMTk2NTYyOTg1LDIwNj
-M5NzA3NiwtMjEwMjM1MTI4Ml19
+eyJoaXN0b3J5IjpbLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
+cwNzYsLTIxMDIzNTEyODJdfQ==
 -->
