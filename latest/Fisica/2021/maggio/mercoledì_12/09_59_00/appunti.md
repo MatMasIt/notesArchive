@@ -1,7 +1,12 @@
+# Lezione di Fisica (3° ora)
+
+## mercoledì 12 maggio 2021, 10:00:00
+## In collegamento con la Normale, Entropia
+
+### Presentazione della normale
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNjg2ODYwNDg1XX0=
 -->
