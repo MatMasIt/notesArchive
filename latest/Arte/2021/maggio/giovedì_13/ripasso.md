@@ -46,7 +46,7 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	Rifiutate per l'eccessivo realismo
 	Sfera umana e divina troppo vicine
 	* p. 814 La morte della vergine
-	* Teatrodella morte,
+	* Teatrodella morte, chiesa di Santa Maria Dela Scala e subito rimossa (ma impressiona Rubens)
 	* Sette opere di misericordia
 	* Resurrezione di Lazzaro
 	* David con la testa di Golia
@@ -68,7 +68,7 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDY1NjAxLDI5MzAwMTY3Nyw0MzA1Mz
+eyJoaXN0b3J5IjpbMjA1MjQ4MTcxLDI5MzAwMTY3Nyw0MzA1Mz
 UyMjIsMTMwNDczNDYzMywxMTc3ODcwNzc5LC01NzMzNjc0NCwx
 OTY1NjI5ODUsMjA2Mzk3MDc2LC0yMTAyMzUxMjgyXX0=
 -->
