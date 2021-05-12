@@ -143,7 +143,11 @@ decorazioni a studcco bianche
 Finestre + lanternino
 Lanternino: fastigio
 
-Esterno: 
+Esterno: doppio orbine di aperture
+due ali porticate
+Ritmo ascendente
+
+Tiburio  scandito da paraste intervallate a finestre, che avvolge la parte 
 * **Pietro da Cortona**
 	* p.847 Chiesa dei Santi Luca e Martina
 * **Baldassarre Longhena**
@@ -154,7 +158,7 @@ Esterno:
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODkwMjUyMCwtMTc3NTI1MzAzMSwyMD
+eyJoaXN0b3J5IjpbLTEwNzQ1MzM2NCwtMTc3NTI1MzAzMSwyMD
 UyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMz
 LDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
 cwNzYsLTIxMDIzNTEyODJdfQ==
