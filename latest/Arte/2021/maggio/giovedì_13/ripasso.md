@@ -159,19 +159,25 @@ Edificio stravagante, gotiheggiante, visto come eccesso ti Borromini
 	Interno: alternarsi di sporgenze e rientranze, movimento impresso alle pareti
 	pilasti e colonne ioniche innalzati agli incroci dei bracci
 	domina il bianco
-	No dipindi, ma stucchi agli angoli 
+	No dipinti, ma stucchi agli angoli 
 	la luce proviene da finestre nella cupola
-	
 	Facciata
+	Lievemente convessa
+	accentuata molto di più nell'abside
+	due ordini verticali, ma alta e streatta, compressa tra contrafforti
+	lesene e colonne
+	stile composto e meno ardito di bernini e Borromini
 * **Baldassarre Longhena**
 	* p.848 Ca' Pesaro
+	Luce e acuqua tendono a smaterializzare l'architettura
+	* du
 	* Chiesa di Santa Maria dellla Salute
 * **Guarino Guarini**
 	* Cappella della Sindone
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTMyNjc5LC0xNzc1MjUzMDMxLDIwNT
+eyJoaXN0b3J5IjpbNzg1MDIxMzgwLC0xNzc1MjUzMDMxLDIwNT
 I0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIyLDEzMDQ3MzQ2MzMs
 MTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5Nz
 A3NiwtMjEwMjM1MTI4Ml19
