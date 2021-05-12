@@ -130,7 +130,14 @@ Colonne ioniche
 	Raccomandato da Bernini per sbolognarlo da qualche parte
 Palazzo della Sapienza da completare
 sul fondo del cortile del palazzo v'è una chiesa
-spazio 
+spazio fluido: pianta centrale
+incastro dei volumi
+Archi  che portano alla facciata convessa
+Vincolo edilizio
+Trianfolo equilatero con angoli tagliati
+Semicerchi covessi
+Lesene giganti, compressione e dilatazione di volumi e asse
+cornicione mistilineo e aggettante
 * **Pietro da Cortona**
 	* p.847 Chiesa dei Santi Luca e Martina
 * **Baldassarre Longhena**
@@ -141,8 +148,8 @@ spazio
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyODkxNjU0LC0xNzc1MjUzMDMxLDIwNT
-I0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIyLDEzMDQ3MzQ2MzMs
-MTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5Nz
-A3NiwtMjEwMjM1MTI4Ml19
+eyJoaXN0b3J5IjpbLTg0NzE3NTIyNiwtMTc3NTI1MzAzMSwyMD
+UyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMz
+LDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
+cwNzYsLTIxMDIzNTEyODJdfQ==
 -->
