@@ -54,12 +54,14 @@ a.
     AND NomeCorso=:nomeCorso
 b. 
 
-    SELECT SUM(durataModulo) FROM Corsi, Composti, Moduli WHERE Corsi.CodiceCorso=Composti.CodiceCorso AND Composti.CodiceModulo=Moduli.CodiceModulo AND NomeCorso=:nomeCorso
+    SELECT SUM(Moduli.durataModulo) FROM Corsi, Composti, Moduli WHERE Corsi.CodiceCorso=Composti.CodiceCorso AND Composti.CodiceModulo=Moduli.CodiceModulo AND NomeCorso=:nomeCorso
 
 c.
 
-    SELECT SUM(ModuldurataModulo) FROM Corsi, Composti, Moduli WHERE Corsi.CodiceCorso=Composti.CodiceCorso AND Composti.CodiceModulo=Moduli.CodiceModulo AND NomeCorso=:nomeCorso
+    SELECT DISTINCT Corsi.nomeCorso FROM Corsi, Composti, Moduli WHERE Corsi.CodiceCorso=Composti.CodiceCorso AND Composti.CodiceModulo=Moduli.CodiceModulo AND NomeCorso=:nomeCorso 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzc3ODA4LC0xMTYxMTY5MjcxXX0=
+eyJoaXN0b3J5IjpbLTE5MzYxMzEwNTUsLTExNjExNjkyNzFdfQ
+==
 -->
