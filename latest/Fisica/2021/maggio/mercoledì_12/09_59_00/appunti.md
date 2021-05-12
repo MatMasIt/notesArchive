@@ -113,7 +113,13 @@ La teoria cinetica dei gas da ragione della legge empirica di Boyle
 # L'entropia decondo Boltzmann
 Ludwig Boltzmann 1844-1906
 
-dirw
+> Se un gas (un sistema) è fatto di atomi/molecole come può l'entropia crescere sempre se il mondo degli atomi NON conosce la fraccia del tempo?
+
+Moti atomo
+* $A\rightarrow B$
+* $B\rightarrow A$
+
+Se 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg1NDMwN119
+eyJoaXN0b3J5IjpbLTc4NDA2Nzk5OV19
 -->
