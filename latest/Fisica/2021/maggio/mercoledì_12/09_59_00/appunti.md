@@ -225,10 +225,14 @@ La **luce del sole** $(\gamma_{S})\rightarrow$ riserve di bassa entropia + calor
 
 $\gamma$: fotoni, quandi di energia elettromagnetica
 
+Sole       Raggi($\gamma_{S}$) terra riemette i raggi ($\gamma
+
+
 $E=hv\rightarrow {\gamma CI} \gg n_{\gamma S}$
 
 * $CO_{2}+\gamma_{S}\rightarrow C+ O_{2}+\gamma_{CI}$ (fotosintesi)
-* $C+\gamma_{S}\rightarrow vita\,delle\,piante+y_{CI$  
+* $C+\gamma_{S}\rightarrow vita\,delle\,piante+y_{CI}$
+* $piante\,(cibo)+O_{2}+\gamma_{S}\rightarrow vita\,degli\,animali+CO_{2}+H_{2}O+\gamma_{CI}$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTU2MTc0MV19
+eyJoaXN0b3J5IjpbOTYwOTUyNTM5XX0=
 -->
