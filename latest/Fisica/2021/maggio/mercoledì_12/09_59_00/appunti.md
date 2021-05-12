@@ -204,7 +204,9 @@ In termodinamica non si seguono gli atoi individuali, ma solo $V,N$, la configur
 Il gas si espande perchè il numero delle disposizioni possibili degli $N$ atomi (le configurazioni macroscopiche) cresce con $V$ moltoo rapidamente (da $V_{1} a V_{2}$) , rendendo altamente improanile il ovimento inverso con un $t \gg t_{U}$
 
 
+> Se $V_{0}$ è lo spazio minimo occupabile da uan delle $N$molecole di un gas di volume $V$, quante sono le disposizioni possibili delle molecole?
+$Q=(\frac{V}{V_{0}})(\frac{V}$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc5NjIxOTRdfQ==
+eyJoaXN0b3J5IjpbLTE1NDI3OTAwNTJdfQ==
 -->
