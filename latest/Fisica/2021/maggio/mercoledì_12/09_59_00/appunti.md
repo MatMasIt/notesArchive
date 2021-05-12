@@ -158,8 +158,13 @@ L'entropia è una misura delll'informazione mancante (dell'incertezza)
 
 $$
 S(A_{1})=k_{s}\log2\\
-S(a_{2}=k_{s}\log2\\
+S(A_{2})=k_{s}\log12\\
+S(A_{1}UA_{2})=k_{s}\log24\\
 $$
+
+Perchè il logaritmo?
+
+$S(A_{1}U A_{2})=k_{s}(\log2+\log 12)=S(A_{1})+S_{A
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzQ4MTM1NV19
+eyJoaXN0b3J5IjpbMTk5MzgzNjYzN119
 -->
