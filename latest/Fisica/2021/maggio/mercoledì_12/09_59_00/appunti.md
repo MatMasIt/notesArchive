@@ -94,8 +94,13 @@ $\Delta S= nRlg\frac{V_{2}}{V_{1}}$
 ## Gli urti delle molecole contro le pareti
 $p=\frac{2}{3}\frac{N}{V}E_{cin}$
 
+$R=\frac{N}{n}k=N_{A}k$
+
 ## L'energia cinetica media è proporzionale a T
-James Clerk Maxwell, 1831
+James Clerk Maxwell, 1831-1879
+$E_{cin}=\frac{3}{2}kT$
+
+Numero di molecole per intervallo di velocità: forma caratteristica e universale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM3MzkyN119
+eyJoaXN0b3J5IjpbLTE5MTMxNTI2NDBdfQ==
 -->
