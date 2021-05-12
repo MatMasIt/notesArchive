@@ -223,7 +223,12 @@ Dalla termodinamica classica, $\Delta S= nR\log\frac{V_{2}}{V_{1}}$
 
 La **luce del sole** $(\gamma_{S})\rightarrow$ riserve di bassa entropia + calore irraggiato $(\gamma_{CI})$+
 
-$E=hv\rightarrow {\gamma CI} \gg n_{\gamma$
+$\gamma$: fotoni, quandi di energia elettromagnetica
+
+$E=hv\rightarrow {\gamma CI} \gg n_{\gamma S}$
+
+* $CO_{2}+\gamma_{S}\rightarrow C+ O_{2}+\gamma_{CI}$ (fotosintesi)
+* $C+\gamma_{S}\rightarrow vita\,delle\,piante+y_{CI$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjI4NjgzM119
+eyJoaXN0b3J5IjpbMTk5MTU2MTc0MV19
 -->
