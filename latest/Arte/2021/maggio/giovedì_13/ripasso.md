@@ -190,13 +190,17 @@ Omaggio a architettura bizantina: ppianta centrale
 tre ambienti su asse olngitudinale
 grande corpo ottagonale con deambulatorio e sei cappelle radiali, un presbiterio e due absidi+ coro con altare maggiore
 Spazio fortemente centralizzato
-Ginestre inondano di luce, 
+Ginestre inondano di luce, giochi cromatici con intonaco bianco e pietra grigia
+Fondamenta palificate, cupola sarebbe troppo pesante
+Calotta emisferica di legno e piombo rivestitate, Cupola sarebbe stata troppo pesatnte
+Contrafforti a voluta
 * **Guarino Guarini**
 	* Cappella della Sindone
+	
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzMjQzMzI4LC0xNzc1MjUzMDMxLDIwNT
+eyJoaXN0b3J5IjpbMjgyNTc3OTEwLC0xNzc1MjUzMDMxLDIwNT
 I0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIyLDEzMDQ3MzQ2MzMs
 MTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5Nz
 A3NiwtMjEwMjM1MTI4Ml19
