@@ -13,8 +13,12 @@
 	* Apollo e Daphne
 	* Il baldacchino
 	* Piazza San Pietro
+* **Borromini**
 	* Chiesa di San Carlo alle Quattro fontane (con facciata)
 	* Chiesa di Sant'Ivo alla sapienza
+	* p 840 Basilica di San Giovanni in Laterano
+* **Pietro da C
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE4NzIyNjZdfQ==
+eyJoaXN0b3J5IjpbLTEzNDQxNzIyMV19
 -->
