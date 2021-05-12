@@ -174,8 +174,16 @@ $S=-k_{s}[p_{1}\log p_{1}+p_{2}\log p_{2}]=-k_{s}[p_{1}\log p_{1}+ (1-p_{1})\log
 
 Entropia di Shannon
 
-Se bianchi sta in 2 per certo $S=0$
-Se Bianchi sta 1 per certo 
+* SeBbianchi sta in 2 per certo $S=0$
+* Se Bianchi sta in 1 per certo $S=0$
+
+Nel caso di incertezza massima (ovvero $p_{1}=\frac12$) $S=1$
+
+Cambio della base della logaritmo
+
+$K_{s}=1, \log \rightarrow \log_{2}$
+
+$S=1 \right 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDk4NjgyN119
+eyJoaXN0b3J5IjpbLTQ2NDU4ODYzNV19
 -->
