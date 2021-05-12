@@ -54,7 +54,9 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 Mestizia e tristezza di Maria irrimediabilmente morta, non ritratta metre ascende al celo come da tradizione, quindi quadro riteuto indecoroso
 	* Sette opere di misericordia
    Napoli
-   In una sola tela le sei opere c
+   In una sola tela le sei opere citate dal Vanelo di Matteo + seppellire i morti, di grande attualità dopola carestia che aveva colpito la città.
+   Scena cuotidiana per i fedeli, ambientata in un angusto vicolo napoletano.
+Morto condotto alla sepoltura di cui si vedono solo i piedi
 	* Resurrezione di Lazzaro
 	* David con la testa di Golia
 * **Bernini**
@@ -75,7 +77,7 @@ Mestizia e tristezza di Maria irrimediabilmente morta, non ritratta metre ascend
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzgxNDg3NjIsMjA1MjQ4MTcxLDI5Mz
+eyJoaXN0b3J5IjpbLTE3NzUyNTMwMzEsMjA1MjQ4MTcxLDI5Mz
 AwMTY3Nyw0MzA1MzUyMjIsMTMwNDczNDYzMywxMTc3ODcwNzc5
 LC01NzMzNjc0NCwxOTY1NjI5ODUsMjA2Mzk3MDc2LC0yMTAyMz
 UxMjgyXX0=
