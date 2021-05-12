@@ -22,6 +22,7 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 		* Descrizione 
 		Momento in cui Cristo scieglie Matteo come apodtolo
 		Matteo è un pubblicano e sta contando con i suoi compagni i soldi delle imposte
+		Cris
 	* La crocifissione di S. Pietro
 	* La conversione di S. Paolo
 	* p. 814 La morte della vergine
@@ -47,6 +48,6 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
-cwNzYsLTIxMDIzNTEyODJdfQ==
+eyJoaXN0b3J5IjpbODkxMjg4NzAxLC01NzMzNjc0NCwxOTY1Nj
+I5ODUsMjA2Mzk3MDc2LC0yMTAyMzUxMjgyXX0=
 -->
