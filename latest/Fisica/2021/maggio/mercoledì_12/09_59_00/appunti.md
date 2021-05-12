@@ -70,7 +70,10 @@ il un sistema isolato non diminuisce mai
 $Entropia\rightarrow S(p,V,T)$
 
 
-	L'entropia di un sistema S1 non isolato pu
+L'entropia di un sistema $S_{1}$ non isolato può diminuire purchè sia compensata dall'aumentodi entropia di un altro sistema $S_{2}$ collegato
+
+$\Delta S=\Delta S_{1}+\Delta S_{2} \geq 0$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzMDU5Mzg0XX0=
+eyJoaXN0b3J5IjpbLTE2MjcyMzk2MjZdfQ==
 -->
