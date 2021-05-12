@@ -164,7 +164,13 @@ $$
 
 Perchè il logaritmo?
 
-$S(A_{1}U A_{2})=k_{s}(\log2+\log 12)=S(A_{1})+S_{A
+$S(A_{1}U A_{2})=k_{s}(\log2+\log 12)=S(A_{1})+S(A_{2})$
+proprietà dei logaritmi
+
+# Generalizzazione
+
+Cosa cambia se Bianchi ha una propensione $p_{1}\neq \frac12$ ad andare nella camera $1$?
+$S=-k_{s}[p_{1}\log p_{1}+p_{2}\log p_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzgzNjYzN119
+eyJoaXN0b3J5IjpbOTk2MzE3ODA4XX0=
 -->
