@@ -205,8 +205,12 @@ Il gas si espande perchè il numero delle disposizioni possibili degli $N$ atomi
 
 
 > Se $V_{0}$ è lo spazio minimo occupabile da uan delle $N$molecole di un gas di volume $V$, quante sono le disposizioni possibili delle molecole?
-$Q=(\frac{V}{V_{0}})(\frac{V}$
 
+$Q=(\frac{V}{V_{0}})(\frac{V}{V_{0}}-1)=(\frac{V}{V_{0}})^N$
+
+$p=\frac{1}{W}=(\frac{V_{0}}{V})^N$
+
+$S(V)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDI3OTAwNTJdfQ==
+eyJoaXN0b3J5IjpbLTE1ODc5Nzc1NjFdfQ==
 -->
