@@ -40,7 +40,8 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	Figure paiono rovesciarsi sullo spettatore
 	* La conversione di S. Paolo
 	Chiesa di Santa Maria del Popolo
-	
+	Apostolo illuminato, disarcionato e travolto, illuminato da luce divina
+	evento sacro vissuto nell'interiorità di Paolo, colpito dalla luce divina
 	* p. 814 La morte della vergine
 	* Sette opere di misericordia
 	* Resurrezione di Lazzaro
@@ -64,7 +65,7 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTAzNTk5LDEzMDQ3MzQ2MzMsMTE3Nz
+eyJoaXN0b3J5IjpbNDMwNTM1MjIyLDEzMDQ3MzQ2MzMsMTE3Nz
 g3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5NzA3Niwt
 MjEwMjM1MTI4Ml19
 -->
