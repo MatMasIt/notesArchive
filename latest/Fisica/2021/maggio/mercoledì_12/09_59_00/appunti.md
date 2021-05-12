@@ -63,7 +63,14 @@ $\frac{L}{Q} \ll 1-\frac{T_{1}}{T_{2}}$
 
 Rudolf Clasius 1822-1888
 
-Es
+## Esiste un'alttra funzione di stato: l'Entropia
+
+il un sistema isolato non diminuisce mai
+
+$Entropia\rightarrow S(p,V,T)$
+
+
+	L'entropia di un sistema S1 non isolato pu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NzcyNTM0XX0=
+eyJoaXN0b3J5IjpbMjIzMDU5Mzg0XX0=
 -->
