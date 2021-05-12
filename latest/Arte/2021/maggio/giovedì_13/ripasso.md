@@ -13,8 +13,11 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 		Grappoli d'uva con varie fasi di maturazione
 		Freschezza delle foglie
 		* Costruzione formale
-		 Volume reso dallo sfondo e dalla sporgenz
+		 Volume reso dallo sfondo e dalla sporgenza della canestra, vista frontalmente, inscivibile in un semicerchio
+		 * Significati
+		 Simboli cristologici: uva scura, fichi (sacrificiodi Gesù)
 	* p 810, La vocazione di san Matteo
+	* 
 	* La crocifissione di S. Pietro
 	* La conversione di S. Paolo
 	* p. 814 La morte della vergine
@@ -40,6 +43,6 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDExMTQsMjA2Mzk3MDc2LC0yMTAyMz
-UxMjgyXX0=
+eyJoaXN0b3J5IjpbMTk2NTYyOTg1LDIwNjM5NzA3NiwtMjEwMj
+M1MTI4Ml19
 -->
