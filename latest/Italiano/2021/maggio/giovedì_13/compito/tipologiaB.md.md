@@ -31,13 +31,13 @@ A r. 63 viene nominato il "Piano Amaldi", come alternativa al piano di Boeri e P
  In Italia spesso vi è un persistente problema di gestione non solo dei fondi pubblici, ma delle informazioni a disposizione della pubblica Amministrazione, quando queste spesso sono la risorsa più preziosa di cui si dispone.
 Elena Cattaneo sostiene che i fondi pubblici vadano destinati agli enti già esistenti, che però appartengono ad un "sistema complesso e frammentato".
 Per poter pianificare e attuare politiche efficienti, occorre avere padronanza di conoscenze riguardo al campo di azione: al giorno d'oggi è imperativo poter fruire dei dati sul funzionamento dello Stato in modo rapido e capillare.
-Per quanto sia una complessa, l'informatizzazione di tutti i dati negli archivi statali in un formato chiaro, univoco, regolamentato, interoperabile e la pubblicazione su una piattaforma decentralizzata e che permetta livelli di accesso progressivi potrebbe essere il più valido appoggio  ad un ampio spettro di decisioni, soprattutto riguardo agli investimenti e potrebbe essere anche un valido mezzo di trasparenza verso i cittadini.
-Uno strumento simile infatti potrebbe essere utilissimo nel problema dell'assegnazione dei contributi per la ricerca: si potrebbe interrogare un enorme archivio su una quantità di informazioni: i fondi attualmente stanziati, i risultati conseguiti dai centri di ricerca, la demografica di chi li frequenta, il numero di richieste da parte di giovani meritevoli, eccetera.
+Per quanto sia una complessa, l'informatizzazione di tutti i dati negli archivi statali in un formato chiaro, univoco, regolamentato, interoperabile e la pubblicazione su una piattaforma che permetta livelli di accesso progressivi sarebbe il più valido appoggio ad un ampio spettro di decisioni, soprattutto riguardo agli investimenti e potrebbe essere anche un valido mezzo di trasparenza verso i cittadini.
+Uno strumento simile infatti risulterebbe utilissimo nel problema dell'assegnazione dei contributi per la ricerca: si potrebbe interrogare un enorme archivio su una quantità di informazioni: i fondi attualmente stanziati, i risultati conseguiti dai centri di ricerca, la demografica di chi li frequenta, il numero di richieste da parte di giovani meritevoli, eccetera.
 Dai risultati ottenuti
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDU5NTAyOCwtMTUxOTk1NTczMywtNT
-g4MDA3NDk0LDE4MjM2OTM2NzcsLTMyOTY5NDAzOCw4NDMwOTAy
-NzIsLTQwOTI2MzA3NSwtMTMzNjI1NTY0OCwtNDQ1NjQwODMzLC
-03NzA3MDMzMDUsMTA0NzMxMjg4MywtMTMxMzQwODEwM119
+eyJoaXN0b3J5IjpbMTIwMzQxNTU2LC0xNTE5OTU1NzMzLC01OD
+gwMDc0OTQsMTgyMzY5MzY3NywtMzI5Njk0MDM4LDg0MzA5MDI3
+MiwtNDA5MjYzMDc1LC0xMzM2MjU1NjQ4LC00NDU2NDA4MzMsLT
+c3MDcwMzMwNSwxMDQ3MzEyODgzLC0xMzEzNDA4MTAzXX0=
 -->
