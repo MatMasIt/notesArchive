@@ -210,7 +210,11 @@ $Q=(\frac{V}{V_{0}})(\frac{V}{V_{0}}-1)=(\frac{V}{V_{0}})^N$
 
 $p=\frac{1}{W}=(\frac{V_{0}}{V})^N$
 
-$S(V)
+$S(V)=k\log(\frac{V}{V_{0}})^N=kN\log(\frac{V}{V_{0}})$
+
+> Quindi la variazione di entropia +
+> $\Delta(S_{1}\rightarrowS
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc5Nzc1NjFdfQ==
+eyJoaXN0b3J5IjpbLTEwNjkzMTk2MDFdfQ==
 -->
