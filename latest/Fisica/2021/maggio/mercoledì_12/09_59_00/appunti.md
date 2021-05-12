@@ -34,10 +34,15 @@ Corsi di Orientamento Universitario
 |Simboli|Nome|Scienziati|Fisica|
 |---------|-------|-----------|----|
 |$G$|Costante di Newton|Newton e Maxwell|Termodinamica|
-|$h$, costante di Planck|Planck|Meccanica quantistica|
-|$c$, velocità della luce
+|$h$|costante di Planck|Planck|Meccanica quantistica|
+|$\frac{1}{c}$|1 su velocità della luce|-|Relatività speciale|
+
+Termodinamic classica
 
 
+Sadi Carnot 1796-1832
+
+U(
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDc2NDAzMl19
+eyJoaXN0b3J5IjpbMTAwODk4NzE5M119
 -->
