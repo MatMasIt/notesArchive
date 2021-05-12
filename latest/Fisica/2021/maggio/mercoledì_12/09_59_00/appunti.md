@@ -170,7 +170,12 @@ proprietà dei logaritmi
 # Generalizzazione
 
 Cosa cambia se Bianchi ha una propensione $p_{1}\neq \frac12$ ad andare nella camera $1$?
-$S=-k_{s}[p_{1}\log p_{1}+p_{2}\log p_
+$S=-k_{s}[p_{1}\log p_{1}+p_{2}\log p_{2}]=-k_{s}[p_{1}\log p_{1}+ (1-p_{1})\log (1-p_{1})]$
+
+Entropia di Shannon
+
+Se bianchi sta in 2 per certo $S=0$
+Se Bianchi sta 1 per certo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2MzE3ODA4XX0=
+eyJoaXN0b3J5IjpbLTg3MDk4NjgyN119
 -->
