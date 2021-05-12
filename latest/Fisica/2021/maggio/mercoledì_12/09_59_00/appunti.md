@@ -43,6 +43,9 @@ Corsi di Orientamento Universitario
 Sadi Carnot 1796-1832
 ## Il calore
 
+
+$\Delta S_{f_{in}}-\Delta_{in}=0$
+
 Si riconosce che i calore $(Q)$ è una forma di energia
 $U(p,V,T)=$  energia interna del sistema, funzione di stato
 
@@ -104,6 +107,13 @@ $k$: costante di Boltzmann
 Numero di molecole per intervallo di velocità: forma caratteristica e universale
 
 Distribuzione nota per cui si può calcolare una energia cinetica media, che cresce con la temperatura
+
+La teoria cinetica dei gas da ragione della legge empirica di Boyle
+
+# L'entropia decondo Boltzmann
+Ludwig Boltzmann 1844-1906
+
+dirw
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMzMDU2MjldfQ==
+eyJoaXN0b3J5IjpbLTE2NDg1NDMwN119
 -->
