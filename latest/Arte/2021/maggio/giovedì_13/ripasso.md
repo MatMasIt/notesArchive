@@ -57,8 +57,16 @@ Mestizia e tristezza di Maria irrimediabilmente morta, non ritratta metre ascend
    In una sola tela le sei opere citate dal Vanelo di Matteo + seppellire i morti, di grande attualità dopola carestia che aveva colpito la città.
    Scena cuotidiana per i fedeli, ambientata in un angusto vicolo napoletano.
 Morto condotto alla sepoltura di cui si vedono solo i piedi
-schie
+schiena nuda dl povero soccorso 
+La luce rence i volumi 
+Luce interna della torcia accentua senso di profondità
 	* Resurrezione di Lazzaro
+	 Periodo siciliano
+	 Personaggi rimpiccioliti
+	 posti su un unico pian come freci antichi
+	 ambiente scuro,a angosciante e vuoto
+	 gioco di sguardi e movimenti
+	 cristo richiama lazzaro, che pur colpito dalla luce salvifica è 
 	* David con la testa di Golia
 * **Bernini**
 	* David
@@ -78,8 +86,8 @@ schie
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1OTQyNDU3LC0xNzc1MjUzMDMxLDIwNT
-I0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIyLDEzMDQ3MzQ2MzMs
-MTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5Nz
-A3NiwtMjEwMjM1MTI4Ml19
+eyJoaXN0b3J5IjpbLTYwODY1NTMsLTE3NzUyNTMwMzEsMjA1Mj
+Q4MTcxLDI5MzAwMTY3Nyw0MzA1MzUyMjIsMTMwNDczNDYzMywx
+MTc3ODcwNzc5LC01NzMzNjc0NCwxOTY1NjI5ODUsMjA2Mzk3MD
+c2LC0yMTAyMzUxMjgyXX0=
 -->
