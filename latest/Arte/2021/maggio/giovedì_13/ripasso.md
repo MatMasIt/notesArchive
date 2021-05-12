@@ -114,7 +114,9 @@ Lavora con bernini al baldacchino, si allontana per lite economica
 
 	* Chiesa di San Carlo alle Quattro fontane (con facciata)
 	Convento + chiesa dei padri trinitari scalzi
-	Ristrutturazione di un complesso in uno spazio anguto, croceviad
+	Ristrutturazione di un complesso in uno spazio anguto, crocevia delle quattro fontane
+	Pianta convento: ottagono allungato
+	Pianta chiesa: mistilineaFacciata: corpo centrale e a
 	* Chiesa di Sant'Ivo alla sapienza
 * **Pietro da Cortona**
 	* p.847 Chiesa dei Santi Luca e Martina
@@ -126,8 +128,8 @@ Lavora con bernini al baldacchino, si allontana per lite economica
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODc1ODE1NDMsLTE3NzUyNTMwMzEsMj
-A1MjQ4MTcxLDI5MzAwMTY3Nyw0MzA1MzUyMjIsMTMwNDczNDYz
-MywxMTc3ODcwNzc5LC01NzMzNjc0NCwxOTY1NjI5ODUsMjA2Mz
-k3MDc2LC0yMTAyMzUxMjgyXX0=
+eyJoaXN0b3J5IjpbMTI2Mzk0MzgxNSwtMTc3NTI1MzAzMSwyMD
+UyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMz
+LDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
+cwNzYsLTIxMDIzNTEyODJdfQ==
 -->
