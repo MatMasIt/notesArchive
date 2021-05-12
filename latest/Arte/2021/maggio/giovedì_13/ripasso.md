@@ -12,7 +12,9 @@
 	* David
 	* Apollo e Daphne
 	* Il baldacchino
-	* Piaza San Pietr
+	* Piazza San Pietro
+	* Chiesa di San Carlo alle Quattro fontane (con facciata)
+	* Chiesa di Sant'Ivo alla sapienza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1MzA1OTc2XX0=
+eyJoaXN0b3J5IjpbLTEzMzE4NzIyNjZdfQ==
 -->
