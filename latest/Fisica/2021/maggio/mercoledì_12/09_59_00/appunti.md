@@ -56,7 +56,14 @@ Calore fornise solo da temperatura maggiore a temperatura maggiore
 
 si può inverite il processo ma solo con del $Lavoro$
 
+ma 
+$\frac{L}{Q} \ll 1-\frac{T_{1}}{T_{2}}$
 
+à Entropia e termica classica
+
+Rudolf Clasius 1822-1888
+
+Es
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg5OTA5MzBdfQ==
+eyJoaXN0b3J5IjpbNzQ4NzcyNTM0XX0=
 -->
