@@ -194,7 +194,7 @@ $S=1 \rightarrow 1 bit$
 
 
 # Intuizione di Boltzmann (1877)
-*In un sistama isolato l'informazione mancante può solo crescere (l'informazione non può aumentare*
+*In un sistema isolato l'informazione mancante può solo crescere (l'informazione non può aumentare)*
 
 Per un gas $N$ è simile a $N_{A}$
 
@@ -216,7 +216,12 @@ $S(V)=k\log(\frac{V}{V_{0}})^N=kN\log(\frac{V}{V_{0}})$
 > $\Delta(V_{1}\rightarrow V_{2})=kN\log \frac{V_{2}}{V_{0}}-kN\log\frac{V_{1}}{V_{0}}=kN\log{V_{2}}{V_{1}}$
 
 
+Dalla termodinamica classica, $\Delta S= nR\log\frac{V_{2}}{V_{1}}$
 
+
+# Entropia e vita sulla terra
+
+La **luce del sole** $(\gamma S)\rightarrow$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM1MDUzNDddfQ==
+eyJoaXN0b3J5IjpbLTQ4NTAxMzgxNF19
 -->
