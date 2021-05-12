@@ -42,7 +42,11 @@ Termodinamic classica
 
 Sadi Carnot 1796-1832
 
-U(
+Si riconosce che i calore $(Q)$ è una forma di energia
+$U(p,V,T)=$  energia interna del sistema, funzione di stato
+
+$\Delta U=L+Q$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODk4NzE5M119
+eyJoaXN0b3J5IjpbODk0NjcxNTI1XX0=
 -->
