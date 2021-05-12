@@ -33,11 +33,11 @@ Elena Cattaneo sostiene che i fondi pubblici vadano destinati agli enti già esi
 Per poter pianificare e attuare politiche efficienti, occorre avere padronanza di conoscenze riguardo al campo di azione: al giorno d'oggi è imperativo poter fruire dei dati sul funzionamento dello Stato in modo rapido e capillare.
 Per quanto sia una complessa, l'informatizzazione di tutti i dati negli archivi statali in un formato chiaro, univoco, regolamentato, interoperabile e la pubblicazione su una piattaforma che permetta livelli di accesso progressivi sarebbe il più valido appoggio ad un ampio spettro di decisioni, soprattutto riguardo agli investimenti e potrebbe essere anche un valido mezzo di trasparenza verso i cittadini.
 Uno strumento simile infatti risulterebbe utilissimo nel problema dell'assegnazione dei contributi per la ricerca: si potrebbe interrogare un enorme archivio su una quantità di informazioni: i fondi attualmente stanziati, i risultati conseguiti dai centri di ricerca, la demografica di chi li frequenta, il numero di richieste da parte di giovani meritevoli, eccetera.
-Dai risultati ottenuti si potrebbe meglio stabilire l'organizzazione dei poli
+Dai risultati ottenuti si potrebbe meglio stabilire l'organizzazione dei poli scientifici per massimizzare la loro accesibilità e la loro eccellenz,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Njg2NDMzNiwxMjAzNDE1NTYsLTE1MT
-k5NTU3MzMsLTU4ODAwNzQ5NCwxODIzNjkzNjc3LC0zMjk2OTQw
-MzgsODQzMDkwMjcyLC00MDkyNjMwNzUsLTEzMzYyNTU2NDgsLT
-Q0NTY0MDgzMywtNzcwNzAzMzA1LDEwNDczMTI4ODMsLTEzMTM0
-MDgxMDNdfQ==
+eyJoaXN0b3J5IjpbLTE0NjIxNTcyOTQsMTIwMzQxNTU2LC0xNT
+E5OTU1NzMzLC01ODgwMDc0OTQsMTgyMzY5MzY3NywtMzI5Njk0
+MDM4LDg0MzA5MDI3MiwtNDA5MjYzMDc1LC0xMzM2MjU1NjQ4LC
+00NDU2NDA4MzMsLTc3MDcwMzMwNSwxMDQ3MzEyODgzLC0xMzEz
+NDA4MTAzXX0=
 -->
