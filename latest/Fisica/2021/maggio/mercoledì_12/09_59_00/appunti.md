@@ -5,8 +5,10 @@
 
 ### Presentazione della normale
 
+Sede costruita dal Vasari su commissione dei Medici
 
+Selezione rigorosa, solo circa il 5% di chi partecipa è ammess
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2ODYwNDg1XX0=
+eyJoaXN0b3J5IjpbMTE2MzA3OTgyXX0=
 -->
