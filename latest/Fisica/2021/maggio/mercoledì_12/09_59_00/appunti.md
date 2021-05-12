@@ -157,9 +157,8 @@ JhonVon Neumann 1932
 L'entropia è una misura delll'informazione mancante (dell'incertezza)
 $$
 p(W(A_{1}))=\frac12\\
-W(A_{2})=4\cdot 3=12\\
-W(A_{1} UA_{2})=2\cdot 12=24
-
+p(W(A_{2}))=\frac{1}{4\cdot 3}=\frac{1}{12}\\
+p(W(A_{1} UA_{2}))=\frac{1}{2\cdot 12}=\frac{1}{24}
 $$
 
 ---
@@ -195,7 +194,9 @@ $S=1 \rightarrow 1 bit$
 
 
 # Intuizione di Boltzmann
-*In un sistama isolato l'informazione mancante 
+*In un sistama isolato l'informazione mancante può solo crescere (l'informazione non può aumentare*
+
+Per un gas $N$ è simile a $N_{A}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0NzUxODY5XX0=
+eyJoaXN0b3J5IjpbLTEzMTMxODk5NjBdfQ==
 -->
