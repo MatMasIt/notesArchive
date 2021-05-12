@@ -1,5 +1,6 @@
 # Ripasso per l'interrogazione, Giovedì 13 Maggio 2021
 * **Caravaggio**
+Nasce a Milano nel 1571
 	* p 808, La canestra di frutta
 	* p 810, La vocazione di san Matteo
 	* La crocifissione di S. Pietro
@@ -27,5 +28,5 @@
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDIzNTEyODJdfQ==
+eyJoaXN0b3J5IjpbMjA2Mzk3MDc2LC0yMTAyMzUxMjgyXX0=
 -->
