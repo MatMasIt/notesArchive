@@ -17,7 +17,8 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 		 * Significati
 		 Simboli cristologici: uva scura, fichi (sacrificiodi Gesù)
 	* p 810, La vocazione di san Matteo
-	 
+	Parte del ciclo decorativo (2 grandi tele) desinato alla cappella di famiglia di un cardinale
+	Pala rifiutata all'inizio per un eccessivo realismo 
 	* La crocifissione di S. Pietro
 	* La conversione di S. Paolo
 	* p. 814 La morte della vergine
@@ -43,6 +44,6 @@ Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjY2NTcxMywxOTY1NjI5ODUsMjA2Mz
-k3MDc2LC0yMTAyMzUxMjgyXX0=
+eyJoaXN0b3J5IjpbLTExOTY2OTU0NDAsMTk2NTYyOTg1LDIwNj
+M5NzA3NiwtMjEwMjM1MTI4Ml19
 -->
