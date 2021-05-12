@@ -250,6 +250,7 @@ $E=hv\rightarrow {\gamma CI} \gg n_{\gamma S}$
 > La scienza è raffinazione del pensiero comune
 > \- Albert Einstein (1940)
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjE2MDcyN119
+eyJoaXN0b3J5IjpbLTMxMjU1MDcxNSwxMTQ2MTYwNzI3XX0=
 -->
