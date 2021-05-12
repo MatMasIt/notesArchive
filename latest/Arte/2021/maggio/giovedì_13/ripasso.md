@@ -1,6 +1,7 @@
 # Ripasso per l'interrogazione, Giovedì 13 Maggio 2021
 * **Caravaggio**
-Nasce a Milano nel 1571
+Nasce a Milano nel 1571 come Michelangelo Merisi
+Si trasferisce a caravaggio (vicino a Bergamo), 
 	* p 808, La canestra di frutta
 	* p 810, La vocazione di san Matteo
 	* La crocifissione di S. Pietro
@@ -28,5 +29,6 @@ Nasce a Milano nel 1571
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Mzk3MDc2LC0yMTAyMzUxMjgyXX0=
+eyJoaXN0b3J5IjpbMzUwOTIzMzk0LDIwNjM5NzA3NiwtMjEwMj
+M1MTI4Ml19
 -->
