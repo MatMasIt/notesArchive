@@ -70,7 +70,10 @@ Luce interna della torcia accentua senso di profondità
 	 mano sinistra di Lazzaro indica ossa, richiamo alla morte
 	 Caravaggio inseristce dietro la mano di Cristo un suo autoritratto, mentre lo guarda
 	* David con la testa di Golia
-	Auto
+	Ritorno a Napoli
+	Autoritratto (testa di Golia)
+	Rughe solcano fronte e bocca aperta, smorfia di dolore
+	Tonalità cuper, una
 * **Bernini**
 	* David
 	* Apollo e Daphne
@@ -89,8 +92,8 @@ Luce interna della torcia accentua senso di profondità
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTM5OTE5MiwtMTc3NTI1MzAzMSwyMD
-UyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMz
-LDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
-cwNzYsLTIxMDIzNTEyODJdfQ==
+eyJoaXN0b3J5IjpbNjg1MzQwNDEyLC0xNzc1MjUzMDMxLDIwNT
+I0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIyLDEzMDQ3MzQ2MzMs
+MTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5Nz
+A3NiwtMjEwMjM1MTI4Ml19
 -->
