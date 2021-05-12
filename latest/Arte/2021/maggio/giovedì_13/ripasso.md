@@ -98,8 +98,13 @@ Luce interna della torcia accentua senso di profondità
 	Sfera e croce di Borromini
 	Borromini (Urbano) fece asportare bronzo dal soffitto del Pantheon
 	"Quello che non fecero i barberi fecero i barberini"
-	Quat
+	Quattro angeli ai vertici,volute a dorso di delfino
 	* Piazza San Pietro
+	Sotto Alessandro VII
+	Famiglia senese Chigi
+	Colonnato di San Pietro
+	vuole rendere visivile cupola di Michelangelo, allontanata da facciata in pianta longitudinale
+	 
 * **Borromini**
 	* Chiesa di San Carlo alle Quattro fontane (con facciata)
 	* Chiesa di Sant'Ivo alla sapienza
@@ -113,7 +118,7 @@ Luce interna della torcia accentua senso di profondità
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1ODg3MTAyLC0xNzc1MjUzMDMxLDIwNT
+eyJoaXN0b3J5IjpbMjE4MzEyNzAwLC0xNzc1MjUzMDMxLDIwNT
 I0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIyLDEzMDQ3MzQ2MzMs
 MTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5Nz
 A3NiwtMjEwMjM1MTI4Ml19
