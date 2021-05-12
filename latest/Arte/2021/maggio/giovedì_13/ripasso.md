@@ -2,7 +2,11 @@
 * **Caravaggio**
 Nasce a Milano nel 1571 come Michelangelo Merisi
 Si trasferisce a caravaggio (vicino a Bergamo), 
+Arte spesso osteggiata perchè vera, estremamente realistica e dettagliata
+Viene da famiglia agiata
+Si forma a milano, soggiorna a Venezia e a Mantova, per poi trasferirsi a circa 20 ani a Roma
 	* p 808, La canestra di frutta
+		* Verità 
 	* p 810, La vocazione di san Matteo
 	* La crocifissione di S. Pietro
 	* La conversione di S. Paolo
@@ -29,6 +33,6 @@ Si trasferisce a caravaggio (vicino a Bergamo),
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwOTIzMzk0LDIwNjM5NzA3NiwtMjEwMj
-M1MTI4Ml19
+eyJoaXN0b3J5IjpbMTAzNTU3MDAyNiwyMDYzOTcwNzYsLTIxMD
+IzNTEyODJdfQ==
 -->
