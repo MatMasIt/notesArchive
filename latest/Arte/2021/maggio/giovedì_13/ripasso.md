@@ -170,15 +170,21 @@ Edificio stravagante, gotiheggiante, visto come eccesso ti Borromini
 * **Baldassarre Longhena**
 	* p.848 Ca' Pesaro
 	Luce e acuqua tendono a smaterializzare l'architettura
-	* du
+	Duce balaustre dividono i tre ordini
+	Affacciata sul canal Grande,
+	Livello più basso con bugnato
+	a punta di diamante
+	ampie aperture ad arco (2)
+	figure e masceroni decorativi
+	Secondo e terzzo ordine loggiati con ba
 	* Chiesa di Santa Maria dellla Salute
 * **Guarino Guarini**
 	* Cappella della Sindone
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1MDIxMzgwLC0xNzc1MjUzMDMxLDIwNT
-I0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIyLDEzMDQ3MzQ2MzMs
-MTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5Nz
-A3NiwtMjEwMjM1MTI4Ml19
+eyJoaXN0b3J5IjpbLTE0ODY0MDYwOTIsLTE3NzUyNTMwMzEsMj
+A1MjQ4MTcxLDI5MzAwMTY3Nyw0MzA1MzUyMjIsMTMwNDczNDYz
+MywxMTc3ODcwNzc5LC01NzMzNjc0NCwxOTY1NjI5ODUsMjA2Mz
+k3MDc2LC0yMTAyMzUxMjgyXX0=
 -->
