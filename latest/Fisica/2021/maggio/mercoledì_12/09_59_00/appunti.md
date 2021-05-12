@@ -197,6 +197,11 @@ $S=1 \rightarrow 1 bit$
 *In un sistama isolato l'informazione mancante può solo crescere (l'informazione non può aumentare*
 
 Per un gas $N$ è simile a $N_{A}$
+
+In termodinamica non si seguono gli atoi individuali, ma solo $V,N$, la configurazione macroscopica
+
+## Spiegazione di Boltzmann
+Il gas si espande perchè il numero delle disposizioni possibili degli $N$ atomi (le configurazioni m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTMxODk5NjBdfQ==
+eyJoaXN0b3J5IjpbLTE5ODQ3NjczNzJdfQ==
 -->
