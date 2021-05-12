@@ -89,7 +89,13 @@ $\Delta S=-\frac{Q}{T}$
 $pV=nRT$ equazione di stato
 
 Per un gas che si espande nel vuoto:
-$\Delta S= nRlg\frac{V_{2}}{V_{1}]$
+$\Delta S= nRlg\frac{V_{2}}{V_{1}}$
+
+## Gli urti delle molecole contro le pareti
+$p=\frac{2}{3}\frac{N}{V}E_{cin}$
+
+## L'energia cinetica media è proporzionale a T
+James Clerk Maxwell, 1831
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODMzODQ4N119
+eyJoaXN0b3J5IjpbLTE5MjM3MzkyN119
 -->
