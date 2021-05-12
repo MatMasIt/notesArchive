@@ -24,9 +24,10 @@ Attraverso a questa efficace espressione l'autrice si riferisce alla creazione d
 ### 3. Riconosci nel testo esempi di accorgimenti stilistici (locuzioni, figure retoriche, lessico specialistico ecc.) che rendano piacevole la lettura e sostengono il procedimento argomentativo
 
 L'articolo si apre con la locuzione "per comprendere", segnale che l'autrice vuole illustrare ai lettori i limiti della proposta di Tito Boeri e Roberto Perotti, che delinea immediatamente (r.10) come una "cosa da non fare" (...),  procedendo ad argomentare che seppur la necessità di riformare il sistemadi ricerca italiano  attuale ("è evidente", r.34), la creazione ("informata", r.40) di nuovi enti genererebbe svantaggi sul piano di vista della competizione ("vincitori senza gara", r.40).
-Il termine tecnico "governance" a r. 47 denota l'insieme di regole e procedure che denotano la ges
+Il termine tecnico "governance" a r. 47 denota l'insieme di regole e procedure che denotano la gestione di enti e apparati.
+A r. 63 viene nominato il "Piano Amaldi", come alternativa al piano di Boeri e Perotti, e infine a r.74 con una efficace metafora i centri di ricerca prodotti dalla riforma che l'autrice vuole contestare sono equiparati a "feudi dorati"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDMzMTMxMywtNDA5MjYzMDc1LC0xMz
-M2MjU1NjQ4LC00NDU2NDA4MzMsLTc3MDcwMzMwNSwxMDQ3MzEy
-ODgzLC0xMzEzNDA4MTAzXX0=
+eyJoaXN0b3J5IjpbMzA3NTIwMTcxLC00MDkyNjMwNzUsLTEzMz
+YyNTU2NDgsLTQ0NTY0MDgzMywtNzcwNzAzMzA1LDEwNDczMTI4
+ODMsLTEzMTM0MDgxMDNdfQ==
 -->
