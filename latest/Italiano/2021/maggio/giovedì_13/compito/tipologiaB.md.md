@@ -19,8 +19,8 @@ Una simile politica infatti, argomenta l'autrice, creerebbe poli di ricerca priv
 Se si vuole dunque finanziare la ricerca per il bene della società, la scrittrice sostiene che sia utile procedere con investimenti strutturali e riforme sul sitema esistente (peraltro già portatore di eccellenze), potenziandolo, e fare in modo che tutti i meritevoli possano avere accesso alle risorse di cui necessitano
 
 ### 2. A che cosa si riferisce l'autrice quando scrive "Il paese non ha bisogno di feudi dorati"?
-Attraverso a questa efficace espressione l'autrice si riferisce alla creazione di centri di ricerca esclusivi ed isolati che ricevano l'intero finanziamento da parte delo
+Attraverso a questa efficace espressione l'autrice si riferisce alla creazione di centri di ricerca esclusivi ed isolati che ricevano l'intero finanziamento da parte dello stato e siano quindi pivi di competizione, si autoproclamino come eccellenti e escludano ai meritevoli la possibilità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQyNTMzMSwtNzcwNzAzMzA1LDEwND
+eyJoaXN0b3J5IjpbLTc4NTU1MDkwMSwtNzcwNzAzMzA1LDEwND
 czMTI4ODMsLTEzMTM0MDgxMDNdfQ==
 -->
