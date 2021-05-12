@@ -23,9 +23,10 @@ Attraverso a questa efficace espressione l'autrice si riferisce alla creazione d
 
 ### 3. Riconosci nel testo esempi di accorgimenti stilistici (locuzioni, figure retoriche, lessico specialistico ecc.) che rendano piacevole la lettura e sostengono il procedimento argomentativo
 
-L'articolo si apre con la locuzione "per comprendere", segnale che l'autrice vuole illustrare ai lettori i limiti della proposta di Tito Boeri e Roberto Perotti, che delinea immediatamente (r.10) come una "cosa da non fare" (...),  procedendo ad argomentare che seppur la necessità di riformare il sistemadi ricerca italiano  attuale ("è evidente", r.34), la creazione ("informata", r.40) di nuovi enti 
+L'articolo si apre con la locuzione "per comprendere", segnale che l'autrice vuole illustrare ai lettori i limiti della proposta di Tito Boeri e Roberto Perotti, che delinea immediatamente (r.10) come una "cosa da non fare" (...),  procedendo ad argomentare che seppur la necessità di riformare il sistemadi ricerca italiano  attuale ("è evidente", r.34), la creazione ("informata", r.40) di nuovi enti genererebbe svantaggi sul piano di vista della competizione ("vincitori senza gara", r.40).
+Il termine tecnico "governance"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTk2MTAxNywtNDA5MjYzMDc1LC0xMz
-M2MjU1NjQ4LC00NDU2NDA4MzMsLTc3MDcwMzMwNSwxMDQ3MzEy
-ODgzLC0xMzEzNDA4MTAzXX0=
+eyJoaXN0b3J5IjpbLTE5NzcwOTQyNTAsLTQwOTI2MzA3NSwtMT
+MzNjI1NTY0OCwtNDQ1NjQwODMzLC03NzA3MDMzMDUsMTA0NzMx
+Mjg4MywtMTMxMzQwODEwM119
 -->
