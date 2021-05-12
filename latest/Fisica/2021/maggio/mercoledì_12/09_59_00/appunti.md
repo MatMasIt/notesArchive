@@ -74,6 +74,10 @@ L'entropia di un sistema $S_{1}$ non isolato può diminuire purchè sia compensa
 
 $\Delta S=\Delta S_{1}+\Delta S_{2} \geq 0$
 
+* Per una sorgente che assorbe una quantità di calore $Q$
+$\Delta S=\frac{Q}{T}$
+* Per  una sorgente che cede calore
+$\Delta S=-\frac{Q}{T}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjcyMzk2MjZdfQ==
+eyJoaXN0b3J5IjpbNzcyMDg5MTU5XX0=
 -->
