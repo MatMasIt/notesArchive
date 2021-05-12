@@ -92,7 +92,7 @@ $\Delta S=-\frac{Q}{T}$
 $pV=nRT$ equazione di stato
 
 Per un gas che si espande nel vuoto:
-$\Delta S= nRlg\frac{V_{2}}{V_{1}}$
+$\Delta S= nR\log\frac{V_{2}}{V_{1}}$
 
 ## Gli urti delle molecole contro le pareti
 $p=\frac{2}{3}\frac{N}{V}E_{cin}$
@@ -152,7 +152,14 @@ Probabilità è l'inverso
 
 
 Claude Shannon 1948
+JhonVon Neumann 1932
 
+L'entropia è una misura delll'informazione mancante (dell'incertezza)
+
+$$
+S(A_{1})=k_{s}\log2\\
+S(a_{2}=k_{s}\log2\\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODk5MjkxMTddfQ==
+eyJoaXN0b3J5IjpbMTA5NzQ4MTM1NV19
 -->
