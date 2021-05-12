@@ -30,11 +30,14 @@ Corsi di Orientamento Universitario
 
 ### Introduzione all'entropia e all'informazione
 
-3 costanti fondamentali
-* $G$, Costante di Newton
-* $h$, costante di Planck
-* $c$
+3 costanti fondamentali, 3 assi
+|Simboli|Nome|Scienziati|Fisica|
+|---------|-------|-----------|----|
+|$G$|Costante di Newton|Newton e Maxwell|Termodinamica|
+|$h$, costante di Planck|Planck|Meccanica quantistica|
+|$c$, velocità della luce
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDM4OTQ1NV19
+eyJoaXN0b3J5IjpbLTM0MDc2NDAzMl19
 -->
