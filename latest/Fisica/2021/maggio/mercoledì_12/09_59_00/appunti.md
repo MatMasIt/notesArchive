@@ -244,7 +244,8 @@ $E=hv\rightarrow {\gamma CI} \gg n_{\gamma S}$
 
 # A che serve tutto questo?
 * **La risposta classica**: La fisica di base ha modificato la nostra vita: Laser, Transistor, PC, telefonini, GPS, web, diagnostica medica
-* **Una risposta che preferisco**: 
+* **Una risposta che preferisco**: Le curiosità meno importanti per la nostra sopravvivenza sonoquelle che si fanno specialmente umani
+* **Una utile riflessione**: La scienza di base dipende dalla tecnologia di punta. Al tempo stesso la moricazione orientata dalla curiosità cioè il motore della scienza di base può ilancaizre la tendenz innata e pericolosa della tecnologia  a trasformare i mezzi in fini, senza prestare attenzion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjc1NzA0OThdfQ==
+eyJoaXN0b3J5IjpbMTI1NjQ5MDUxM119
 -->
