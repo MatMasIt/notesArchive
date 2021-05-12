@@ -195,13 +195,17 @@ Fondamenta palificate, cupola sarebbe troppo pesante
 Calotta emisferica di legno e piombo rivestitate, Cupola sarebbe stata troppo pesatnte
 Contrafforti a voluta
 * **Guarino Guarini**
+Artista Torinese, ducato di Savoia
+Guarini aggiornato su novità artisti contemporanei italiani ed eurpei
+sacerdote, matematico, geometra, astronoo, filosofo
 	* Cappella della Sindone
-	
+	1657
+	Corp
 	* Palazzo Carignano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyNTc3OTEwLC0xNzc1MjUzMDMxLDIwNT
-I0ODE3MSwyOTMwMDE2NzcsNDMwNTM1MjIyLDEzMDQ3MzQ2MzMs
-MTE3Nzg3MDc3OSwtNTczMzY3NDQsMTk2NTYyOTg1LDIwNjM5Nz
-A3NiwtMjEwMjM1MTI4Ml19
+eyJoaXN0b3J5IjpbMTYwMTkxMzM3MCwtMTc3NTI1MzAzMSwyMD
+UyNDgxNzEsMjkzMDAxNjc3LDQzMDUzNTIyMiwxMzA0NzM0NjMz
+LDExNzc4NzA3NzksLTU3MzM2NzQ0LDE5NjU2Mjk4NSwyMDYzOT
+cwNzYsLTIxMDIzNTEyODJdfQ==
 -->
