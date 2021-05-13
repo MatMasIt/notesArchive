@@ -428,8 +428,28 @@ $$
 x=\frac{2\pm\sqrt{4-3}}{1}=3\,\,,\,\,1
 $$
 
-Risol
+Risolvo con parabola, $\leq0$
+
+$1 \leq x \leq 3$
+
+$$
+\begin{equation}
+\begin{cases}
+1 \leq x \leq 3\\
+x \gg 0 \,\,e\,\, x\neq 1
+\end{cases}
+\end{equation}
+$$
+
+
+		--(0)---(1)---(3)--
+		          @####@
+		  O-------O####--------
+
+
+
+Le funioni dev
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODMwMDI0NSwtNDQzNzIyOTMxLC0xOD
-AxODE0MjkyLC0xODI4NTA3MTEzXX0=
+eyJoaXN0b3J5IjpbLTE5NzkyMjYxNzgsLTQ0MzcyMjkzMSwtMT
+gwMTgxNDI5MiwtMTgyODUwNzExM119
 -->
