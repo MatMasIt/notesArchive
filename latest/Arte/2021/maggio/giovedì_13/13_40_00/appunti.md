@@ -42,8 +42,16 @@ prende spunto dalle opere di caravaggio
 
 Colori non troppo sgargianti
 
-Di
+Dipinge infanta attorniata da due damigelle in abiti di coorte
+
+Funzionari della coorte
+
+tutto definito da spazio prospettico in stanza buia
+
+luce da destra e dalla porta su cui viene rappresentato in maresciallo
+
+Rappresenta se stesso mentre dipinge lo spazio prospettico e i committenti nello specchio sul fondo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjI4NjU1MF19
+eyJoaXN0b3J5IjpbMTA4MTk0MDU4Nl19
 -->
