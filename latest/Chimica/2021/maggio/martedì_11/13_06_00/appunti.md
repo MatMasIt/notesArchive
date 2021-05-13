@@ -140,7 +140,12 @@ Lo $Zn$ ha più tendenza a ossidarsi del $Pb$
 Scala stabilisce priorità di ossidazione
 
 ![](https://i.imgur.com/dSzeOBX.jpg)
+
+
+H è lo 0
+
+Effetto redo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjA1MTk0LDEyNDc4Njk3NzIsMTYyNj
-QxMzU1LDE3NzgxMjIyMzRdfQ==
+eyJoaXN0b3J5IjpbMTA4MTQyNDM4MiwxMjQ3ODY5NzcyLDE2Mj
+Y0MTM1NSwxNzc4MTIyMjM0XX0=
 -->
