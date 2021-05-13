@@ -226,8 +226,15 @@ $(x+6)\leq x^2+2x+1$
 Denominatore
 
 
-$		l
+$$
+\log_{\frac{1}{2}}(x+1) \gg0\\
+\log_{\frac{1}{2}}(x+1) \gg \log_{\frac{1}{2}}1\\
+z+1  \ll 1 \\x \ll0
+$$
+
+
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0NzU2ODMxLC00NDM3MjI5MzEsLTE4MD
-E4MTQyOTIsLTE4Mjg1MDcxMTNdfQ==
+eyJoaXN0b3J5IjpbMTczOTAxMjg5NywtNDQzNzIyOTMxLC0xOD
+AxODE0MjkyLC0xODI4NTA3MTEzXX0=
 -->
