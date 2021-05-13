@@ -215,7 +215,7 @@ $$
 \frac{\log_{\frac{1}{2}}(x+1)-2\log_{\frac{1}{2}}(x+1)}{\log_{\frac{1}{2}}(x+1)} \geq 0
 $$
 
-> -2(
+> $2\log_{\frac{1}{2}}(x+1)=\log_{\frac{1}{2}}(x+1)^2$
 
 $N \geq 0\rightarrow$  $\log_{\frac{1}{2}}(x+1) \geq 2\log_{\frac{1}{2}}(x+1)$
 
@@ -262,7 +262,23 @@ $0 \ll x \ll \frac{\sqrt{21}-1}{2}$
 
 
 ## es
+
+$$
+\log_{2}(log_{\frac{1}{3}}(x-5))\ll 0
+$$
+
+
+
+$$
+CE  \begin{equation}
+\begin{cases}
+x \gg-6\\
+x \gg-1\\
+\log_{\frac{1}{2}} \neq \log _{\frac{1}{2}} 1
+\end{cases}
+\end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM2MTYyODMsLTQ0MzcyMjkzMSwtMT
-gwMTgxNDI5MiwtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbMTg0NTQzMTY5OSwtNDQzNzIyOTMxLC0xOD
+AxODE0MjkyLC0xODI4NTA3MTEzXX0=
 -->
