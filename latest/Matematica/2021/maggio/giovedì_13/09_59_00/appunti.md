@@ -420,8 +420,16 @@ $log_{x}x^{-1}+\frac{\log{_x}x^2}{\log_{x}\frac{1}{x}}\geq x^2-4x$
 
 Quindi
 
-$-1 -2
+$-1 -2\geq x2-4x$
+
+$x^2-4x+3\leq0$
+
+$$
+x=\frac{2\pm\sqrt{4-3}}{1}=3\,\,,\,\,1
+$$
+
+Risol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTkzNTUyMSwtNDQzNzIyOTMxLC0xOD
+eyJoaXN0b3J5IjpbLTU1ODMwMDI0NSwtNDQzNzIyOTMxLC0xOD
 AxODE0MjkyLC0xODI4NTA3MTEzXX0=
 -->
