@@ -153,8 +153,16 @@ Segno dei potenziali: convenzione matematica che permette che i calcoli tornano
 
 
 $Cu/Zn\\\Delta E\gg0$
-for
+forza elettromotrice della pila
+in base al potenziale Zinco si ossida e rame si riduce
+
+$\Delta E=E_{Cu}-E_{Zn}$
+
+
+Elettrodo che si riduce positivo, quello che si ossida è negativo
+
+$Zn \rightar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgxMTMzNTcsMTI0Nzg2OTc3MiwxNj
-I2NDEzNTUsMTc3ODEyMjIzNF19
+eyJoaXN0b3J5IjpbMTI3MDExMzgwNywxMjQ3ODY5NzcyLDE2Mj
+Y0MTM1NSwxNzc4MTIyMjM0XX0=
 -->
