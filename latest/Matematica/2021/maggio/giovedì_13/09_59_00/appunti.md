@@ -123,12 +123,21 @@ $$
 
 $$
 \log_{2}\frac{x+1}{2x+5} \leq \log_{3}27\\
+$$
+$$
 \frac{x+1}{2x+5}-27 \leq0
 $$
 
 $$
 \frac{x+1-54x-135
+}{2x+5}\leq0\\
 $$
+$$
+\frac{-53x-134}{2x+5}\leq 0\\
+$$
+
+$$
+\frac
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDI4NDYxNSwtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbMTI3NDUxODc3OCwtMTgyODUwNzExM119
 -->
