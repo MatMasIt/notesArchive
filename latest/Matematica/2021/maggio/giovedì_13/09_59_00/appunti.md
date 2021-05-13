@@ -168,7 +168,7 @@ $x \gg -1$
 ### es 505
 
 $$
-\frac{\log_{\frac{1}{2}}(x+6) }{\log_{\frac{1}{2}}(x+1)}
+\frac{\log_{\frac{1}{2}}(x+6) }{\log_{\frac{1}{2}}(x+1)} \geq 2
 $$
 
 $$
@@ -197,7 +197,7 @@ $$
 \begin{cases}
 x \gg-6\\
 x \gg-1\\
-x\new0
+x\neq0
 \end{cases}
 \end{equation}
 $$
@@ -206,8 +206,14 @@ $$
 CE
 
 	---(-6)------(-1)-------(0)-------
-	     
+	    O--------------------------
+	               O-----------------
+	                          =
+
+$D(-1,0)U(0,+\infin)$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDM0NjcwNiwtNDQzNzIyOTMxLC0xOD
+eyJoaXN0b3J5IjpbMTI1NTU4MTAwNywtNDQzNzIyOTMxLC0xOD
 AxODE0MjkyLC0xODI4NTA3MTEzXX0=
 -->
