@@ -117,7 +117,9 @@ $M+HCl\rightarrow MCl+H_{2}$
 |--------|-------|
 |$CU$|No|
 |$Pb$|Sì|
+|$Zn$|Sì|
+|$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjc2MjEwOCwxMjQ3ODY5NzcyLDE2Mj
-Y0MTM1NSwxNzc4MTIyMjM0XX0=
+eyJoaXN0b3J5IjpbMjcxOTQ0MTg1LDEyNDc4Njk3NzIsMTYyNj
+QxMzU1LDE3NzgxMjIyMzRdfQ==
 -->
