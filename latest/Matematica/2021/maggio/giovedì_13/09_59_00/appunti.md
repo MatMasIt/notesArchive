@@ -448,8 +448,13 @@ $$
 
 
 
-Le funioni dev
+Le funioni devono essere mescolate (logaritmi, esponenziali, radici) per pensare alla rigoluzione grafica
+
+## es
+
+$\log_{\frac{1}{3}}x\geq 1-\frac{1}{x}$
+Logaritmo e funzione mom
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzkyMjYxNzgsLTQ0MzcyMjkzMSwtMT
+eyJoaXN0b3J5IjpbLTE2NTM0MTIyMDQsLTQ0MzcyMjkzMSwtMT
 gwMTgxNDI5MiwtMTgyODUwNzExM119
 -->
