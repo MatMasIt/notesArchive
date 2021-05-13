@@ -110,8 +110,8 @@ $H_{2}/H^{+}$
 
 1:1 $H_{2} \,12 M$ 
 
-
+$M+HCl\rightarrow MCl+H_{2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTY2NzY1NSwxMjQ3ODY5NzcyLDE2Mj
-Y0MTM1NSwxNzc4MTIyMjM0XX0=
+eyJoaXN0b3J5IjpbLTEyMjI1MDk1NjIsMTI0Nzg2OTc3MiwxNj
+I2NDEzNTUsMTc3ODEyMjIzNF19
 -->
