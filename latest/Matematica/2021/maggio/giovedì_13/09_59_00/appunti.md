@@ -117,8 +117,18 @@ x \gg -\frac{5}{2}
 $$
 
 	---O(-5/2)-----O(-1)---
-	   |
+	   |           |
+	   +-----------+------------
+				   +--------------
+
+$$
+\log_{2}\frac{x+1}{2x+5} \leq \log_{3}27\\
+\frac{x+1}{2x+5}-27 \leq0
+$$
+
+$$
+\frac{x+1-54x-135
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ3NjQ0ODYsLTE4Mjg1MDcxMTNdfQ
-==
+eyJoaXN0b3J5IjpbMjAwMDI4NDYxNSwtMTgyODUwNzExM119
 -->
