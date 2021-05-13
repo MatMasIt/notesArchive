@@ -371,9 +371,26 @@ $x \leq \frac{1}{2} {\ln 2}$
 
 Scivola espinente
 
-$x \leq \ln 2
+$x \leq \ln 2^{\frac{1}{2}}$
+$x \leq \sqrt{2}$
 
+
+
+
+
+## es 515
+
+$\log_{x}\frac{1}{x}+\log_{\frac{1}{x}}x^2\geq x^2-4x$
+
+
+$$CE
+\begin{equation}
+\begin{cases}x-5 \ll 1 \rightarrow x \ll6\\
+x \gg5\\
+\end{cases}
+\end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4ODQ5MzExLC00NDM3MjI5MzEsLTE4MD
-E4MTQyOTIsLTE4Mjg1MDcxMTNdfQ==
+eyJoaXN0b3J5IjpbLTExMzM4MTU3ODksLTQ0MzcyMjkzMSwtMT
+gwMTgxNDI5MiwtMTgyODUwNzExM119
 -->
