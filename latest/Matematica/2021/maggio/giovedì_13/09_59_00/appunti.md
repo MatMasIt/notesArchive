@@ -74,7 +74,15 @@ $f(-3) \ll 0$
 $\beta$ è radice dell'euquazione e 
 $\beta\in[-3,-1]$
 
-
+---
+Soluzione
+$$
+\begin{equation}
+\begin{center}
+\end{centre}
+\end{equation}
+x \gg \beta
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODQ5MjY5NywtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbMzc3OTI2ODk2LC0xODI4NTA3MTEzXX0=
 -->
