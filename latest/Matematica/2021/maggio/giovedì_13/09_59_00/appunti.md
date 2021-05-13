@@ -137,7 +137,11 @@ $$
 $$
 
 $$
-\frac
+\frac{53x+134}{2x+5} \geq0
+$$
+
+$N \geq0 \rightarrow$    $x\geq -\frac{134}{53}$
+$N \gg0 \rightarrow$    $x\geq -\frac{134}{53}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDUxODc3OCwtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbMTU3MDIxNjQxMywtMTgyODUwNzExM119
 -->
