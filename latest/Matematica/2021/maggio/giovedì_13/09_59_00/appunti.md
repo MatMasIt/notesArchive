@@ -34,8 +34,10 @@ x \ll \frac{2- 2\sqrt{7}}{3} \, v \, x \gg \frac{2+2\sqrt{7}}{3}
 $$
 
 
-	
+	---@(a1)---@(a2)----
+	+  |    -  |   +
+	 /   \       
+	/     \
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTM4NDIxMDEsLTE4Mjg1MDcxMTNdfQ
-==
+eyJoaXN0b3J5IjpbMTg3NjgzMjc5NSwtMTgyODUwNzExM119
 -->
