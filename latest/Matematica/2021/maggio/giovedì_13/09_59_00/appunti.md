@@ -84,7 +84,13 @@ $D=(\beta, +\infin)$
 
 $$
 f(x)=log_{2}(x^3--2x^2-8x+20)=\log_{2}2^2\\
+x^3--2x^2-8x+20=4\\
+(x-2)(x-2\sqrt{2})(x+2\sqrt{2})=0\\
+x=\begin{equation}
+\begin{cases}
+\end{cases}
+\end{cases}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MjM4OTI2LC0xODI4NTA3MTEzXX0=
+eyJoaXN0b3J5IjpbMTk1NDAwNDgwMywtMTgyODUwNzExM119
 -->
