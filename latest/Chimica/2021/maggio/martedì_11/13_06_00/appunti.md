@@ -144,8 +144,11 @@ Scala stabilisce priorità di ossidazione
 
 H è lo 0
 
-Effetto redo
+Effetto redox: corrente elettrica (pila)
+Pila è u convertitore da energia chimica a energia elettrica
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTQyNDM4MiwxMjQ3ODY5NzcyLDE2Mj
+eyJoaXN0b3J5IjpbMTI4Njk0MDgzNiwxMjQ3ODY5NzcyLDE2Mj
 Y0MTM1NSwxNzc4MTIyMjM0XX0=
 -->
