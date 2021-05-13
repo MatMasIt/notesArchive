@@ -453,8 +453,17 @@ Le funioni devono essere mescolate (logaritmi, esponenziali, radici) per pensare
 ## es
 
 $\log_{\frac{1}{3}}x\geq 1-\frac{1}{x}$
-Logaritmo e funzione mom
+Logaritmo e funzioneomografica
+
+$\log_{\frac13}x\geq \frac{x-1}{x}$
+
+
+$f(x): y=log_{\frac{1}{3}}x\\
+g(x): y=\frac{x-1}{x}$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM0MTIyMDQsLTQ0MzcyMjkzMSwtMT
+eyJoaXN0b3J5IjpbLTE0NDA1OTk1OTUsLTQ0MzcyMjkzMSwtMT
 gwMTgxNDI5MiwtMTgyODUwNzExM119
 -->
