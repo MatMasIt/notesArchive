@@ -364,8 +364,16 @@ $e^{2x} \leq e^{\ln2}$
 
 $e \gg 1$ quindi posso scrivere la stessa relazione tra gli esponenti
 
+$2x \leq \ln 2$
+$x \leq \frac{\ln 2}{2}$
+
+$x \leq \frac{1}{2} {\ln 2}$
+
+Scivola espinente
+
+$x \leq \ln 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTIxNjYwNTQsLTQ0MzcyMjkzMSwtMT
-gwMTgxNDI5MiwtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbOTA4ODQ5MzExLC00NDM3MjI5MzEsLTE4MD
+E4MTQyOTIsLTE4Mjg1MDcxMTNdfQ==
 -->
