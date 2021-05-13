@@ -214,6 +214,7 @@ $D(-1,0)U(0,+\infin)$
 $$
 \frac{\log_{\frac{1}{2}}(x+1)-2\log_{\frac{1}{2}}(x+1)}{\log_{\frac{1}{2}}(x+1)} \geq 0
 $$
+
 $N \geq 0\rightarrow$  $\log_{\frac{1}{2}}(x+1) \geq 2\log_{\frac{1}{2}}(x+1)$
 
 
@@ -233,8 +234,11 @@ z+1  \ll 1 \\x \ll0
 $$
 
 
-	
+$$
+\alpha=\frac{-1-\sqrt{21}}{2}\\
+\beta=\frac{-1-\sqrt{21}}{2}\\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTAxMjg5NywtNDQzNzIyOTMxLC0xOD
-AxODE0MjkyLC0xODI4NTA3MTEzXX0=
+eyJoaXN0b3J5IjpbLTExMTM3ODI2MzksLTQ0MzcyMjkzMSwtMT
+gwMTgxNDI5MiwtMTgyODUwNzExM119
 -->
