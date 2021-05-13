@@ -32,7 +32,7 @@ P'(x) \gg 0\\
 x \ll \alpha_{1} \,v\, x\gg \alpha_{2}\\
 x \ll \frac{2- 2\sqrt{7}}{3} \, v \, x \gg \frac{2+2\sqrt{7}}{3}
 $$
-![](https://i.imgur.com/MefICAy.jpg)
+![](https://i.imgur.com/W95RRIN.jpg)
 
 	---@(a1)---@(a2)----
 	+  |    -  |   +
@@ -50,8 +50,8 @@ $$
 ---
 
 $$
-f(\alpha_{2})=\\
+f(\alpha_{2})=3,1\\
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzE2NzI1OCwtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbNzg3NTYzNjg2LC0xODI4NTA3MTEzXX0=
 -->
