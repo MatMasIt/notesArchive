@@ -385,12 +385,27 @@ $\log_{x}\frac{1}{x}+\log_{\frac{1}{x}}x^2\geq x^2-4x$
 
 $$CE
 \begin{equation}
-\begin{cases}x-5 \ll 1 \rightarrow x \ll6\\
-x \gg5\\
+\begin{cases}
+x \gg 0\\
+x \neq 1\\
+\frac{1}{x} \gg 0\\
+\frac{1}{x} \neq 1\\
+x^2\geq 0
+\end{cases}
+\end{equation}
+$$
+
+
+$$CE
+\begin{equation}
+\begin{cases}
+x \gg 0\\
+x \neq 1\\
+x \neq 0
 \end{cases}
 \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzM4MTU3ODksLTQ0MzcyMjkzMSwtMT
-gwMTgxNDI5MiwtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbLTM1NzEwMjUwLC00NDM3MjI5MzEsLTE4MD
+E4MTQyOTIsLTE4Mjg1MDcxMTNdfQ==
 -->
