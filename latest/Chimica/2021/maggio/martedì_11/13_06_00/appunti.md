@@ -137,8 +137,10 @@ se reazioni avvengono hli elementi hanno più tendenza a ossidarsi
 
 Lo $Zn$ ha più tendenza a ossidarsi del $Pb$
 
+Scala stabilisce priorità di ossidazione
 
+![](https://i.imgur.com/dSzeOBX.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTkxNjkxNSwxMjQ3ODY5NzcyLDE2Mj
-Y0MTM1NSwxNzc4MTIyMjM0XX0=
+eyJoaXN0b3J5IjpbMTY2MjA1MTk0LDEyNDc4Njk3NzIsMTYyNj
+QxMzU1LDE3NzgxMjIyMzRdfQ==
 -->
