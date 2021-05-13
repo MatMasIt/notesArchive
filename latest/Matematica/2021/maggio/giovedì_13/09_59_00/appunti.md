@@ -236,9 +236,24 @@ $$
 
 $$
 \alpha=\frac{-1-\sqrt{21}}{2}\\
-\beta=\frac{-1-\sqrt{21}}{2}\\
+\beta=\frac{\sqrt{21}-1}{2}\\
 $$
+
+
+
+$$
+\begin{equation}
+\begin{cases}
+x \lew \alpha v 0 \ll g \leq \beta
+x \gg-1\ v x \neq 0\
+x\neq0
+\end{cases}
+\end{equation}
+$$
+Mettendo a sistema
+
+$o\llx \ll
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM3ODI2MzksLTQ0MzcyMjkzMSwtMT
-gwMTgxNDI5MiwtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbNDg1Njg4MjY5LC00NDM3MjI5MzEsLTE4MD
+E4MTQyOTIsLTE4Mjg1MDcxMTNdfQ==
 -->
