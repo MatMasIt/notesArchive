@@ -272,13 +272,33 @@ $$
 $$
 CE  \begin{equation}
 \begin{cases}
-x \gg-6\\
-x \gg-1\\
-\log_{\frac{1}{2}} \neq \log _{\frac{1}{2}} 1
+log_{\frac{1}{3}}(x-5) \gg 0\\
+x-5 \gg0\\
+\end{cases}
+\end{equation}
+$$
+
+
+$$
+\begin{equation}
+\begin{cases}
+(og_{\frac{1}{3}}(x-5) \gg \log_{\frac{1}{3}}1\\
+x \gg5\\
+\end{cases}
+\end{equation}
+$$
+
+
+
+$$
+\begin{equation}
+\begin{cases}
+(og_
+x \gg5\\
 \end{cases}
 \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTQzMTY5OSwtNDQzNzIyOTMxLC0xOD
-AxODE0MjkyLC0xODI4NTA3MTEzXX0=
+eyJoaXN0b3J5IjpbLTE5MzY2NzMxMzYsLTQ0MzcyMjkzMSwtMT
+gwMTgxNDI5MiwtMTgyODUwNzExM119
 -->
