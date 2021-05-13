@@ -147,8 +147,19 @@ $D \gg0 \rightarrow$    $x\gg -\frac{5}{2}$
 	   -     |    +       |    +
 	   -     |    -       |  +
 	   ##############################
-	   +     |    -        | 
+	   +     |    -        |  +
+
+$$
+CE x \gg -1\\
+ x\leq -\frac{134}{53} v x\gg -\frac{5}{2}
+$$
+
+
+a sistema
+
+
+$x \gg -1$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI3MTMxOTcsLTE4Mjg1MDcxMTNdfQ
+eyJoaXN0b3J5IjpbLTE4MDE4MTQyOTIsLTE4Mjg1MDcxMTNdfQ
 ==
 -->
