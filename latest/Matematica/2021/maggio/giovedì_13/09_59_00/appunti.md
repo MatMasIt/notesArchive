@@ -413,8 +413,15 @@ $$
 $x \gg 0  , x\neq 1$
 
 
-$log_{x}x^{-1}+\frac{\log{x}x^2}{}$
+$log_{x}x^{-1}+\frac{\log{_x}x^2}{\log_{x}\frac{1}{x}}\geq x^2-4x$
+
+
+> $\frac{\log{_x}x^2}{\log_{x}\frac{1}{x}}=\frac{2\log{_x}x}{\log_{x}\frac{1}{x}}02$
+
+Quindi
+
+$-1 -2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjIzMzIwOCwtNDQzNzIyOTMxLC0xOD
+eyJoaXN0b3J5IjpbMTgxNTkzNTUyMSwtNDQzNzIyOTMxLC0xOD
 AxODE0MjkyLC0xODI4NTA3MTEzXX0=
 -->
