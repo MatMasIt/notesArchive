@@ -127,8 +127,11 @@ $RID, \Delta e=2e^{-}$
 |$Ag$|No|
 
 
+$Zn$ e $Pb$ hanno più tenndenza a ossidarsi, seguono reazione sopracitata
 
+
+Scala dei potenziali: aumento del potere ridu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTk4ODkxNSwxMjQ3ODY5NzcyLDE2Mj
+eyJoaXN0b3J5IjpbMTE4NjI0MzQ4NSwxMjQ3ODY5NzcyLDE2Mj
 Y0MTM1NSwxNzc4MTIyMjM0XX0=
 -->
