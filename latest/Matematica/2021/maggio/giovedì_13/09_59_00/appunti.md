@@ -338,7 +338,23 @@ $x \gg \frac{16}{3}$
 
 
 Accettabile nel campo di esistenza?
+
+
+$$
+\begin{equation}
+\begin{cases}
+z \gg \frac{16}{3}
+5 \\ll x \ll 6\\
+\end{cases}
+\end{equation}
+$$
+
+		--(3)-----(16/3)-------(6)
+		   O----------O
+		             O#########O---
+
+$\frac{16}{3} \ll x \ll 6$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ4MDg3OTEsLTQ0MzcyMjkzMSwtMT
+eyJoaXN0b3J5IjpbLTE1NTU0OTU0ODUsLTQ0MzcyMjkzMSwtMT
 gwMTgxNDI5MiwtMTgyODUwNzExM119
 -->
