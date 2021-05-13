@@ -111,15 +111,21 @@ $H_{2}/H^{+}$
 1:1 $H_{2} \,12 M$ 
 
 Reazione schematica
-$M+HCl\rightarrow MCl+H_{2}$
+$2M+HCl\rightarrow 2MCl+H_{2}$
+
+da stato ossidativo o a stato ossidativo +1
+$OX,\Delta e=1e^{-}$
 
 |Metallo|Reazione|
 |--------|-------|
-|$CU$|No|
+|$Cu$|No|
 |$Pb$|Sì|
 |$Zn$|Sì|
-|$
+|$Ag$|No|
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxOTQ0MTg1LDEyNDc4Njk3NzIsMTYyNj
+eyJoaXN0b3J5IjpbNzQ5NzMxNDY3LDEyNDc4Njk3NzIsMTYyNj
 QxMzU1LDE3NzgxMjIyMzRdfQ==
 -->
