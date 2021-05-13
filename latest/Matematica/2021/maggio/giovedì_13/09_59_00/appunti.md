@@ -313,8 +313,18 @@ $$
 \log_{2}(log_{\frac{1}{3}}(x-5))\ll 0
 $$
 
+la nostra funzine è $log_{2}(\alpha)\gg 0$
+Don't panic
+
+
+$$
+\log_{2}(log_{\frac{1}{3}}(x-5))\ll log_{2} 1
+$$
+Siccome $2 \gg 1$ posso togliere i logaritmi senza inveritre segno
+
+$\log_{\frac{1}{3}}(x-5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjMwNTEwNTcsLTQ0MzcyMjkzMSwtMT
+eyJoaXN0b3J5IjpbLTEzNDc2MDAxMTMsLTQ0MzcyMjkzMSwtMT
 gwMTgxNDI5MiwtMTgyODUwNzExM119
 -->
