@@ -59,9 +59,16 @@ $$
 
 
 $$
-f(0)=20
-\alpha_{
+f(0)=20\\
+\alpha_{1}^3-2\alpha_{1}^2-8\alpha_{1}=20
 $$
+
+
+$$
+f(-3)=-1
+$$
+
+$$g(
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTU5OTY3MywtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbMTU0MTQxMzQ5NCwtMTgyODUwNzExM119
 -->
