@@ -116,6 +116,9 @@ $2M+HCl\rightarrow 2MCl+H_{2}$
 da stato ossidativo o a stato ossidativo +1
 $OX,\Delta e=1e^{-}$
 
+H da +1 a o
+$RID, \Delta e=2e^{-}$
+
 |Metallo|Reazione|
 |--------|-------|
 |$Cu$|No|
@@ -126,6 +129,6 @@ $OX,\Delta e=1e^{-}$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5NzMxNDY3LDEyNDc4Njk3NzIsMTYyNj
-QxMzU1LDE3NzgxMjIyMzRdfQ==
+eyJoaXN0b3J5IjpbMTgwOTk4ODkxNSwxMjQ3ODY5NzcyLDE2Mj
+Y0MTM1NSwxNzc4MTIyMjM0XX0=
 -->
