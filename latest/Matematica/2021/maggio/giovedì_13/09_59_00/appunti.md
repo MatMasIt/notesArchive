@@ -163,7 +163,14 @@ a sistema
 		                               O######
 
 $x \gg -1$
+
+## p.88
+### es 505
+
+$$
+\frac{\log_{\frac{1}{2}(x+6) }}{\log_{\frac{1}{2}}}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MzcyMjkzMSwtMTgwMTgxNDI5MiwtMT
-gyODUwNzExM119
+eyJoaXN0b3J5IjpbMTU3NjE3MzU0NiwtNDQzNzIyOTMxLC0xOD
+AxODE0MjkyLC0xODI4NTA3MTEzXX0=
 -->
