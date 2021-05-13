@@ -104,11 +104,21 @@ $$
 C.E.\, \, 
 \begin{equation}
 \begin{cases}
-
+x+1 \gg 0\\
+2x+5 \gg0
+\end{cases}
+\end{equation}\\
+\begin{equation}
+\begin{cases}
+x \gg -1\\
+x \gg -\frac{5}{2}
 \end{cases}
 \end{equation}
 $$
 
+	---O(-5/2)-----O(-1)---
+	   |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTE1ODAxMiwtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbLTEzMzQ3NjQ0ODYsLTE4Mjg1MDcxMTNdfQ
+==
 -->
