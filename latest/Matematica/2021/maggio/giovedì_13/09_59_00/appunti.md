@@ -36,8 +36,14 @@ $$
 
 	---@(a1)---@(a2)----
 	+  |    -  |   +
-	 /   \       
-	/     \
+	 / | \     |  /
+	/  |  \    | /
+
+
+$$
+f(\alpha_{1})=a_{1}^3-2\alpha_\\
+f(\alpha_{2})=\\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjgzMjc5NSwtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbMzQ0NjI0MTg0LC0xODI4NTA3MTEzXX0=
 -->
