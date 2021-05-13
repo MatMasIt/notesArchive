@@ -91,7 +91,7 @@ Ag rid
 |----|---|---|---|---|
 |$Ag^{+2}$|No|Sì|Sì|Sì|
 |$Cu^{+2}$|No|No|Sì|Sì|
-|$Pb^{+2}$|No|No|No|No|
+|$Pb^{+2}$|No|No|No|Sì|
 |$Zn^{+2}$|No|No|No|No|
 
 ## Costruisco la scala
@@ -110,7 +110,8 @@ $H_{2}/H^{+}$
 
 1:1 $H_{2} \,12 M$ 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjk2MDM5OSwxMjQ3ODY5NzcyLDE2Mj
+eyJoaXN0b3J5IjpbMTM2MTY2NzY1NSwxMjQ3ODY5NzcyLDE2Mj
 Y0MTM1NSwxNzc4MTIyMjM0XX0=
 -->
