@@ -130,8 +130,15 @@ $RID, \Delta e=2e^{-}$
 $Zn$ e $Pb$ hanno più tenndenza a ossidarsi, seguono reazione sopracitata
 
 
-Scala dei potenziali: aumento del potere ridu
+Scala dei potenziali: aumento del potere riducente, l'elemento ha più tendenza a ossidarsi
+
+se reazioni avvengono hli elementi hanno più tendenza a ossidarsi
+
+
+Lo $Zn$ ha più tendenza a ossidarsi del $Pb$
+
+KaTeX parse error: Undefined control sequence: \jJ at position 1: \̲j̲J̲
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjI0MzQ4NSwxMjQ3ODY5NzcyLDE2Mj
+eyJoaXN0b3J5IjpbMTk0MzUwODQyNiwxMjQ3ODY5NzcyLDE2Mj
 Y0MTM1NSwxNzc4MTIyMjM0XX0=
 -->
