@@ -110,8 +110,14 @@ $H_{2}/H^{+}$
 
 1:1 $H_{2} \,12 M$ 
 
-$M+HCl\rightarrow MCl+H_{2
+Reazione schematica
+$M+HCl\rightarrow MCl+H_{2}$
+
+|Metallo|Reazione|
+|--------|-------|
+|$CU$|No|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI1MDk1NjIsMTI0Nzg2OTc3MiwxNj
-I2NDEzNTUsMTc3ODEyMjIzNF19
+eyJoaXN0b3J5IjpbMzgxODM2NjcxLDEyNDc4Njk3NzIsMTYyNj
+QxMzU1LDE3NzgxMjIyMzRdfQ==
 -->
