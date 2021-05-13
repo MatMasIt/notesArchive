@@ -7,9 +7,7 @@ $$
 C.E.\,x^3-2x^2-8x+20 \gg 0
 $$
 
-$$
-\log(x(x-
-$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg1MTEyMjJdfQ==
+eyJoaXN0b3J5IjpbLTE4Mjg1MDcxMTNdfQ==
 -->
