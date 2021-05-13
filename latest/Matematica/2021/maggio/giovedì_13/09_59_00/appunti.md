@@ -141,7 +141,9 @@ $$
 $$
 
 $N \geq0 \rightarrow$    $x\geq -\frac{134}{53}$
-$N \gg0 \rightarrow$    $x\geq -\frac{134}{53}$
+$D \gg0 \rightarrow$    $x\gg -\frac{5}{2}$
+	------@(-135/24)------O(5/2)----
+	-         |             +
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDIxNjQxMywtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbLTE2ODExOTUwNSwtMTgyODUwNzExM119
 -->
