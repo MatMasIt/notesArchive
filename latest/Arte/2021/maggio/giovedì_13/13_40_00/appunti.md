@@ -30,6 +30,20 @@ mania di grandezza
 parte retrostante: giardino, 100 volte più grande della reggia p 857
 
 Giardino lasciato naturale, per la caccia
+
+
+Caserta: reggia più grande del modo (commento)
+
+---
+
+Artista Diego Velasquez opera alla corte spagnola
+Ritrattista
+prende spunto dalle opere di caravaggio
+
+Colori non troppo sgargianti
+
+Di
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk2MTcxNjddfQ==
+eyJoaXN0b3J5IjpbLTgxNjI4NjU1MF19
 -->
