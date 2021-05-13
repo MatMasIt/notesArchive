@@ -1,6 +1,6 @@
 # Lezione di Arte (6° ora)
 
-## giovedì 13 maggio 2021, 08:42:58
+## giovedì 13 maggio 2021, 13:40:00
 
 
 Cosa preesistente ingrandita
@@ -27,7 +27,9 @@ salone molto grande (70 m)
 
 mania di grandezza
 
-parte retrostante: giardino, 100 volte più
+parte retrostante: giardino, 100 volte più grande della reggia p 857
+
+Giardino lasciato naturale, per la caccia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDk2NTE5OV19
+eyJoaXN0b3J5IjpbLTEyNzk2MTcxNjddfQ==
 -->
