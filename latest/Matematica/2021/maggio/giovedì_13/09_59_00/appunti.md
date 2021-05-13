@@ -77,20 +77,14 @@ $\beta\in[-3,-1]$
 ---
 Soluzione
 $$
-\begin{equation}
-\begin{center}
-d
-\end{center}
-\end{equation}
 x \gg \beta
 $$
 
 $D=(\beta, +\infin)$
 
 $$
-f(x)=log_{2}(x^3--2x^2-8x+20)=\log_{2}2^2
+f(x)=log_{2}(x^3--2x^2-8x+20)=\log_{2}2^2\\
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQxMjMyMzAsLTE4Mjg1MDcxMTNdfQ
-==
+eyJoaXN0b3J5IjpbODc3MjM4OTI2LC0xODI4NTA3MTEzXX0=
 -->
