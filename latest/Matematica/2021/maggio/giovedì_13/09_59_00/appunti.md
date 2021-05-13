@@ -51,7 +51,16 @@ $$
 
 $$
 f(\alpha_{2})=3,1\\
+3,1 \gg 0? sì\\
+$$
+
+![](https://i.imgur.com/d1vpEYC.jpg)
+
+
+
+$$
+f(0)=20
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3NTYzNjg2LC0xODI4NTA3MTEzXX0=
+eyJoaXN0b3J5IjpbMTY5NjY1MjQxNywtMTgyODUwNzExM119
 -->
