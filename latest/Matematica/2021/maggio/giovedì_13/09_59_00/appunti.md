@@ -158,8 +158,11 @@ $$
 a sistema
 
 
+		------(-135/34)-----(-5/2)----(-1)---
+		-----------@         
+
 $x \gg -1$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE4MTQyOTIsLTE4Mjg1MDcxMTNdfQ
-==
+eyJoaXN0b3J5IjpbLTEyMjU5NjA5MzcsLTE4MDE4MTQyOTIsLT
+E4Mjg1MDcxMTNdfQ==
 -->
