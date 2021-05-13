@@ -292,13 +292,29 @@ $$
 
 $$
 \begin{equation}
-\begin{cases}
-(og_
+\begin{cases}x-5 \ll 1 \rightarrow x \ll6\\
 x \gg5\\
 \end{cases}
 \end{equation}
 $$
+
+
+		----(5)----(6)
+		------######O
+		     O######-----
+$C.E. (5,6)$
+
+
+
+
+Funzione 
+
+$$
+\log_{2}(log_{\frac{1}{3}}(x-5))\ll 0
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY2NzMxMzYsLTQ0MzcyMjkzMSwtMT
+eyJoaXN0b3J5IjpbLTE4NjMwNTEwNTcsLTQ0MzcyMjkzMSwtMT
 gwMTgxNDI5MiwtMTgyODUwNzExM119
 -->
