@@ -99,8 +99,16 @@ $$
 $$
 \log_{3}(x+1)-log_{3}(2x+5) \leq 3
 $$
-$C.E.\, \, $
+
+$$
+C.E.\, \, 
+\begin{equation}
+\begin{cases}
+
+\end{cases}
+\end{equation}
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTc3NTQwMCwtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbLTMxOTE1ODAxMiwtMTgyODUwNzExM119
 -->
