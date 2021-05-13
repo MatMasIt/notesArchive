@@ -322,9 +322,23 @@ $$
 $$
 Siccome $2 \gg 1$ posso togliere i logaritmi senza inveritre segno
 
-$\log_{\frac{1}{3}}(x-5
+$\log_{\frac{1}{3}}(x-5) \ll 1$
+$\log_{\frac{1}{3}}(x-5) \ll \log_{\frac{1}{3}}(\frac{1}{3})$
 
+
+Siccome $0\ll \frac{1}{3} \ll 1$
+
+
+Quindi
+
+$x-5 \gg \frac{1}{3}$
+
+
+$x \gg \frac{16}{3}$
+
+
+Accettabile nel campo di esistenza?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc2MDAxMTMsLTQ0MzcyMjkzMSwtMT
+eyJoaXN0b3J5IjpbLTIxMjQ4MDg3OTEsLTQ0MzcyMjkzMSwtMT
 gwMTgxNDI5MiwtMTgyODUwNzExM119
 -->
