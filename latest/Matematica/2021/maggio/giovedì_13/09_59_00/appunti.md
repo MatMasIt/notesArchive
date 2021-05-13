@@ -410,8 +410,11 @@ $$
 			   O###########
 		--------######O###
 		 ------O############
-$x \gg 0 \or $
+$x \gg 0  , x\neq 1$
+
+
+$log_{x}x^{-1}+\frac{\log{x}x^2}{}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjU0OTMzOCwtNDQzNzIyOTMxLC0xOD
+eyJoaXN0b3J5IjpbMTUwMjIzMzIwOCwtNDQzNzIyOTMxLC0xOD
 AxODE0MjkyLC0xODI4NTA3MTEzXX0=
 -->
