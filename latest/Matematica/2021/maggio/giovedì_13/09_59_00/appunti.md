@@ -68,7 +68,13 @@ $$
 f(-3)=-1
 $$
 
-$$g(
+$f(\alpha_{1}) \gg 0$
+$f(-3) \ll 0$
+
+$\beta$ è radice dell'euquazione e 
+$\beta\in[-3,-1]$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTQxMzQ5NCwtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbLTU5ODQ5MjY5NywtMTgyODUwNzExM119
 -->
