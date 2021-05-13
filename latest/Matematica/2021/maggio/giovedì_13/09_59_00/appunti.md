@@ -462,8 +462,11 @@ $f(x): y=log_{\frac{1}{3}}x\\
 g(x): y=\frac{x-1}{x}$
 
 
-
+Trovare asindoti funz omografica
+$D=0,x=0\\
+Con	\,limite:\\
+\frac{x}{x}=1$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDA1OTk1OTUsLTQ0MzcyMjkzMSwtMT
-gwMTgxNDI5MiwtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbLTk1ODgwNTc2NiwtMTQ0MDU5OTU5NSwtND
+QzNzIyOTMxLC0xODAxODE0MjkyLC0xODI4NTA3MTEzXX0=
 -->
