@@ -41,9 +41,17 @@ $$
 
 
 $$
-f(\alpha_{1})=a_{1}^3-2\alpha_\\
-f(\alpha_{2})=\\
+f(\alpha_{1})=\alpha_{1}^3-2\alpha_{2}^2-8\alpha_{2}+20= 25,05\\
+f(\alpha_{1}) \gg 0?\\
+25,05 \gg 0
+\\ sì\\
 $$
+
+---
+
+$$
+f(\alpha_{2})=\\
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0NjI0MTg0LC0xODI4NTA3MTEzXX0=
+eyJoaXN0b3J5IjpbMTQ3NzQyNzUyNSwtMTgyODUwNzExM119
 -->
