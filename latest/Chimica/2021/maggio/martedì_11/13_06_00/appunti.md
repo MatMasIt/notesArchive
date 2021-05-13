@@ -161,8 +161,9 @@ $\Delta E=E_{Cu}-E_{Zn}$
 
 Elettrodo che si riduce positivo, quello che si ossida è negativo
 
-$Zn \rightar
+$Zn \rightarrow Zn^{+2}+2e^{-}$
+$Cu+2e^{-}\rightarrow Cu$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDExMzgwNywxMjQ3ODY5NzcyLDE2Mj
+eyJoaXN0b3J5IjpbLTc2NDc1NzM2OSwxMjQ3ODY5NzcyLDE2Mj
 Y0MTM1NSwxNzc4MTIyMjM0XX0=
 -->
