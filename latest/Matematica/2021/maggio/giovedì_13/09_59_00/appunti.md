@@ -211,9 +211,11 @@ CE
 	                         O
 
 $D(-1,0)U(0,+\infin)$
-
-\frac{\log_{\frac{1}{2}}(x+6) }{\log_{\frac{1}{2}}(x+1)} \geq 2
+$$
+\frac{\log_{\frac{1}{2}}(x+1)-2\log_{\frac{1}{2}}(x+1)}{\log_{\frac{1}{2}}(x+1)} \geq 0
+$$
+$N \geq 0\rightarrow$  $\log_{\frac{1}{2}}(x+1) \geq 2\log_{\frac{1}{2}}(x+1)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUwMjE4MTcsLTQ0MzcyMjkzMSwtMT
+eyJoaXN0b3J5IjpbLTE2Mzg2NzM4MzEsLTQ0MzcyMjkzMSwtMT
 gwMTgxNDI5MiwtMTgyODUwNzExM119
 -->
