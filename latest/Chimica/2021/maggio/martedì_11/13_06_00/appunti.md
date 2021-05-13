@@ -103,8 +103,13 @@ Aumento del potere riducente (ossidazione), lo zinco è quello che si ossida di 
 |Pb|!|
 |Zn|+|
 
-Coppi
+Coppia ossiduriduttiva dell'idrogeno
+
+$H_{2}/H^{+}$
+
+
+$/\\\7\7$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg4MDMxMjAsMTYyNjQxMzU1LDE3Nz
-gxMjIyMzRdfQ==
+eyJoaXN0b3J5IjpbLTY0Mzg3OTQwOSwxNjI2NDEzNTUsMTc3OD
+EyMjIzNF19
 -->
