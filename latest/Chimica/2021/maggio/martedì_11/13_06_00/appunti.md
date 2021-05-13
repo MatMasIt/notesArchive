@@ -108,8 +108,9 @@ Coppia ossiduriduttiva dell'idrogeno
 $H_{2}/H^{+}$
 
 
-1:1 d
+1:1 $H_{2} \,12 M$ 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjMzMDc0MCwxMjQ3ODY5NzcyLDE2Mj
+eyJoaXN0b3J5IjpbLTIzMjk2MDM5OSwxMjQ3ODY5NzcyLDE2Mj
 Y0MTM1NSwxNzc4MTIyMjM0XX0=
 -->
