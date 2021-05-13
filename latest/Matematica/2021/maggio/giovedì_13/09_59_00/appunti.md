@@ -29,8 +29,13 @@ $$
 
 $$
 P'(x) \gg 0\\
-z
+x \ll \alpha_{1} \,v\, x\gg \alpha_{2}\\
+x \ll \frac{2- 2\sqrt{7}}{3} \, v \, x \gg \frac{2+2\sqrt{7}}{3}
 $$
+
+
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzU5MjY4NiwtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbLTEzNTM4NDIxMDEsLTE4Mjg1MDcxMTNdfQ
+==
 -->
