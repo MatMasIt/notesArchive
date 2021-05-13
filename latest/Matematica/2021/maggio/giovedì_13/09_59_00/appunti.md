@@ -215,6 +215,8 @@ $$
 \frac{\log_{\frac{1}{2}}(x+1)-2\log_{\frac{1}{2}}(x+1)}{\log_{\frac{1}{2}}(x+1)} \geq 0
 $$
 
+> -2(
+
 $N \geq 0\rightarrow$  $\log_{\frac{1}{2}}(x+1) \geq 2\log_{\frac{1}{2}}(x+1)$
 
 
@@ -252,8 +254,15 @@ x\neq0
 $$
 Mettendo a sistema
 
-$o\llx \ll
+	---(a)----(-1)---(0)----(b)
+	                  ########
+$0 \ll x \ll \frac{\sqrt{21}-1}{2}$
+
+
+
+
+## es
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1Njg4MjY5LC00NDM3MjI5MzEsLTE4MD
-E4MTQyOTIsLTE4Mjg1MDcxMTNdfQ==
+eyJoaXN0b3J5IjpbLTE4NDM2MTYyODMsLTQ0MzcyMjkzMSwtMT
+gwMTgxNDI5MiwtMTgyODUwNzExM119
 -->
