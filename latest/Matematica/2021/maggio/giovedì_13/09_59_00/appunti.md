@@ -466,7 +466,15 @@ Trovare asindoti funz omografica
 $D=0,x=0\\
 Con	\,limite:\\
 \frac{x}{x}=1$
+
+
+Risoluzione grafica
+
+
+
+![](https://i.imgur.com/lKoiMZu.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODgwNTc2NiwtMTQ0MDU5OTU5NSwtND
-QzNzIyOTMxLC0xODAxODE0MjkyLC0xODI4NTA3MTEzXX0=
+eyJoaXN0b3J5IjpbMTY1NDIxMjQ0MiwtOTU4ODA1NzY2LC0xND
+QwNTk5NTk1LC00NDM3MjI5MzEsLTE4MDE4MTQyOTIsLTE4Mjg1
+MDcxMTNdfQ==
 -->
