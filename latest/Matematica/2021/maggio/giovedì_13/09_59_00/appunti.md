@@ -79,10 +79,18 @@ Soluzione
 $$
 \begin{equation}
 \begin{center}
-\end{centre}
+d
+\end{center}
 \end{equation}
 x \gg \beta
 $$
+
+$D=(\beta, +\infin)$
+
+$$
+f(x)=log_{2}(x^3--2x^2-8x+20)=\log_{2}2^2
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3OTI2ODk2LC0xODI4NTA3MTEzXX0=
+eyJoaXN0b3J5IjpbLTEzMjQxMjMyMzAsLTE4Mjg1MDcxMTNdfQ
+==
 -->
