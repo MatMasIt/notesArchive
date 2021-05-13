@@ -350,11 +350,22 @@ z \gg \frac{16}{3}
 $$
 
 		--(3)-----(16/3)-------(6)
-		   O----------O
+		   O----------#########O
 		             O#########O---
 
 $\frac{16}{3} \ll x \ll 6$
+
+## es 477 p 87
+
+$e^{2x}\leq 2$
+
+
+$e^{2x} \leq e^{\ln2}$
+
+$e \gg 1$ quindi posso scrivere la stessa relazione tra gli esponenti
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU0OTU0ODUsLTQ0MzcyMjkzMSwtMT
+eyJoaXN0b3J5IjpbLTE1MTIxNjYwNTQsLTQ0MzcyMjkzMSwtMT
 gwMTgxNDI5MiwtMTgyODUwNzExM119
 -->
