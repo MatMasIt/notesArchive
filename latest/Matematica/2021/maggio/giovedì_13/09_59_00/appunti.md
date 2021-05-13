@@ -405,7 +405,13 @@ x \neq 0
 \end{cases}
 \end{equation}
 $$
+
+			--(0)----(1)-----
+			   O###########
+		--------######O###
+		 ------O############
+$x \gg 0 \or $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzEwMjUwLC00NDM3MjI5MzEsLTE4MD
-E4MTQyOTIsLTE4Mjg1MDcxMTNdfQ==
+eyJoaXN0b3J5IjpbMTI5MjU0OTMzOCwtNDQzNzIyOTMxLC0xOD
+AxODE0MjkyLC0xODI4NTA3MTEzXX0=
 -->
