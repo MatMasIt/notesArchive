@@ -206,14 +206,14 @@ $$
 CE
 
 	---(-6)------(-1)-------(0)-------
-	    O--------------------------
-	               O-----------------
-	                          =
+	    O-----------#########O#######
+	               ##########O#########
+	                         O
 
 $D(-1,0)U(0,+\infin)$
 
-
+\frac{\log_{\frac{1}{2}}(x+6) }{\log_{\frac{1}{2}}(x+1)} \geq 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTU4MTAwNywtNDQzNzIyOTMxLC0xOD
-AxODE0MjkyLC0xODI4NTA3MTEzXX0=
+eyJoaXN0b3J5IjpbLTExNDUwMjE4MTcsLTQ0MzcyMjkzMSwtMT
+gwMTgxNDI5MiwtMTgyODUwNzExM119
 -->
