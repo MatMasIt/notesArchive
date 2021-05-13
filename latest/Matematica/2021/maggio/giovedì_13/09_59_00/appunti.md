@@ -168,9 +168,30 @@ $x \gg -1$
 ### es 505
 
 $$
-\frac{\log_{\frac{1}{2}(x+6) }}{\log_{\frac{1}{2}}}
+\frac{\log_{\frac{1}{2}}(x+6) }{\log_{\frac{1}{2}}(x+1)}
+$$
+
+$$
+C.E. 
+\begin{equation}
+\begin{cases}
+x+6 \gg0\\
+x+1 \gg0\\
+\log_{\frac{1}{2}} \neq0
+\end{cases}
+\end{equation}
+$$
+
+$$
+\begin{equation}
+\begin{cases}
+x+6 \gg0\\
+x+1 \gg0\\
+\log_{\frac{1}{2}} \neq0
+\end{cases}
+\end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjE3MzU0NiwtNDQzNzIyOTMxLC0xOD
-AxODE0MjkyLC0xODI4NTA3MTEzXX0=
+eyJoaXN0b3J5IjpbMzQxNjQyNzI3LC00NDM3MjI5MzEsLTE4MD
+E4MTQyOTIsLTE4Mjg1MDcxMTNdfQ==
 -->
