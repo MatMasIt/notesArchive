@@ -60,7 +60,8 @@ $$
 
 $$
 f(0)=20
+\alpha_{
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjY1MjQxNywtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbLTYxOTU5OTY3MywtMTgyODUwNzExM119
 -->
