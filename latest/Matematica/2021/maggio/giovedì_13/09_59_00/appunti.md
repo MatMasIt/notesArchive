@@ -95,6 +95,12 @@ x=\begin{equation}
 $$
 
 
+## Esercizio
+$$
+\log_{3}(x+1)-log_{3}(2x+5) \leq 3
+$$
+$C.E.\, \, $
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwODg0Mzc3LC0xODI4NTA3MTEzXX0=
+eyJoaXN0b3J5IjpbMTAxOTc3NTQwMCwtMTgyODUwNzExM119
 -->
