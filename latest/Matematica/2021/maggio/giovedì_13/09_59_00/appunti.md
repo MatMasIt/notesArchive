@@ -185,13 +185,29 @@ $$
 $$
 \begin{equation}
 \begin{cases}
-x+6 \gg0\\
-x+1 \gg0\\
-\log_{\frac{1}{2}} \neq0
+x \gg-6\\
+x \gg-1\\
+\log_{\frac{1}{2}} \neq \log _{\frac{1}{2}} 1
 \end{cases}
 \end{equation}
 $$
+
+$$
+\begin{equation}
+\begin{cases}
+x \gg-6\\
+x \gg-1\\
+x\new0
+\end{cases}
+\end{equation}
+$$
+
+
+CE
+
+	---(-6)------(-1)-------(0)-------
+	     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxNjQyNzI3LC00NDM3MjI5MzEsLTE4MD
-E4MTQyOTIsLTE4Mjg1MDcxMTNdfQ==
+eyJoaXN0b3J5IjpbLTQwNDM0NjcwNiwtNDQzNzIyOTMxLC0xOD
+AxODE0MjkyLC0xODI4NTA3MTEzXX0=
 -->
