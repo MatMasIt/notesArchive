@@ -116,8 +116,8 @@ $M+HCl\rightarrow MCl+H_{2}$
 |Metallo|Reazione|
 |--------|-------|
 |$CU$|No|
-
+|$Pb$|Sì|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxODM2NjcxLDEyNDc4Njk3NzIsMTYyNj
-QxMzU1LDE3NzgxMjIyMzRdfQ==
+eyJoaXN0b3J5IjpbLTYwMjc2MjEwOCwxMjQ3ODY5NzcyLDE2Mj
+Y0MTM1NSwxNzc4MTIyMjM0XX0=
 -->
