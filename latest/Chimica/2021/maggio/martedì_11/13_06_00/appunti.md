@@ -102,6 +102,9 @@ Aumento del potere riducente (ossidazione), lo zinco è quello che si ossida di 
 |Cu|!|
 |Pb|!|
 |Zn|+|
+
+Coppi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjQxMzU1LDE3NzgxMjIyMzRdfQ==
+eyJoaXN0b3J5IjpbLTIwOTg4MDMxMjAsMTYyNjQxMzU1LDE3Nz
+gxMjIyMzRdfQ==
 -->
