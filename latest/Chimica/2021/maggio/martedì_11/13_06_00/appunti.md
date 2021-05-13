@@ -98,18 +98,18 @@ Ag rid
 Aumento del potere riducente (ossidazione), lo zinco è quello che si ossida di più
 |Elemento|Scala|
 |---|---|
-|Ag|-|
-|Cu|!|
-|Pb|!|
-|Zn|+|
+|$Ag$|$-$|
+|$Cu$|$!$|
+|$Pb$|$!$|
+|$Zn$|$+$|
 
 Coppia ossiduriduttiva dell'idrogeno
 
 $H_{2}/H^{+}$
 
 
-
+1:1 d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Nzg2OTc3MiwxNjI2NDEzNTUsMTc3OD
-EyMjIzNF19
+eyJoaXN0b3J5IjpbLTIyNjMzMDc0MCwxMjQ3ODY5NzcyLDE2Mj
+Y0MTM1NSwxNzc4MTIyMjM0XX0=
 -->
