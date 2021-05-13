@@ -147,8 +147,14 @@ H è lo 0
 Effetto redox: corrente elettrica (pila)
 Pila è u convertitore da energia chimica a energia elettrica
 
+Segno dei potenziali: convenzione matematica che permette che i calcoli tornano
 
+
+
+
+$Cu/Zn\\\Delta E\gg0$
+for
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Njk0MDgzNiwxMjQ3ODY5NzcyLDE2Mj
-Y0MTM1NSwxNzc4MTIyMjM0XX0=
+eyJoaXN0b3J5IjpbLTE2ODgxMTMzNTcsMTI0Nzg2OTc3MiwxNj
+I2NDEzNTUsMTc3ODEyMjIzNF19
 -->
