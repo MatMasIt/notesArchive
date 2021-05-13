@@ -88,9 +88,13 @@ x^3--2x^2-8x+20=4\\
 (x-2)(x-2\sqrt{2})(x+2\sqrt{2})=0\\
 x=\begin{equation}
 \begin{cases}
+2 \, \, Acc.\\
+\pm 2\sqrt{2} \, \,Acc.
 \end{cases}
-\end{cases}
+\end{equation}
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDAwNDgwMywtMTgyODUwNzExM119
+eyJoaXN0b3J5IjpbNjEwODg0Mzc3LC0xODI4NTA3MTEzXX0=
 -->
