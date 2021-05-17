@@ -135,6 +135,8 @@ Race of beautiful, gentle, kind, intellectual, rational and speaking horses
 They rule on angry, stupud, cruel, dirty, irrational race: *Yahoos* (they are **a reflection of human beings**)
 
 Criticism of human beings
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTgyODYyNF19
+eyJoaXN0b3J5IjpbLTc5NDY4MDRdfQ==
 -->
