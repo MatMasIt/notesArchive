@@ -134,8 +134,17 @@ atmosfera riducente $\rightarrow$ ossidante
 
 vita aerobia
 
-Reazioni 
+Reazioni redox molto comuni
+
+> **Candeggina** ossida sostanze che macchiano i vestiti
+
+Ad ogni elemento presente in uncomposto o in un ione
+
+o *forma molecoalre* o *forma ionica*
+
+* Foma Molecolare:
+*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODE0ODM4MCwtNDgzMDE5ODY3LC0xMz
-Q4NTE1MTI4XX0=
+eyJoaXN0b3J5IjpbNzcxMzA1MzYwLDExMDgxNDgzODAsLTQ4Mz
+AxOTg2NywtMTM0ODUxNTEyOF19
 -->
