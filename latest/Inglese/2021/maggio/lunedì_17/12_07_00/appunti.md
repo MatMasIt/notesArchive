@@ -54,13 +54,13 @@ p. 224
 
 means: mezzi
 
-exaggeration + distortion + multiple/changing perspective on human behaviour (Traveller, in *Gulliver's travels*, **Gulliver** is always seen under a differnt light in the different countries he visits)
-
+exaggeration + distortion + multiple/changing perspective on human behaviour (Traveller, in *Gulliver's travels*, **Gulliver** is always seen under a differnt light in the different countries he visits -he will visit 4 countries-  )
+ 
 #### *Satire*'s aims
 * laughing
 * reflecting
 * criticizing
 * find an alternative
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg3ODMwNTBdfQ==
+eyJoaXN0b3J5IjpbMjE2Mzk0MTQ4XX0=
 -->
