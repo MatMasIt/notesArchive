@@ -30,6 +30,8 @@ Labeled as a *misanthrope*: someone who despises human beings
 
 
 p. 224
+### Satire
+
 *Satire*: ironical criticism (usually politics and society)
 
 > **Satire**: a wayy of criticizing people or hideas in a humorous/ironical ways (laugh, but reflect: double effect)
@@ -40,8 +42,10 @@ p. 224
 >***"Satire is a sort of glass wherein beholders do generally discover everybody's sface but their own"***
 > (A mirror in which a reader can see the face of everyone around them but not their face)
 > The readers of the satire **are not aware of the fact that they could be the *addressees* (target) of the satire, so they don't get offended**
-> `implied crit`
+> `implied criticism made effective through irony`
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDExODM0OV19
+eyJoaXN0b3J5IjpbMTkxNzUzMjg5N119
 -->
