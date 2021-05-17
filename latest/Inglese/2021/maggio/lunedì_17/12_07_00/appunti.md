@@ -4,7 +4,15 @@
 
 Gulliver's Travels, by Jonahtan Swift
 
+## Jonathan Swift
+He was Irish, born in Dublin
+His family was english
 
+
+p.223
+He came back to England during the glorious revolution
+He became a secretary for*William Temple*, Whigh statement
+S
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzEyNTM0ODddfQ==
+eyJoaXN0b3J5IjpbLTEyMjY0ODM2NjRdfQ==
 -->
