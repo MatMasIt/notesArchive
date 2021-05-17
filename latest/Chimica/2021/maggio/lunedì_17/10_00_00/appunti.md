@@ -161,9 +161,10 @@ Cede
 elettrone
 $Na\rightarrow Na^{+}+1e^{-}$
 
+---
 
-
+é importante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTEyOTUxNjQsMTEwODE0ODM4MCwtND
-gzMDE5ODY3LC0xMzQ4NTE1MTI4XX0=
+eyJoaXN0b3J5IjpbMTYyMzYwOTYxOSwtMTM1MTI5NTE2NCwxMT
+A4MTQ4MzgwLC00ODMwMTk4NjcsLTEzNDg1MTUxMjhdfQ==
 -->
