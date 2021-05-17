@@ -37,7 +37,9 @@ p. 224
 > 
 > ---
 > Swift's definition of **satire**
+> **"Satire is a sort of glass wherein beholders do generally discover everybody's sface but their own"**
+> (A mirror in which a reader can see ey face of everyone around them but not their face
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI3NzkzODBdfQ==
+eyJoaXN0b3J5IjpbNTk1NDU3NzQxXX0=
 -->
