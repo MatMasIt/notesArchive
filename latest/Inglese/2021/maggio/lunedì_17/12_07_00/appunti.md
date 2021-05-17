@@ -65,7 +65,7 @@ exaggeration + distortion + multiple/changing perspective on human behaviour (Tr
 
 p. 224 - The Plot
 There are 4 books and each book deals with *1* voyage
-#### 1° Voyage
+#### 1° voyage
 Land of Lilliput, small people
 Gulliver is a giant
 
@@ -95,7 +95,7 @@ They are reflection of the vices of english politicians
     One of the main targets of Swift is the
     English Government
 
-#### 2° Voyage 
+#### 2° voyage 
 
 Land of *Brodbingang*, land of giants, he feels like a lilliputian
 
@@ -119,11 +119,17 @@ Island of **Laputa**, flying island
 
 satirizing the scientific community of that time (mirror of The Royal Society - founded in 1662-)
 
-**Evident   
+**Evident** satire   
 
 > Swift was **brave** and **anticonformist**
 
+#### 4° voyage
 
+Land of the **Houyhnhnms**
+
+Most debated books
+
+Race of beautiful, gentleintellectual and rational and speaking horses
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk5MzQzNDddfQ==
+eyJoaXN0b3J5IjpbLTc3OTQ3OTg3Ml19
 -->
