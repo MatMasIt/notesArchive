@@ -50,7 +50,11 @@ p. 224
 * Meanwhile they try to find a moral alternative
 * They are not offended by criticism because they don't recognize themselves as the targets
 
-#### **Satire
+#### *Satire* 's means:
+
+means: mezzi
+
+exaggeration + distortion + multiple/changing perspective on human behaviour (Traveller, in *Gullive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODU4MjcyXX0=
+eyJoaXN0b3J5IjpbLTE2NDYyMzYxMzVdfQ==
 -->
