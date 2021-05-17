@@ -82,9 +82,9 @@ self-importance
 self-pride
 the author wants to criticize such vices
 
-Corruption and bribery are other characteristics of the lilliputians
+Corruption and bribery (in elections) are other characteristics of the lilliputians 
 
-(
+(*Sir Robert Walpole*, accused of bribery in elections is mirrored by *Flimnap*)
 
 They are reflection of the vices of english politicians
 
@@ -93,5 +93,5 @@ They are reflection of the vices of english politicians
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTA5NzgwNzBdfQ==
+eyJoaXN0b3J5IjpbMTM5OTg3MzQ1OF19
 -->
