@@ -117,9 +117,11 @@ Come bilanciare una reazione di ossidoriduzione
 
 ## Metodo delle semireazioni
 
+Ossidazioni 
+$CH_{4}+O_{2} \rightarrow CO_{2}+H_{2}O$
+oppure
+$4Na+O_{2}  \rightarrow 2Na_{2}O$
 
-
-$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY3OTQ2MjZdfQ==
+eyJoaXN0b3J5IjpbMjYwMDQ3NDY1XX0=
 -->
