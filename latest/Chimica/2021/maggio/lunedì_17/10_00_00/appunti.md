@@ -195,14 +195,14 @@ Nelle redox il trasferimento di elettroni li varia
 
 Elemento allo stato naturale ha sempre stato ossidativo $0$
 
-$KCl+MnO_{2}+H_{2}SO_{4}\rightarrow K_{2}SO_{4}+MNSO_{4}+Cl_{2}+H_{2}O$
+$KCl+MnO_{2}+H_{2}SO_{4}\rightarrow K_{2}SO_{4}+MnSO_{4}+Cl_{2}+H_{2}O$
 
 * è in forma molecolare
-* Il cloro da $-1$ passa a $0$
-* Il manganese passa da stati ossidativi $+4$ a $+2$
-* 
-$2KCl+MnO_{2}+2H_{2}SO_{4}\rightarrow K_{2}SO_{4}+MNSO_{4}+Cl_{2}+H_{2}O$
+* Il cloro da $-1$ passa a $0$: $OX;si\,ossida$ (cede eccesso elettronico, aumento di numero di ossidazione)
+* Il manganese passa da stati ossidativi $+4$ a $+2$ $RID;si\,riduce$ (riduzione del numero di ossidazione)
+
+$2KCl+MnO_{2}+2H_{2}SO_{4}\rightarrow K_{2}SO_{4}+MnSO_{4}+Cl_{2}+2H_{2}O$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODU4OTE3NSwtMTM1MTI5NTE2NCwxMT
-A4MTQ4MzgwLC00ODMwMTk4NjcsLTEzNDg1MTUxMjhdfQ==
+eyJoaXN0b3J5IjpbNjQwNjM5MDIwLC0xMzUxMjk1MTY0LDExMD
+gxNDgzODAsLTQ4MzAxOTg2NywtMTM0ODUxNTEyOF19
 -->
