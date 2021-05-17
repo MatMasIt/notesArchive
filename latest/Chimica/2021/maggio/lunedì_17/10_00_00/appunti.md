@@ -113,7 +113,9 @@ $m_{g}=0,67g$
 
 Fino ad ora abbiamo bilanciato le reazioni in massa, ora dobbiamo imparare a bilanciare in carica
 
+Come bilanciare una reazione di ossidoriduzione
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODAwMTY1NTNdfQ==
+eyJoaXN0b3J5IjpbLTU4NzkzMTM3M119
 -->
