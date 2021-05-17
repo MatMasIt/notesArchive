@@ -32,8 +32,12 @@ Labeled as a *misanthrope*: someone who despises human beings
 p. 224
 *Satire*: ironical criticism (usually politics and society)
 
-> **Satire**: a wayy of criticizing people or hideas in a humorous/ironical ways (laugh, but reflect: double )
+> **Satire**: a wayy of criticizing people or hideas in a humorous/ironical ways (laugh, but reflect: double effect)
+> **Satire** in **art**: arstistic form in which human vices, follies, abuses are criticized by means of derision, parody or caricature and distortion
+> 
+> ---
+> Swift's definition of **satire**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzQ2NDAyOV19
+eyJoaXN0b3J5IjpbLTE4NzI3NzkzODBdfQ==
 -->
