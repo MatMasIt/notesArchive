@@ -209,12 +209,15 @@ $2KCl+MnO_{2}+2H_{2}SO_{4}\rightarrow K_{2}SO_{4}+MnSO_{4}+Cl_{2}+2H_{2}O$
 ---
 Scriviamo una reazione sotto forma ionica
 
-$Fe^{+3}+
+$Fe^{3+}+Sn^{2+}\rightarow$
 
-Fe +3 to +2 RID
-Sn +2 to +4 OX
+* Fe +3 to +2 RID
+	* $\Delta e= +2e^
+* Sn +2 to +4 OX
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTY2NTM2NjMsNjQwNjM5MDIwLC0xMz
-UxMjk1MTY0LDExMDgxNDgzODAsLTQ4MzAxOTg2NywtMTM0ODUx
-NTEyOF19
+eyJoaXN0b3J5IjpbODMxMTExMzI4LDY0MDYzOTAyMCwtMTM1MT
+I5NTE2NCwxMTA4MTQ4MzgwLC00ODMwMTk4NjcsLTEzNDg1MTUx
+MjhdfQ==
 -->
