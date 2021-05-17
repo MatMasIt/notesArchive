@@ -115,7 +115,11 @@ Fino ad ora abbiamo bilanciato le reazioni in massa, ora dobbiamo imparare a bil
 
 Come bilanciare una reazione di ossidoriduzione
 
+## Metodo delle semireazioni
 
+
+
+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzkzMTM3M119
+eyJoaXN0b3J5IjpbLTE2NTY3OTQ2MjZdfQ==
 -->
