@@ -180,8 +180,10 @@ $Fe_{2} \rightarrow+6$
 $(SO_{4})_{3}\rightarrow +6 \cdot 3 \rightarrow 24$
 
 #### 2
-$2Fe^{+3}+3SO_{4}^{-2}+SO^{4}(+6,-8,-2)$
+$2Fe^{+3}+3SO_{4}^{-2}\\SO^{4}(+6,-8,-2)$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzYxNzU3NSwtMTM1MTI5NTE2NCwxMT
-A4MTQ4MzgwLC00ODMwMTk4NjcsLTEzNDg1MTUxMjhdfQ==
+eyJoaXN0b3J5IjpbLTIwODUzNzc3NTIsLTEzNTEyOTUxNjQsMT
+EwODE0ODM4MCwtNDgzMDE5ODY3LC0xMzQ4NTE1MTI4XX0=
 -->
