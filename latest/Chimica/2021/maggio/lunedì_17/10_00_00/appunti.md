@@ -156,9 +156,14 @@ Energia di prima ionizzazione: occorre dare poca energia a $Na$ perchè ceda un 
 
 $Valenza$: Non ha segno
 
-$Na$, $Valenza:1\,\,\,Stato\,Ossidati$
+$Na$, $Valenza:1\,\,\,Stato\,Ossidativo:+1$
+Cede
+elettrone
+$Na\rightarrow Na^{+}+1e^{-}$
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTg4NjU4NiwxMTA4MTQ4MzgwLC00OD
-MwMTk4NjcsLTEzNDg1MTUxMjhdfQ==
+eyJoaXN0b3J5IjpbLTEzNTEyOTUxNjQsMTEwODE0ODM4MCwtND
+gzMDE5ODY3LC0xMzQ4NTE1MTI4XX0=
 -->
