@@ -12,7 +12,14 @@ His family was english
 p.223
 He came back to England during the glorious revolution
 He became a secretary for*William Temple*, Whigh statement
-S
+Good understanding 
+Satirical works
+
+1694 He came back to Irelad as an Anglican Priest priest, he helped needy people
+
+He strongly opposed te Whig government
+
+Controverisal for his satire
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY0ODM2NjRdfQ==
+eyJoaXN0b3J5IjpbLTc1MDI4ODAwMV19
 -->
