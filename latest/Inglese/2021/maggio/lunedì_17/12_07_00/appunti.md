@@ -46,7 +46,11 @@ p. 224
 
 #### How does it work?
 * Observes see human vice or folly (something familiar) reflected in a mirror
-*They laugh at it because it is exaggerated trough parody, distorstion ,caricature
+* They laugh at it because it is exaggerated trough parody, distorstion, caricature
+* Meanwhile they try to find a moral alternative
+* They are not offended by criticism because they don't recognize themselves as the targets
+
+#### **Satire
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDMwMDIxNV19
+eyJoaXN0b3J5IjpbMTQwODU4MjcyXX0=
 -->
