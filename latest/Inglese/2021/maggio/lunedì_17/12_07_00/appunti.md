@@ -31,7 +31,7 @@ Labeled as a *misanthrope*: someone who despises human beings
 
 p. 224
 ### Satire
-
+#### What is it?
 *Satire*: ironical criticism (usually politics and society)
 
 > **Satire**: a wayy of criticizing people or hideas in a humorous/ironical ways (laugh, but reflect: double effect)
@@ -44,8 +44,9 @@ p. 224
 > The readers of the satire **are not aware of the fact that they could be the *addressees* (target) of the satire, so they don't get offended**
 > `implied criticism made effective through irony`
 
-
-
+#### How does it work?
+* Observes see human vice or folly (something familiar) reflected in a mirror
+*They laugh at it because it is exaggerated trough parody, distorstion ,caricature
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzUzMjg5N119
+eyJoaXN0b3J5IjpbLTI3NDMwMDIxNV19
 -->
