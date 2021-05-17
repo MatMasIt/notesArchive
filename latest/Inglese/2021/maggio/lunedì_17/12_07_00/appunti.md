@@ -64,7 +64,7 @@ exaggeration + distortion + multiple/changing perspective on human behaviour (Tr
 
 
 p. 224 - The Plot
-There are 4 books and each book deals with 
+There are 4 books and each book deals with *1* voyage
 #### 1° Voyage
 Land of Lilliput, small people
 Gulliver is a giant
@@ -99,10 +99,23 @@ They are reflection of the vices of english politicians
 
 Land of *Brodbingang*, land of giants, he feels like a lilliputian
 
-Second book: start of Gulliver's mortification/humiiation
+Second book: start of Gulliver's mortification/humilation
 
+   
 
+> In the first book he was a giant
+> now in the second he is 
+> * physically
+>*  psychologically
+> * morally
+> 
+> mortified
 
+He realizes the limits of te english government and society
+
+#### 3° voyage
+
+Island of **La
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg2NTIzNjNdfQ==
+eyJoaXN0b3J5IjpbMTA4NTk3MTM3MV19
 -->
