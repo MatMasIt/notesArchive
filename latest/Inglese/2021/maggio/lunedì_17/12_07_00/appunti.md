@@ -64,6 +64,10 @@ exaggeration + distortion + multiple/changing perspective on human behaviour (Tr
 
 
 p. 224 - The Plot
+
+#### 1 
+Land of Lilliput, small people
+Gulliver is a giant
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5MzMxNjM3XX0=
+eyJoaXN0b3J5IjpbLTIxMjcxNzI2NTddfQ==
 -->
