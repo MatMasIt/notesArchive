@@ -147,8 +147,18 @@ $NaClO$
 * Forma ionica
 $CLO^{-}$
 
+---
+
+Elettrone spaiato
+
+Energia di prima ionizzazione: occorre dare poca energia a $Na$ perchè ceda un elettrone
+
+
+$Valenza$: Non ha segno
+
+$Na$, $Valenza:1\,\,\,Stato\,Ossidati$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4OTMyMzA2LDExMDgxNDgzODAsLTQ4Mz
-AxOTg2NywtMTM0ODUxNTEyOF19
+eyJoaXN0b3J5IjpbMjEzNTg4NjU4NiwxMTA4MTQ4MzgwLC00OD
+MwMTk4NjcsLTEzNDg1MTUxMjhdfQ==
 -->
