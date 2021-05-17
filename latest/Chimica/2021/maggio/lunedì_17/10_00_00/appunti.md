@@ -127,6 +127,14 @@ Metalli in presenza di ossigeno: ossidazione
 Ossidazione e riduzione sono simutanee
 Numero di elettroni persi da una sostanza è uguale al numero di elettroni guadanati da un altra
 
+Atmosfera iniziale di $
+
+atmosfera riducente $\rightarrow$ ossidante
+
+vita aerobia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzAxOTg2NywtMTM0ODUxNTEyOF19
+eyJoaXN0b3J5IjpbLTg3NjIzMzcyLC00ODMwMTk4NjcsLTEzND
+g1MTUxMjhdfQ==
 -->
