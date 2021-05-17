@@ -26,7 +26,10 @@ Gulliver's Travels (1726) one of his masterpieces, satyrical novel (also, a tale
 Someone loved and someone hated him
 
 
-Labeled *misanthrope*: someone who despises human beings
+Labeled as a *misanthrope*: someone who despises human beings
+
+
+p. 224
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQzMjQ4OTJdfQ==
+eyJoaXN0b3J5IjpbMTUyMjE0MjI2NV19
 -->
