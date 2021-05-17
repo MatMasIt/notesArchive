@@ -68,6 +68,13 @@ p. 224 - The Plot
 #### 1 
 Land of Lilliput, small people
 Gulliver is a giant
+
+King of the lilliputians, always adored by the people
+They feel very important and pround to themselves
+
+They are used to the habit of *flattery* (adulazione)
+the king usually call him
+"great emperor",
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjcxNzI2NTddfQ==
+eyJoaXN0b3J5IjpbLTE2NjA1OTM4NjNdfQ==
 -->
