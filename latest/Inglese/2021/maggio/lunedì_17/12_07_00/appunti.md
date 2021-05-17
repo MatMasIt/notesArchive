@@ -74,7 +74,15 @@ They feel very important and pround to themselves
 
 They are used to the habit of *flattery* (adulazione)
 the king usually call him
-"great emperor",
+"great emperor", "majesty of the majesties", but he is very small
+irony
+vice of the lilliputians
+*obstentation* of the power
+self-importance
+self-pride
+the author wants to criticize such vices
+
+They are reflection of the v
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA1OTM4NjNdfQ==
+eyJoaXN0b3J5IjpbLTE4MTc5MjU4NTVdfQ==
 -->
