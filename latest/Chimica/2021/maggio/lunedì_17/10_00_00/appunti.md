@@ -1,4 +1,8 @@
 
+# Lezione di Chimica (3° ora)
+
+## lunedì 17 maggio 2021, 10:00:00
+
 # Correzione verifica
 
 ## Esercizio 1
@@ -108,6 +112,8 @@ $m_{g}=0,67g$
 (Ora 2)
 
 Fino ad ora abbiamo bilanciato le reazioni in massa, ora dobbiamo imparare a bilanciare in carica
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzU0MTgyOV19
+eyJoaXN0b3J5IjpbLTEwODAwMTY1NTNdfQ==
 -->
