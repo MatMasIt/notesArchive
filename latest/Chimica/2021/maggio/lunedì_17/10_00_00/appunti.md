@@ -185,8 +185,16 @@ $2Fe^{+3}+3SO_{4}^{-2}\\SO^{4}(+6,-8,-2)$
 ---
 
 Numero di osidazione
-Nelle redoz i
+Nelle redox il trasferimento di elettroni li varia
+
+
+> Reazioni **redox**, reazione chimica in cui i numeri di ossidazione subiscono una variazione
+> * redox: diminuisce numero di ossidazione
+> * ox: aumentani numero di ossidazione
+
+
+Elemento allo stato naturae
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQzMDkzNDAsLTEzNTEyOTUxNjQsMT
-EwODE0ODM4MCwtNDgzMDE5ODY3LC0xMzQ4NTE1MTI4XX0=
+eyJoaXN0b3J5IjpbLTQ2NzQ0NTk1MCwtMTM1MTI5NTE2NCwxMT
+A4MTQ4MzgwLC00ODMwMTk4NjcsLTEzNDg1MTUxMjhdfQ==
 -->
