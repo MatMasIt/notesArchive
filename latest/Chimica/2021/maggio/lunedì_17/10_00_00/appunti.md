@@ -195,8 +195,10 @@ Nelle redox il trasferimento di elettroni li varia
 
 Elemento allo stato naturale ha sempre stato ossidativo $0$
 
-$KCL+MnO_é2}+H_{2}SO_{4}\righta$
+$KCL+MnO_{2}+H_{2}SO_{4}\rightarrow K_{2}SO_{4}+MNSO_{4}+Cl_{2}+H_{2$
+
+* è in forma molecolare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA3NDQ0MDAsLTEzNTEyOTUxNjQsMT
+eyJoaXN0b3J5IjpbLTE2NDg1MjEwODksLTEzNTEyOTUxNjQsMT
 EwODE0ODM4MCwtNDgzMDE5ODY3LC0xMzQ4NTE1MTI4XX0=
 -->
