@@ -143,8 +143,12 @@ Ad ogni elemento presente in uncomposto o in un ione
 o *forma molecoalre* o *forma ionica*
 
 * Foma Molecolare:
-*
+$NaClO$
+* Forma ionica
+$CLO^{-}$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxMzA1MzYwLDExMDgxNDgzODAsLTQ4Mz
+eyJoaXN0b3J5IjpbNTI4OTMyMzA2LDExMDgxNDgzODAsLTQ4Mz
 AxOTg2NywtMTM0ODUxNTEyOF19
 -->
