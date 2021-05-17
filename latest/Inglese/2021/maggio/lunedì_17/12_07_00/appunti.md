@@ -82,7 +82,16 @@ self-importance
 self-pride
 the author wants to criticize such vices
 
-They are reflection of the v
+Corruption and bribery are other characteristics of the lilliputians
+
+(
+
+They are reflection of the vices of english politicians
+
+
+>Lilliputians are the mirror of the whigh government
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc5MjU4NTVdfQ==
+eyJoaXN0b3J5IjpbLTIwOTA5NzgwNzBdfQ==
 -->
