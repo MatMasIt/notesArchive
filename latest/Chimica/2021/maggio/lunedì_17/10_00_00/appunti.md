@@ -202,7 +202,12 @@ $KCl+MnO_{2}+H_{2}SO_{4}\rightarrow K_{2}SO_{4}+MnSO_{4}+Cl_{2}+H_{2}O$
 * Il manganese passa da stati ossidativi $+4$ a $+2$ $RID;si\,riduce$ (riduzione del numero di ossidazione)
 
 $2KCl+MnO_{2}+2H_{2}SO_{4}\rightarrow K_{2}SO_{4}+MnSO_{4}+Cl_{2}+2H_{2}O$
+* Cl
+	* Moli di $Cl$ in $KCL$: 1
+	* Moli di Cl in $CL_{2}$: 2
+	$\Delta e= 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNjM5MDIwLC0xMzUxMjk1MTY0LDExMD
-gxNDgzODAsLTQ4MzAxOTg2NywtMTM0ODUxNTEyOF19
+eyJoaXN0b3J5IjpbMjEwNjY4MDYwMCw2NDA2MzkwMjAsLTEzNT
+EyOTUxNjQsMTEwODE0ODM4MCwtNDgzMDE5ODY3LC0xMzQ4NTE1
+MTI4XX0=
 -->
