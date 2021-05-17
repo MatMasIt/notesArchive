@@ -205,9 +205,16 @@ $2KCl+MnO_{2}+2H_{2}SO_{4}\rightarrow K_{2}SO_{4}+MnSO_{4}+Cl_{2}+2H_{2}O$
 * Cl
 	* Moli di $Cl$ in $KCL$: 1
 	* Moli di Cl in $CL_{2}$: 2
-	$\Delta e= 
+	$\Delta e= 2e^{-}$
+---
+Scriviamo una reazione sotto forma ionica
+
+$Fe^{+3}+
+
+Fe +3 to +2 RID
+Sn +2 to +4 OX
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjY4MDYwMCw2NDA2MzkwMjAsLTEzNT
-EyOTUxNjQsMTEwODE0ODM4MCwtNDgzMDE5ODY3LC0xMzQ4NTE1
-MTI4XX0=
+eyJoaXN0b3J5IjpbLTE4NTY2NTM2NjMsNjQwNjM5MDIwLC0xMz
+UxMjk1MTY0LDExMDgxNDgzODAsLTQ4MzAxOTg2NywtMTM0ODUx
+NTEyOF19
 -->
