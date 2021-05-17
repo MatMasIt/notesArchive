@@ -65,7 +65,7 @@ exaggeration + distortion + multiple/changing perspective on human behaviour (Tr
 
 p. 224 - The Plot
 
-#### 1 
+#### 1° Voyage
 Land of Lilliput, small people
 Gulliver is a giant
 
@@ -92,6 +92,12 @@ They are reflection of the vices of english politicians
 >Lilliputians are the mirror of the whigh government
 
 
+    One of the main targets of Swift is the
+    English Government
+
+#### 2° Voyage
+
+Land of 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTg3MzQ1OF19
+eyJoaXN0b3J5IjpbMTYwNDU0NTc4OV19
 -->
