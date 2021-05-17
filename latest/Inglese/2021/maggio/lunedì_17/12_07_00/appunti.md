@@ -115,7 +115,15 @@ He realizes the limits of te english government and society
 
 #### 3° voyage
 
-Island of **La
+Island of **Laputa**, flying island
+
+satirizing the scientific community of that time (mirror of The Royal Society - founded in 1662-)
+
+**Evident   
+
+> Swift was **brave** and **anticonformist**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTk3MTM3MV19
+eyJoaXN0b3J5IjpbLTE2MDk5MzQzNDddfQ==
 -->
