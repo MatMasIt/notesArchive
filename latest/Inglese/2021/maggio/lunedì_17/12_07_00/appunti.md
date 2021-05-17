@@ -30,6 +30,10 @@ Labeled as a *misanthrope*: someone who despises human beings
 
 
 p. 224
+*Satire*: ironical criticism (usually politics and society)
+
+> **Satire**: a wayy of criticizing people or hideas in a humorous/ironical ways (laugh, but reflect: double )
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjE0MjI2NV19
+eyJoaXN0b3J5IjpbLTQ3MzQ2NDAyOV19
 -->
