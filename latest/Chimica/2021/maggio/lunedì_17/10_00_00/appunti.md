@@ -209,15 +209,18 @@ $2KCl+MnO_{2}+2H_{2}SO_{4}\rightarrow K_{2}SO_{4}+MnSO_{4}+Cl_{2}+2H_{2}O$
 ---
 Scriviamo una reazione sotto forma ionica
 
-$Fe^{3+}+Sn^{2+}\rightarow$
+$Fe^{3+}+Sn^{2+}$
 
 * Fe +3 to +2 RID
-	* $\Delta e= +2e^
+	* $\Delta e= +2e^{-}$
 * Sn +2 to +4 OX
+
+Numero di elettroni acquisiti è uguale al numero di elettroni perduti, so moltiplicano enrrambii coefficienti della reazone otenuta per 2
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMTExMzI4LDY0MDYzOTAyMCwtMTM1MT
+eyJoaXN0b3J5IjpbMTk4MDAwNzk2LDY0MDYzOTAyMCwtMTM1MT
 I5NTE2NCwxMTA4MTQ4MzgwLC00ODMwMTk4NjcsLTEzNDg1MTUx
 MjhdfQ==
 -->
