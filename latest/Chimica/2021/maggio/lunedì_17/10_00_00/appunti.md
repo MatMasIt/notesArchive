@@ -124,6 +124,9 @@ $4Na+O_{2}  \rightarrow 2Na_{2}O$
 Metalli in presenza di ossigeno: ossidazione
 
 
+Ossidazione e riduzione sono simutanee
+Numero di elettroni persi da una sostanza è uguale al numero di elettroni guadanati da un altra
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg1MTUxMjhdfQ==
+eyJoaXN0b3J5IjpbLTQ4MzAxOTg2NywtMTM0ODUxNTEyOF19
 -->
