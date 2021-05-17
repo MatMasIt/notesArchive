@@ -21,7 +21,12 @@ He strongly opposed te Whig government, defended the church and ireland
 
 Controverisal for his **satire**
 
-Gulliver's Travels (1
+Gulliver's Travels (1726) one of his masterpieces, satyrical novel (also, a tale for children) with a lot of interpretations
+
+Someone loved and someone hated him
+
+
+Labeled *misanthrope*: someone who despises human beings
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTk1NTM1Ml19
+eyJoaXN0b3J5IjpbLTEyMDQzMjQ4OTJdfQ==
 -->
