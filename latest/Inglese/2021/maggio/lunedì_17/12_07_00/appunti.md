@@ -61,6 +61,9 @@ exaggeration + distortion + multiple/changing perspective on human behaviour (Tr
 * reflecting
 * criticizing
 * find an alternative
+
+
+p. 224 - The Plot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2Mzk0MTQ4XX0=
+eyJoaXN0b3J5IjpbNTY5MzMxNjM3XX0=
 -->
