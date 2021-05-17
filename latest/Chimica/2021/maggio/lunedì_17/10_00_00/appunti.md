@@ -121,20 +121,21 @@ Ossidazioni
 $CH_{4}+O_{2} \rightarrow CO_{2}+H_{2}O$ (non bilanciata)
 oppure
 $4Na+O_{2}  \rightarrow 2Na_{2}O$ 
+![](https://i.imgur.com/fxFMeDU.jpg)
 Metalli in presenza di ossigeno: ossidazione
 
 
 Ossidazione e riduzione sono simutanee
 Numero di elettroni persi da una sostanza è uguale al numero di elettroni guadanati da un altra
 
-Atmosfera iniziale di $
+Atmosfera iniziale di $CO_{2}$ variata
 
 atmosfera riducente $\rightarrow$ ossidante
 
 vita aerobia
 
-
+Reazioni 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjIzMzcyLC00ODMwMTk4NjcsLTEzND
-g1MTUxMjhdfQ==
+eyJoaXN0b3J5IjpbMTEwODE0ODM4MCwtNDgzMDE5ODY3LC0xMz
+Q4NTE1MTI4XX0=
 -->
