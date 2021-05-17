@@ -217,10 +217,17 @@ $Fe^{3+}+Sn^{2+}$
 
 Numero di elettroni acquisiti è uguale al numero di elettroni perduti, so moltiplicano enrrambii coefficienti della reazone otenuta per 2
 
+---
+Sul libro c'è tutto
+
+> Bilanciamenti in forma molcolare e ionica
 
 
+p. 519
+
+tomorrow: biology
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDAwNzk2LDY0MDYzOTAyMCwtMTM1MT
-I5NTE2NCwxMTA4MTQ4MzgwLC00ODMwMTk4NjcsLTEzNDg1MTUx
-MjhdfQ==
+eyJoaXN0b3J5IjpbMTI1Nzc5MzkyOCw2NDA2MzkwMjAsLTEzNT
+EyOTUxNjQsMTEwODE0ODM4MCwtNDgzMDE5ODY3LC0xMzQ4NTE1
+MTI4XX0=
 -->
