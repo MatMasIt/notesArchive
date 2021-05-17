@@ -108,7 +108,7 @@ $m_{g}=0,67g$
 
 
 ---
-# Ossidoriduzione
+# Ossidoriduzioni (II)
 (Ora 2)
 
 Fino ad ora abbiamo bilanciato le reazioni in massa, ora dobbiamo imparare a bilanciare in carica
@@ -193,8 +193,10 @@ Nelle redox il trasferimento di elettroni li varia
 > * ox: aumentani numero di ossidazione
 
 
-Elemento allo stato naturae
+Elemento allo stato naturale ha sempre stato ossidativo $0$
+
+$KCL+MnO_é2}+H_{2}SO_{4}\righta$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzQ0NTk1MCwtMTM1MTI5NTE2NCwxMT
-A4MTQ4MzgwLC00ODMwMTk4NjcsLTEzNDg1MTUxMjhdfQ==
+eyJoaXN0b3J5IjpbLTIwMjA3NDQ0MDAsLTEzNTEyOTUxNjQsMT
+EwODE0ODM4MCwtNDgzMDE5ODY3LC0xMzQ4NTE1MTI4XX0=
 -->
