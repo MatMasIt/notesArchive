@@ -31,7 +31,11 @@ Midollare surrenale: adrenalina e noradrenalina
 Risposta a eventi che causano stress, paura
 Tirosina
 
-L'adrenalina legandosi ai recettori cardiaci, aumentano il battit
+L'adrenalina legandosi ai recettori cardiaci, aumentano il battito cardiaco (posibilità di fuga)
+
+Paura: emozione importante (sopravvivenza)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDA4NjAwNTgsMjEzMjM2MTg5MF19
+eyJoaXN0b3J5IjpbLTUxODU2NzgwMCwyMTMyMzYxODkwXX0=
 -->
