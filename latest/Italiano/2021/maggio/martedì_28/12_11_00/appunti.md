@@ -104,13 +104,13 @@ Le tecniche narrative di un romanzo moderno
 
 |Pagina|Contenuto|
 |-------|--------|
-|726|Prefazione al *Conte di Carmagnola*
-|763 La lettre a Messieur Chauvait|
-|801| La scelta del romanzo (paragrafo 5)
-|802| prima stesura e revisione
-|804| la revisione stilistica e linguistica
-|806| tempo, luogo e paesaggio
-p. 812 Il narratore
+|726|Prefazione al *Conte di Carmagnola*|
+|763|La lettre a Messieur Chauvait|
+|801|La scelta del romanzo (paragrafo 5)|
+|802|Prima stesura e revisione|
+|804|La revisione stilistica e linguistica|
+|806|Tempo, luogo e paesaggio|
+|812|Il narratore|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjY3NjAxNCwtMTIxOTQ3NTQzOF19
+eyJoaXN0b3J5IjpbMzMzNzU5NDcwLC0xMjE5NDc1NDM4XX0=
 -->
