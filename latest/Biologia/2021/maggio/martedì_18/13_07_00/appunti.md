@@ -14,6 +14,8 @@ Il glucagone rimuove glicogeno da fegato e muscoli e lo trasforma in glucosio: g
 Succo pancreatico (tripsinogeno: digestione proteine, anione bicarbonato $HCO_{3}^{-}$, che tampona acidità del duodeno)
 
 p. 520
+Il diabete dstrugge
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzk3NDI4MF19
+eyJoaXN0b3J5IjpbMjEzMjM2MTg5MF19
 -->
