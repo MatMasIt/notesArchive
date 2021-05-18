@@ -32,8 +32,8 @@ Mortification and trasformation
 > * **english society**, social satire
 > * **human race**, moral satire
 
-* Distopyan No
+* Dystopian novel, presents the worst society of the world (The Yahoos) [opposite of the Utopian Novel]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY5NjE3NDUsLTM0Mjc2NjUzNl19
+eyJoaXN0b3J5IjpbMTc5NjA0MzM1NCwtMzQyNzY2NTM2XX0=
 -->
