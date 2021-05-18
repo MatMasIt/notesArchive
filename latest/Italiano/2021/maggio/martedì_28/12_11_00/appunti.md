@@ -97,7 +97,16 @@ Nuclei narrativi
 * 27-32 Digressione sulla peste e la carestia (Renzo)
 * 33-38 Scioglimento e ricongiungimento
 
-Le tre sig
+Le tre digressioni scandiscono il romanzo
+
+
+Le tecniche narrative di un romanzo moderno
+
+
+p .726, Prefazione al *Conte di Carmagnola*
+p.763 La lettre a Messieur Chauvait
+p.801 La scelta del romanzo (paragrafo 5)
+p.802 prima stesura e revisione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzExMDg1OCwtMTIxOTQ3NTQzOF19
+eyJoaXN0b3J5IjpbOTE5Njg4OTg3LC0xMjE5NDc1NDM4XX0=
 -->
