@@ -20,6 +20,8 @@ Il diabete dstrugge
 Due ghiandoli a cappuccio chesi trovano sui reni
 Parte corticale e parte midollare
 
+Aldosterone regola omeostasi di $Na^{+}$ e $K^{+}$
+Cortisolo, ha effetti antinfiammatori, deprime la risposta u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzY2MDQwOSwyMTMyMzYxODkwXX0=
+eyJoaXN0b3J5IjpbLTE1ODY3MjMyNDksMjEzMjM2MTg5MF19
 -->
