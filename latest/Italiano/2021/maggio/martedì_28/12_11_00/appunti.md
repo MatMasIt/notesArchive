@@ -87,13 +87,17 @@ Dpazio narrativo 7 novembre 1628 - novembre 1 630
 
 Ducato di Milano sotto gli Asburgo & Repubblica di Venezia (Bergamo), confine fiume Adda
 
-
+Personaggi o a coppie o individuali
 Nuclei narrativi
 * 1-8 romanzo del villaggio
-* 9-10 digressione su Gertrude
+* 9-10 digressione su Gertrude (on Lusica)
 * 11-17 renzo a Milano(romanzo formazione)
 * 18-20 digressione sull'Innominato
-* 20-26 Il rapimento di Lucia
+* 20-26 Il rapimento di Lucia e la conversione dell'Innominato
+* 27-32 Digressione sulla peste e la carestia (Renzo)
+* 33-38 Scioglimento e ricongiungimento
+
+Le tre sig
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzcwNTQwMCwtMTIxOTQ3NTQzOF19
+eyJoaXN0b3J5IjpbMTc0MzExMDg1OCwtMTIxOTQ3NTQzOF19
 -->
