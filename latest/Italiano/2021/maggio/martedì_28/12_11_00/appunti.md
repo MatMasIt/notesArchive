@@ -21,7 +21,15 @@ Romanzo di Manzoni
 moderno
 influenzato da romanzi francesi
 
+*Lingua media standard comune diffusa*
 
+dal '21 al '40
+
+
+I *Fermo e Lucia* abuuso di francesismi e di lingua Bembiana
+
+tra il' 23al '27 appare preponderante base toscana viva
+Vocabolari della Crusca e di Francesc Cherubini (Milanese
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5MTM3MTY3LC0xMjE5NDc1NDM4XX0=
+eyJoaXN0b3J5IjpbOTM2ODU2NzgyLC0xMjE5NDc1NDM4XX0=
 -->
