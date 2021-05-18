@@ -38,8 +38,11 @@ Romanzo cun una lingua che diventi nuova
 
 Terza ragione: scegliere il romanzo gli fa soddisfare i suoi ideali di poetica
 * Vero
-* Util
+* Utile
+* Interessante
+In *Iscrritti di Teoria*
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDEyNTEyOTgsLTEyMTk0NzU0MzhdfQ
-==
+eyJoaXN0b3J5IjpbMjAyNDA4MjQzLC0xMjE5NDc1NDM4XX0=
 -->
