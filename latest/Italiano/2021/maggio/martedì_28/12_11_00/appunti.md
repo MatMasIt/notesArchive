@@ -46,7 +46,10 @@ Si accusava il romanzzo di esere immorale, cattivo esempio educativo
 Scrivere senza coltivare moralità del lettore: ultima professione a livello di valore
 
 
-Genere romanzo, s
+Genere romanzo, sottogenere storico
+Lezione morale e civile per il lettore
+
+Liberalismo politico con orient
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODMyNTYxOSwtMTIxOTQ3NTQzOF19
+eyJoaXN0b3J5IjpbMjAwNjAxMzAzOSwtMTIxOTQ3NTQzOF19
 -->
