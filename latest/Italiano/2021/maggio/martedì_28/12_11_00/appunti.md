@@ -66,6 +66,11 @@ p.  765
 
 Rispecchiamento del lettore dei personaggi
 proiezione del personaggio 
+
+Il vero è migliore dell'invenzione, che può fallire 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Mzk1MDYxOCwtMTIxOTQ3NTQzOF19
+eyJoaXN0b3J5IjpbLTE2ODQxODc4NjAsLTEyMTk0NzU0MzhdfQ
+==
 -->
