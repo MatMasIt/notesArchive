@@ -63,7 +63,10 @@ p.  765
 * Utile per iscopo
 * Vero per il soggetto
 * Interessante per mezzo
+
+Rispecchiamento del lettore dei personaggi
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU3MzI1MzAsLTEyMTk0NzU0MzhdfQ
+eyJoaXN0b3J5IjpbLTEyNzgyNDg0ODcsLTEyMTk0NzU0MzhdfQ
 ==
 -->
