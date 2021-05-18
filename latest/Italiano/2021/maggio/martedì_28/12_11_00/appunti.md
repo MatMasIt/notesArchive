@@ -29,7 +29,17 @@ dal '21 al '40
 I *Fermo e Lucia* abuuso di francesismi e di lingua Bembiana
 
 tra il' 23al '27 appare preponderante base toscana viva
-Vocabolari della Crusca e di Francesc Cherubini (Milanese
+Vocabolari della Crusca e di Francesc Cherubini (Milanese-Toscano)
+
+per la quarantana si porta a casa istitutrice fiorentina, dopo essersi recato a Firenze
+progressivo abbandono vocabolario della crusca
+
+Romanzo cun una lingua che diventi nuova
+
+Terza ragione: scegliere il romanzo gli fa soddisfare i suoi ideali di poetica
+* Vero
+* Util
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2ODU2NzgyLC0xMjE5NDc1NDM4XX0=
+eyJoaXN0b3J5IjpbLTE0MDEyNTEyOTgsLTEyMTk0NzU0MzhdfQ
+==
 -->
