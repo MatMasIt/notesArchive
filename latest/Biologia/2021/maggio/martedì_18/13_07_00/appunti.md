@@ -2,8 +2,8 @@
 
 ## martedì 18 maggio 2021, 13:07:00
 
-
-Il pancreas è un aghiandola piccola, sia esocrina e endocrina
+## Il pancreas
+Il pancreas è un ghiandola piccola, sia esocrina e endocrina
 
 **Endocrino**:
 isole di langheras: cellule che secernonoo ormoni
@@ -16,7 +16,10 @@ Succo pancreatico (tripsinogeno: digestione proteine, anione bicarbonato $HCO_{3
 p. 520
 Il diabete dstrugge
 
+## Le ghiandole surrenali
+Due ghiandoli a cappuccio chesi trovano sui reni
+Parte corticale e parte midollare
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjEwMDU0ODgsMjEzMjM2MTg5MF19
+eyJoaXN0b3J5IjpbMTUwNzY2MDQwOSwyMTMyMzYxODkwXX0=
 -->
