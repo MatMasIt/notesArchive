@@ -79,7 +79,16 @@ Giudizio morale che chiama sempre in causa l'individuo
 
 Libero arbitrio, responsabilità individuale
 
-Appello ai giudici di Man
+Appello ai giudici di Manzoni
+
+
+
+Dpazio narrativo 7 novembre 1628 - novembre 1 630
+
+Ducato di Milano sotto gli Asburgo & Repubblica di Venezia (Bergamo), confine fiume adda
+
+
+Nucle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTg4NjI5NSwtMTIxOTQ3NTQzOF19
+eyJoaXN0b3J5IjpbOTc2ODE5NjcsLTEyMTk0NzU0MzhdfQ==
 -->
