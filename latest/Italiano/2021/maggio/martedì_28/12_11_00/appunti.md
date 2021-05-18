@@ -71,7 +71,10 @@ Il vero è migliore dell'invenzione, che può fallire
 
 Personaggi che generino curiosità e interessamento dei lettori e non solo personaggi che piacciono ai letterati (testi imbevuti di mitologia e figure retoriche)
 
+Modello da evitare è esemplificato dall' *introduzione dell'anonimo*
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1OTgyMTc5LC0xMjE5NDc1NDM4XX0=
+eyJoaXN0b3J5IjpbLTIwNjI3Njk1NDAsLTEyMTk0NzU0MzhdfQ
+==
 -->
