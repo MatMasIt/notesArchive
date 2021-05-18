@@ -65,8 +65,7 @@ p.  765
 * Interessante per mezzo
 
 Rispecchiamento del lettore dei personaggi
-
+proiezione del personaggio 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgyNDg0ODcsLTEyMTk0NzU0MzhdfQ
-==
+eyJoaXN0b3J5IjpbLTY2Mzk1MDYxOCwtMTIxOTQ3NTQzOF19
 -->
