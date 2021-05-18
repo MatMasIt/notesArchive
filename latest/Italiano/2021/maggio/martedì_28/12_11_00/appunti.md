@@ -9,7 +9,11 @@ Perchè Manzoni sceglie il genere "Romanzo"?
 
 Nella prima metà dell'ottocento è un genere popolare che può pervenire alla classe borghese media
 
+Neoclassicismo; traduttori:
+* Cesarotti
+* Vincenzo Monti
 
+Refrattarietà dell'ambiente colto, che considera il genere come secondario, marginale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTA4MDc1NCwtMTIxOTQ3NTQzOF19
+eyJoaXN0b3J5IjpbMTcwODUxNzc3NSwtMTIxOTQ3NTQzOF19
 -->
