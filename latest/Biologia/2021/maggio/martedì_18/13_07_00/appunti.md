@@ -16,6 +16,7 @@ Succo pancreatico (tripsinogeno: digestione proteine, anione bicarbonato $HCO_{3
 p. 520
 Il diabete dstrugge
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjM2MTg5MF19
+eyJoaXN0b3J5IjpbLTE3NjEwMDU0ODgsMjEzMjM2MTg5MF19
 -->
