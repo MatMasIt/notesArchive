@@ -9,8 +9,17 @@ Il fenomeno poi si diffonde in **Francia**, **Italia** e **Russia** (In *Italia*
 
 Invenzione del condensatore da parte di *James Watt*
 
+La macchina era già stata concepita ma era molto efficiente
+
 Prima e seconda rivoluzione industriale
 
+Prima rivoluzione industriale
+In Inghilterra si conclude intornoal 1830
+settori *tessile* e *metallurgico*
+
+## Seconda rivoluzione industriale
+1850/1870 f
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTYxMTk2MDZdfQ==
+eyJoaXN0b3J5IjpbLTUyMTY3OTQwNSwtMTk1NjExOTYwNl19
 -->
