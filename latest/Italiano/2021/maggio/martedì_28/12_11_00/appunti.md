@@ -57,7 +57,13 @@ Lettera *Sul Romanticismo*, 1823 per il marchese *Cesare D'Azeglio*
 edita nel '43
 p.761 paragrafo 1
 
+*p 761, Scritti di Teoria poetica* comprendenti la lettera sull romantiismo, 1981
+
+p.  765
+* Utile per iscopo
+* Vero per il soggetto
+* Interessante per mezzo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQwMDc4MDcsLTEyMTk0NzU0MzhdfQ
+eyJoaXN0b3J5IjpbLTEyNDU3MzI1MzAsLTEyMTk0NzU0MzhdfQ
 ==
 -->
