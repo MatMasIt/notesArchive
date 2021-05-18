@@ -49,7 +49,14 @@ Scrivere senza coltivare moralità del lettore: ultima professione a livello di 
 Genere romanzo, sottogenere storico
 Lezione morale e civile per il lettore
 
-Liberalismo politico con orient
+Liberalismo politico con orientamento cattolico
+
+---
+
+Lettera *Sul Romanticismo*, 1823
+p.761 paragrafo 1
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjAxMzAzOSwtMTIxOTQ3NTQzOF19
+eyJoaXN0b3J5IjpbLTE3NzcwMzkzMDAsLTEyMTk0NzU0MzhdfQ
+==
 -->
