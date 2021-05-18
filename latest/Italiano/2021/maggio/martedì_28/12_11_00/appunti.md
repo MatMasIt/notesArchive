@@ -85,10 +85,15 @@ Appello ai giudici di Manzoni
 
 Dpazio narrativo 7 novembre 1628 - novembre 1 630
 
-Ducato di Milano sotto gli Asburgo & Repubblica di Venezia (Bergamo), confine fiume adda
+Ducato di Milano sotto gli Asburgo & Repubblica di Venezia (Bergamo), confine fiume Adda
 
 
-Nucle
+Nuclei narrativi
+* 1-8 romanzo del villaggio
+* 9-10 digressione su Gertrude
+* 11-17 renzo a Milano(romanzo formazione)
+* 18-20 digressione sull'Innominato
+* 20-26 Il rapimento di Lucia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2ODE5NjcsLTEyMTk0NzU0MzhdfQ==
+eyJoaXN0b3J5IjpbMjExMzcwNTQwMCwtMTIxOTQ3NTQzOF19
 -->
