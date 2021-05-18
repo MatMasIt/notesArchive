@@ -43,6 +43,9 @@ Adrenalina tiene svegli in discoteca, il giorno dopo si è molto stanchi (metabo
 
 noradrenaina: calma
 
+Droghe spesso mimano questi ormoni dal punto di vista biochimico
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzEyMTEyNiwyMTMyMzYxODkwXX0=
+eyJoaXN0b3J5IjpbNjkwMzIxODQ5LDIxMzIzNjE4OTBdfQ==
 -->
