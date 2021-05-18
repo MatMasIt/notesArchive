@@ -10,6 +10,12 @@ In the first book Gulliver is not aware that he can be the target
 ---
 Island of Laputa, absurd experiments carried out
 He is ashamed of his similarity with Yahoos
+
+Lust, greed filth (Yahoos)
+When he comes back to england he cannot tolerate the presence of his family anymore
+he hates human beings
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDA2MzE0MywtMzQyNzY2NTM2XX0=
+eyJoaXN0b3J5IjpbMTkxNTc2OTY5NywtMzQyNzY2NTM2XX0=
 -->
