@@ -15,7 +15,10 @@ Lust, greed filth (Yahoos)
 When he comes back to england he cannot tolerate the presence of his family anymore
 he hates human beings
 
+He goes to live with the horses
 
+
+Ch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTc2OTY5NywtMzQyNzY2NTM2XX0=
+eyJoaXN0b3J5IjpbLTE0ODY1OTU1MDUsLTM0Mjc2NjUzNl19
 -->
