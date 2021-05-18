@@ -35,7 +35,10 @@ L'adrenalina legandosi ai recettori cardiaci, aumentano il battito cardiaco (pos
 
 Paura: emozione importante (sopravvivenza)
 
+Stress: causato da adrenalina
 
+Incidentalmente
+Adrenalina tiene svegli in discoteca, il giorno dopo si è molto stanchi (metabolizzazione della
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODU2NzgwMCwyMTMyMzYxODkwXX0=
+eyJoaXN0b3J5IjpbLTE5MzQ3OTQ4NSwyMTMyMzYxODkwXX0=
 -->
