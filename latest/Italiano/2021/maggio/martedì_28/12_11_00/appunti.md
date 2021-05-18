@@ -5,6 +5,11 @@
 
 > Il romanzo storico XVI-XVIII, I promessi sposi (Volume)
 
+Perchè Manzoni sceglie il genere "Romanzo"?
+
+Nella prima metà dell'ottocento è un genere popolare che può pervenire alla classe borghese media
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk0NzU0MzhdfQ==
+eyJoaXN0b3J5IjpbLTE1NTA4MDc1NCwtMTIxOTQ3NTQzOF19
 -->
