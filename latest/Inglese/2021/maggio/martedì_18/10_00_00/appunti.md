@@ -26,7 +26,14 @@ Funny names, funny creatrures
 * Novel of formation
 	* Pride of his society turn to disgust, he attacks the english society
 Mortification and trasformation
-	* Initlai pride in mankind turns into contempt for the human race
+	* Initial pride in mankind turns into contempt for the human race
+
+> Two targets of Swift's satire
+> * **english society**, social satire
+> * **human race**, moral satire
+
+* Distopyan No
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyMTA2NDc1LC0zNDI3NjY1MzZdfQ==
+eyJoaXN0b3J5IjpbLTE2ODY5NjE3NDUsLTM0Mjc2NjUzNl19
 -->
