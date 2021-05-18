@@ -23,6 +23,7 @@ Interpretatons
 * Children Tale
 Funny names, funny creatrures
 * Parody to travel literature
+* Novel of formation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjExNjIxNSwtMzQyNzY2NTM2XX0=
+eyJoaXN0b3J5IjpbLTg1NDM0NTkxNywtMzQyNzY2NTM2XX0=
 -->
