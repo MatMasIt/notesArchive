@@ -53,10 +53,11 @@ Liberalismo politico con orientamento cattolico
 
 ---
 
-Lettera *Sul Romanticismo*, 1823
+Lettera *Sul Romanticismo*, 1823 per il marchese *Cesare D'Azeglio*
+edita nel '43
 p.761 paragrafo 1
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzcwMzkzMDAsLTEyMTk0NzU0MzhdfQ
+eyJoaXN0b3J5IjpbLTEyMDQwMDc4MDcsLTEyMTk0NzU0MzhdfQ
 ==
 -->
