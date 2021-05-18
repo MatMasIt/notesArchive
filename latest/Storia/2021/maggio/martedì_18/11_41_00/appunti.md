@@ -7,9 +7,10 @@ Il fenomeno poi si diffonde in **Francia**, **Italia** e **Russia** (In *Italia*
 > 
 > \-Definizione di rivoluzione industriale
 
-![](Questo è un commento)
+Invenzione del condensatore da parte di *James Watt*
 
+Prima e seconda rivoluzione industriale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDkyMzc2Ml19
+eyJoaXN0b3J5IjpbLTE5NTYxMTk2MDZdfQ==
 -->
