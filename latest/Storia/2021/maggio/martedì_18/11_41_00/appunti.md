@@ -13,13 +13,22 @@ La macchina era già stata concepita ma era molto efficiente
 
 Prima e seconda rivoluzione industriale
 
-Prima rivoluzione industriale
-In Inghilterra si conclude intornoal 1830
-settori *tessile* e *metallurgico*
+**Prima rivoluzione industriale**
+In Inghilterra si conclude intorno al 1830
+Settori:
+* Tessile
+* Metallurgico
 
-## Seconda rivoluzione industriale
-1850/1870 f
+**Seconda rivoluzione industriale**
 
+1850/1870 fino al secondo decennio del 1900
+Il paese di punta è la **Germania**
+Settori:
+* Chimica
+* Elettricità
+* Acciaio (Metallurgia)
+
+Molto più stretto legame tra ricerca scientifica (Università) e innovazione tecnologicc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTY3OTQwNSwtMTk1NjExOTYwNl19
+eyJoaXN0b3J5IjpbNDM3NjU4MTYzLC0xOTU2MTE5NjA2XX0=
 -->
