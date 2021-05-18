@@ -102,11 +102,15 @@ Le tre digressioni scandiscono il romanzo
 
 Le tecniche narrative di un romanzo moderno
 
-
-p .726, Prefazione al *Conte di Carmagnola*
-p.763 La lettre a Messieur Chauvait
-p.801 La scelta del romanzo (paragrafo 5)
-p.802 prima stesura e revisione
+|Pagina|Contenuto|
+|-------|--------|
+|726|Prefazione al *Conte di Carmagnola*
+|763 La lettre a Messieur Chauvait|
+|801| La scelta del romanzo (paragrafo 5)
+|802| prima stesura e revisione
+|804| la revisione stilistica e linguistica
+|806| tempo, luogo e paesaggio
+p. 812 Il narratore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5Njg4OTg3LC0xMjE5NDc1NDM4XX0=
+eyJoaXN0b3J5IjpbMTU1NjY3NjAxNCwtMTIxOTQ3NTQzOF19
 -->
