@@ -73,8 +73,13 @@ Personaggi che generino curiosità e interessamento dei lettori e non solo perso
 
 Modello da evitare è esemplificato dall' *introduzione dell'anonimo*
 
+Ironia
 
+Giudizio morale che chiama sempre in causa l'individuo
+
+Libero arbitrio, responsabilità individuale
+
+Appello ai giudici di Man
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI3Njk1NDAsLTEyMTk0NzU0MzhdfQ
-==
+eyJoaXN0b3J5IjpbLTMyNTg4NjI5NSwtMTIxOTQ3NTQzOF19
 -->
