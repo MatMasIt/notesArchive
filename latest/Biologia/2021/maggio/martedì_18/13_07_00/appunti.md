@@ -23,7 +23,7 @@ Parte corticale e parte midollare
 Aldosterone regola omeostasi di $Na^{+}$ e $K^{+}$
 Cortisolo, ha effetti antinfiammatori, deprime la risposta immunitaria
 
-
+Cortisone deprime la risposta immunitaria, riduce l'infiammazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU5NzAxOTgsMjEzMjM2MTg5MF19
+eyJoaXN0b3J5IjpbMTg0MzEyMjY2MiwyMTMyMzYxODkwXX0=
 -->
