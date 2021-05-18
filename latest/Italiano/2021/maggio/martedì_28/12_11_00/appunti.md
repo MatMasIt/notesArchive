@@ -37,12 +37,16 @@ progressivo abbandono vocabolario della crusca
 Romanzo cun una lingua che diventi nuova
 
 Terza ragione: scegliere il romanzo gli fa soddisfare i suoi ideali di poetica
-* Vero
-* Utile
-* Interessante
+* Vero (storico)
+* Utile (moralmente)
+* Interessante (bello)
 In *Iscrritti di Teoria*
 
+Si accusava il romanzzo di esere immorale, cattivo esempio educativo 
+Scrivere senza coltivare moralità del lettore: ultima professione a livello di valore
 
+
+Genere romanzo, s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDA4MjQzLC0xMjE5NDc1NDM4XX0=
+eyJoaXN0b3J5IjpbMTUyODMyNTYxOSwtMTIxOTQ3NTQzOF19
 -->
