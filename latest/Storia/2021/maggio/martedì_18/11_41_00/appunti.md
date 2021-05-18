@@ -28,7 +28,7 @@ Settori:
 * Elettricità
 * Acciaio (Metallurgia)
 
-Molto più stretto legame tra ricerca scientifica (Università) e innovazione tecnologicc
+Molto più stretto legame tra ricerca scientifica (Università) e innovazione tecnologica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3NjU4MTYzLC0xOTU2MTE5NjA2XX0=
+eyJoaXN0b3J5IjpbMjE4ODAzNDQ1LC0xOTU2MTE5NjA2XX0=
 -->
