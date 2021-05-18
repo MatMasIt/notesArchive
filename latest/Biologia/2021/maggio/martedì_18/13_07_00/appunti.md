@@ -21,7 +21,9 @@ Due ghiandoli a cappuccio chesi trovano sui reni
 Parte corticale e parte midollare
 
 Aldosterone regola omeostasi di $Na^{+}$ e $K^{+}$
-Cortisolo, ha effetti antinfiammatori, deprime la risposta u
+Cortisolo, ha effetti antinfiammatori, deprime la risposta immunitaria
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY3MjMyNDksMjEzMjM2MTg5MF19
+eyJoaXN0b3J5IjpbLTIwMzU5NzAxOTgsMjEzMjM2MTg5MF19
 -->
