@@ -4,8 +4,13 @@
 
 
 Il pancreas è un aghiandola piccola, sia esocrina e endocrina
+Isole di langheras
 Endocrino:
+isole di langheras: cellule che secernonoo ormoni
+insulina e glucagone ($\beta$, $\alpha$)
+Insulina trasforma glusocio inglicogeno:glicogenogenesi
+Il glucagone rimuove glicogeno da fegato e muscoli: glicogenolisi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTc1NDg1NV19
+eyJoaXN0b3J5IjpbNDA3Njg4NDUzXX0=
 -->
