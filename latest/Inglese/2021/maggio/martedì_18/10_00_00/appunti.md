@@ -17,8 +17,12 @@ he hates human beings
 
 He goes to live with the horses
 
+Interpretatons
+---
 
-Ch
+* Children Tale
+Funny names, funny creatrures
+* Parody to travel literature
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY1OTU1MDUsLTM0Mjc2NjUzNl19
+eyJoaXN0b3J5IjpbMTIzMjExNjIxNSwtMzQyNzY2NTM2XX0=
 -->
