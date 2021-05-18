@@ -24,6 +24,8 @@ Aldosterone regola omeostasi di $Na^{+}$ e $K^{+}$
 Cortisolo, ha effetti antinfiammatori, deprime la risposta immunitaria
 
 Cortisone deprime la risposta immunitaria, riduce l'infiammazione
+
+cortisone induce gonf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzEyMjY2MiwyMTMyMzYxODkwXX0=
+eyJoaXN0b3J5IjpbMTUyMjIwMzQ1MiwyMTMyMzYxODkwXX0=
 -->
