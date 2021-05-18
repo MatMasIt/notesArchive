@@ -25,7 +25,13 @@ Cortisolo, ha effetti antinfiammatori, deprime la risposta immunitaria
 
 Cortisone deprime la risposta immunitaria, riduce l'infiammazione
 
-cortisone induce gonf
+cortisone induce gonfiore
+
+Midollare surrenale: adrenalina e noradrenalina
+Risposta a eventi che causano stress, paura
+Tirosina
+
+L'adrenalina legandosi ai recettori cardiaci, aumentano il battit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjIwMzQ1MiwyMTMyMzYxODkwXX0=
+eyJoaXN0b3J5IjpbLTExNDA4NjAwNTgsMjEzMjM2MTg5MF19
 -->
