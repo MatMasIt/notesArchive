@@ -29,6 +29,14 @@ Settori:
 * Acciaio (Metallurgia)
 
 Molto più stretto legame tra ricerca scientifica (Università) e innovazione tecnologica
+
+**Terza rivoluzione industriale**
+
+Dopo la seconda guerra mondiale, accumulo conoscenze derivate da esigenze belliche
+
+Dagli anni 50' :
+Informatizzazione dei processi produttivi
+Applicazione dell'informazione automatica 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4ODAzNDQ1LC0xOTU2MTE5NjA2XX0=
+eyJoaXN0b3J5IjpbNjQ3MjcxNjUxLC0xOTU2MTE5NjA2XX0=
 -->
