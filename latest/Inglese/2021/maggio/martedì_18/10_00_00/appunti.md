@@ -24,8 +24,9 @@ Interpretatons
 Funny names, funny creatrures
 * Parody to travel literature
 * Novel of formation
-Pride of his society turn to disgust, he attacks the english society
+	* Pride of his society turn to disgust, he attacks the english society
 Mortification and trasformation
+	* Initlai pride in mankind turns into contempt for the human race
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzYyNzc2NCwtMzQyNzY2NTM2XX0=
+eyJoaXN0b3J5IjpbOTAyMTA2NDc1LC0zNDI3NjY1MzZdfQ==
 -->
