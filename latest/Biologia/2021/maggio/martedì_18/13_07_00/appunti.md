@@ -38,7 +38,11 @@ Paura: emozione importante (sopravvivenza)
 Stress: causato da adrenalina
 
 Incidentalmente
-Adrenalina tiene svegli in discoteca, il giorno dopo si è molto stanchi (metabolizzazione della
+Adrenalina tiene svegli in discoteca, il giorno dopo si è molto stanchi (metabolizzazione della adrenalina, sonno richiesto)
+
+
+noradrenaina: calma
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ3OTQ4NSwyMTMyMzYxODkwXX0=
+eyJoaXN0b3J5IjpbLTUyMzEyMTEyNiwyMTMyMzYxODkwXX0=
 -->
