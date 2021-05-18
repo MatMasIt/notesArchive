@@ -24,6 +24,8 @@ Interpretatons
 Funny names, funny creatrures
 * Parody to travel literature
 * Novel of formation
+Pride of his society turn to disgust, he attacks the english society
+Mortification and trasformation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDM0NTkxNywtMzQyNzY2NTM2XX0=
+eyJoaXN0b3J5IjpbLTc5NzYyNzc2NCwtMzQyNzY2NTM2XX0=
 -->
