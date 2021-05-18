@@ -14,6 +14,14 @@ Neoclassicismo; traduttori:
 * Vincenzo Monti
 
 Refrattarietà dell'ambiente colto, che considera il genere come secondario, marginale
+
+Il romanzo non era scritto con registro sublime
+
+Romanzo di Manzoni
+moderno
+influenzato da romanzi francesi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODUxNzc3NSwtMTIxOTQ3NTQzOF19
+eyJoaXN0b3J5IjpbMjQ5MTM3MTY3LC0xMjE5NDc1NDM4XX0=
 -->
