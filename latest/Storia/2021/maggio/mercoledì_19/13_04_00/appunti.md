@@ -12,6 +12,11 @@ Date da ricordare:
 * Nascita prima repubblica francese
 * Decapitazione del re
 * Date delle costituzioni
+
+### Rivoluzione industriale 
+
+Cause che possono spiegare la rivoluzione industriale
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTUyMDI0NSwtODU1NTM4OTQzXX0=
+eyJoaXN0b3J5IjpbLTcwMzY2NzIwMSwtODU1NTM4OTQzXX0=
 -->
