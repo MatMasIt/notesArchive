@@ -23,7 +23,9 @@ Industria rurale: decentramento dell'attività produttiva, attivismo economico d
 
 
 Rivoluzione  commerciale, crescita potenza commerciale inglese dal XVII secolo
+
+Rivoluzione agricola: strardinario incremento di produzione agricola del 1600, dovuto alla rotazione continua
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTAxMjA3Miw5NjczNjQwMjgsLTg1NT
-UzODk0M119
+eyJoaXN0b3J5IjpbMjcyOTA1NzMzLC0yNjkwMTIwNzIsOTY3Mz
+Y0MDI4LC04NTU1Mzg5NDNdfQ==
 -->
