@@ -9,9 +9,13 @@
 ## Modello relazionale
 
 Immobili(<u>idImmobile</u>,città,tipo)
+
 Locatari(<u>codiceFiscale</u>,nome,cognome)
+
 ContrattiAffitto(<u>IdContratto</u>,durata,*<u>codiceFiscale</u>*,*<u>IdImmobile</u>*)
+
 Rate(<u>IdRata</u>,pagata,costo,*<u>idContratto</u>*)
+
 Manutenzioni(<u>IdManutenzione</u>,costo,data,*<u>IdImmobile</u>*)
 
 ## Query
