@@ -4,7 +4,8 @@
 # [Esercizio 10](http://www.edutecnica.it/informatica/dbrx/dbrx.htm)
 
 
-    
+ ## Entità-Relazione
+ ![](https://raw.githubusercontent.com/MatMasIt/notesArchive/main/latest/Informatica/2021/maggio/mercoled%C3%AC_19/09_00_00/Entit%C3%A0relazione.svg)
 ## Modello relazionale
 
 Immobili(<u>idImmobile</u>,città,tipo)
@@ -46,5 +47,5 @@ SELECT * FROM Immobili GROUP BY tipo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwOTAwODk2XX0=
+eyJoaXN0b3J5IjpbMTI0OTkwOTgzOV19
 -->
