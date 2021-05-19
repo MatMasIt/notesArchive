@@ -17,7 +17,7 @@ Date da ricordare:
 
 Cause che possono spiegare la rivoluzione industriale
 
-Classe dirigente britannica fatta in buona misur
+Classe dirigente britannica fatta in buona misura di aristocratici appartenenti alla gentry, che ha sempre voluto rinnovare e innovare le proprie risorse, sicuramente influenzate dal calvinismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDU5OTcxOCwtODU1NTM4OTQzXX0=
+eyJoaXN0b3J5IjpbMjQ0MzExOTIwLC04NTU1Mzg5NDNdfQ==
 -->
