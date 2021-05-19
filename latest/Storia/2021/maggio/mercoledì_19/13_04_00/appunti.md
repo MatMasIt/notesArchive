@@ -32,7 +32,12 @@ Rotazione continua iniziata come esperimento in lombardia e paesi bassi
 Ma la Gentry se ne appropriò recintandole e pagando la monarchia
 
 
+Ricadute notevolissime
+
+Classe dirigente inglese: surplus di capitali
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjA3NjkzNDYsLTI2OTAxMjA3Miw5Nj
+eyJoaXN0b3J5IjpbLTEwOTU3MTg4ODksLTI2OTAxMjA3Miw5Nj
 czNjQwMjgsLTg1NTUzODk0M119
 -->
