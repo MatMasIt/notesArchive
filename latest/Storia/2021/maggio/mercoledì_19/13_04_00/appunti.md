@@ -26,10 +26,13 @@ Rivoluzione  commerciale, crescita potenza commerciale inglese dal XVII secolo
 
 Rivoluzione agricola: strardinario incremento di produzione agricola del 1600, dovuto alla rotazione continua
 
-Rotazione continua iniziata come esperimento in lombardia e paesi ba
+Rotazione continua iniziata come esperimento in lombardia e paesi bassi
 
-Enclosures (recinzioni)
+**Enclosures** (recinzioni): ad un certo punto azione legislativa rimuove terre comuni (dove i contadini ad uso collettivo pascolavano, raccoglievano castagne) era del demanio
+Ma la Gentry se ne appropriò recintandole e pagando la monarchia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODkyMTAzNSwtMjY5MDEyMDcyLDk2Nz
-M2NDAyOCwtODU1NTM4OTQzXX0=
+eyJoaXN0b3J5IjpbLTEwMjA3NjkzNDYsLTI2OTAxMjA3Miw5Nj
+czNjQwMjgsLTg1NTUzODk0M119
 -->
