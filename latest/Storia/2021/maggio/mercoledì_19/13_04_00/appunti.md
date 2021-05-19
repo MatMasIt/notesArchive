@@ -1,8 +1,10 @@
-# Lezione di Stoa (6° ora)
+# Lezione di Storia (6° ora)
 
 ## giovedì 19 maggio 2021, 13:04:00
 
-p.190, terza costituzione
+p.190, terza costituzione,  breve ripasso
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzc1NDA1M119
+eyJoaXN0b3J5IjpbLTg1NTUzODk0M119
 -->
