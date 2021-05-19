@@ -18,6 +18,9 @@ Date da ricordare:
 Cause che possono spiegare la rivoluzione industriale
 
 Classe dirigente britannica fatta in buona misura di aristocratici appartenenti alla gentry, che ha sempre voluto rinnovare e innovare le proprie risorse, sicuramente influenzate dal calvinismo
+
+Industria rurale: decentramento dell'attività produttiva, attivismo economico della classe dirigente inglese, mentre altre classi dirigenti europe non se ne curano
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0MzExOTIwLC04NTU1Mzg5NDNdfQ==
+eyJoaXN0b3J5IjpbOTY3MzY0MDI4LC04NTU1Mzg5NDNdfQ==
 -->
