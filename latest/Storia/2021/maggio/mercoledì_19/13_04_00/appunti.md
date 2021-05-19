@@ -36,8 +36,10 @@ Ricadute notevolissime
 
 Classe dirigente inglese: surplus di capitali
 
+Parte della società inglese accumula una enorme quantità di ricchezza, e questa è la base per avviare il processo industriale
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU3MTg4ODksLTI2OTAxMjA3Miw5Nj
-czNjQwMjgsLTg1NTUzODk0M119
+eyJoaXN0b3J5IjpbMTQ0OTk5NTIyOCwtMjY5MDEyMDcyLDk2Nz
+M2NDAyOCwtODU1NTM4OTQzXX0=
 -->
