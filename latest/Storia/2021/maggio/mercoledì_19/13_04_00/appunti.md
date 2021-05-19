@@ -38,8 +38,10 @@ Classe dirigente inglese: surplus di capitali
 
 Parte della società inglese accumula una enorme quantità di ricchezza, e questa è la base per avviare il processo industriale
 
+Settori tessile e metallurgico molto investiti
 
+Enclosures causano grandi danni ai contadini 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTk5NTIyOCwtMjY5MDEyMDcyLDk2Nz
+eyJoaXN0b3J5IjpbMTY0Mjc5MTMwMSwtMjY5MDEyMDcyLDk2Nz
 M2NDAyOCwtODU1NTM4OTQzXX0=
 -->
