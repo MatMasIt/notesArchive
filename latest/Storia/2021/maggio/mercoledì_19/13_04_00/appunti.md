@@ -17,6 +17,7 @@ Date da ricordare:
 
 Cause che possono spiegare la rivoluzione industriale
 
+Classe dirigente britannica fatta in buona misur
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzY2NzIwMSwtODU1NTM4OTQzXX0=
+eyJoaXN0b3J5IjpbLTE1MDU5OTcxOCwtODU1NTM4OTQzXX0=
 -->
