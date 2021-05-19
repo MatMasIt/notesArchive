@@ -2,7 +2,7 @@
 ## mercoledì 12 maggio 2021, 09:23:00
 ## p.242 es 5
 ### Progettazione
-![](https://raw.githubusercontent.com/MatMasIt/notesArchive/main/latest/Informatica/2021/maggio/mercoled%C3%AC_12/compiti/Esercizio.svg)
+![](https://raw.githubusercontent.com/MatMasIt/notesArchive/main/latest/Informatica/2021/maggio/mercoled%C3%AC_12/09_23_00/Esercizio.svg)
 
 ### Tabelle
 *Quesiti*(**<u>ID</u>**,INSEGNANTE,ARGOMENTO,TESTO)
