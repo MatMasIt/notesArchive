@@ -40,8 +40,14 @@ Parte della società inglese accumula una enorme quantità di ricchezza, e quest
 
 Settori tessile e metallurgico molto investiti
 
-Enclosures causano grandi danni ai contadini 
+Enclosures votate in più sessioni
+Nel corso di decenni demanio pubblico recintato
+Enclosures causano grandi danni ai contadini, che ad un certo punto abbandonano campagne e si recano nelle città in cerca di fortuna
+
+Manodopera per l'industria
+
+Lavoro con salario certo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Mjc5MTMwMSwtMjY5MDEyMDcyLDk2Nz
-M2NDAyOCwtODU1NTM4OTQzXX0=
+eyJoaXN0b3J5IjpbNTg0ODI5MzY1LC0yNjkwMTIwNzIsOTY3Mz
+Y0MDI4LC04NTU1Mzg5NDNdfQ==
 -->
