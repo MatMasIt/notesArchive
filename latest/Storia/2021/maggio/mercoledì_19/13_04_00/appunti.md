@@ -1,8 +1,8 @@
-# Lezione di Biologia (5° ora)
+# Lezione di Stoa (6° ora)
 
-## giovedì 06 marzo 2021, 12:13:23
+## giovedì 19 maggio 2021, 13:04:00
 
-Costituizone 22 agosto 
+p.190, terza costituzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTAwOTU0NTVdfQ==
+eyJoaXN0b3J5IjpbLTIzNzc1NDA1M119
 -->
