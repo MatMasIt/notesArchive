@@ -21,6 +21,9 @@ Classe dirigente britannica fatta in buona misura di aristocratici appartenenti 
 
 Industria rurale: decentramento dell'attività produttiva, attivismo economico della classe dirigente inglese, mentre altre classi dirigenti europe non se ne curano
 
+
+Rivoluzione  commerciale, crescita potenza commerciale inglese dal XVII secolo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3MzY0MDI4LC04NTU1Mzg5NDNdfQ==
+eyJoaXN0b3J5IjpbLTI2OTAxMjA3Miw5NjczNjQwMjgsLTg1NT
+UzODk0M119
 -->
