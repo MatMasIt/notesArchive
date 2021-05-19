@@ -14,6 +14,7 @@ Date da ricordare:
 * Date delle costituzioni
 
 ### Rivoluzione industriale 
+![](https://raw.githubusercontent.com/MatMasIt/notesArchive/main/latest/Storia/2021/maggio/mercoled%C3%AC_19/13_04_00/prima%20riv%20ind.svg)
 
 Cause che possono spiegare la rivoluzione industriale
 
@@ -50,6 +51,6 @@ Lavoro con salario certo
 
 Storia del ferro e del cotone in inghilterra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTU5Nzk1NiwtMjY5MDEyMDcyLDk2Nz
+eyJoaXN0b3J5IjpbLTY0NzU2MzM4NCwtMjY5MDEyMDcyLDk2Nz
 M2NDAyOCwtODU1NTM4OTQzXX0=
 -->
