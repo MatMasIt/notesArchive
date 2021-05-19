@@ -47,7 +47,9 @@ Enclosures causano grandi danni ai contadini, che ad un certo punto abbandonano 
 Manodopera per l'industria
 
 Lavoro con salario certo
+
+Storia del ferro e del cotone in inghilterra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0ODI5MzY1LC0yNjkwMTIwNzIsOTY3Mz
-Y0MDI4LC04NTU1Mzg5NDNdfQ==
+eyJoaXN0b3J5IjpbLTcxMTU5Nzk1NiwtMjY5MDEyMDcyLDk2Nz
+M2NDAyOCwtODU1NTM4OTQzXX0=
 -->
