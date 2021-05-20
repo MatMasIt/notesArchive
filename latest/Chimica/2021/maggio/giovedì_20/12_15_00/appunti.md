@@ -32,6 +32,13 @@ se $\Delta E \gg0$
 
 
 Elettrodo standard: $H \implies$potenziale 0 
+
+
+
+Potenzali di riduzione standard
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDEwODM1MjEsLTkzNTQ1MzkwNF19
+eyJoaXN0b3J5IjpbNzI1NTMxMTAwLC05MzU0NTM5MDRdfQ==
 -->
