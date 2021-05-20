@@ -131,7 +131,16 @@ Arringa la folla, bisognava fare qualcosa, fa il nome di *Don Rodrigo*
 il notaio [giudice, procuratore] criminale
 
 spia della polizia, che lo ha accompagnato all'osteria
-oste si fa dare il nominat ivo e lo denuncia alla pubblic
+oste si fa dare il nominat ivo e lo denuncia alla pubblica autorità
+
+
+Fineg di aver trovato la storia in uno scartafacio secentesco
+
+Scritto dell'Anonimo
+
+Il *"notazio criminale"* del terzo nucleo, era uno degli amici dell'anonimo secentesco
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODQ3NzIwMl19
+eyJoaXN0b3J5IjpbLTE3MzM2MTIwODJdfQ==
 -->
