@@ -181,6 +181,9 @@ Lucia grazia divina che agisce imperscrutabile
 "I mali vengono agli uomini sia per natura che per le cattive azioni, ma se vengono c'è un disegno e un beneficio lo lasciano, dietro c'è un disegno"
 
 
+Romanxo della provvidenza, romanzo denza idillio (scioglimento) [diversi critici letterari]
+
+Manzoni è un cattolico 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjQyMDE3MV19
+eyJoaXN0b3J5IjpbLTc4OTkwODY0MV19
 -->
