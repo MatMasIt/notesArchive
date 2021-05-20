@@ -91,6 +91,10 @@ Vicende false di pura invenzione: semplice diletto, non formativo
 Letteratura deve essere un diletto nobile e durevole
 
 Quindi il soggetto deve essere interessante
+
+Rispetto allo storico il poeta può intuire ed esprimere pensieri e sentimenti
+
+p.764, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc1MTQxNDVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDg2NTY0NzNdfQ==
 -->
