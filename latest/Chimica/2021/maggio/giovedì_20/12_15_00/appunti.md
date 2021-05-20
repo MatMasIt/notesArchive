@@ -1,4 +1,4 @@
-# Lezione di Italiano (5° ora)
+# Lezione di Chimica (5° ora)
 
 ## giovedì 20 maggio 2021, 12:15:00
 
@@ -68,6 +68,6 @@ $\oplus Cl^{-} \rightarrow Cl_{2}^{\uparrow}+2e^{-}$
 
 Elettolisi forza riduzione o ox
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc1MDU3NjcsLTE2ODM5ODcxOTYsNz
-I1NTMxMTAwLC05MzU0NTM5MDRdfQ==
+eyJoaXN0b3J5IjpbLTE2OTM4NjA5MjIsLTEwNjc1MDU3NjcsLT
+E2ODM5ODcxOTYsNzI1NTMxMTAwLC05MzU0NTM5MDRdfQ==
 -->
