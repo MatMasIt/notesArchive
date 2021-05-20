@@ -31,7 +31,7 @@ ordine con cui si collegano gli elettrodi non è casuale
 se $\Delta E \gg0$
 
 
-Elettrodo standard: $H$
+Elettrodo standard: $H \implies$potenziale 0 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODE0MTk0NywtOTM1NDUzOTA0XX0=
+eyJoaXN0b3J5IjpbLTExMDEwODM1MjEsLTkzNTQ1MzkwNF19
 -->
