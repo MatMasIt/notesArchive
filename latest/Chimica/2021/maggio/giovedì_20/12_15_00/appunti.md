@@ -24,6 +24,11 @@ Collegati i due elettrodi alla lampadina
 Pila:
 $Zn/Zn^{+2}//Cu^{2+}/Cu$
 
+
+$FEM:Forza\,Elettromotrice$
+ordine con cui si collegano gli elettrodi non è casuale
+
+se $\Delta E \gg0$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTQ1MzkwNF19
+eyJoaXN0b3J5IjpbMTQyMzIwNDQ5MiwtOTM1NDUzOTA0XX0=
 -->
