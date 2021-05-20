@@ -94,7 +94,9 @@ Quindi il soggetto deve essere interessante
 
 Rispetto allo storico il poeta può intuire ed esprimere pensieri e sentimenti
 
-p.764, 
+p.764, **P1**
+
+Carica di *empatia*, che il poeta può capirlo, intuirlo ed esprimerlo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg2NTY0NzNdfQ==
+eyJoaXN0b3J5IjpbLTM1NjgyOTEyMV19
 -->
