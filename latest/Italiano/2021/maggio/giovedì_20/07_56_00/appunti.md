@@ -63,7 +63,10 @@ Scritti storici
 studi storici-linguistici
 *La lingua fa un popolo*
 
-* Dell'unità della lingua e dei mezzi di diffo
+* *Dell'unità della lingua e dei mezzi di diffonderla*
+
+Discussione ottocentesca, questione della lingua, in cui entra un linguista, 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5NzkxNjQzXX0=
+eyJoaXN0b3J5IjpbLTEzMzI0MTE3NDZdfQ==
 -->
