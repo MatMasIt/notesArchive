@@ -69,7 +69,9 @@ Discussione ottocentesca, questione della lingua, in cui entra un linguista
 
 Testi poetica
 * p.762, *Prefazione al **Conte di Carmagnola***, unità di spazio e tempo non sono ottimali
+Ispurazione a Romanticista Tedesco, Dante e Molière
+* lettere private rese p
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjk5ODg3OThdfQ==
+eyJoaXN0b3J5IjpbMzI1NjQ2NTc3XX0=
 -->
