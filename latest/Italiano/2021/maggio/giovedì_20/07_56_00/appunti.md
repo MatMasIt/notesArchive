@@ -218,8 +218,13 @@ Pubblica il conte di Carmagnola, lettera a *Monsieur Chauvait*
 
 Renzo vede il Duomo
 
+Inni sacri, dovevano essere 12, ne realizza solo 5
 
+la religione riguarda tutti
+
+A Manzoni interessa sempre la dimensione collettiva
+fili al destino condiviso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwNzgzMzIzLDY0NDEwNjAzOCwtMTk3ND
-g4ODM3N119
+eyJoaXN0b3J5IjpbLTEwMDYzODIxNSw2NDQxMDYwMzgsLTE5Nz
+Q4ODgzNzddfQ==
 -->
