@@ -27,7 +27,13 @@ Manzoni si perde a Parigi, agorafobia, riparo nella chiesa
 
 Figlio di $Giulia$ $Beccaria$  e delconte $Pietro$ $Manzoni$
 
-Carlo Imbonati, compagno della ma
+Carlo Imbonati, compagno della madre, per lui scriverà *In morte di Carlo Imbonati*
+
+Studia in collegi, poi a Parigi dagli ultimi illuministi
+
+Giovanissima prima moglie conosciuta a Parigi, Enrichetta Blondell (da Ginevra, figlia di un banchiere), sua musa, lo avvicina alla religiosità
+
+Enrichetta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzMzMTIyNF19
+eyJoaXN0b3J5IjpbMTkxMjg0NjQxMl19
 -->
