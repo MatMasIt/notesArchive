@@ -79,7 +79,14 @@ p.765
 > \- A. Manzoni
 
 Prova di autorità per il suo ragionamento
-Tratu
+Trastullo della mitologia, divertimento vacuo
+Artifizi
+* Imitazione classici
+* unità aristoteliche
+* figure mitologiche
+* troppe figure retoriche
+Dovuti ad abitudini scolastiche (recente neoclassicismo)
+Vicende false di pura invenzione: semplice diletto,ì, non formativo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDA5ODM4XX0=
+eyJoaXN0b3J5IjpbNTg4NDY5MTEwXX0=
 -->
