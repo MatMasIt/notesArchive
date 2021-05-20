@@ -13,7 +13,9 @@ La Poetica
 	* l'esterno omniscente
 * i temi del romanzo
 
-Scelta del periodo storico su cui lavorare per ricavare dai personaggi i sentimenti, i ragionamenti, e i dialoghi, effetto educativo-formativo di rispecchiamento dei suoi é
+Scelta del periodo storico su cui lavorare per ricavare dai personaggi i sentimenti, i ragionamenti, e i dialoghi, effetto educativo-formativo di rispecchiamento dei suoi *venticinque lettori*
+
+Rifiuto definitivo del genere romantico dopo il '42
 
 
 
@@ -99,6 +101,8 @@ Rispetto allo storico il poeta può intuire ed esprimere pensieri e sentimenti
 p.764, **P1**
 
 Carica di *empatia*, che il poeta può capirlo, intuirlo ed esprimerlo
+
+Ad un certo punto non trova più motivazioni per scrivere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk0ODQ0MDFdfQ==
+eyJoaXN0b3J5IjpbNTU4MjM5MzFdfQ==
 -->
