@@ -14,7 +14,15 @@ Un dispositivo che mette in comunicazione
 Dispositivo con due becker, elettrodi metallici in presenza degli ioni del suo stesso metallo
 
 $Zn$ si ossida, polo negativo, $Anodo$
+$Cu$ si riduce, polo positivo, $Catodo$
+
+ponte salino che favorisa la migrazione degli ioni
+
+Collegati i due elettrodi alla lampadina
+
+
+Pila.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODA5MjU2NF19
+eyJoaXN0b3J5IjpbLTEzNTgwMjQ3MTJdfQ==
 -->
