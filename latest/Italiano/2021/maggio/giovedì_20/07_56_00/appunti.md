@@ -183,7 +183,7 @@ Lucia grazia divina che agisce imperscrutabile
 
 Romanxo della provvidenza, romanzo denza idillio (scioglimento) [diversi critici letterari]
 
-Manzoni è un cattolico 
+Manzoni è un cattolico **Giansenista**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTkwODY0MV19
+eyJoaXN0b3J5IjpbLTkwMDcyMjg5NV19
 -->
