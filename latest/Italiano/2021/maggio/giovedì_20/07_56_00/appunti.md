@@ -104,7 +104,15 @@ Carica di *empatia*, che il poeta può capirlo, intuirlo ed esprimerlo
 
 Ad un certo punto non trova più motivazioni per scrivere
 
-Fra Cristoforo, convento 
+Fra Cristoforo, convento di Pescarenico
+
+Renzo va a Milano, al convento di porta orientale
+
+"Il vortce attrasse lo spettatore" (I tumulti di Milano), non consegna la lettera di referenza
+
+Gertrude: donna con passato oscuro (cattiva educazione), enigma
+
+Figlia Cadetta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDk2Mzg1NF19
+eyJoaXN0b3J5IjpbMTIyMTU0NjI3MV19
 -->
