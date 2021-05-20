@@ -176,7 +176,11 @@ Quinto nucleo
 
 Lucia, lucis, immagine della prima moglie?
 
-Lucia grazia divina che agisce imperscrutab
+Lucia grazia divina che agisce imperscrutabile
+
+"I mali vengono agli uomini sia per natura che per le cattive azioni, ma se vengono c'è un disegno e un beneficio lo lasciano, dietro c'è un disegno"
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTA2OTM0MF19
+eyJoaXN0b3J5IjpbMTg0NjQyMDE3MV19
 -->
