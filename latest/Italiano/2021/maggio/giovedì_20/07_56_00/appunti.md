@@ -120,7 +120,12 @@ Il Conte Zio, padre provinciale
 
 Attilio e Rodrigo, i Don, vanno dal conte zio di Milano a chiedere allontanamento di Fra Cristoforo, che interferisce con i loro disegni lbertini
 
-Tumulti di San Martino (novembre 1628), entra nella mila
+Tumulti di San Martino (novembre 1628), entra nella Milano con i tumulti
+pane, farina
+
+Milano sottoopra, anche come Milano della Peste e Firenze 
+
+Arringa la folla, big
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjEyOTAwODZdfQ==
+eyJoaXN0b3J5IjpbOTE1MzEzMzg3XX0=
 -->
