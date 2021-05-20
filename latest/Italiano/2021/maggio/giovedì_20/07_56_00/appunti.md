@@ -33,7 +33,12 @@ Studia in collegi, poi a Parigi dagli ultimi illuministi
 
 Giovanissima prima moglie conosciuta a Parigi, Enrichetta Blondell (da Ginevra, figlia di un banchiere), sua musa, lo avvicina alla religiosità
 
-Enrichetta
+Enrichetta è Calvinista, a cui Manzoni si avvicina, poi con l'ausilio di due padri spirituali
+* Eustachio d'Emola
+* Tosi
+conversione al cristianesimo cattolico romano, nuovo matrimonio secondo il rito cattolico
+
+Nascono 10 figli, lui ne vedrà alcuni mori
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjg0NjQxMl19
+eyJoaXN0b3J5IjpbNTM4MzI4MTEwXX0=
 -->
