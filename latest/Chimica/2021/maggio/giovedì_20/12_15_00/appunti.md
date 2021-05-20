@@ -38,11 +38,17 @@ Elettrodo standard: $H \implies$potenziale 0
 Potenzali di riduzione standard
 
 
-Equaio
+Equazione di Nerst: potenziale di un elettrodo
+
+In condizioni di equilibrio 
+$FEM=0\implies \Delta E=0$
+
+$Q=K_{eq}$
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2MTI3NDAwLDcyNTUzMTEwMCwtOTM1ND
-UzOTA0XX0=
+eyJoaXN0b3J5IjpbLTE2ODM5ODcxOTYsNzI1NTMxMTAwLC05Mz
+U0NTM5MDRdfQ==
 -->
