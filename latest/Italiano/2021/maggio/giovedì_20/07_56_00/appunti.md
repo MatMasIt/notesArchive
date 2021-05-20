@@ -241,9 +241,9 @@ Anonimo: scelta non originale
 espediente usato poi anche da Umberto Eo per il Nome della Rosa
 
 Anonimo: 
-* filtro tra s e l'epoca
-* parvenza di maggiore verosi
+* filtro tra se e l'epoca, distacco
+* parvenza di maggiore verosimiglianza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTIzODQ1Myw2NDQxMDYwMzgsLTE5Nz
-Q4ODgzNzddfQ==
+eyJoaXN0b3J5IjpbLTEzNDc0OTU5NjQsNjQ0MTA2MDM4LC0xOT
+c0ODg4Mzc3XX0=
 -->
