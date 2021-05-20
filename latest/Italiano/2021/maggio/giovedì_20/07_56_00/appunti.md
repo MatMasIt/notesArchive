@@ -151,6 +151,8 @@ Il *notaio*, porta veridicità ulteriore alromanzo
 
 
 Trama smmetrica
+
+Triangolazione dei personaggi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDgzMjU0MV19
+eyJoaXN0b3J5IjpbODg0MDQ0NTg0XX0=
 -->
