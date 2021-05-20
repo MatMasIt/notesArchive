@@ -21,8 +21,9 @@ ponte salino che favorisa la migrazione degli ioni
 Collegati i due elettrodi alla lampadina
 
 
-Pila.
+Pila:
+$Zn/Zn^{+2}//Cu^{2+}/Cu$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgwMjQ3MTJdfQ==
+eyJoaXN0b3J5IjpbLTkzNTQ1MzkwNF19
 -->
