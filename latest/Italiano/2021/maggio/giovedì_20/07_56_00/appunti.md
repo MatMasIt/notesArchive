@@ -200,8 +200,11 @@ Imbonati, ha studiato con Parini
 
 Non ama essere chiamato "Conte"
 
-*"Della
+*"Della meta mar torcere gli occhi"*
+
+
+Manzoni soffre di *Agorafobia*, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzA4OTgxNiw2NDQxMDYwMzgsLTE5Nz
-Q4ODgzNzddfQ==
+eyJoaXN0b3J5IjpbLTE2MTk0OTYzMTQsNjQ0MTA2MDM4LC0xOT
+c0ODg4Mzc3XX0=
 -->
