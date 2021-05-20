@@ -53,6 +53,11 @@ Dopo *I Promesi Sposi* virata, chiude con i romanzi, invesimento intellettuale n
 Trastullo
 
 Studi sui longobardi
+
+
+Lo stato pontificio è ancora lì, dopo la donazione di Sutri
+
+Cattolico, vota per Roma capitale, si dedica ad u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTM2Njc0NV19
+eyJoaXN0b3J5IjpbLTIxMDc0MTY1OTRdfQ==
 -->
