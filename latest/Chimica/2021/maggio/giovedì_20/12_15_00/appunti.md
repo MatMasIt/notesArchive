@@ -48,7 +48,13 @@ $Q=K_{eq}$
 
 
 
+### L'elettrolisi
+separazione attraverso alla corrente elettrica
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM5ODcxOTYsNzI1NTMxMTAwLC05Mz
-U0NTM5MDRdfQ==
+eyJoaXN0b3J5IjpbLTc0MDkwMTM2MSwtMTY4Mzk4NzE5Niw3Mj
+U1MzExMDAsLTkzNTQ1MzkwNF19
 -->
