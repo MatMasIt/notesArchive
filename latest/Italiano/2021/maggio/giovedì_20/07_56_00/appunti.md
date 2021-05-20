@@ -243,7 +243,13 @@ espediente usato poi anche da Umberto Eo per il Nome della Rosa
 Anonimo: 
 * filtro tra se e l'epoca, distacco
 * parvenza di maggiore verosimiglianza
+
+Studi di linguistica e  semiotica
+
+narratologia
+
+focalizzazione $0$, omnisciente, conosce più di tutti i personaggi, anticipa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc0OTU5NjQsNjQ0MTA2MDM4LC0xOT
-c0ODg4Mzc3XX0=
+eyJoaXN0b3J5IjpbLTIwNjMyNzgyNDIsLTEzNDc0OTU5NjQsNj
+Q0MTA2MDM4LC0xOTc0ODg4Mzc3XX0=
 -->
