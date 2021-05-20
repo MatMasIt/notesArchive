@@ -157,6 +157,16 @@ Triangolazione dei personaggi
 p.807, cfr. p 876, Italo calvino , Il romanzo dei rapporti di forza tra le classi sociali, 1960
 
 Raccolta di saggi "Una pietra sopra"
+
+
+38 capitoli, nuclei simmetrici, posizioni regolari
+
+Romanzo del villaggio (Olate)
+
+Gertrude
+
+
+Terzo nucleo 11-17 Renzo a Milano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTc4ODM5NV19
+eyJoaXN0b3J5IjpbLTcxNzc4ODE2OV19
 -->
