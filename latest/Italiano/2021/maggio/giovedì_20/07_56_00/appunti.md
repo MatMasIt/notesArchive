@@ -187,7 +187,14 @@ Manzoni è un cattolico **Giansenista**
 
 Provvidenza agisce sulle vicende dell'uomo, chiama anche in causa la responsabilità individuale, disegno prima agostiniano, poi luterano e infine gianssenistico della grazia
 
-Perde 
+Perde $\frac8{10}$figli
+
+
+1862 commissione per l'unificazione della lingua
+
+Muore a Milano il 18 maggio 1873, 88 anni
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzQ0MTM3MSwtMTk3NDg4ODM3N119
+eyJoaXN0b3J5IjpbNjQ0MTA2MDM4LC0xOTc0ODg4Mzc3XX0=
 -->
