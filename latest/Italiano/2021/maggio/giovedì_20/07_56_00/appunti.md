@@ -48,7 +48,11 @@ Morti:
 Matrimonio con Teresa Borra Stampa, vedova
 ha un figlio, che diventerà un curatore delle opere di Manzoni, insieme alla madre
 
-Dopo *I Promesi Sposi* virata, chiude con i romanzi, invesimento intRWtellettuale non ne vale la pena, rinnegameto della poetica
+Dopo *I Promesi Sposi* virata, chiude con i romanzi, invesimento intellettuale non ne vale la pena, rinnegameto della poetica
+
+Trastullo
+
+Studi sui longobardi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzODEzNTE5XX0=
+eyJoaXN0b3J5IjpbMTc0MTM2Njc0NV19
 -->
