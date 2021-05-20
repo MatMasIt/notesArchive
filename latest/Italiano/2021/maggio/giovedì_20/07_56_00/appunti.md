@@ -38,7 +38,15 @@ Enrichetta è Calvinista, a cui Manzoni si avvicina, poi con l'ausilio di due pa
 * Tosi
 conversione al cristianesimo cattolico romano, nuovo matrimonio secondo il rito cattolico
 
-Nascono 10 figli, lui ne vedrà alcuni mori
+Nascono 10 figli, lui ne vedrà alcuni morire prima di lui
+
+Morti:
+* Madre
+* Figlia
+* Alcuni figli
+
+Matrimonio con Teresa Borra Stampa, vedova
+ha un figlio, che diventerà un curatore delle opere di Manzoni, insieme alla madre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4MzI4MTEwXX0=
+eyJoaXN0b3J5IjpbLTM2ODMzMDkxOF19
 -->
