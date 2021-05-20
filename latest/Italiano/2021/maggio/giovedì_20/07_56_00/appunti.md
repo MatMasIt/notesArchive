@@ -194,7 +194,12 @@ Perde $\frac8{10}$figli
 
 Muore a Milano il 18 maggio 1873, 88 anni
 
+Padre naturale di Manzoni quasi certameente Giovanni Verri
+
+Imbonati, ha studiato con Parini
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MTA2MDM4LC0xOTc0ODg4Mzc3XX0=
+eyJoaXN0b3J5IjpbLTIwMjk5NTA2NjIsNjQ0MTA2MDM4LC0xOT
+c0ODg4Mzc3XX0=
 -->
