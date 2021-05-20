@@ -228,7 +228,12 @@ fili al destino condiviso
 Marzo 1821, italia unita, imamgine
 
 "Io non c'ero"
+Manzoni sta immaginando il risorgimento
+
+distrugge l'opera ma se la ricorda a memoria, se la ricorderà dopo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTM4NDE1NSw2NDQxMDYwMzgsLTE5Nz
+eyJoaXN0b3J5IjpbMTEyNjUzNjA1Nyw2NDQxMDYwMzgsLTE5Nz
 Q4ODgzNzddfQ==
 -->
