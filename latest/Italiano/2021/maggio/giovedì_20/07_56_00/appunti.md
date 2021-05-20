@@ -57,7 +57,13 @@ Studi sui longobardi
 
 Lo stato pontificio è ancora lì, dopo la donazione di Sutri
 
-Cattolico, vota per Roma capitale, si dedica ad u
+Cattolico, vota per Roma capitale, si dedica ad unificazione nazionale
+Scritti storici
+
+studi storici-linguistici
+*La lingua fa un popolo*
+
+* Dell'unità della lingua e dei mezzi di diffo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc0MTY1OTRdfQ==
+eyJoaXN0b3J5IjpbNTM5NzkxNjQzXX0=
 -->
