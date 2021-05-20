@@ -248,8 +248,12 @@ Studi di linguistica e  semiotica
 
 narratologia
 
-focalizzazione $0$, omnisciente, conosce più di tutti i personaggi, anticipa
+focalizzazione $0$, omnisciente, conosce più di tutti i personaggi, anticipa attraverso le prolessi
+p. 812
+
+* Narratore autoritario, che impone il suo punto di vista liberale e cattolico nella intepretazione
+* Secondo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjMyNzgyNDIsLTEzNDc0OTU5NjQsNj
-Q0MTA2MDM4LC0xOTc0ODg4Mzc3XX0=
+eyJoaXN0b3J5IjpbLTQxODcyMjUwOCwtMTM0NzQ5NTk2NCw2ND
+QxMDYwMzgsLTE5NzQ4ODgzNzddfQ==
 -->
