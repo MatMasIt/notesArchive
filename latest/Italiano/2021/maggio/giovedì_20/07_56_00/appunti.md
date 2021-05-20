@@ -79,6 +79,7 @@ p.765
 > \- A. Manzoni
 
 Prova di autorità per il suo ragionamento
+Tratu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0NTgwMDg0XX0=
+eyJoaXN0b3J5IjpbMTUxMDA5ODM4XX0=
 -->
