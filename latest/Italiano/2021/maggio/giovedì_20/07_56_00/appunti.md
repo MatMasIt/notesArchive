@@ -213,7 +213,13 @@ Vita lunga e vissuta con riservatezza
 
 perde anche Teresa Bori
 
+1812-1827 creatività di manzoni
+Pubblica il conte di Carmagnola, lettera a *Monsieur Chauvait*
+
+Renzo vede il Duomo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDIxNjA4MTAsNjQ0MTA2MDM4LC0xOT
-c0ODg4Mzc3XX0=
+eyJoaXN0b3J5IjpbNTMwNzgzMzIzLDY0NDEwNjAzOCwtMTk3ND
+g4ODM3N119
 -->
