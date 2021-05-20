@@ -141,6 +141,16 @@ Scritto dell'Anonimo
 Il *"notazio criminale"* del terzo nucleo, era uno degli amici dell'anonimo secentesco
 
 
+
+Storia estremamente plausibile e verosimile
+
+Abbigliamento, ragionamento, visione del mondo, fatti che accadono
+veridicità, precisione
+
+Il *notaio*, porta veridicità ulteriore alromanzo
+
+
+Trama smmetrica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM2MTIwODJdfQ==
+eyJoaXN0b3J5IjpbMjA1NDgzMjU0MV19
 -->
