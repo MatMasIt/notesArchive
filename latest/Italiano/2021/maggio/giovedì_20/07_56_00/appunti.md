@@ -184,6 +184,10 @@ Lucia grazia divina che agisce imperscrutabile
 Romanxo della provvidenza, romanzo denza idillio (scioglimento) [diversi critici letterari]
 
 Manzoni è un cattolico **Giansenista**
+
+Provvidenza agisce sulle vicende dell'uomo, chiama anche in causa la responsabilità individuale, disegno prima agostiniano, poi luterano e infine gianssenistico della grazia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDcyMjg5NV19
+eyJoaXN0b3J5IjpbLTE5NzQ4ODgzNzddfQ==
 -->
