@@ -9,10 +9,15 @@ La Poetica
 * la vicenda, la struttura simmetrica
 * il sistema *binario* dei personaggi
 * il narratore
-* 
+	* l'anonimo secentesco
+	* l'esterno omniscente
+* i temi del romanzo
+
+
+> Dove poi l'opinioni de' Romantici erano unanimi, m'è parso, e mi pare, che fosse in questo: che la poesia deva proporsi per ggetto il vero come l'uni
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzU4MTc3OF19
+eyJoaXN0b3J5IjpbLTExNzYxNjI4MDJdfQ==
 -->
