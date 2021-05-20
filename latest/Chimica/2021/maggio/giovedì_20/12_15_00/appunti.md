@@ -63,8 +63,9 @@ $HCL$:
 * Ioni $Cl^{-}$ attirati dall'anodo
 
 Nell'eletrolisi il catodo èè negativo e l'anodo positivo
-$\c
+$\ominus H^{+}+2e^{-}\rightarrow H^{2} up$
+$\oplus Cl^{-} \rightarrow Cl_{2}up+2e^
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ3MTM4NzgsLTE2ODM5ODcxOTYsNz
-I1NTMxMTAwLC05MzU0NTM5MDRdfQ==
+eyJoaXN0b3J5IjpbLTc2OTcyMzEzMywtMTY4Mzk4NzE5Niw3Mj
+U1MzExMDAsLTkzNTQ1MzkwNF19
 -->
