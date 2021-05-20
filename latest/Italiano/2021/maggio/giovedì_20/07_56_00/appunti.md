@@ -198,8 +198,10 @@ Padre naturale di Manzoni quasi certameente Giovanni Verri
 
 Imbonati, ha studiato con Parini
 
+Non ama essere chiamato "Conte"
 
+*"Della
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk5NTA2NjIsNjQ0MTA2MDM4LC0xOT
-c0ODg4Mzc3XX0=
+eyJoaXN0b3J5IjpbMTUxNzA4OTgxNiw2NDQxMDYwMzgsLTE5Nz
+Q4ODgzNzddfQ==
 -->
