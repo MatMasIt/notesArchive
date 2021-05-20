@@ -103,6 +103,8 @@ p.764, **P1**
 Carica di *empatia*, che il poeta può capirlo, intuirlo ed esprimerlo
 
 Ad un certo punto non trova più motivazioni per scrivere
+
+Fra Cristoforo, convento 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4MjM5MzFdfQ==
+eyJoaXN0b3J5IjpbMjAyMDk2Mzg1NF19
 -->
