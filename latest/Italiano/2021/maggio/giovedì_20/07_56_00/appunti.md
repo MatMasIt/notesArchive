@@ -167,6 +167,14 @@ Gertrude
 
 
 Terzo nucleo 11-17 Renzo a Milano
+
+poi Renzo ritorna a Milano dopo essere stato a Bergamo
+
+Quarto nucleo riguarda ancora Lucia
+
+Quinto nucleo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzc4ODE2OV19
+eyJoaXN0b3J5IjpbLTQyODE4ODkzOF19
 -->
