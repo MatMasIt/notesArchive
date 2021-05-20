@@ -187,7 +187,7 @@ Manzoni è un cattolico **Giansenista**
 
 Provvidenza agisce sulle vicende dell'uomo, chiama anche in causa la responsabilità individuale, disegno prima agostiniano, poi luterano e infine gianssenistico della grazia
 
-
+Perde 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ4ODgzNzddfQ==
+eyJoaXN0b3J5IjpbLTQ2MzQ0MTM3MSwtMTk3NDg4ODM3N119
 -->
