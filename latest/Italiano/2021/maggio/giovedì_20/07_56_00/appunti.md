@@ -252,8 +252,10 @@ focalizzazione $0$, omnisciente, conosce più di tutti i personaggi, anticipa at
 p. 812
 
 * Narratore autoritario, che impone il suo punto di vista liberale e cattolico nella intepretazione
-* Secondo 
+* Secondo Ezio Raimondi invece è un narratore "non categorico"
+
+vero espresso attraverso linguaggio anch'esso vero, italiano ccorrente parlato (Isaia Ascoli, entra in questione lingua ottocentesca)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODcyMjUwOCwtMTM0NzQ5NTk2NCw2ND
-QxMDYwMzgsLTE5NzQ4ODgzNzddfQ==
+eyJoaXN0b3J5IjpbNDI1NDQ1NTIsLTEzNDc0OTU5NjQsNjQ0MT
+A2MDM4LC0xOTc0ODg4Mzc3XX0=
 -->
