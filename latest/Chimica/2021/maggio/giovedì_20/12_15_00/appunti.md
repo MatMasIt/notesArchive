@@ -59,8 +59,12 @@ Molti di questi elementi in natura sono salificati: $Ag,Au,...$
 li ottengo con l'elettrolisi
 
 $HCL$:
-* Ioni H^
+* Ioni $H^{+}$ attirati dal catodo
+* Ioni $Cl^{-}$ attirati dall'anodo
+
+Nell'eletrolisi il catodo èè negativo e l'anodo positivo
+$\c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc1MzA1MzEsLTE2ODM5ODcxOTYsNz
+eyJoaXN0b3J5IjpbLTE5MzQ3MTM4NzgsLTE2ODM5ODcxOTYsNz
 I1NTMxMTAwLC05MzU0NTM5MDRdfQ==
 -->
