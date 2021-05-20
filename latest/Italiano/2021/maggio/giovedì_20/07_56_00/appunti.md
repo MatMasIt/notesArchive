@@ -174,7 +174,9 @@ Quarto nucleo riguarda ancora Lucia
 
 Quinto nucleo
 
+Lucia, lucis, immagine della prima moglie?
 
+Lucia grazia divina che agisce imperscrutab
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODE4ODkzOF19
+eyJoaXN0b3J5IjpbLTY3MTA2OTM0MF19
 -->
