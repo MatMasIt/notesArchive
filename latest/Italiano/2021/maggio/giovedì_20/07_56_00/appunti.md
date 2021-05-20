@@ -18,7 +18,12 @@ La Poetica
 > \- A. Manzoni
 
 
+Formazione:
+Rapporti con Cesare Beccaria, nonno della moglie
+Claude Fleuriel
+milanese
 
+Manzone a par
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjY3NTM0MV19
+eyJoaXN0b3J5IjpbLTk5NDE3MjI1MF19
 -->
