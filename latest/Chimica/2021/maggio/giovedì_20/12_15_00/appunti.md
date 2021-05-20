@@ -53,8 +53,14 @@ separazione attraverso alla corrente elettrica
 
 
 
+Effetto chimico: separazione
 
+Molti di questi elementi in natura sono salificati: $Ag,Au,...$
+li ottengo con l'elettrolisi
+
+$HCL$:
+* Ioni H^
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDkwMTM2MSwtMTY4Mzk4NzE5Niw3Mj
-U1MzExMDAsLTkzNTQ1MzkwNF19
+eyJoaXN0b3J5IjpbLTEyNzc1MzA1MzEsLTE2ODM5ODcxOTYsNz
+I1NTMxMTAwLC05MzU0NTM5MDRdfQ==
 -->
