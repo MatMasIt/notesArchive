@@ -86,7 +86,11 @@ Artifizi
 * figure mitologiche
 * troppe figure retoriche
 Dovuti ad abitudini scolastiche (recente neoclassicismo)
-Vicende false di pura invenzione: semplice diletto,ì, non formativo
+Vicende false di pura invenzione: semplice diletto, non formativo
+
+Letteratura deve essere un diletto nobile e durevole
+
+Quindi il soggetto deve essere interessante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4NDY5MTEwXX0=
+eyJoaXN0b3J5IjpbLTEzMTc1MTQxNDVdfQ==
 -->
