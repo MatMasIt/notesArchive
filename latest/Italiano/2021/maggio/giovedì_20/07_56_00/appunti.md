@@ -224,7 +224,11 @@ la religione riguarda tutti
 
 A Manzoni interessa sempre la dimensione collettiva
 fili al destino condiviso
+
+Marzo 1821, italia unita, imamgine
+
+"Io non c'ero"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDYzODIxNSw2NDQxMDYwMzgsLTE5Nz
+eyJoaXN0b3J5IjpbLTM3NTM4NDE1NSw2NDQxMDYwMzgsLTE5Nz
 Q4ODgzNzddfQ==
 -->
