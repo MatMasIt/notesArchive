@@ -115,7 +115,12 @@ Gertrude: donna con passato oscuro (cattiva educazione), enigma
 Figlia Cadetta
 
 
+Il Conte Zio, padre provinciale
 
+
+Attilio e Rodrigo, i Don, vanno dal conte zio di Milano a chiedere allontanamento di Fra Cristoforo, che interferisce con i loro disegni lbertini
+
+Tumulti di San Martino (novembre 1628), entra nella mila
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA5Mzk1NDNdfQ==
+eyJoaXN0b3J5IjpbLTExMjEyOTAwODZdfQ==
 -->
