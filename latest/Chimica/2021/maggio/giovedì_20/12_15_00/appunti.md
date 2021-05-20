@@ -29,6 +29,9 @@ $FEM:Forza\,Elettromotrice$
 ordine con cui si collegano gli elettrodi non è casuale
 
 se $\Delta E \gg0$
+
+
+Elettrodo standard: $H$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzIwNDQ5MiwtOTM1NDUzOTA0XX0=
+eyJoaXN0b3J5IjpbMTY0ODE0MTk0NywtOTM1NDUzOTA0XX0=
 -->
