@@ -14,10 +14,10 @@ La Poetica
 * i temi del romanzo
 
 
-> Dove poi l'opinioni de' Romantici erano unanimi, m'è parso, e mi pare, che fosse in questo: che la poesia deva proporsi per ggetto il vero come l'uni
+> Dove poi l'opinioni de' Romantici erano unanimi, m'è parso, e mi pare, che fosse in questo: che la poesia deva proporsi per ggetto il vero come l'unica sorgente d'un diletto nobile e durevole; giacché il falso può bensì trastullar la mente, ma non arricchirla, nè elevarla [..]. Come il mezzo più naturale di render più facili e più estesi tali efetti della poesia, volevano che essa deva scegliere de' soggetti che, avendo quanto è necessario per interessare le persona più 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzYxNjI4MDJdfQ==
+eyJoaXN0b3J5IjpbLTE5MjQ0NTQ2OTFdfQ==
 -->
