@@ -155,6 +155,8 @@ Trama smmetrica
 Triangolazione dei personaggi
 
 p.807, cfr. p 876, Italo calvino , Il romanzo dei rapporti di forza tra le classi sociali, 1960
+
+Raccolta di saggi "Una pietra sopra"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTg5NzgwOF19
+eyJoaXN0b3J5IjpbLTQ3MTc4ODM5NV19
 -->
