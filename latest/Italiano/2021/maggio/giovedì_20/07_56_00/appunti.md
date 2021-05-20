@@ -233,7 +233,15 @@ Manzoni sta immaginando il risorgimento
 distrugge l'opera ma se la ricorda a memoria, se la ricorderà dopo
 
 
+Anonimo: scelta non originale
+
+* Ivanhoe, Walter Scott
+* Don Chischotte, Cervantes
+
+espediente usato poi anche da Umberto Eo per il Nome della Rosa
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjUzNjA1Nyw2NDQxMDYwMzgsLTE5Nz
-Q4ODgzNzddfQ==
+eyJoaXN0b3J5IjpbODM3OTQxNzYxLDY0NDEwNjAzOCwtMTk3ND
+g4ODM3N119
 -->
