@@ -69,9 +69,12 @@ Discussione ottocentesca, questione della lingua, in cui entra un linguista
 
 Testi poetica
 * p.762, *Prefazione al **Conte di Carmagnola***, unità di spazio e tempo non sono ottimali
-Ispurazione a Romanticista Tedesco, Dante e Molière
-* lettere private rese p
+Ispirazione a Romanticista Tedesco, Dante e Molière
+* lettere private rese pubbliche (stile Galileo) ['23-'40, gli stessi anni in cui mette mano al *Fermo e Lucia*]
+	* A monsieur Chauvait, sulle tre unità
+	* Al marchese Cesare D'Azeglio, sul romanticismo
+* Introduzione a *Fermo e Lucia*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1NjQ2NTc3XX0=
+eyJoaXN0b3J5IjpbLTE5MjIzMTY1NDZdfQ==
 -->
