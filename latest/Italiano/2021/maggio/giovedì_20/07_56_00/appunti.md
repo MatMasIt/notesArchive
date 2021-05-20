@@ -113,6 +113,9 @@ Renzo va a Milano, al convento di porta orientale
 Gertrude: donna con passato oscuro (cattiva educazione), enigma
 
 Figlia Cadetta
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTU0NjI3MV19
+eyJoaXN0b3J5IjpbLTE1MjA5Mzk1NDNdfQ==
 -->
