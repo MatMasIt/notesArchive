@@ -38,7 +38,11 @@ Elettrodo standard: $H \implies$potenziale 0
 Potenzali di riduzione standard
 
 
+Equaio
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1NTMxMTAwLC05MzU0NTM5MDRdfQ==
+eyJoaXN0b3J5IjpbOTI2MTI3NDAwLDcyNTUzMTEwMCwtOTM1ND
+UzOTA0XX0=
 -->
