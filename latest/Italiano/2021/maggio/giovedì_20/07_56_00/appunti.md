@@ -23,7 +23,11 @@ Rapporti con Cesare Beccaria, nonno della moglie
 Claude Fleuriel
 milanese
 
-Manzone a par
+Manzoni si perde a Parigi, agorafobia, riparo nella chiesa
+
+Figlio di $Giulia$ $Beccaria$  e delconte $Pietro$ $Manzoni$
+
+Carlo Imbonati, compagno della ma
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDE3MjI1MF19
+eyJoaXN0b3J5IjpbLTY1MzMzMTIyNF19
 -->
