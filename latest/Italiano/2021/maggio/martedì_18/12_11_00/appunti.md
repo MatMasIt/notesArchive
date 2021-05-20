@@ -90,7 +90,7 @@ Ducato di Milano sotto gli Asburgo & Repubblica di Venezia (Bergamo), confine fi
 Personaggi o a coppie o individuali
 Nuclei narrativi
 * 1-8 romanzo del villaggio
-* 9-10 digressione su Gertrude (on Lusica)
+* 9-10 digressione su Gertrude (con Luscia)
 * 11-17 renzo a Milano(romanzo formazione)
 * 18-20 digressione sull'Innominato
 * 20-26 Il rapimento di Lucia e la conversione dell'Innominato
@@ -112,5 +112,5 @@ Le tecniche narrative di un romanzo moderno
 |806|Tempo, luogo e paesaggio|
 |812|Il narratore|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTMyMTQyM119
+eyJoaXN0b3J5IjpbLTE3ODUwMTk5MTBdfQ==
 -->
