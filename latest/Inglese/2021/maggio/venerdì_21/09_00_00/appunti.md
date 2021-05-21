@@ -1,7 +1,6 @@
-# Lezione di Inglese (3° ora)
+# Lezione di Inglese (2° ora)
 
-## martedì 04 maggio 2021, 10:00:00
-
+## venerdì 21 maggio 2021, 09:00:00
 ## Revising
 ### Questions
 1. Act of supremacy 1534
@@ -18,7 +17,7 @@
 12. Bonfire Night
 13. The dark lady 
 ## Answers
-1) Birth of the anglican church by Henry VIII in 1534, divorce of Catherin of Aragon, not l
+1) Birth of the anglican church by Henry VIII in 1534, divorce of Catherin of Aragon, not allowed by the church; he wanted to have both powers
 2)  Battle won against the spanish *Invincibile Armada*
 3) People who stood in the well under the stage in the Globe and other theaters
 4) Predecessor of Elisabeth the I, Catholic, tried to restore catholicism in England with violence
@@ -32,5 +31,5 @@
 12) Holiday in which the attempt of burning dow the parliament by Guy Fawkes and his co-conspirators is celebrated
 13) Sonnet by William Shakespeares, which is in stark contrast to the Pethrarcan tradition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzkxNzU3OF19
+eyJoaXN0b3J5IjpbMTU5OTA2MDMwNV19
 -->
