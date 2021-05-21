@@ -18,6 +18,12 @@ Essere all'interno di di unaa folla, non esercitare il libero arbitrio
 *"Il problema del male"*
 
 
+
+---
+
+
+La vigna di Renzo, cap. XXXIII
+Digressione che non c'era nel fermo e 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkxMDI4NTddfQ==
+eyJoaXN0b3J5IjpbLTUwNDQ5ODQ2Ml19
 -->
