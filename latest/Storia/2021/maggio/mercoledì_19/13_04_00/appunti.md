@@ -7,9 +7,10 @@ p.190, terza costituzione,  breve ripasso
 
 Date da ricordare:
 * Convcazione stati generali   5 maggio 1789
+* Presa della Bastiglia 14 luglio 1789
 * Dichiarazione diritti dell'uomo e del cittadino  26 agosto 1789
 * Abolizione Feudalesimo  5 agosto 1789
-* Nascita prima repubblica francese 21 settembre 1789
+* Nascita prima repubblica francese 22 settembre 1792
 * Decapitazione del re 21 gennaio 1793
 * Date delle costituzioni
  * Prima: 3 settembre 1791
@@ -54,6 +55,7 @@ Lavoro con salario certo
 
 Storia del ferro e del cotone in inghilterra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzUzMzkwNzgsLTY0NzU2MzM4NCwtMj
-Y5MDEyMDcyLDk2NzM2NDAyOCwtODU1NTM4OTQzXX0=
+eyJoaXN0b3J5IjpbLTEyOTM0MDY5NjYsLTEyMzUzMzkwNzgsLT
+Y0NzU2MzM4NCwtMjY5MDEyMDcyLDk2NzM2NDAyOCwtODU1NTM4
+OTQzXX0=
 -->
