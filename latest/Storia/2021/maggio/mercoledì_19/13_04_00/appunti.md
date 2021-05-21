@@ -6,8 +6,8 @@
 p.190, terza costituzione,  breve ripasso
 
 Date da ricordare:
-* Convcazione stati generali
-* Dichiaraione diritti dell'uomo e del cittadino
+* Convcazione stati generali   5 maggio 1789
+* Dichiarazione diritti dell'uomo e del cittadino  26 agosto 178
 * Abolizione Feudalesimo
 * Nascita prima repubblica francese
 * Decapitazione del re
@@ -51,6 +51,6 @@ Lavoro con salario certo
 
 Storia del ferro e del cotone in inghilterra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzU2MzM4NCwtMjY5MDEyMDcyLDk2Nz
-M2NDAyOCwtODU1NTM4OTQzXX0=
+eyJoaXN0b3J5IjpbLTM1MjYxMTY0MSwtNjQ3NTYzMzg0LC0yNj
+kwMTIwNzIsOTY3MzY0MDI4LC04NTU1Mzg5NDNdfQ==
 -->
