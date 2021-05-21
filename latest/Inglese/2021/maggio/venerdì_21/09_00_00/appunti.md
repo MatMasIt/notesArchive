@@ -24,12 +24,12 @@
 5) First and posthumuous edition of Shakespeare's 37  plays (Tragedies, Comedies, Last Plays, Historical Plays), published in 1623
 6) Restoration of the Monarchy, Charles the II comes back to England from France where he had exhiled, during the Commonwealth (enstablished in 1649) (Civil war: 1642-1649)
 7) Society founded in 1662 by Charles the II, for the progress of the sciences, scientist and intellectuals employed empiricism there
-8) Places where people could meet and discuss in  debates (while drinking coffe in the augustan age
+8) Places where people could meet and discuss in  debates (political pamphlet and debates) while drinking coffe in the augustan age,
 9) King of the Netherlands and England, after the glorious revolution
 10) Used by Jhonathan Swift, criticizing someone using irony and not letting them percieve that they are being criticized
 11) Former wife of Henry the VIII, which he ordered to be beheaded because she did not give him male heirs
 12) Holiday in which the attempt of burning dow the parliament by Guy Fawkes and his co-conspirators is celebrated
 13) Sonnet by William Shakespeares, which is in stark contrast to the Pethrarcan tradition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzY3MDYwNzMsMTU5OTA2MDMwNV19
+eyJoaXN0b3J5IjpbLTc5Mjc4ODc0OSwxNTk5MDYwMzA1XX0=
 -->
