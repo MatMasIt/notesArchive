@@ -13,7 +13,8 @@ Date da ricordare:
 * Decapitazione del re 21 gennaio 1793
 * Date delle costituzioni
  * Prima: 3 settembre 1791
- * Seconda: 
+ * Seconda: dopo settembre 1793, mai approvata
+ * Terza: 1795
 
 ### Rivoluzione industriale 
 ![](https://raw.githubusercontent.com/MatMasIt/notesArchive/main/latest/Storia/2021/maggio/mercoled%C3%AC_19/13_04_00/prima%20riv%20ind.svg)
@@ -53,6 +54,6 @@ Lavoro con salario certo
 
 Storia del ferro e del cotone in inghilterra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTQ2MTk4NiwtNjQ3NTYzMzg0LC0yNj
-kwMTIwNzIsOTY3MzY0MDI4LC04NTU1Mzg5NDNdfQ==
+eyJoaXN0b3J5IjpbLTEyMzUzMzkwNzgsLTY0NzU2MzM4NCwtMj
+Y5MDEyMDcyLDk2NzM2NDAyOCwtODU1NTM4OTQzXX0=
 -->
