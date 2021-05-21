@@ -34,6 +34,10 @@ Roba venuta in sua assenza
 
 
 La vigna sembra viva
+
+Somiglianza tra vigna e masse, i deboli si sostrngono tra di loro
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc4ODg4NTgsLTQ1NDEwMDE5Ml19
+eyJoaXN0b3J5IjpbLTE4NTEyMDA4ODIsLTQ1NDEwMDE5Ml19
 -->
