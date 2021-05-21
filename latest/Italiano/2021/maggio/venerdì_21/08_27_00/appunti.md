@@ -59,6 +59,9 @@ la gente fa legna, se ne approfitta
 capponi che si accapigliano
 
 prevalere dell'utile personale, del piccolo orto anche in situazioni difficili
+
+male incontrollato tra gli uomini che genera altro male
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTg1OTY4NiwtNDU0MTAwMTkyXX0=
+eyJoaXN0b3J5IjpbLTEyOTA0ODgwMTIsLTQ1NDEwMDE5Ml19
 -->
