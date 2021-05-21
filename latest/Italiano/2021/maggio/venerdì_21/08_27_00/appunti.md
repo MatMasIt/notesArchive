@@ -52,7 +52,11 @@ immagine della Vigna
 
 disordine: comportamento istintivo della folla quando è in delirio
 
-nella bibbia 
+nella bibbia ci sono allegorie vigne
+
+la gente fa legna, se ne approfitta
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzkxNDI2OTAsLTQ1NDEwMDE5Ml19
+eyJoaXN0b3J5IjpbLTE5Nzc3MDEyMDMsLTQ1NDEwMDE5Ml19
 -->
