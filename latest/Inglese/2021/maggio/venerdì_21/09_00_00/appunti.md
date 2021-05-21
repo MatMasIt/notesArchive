@@ -54,6 +54,15 @@ poor people stood in the arena
 
 flag
 props
+
+
+* Sir Christopher Wren
+* Ariel
+* Augustan Age
+* Characters in Hamlet
+* Rome and Juliet, metaphore of the rose
+* Friday from R. Crusoe
+* Plot and themes of Merchant 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY1MDI1MDksMTU5OTA2MDMwNV19
+eyJoaXN0b3J5IjpbLTE0ODI5NzU0MjYsMTU5OTA2MDMwNV19
 -->
