@@ -12,7 +12,8 @@ Date da ricordare:
 * Nascita prima repubblica francese 21 settembre 1789
 * Decapitazione del re 21 gennaio 1793
 * Date delle costituzioni
- * Prima: 
+ * Prima: 3 settembre 1791
+ * Seconda: 
 
 ### Rivoluzione industriale 
 ![](https://raw.githubusercontent.com/MatMasIt/notesArchive/main/latest/Storia/2021/maggio/mercoled%C3%AC_19/13_04_00/prima%20riv%20ind.svg)
@@ -52,6 +53,6 @@ Lavoro con salario certo
 
 Storia del ferro e del cotone in inghilterra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDYzODQxLC02NDc1NjMzODQsLTI2OT
-AxMjA3Miw5NjczNjQwMjgsLTg1NTUzODk0M119
+eyJoaXN0b3J5IjpbMTUwOTQ2MTk4NiwtNjQ3NTYzMzg0LC0yNj
+kwMTIwNzIsOTY3MzY0MDI4LC04NTU1Mzg5NDNdfQ==
 -->
