@@ -28,6 +28,9 @@ Digressione che non c'era nel Fermo e Lucia, e nella ventisettana
 Don Abbondio, elenca i morti
 incontra Tonio
 
+Qualcuno si è portata via la vigna
+
+Roba venuta in sua assenza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjE1MDgyMTVdfQ==
+eyJoaXN0b3J5IjpbLTQ1NDEwMDE5Ml19
 -->
