@@ -29,7 +29,9 @@
 10) Criticizing human vices, society and people using irony, caricatures, exhagerations and distortions and not letting people percieve that they are being criticized
 11) Former wife of Henry the VIII, which he ordered to be beheaded in the tower of London because she did not give him male heirs
 12) Holiday (5th of november) in which the failed attempt of blowing up the parliament (Gunpowder plot)  by Guy Fawkes and his co-conspirators is celebrated
-13) Sonnet by William Shakespeares, one of the two addresees of the shakesperean sonnet which is in stark contrast to the perfect woman Pethrarcan tradition
+13) Sonnet by William Shakespeares, one of the two addresees of the shakesperean sonnet which is in stark contrast to the perfect woman Pethrarcan tradition, she is a flesh and blood woman
+
+The second addressee is the fair youth (The Earl of  Southampton)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjIwMTU0NCwxNTk5MDYwMzA1XX0=
+eyJoaXN0b3J5IjpbLTE5NTM0MjMzOTAsMTU5OTA2MDMwNV19
 -->
