@@ -27,9 +27,9 @@
 8) Places where people could meet and discuss in  debates (political pamphlet and debates) while drinking coffe in the augustan age,
 9) King of the Netherlands and England, after the glorious revolution, william of orange and mary came to the throne because they were called by the parliament (1688, 1689 came to the throne)
 10) Criticizing human vices, society and people using irony, caricatures, exhagerations and distortions and not letting people percieve that they are being criticized
-11) Former wife of Henry the VIII, which he ordered to be beheaded because she did not give him male heirs
-12) Holiday in which the attempt of burning dow the parliament by Guy Fawkes and his co-conspirators is celebrated
+11) Former wife of Henry the VIII, which he ordered to be beheaded in the tower of London because she did not give him male heirs
+12) Holiday (5th of november) in which the attempt of burning dow the parliament by Guy Fawkes and his co-conspirators is celebrated
 13) Sonnet by William Shakespeares, which is in stark contrast to the Pethrarcan tradition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjc0ODI0OSwxNTk5MDYwMzA1XX0=
+eyJoaXN0b3J5IjpbLTc0OTY5NTI2OCwxNTk5MDYwMzA1XX0=
 -->
