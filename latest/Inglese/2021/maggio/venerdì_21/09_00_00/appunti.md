@@ -21,8 +21,8 @@
 2)  Battle won against the spanish *Invincibile Armada*
 3) Poor people who stood in the arena under the stage in the elisabethan playhouse, payed one penny
 4) Predecessor of Elisabeth the I, Catholic, tried to restore catholicism in England with violence, killed about 300 protesants, daughter of Henry VII and Catherine of Aragon |Elisabeth the was the daughter of Anne Bolene|
-5) First and posthumuous edition of Shakespeare's plays, published in 1623
-6) Restoration of the Monarchy, Charles the II comes back to England
+5) First and posthumuous edition of Shakespeare's 37  plays (Tragedies, Comedies, Last Plays, Historical Plays), published in 1623
+6) Restoration of the Monarchy, Charles the II comes back to England from France where he had exhiled
 7) Society founded in 1660 by Charles the II, for the progress of the sciences
 8) Places where people could meet and discuss while drinking coffe in the augustan age
 9) King of the Netherlands and England, after the glorious revolution
@@ -31,5 +31,5 @@
 12) Holiday in which the attempt of burning dow the parliament by Guy Fawkes and his co-conspirators is celebrated
 13) Sonnet by William Shakespeares, which is in stark contrast to the Pethrarcan tradition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDIxNjM0NTgsMTU5OTA2MDMwNV19
+eyJoaXN0b3J5IjpbMTA2NjY0MzQxMSwxNTk5MDYwMzA1XX0=
 -->
