@@ -1,5 +1,4 @@
 # La rivoluzione francese
-## Introduzione
 
 Date da ricordare:
 * Convcazione stati generali   5 maggio 1789
@@ -12,6 +11,9 @@ Date da ricordare:
  * Prima: 3 settembre 1791
  * Seconda: dopo settembre 1793, mai approvata
  * Terza: 1795
+
+## Introduzione
+
 
 Vicenda rivoluzionaria francese
 Svolta nella periodizzazione
@@ -990,5 +992,6 @@ nel 1804 lui è diventato "imperatore dei francesi"
 
 1799, colpo di stato di Napoleone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTYwMDA1OCwyMTI4MzY1Njc1XX0=
+eyJoaXN0b3J5IjpbLTE2NjY0Nzk0MjgsMTYzNTYwMDA1OCwyMT
+I4MzY1Njc1XX0=
 -->
