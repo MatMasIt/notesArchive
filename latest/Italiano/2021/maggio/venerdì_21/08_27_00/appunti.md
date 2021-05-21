@@ -23,7 +23,11 @@ Essere all'interno di di unaa folla, non esercitare il libero arbitrio
 
 
 La vigna di Renzo, cap. XXXIII
-Digressione che non c'era nel fermo e 
+Digressione che non c'era nel Fermo e Lucia, e nella ventisettana 
+
+Don Abbondio, elenca i morti
+incontra Tonio
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDQ5ODQ2Ml19
+eyJoaXN0b3J5IjpbLTEwNjE1MDgyMTVdfQ==
 -->
