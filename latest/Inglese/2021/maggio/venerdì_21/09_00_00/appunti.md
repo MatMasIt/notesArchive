@@ -39,7 +39,21 @@ Elisabethan playhouse:
 * Main stage
 * Upper Stage
 * Inner stage
-Pit/a
+Pit/Arena
+
+3 levels of galleries
+
+roof just on the gallery and the main stage
+
+straw and wood round/octagonal roof (thached roof)
+
+
+Public: poor and rich people
+rich people sat in the gallery
+poor people stood in the arena
+
+flag
+props
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzQyMjgzMiwxNTk5MDYwMzA1XX0=
+eyJoaXN0b3J5IjpbLTEwMTY1MDI1MDksMTU5OTA2MDMwNV19
 -->
