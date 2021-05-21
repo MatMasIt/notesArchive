@@ -10,8 +10,9 @@ Date da ricordare:
 * Dichiarazione diritti dell'uomo e del cittadino  26 agosto 1789
 * Abolizione Feudalesimo  5 agosto 1789
 * Nascita prima repubblica francese 21 settembre 1789
-* Decapitazione del re
+* Decapitazione del re 21 gennaio 1793
 * Date delle costituzioni
+ * Prima: 
 
 ### Rivoluzione industriale 
 ![](https://raw.githubusercontent.com/MatMasIt/notesArchive/main/latest/Storia/2021/maggio/mercoled%C3%AC_19/13_04_00/prima%20riv%20ind.svg)
@@ -51,6 +52,6 @@ Lavoro con salario certo
 
 Storia del ferro e del cotone in inghilterra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc5MTI1NzAsLTY0NzU2MzM4NCwtMj
-Y5MDEyMDcyLDk2NzM2NDAyOCwtODU1NTM4OTQzXX0=
+eyJoaXN0b3J5IjpbMTk4MDYzODQxLC02NDc1NjMzODQsLTI2OT
+AxMjA3Miw5NjczNjQwMjgsLTg1NTUzODk0M119
 -->
