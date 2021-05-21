@@ -46,7 +46,13 @@ Manzoni botanico dilettante
 
 Contadino-Linneo classifica tutte le piante elencate come erbacce
 
-Elencazione, figura di allegoria, grande allegoria della vigna f
+Elencazione, figura di allegoria, grande allegoria della vigna di Renzo
+
+immagine della Vigna
+
+disordine: comportamento istintivo della folla quando è in delirio
+
+nella bibbia 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDUyMjcxNSwtNDU0MTAwMTkyXX0=
+eyJoaXN0b3J5IjpbLTIwMzkxNDI2OTAsLTQ1NDEwMDE5Ml19
 -->
