@@ -31,6 +31,9 @@ incontra Tonio
 Qualcuno si è portata via la vigna
 
 Roba venuta in sua assenza
+
+
+La vigna sembra viva
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDEwMDE5Ml19
+eyJoaXN0b3J5IjpbLTE3NTc4ODg4NTgsLTQ1NDEwMDE5Ml19
 -->
