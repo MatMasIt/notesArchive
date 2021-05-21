@@ -1,6 +1,18 @@
 # La rivoluzione francese
 ## Introduzione
 
+Date da ricordare:
+* Convcazione stati generali   5 maggio 1789
+* Presa della Bastiglia 14 luglio 1789
+* Dichiarazione diritti dell'uomo e del cittadino  26 agosto 1789
+* Abolizione Feudalesimo  5 agosto 1789
+* Nascita prima repubblica francese 22 settembre 1792
+* Decapitazione del re 21 gennaio 1793
+* Date delle costituzioni
+ * Prima: 3 settembre 1791
+ * Seconda: dopo settembre 1793, mai approvata
+ * Terza: 1795
+
 Vicenda rivoluzionaria francese
 Svolta nella periodizzazione
 Si assa all'età contemporanea
@@ -978,5 +990,5 @@ nel 1804 lui è diventato "imperatore dei francesi"
 
 1799, colpo di stato di Napoleone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODM2NTY3NV19
+eyJoaXN0b3J5IjpbMTYzNTYwMDA1OCwyMTI4MzY1Njc1XX0=
 -->
