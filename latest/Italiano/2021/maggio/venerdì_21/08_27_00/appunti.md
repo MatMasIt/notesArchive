@@ -39,6 +39,14 @@ Somiglianza tra vigna e masse, i deboli si sostrngono tra di loro
 
 marmaglia e guazzabuglio
 soverchiarsi
+
+nessuno che mette ordine che razionalizza
+
+Manzoni botanico dilettante
+
+Contadino-Linneo classifica tutte le piante elencate come erbacce
+
+Elencazione, figura di allegoria, grande allegoria della vigna f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwOTEyMzIsLTQ1NDEwMDE5Ml19
+eyJoaXN0b3J5IjpbMTE4NDUyMjcxNSwtNDU0MTAwMTkyXX0=
 -->
