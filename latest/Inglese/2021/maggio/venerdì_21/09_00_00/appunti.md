@@ -62,7 +62,8 @@ props
 * Characters in Hamlet
 * Rome and Juliet, metaphore of the rose
 * Friday from R. Crusoe
-* Plot and themes of Merchant 
+* Plot and themes of Merchant of Venice, the tempest
+* Puritanism
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI5NzU0MjYsMTU5OTA2MDMwNV19
+eyJoaXN0b3J5IjpbNzUxNjg2MDE0LDE1OTkwNjAzMDVdfQ==
 -->
