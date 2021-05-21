@@ -32,6 +32,14 @@
 13) Sonnet by William Shakespeares, one of the two addresees of the shakesperean sonnet which is in stark contrast to the perfect woman Pethrarcan tradition, she is a flesh and blood woman
 
 The second addressee is the fair youth (The Earl of  Southampton)
+
+
+Elisabethan playhouse:
+3 stages:
+* Main stage
+* Upper Stage
+* Inner stage
+Pit/a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTM0MjMzOTAsMTU5OTA2MDMwNV19
+eyJoaXN0b3J5IjpbLTgzMzQyMjgzMiwxNTk5MDYwMzA1XX0=
 -->
