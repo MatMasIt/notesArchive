@@ -56,7 +56,9 @@ nella bibbia ci sono allegorie vigne
 
 la gente fa legna, se ne approfitta
 
+capponi che si accapigliano
 
+prevalere dell'utile personale, del piccolo orto anche in situazioni difficili
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc3MDEyMDMsLTQ1NDEwMDE5Ml19
+eyJoaXN0b3J5IjpbLTQ3NTg1OTY4NiwtNDU0MTAwMTkyXX0=
 -->
