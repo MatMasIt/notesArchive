@@ -8,7 +8,7 @@ T38, p 226
 
 Gulliver is speaking, first person narrator
 
-Precise description o
+Precise description of the content of the pockets
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4MDcxMTQwLDEzNTMyNzk3NTRdfQ==
+eyJoaXN0b3J5IjpbLTIxNTIzNTI0OSwxMzUzMjc5NzU0XX0=
 -->
