@@ -38,7 +38,10 @@ Parentesi: itervento del narratore omniscente
 
 città dei morti e città dei vivi
 
+commissari della Sanità, le autorità
+tema dell'esercizio del potere
 
+strame:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTY0ODc5OCwtMTYzMDE0MDI0MV19
+eyJoaXN0b3J5IjpbODQ5NjY4ODczLC0xNjMwMTQwMjQxXX0=
 -->
