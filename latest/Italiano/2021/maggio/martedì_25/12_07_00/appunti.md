@@ -59,6 +59,9 @@ religiosi con abiti civili, preti senza sottana
 
 trascuratezza
 
+argento vivo $\implies$ mercurio
+
+ca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzNDA3NzQ4LC0xNjMwMTQwMjQxXX0=
+eyJoaXN0b3J5IjpbMjU2ODA0MzExLC0xNjMwMTQwMjQxXX0=
 -->
