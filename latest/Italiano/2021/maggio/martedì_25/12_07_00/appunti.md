@@ -6,7 +6,8 @@
 * Ugo Foscolo: militante, amante, letterato (Bonino $\implies$ Benetello)
 * Temi dell'Ortis (Casetta, dodgata)
 * Concezione della natura e della storia nella lettera da Ventimiglia (Roggero) 
-* 
+	* storia come susseguirsi di prevaricazioni
+	* t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTE3OTcxOV19
+eyJoaXN0b3J5IjpbMzcxODkxNjU0XX0=
 -->
