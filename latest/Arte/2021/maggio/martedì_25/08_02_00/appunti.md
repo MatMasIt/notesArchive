@@ -67,6 +67,16 @@ Ci dovevano essere altri palazzi
 
 Costruita solo reggia e cortile retrostante
 Lavori a rilento, non si solo realizzati altri palazzi
+Non si è costruita strada di 20 Km per Napoli
+
+#### Facciata
+Primo ordine finestre
+-balaustra-
+secondo e terzo ordine
+
+Parti laterali aggettanti, definite da colonne addossate alla parete
+
+5 campate sormontate da trabeazione superiore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTIzNzk1OF19
+eyJoaXN0b3J5IjpbLTg0MzAxMzU4NF19
 -->
