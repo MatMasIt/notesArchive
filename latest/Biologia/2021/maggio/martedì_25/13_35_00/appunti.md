@@ -17,6 +17,9 @@ L' **apparato urinario** o escretore ha la funzione di:
 > 
 > Malattie all'urinario danno invalidità permanente
 
+Sono fondamentali, sono 2 (organo pari)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzAxNTM0NCwxNjcwMTY5Nzg0XX0=
+eyJoaXN0b3J5IjpbLTE3OTg5NTEyODksMTY3MDE2OTc4NF19
 -->
