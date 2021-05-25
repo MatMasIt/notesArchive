@@ -11,6 +11,8 @@
 * Dei Sepolcri, il genere l'organizzazione compositiva, occasione di composizione
 	* Poemetto in versi endecasillabi 
 (Manera $\implies$ Adamo)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTIzMzI5NzNdfQ==
+eyJoaXN0b3J5IjpbLTE2MzAxNDAyNDFdfQ==
 -->
