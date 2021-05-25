@@ -1,6 +1,6 @@
 # Lezione di Arte (1° ora)
 
-## martedì 25 gennaio 2021, 08:03:23
+## martedì 25 maggio 2021, 08:03:23
 
 ### Rembrandt, p 865
 artista olandese, seconda metà del '600
@@ -110,6 +110,6 @@ Trasforma arteone in un cervo, egli viene dilaniato dai suoi cani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTI1NDEzODQsLTE0NDg0NTcwMDldfQ
-==
+eyJoaXN0b3J5IjpbMTAxMzc3NDI1NSwtMTY1MjU0MTM4NCwtMT
+Q0ODQ1NzAwOV19
 -->
