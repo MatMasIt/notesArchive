@@ -8,8 +8,8 @@ L' **apparato urinario** o escretore ha la funzione di:
 * garantire un equilibrio fra acqua e soluti presenti nel corpo
 * mantenere un $pH$ costante
 * eliminare le scorie prodotte con il metabolismo
-* regolar il volume del sangue e la pressione arteriosa
-* liberare ormoni
+* regolare il volume del sangue e la pressione arteriosa
+* secernere ormoni
 
 > **Dialisi**
 > * o in casa (3/4 volte al giorno)
@@ -22,6 +22,10 @@ Sono fondamentali, sono 2 (organo pari)
 
 I ricci e le stelle di mare (gli echinodermi) hanno un sistema di filtrazione
 
+
+* due **reni**  (organi pari) che filtrano il sangue
+* due **ureteri**
+* **vescica, organo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjAxOTAyOTgsMTY3MDE2OTc4NF19
+eyJoaXN0b3J5IjpbLTM3NDI0MTA4NywxNjcwMTY5Nzg0XX0=
 -->
