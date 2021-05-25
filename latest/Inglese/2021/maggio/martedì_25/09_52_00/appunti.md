@@ -50,9 +50,17 @@ Two fobs, where he used to keep the clocks
 
 Silver chain with a wonderful kind of engine at the bottom
 
+It looks like a glob, circular
+
+half silver, half of a transparent metal (glass)
+
+Strange figures circularly drawn
+
+It's a clock
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjkxMzU0LC0yMTUyMzUyNDksMTM1Mz
-I3OTc1NF19
+eyJoaXN0b3J5IjpbMTY4MTgxNjk3NCwtMjE1MjM1MjQ5LDEzNT
+MyNzk3NTRdfQ==
 -->
