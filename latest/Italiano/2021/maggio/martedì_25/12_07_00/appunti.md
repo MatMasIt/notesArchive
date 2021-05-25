@@ -102,6 +102,11 @@ oggetto di pietà, pietas violata e pietas ritrovata
 Restituzione di sacralità e rispetto
 
 p. 844
+
+
+Settenario
+$scendeva$ $dalla$ $soglia$ $di$ $quegli$ $usci$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4OTA5MDI1LC0xNjMwMTQwMjQxXX0=
+eyJoaXN0b3J5IjpbMTg0MTEzNDA4MywtMTYzMDE0MDI0MV19
 -->
