@@ -27,8 +27,15 @@ Generale con fascia rossa
 ### Juvarra
 Architetto siciliano che opera a Torino, alla coorte dei savoia
 
+
 Cupola come basilica di San Pietro
 Trono simile a Pantheon
+
+Lesene che dividono la facciata, balaustre
+
+Torri cammpanarie che sormontano le ali laterali
+
+Posizione panoramica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExNTkyODAxXX0=
+eyJoaXN0b3J5IjpbLTExMDU5OTM2NDNdfQ==
 -->
