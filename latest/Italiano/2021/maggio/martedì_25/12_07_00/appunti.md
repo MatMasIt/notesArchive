@@ -4,7 +4,9 @@
 ### Domande di controllo
 
 * Ugo Foscolo: militante, amante, letterato (Bonino $\implies$ Benetello)
-* Attività di critica letteraria (
+* Temi dell'Ortis (Casetta, dodgata)
+* Concezione della natura e della storia nella lettera da Ventimiglia (Roggero) 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDUwNDMyMV19
+eyJoaXN0b3J5IjpbMTQyMTE3OTcxOV19
 -->
