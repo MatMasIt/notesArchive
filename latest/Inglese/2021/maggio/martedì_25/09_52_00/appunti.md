@@ -1,6 +1,6 @@
 # Lezione di Inglese (3° ora)
 
-## martedì 25 maggio 2021, 08:03:23
+## martedì 25 maggio 2021, 10:03:23
 
 Gulliver's travels texts
 
@@ -102,6 +102,7 @@ Admiration
 
 Search very deailed and strict but useles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njg3NjU1MzksLTIxMzQ3OTYxMjIsLT
-E5MjQyMDkxMjMsLTIxNTIzNTI0OSwxMzUzMjc5NzU0XX0=
+eyJoaXN0b3J5IjpbNjY5MDE5NTcyLC0xNjY4NzY1NTM5LC0yMT
+M0Nzk2MTIyLC0xOTI0MjA5MTIzLC0yMTUyMzUyNDksMTM1MzI3
+OTc1NF19
 -->
