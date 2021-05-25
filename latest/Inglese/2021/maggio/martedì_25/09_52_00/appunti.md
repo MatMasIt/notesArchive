@@ -82,9 +82,12 @@ Different perspectives, typical of the traveller
 
 
 
-## p.227 es 3
-
+## p.227 es 2.3
+|Lilliputian's perspective|Real Object|
+|----|----|
+|carpet|handkerchief|
+|u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTM4MDc2MiwtMjE1MjM1MjQ5LDEzNT
+eyJoaXN0b3J5IjpbMTg4MTU1NTYxNiwtMjE1MjM1MjQ5LDEzNT
 MyNzk3NTRdfQ==
 -->
