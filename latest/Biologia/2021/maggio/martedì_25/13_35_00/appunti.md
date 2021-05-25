@@ -11,7 +11,10 @@ L' **apparato urinario** o escretore ha la funzione di:
 * regolar il volume del sangue e la pressione arteriosa
 * liberare ormoni
 
+> **Dialisi**
+> * o in casa (3/4 volte al giorno)
+> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDE2OTc4NF19
+eyJoaXN0b3J5IjpbMTA5NTU5OTU0NSwxNjcwMTY5Nzg0XX0=
 -->
