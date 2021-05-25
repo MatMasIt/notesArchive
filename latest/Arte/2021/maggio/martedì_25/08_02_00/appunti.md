@@ -56,7 +56,17 @@ Interno: sala molto decorata con stucchi, pitture e decorazioni dorate
 ---
 ### Reggia di Caserta
 
-Volluta dal 
+Volluta dal Re di spagna, borbone
+
+Voleva creare cittadina politico-amministrativa per il regno delle due sicilie
+
+Per ricevimenti
+
+
+Ci dovevano essere altri palazzi
+
+Costruita solo reggia e cortile retrostante
+Lavori a rilento, non si solo realizzati altri palazzi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDgyMDE4MF19
+eyJoaXN0b3J5IjpbMTgwNTIzNzk1OF19
 -->
