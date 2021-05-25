@@ -61,7 +61,13 @@ trascuratezza
 
 argento vivo $\implies$ mercurio
 
-ca
+cadaveri buttati dalle finestre
+
+Diffusione delle credenze, rovesciamento dei costumi
+
+descrizione, segnale del mondo rovesciato, carnevale degli orrori
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2ODA0MzExLC0xNjMwMTQwMjQxXX0=
+eyJoaXN0b3J5IjpbMTI1OTI0OTYxMCwtMTYzMDE0MDI0MV19
 -->
