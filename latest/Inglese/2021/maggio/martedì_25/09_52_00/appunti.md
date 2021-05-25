@@ -13,7 +13,11 @@ Precise description of the content of the pockets
 foot-cloth: carpet (l.12)   distortion
 
 they find a Huge silver chest that they were not able to lift
+
+When somebody steps in the chest, he finds himself in a kind of dust, which makes them sneeze when it flies to their faces
+
+It could be g
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjA3ODY3NDAsLTIxNTIzNTI0OSwxMz
-UzMjc5NzU0XX0=
+eyJoaXN0b3J5IjpbMjAyNzI3NzA1OSwtMjE1MjM1MjQ5LDEzNT
+MyNzk3NTRdfQ==
 -->
