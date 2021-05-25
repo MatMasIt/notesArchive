@@ -100,8 +100,8 @@ Admiration
 * l.23, 24 conjecture:
  try to find a solution in a rational way
 
-Search very deailed and strict
+Search very deailed and strict but useles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2MDM3MTI1LC0yMTM0Nzk2MTIyLC0xOT
-I0MjA5MTIzLC0yMTUyMzUyNDksMTM1MzI3OTc1NF19
+eyJoaXN0b3J5IjpbLTE2Njg3NjU1MzksLTIxMzQ3OTYxMjIsLT
+E5MjQyMDkxMjMsLTIxNTIzNTI0OSwxMzUzMjc5NzU0XX0=
 -->
