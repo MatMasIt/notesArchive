@@ -34,8 +34,7 @@ Male biologico, ma che sollecita il male comportamentale tra gli uomini, che tor
 
 La Milano di 1 anno dopo, Milano infernale II
 
-
+Parentesi: itervento del narratore omniscente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODY5NzY5MjMsLTE2MzAxNDAyNDFdfQ
-==
+eyJoaXN0b3J5IjpbMTk3MTU5NTYxNCwtMTYzMDE0MDI0MV19
 -->
