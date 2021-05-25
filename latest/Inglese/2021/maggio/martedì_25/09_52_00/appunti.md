@@ -10,7 +10,7 @@ Gulliver is speaking, first person narrator
 
 Precise description of the content of the pockets
 
-Handachief
+
 
 foot-cloth: carpet (l.12)   distortion
 
@@ -75,10 +75,12 @@ They suppose it is a God that he worhips, because he always consult that object 
 
 Very detailed, precise, realistic description of the objects
 
-Absurd and funny because the reader is amused because of the distortion of familiar object
+Absurd and funny because the reader is amused because of the distortion of familiar objects
 
+
+Different perspectives, typical of the traveller
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzcyOTA2MywtMjE1MjM1MjQ5LDEzNT
-MyNzk3NTRdfQ==
+eyJoaXN0b3J5IjpbNzUyOTg1Mjg2LC0yMTUyMzUyNDksMTM1Mz
+I3OTc1NF19
 -->
