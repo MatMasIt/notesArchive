@@ -16,8 +16,12 @@ they find a Huge silver chest that they were not able to lift
 
 When somebody steps in the chest, he finds himself in a kind of dust, which makes them sneeze when it flies to their faces
 
-It could be g
+It could be gunpowder, but it's not, it's **tobacco**
+
+Lilliputians don't know tobacco
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzI3NzA1OSwtMjE1MjM1MjQ5LDEzNT
+eyJoaXN0b3J5IjpbLTk0MDMyMTM2MCwtMjE1MjM1MjQ5LDEzNT
 MyNzk3NTRdfQ==
 -->
