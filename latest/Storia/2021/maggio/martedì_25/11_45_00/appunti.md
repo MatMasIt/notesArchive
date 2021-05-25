@@ -18,7 +18,11 @@ Novità: $17^{esimo}$ secolo
 
 Interesse europei verso il cotone cresce
 Cotone:
-*
+* più resistente
+* adatto ai climi caldi: piantagioni delli stati del sud, gli schiavi hanno bisogno di essere vestiti
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjY0NjIyMl19
+eyJoaXN0b3J5IjpbOTY2NDMwMjFdfQ==
 -->
