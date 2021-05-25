@@ -68,6 +68,12 @@ Diffusione delle credenze, rovesciamento dei costumi
 descrizione, segnale del mondo rovesciato, carnevale degli orrori
 
 
+non paese di cuccagna, ma orrorifico
+
+i cadaveri, gli oggetti ammorbati e pesilenziali sono su tutto il selciato
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTI0OTYxMCwtMTYzMDE0MDI0MV19
+eyJoaXN0b3J5IjpbLTE1NDc4MzI3NjYsLTE2MzAxNDAyNDFdfQ
+==
 -->
