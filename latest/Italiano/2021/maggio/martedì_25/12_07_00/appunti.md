@@ -84,7 +84,12 @@ Turpiloquio tra monatti e coinquilini
 
 Perdita di qualsiasi sacralità
 
+tutto ridotto a gesti manuali, mercatali
+
+perdita delle regole civili per vivere
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODA4MTQxMiwtMTYzMDE0MDI0MV19
+eyJoaXN0b3J5IjpbLTE3NjUzNDYwMDQsLTE2MzAxNDAyNDFdfQ
+==
 -->
