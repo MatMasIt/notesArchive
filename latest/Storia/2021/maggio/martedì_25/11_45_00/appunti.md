@@ -10,7 +10,15 @@ Accumulo risorse, enclosures generano crescita economica esponenziale
 
 Settori produttivi tessile e metallurgico
 
-Produzione tessile: lana
+Produzione tessile:
+* Lana
+* Tendenza a realizzare i prodotti tessili in campagna (industria rurale, grande innovazione, abbatte i prezzi)
+
+Novità: $17^{esimo}$ secolo
+
+Interesse europei verso il cotone cresce
+Cotone:
+*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwMTEzNDA5XX0=
+eyJoaXN0b3J5IjpbMTYzMjY0NjIyMl19
 -->
