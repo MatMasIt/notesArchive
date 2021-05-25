@@ -13,8 +13,10 @@ L' **apparato urinario** o escretore ha la funzione di:
 
 > **Dialisi**
 > * o in casa (3/4 volte al giorno)
+> * in ospedale
 > 
+> Malattie all'urinario danno invalidità permanente
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTU5OTU0NSwxNjcwMTY5Nzg0XX0=
+eyJoaXN0b3J5IjpbLTczNzAxNTM0NCwxNjcwMTY5Nzg0XX0=
 -->
