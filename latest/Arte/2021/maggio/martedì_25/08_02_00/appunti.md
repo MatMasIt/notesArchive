@@ -87,6 +87,15 @@ Piano terra ci sono tutte le stanze di servizio
 Piani superiori: sale rappresentanza e abitazioni del re
 
 2 facciate, frontale e retrostantesono identiche
+
+Giardino retrostrante, fiume con cascate che poi è interrato
+
+giardino all'italiana
+
+Spazi regolari
+
+
+Poi realizz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjQxMzkxM119
+eyJoaXN0b3J5IjpbLTExODAwNjMzNTBdfQ==
 -->
