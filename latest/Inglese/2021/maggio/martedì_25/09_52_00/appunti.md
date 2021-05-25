@@ -68,10 +68,17 @@ He puts the engine to their ears, incessant noise, like that of a whatermill
 
 They conjecture it is either an unknown animal or the God that he worsips
 
-They suppose it is a God that he worhips, because he always consult that object before do
+They suppose it is a God that he worhips, because he always consult that object before doing aything, an oracle
+
+---
+
+
+Very detailed, precise, realistic description of the objects
+
+Absurd and funny because the reader is amused because of the distortion of familiar object
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDA4MDk2NywtMjE1MjM1MjQ5LDEzNT
+eyJoaXN0b3J5IjpbLTcwNzcyOTA2MywtMjE1MjM1MjQ5LDEzNT
 MyNzk3NTRdfQ==
 -->
