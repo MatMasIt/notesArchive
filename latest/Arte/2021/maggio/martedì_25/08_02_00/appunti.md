@@ -86,7 +86,7 @@ Piano terra ci sono tutte le stanze di servizio
 
 Piani superiori: sale rappresentanza e abitazioni del re
 
-
+2 facciate, frontale e retrostantesono identiche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk3NzczNzJdfQ==
+eyJoaXN0b3J5IjpbLTg5NjQxMzkxM119
 -->
