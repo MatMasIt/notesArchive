@@ -51,7 +51,14 @@ Inselvatichiti gli animi, anche la vigna è inselvatichita
 
 preghiera comune dalle finestre
 
-La fede religiosa può
+La fede religiosa può riallacciare i legami del consorzio civile
+
+
+Capovolgimento
+religiosi con abiti civili, preti senza sottana
+
+trascuratezza
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzUzMDcyNiwtMTYzMDE0MDI0MV19
+eyJoaXN0b3J5IjpbNzAzNDA3NzQ4LC0xNjMwMTQwMjQxXX0=
 -->
