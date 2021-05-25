@@ -41,7 +41,13 @@ città dei morti e città dei vivi
 commissari della Sanità, le autorità
 tema dell'esercizio del potere
 
-strame:
+strame: paglia
+
+corpi che cadono come merce
+
+
+
+Inselvatichiti gli animi, anche la vigna è inselvatichita
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5NjY4ODczLC0xNjMwMTQwMjQxXX0=
+eyJoaXN0b3J5IjpbNDU4NzQ3Njc5LC0xNjMwMTQwMjQxXX0=
 -->
