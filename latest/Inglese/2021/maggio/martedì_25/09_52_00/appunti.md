@@ -81,16 +81,17 @@ Absurd and funny because the reader is amused because of the distortion of famil
 Different perspectives, typical of the traveller
 
 
+> *coarse cloth* $\implies$ stoffa grezza
 
 ## p.227 es 2.3
 |Lilliputian's perspective|Real Object|
 |----|----|
-|carpet|handkerchief|
-|unknown irritant powder|tobacco|
+|large coarse cloth|handkerchief|
+|huge silver chest containing unknown irritant powder|tobacco box|
 |white substance with writing|letters, documents|
 |engine with poles|comb|
 |God or animal|clock|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQyMDkxMjMsLTIxNTIzNTI0OSwxMz
-UzMjc5NzU0XX0=
+eyJoaXN0b3J5IjpbODc3MzY4NTY2LC0xOTI0MjA5MTIzLC0yMT
+UyMzUyNDksMTM1MzI3OTc1NF19
 -->
