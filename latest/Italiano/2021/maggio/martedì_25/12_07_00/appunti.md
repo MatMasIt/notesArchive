@@ -93,8 +93,15 @@ perdita delle regole civili per vivere
 *Sciagurati* monatti $\implies$inconsapevoli del loro stato, disprezzo verso i monatti
 
 
-$\bigdot$
+Senso di attesa, micro-prolessi
+
+oggetto di pietà, pietas violata e pietas ritrovata
+
+
+
+Restituzione di sacralità e rispetto
+
+p. 844
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgyODcxNjYsLTE2MzAxNDAyNDFdfQ
-==
+eyJoaXN0b3J5IjpbOTI4OTA5MDI1LC0xNjMwMTQwMjQxXX0=
 -->
