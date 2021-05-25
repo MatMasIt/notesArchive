@@ -20,6 +20,8 @@ L' **apparato urinario** o escretore ha la funzione di:
 Sono fondamentali, sono 2 (organo pari)
 
 
+I ricci e le stelle di mare (gli echinodermi) hanno un sistema di filtrazione
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg5NTEyODksMTY3MDE2OTc4NF19
+eyJoaXN0b3J5IjpbLTEyMjAxOTAyOTgsMTY3MDE2OTc4NF19
 -->
