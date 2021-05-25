@@ -58,9 +58,16 @@ Strange figures circularly drawn
 
 It's a clock
 
+Lucid subtance (glass) stops them from touching the figures
+
+Distorted description
+
+
+He puts the engine to their ears, inc
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTgxNjk3NCwtMjE1MjM1MjQ5LDEzNT
-MyNzk3NTRdfQ==
+eyJoaXN0b3J5IjpbLTE5NTgwMzg3NTUsLTIxNTIzNTI0OSwxMz
+UzMjc5NzU0XX0=
 -->
