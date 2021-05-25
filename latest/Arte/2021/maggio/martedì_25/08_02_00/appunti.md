@@ -95,7 +95,16 @@ giardino all'italiana
 Spazi regolari
 
 
-Poi realizz
+Poi realizzato anche giardino all'inglese
+
+Fatto realizzare un edificio antico, che sembrea un reperto archeologico perle crepe etc
+
+
+Fontana che si trova al culmine della fontana
+
+Mito ninfa Diana che viene vista da Cacciatore, Arteone
+
+Trasforma arteone in un cervo, egli viene dilaniato dai suoi cani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODAwNjMzNTBdfQ==
+eyJoaXN0b3J5IjpbLTE0NDg0NTcwMDldfQ==
 -->
