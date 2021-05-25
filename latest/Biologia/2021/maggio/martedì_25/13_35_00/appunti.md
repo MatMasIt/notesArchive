@@ -25,7 +25,13 @@ I ricci e le stelle di mare (gli echinodermi) hanno un sistema di filtrazione
 
 * due **reni**  (organi pari) che filtrano il sangue
 * due **ureteri**
-* **vescica, organo
+* **vescica**, organo di raccolta delle urine
+* **uretra** permette lo svuotamento della vescica
+
+
+
+**Nefrone** $\implies$ unità funzionale del rene
+$Nefrologia$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDI0MTA4NywxNjcwMTY5Nzg0XX0=
+eyJoaXN0b3J5IjpbMTE1MzY2MjgwNywxNjcwMTY5Nzg0XX0=
 -->
