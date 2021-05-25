@@ -8,7 +8,7 @@ T38, p 226
 
 Gulliver is speaking, first person narrator
 
-
+Precise description o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTI3MjUyMiwxMzUzMjc5NzU0XX0=
+eyJoaXN0b3J5IjpbMzc4MDcxMTQwLDEzNTMyNzk3NTRdfQ==
 -->
