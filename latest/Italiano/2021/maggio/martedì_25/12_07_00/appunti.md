@@ -89,7 +89,12 @@ tutto ridotto a gesti manuali, mercatali
 perdita delle regole civili per vivere
 
 
+
+*Sciagurati* monatti $\implies$inconsapevoli del loro stato, disprezzo verso i monatti
+
+
+$\bigdot$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjUzNDYwMDQsLTE2MzAxNDAyNDFdfQ
+eyJoaXN0b3J5IjpbLTEwNzgyODcxNjYsLTE2MzAxNDAyNDFdfQ
 ==
 -->
