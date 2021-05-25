@@ -72,8 +72,10 @@ non paese di cuccagna, ma orrorifico
 
 i cadaveri, gli oggetti ammorbati e pesilenziali sono su tutto il selciato
 
+Tintinnio: monatti
 
+come in un mercato di granaglie, 4 carri, cari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc4MzI3NjYsLTE2MzAxNDAyNDFdfQ
+eyJoaXN0b3J5IjpbLTEzOTQxNzE2NjAsLTE2MzAxNDAyNDFdfQ
 ==
 -->
