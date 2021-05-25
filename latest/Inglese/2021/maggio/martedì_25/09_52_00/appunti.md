@@ -10,7 +10,7 @@ Gulliver is speaking, first person narrator
 
 Precise description of the content of the pockets
 
-
+Handkerchief
 
 foot-cloth: carpet (l.12)   distortion
 
@@ -80,7 +80,11 @@ Absurd and funny because the reader is amused because of the distortion of famil
 
 Different perspectives, typical of the traveller
 
+
+
+## p.227 es 3
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyOTg1Mjg2LC0yMTUyMzUyNDksMTM1Mz
-I3OTc1NF19
+eyJoaXN0b3J5IjpbLTMzNTM4MDc2MiwtMjE1MjM1MjQ5LDEzNT
+MyNzk3NTRdfQ==
 -->
