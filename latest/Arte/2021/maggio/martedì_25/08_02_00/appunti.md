@@ -46,7 +46,17 @@ in origine solo croce di San't andrea
 
 
 Cortile ottagonale, facciata divisa in campate da paraste
-primo ordine con aperture
+primo ordine con aperture, secondo da finestre,, balaustra con finestre
+
+Interno: sala molto decorata con stucchi, pitture e decorazioni dorate
+
+
+
+
+---
+### Reggia di Caserta
+
+Volluta dal 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwMDk3OTY3XX0=
+eyJoaXN0b3J5IjpbMTY3MDgyMDE4MF19
 -->
