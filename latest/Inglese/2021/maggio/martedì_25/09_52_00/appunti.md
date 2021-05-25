@@ -27,8 +27,17 @@ Lilliputians don't know tobacco
 
 ---
 
-bundle of white thin substances folded onw over another, about the bigness of three man, tie with a strong cable and marked with black figures (cifre), which we humbly conceive to be writi
+bundle of white thin substances folded onw over another, about the bigness of three man, tie with a strong cable and marked with black figures (cifre), which we humbly conceive to be writing
+
+Every letter is half as large as the palm of our hands
+
+
+Letters that he wrote
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwMTgyNTg5LC0yMTUyMzUyNDksMTM1Mz
+eyJoaXN0b3J5IjpbLTY0MTc0NTg2LC0yMTUyMzUyNDksMTM1Mz
 I3OTc1NF19
 -->
