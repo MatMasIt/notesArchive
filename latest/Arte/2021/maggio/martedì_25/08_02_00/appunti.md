@@ -78,7 +78,15 @@ Parti laterali aggettanti, definite da colonne addossate alla parete
 
 5 campate sormontate da trabeazione superiore
 
-Sala ovale, sala di ingresso 
+Sala ovale, sala di ingresso della reggia
+Scalone Reale
+
+
+Piano terra ci sono tutte le stanze di servizio
+
+Piani superiori: sale rappresentanza e abitazioni del re
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzc0MjEyMl19
+eyJoaXN0b3J5IjpbLTE1NTk3NzczNzJdfQ==
 -->
