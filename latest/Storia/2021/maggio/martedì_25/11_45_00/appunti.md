@@ -19,10 +19,11 @@ Novità: $17^{esimo}$ secolo
 Interesse europei verso il cotone cresce
 Cotone:
 * più resistente
-* adatto ai climi caldi: piantagioni delli stati del sud, gli schiavi hanno bisogno di essere vestiti
-
-
+* adatto ai climi caldi: piantagioni delli stati del sud, gli schiavi hanno bisogno di essere vestiti, richiesta di prodotti tessili leggeri
+Inghilterra trova qusti prodotti di cotone
+Nordest India (Bengala), vengono qui prodotti quei prodotti tessili
+Gli inglesi si organizzano per comprarli
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NDMwMjFdfQ==
+eyJoaXN0b3J5IjpbLTY1MDIxNzI5OF19
 -->
