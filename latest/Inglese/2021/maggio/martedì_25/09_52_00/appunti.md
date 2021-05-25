@@ -12,8 +12,8 @@ Precise description of the content of the pockets
 
 foot-cloth: carpet (l.12)   distortion
 
-
+they find a Huge silver chest that they were not able to lift
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyMjM2MTI0LC0yMTUyMzUyNDksMTM1Mz
-I3OTc1NF19
+eyJoaXN0b3J5IjpbLTExMjA3ODY3NDAsLTIxNTIzNTI0OSwxMz
+UzMjc5NzU0XX0=
 -->
