@@ -27,6 +27,7 @@ Generale con fascia rossa
 ### Juvarra
 Architetto siciliano che opera a Torino, alla coorte dei savoia
 
+#### Basilica di Superga
 
 Cupola come basilica di San Pietro
 Trono simile a Pantheon
@@ -36,6 +37,16 @@ Lesene che dividono la facciata, balaustre
 Torri cammpanarie che sormontano le ali laterali
 
 Posizione panoramica
+
+#### Palazzina di caccia di Stupinigi
+
+Juvarra incaricato di ingrandire la palazzina di caccia in stile versailler
+
+in origine solo croce di San't andrea
+
+
+Cortile ottagonale, facciata divisa in campate da paraste
+primo ordine con aperture
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU5OTM2NDNdfQ==
+eyJoaXN0b3J5IjpbMzkwMDk3OTY3XX0=
 -->
