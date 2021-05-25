@@ -39,7 +39,18 @@ Letters that he wrote to his family, and other documents
 In the left pocket, engine
 20 long poles
 resembling the fence before the Majesty's court
+
+They conjecture it is a comb
+
+They don't know, they think it is a machine
+
+
+
+---
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5NjIzMTc2LC0yMTUyMzUyNDksMTM1Mz
-I3OTc1NF19
+eyJoaXN0b3J5IjpbLTExMzU5NzExNzAsLTIxNTIzNTI0OSwxMz
+UzMjc5NzU0XX0=
 -->
