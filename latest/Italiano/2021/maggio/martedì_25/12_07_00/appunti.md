@@ -74,8 +74,17 @@ i cadaveri, gli oggetti ammorbati e pesilenziali sono su tutto il selciato
 
 Tintinnio: monatti
 
-come in un mercato di granaglie, 4 carri, cari
+come in un mercato di granaglie, 4 carri, caricare e rovesciar di sacchi (corpi umani)
+
+monatti
+
+Turpiloquio tra monatti e coinquilini
+
+
+
+Perdita di qualsiasi sacralità
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQxNzE2NjAsLTE2MzAxNDAyNDFdfQ
-==
+eyJoaXN0b3J5IjpbLTQ2ODA4MTQxMiwtMTYzMDE0MDI0MV19
 -->
