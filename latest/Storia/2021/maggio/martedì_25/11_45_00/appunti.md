@@ -23,7 +23,8 @@ Cotone:
 Inghilterra trova qusti prodotti di cotone
 Nordest India (Bengala), vengono qui prodotti quei prodotti tessili
 Gli inglesi si organizzano per comprarli
-
+domanda cresce ma offerta altanelante, i produttori locali non sono sempre ben attrezzati
+Questo non piace agli Inglesi, che iniziano a prodursi da sè i prodotti finiti di cotone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDIxNzI5OF19
+eyJoaXN0b3J5IjpbMTg1NDY2MDg5XX0=
 -->
