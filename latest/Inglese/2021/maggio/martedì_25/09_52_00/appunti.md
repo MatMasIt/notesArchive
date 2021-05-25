@@ -32,12 +32,14 @@ bundle of white thin substances folded onw over another, about the bigness of th
 Every letter is half as large as the palm of our hands
 
 
-Letters that he wrote
+Letters that he wrote to his family, and other documents
 
 ---
 
-
+In the left pocket, engine
+20 long poles
+resembling the fence before the Majesty's court
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTc0NTg2LC0yMTUyMzUyNDksMTM1Mz
+eyJoaXN0b3J5IjpbOTI5NjIzMTc2LC0yMTUyMzUyNDksMTM1Mz
 I3OTc1NF19
 -->
