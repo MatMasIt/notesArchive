@@ -45,12 +45,14 @@ They conjecture it is a comb
 They don't know, they think it is a machine
 
 
-
 ---
+Two fobs, where he used to keep the clocks
+
+Silver chain with a wonderful kind of engine at the bottom
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU5NzExNzAsLTIxNTIzNTI0OSwxMz
-UzMjc5NzU0XX0=
+eyJoaXN0b3J5IjpbLTE1NjkxMzU0LC0yMTUyMzUyNDksMTM1Mz
+I3OTc1NF19
 -->
