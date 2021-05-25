@@ -63,11 +63,15 @@ Lucid subtance (glass) stops them from touching the figures
 Distorted description
 
 
-He puts the engine to their ears, inc
+He puts the engine to their ears, incessant noise, like that of a whatermill
 
+
+They conjecture it is either an unknown animal or the God that he worsips
+
+They suppose it is a God that he worhips, because he always consult that object before do
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTgwMzg3NTUsLTIxNTIzNTI0OSwxMz
-UzMjc5NzU0XX0=
+eyJoaXN0b3J5IjpbLTYyMDA4MDk2NywtMjE1MjM1MjQ5LDEzNT
+MyNzk3NTRdfQ==
 -->
