@@ -86,8 +86,11 @@ Different perspectives, typical of the traveller
 |Lilliputian's perspective|Real Object|
 |----|----|
 |carpet|handkerchief|
-|u
+|unknown irritant powder|tobacco|
+|white substance with writing|letters, documents|
+|engine with poles|comb|
+|God or animal|clock|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTU1NTYxNiwtMjE1MjM1MjQ5LDEzNT
-MyNzk3NTRdfQ==
+eyJoaXN0b3J5IjpbLTE5MjQyMDkxMjMsLTIxNTIzNTI0OSwxMz
+UzMjc5NzU0XX0=
 -->
