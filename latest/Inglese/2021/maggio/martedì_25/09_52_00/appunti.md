@@ -87,11 +87,11 @@ Different perspectives, typical of the traveller
 |Lilliputian's perspective|Real Object|
 |----|----|
 |large coarse cloth|handkerchief|
-|huge silver chest containing unknown irritant dust|tobacco box (it was coalld a *snuff box*)|
+|huge silver chest containing unknown irritant dust|tobacco box (it was calld a *snuff box*)|
 |white substance with writing|letters, documents|
 |engine with poles|comb|
 |God or animal|clock|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Mzc0NjM0NywtMTkyNDIwOTEyMywtMj
-E1MjM1MjQ5LDEzNTMyNzk3NTRdfQ==
+eyJoaXN0b3J5IjpbLTIxMzQ3OTYxMjIsLTE5MjQyMDkxMjMsLT
+IxNTIzNTI0OSwxMzUzMjc5NzU0XX0=
 -->
