@@ -8,7 +8,9 @@
 * Concezione della natura e della storia nella lettera da Ventimiglia (Roggero) 
 	* storia come susseguirsi di prevaricazioni
 	* tema dell'annichilimento
-* Dei Sepolcri, il genere l'organizzazione compositiva, occasione di composimet
+* Dei Sepolcri, il genere l'organizzazione compositiva, occasione di composizione
+	* Poemetto in versi endecasillabi 
+(Manera $\implies$ Adamo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTY5Njg5N119
+eyJoaXN0b3J5IjpbLTE1MTIzMzI5NzNdfQ==
 -->
