@@ -49,7 +49,9 @@ corpi che cadono come merce
 
 Inselvatichiti gli animi, anche la vigna è inselvatichita
 
-d
+preghiera comune dalle finestre
+
+La fede religiosa può
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTcxODU3MSwtMTYzMDE0MDI0MV19
+eyJoaXN0b3J5IjpbMTY3MzUzMDcyNiwtMTYzMDE0MDI0MV19
 -->
