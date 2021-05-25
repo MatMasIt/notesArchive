@@ -7,7 +7,8 @@
 * Temi dell'Ortis (Casetta, dodgata)
 * Concezione della natura e della storia nella lettera da Ventimiglia (Roggero) 
 	* storia come susseguirsi di prevaricazioni
-	* t
+	* tema dell'annichilimento
+* Dei Sepolcri, il genere l'organizzazione compositiva, occasione di composimet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxODkxNjU0XX0=
+eyJoaXN0b3J5IjpbLTYwMTY5Njg5N119
 -->
