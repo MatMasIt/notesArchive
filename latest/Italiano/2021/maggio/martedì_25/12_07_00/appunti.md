@@ -28,8 +28,14 @@ Vigna di Renzo: stato di civiltà $v$ stato di natura
 
 Diffusione del morbo, non ponderabile
 
-;
+Male biologico, ma che sollecita il male comportamentale tra gli uomini, che tornano a condotte pre-civilizzate, in condizioni di estrema urgenza provocate dall'abisso, dalla furia della pestilenza
+
+
+
+La Milano di 1 anno dopo, Milano infernale II
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMxMzk5ODcsLTE2MzAxNDAyNDFdfQ
+eyJoaXN0b3J5IjpbLTExODY5NzY5MjMsLTE2MzAxNDAyNDFdfQ
 ==
 -->
