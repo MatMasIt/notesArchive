@@ -12,7 +12,24 @@
 	* Poemetto in versi endecasillabi 
 (Manera $\implies$ Adamo)
 
+## Lezione
 
+
+
+Vigna di Renzo: stato di civiltà $v$ stato di natura
+
+
+### La madre di Cecilia
+
+> Il Male universale
+
+![](https://i.imgur.com/YGyGtV0.jpg)
+
+
+Diffusione del morbo, non ponderabile
+
+;
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzAxNDAyNDFdfQ==
+eyJoaXN0b3J5IjpbLTIwMDMxMzk5ODcsLTE2MzAxNDAyNDFdfQ
+==
 -->
