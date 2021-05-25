@@ -35,6 +35,10 @@ Male biologico, ma che sollecita il male comportamentale tra gli uomini, che tor
 La Milano di 1 anno dopo, Milano infernale II
 
 Parentesi: itervento del narratore omniscente
+
+città dei morti e città dei vivi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTU5NTYxNCwtMTYzMDE0MDI0MV19
+eyJoaXN0b3J5IjpbMjA1NTY0ODc5OCwtMTYzMDE0MDI0MV19
 -->
