@@ -77,6 +77,8 @@ secondo e terzo ordine
 Parti laterali aggettanti, definite da colonne addossate alla parete
 
 5 campate sormontate da trabeazione superiore
+
+Sala ovale, sala di ingresso 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzAxMzU4NF19
+eyJoaXN0b3J5IjpbMjAyNzc0MjEyMl19
 -->
