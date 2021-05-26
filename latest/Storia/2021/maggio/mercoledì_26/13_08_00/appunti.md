@@ -79,8 +79,12 @@ si è facilmente rimpiazzabili, poco potere di contrattazione
 Piccolo gruppo di operai specializzati che se la passa meglio
 
 
-Donne e bambini sfruttati indiscriminatamente per fino a 1
+Donne e bambini sfruttati indiscriminatamente per fino a 16 ore al giorno, no diritti, basso stipendio
+
+Ingresso delle donne nell fabbriche $\implies$ emancipazione
+
+$\bigcup^{\bigcup}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5NzU1MDc1LC0zMzczMjY1NjYsODUyOD
-UzMjU3XX0=
+eyJoaXN0b3J5IjpbMTM4MTY5NjgsLTMzNzMyNjU2Niw4NTI4NT
+MyNTddfQ==
 -->
