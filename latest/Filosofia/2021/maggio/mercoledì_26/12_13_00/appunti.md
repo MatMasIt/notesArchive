@@ -12,7 +12,8 @@ dopo Cartesio e Pascal
 Teoria della conoscenza e delle sue implicazioni 
 
 tre autori:
-* Jhon Lock
+* Jhon Locke
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4OTg5NDYxXX0=
+eyJoaXN0b3J5IjpbLTYxNzU2MjkyNiwyNTg5ODk0NjFdfQ==
 -->
