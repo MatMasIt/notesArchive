@@ -34,9 +34,11 @@ $B_{T}=\sqrt{(2\cdot10^{-4}T)+\frac{(2\cdot 10^{-4})^2}{3}T^2}$
 $B_{T}=2\cdot 10^{-4}T\cdot \frac{2}{\sqrt{3}}=\frac{4}{\sqrt{3}}\cdot 10^{-4}T$
 
 
-$\alpha=\arctan\frac{B_{T_{1}}}{B}=\arctan\frac{2\cdot 10^{-4}$
+$\alpha=\arctan\frac{B_{T_{1}}}{B}=\arctan\frac{2\cdot 10^{-4}T}{2\cdot 10^{-4}T}\sqrt{3}$
 
 $\alpha=60°$
+
+## p. 222 es 108
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDYzOTExMyw5NzEzMTA2MTBdfQ==
+eyJoaXN0b3J5IjpbMTgzMTI3MDUzMCw5NzEzMTA2MTBdfQ==
 -->
