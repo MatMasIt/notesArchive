@@ -28,13 +28,22 @@ Esempi Idee innate:
 
 $\boxed{Razionalismo}\implies$  $\cancel{sensi}$, sono inaffidabili, ragione (innatismo)
 
+La sola ragione è il mezzo per conoscere
+
 $vs\,(altra\,posizione)$
 
 $\boxed{Empirismo}\implies$ esperienze dei sensi, $\cancel{innatismo}$ : tutti i contenuti mentali derivano dai sensi
 * Locke
 * Humme
 
+La sola esperienza è il mezzo per conoscere
 
+Kant: $\boxed{Razionalismo}+\boxed{Empirismo}$ (fusione)
+
+
+
+
+### p.193, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTg5MTMzMiwyNTg5ODk0NjFdfQ==
+eyJoaXN0b3J5IjpbLTEwNzMzNzQzODksMjU4OTg5NDYxXX0=
 -->
