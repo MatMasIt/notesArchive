@@ -33,7 +33,12 @@ In inghilterra piove molto, miniere allagate
 Svuotare le miniere dall'acqua
 
 
-M
+Macchina a vapore, pompa acqua via dalle miniere
+
+Poi si perfeziona e si pernsano altri usi
+
+James Watt introduce il condensatore, nel 1781, che rende la macchina a vapore effciente
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjczNDUyODFdfQ==
+eyJoaXN0b3J5IjpbMTU3NDQ1MzkzXX0=
 -->
