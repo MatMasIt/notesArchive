@@ -104,12 +104,18 @@ Combination act
 Vieta scioperi e associazioni operarie
 
 
-Negli anni '30 dell '800
+Negli anni '30 dell '800 cresce sensibilità della classe politica
 
-Is sindacati appaiono nel 1850
+I sindacati appaiono nel 1850
 
-80 anni di s
+80 anni di sfruttamento spietato
+
+appaiono movimenti socialisti, che vogliono criticare il sistema economico che preede la proprietà privata delle industrie, e ritengono che venga limitata o abolita
+
+scenaro
+
+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDEwODIwMSwtMzM3MzI2NTY2LDg1Mj
-g1MzI1N119
+eyJoaXN0b3J5IjpbLTExNTMwNDQ0NTEsLTMzNzMyNjU2Niw4NT
+I4NTMyNTddfQ==
 -->
