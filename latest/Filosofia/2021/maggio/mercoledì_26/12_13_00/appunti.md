@@ -66,8 +66,12 @@ I Dorzè vigilano anche mercoledì e venerdì, sorvegliando il bestiame
 
 La tradizione è tradizione, l'esperienza è esperienza
 
-Anche Dio non è unaa
+Anche Dio non è una idea non universale
+
+
+
+Regole pratiche (e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwMTQ0NiwxNjk3MDY0NDU5LDI1ODk4OT
-Q2MV19
+eyJoaXN0b3J5IjpbNjkyOTE2MjY2LDE2OTcwNjQ0NTksMjU4OT
+g5NDYxXX0=
 -->
