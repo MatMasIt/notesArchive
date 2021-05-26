@@ -77,7 +77,7 @@ $\overline{AH}=\frac{\overline{AB}}{\sqrt{2}}$
 
 
 ---
-## esercizi
+## esercizio di ripasso
 
 $\vec{F_{1}}=2,5N\vec{i}-3,4N\vec{j}$
 $\vec{F_{2}}=1,2N\vec{i}+5,3N\vec{j}$
@@ -101,7 +101,9 @@ $\beta=180-\alpha=49,04°$
 $a^2=b^2+c^2-2bc\cdot \cos \alpha$
 
 $R=\sqrt{F_{1}+F_{2}^2-2F_{1}F_{2}\cos \beta}=\sqrt{4,22^2+5,43^2-2\cdot4,22\cdot 5,43\cdot\cos49,05}$
+
+## termodinamica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0MzMyNjEyLC0xMTM3NTMzMDYzLC0xOD
+eyJoaXN0b3J5IjpbOTU1NDM5NTY2LC0xMTM3NTMzMDYzLC0xOD
 c5Njk5Njk2LC05MTI4MzI5OTAsOTcxMzEwNjEwXX0=
 -->
