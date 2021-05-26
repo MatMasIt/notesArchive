@@ -77,7 +77,16 @@ Cose che in parti del mondo sembrano abominevoli, in altre sono lodate
 
 
 Tutto deriva necessariamente dall'esperienza
+
+
+Punto di vista Lockiano vs Cartesiano
+
+Secondo cartesio la ragione è assoluta e da sola è in grado di sviluppare interamente la conoscenza
+
+
+Secondo Locke invece senza l'esperienza la ragione è inutile
+L'esperienza è     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzM1NjEwMiwxNjk3MDY0NDU5LDI1OD
-k4OTQ2MV19
+eyJoaXN0b3J5IjpbMzU3MTc4NDA0LC0yMDczNTYxMDIsMTY5Nz
+A2NDQ1OSwyNTg5ODk0NjFdfQ==
 -->
