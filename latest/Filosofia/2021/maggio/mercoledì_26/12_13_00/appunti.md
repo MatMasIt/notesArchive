@@ -91,8 +91,7 @@ Conseguenze di carattere metafisico che si trovano sia in Locke che in Humme
 Concetto di $Sostanza$
 
 
-$\boxed{\frac{\boxed{Q^{\boxed{\cancel{\frac+{\frac+{\frac{++}}}}}}}{\boxed{Q^{\boxed{\cancel{-}}}}}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTIzMTc0MDYsLTIwNzM1NjEwMiwxNj
-k3MDY0NDU5LDI1ODk4OTQ2MV19
+eyJoaXN0b3J5IjpbLTYyMDM2MTAzNCwtMjA3MzU2MTAyLDE2OT
+cwNjQ0NTksMjU4OTg5NDYxXX0=
 -->
