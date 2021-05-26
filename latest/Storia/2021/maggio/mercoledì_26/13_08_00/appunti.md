@@ -74,8 +74,8 @@ salario della fabbrica garantito
 
 La macchina è banale da usare, non serve essere esperti come un artigiano
 
-si è facilmente rimpiazzabili, poco potere di contrattazio
+si è facilmente rimpiazzabili, poco potere di contrattazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDkyNjc1OSwtMzM3MzI2NTY2LDg1Mj
-g1MzI1N119
+eyJoaXN0b3J5IjpbLTE3NTY4NjkzMTAsLTMzNzMyNjU2Niw4NT
+I4NTMyNTddfQ==
 -->
