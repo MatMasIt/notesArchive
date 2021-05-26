@@ -19,7 +19,10 @@ Innovazioni, a p. 120 e 121, strumenti nuovi
 
 migliorare filatura e tessitura del cotone
 
+La prima macchina a vapore risale al 1698 e funzionava con un obiettivo fondamentale: sostenere l'industria metallurgica
 
+Lavorazione del ferro
+Per lavorare adeguate quantità di
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc0NzU3NzhdfQ==
+eyJoaXN0b3J5IjpbMTQ2MzI2NTI5MF19
 -->
