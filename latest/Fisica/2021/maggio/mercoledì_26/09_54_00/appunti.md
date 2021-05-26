@@ -104,12 +104,15 @@ $R=\sqrt{F_{1}+F_{2}^2-2F_{1}F_{2}\cos \beta}=\sqrt{4,22^2+5,43^2-2\cdot4,22\cdo
 
 ## termodinamica L.1 p. 434
 Rendimento Macchina di Carnot
-$r=1-\frac{T_{F}}{T_{C}}$
+* $\mu=1-\frac{T_{F}}{T_{C}}$
+* $\mu=\frac{Q_{F}}{Q_{C}}$
+* $\mu=\frac{W}{Q_{C}}$
 ### es 38 p 499
+$
 
-$r=\frac{W}{Q_{c}}$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk1NTEyNzAsLTE2MzAxODExMzYsLT
-ExMzc1MzMwNjMsLTE4Nzk2OTk2OTYsLTkxMjgzMjk5MCw5NzEz
-MTA2MTBdfQ==
+eyJoaXN0b3J5IjpbMjEwMTUzNzU3NCwtMTE4OTU1MTI3MCwtMT
+YzMDE4MTEzNiwtMTEzNzUzMzA2MywtMTg3OTY5OTY5NiwtOTEy
+ODMyOTkwLDk3MTMxMDYxMF19
 -->
