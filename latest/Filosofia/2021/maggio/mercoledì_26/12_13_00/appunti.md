@@ -86,9 +86,13 @@ Secondo cartesio la ragione è assoluta e da sola è in grado di sviluppare inte
 
 Secondo Locke invece senza l'esperienza la ragione è inutile
 L'esperienza è il fondamento della conoscenza 
+Conseguenze di carattere metafisico che si trovano sia in Locke che in Humme
 
-$\boxed{\frac{Q^{\boxed{\cancel{+}}}Q^{\boxed{\cancel{-}}}}$
+Concetto di $Sostanza$
+
+
+$\boxed{\frac{\boxed{Q^{\boxed{\cancel{\frac+{\frac+{\frac{++}}}}}}}{\boxed{Q^{\boxed{\cancel{-}}}}}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0NTkzMDk2LC0yMDczNTYxMDIsMTY5Nz
-A2NDQ1OSwyNTg5ODk0NjFdfQ==
+eyJoaXN0b3J5IjpbLTE5MTIzMTc0MDYsLTIwNzM1NjEwMiwxNj
+k3MDY0NDU5LDI1ODk4OTQ2MV19
 -->
