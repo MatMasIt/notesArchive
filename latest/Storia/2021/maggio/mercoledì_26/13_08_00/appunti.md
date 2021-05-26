@@ -10,12 +10,16 @@ alla fine del '600 la ricerca di cotone supera le spezie, fulcro dei commerci
 Innovazioni, a p. 120 e 121, strumenti nuovi
 
 * Spoletta volante automatica di Kay
-* Spinning Jenny
+* Spinning Jenny (filatrice semi-meccanica di Hargraves)
+* Filatoio di Arwright (idraulico)
+* Filatrice meccanica di compton
 
 1786: filatoio a vapore
 
 
 migliorare filatura e tessitura del cotone
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk1OTg3NDZdfQ==
+eyJoaXN0b3J5IjpbLTEwNjc0NzU3NzhdfQ==
 -->
