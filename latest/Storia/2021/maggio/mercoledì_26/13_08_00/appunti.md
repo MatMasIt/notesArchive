@@ -92,10 +92,24 @@ forte aumento della mortalità fino circa al $1850$
 Marx e Engels hanno deunciato questa condizione
 
 
-Macchine distrutte
+Macchine distrutte, accusate di abbassare i salari 
 
-Movimento basato su $\text
+Movimento basato su $\text{Nedd Ludd}$, probabilmente mai esistito
+
+Il parlamento adotta tra il 1789 e il 1800
+
+Combination act
+
+
+Vieta scioperi e associazioni operarie
+
+
+Negli anni '30 dell '800
+
+Is sindacati appaiono nel 1850
+
+80 anni di s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwMjM5NjcsLTMzNzMyNjU2Niw4NTI4NT
-MyNTddfQ==
+eyJoaXN0b3J5IjpbLTcxMDEwODIwMSwtMzM3MzI2NTY2LDg1Mj
+g1MzI1N119
 -->
