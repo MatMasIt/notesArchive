@@ -107,8 +107,9 @@ Rendimento Macchina di Carnot
 $r=1-\frac{T_{F}}{T_{C}}$
 ### es 38 p 499
 
+$r=\frac{W}{Q_{c}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzE5NzExNywtMTYzMDE4MTEzNiwtMT
-EzNzUzMzA2MywtMTg3OTY5OTY5NiwtOTEyODMyOTkwLDk3MTMx
-MDYxMF19
+eyJoaXN0b3J5IjpbLTExODk1NTEyNzAsLTE2MzAxODExMzYsLT
+ExMzc1MzMwNjMsLTE4Nzk2OTk2OTYsLTkxMjgzMjk5MCw5NzEz
+MTA2MTBdfQ==
 -->
