@@ -85,8 +85,17 @@ Ingresso delle donne nell fabbriche $\implies$ emancipazione
 
 Crescita caotica delle città
 
+ammassarsi in case fatiscenti 
 
+forte aumento della mortalità fino circa al $1850$
+
+Marx e Engels hanno deunciato questa condizione
+
+
+Macchine distrutte
+
+Movimento basato su $\text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NTk2ODgyLC0zMzczMjY1NjYsODUyOD
-UzMjU3XX0=
+eyJoaXN0b3J5IjpbNjgwMjM5NjcsLTMzNzMyNjU2Niw4NTI4NT
+MyNTddfQ==
 -->
