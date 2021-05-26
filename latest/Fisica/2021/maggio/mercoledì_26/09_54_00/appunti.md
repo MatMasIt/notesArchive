@@ -90,8 +90,12 @@ $\vec{F_{1}}\cdot F_{2}=2,5\cdot 1,2 N^2-3,4\cdot 5,3\cdot N^2=-15,02N^2$
 
 $\vec{F_{1}}\cdot\vec{F_{2}}=||\vec{F_{1}}||\cdot ||\vec{F_{2}}||\cdot \cos \alpha$
 
-$\cos \alpha=\frac{\vec{F_{1}}\cdot \vec{F_{2}}}{F_{1}\cdot F_{2}}=1frac{-15,02N^2}$
+$\cos \alpha=\frac{\vec{F_{1}}\cdot \vec{F_{2}}}{F_{1}\cdot F_{2}}=\frac{-15,02N^2}{4,22N\cdot 5,43 N}$
+
+$\cos \alpha=-0,65$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzkwODExNjUsLTExMzc1MzMwNjMsLT
+eyJoaXN0b3J5IjpbLTEzMzA1MjYzODQsLTExMzc1MzMwNjMsLT
 E4Nzk2OTk2OTYsLTkxMjgzMjk5MCw5NzEzMTA2MTBdfQ==
 -->
