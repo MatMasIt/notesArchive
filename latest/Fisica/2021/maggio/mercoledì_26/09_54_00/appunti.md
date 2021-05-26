@@ -25,7 +25,7 @@ $\overline{OC}=\overline{OB}=\overline{OA}=d=\frac23\overline{AH}=\\\frac23\frac
 Calcoliamo la risultante tra $\vec{B_{C}}$ e $\vec{B_{B}}$, che risulterà perpendicolare a $\vec{B_{A}}$, calcoliamo la risultante finale
 
 
-$B_{
+$B_{A}=B_{B}=B_{C}=\frac{\mu_{0}}{2\pi}\cdot \frac{I}{d}=\\ 2\cdot 10^{-7}\frac{T\cancel{m}}{\cancel{A}}\cdot\frac{10A}é1,73\cdot 10^{-2}m$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzgxMDI4MCw5NzEzMTA2MTBdfQ==
+eyJoaXN0b3J5IjpbMTc5MjY4MTgyNCw5NzEzMTA2MTBdfQ==
 -->
