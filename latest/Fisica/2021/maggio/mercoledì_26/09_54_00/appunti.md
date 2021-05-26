@@ -82,8 +82,14 @@ $\vec{F_{1}}=2,5N\vec{i}-3,4N\vec{j}$
 $\vec{F_{2}}=1,2N\vec{i}+5,3N\vec{j}$
 
 $F_{1}=\sqrt{(2,5^2+3,4^2)N^2}=4,22N$
-$F_{2}=\fr
+$F_{2}=\sqrt{(1,2^2+5,3^2)N^2}=5,43N$
+
+Prodotto scalare
+$\vec{F_{1}}\cdot F_{2}=2,5\cdot 1,2 N^2-3,4\cdot 5,3\cdot N^2=-15,02N^2$
+
+
+$\vec{F_{
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzEyOTg4MCwtMTEzNzUzMzA2MywtMT
-g3OTY5OTY5NiwtOTEyODMyOTkwLDk3MTMxMDYxMF19
+eyJoaXN0b3J5IjpbLTEyMjU3MDE0MTMsLTExMzc1MzMwNjMsLT
+E4Nzk2OTk2OTYsLTkxMjgzMjk5MCw5NzEzMTA2MTBdfQ==
 -->
