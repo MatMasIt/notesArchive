@@ -102,8 +102,9 @@ $a^2=b^2+c^2-2bc\cdot \cos \alpha$
 
 $R=\sqrt{F_{1}+F_{2}^2-2F_{1}F_{2}\cos \beta}=\sqrt{4,22^2+5,43^2-2\cdot4,22\cdot 5,43\cdot\cos49,05}$
 
-## termodinamica L.1 p. 434ù
+## termodinamica L.1 p. 434
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTMyMDMyNywtMTEzNzUzMzA2MywtMT
-g3OTY5OTY5NiwtOTEyODMyOTkwLDk3MTMxMDYxMF19
+eyJoaXN0b3J5IjpbLTE2MzAxODExMzYsLTExMzc1MzMwNjMsLT
+E4Nzk2OTk2OTYsLTkxMjgzMjk5MCw5NzEzMTA2MTBdfQ==
 -->
