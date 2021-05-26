@@ -43,7 +43,9 @@ Kant: $\boxed{Razionalismo}+\boxed{Empirismo}$ (fusione)
 
 
 
-### p.193, 
+### p.193, Locke
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMzNzQzODksMjU4OTg5NDYxXX0=
+eyJoaXN0b3J5IjpbMTY5NzA2NDQ1OSwyNTg5ODk0NjFdfQ==
 -->
