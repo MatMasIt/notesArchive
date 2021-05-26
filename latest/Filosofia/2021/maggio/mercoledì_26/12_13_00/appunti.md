@@ -1,8 +1,18 @@
-# Lezione di Fisica (3° ora)
+# Lezione di Filosofia (3° ora)
 
 ## mecoledì 26 maggio 2021, 12:04:00
 
+gli sviluppi della
+* Teoria della conoscenza
+* Della Metafisica 
 
+dopo Cartesio e Pascal
+
+
+Teoria della conoscenza e delle sue implicazioni 
+
+tre autori:
+* Jhon Lock
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQxOTE2NTBdfQ==
+eyJoaXN0b3J5IjpbMjU4OTg5NDYxXX0=
 -->
