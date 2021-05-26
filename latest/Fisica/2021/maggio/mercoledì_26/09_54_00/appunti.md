@@ -61,8 +61,11 @@ $\overline{AM}=\sqrt{(0,15^2+0,3^2)m^2}=0,34m$
 
 $E=K\frac{Q}{d^2}$ Se il mezzo non è il vuoto, occorre ricalcolare la costante
 
-$E_{A}=8,9\cdot10^9\frac{Nm^2}{C^2}=\frac{6\cdot10^{6}C}{(0,34m)^2}$
+$E_{A}=8,9\cdot10^9\frac{Nm^2}{C^2}=\frac{6\cdot10^{6}C}{(0,34m)^2=4,75\cdot 10^5\frac{N}{C}}$
+
+
+$\vec{E_{M}}=\cancel{\vec{E_{C}}}+\cancel{\vec{E_{B}}}+\vec{E_{A}}=\vec{E_{A}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI0MDgyOTcsLTkxMjgzMjk5MCw5Nz
+eyJoaXN0b3J5IjpbLTE4OTE3MzU0MjUsLTkxMjgzMjk5MCw5Nz
 EzMTA2MTBdfQ==
 -->
