@@ -108,11 +108,14 @@ Rendimento Macchina di Carnot
 * $\mu=\frac{Q_{F}}{Q_{C}}$
 * $\mu=\frac{W}{Q_{C}}$
 ### es 38 p 499
-$
+$\frac{Q_{F}}{Q_{C}}=\frac25$
+
+
+$\cancel{\boxed{D}}$ 1500
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTUzNzU3NCwtMTE4OTU1MTI3MCwtMT
-YzMDE4MTEzNiwtMTEzNzUzMzA2MywtMTg3OTY5OTY5NiwtOTEy
-ODMyOTkwLDk3MTMxMDYxMF19
+eyJoaXN0b3J5IjpbOTc4OTIzODE1LC0xMTg5NTUxMjcwLC0xNj
+MwMTgxMTM2LC0xMTM3NTMzMDYzLC0xODc5Njk5Njk2LC05MTI4
+MzI5OTAsOTcxMzEwNjEwXX0=
 -->
