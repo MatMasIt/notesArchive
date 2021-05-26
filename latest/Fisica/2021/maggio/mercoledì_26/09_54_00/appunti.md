@@ -55,7 +55,8 @@ Richieste:
 
 Svolgimento
 
-
+$\overhat{MB}=\overline{MC}=\frac{\overline{BC}}{\alpha}=0,15m$
+$=\sqrt{(0,15^2+0,3^2)m^2}=0,34m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTEwMDY5Nyw5NzEzMTA2MTBdfQ==
+eyJoaXN0b3J5IjpbLTM4MDgyNzE3MCw5NzEzMTA2MTBdfQ==
 -->
