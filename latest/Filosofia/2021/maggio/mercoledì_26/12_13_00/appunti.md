@@ -57,8 +57,8 @@ Principio di non contraddizione
 > 
 > Non condivisa da bambini e idioti
 
-òòòòòòòòò
+Premessa: Un idea per esistere davvero deve esistere in quel momento nella mente di qualcuno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTc0NzAxNywxNjk3MDY0NDU5LDI1OD
+eyJoaXN0b3J5IjpbMTE3MDc0MzI0MiwxNjk3MDY0NDU5LDI1OD
 k4OTQ2MV19
 -->
