@@ -1,8 +1,10 @@
-# Lezione di Biologia (6° ora)
+# Lezione di Fisica (3° ora)
 
-## martedì 25 maggio 2021, 13:36:00
+## mecoledì 26 maggio 2021, 09:54:00
+
+## es. 27 p. 421
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTgzMzgyNV19
+eyJoaXN0b3J5IjpbMTE0MzY5MTcxM119
 -->
