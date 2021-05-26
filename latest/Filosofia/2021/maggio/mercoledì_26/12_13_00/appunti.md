@@ -70,8 +70,14 @@ Anche Dio non è una idea non universale
 
 
 
-Regole pratiche (e
+Regole pratiche (etica) diverse in società diverse
+
+
+Cose che in parti del mondo sembrano abominevoli, in altre sono lodate
+
+
+Tutto deriva necessariamente dall'esperienza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyOTE2MjY2LDE2OTcwNjQ0NTksMjU4OT
-g5NDYxXX0=
+eyJoaXN0b3J5IjpbLTIwNzM1NjEwMiwxNjk3MDY0NDU5LDI1OD
+k4OTQ2MV19
 -->
