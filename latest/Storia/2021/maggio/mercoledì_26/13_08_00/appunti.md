@@ -72,6 +72,10 @@ salario della fabbrica garantito
 	Paragrafo 4.4, p 125
 
 
+La macchina è banale da usare, non serve essere esperti come un artigiano
+
+si è facilmente rimpiazzabili, poco potere di contrattazio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzMyNjU2Niw4NTI4NTMyNTddfQ==
+eyJoaXN0b3J5IjpbLTQ3MDkyNjc1OSwtMzM3MzI2NTY2LDg1Mj
+g1MzI1N119
 -->
