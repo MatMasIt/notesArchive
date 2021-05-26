@@ -31,7 +31,12 @@ $B_{T_{1}}=||\vec{B_{C}}+\vec{B_{B}}||=\cancel{2}\frac{B}{\cancel{2}}\sqrt{3}=2\
 
 $B_{T}=\sqrt{(2\cdot10^{-4}T)+\frac{(2\cdot 10^{-4})^2}{3}T^2}$
 
-$\sqrt{1+\fr=2\cdot 10^{-4}T\cdot \frac{2}{\sqrt{3}}=\frac{4}{\sqrt{3}}\cdot 10^{-4}T$
+$B_{T}=2\cdot 10^{-4}T\cdot \frac{2}{\sqrt{3}}=\frac{4}{\sqrt{3}}\cdot 10^{-4}T$
+
+
+$\alpha=\arctan\frac{B_{T_{1}}}{B}=\arctan\frac{2\cdot 10^{-4}$
+
+$\alpha=60°$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDMzNDI5MjIsOTcxMzEwNjEwXX0=
+eyJoaXN0b3J5IjpbMjA4NDYzOTExMyw5NzEzMTA2MTBdfQ==
 -->
