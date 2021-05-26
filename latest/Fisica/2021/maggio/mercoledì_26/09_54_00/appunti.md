@@ -67,7 +67,9 @@ $E_{A}=8,9\cdot10^9\frac{Nm^2}{C^2}=\frac{6\cdot10^{6}C}{(0,34m)^2=4,75\cdot 10^
 $\vec{E_{M}}=\cancel{\vec{E_{C}}}+\cancel{\vec{E_{B}}}+\vec{E_{A}}=\vec{E_{A}}$
 
 $\alpha=\arctan\frac{\overline{CM}}{\overline{CA}}=26,57°$$
+
+$E^{I}_{A}+E^{I}_{B}+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk2OTk2OTYsLTkxMjgzMjk5MCw5Nz
-EzMTA2MTBdfQ==
+eyJoaXN0b3J5IjpbLTY2NTU1ODgwNywtMTg3OTY5OTY5NiwtOT
+EyODMyOTkwLDk3MTMxMDYxMF19
 -->
