@@ -26,8 +26,15 @@ Esempi Idee innate:
 * Verità
 * Dio
 
-$\boxed{Razionalismo}\implies$  $\cancel{sensi}$, 
+$\boxed{Razionalismo}\implies$  $\cancel{sensi}$, sono inaffidabili, ragione (innatismo)
+
+$vs\,(altra\,posizione)$
+
+$\boxed{Empirismo}\implies$ esperienze dei sensi, $\cancel{innatismo}$ : tutti i contenuti mentali derivano dai sensi
+* Locke
+* Humme
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDQ3NjE0NSwyNTg5ODk0NjFdfQ==
+eyJoaXN0b3J5IjpbMTM1OTg5MTMzMiwyNTg5ODk0NjFdfQ==
 -->
