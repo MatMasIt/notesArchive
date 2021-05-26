@@ -13,7 +13,12 @@ Teoria della conoscenza e delle sue implicazioni
 
 tre autori:
 * Jhon Locke
-* 
+* David Hume
+* Immanuel Kant
+
+Punto di partenza: posizione di Cartesio, che ha elaborato una sua concezione della realtà che si è tutta basata sulla potenza della ragione
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzU2MjkyNiwyNTg5ODk0NjFdfQ==
+eyJoaXN0b3J5IjpbLTEwNjU0NzIwOTMsMjU4OTg5NDYxXX0=
 -->
