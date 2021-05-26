@@ -85,8 +85,10 @@ Secondo cartesio la ragione è assoluta e da sola è in grado di sviluppare inte
 
 
 Secondo Locke invece senza l'esperienza la ragione è inutile
-L'esperienza è     
+L'esperienza è il fondamento della conoscenza 
+
+$\boxed{\frac{Q^{\boxed{\cancel{+}}}Q^{\boxed{\cancel{-}}}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3MTc4NDA0LC0yMDczNTYxMDIsMTY5Nz
+eyJoaXN0b3J5IjpbNTM0NTkzMDk2LC0yMDczNTYxMDIsMTY5Nz
 A2NDQ1OSwyNTg5ODk0NjFdfQ==
 -->
