@@ -76,8 +76,9 @@ $\overline{AH}=\frac{\overline{AB}}{\sqrt{2}}$
 
 ---
 
-$\vec{F_{
+$\vec{F_{1}}=2,5N\vec{i}-3,4N\vec{j}$
+$\vec{F_{2}}=1,2N\vec{i}+5,3N\vec{C}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzczMTgwMSwtMTEzNzUzMzA2MywtMT
-g3OTY5OTY5NiwtOTEyODMyOTkwLDk3MTMxMDYxMF19
+eyJoaXN0b3J5IjpbLTExNzgyMDU1MTMsLTExMzc1MzMwNjMsLT
+E4Nzk2OTk2OTYsLTkxMjgzMjk5MCw5NzEzMTA2MTBdfQ==
 -->
