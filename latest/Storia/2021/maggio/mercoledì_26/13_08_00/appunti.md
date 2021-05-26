@@ -47,7 +47,15 @@ La macchina a Vapore, contributi
 |Watt|1781|
 
 
-Ora si possono inserire molti filatoi in una fabbrica e si mettono in fila, le si alimentano con una machina a vapore mentre un solo operatore 
+Ora si possono inserire molti filatoi in una fabbrica e si mettono in fila, le si alimentano con una machina a vapore mentre un solo operatore le controlla
+
+
+Manodpera a basso costo dalle campagne
+
+
+sitema di fabbrica e del suo grado di sfruttamento
+
+ - [x] Leggi ce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxMTg5Nzc2LDg1Mjg1MzI1N119
+eyJoaXN0b3J5IjpbMTA3Mzc4MDMxLDg1Mjg1MzI1N119
 -->
