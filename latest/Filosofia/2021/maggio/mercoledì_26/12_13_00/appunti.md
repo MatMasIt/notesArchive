@@ -58,7 +58,12 @@ Principio di non contraddizione
 > Non condivisa da bambini e idioti
 
 Premessa: Un idea per esistere davvero deve esistere in quel momento nella mente di qualcuno
+
+
+I Dorzè etiopici si tramandanoo la credenza che i leopardi siano cristiani e quindi digiunino mercoledì e venerdì
+
+I Dorz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDc0MzI0MiwxNjk3MDY0NDU5LDI1OD
-k4OTQ2MV19
+eyJoaXN0b3J5IjpbLTEwMzk4NjcxNzEsMTY5NzA2NDQ1OSwyNT
+g5ODk0NjFdfQ==
 -->
