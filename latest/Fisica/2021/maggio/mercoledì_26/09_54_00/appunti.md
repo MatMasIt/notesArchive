@@ -68,8 +68,11 @@ $\vec{E_{M}}=\cancel{\vec{E_{C}}}+\cancel{\vec{E_{B}}}+\vec{E_{A}}=\vec{E_{A}}$
 
 $\alpha=\arctan\frac{\overline{CM}}{\overline{CA}}=26,57°$$
 
-$E^{I}_{A}+E^{I}_{B}+
+$E^{I}_{A}+E^{I}_{B}+E^{I}_{C}=8,9\cdot 10^0$
+
+
+$\overline{AH}=\frac{\overline{AB}}{\sqrt{2}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTU1ODgwNywtMTg3OTY5OTY5NiwtOT
-EyODMyOTkwLDk3MTMxMDYxMF19
+eyJoaXN0b3J5IjpbLTExMzc1MzMwNjMsLTE4Nzk2OTk2OTYsLT
+kxMjgzMjk5MCw5NzEzMTA2MTBdfQ==
 -->
