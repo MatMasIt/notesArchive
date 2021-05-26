@@ -3,9 +3,13 @@
 ## mecoledì 26 maggio 2021, 13:09:00
 Nuovo interesse per i $\boxed{prodotti\,di\,cotone}$
 
+Gli inglesi vogliono produrre il cotone da sé
+
+alla fine del '600 la ricerca di cotone supera le spezie, fulcro dei commerci
+
+Innovazioni, a p. 120 e 121, strumenti nuovi
 
 
-alla fine d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjAzMzczOV19
+eyJoaXN0b3J5IjpbLTc3MjcxMzExM119
 -->
