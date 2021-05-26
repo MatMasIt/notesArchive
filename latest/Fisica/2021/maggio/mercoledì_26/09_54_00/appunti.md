@@ -4,7 +4,7 @@
 
 ## es. 27 p. 421
 
-
+![](https://i.imgur.com/mGPDvcU.jpg)
 
 Triangolo equilatero
 
@@ -39,6 +39,12 @@ $\alpha=\arctan\frac{B_{T_{1}}}{B}=\arctan\frac{2\cdot 10^{-4}T}{2\cdot 10^{-4}T
 $\alpha=60°$
 
 ## p. 222 es 108
+
+$\overline{BC}=\overline{AC}=30cm=0,3m$
+
+$Q=6\cdot 10^{-6}C$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTI3MDUzMCw5NzEzMTA2MTBdfQ==
+eyJoaXN0b3J5IjpbLTEwNTgyMjUzMTcsOTcxMzEwNjEwXX0=
 -->
