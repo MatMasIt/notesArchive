@@ -83,8 +83,10 @@ Donne e bambini sfruttati indiscriminatamente per fino a 16 ore al giorno, no di
 
 Ingresso delle donne nell fabbriche $\implies$ emancipazione
 
-$$\text
+Crescita caotica delle città
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Mjk2NDI4MywtMzM3MzI2NTY2LDg1Mj
-g1MzI1N119
+eyJoaXN0b3J5IjpbODY0NTk2ODgyLC0zMzczMjY1NjYsODUyOD
+UzMjU3XX0=
 -->
