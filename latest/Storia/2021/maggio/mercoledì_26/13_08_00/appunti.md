@@ -22,7 +22,18 @@ migliorare filatura e tessitura del cotone
 La prima macchina a vapore risale al 1698 e funzionava con un obiettivo fondamentale: sostenere l'industria metallurgica
 
 Lavorazione del ferro
-Per lavorare adeguate quantità di
+Per lavorare adeguate quantità di ferro
+* Per riuscire a lavorare il ferro
+* Per riuscire a renderlo il più possibile puro
+
+Servivano grandi quantitità di carbone: miniere
+
+In inghilterra piove molto, miniere allagate
+
+Svuotare le miniere dall'acqua
+
+
+M
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzI2NTI5MF19
+eyJoaXN0b3J5IjpbLTIwNjczNDUyODFdfQ==
 -->
