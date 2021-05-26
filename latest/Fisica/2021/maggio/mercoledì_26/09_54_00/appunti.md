@@ -88,8 +88,10 @@ Prodotto scalare
 $\vec{F_{1}}\cdot F_{2}=2,5\cdot 1,2 N^2-3,4\cdot 5,3\cdot N^2=-15,02N^2$
 
 
-$\vec{F_{
+$\vec{F_{1}}\cdot\vec{F_{2}}=||\vec{F_{1}}||\cdot ||\vec{F_{2}}||\cdot \cos \alpha$
+
+$\cos \alpha=\frac{\vec{F_{1}}\cdot \vec{F_{2}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU3MDE0MTMsLTExMzc1MzMwNjMsLT
-E4Nzk2OTk2OTYsLTkxMjgzMjk5MCw5NzEzMTA2MTBdfQ==
+eyJoaXN0b3J5IjpbMTc1MDE2OTQyNCwtMTEzNzUzMzA2MywtMT
+g3OTY5OTY5NiwtOTEyODMyOTkwLDk3MTMxMDYxMF19
 -->
