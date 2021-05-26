@@ -28,7 +28,9 @@ Calcoliamo la risultante tra $\vec{B_{C}}$ e $\vec{B_{B}}$, che risulterà perpe
 $B_{A}=B_{B}=B_{C}=\frac{\mu_{0}}{2\pi}\cdot \frac{I}{d}=\\ 2\cdot 10^{-7}\frac{T\cancel{m}}{\cancel{A}}\cdot\frac{10\cancel{A}}{1,73\cdot 10^{-2}\cancel{m}}=\1,15\cdot10^{-4}T$
 
 $B_{T_{1}}=||\vec{B_{C}}+\vec{B_{B}}||=\cancel{2}\frac{B}{\cancel{2}}\sqrt{3}=2\cdot 10^{-4}T\\B_{T}=\sqrt{B_{T_{1}}+B^2}=$
-$\sqrt{(2\cdot10^{-4}T)+\frac{(2\cdot 10^{-4)}{3}T^2}$
+$\sqrt{(2\cdot10^{-4}T)+\frac{(2\cdot 10^{-4})^2}{3}T^2}$
+
+$\sqrt{1+\frac13}=2\cdot 10^{-4}T\cdot \frac{2}{\sqrt{3}}=\frac{4}{\sqrt{3}}\cdot 10^{-4}T$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDU2NDA2NCw5NzEzMTA2MTBdfQ==
+eyJoaXN0b3J5IjpbLTE0Mjg0MDQzOTcsOTcxMzEwNjEwXX0=
 -->
