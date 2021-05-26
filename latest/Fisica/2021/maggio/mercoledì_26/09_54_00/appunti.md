@@ -41,7 +41,7 @@ $\alpha=60°$
 ## p. 222 es 108
 
 
-!
+![](https://i.imgur.com/wHJnEtW.jpg)
 Dati:
 
 $\overline{BC}=\overline{AC}=30cm=0,3m$
@@ -80,7 +80,10 @@ $\overline{AH}=\frac{\overline{AB}}{\sqrt{2}}$
 
 $\vec{F_{1}}=2,5N\vec{i}-3,4N\vec{j}$
 $\vec{F_{2}}=1,2N\vec{i}+5,3N\vec{j}$
+
+$F_{1}=\sqrt{(2,5^2+3,4^2)N^2}=4,22N$
+$F_{2}=\fr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzA0NjIxMywtMTEzNzUzMzA2MywtMT
+eyJoaXN0b3J5IjpbMTM3MzEyOTg4MCwtMTEzNzUzMzA2MywtMT
 g3OTY5OTY5NiwtOTEyODMyOTkwLDk3MTMxMDYxMF19
 -->
