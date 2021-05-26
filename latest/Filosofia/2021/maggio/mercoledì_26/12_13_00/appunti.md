@@ -64,8 +64,10 @@ I Dorzè etiopici si tramandanoo la credenza che i leopardi siano cristiani e qu
 
 I Dorzè vigilano anche mercoledì e venerdì, sorvegliando il bestiame
 
-La tradizione è tradizione
+La tradizione è tradizione, l'esperienza è esperienza
+
+**--...-..-....--.-----.-.-.---------.-.-.-.-.--.---.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA1NjEzODIsMTY5NzA2NDQ1OSwyNT
+eyJoaXN0b3J5IjpbLTE2OTI1NDgwOTYsMTY5NzA2NDQ1OSwyNT
 g5ODk0NjFdfQ==
 -->
