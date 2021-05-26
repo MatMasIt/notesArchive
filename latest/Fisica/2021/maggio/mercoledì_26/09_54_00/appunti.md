@@ -103,8 +103,12 @@ $a^2=b^2+c^2-2bc\cdot \cos \alpha$
 $R=\sqrt{F_{1}+F_{2}^2-2F_{1}F_{2}\cos \beta}=\sqrt{4,22^2+5,43^2-2\cdot4,22\cdot 5,43\cdot\cos49,05}$
 
 ## termodinamica L.1 p. 434
+Rendimento Macchina di Carnot
+$r=1-\frac{T_{F}}{T_{C}}$
+### es 38 p 499
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzAxODExMzYsLTExMzc1MzMwNjMsLT
-E4Nzk2OTk2OTYsLTkxMjgzMjk5MCw5NzEzMTA2MTBdfQ==
+eyJoaXN0b3J5IjpbLTI4MzE5NzExNywtMTYzMDE4MTEzNiwtMT
+EzNzUzMzA2MywtMTg3OTY5OTY5NiwtOTEyODMyOTkwLDk3MTMx
+MDYxMF19
 -->
