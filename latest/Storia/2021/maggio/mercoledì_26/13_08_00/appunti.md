@@ -65,7 +65,13 @@ Case che sorgono nei pressi delle industrie, promiscuità
 perhè queste persone accettano di andare a lavorare in fabbrica?
 Salario sicuro
 
-Elemento per chi veniva dalle campagne,
+Elemento per chi veniva dalle campagne, dove spesso si faceva la fame
+
+salario della fabbrica garantito
+
+	Paragrafo 4.4, p 125
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTMzMDMwMiw4NTI4NTMyNTddfQ==
+eyJoaXN0b3J5IjpbLTMzNzMyNjU2Niw4NTI4NTMyNTddfQ==
 -->
