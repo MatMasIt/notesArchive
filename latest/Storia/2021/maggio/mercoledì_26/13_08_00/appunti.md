@@ -55,7 +55,17 @@ Manodpera a basso costo dalle campagne
 
 sitema di fabbrica e del suo grado di sfruttamento
 
- - [x] Leggi ce
+ Leggi che proibiscono i sindacati
+
+I contadini ora stanno al chiuso in periferie di città che sono in pessime condizioni igieniche, insieme ai fumi del'inquinamento del carbone
+
+Case che sorgono nei pressi delle industrie, promiscuità
+
+
+perhè queste persone accettano di andare a lavorare in fabbrica?
+Salario sicuro
+
+Elemento per chi veniva dalle campagne,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Mzc4MDMxLDg1Mjg1MzI1N119
+eyJoaXN0b3J5IjpbLTQ5MTMzMDMwMiw4NTI4NTMyNTddfQ==
 -->
