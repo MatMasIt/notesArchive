@@ -75,7 +75,12 @@ salario della fabbrica garantito
 La macchina è banale da usare, non serve essere esperti come un artigiano
 
 si è facilmente rimpiazzabili, poco potere di contrattazione
+
+Piccolo gruppo di operai specializzati che se la passa meglio
+
+
+Donne e bambini sfruttati indiscriminatamente per fino a 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY4NjkzMTAsLTMzNzMyNjU2Niw4NT
-I4NTMyNTddfQ==
+eyJoaXN0b3J5IjpbNDc5NzU1MDc1LC0zMzczMjY1NjYsODUyOD
+UzMjU3XX0=
 -->
