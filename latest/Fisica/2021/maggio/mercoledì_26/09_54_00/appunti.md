@@ -22,7 +22,7 @@ $\overline{OC}=\overline{OB}=\overline{OA}=d=\frac23\overline{AH}=\\\frac23\frac
 >Se entrante: direzione oraria
 
 
-$\bigcup$
+Calcol la
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzI4ODk2Miw5NzEzMTA2MTBdfQ==
+eyJoaXN0b3J5IjpbMTk1MjM4MzE3LDk3MTMxMDYxMF19
 -->
