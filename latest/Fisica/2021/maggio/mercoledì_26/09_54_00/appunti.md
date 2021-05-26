@@ -6,7 +6,12 @@
 
 
 
-Ti
+Triangolo equilatero
+
+$L=3cm$
+$I_{1}=I_{"}=I_{3}=I=10A$
+
+$\overline{OC}=\overline{OB}=\overline{OA}=d=\frac23\overline{AH}=\frac23\frac{L$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTk2NjY5Nl19
+eyJoaXN0b3J5IjpbLTE4OTY0OTg2ODRdfQ==
 -->
