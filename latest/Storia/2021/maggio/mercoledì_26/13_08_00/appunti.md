@@ -39,6 +39,13 @@ Poi si perfeziona e si pernsano altri usi
 
 James Watt introduce il condensatore, nel 1781, che rende la macchina a vapore effciente
 
+La macchina a Vapore, contributi
+|Who|When|
+|---|---|
+|Savery|1698|
+|Newcomen|1812|
+|Watt|1781|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDQ1MzkzXX0=
+eyJoaXN0b3J5IjpbODczNjUyOTg2XX0=
 -->
