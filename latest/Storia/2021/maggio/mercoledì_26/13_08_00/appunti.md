@@ -83,8 +83,8 @@ Donne e bambini sfruttati indiscriminatamente per fino a 16 ore al giorno, no di
 
 Ingresso delle donne nell fabbriche $\implies$ emancipazione
 
-$\%$
+$$\text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg1NTIxNTEsLTMzNzMyNjU2Niw4NT
-I4NTMyNTddfQ==
+eyJoaXN0b3J5IjpbMTQ4Mjk2NDI4MywtMzM3MzI2NTY2LDg1Mj
+g1MzI1N119
 -->
