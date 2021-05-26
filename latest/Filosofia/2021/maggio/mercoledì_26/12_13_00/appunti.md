@@ -19,7 +19,15 @@ tre autori:
 Punto di partenza: posizione di Cartesio, che ha elaborato una sua concezione della realtà che si è tutta basata sulla potenza della ragione
 
 
-Sforzo conoscitivo basato integrakmente sulla ragione, con un certo grado di 
+Sforzo conoscitivo basato integralmente sulla ragione, con un certo grado di innatismo
+
+Esempi Idee innate:
+* Ragionamento
+* Verità
+* Dio
+
+$\boxed{Razionalismo}\implies$  $\cancel{sensi}$, 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0Njg3MDcwLDI1ODk4OTQ2MV19
+eyJoaXN0b3J5IjpbMTUyMDQ3NjE0NSwyNTg5ODk0NjFdfQ==
 -->
