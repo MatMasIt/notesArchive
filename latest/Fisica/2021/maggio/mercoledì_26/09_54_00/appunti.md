@@ -40,11 +40,18 @@ $\alpha=60°$
 
 ## p. 222 es 108
 
+Dati:
+
 $\overline{BC}=\overline{AC}=30cm=0,3m$
 
 $Q=6\cdot 10^{-6}C$
 
 
+Richieste:
+
+* $\vec{E_{M}}$
+* $\vec{E_{H}}$
+Carica 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTgyMjUzMTcsOTcxMzEwNjEwXX0=
+eyJoaXN0b3J5IjpbLTQ4MzAwMzM4Myw5NzEzMTA2MTBdfQ==
 -->
