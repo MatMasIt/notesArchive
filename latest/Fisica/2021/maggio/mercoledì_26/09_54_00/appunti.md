@@ -22,7 +22,10 @@ $\overline{OC}=\overline{OB}=\overline{OA}=d=\frac23\overline{AH}=\\\frac23\frac
 >Se entrante: direzione oraria
 
 
-Calcol la
+Calcoliamo la risultante tra $\vec{B_{C}}$ e $\vec{B_{B}}$, che risulterà perpendicolare a $\vec{B_{A}}$, calcoliamo la risultante finale
+
+
+$B_{
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjM4MzE3LDk3MTMxMDYxMF19
+eyJoaXN0b3J5IjpbLTkyNzgxMDI4MCw5NzEzMTA2MTBdfQ==
 -->
