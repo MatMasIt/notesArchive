@@ -59,9 +59,7 @@ $\overline{MB}=\overline{MC}=\frac{\overline{BC}}{2}=0,15m$
 
 $\overline{AM}=\sqrt{(0,15^2+0,3^2)m^2}=0,34m$
 
-$E=K\frac{Q}{d^2}$
-
-S
+$E=K\frac{Q}{d^2}$ Se il mezzo non è il vuoto, occorre ricalcolare la costante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0ODU3OTg2LDk3MTMxMDYxMF19
+eyJoaXN0b3J5IjpbLTkxMjgzMjk5MCw5NzEzMTA2MTBdfQ==
 -->
