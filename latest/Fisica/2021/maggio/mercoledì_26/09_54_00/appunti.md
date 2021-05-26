@@ -97,9 +97,10 @@ $\cos \alpha=-0,65$
 $\alpha=130,96°$
 $\beta=180-\alpha=49,04°$
 
+$a^2=b^2+c^2-2bc\cdot \cos \alpha$
 
-$R=\sqrt{F_{1}+F_{2}^2-2F_{1}F_{2
+$R=\sqrt{F_{1}+F_{2}^2-2F_{1}F_{2}\cos \beta}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg2ODk4NDYsLTExMzc1MzMwNjMsLT
-E4Nzk2OTk2OTYsLTkxMjgzMjk5MCw5NzEzMTA2MTBdfQ==
+eyJoaXN0b3J5IjpbMTM1MTg4MjE2MiwtMTEzNzUzMzA2MywtMT
+g3OTY5OTY5NiwtOTEyODMyOTkwLDk3MTMxMDYxMF19
 -->
