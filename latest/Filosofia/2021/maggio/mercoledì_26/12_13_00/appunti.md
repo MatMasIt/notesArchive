@@ -62,8 +62,10 @@ Premessa: Un idea per esistere davvero deve esistere in quel momento nella mente
 
 I Dorzè etiopici si tramandanoo la credenza che i leopardi siano cristiani e quindi digiunino mercoledì e venerdì
 
-I Dorz
+I Dorzè vigilano anche mercoledì e venerdì, sorvegliando il bestiame
+
+La tradizione è tradizione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk4NjcxNzEsMTY5NzA2NDQ1OSwyNT
+eyJoaXN0b3J5IjpbLTE5NjA1NjEzODIsMTY5NzA2NDQ1OSwyNT
 g5ODk0NjFdfQ==
 -->
