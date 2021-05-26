@@ -51,9 +51,14 @@ Critica dell'innatismo
 
 Se ci fossero idee che tutti condividono potrebbero essere innati, ma non ci sono
 
-``Principio di non contraddizione
+> Principio di non contraddizione
+> > Non è possibile che una cosa sia e non sia allo stesso tempo
+Principio di non contraddizione
+> 
+> Non condivisa da bambini e idioti
 
+òòòòòòòòò
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTU0NTcyOSwxNjk3MDY0NDU5LDI1OD
+eyJoaXN0b3J5IjpbLTkxNTc0NzAxNywxNjk3MDY0NDU5LDI1OD
 k4OTQ2MV19
 -->
