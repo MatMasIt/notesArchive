@@ -46,6 +46,8 @@ La macchina a Vapore, contributi
 |Newcomen|1812|
 |Watt|1781|
 
+
+Ora si possono inserire molti filatoi in una fabbrica e si mettono in fila, le si alimentano con una machina a vapore mentre 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczNjUyOTg2XX0=
+eyJoaXN0b3J5IjpbODUyODUzMjU3XX0=
 -->
