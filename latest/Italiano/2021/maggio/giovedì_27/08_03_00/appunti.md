@@ -16,7 +16,11 @@ bambina  di nove anni morta
 
 Similitudine della festa promessa
 
+soretta
+
+
+a guisa di: scelta aulica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTU0NDQ5OSwxNjExMzAxMDEwLDg1OD
-k3MTM3NSwyODg0OTMzNTYsMjg4NDkzMzU2XX0=
+eyJoaXN0b3J5IjpbLTEwMDIxODU1MDUsMTYxMTMwMTAxMCw4NT
+g5NzEzNzUsMjg4NDkzMzU2LDI4ODQ5MzM1Nl19
 -->
