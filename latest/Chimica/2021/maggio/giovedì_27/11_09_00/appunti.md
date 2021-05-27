@@ -18,7 +18,11 @@ Livello di dettaglio ulteriore
 
 Collisione, incontro tra $A$ e $BC$
 
-Sezione d'urto
+Sezione d'urt $\sigma$ o: Sezione di punti del piano in cui $r$ deve passareper urtare $R$
+
+$\sigma=\pi(r+R)^2$
+
+![
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2Nzg0OTYyXX0=
+eyJoaXN0b3J5IjpbMTQwODgzNDgyN119
 -->
