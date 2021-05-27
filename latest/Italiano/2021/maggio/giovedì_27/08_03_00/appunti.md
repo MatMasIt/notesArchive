@@ -83,10 +83,12 @@ Lucia: bisogna anche indagare perchè gli uomini si fanno il male
 
 Tono d'ironia
 
+Responsabilità individuale
 
+Fiducia in Dio raddolcisce i mali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzM3NDk4LC00NDcwNDEzMyw1ODUwMD
-g5OTUsMTQzMDQ3NDc0NiwtNDExMDAwMzksMTM1NDg4NzEyNiw2
-OTc5OTA1MTEsLTExMTE1MTQ3OTMsMTYxMTMwMTAxMCw4NTg5Nz
-EzNzUsMjg4NDkzMzU2LDI4ODQ5MzM1Nl19
+eyJoaXN0b3J5IjpbLTkzNjQ4MTc3OCwtNDQ3MDQxMzMsNTg1MD
+A4OTk1LDE0MzA0NzQ3NDYsLTQxMTAwMDM5LDEzNTQ4ODcxMjYs
+Njk3OTkwNTExLC0xMTExNTE0NzkzLDE2MTEzMDEwMTAsODU4OT
+cxMzc1LDI4ODQ5MzM1NiwyODg0OTMzNTZdfQ==
 -->
