@@ -114,8 +114,8 @@ appaiono movimenti socialisti, che vogliono criticare il sistema economico che p
 
 scenaro
 
-$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTMwNDQ0NTEsLTMzNzMyNjU2Niw4NT
-I4NTMyNTddfQ==
+eyJoaXN0b3J5IjpbMTI1NTgwNTY4MywtMzM3MzI2NTY2LDg1Mj
+g1MzI1N119
 -->
