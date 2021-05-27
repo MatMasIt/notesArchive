@@ -1,6 +1,11 @@
 # Lezione di Italiano (1° ora)
 
-## mecoledì 26 maggio 2021, 13:09:00
+## giovedì 27 maggio 2021, 08:04:00
+
+
+Il romanticismo, fenomeno tedesco
+
+;
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjM3MTEwNF19
+eyJoaXN0b3J5IjpbMTE1ODQ4OTA0MF19
 -->
