@@ -28,7 +28,8 @@ G=6,67\cdot 10^{-11}\frac{Nm^2
 \frac{1}{4\pi\epsilon_{0}}=K_{0}=8,9\cdot 10^9\frac{Nm^2}{C^2}\\
 k=\frac{\mu_{0}}{2\pi}\\
 ---\\
-
+F=K\frac{I_{1}I_{2}l}{d}\\
+B=\frac{F}{Il}\\
 $$
 
 
@@ -174,6 +175,6 @@ F_{13}=K\frac{I_{1}I_{3}l}{d}=\\
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI1Mzg5NzAsLTE3MTA5NjU0NDksNT
+eyJoaXN0b3J5IjpbLTE0ODk2NzMzMTcsLTE3MTA5NjU0NDksNT
 k5NDA3MjAzXX0=
 -->
