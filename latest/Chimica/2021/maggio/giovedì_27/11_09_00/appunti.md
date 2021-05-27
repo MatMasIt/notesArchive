@@ -18,6 +18,7 @@ Livello di dettaglio ulteriore
 
 Collisione, incontro tra $A$ e $BC$
 
+Sezione d'urto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Mjk4MjYwMl19
+eyJoaXN0b3J5IjpbMjE2Nzg0OTYyXX0=
 -->
