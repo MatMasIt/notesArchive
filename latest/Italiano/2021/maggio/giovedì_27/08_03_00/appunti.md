@@ -37,8 +37,12 @@ uomo civile baratta possibilità di felicità per sicurezza
 Rimozione, repressione delle pulsioni
 
 Uomo per natura aggressivo ed autodistruttore per pulsione
+
+Don Abbondio, analogia con cittadino Italiano
+
+Rimuove tutto ciò che può mettere in discussione il sitema di quieto vivere, opportunismo fatto persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDg4NzEyNiw2OTc5OTA1MTEsLTExMT
-E1MTQ3OTMsMTYxMTMwMTAxMCw4NTg5NzEzNzUsMjg4NDkzMzU2
-LDI4ODQ5MzM1Nl19
+eyJoaXN0b3J5IjpbLTQxMTAwMDM5LDEzNTQ4ODcxMjYsNjk3OT
+kwNTExLC0xMTExNTE0NzkzLDE2MTEzMDEwMTAsODU4OTcxMzc1
+LDI4ODQ5MzM1NiwyODg0OTMzNTZdfQ==
 -->
