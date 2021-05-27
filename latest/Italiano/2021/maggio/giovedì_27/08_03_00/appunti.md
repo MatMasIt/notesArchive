@@ -29,8 +29,12 @@ non ridurla come un sacco di granaglie
 Nuovo sentimento del monatto
 
 Disciplina, ordine, solidarietà: produzione di beni e l'a vita civile
+
+Soffocamento di stimoli e esigenze profonde, disagio dalla civiltà
+
+società
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2MzcwOTQ3LDY5Nzk5MDUxMSwtMTExMT
-UxNDc5MywxNjExMzAxMDEwLDg1ODk3MTM3NSwyODg0OTMzNTYs
-Mjg4NDkzMzU2XX0=
+eyJoaXN0b3J5IjpbLTE0MTAwMDQwMjMsNjk3OTkwNTExLC0xMT
+ExNTE0NzkzLDE2MTEzMDEwMTAsODU4OTcxMzc1LDI4ODQ5MzM1
+NiwyODg0OTMzNTZdfQ==
 -->
