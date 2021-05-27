@@ -13,8 +13,8 @@ Chimica teorica e computazionale
 Rottura e formazione di un legame
 * Legame
 $A:$    , $B$ $\implies$  $A-B$
-Livello di dettaglio ult
+Livello di dettaglio ulteriore
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc5ODAwMTldfQ==
+eyJoaXN0b3J5IjpbMTM4MTIxNzc5OV19
 -->
