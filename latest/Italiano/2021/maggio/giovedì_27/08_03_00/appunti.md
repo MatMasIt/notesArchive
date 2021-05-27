@@ -36,9 +36,9 @@ uomo civile baratta possibilità di felicità per sicurezza
 
 Rimozione, repressione delle pulsioni
 
-Uomo per natura aggressivo ed autodi
+Uomo per natura aggressivo ed autodistruttore per pulsione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2ODc1MDc2LDY5Nzk5MDUxMSwtMTExMT
-UxNDc5MywxNjExMzAxMDEwLDg1ODk3MTM3NSwyODg0OTMzNTYs
-Mjg4NDkzMzU2XX0=
+eyJoaXN0b3J5IjpbMTM1NDg4NzEyNiw2OTc5OTA1MTEsLTExMT
+E1MTQ3OTMsMTYxMTMwMTAxMCw4NTg5NzEzNzUsMjg4NDkzMzU2
+LDI4ODQ5MzM1Nl19
 -->
