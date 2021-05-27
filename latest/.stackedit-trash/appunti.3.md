@@ -30,6 +30,7 @@ k=\frac{\mu_{0}}{2\pi}\\
 ---\\
 F=K\frac{I_{1}I_{2}l}{d}\\
 B=\frac{F}{Il}\\
+B=\frac{\mu_{0}}{2\pi}\frac{I}{d}
 $$
 
 
@@ -175,6 +176,6 @@ F_{13}=K\frac{I_{1}I_{3}l}{d}=\\
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk2NzMzMTcsLTE3MTA5NjU0NDksNT
-k5NDA3MjAzXX0=
+eyJoaXN0b3J5IjpbLTU1MTYxMzc2NSwtMTcxMDk2NTQ0OSw1OT
+k0MDcyMDNdfQ==
 -->
