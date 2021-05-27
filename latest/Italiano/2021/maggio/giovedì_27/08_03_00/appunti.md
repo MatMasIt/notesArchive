@@ -72,10 +72,15 @@ Il cristiano che da le mancette ma non restituisce il maltolto
 
 Fino all'ultimo rimane la tensione
 
-Non c'è una ricomposizion
+Non c'è una ricomposizione
+
+
+finale non tradizionale, ci sono delle novità
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODg4Njk0OSw1ODUwMDg5OTUsMTQzMD
-Q3NDc0NiwtNDExMDAwMzksMTM1NDg4NzEyNiw2OTc5OTA1MTEs
-LTExMTE1MTQ3OTMsMTYxMTMwMTAxMCw4NTg5NzEzNzUsMjg4ND
-kzMzU2LDI4ODQ5MzM1Nl19
+eyJoaXN0b3J5IjpbLTQ0NzA0MTMzLDU4NTAwODk5NSwxNDMwND
+c0NzQ2LC00MTEwMDAzOSwxMzU0ODg3MTI2LDY5Nzk5MDUxMSwt
+MTExMTUxNDc5MywxNjExMzAxMDEwLDg1ODk3MTM3NSwyODg0OT
+MzNTYsMjg4NDkzMzU2XX0=
 -->
