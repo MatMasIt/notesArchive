@@ -25,6 +25,7 @@ $\sigma=\pi(r+R)^2$
 ![](https://i.imgur.com/PXjTvze.jpg)
 
 Gli atomi esercitano l'uno sugli altri dele forze anche a lunga distanza
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjQ3NjMyNF19
+eyJoaXN0b3J5IjpbLTIwMTExOTgwNzAsLTY5MjQ3NjMyNF19
 -->
