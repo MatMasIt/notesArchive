@@ -92,9 +92,12 @@ significato connotativo di tutta la storia (sugo)
 Manzoni ha rifatto la dicitura
 
 r.47 benchè, atteggiamento di aristocrazia individuale
+
+Recisamente: nettamente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgxMjE2NzAsLTQ0NzA0MTMzLDU4NT
-AwODk5NSwxNDMwNDc0NzQ2LC00MTEwMDAzOSwxMzU0ODg3MTI2
-LDY5Nzk5MDUxMSwtMTExMTUxNDc5MywxNjExMzAxMDEwLDg1OD
-k3MTM3NSwyODg0OTMzNTYsMjg4NDkzMzU2XX0=
+eyJoaXN0b3J5IjpbLTIwMDk1NDIwNTMsLTExMjgxMjE2NzAsLT
+Q0NzA0MTMzLDU4NTAwODk5NSwxNDMwNDc0NzQ2LC00MTEwMDAz
+OSwxMzU0ODg3MTI2LDY5Nzk5MDUxMSwtMTExMTUxNDc5MywxNj
+ExMzAxMDEwLDg1ODk3MTM3NSwyODg0OTMzNTYsMjg4NDkzMzU2
+XX0=
 -->
