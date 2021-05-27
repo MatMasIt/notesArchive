@@ -69,8 +69,12 @@ Il paternalismo Manzoniano
 
 Si attende che sia la carità penosa del cristiano ricco a risolvere i problemi
 Il cristiano che da le mancette ma non restituisce il maltolto
+
+Fino all'ultimo rimane la tensione
+
+Non c'è una ricomposizion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODM3OTQ4OSw1ODUwMDg5OTUsMTQzMD
+eyJoaXN0b3J5IjpbMTY3ODg4Njk0OSw1ODUwMDg5OTUsMTQzMD
 Q3NDc0NiwtNDExMDAwMzksMTM1NDg4NzEyNiw2OTc5OTA1MTEs
 LTExMTE1MTQ3OTMsMTYxMTMwMTAxMCw4NTg5NzEzNzUsMjg4ND
 kzMzU2LDI4ODQ5MzM1Nl19
