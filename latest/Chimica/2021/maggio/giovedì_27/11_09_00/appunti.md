@@ -15,6 +15,8 @@ Rottura e formazione di un legame
 $A:$    , $B$ $\implies$  $A-B$
 Livello di dettaglio ulteriore
 
+
+Collisione, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTIxNzc5OV19
+eyJoaXN0b3J5IjpbLTEzMDQ5NjEwMjhdfQ==
 -->
