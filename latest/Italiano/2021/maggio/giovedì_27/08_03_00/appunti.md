@@ -79,9 +79,13 @@ finale non tradizionale, ci sono delle novità
 
 
 
-Lucia: b
+Lucia: bisogna anche indagare perchè gli uomini si fanno il male
+
+Tono d'ironia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzODAyMDYxLC00NDcwNDEzMyw1ODUwMD
+eyJoaXN0b3J5IjpbLTcyNzM3NDk4LC00NDcwNDEzMyw1ODUwMD
 g5OTUsMTQzMDQ3NDc0NiwtNDExMDAwMzksMTM1NDg4NzEyNiw2
 OTc5OTA1MTEsLTExMTE1MTQ3OTMsMTYxMTMwMTAxMCw4NTg5Nz
 EzNzUsMjg4NDkzMzU2LDI4ODQ5MzM1Nl19
