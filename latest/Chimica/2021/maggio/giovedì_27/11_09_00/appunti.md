@@ -16,7 +16,8 @@ $A:$    , $B$ $\implies$  $A-B$
 Livello di dettaglio ulteriore
 
 
-Collisione, 
+Collisione, incontro tra $A$ e $BC$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQ5NjEwMjhdfQ==
+eyJoaXN0b3J5IjpbMTY4Mjk4MjYwMl19
 -->
