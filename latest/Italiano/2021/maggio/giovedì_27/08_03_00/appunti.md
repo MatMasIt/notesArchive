@@ -86,9 +86,15 @@ Tono d'ironia
 Responsabilità individuale
 
 Fiducia in Dio raddolcisce i mali
+
+significato connotativo di tutta la storia (sugo)
+
+Manzoni ha rifatto la dicitura
+
+r.47 benchè, atteggiamento di aristocrazia individuale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjQ4MTc3OCwtNDQ3MDQxMzMsNTg1MD
-A4OTk1LDE0MzA0NzQ3NDYsLTQxMTAwMDM5LDEzNTQ4ODcxMjYs
-Njk3OTkwNTExLC0xMTExNTE0NzkzLDE2MTEzMDEwMTAsODU4OT
-cxMzc1LDI4ODQ5MzM1NiwyODg0OTMzNTZdfQ==
+eyJoaXN0b3J5IjpbLTExMjgxMjE2NzAsLTQ0NzA0MTMzLDU4NT
+AwODk5NSwxNDMwNDc0NzQ2LC00MTEwMDAzOSwxMzU0ODg3MTI2
+LDY5Nzk5MDUxMSwtMTExMTUxNDc5MywxNjExMzAxMDEwLDg1OD
+k3MTM3NSwyODg0OTMzNTYsMjg4NDkzMzU2XX0=
 -->
