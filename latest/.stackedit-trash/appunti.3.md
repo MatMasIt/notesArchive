@@ -29,7 +29,11 @@ G=6,67\cdot 10^{-11}\frac{Nm^2
 k=\frac{\mu_{0}}{2\pi}\\
 ---\\
 F=K\frac{I_{1}I_{2}l}{d}\\
+$$
+$$
 B=\frac{F}{Il}\\
+$$
+$$
 B=\frac{\mu_{0}}{2\pi}\frac{I}{d}
 $$
 
@@ -176,6 +180,6 @@ F_{13}=K\frac{I_{1}I_{3}l}{d}=\\
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTYxMzc2NSwtMTcxMDk2NTQ0OSw1OT
-k0MDcyMDNdfQ==
+eyJoaXN0b3J5IjpbOTc0MzYwMzc5LC01NTE2MTM3NjUsLTE3MT
+A5NjU0NDksNTk5NDA3MjAzXX0=
 -->
