@@ -25,7 +25,10 @@ contratto tra candore
 
 
 non ridurla come un sacco di granaglie
+
+Nuovo sentimento del monatto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE1MTQ3OTMsMTYxMTMwMTAxMCw4NT
-g5NzEzNzUsMjg4NDkzMzU2LDI4ODQ5MzM1Nl19
+eyJoaXN0b3J5IjpbNjk3OTkwNTExLC0xMTExNTE0NzkzLDE2MT
+EzMDEwMTAsODU4OTcxMzc1LDI4ODQ5MzM1NiwyODg0OTMzNTZd
+fQ==
 -->
