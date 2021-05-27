@@ -20,7 +20,9 @@ soretta
 
 
 a guisa di: scelta aulica
+
+contratto tra candore 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDIxODU1MDUsMTYxMTMwMTAxMCw4NT
+eyJoaXN0b3J5IjpbLTE0NzcwOTQyMTQsMTYxMTMwMTAxMCw4NT
 g5NzEzNzUsMjg4NDkzMzU2LDI4ODQ5MzM1Nl19
 -->
