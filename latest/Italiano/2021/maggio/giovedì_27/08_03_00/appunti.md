@@ -50,8 +50,14 @@ Leonardo Sciascia, estimatore di Manzoni
 Kafka lavorava all'INAIL (cit)
 
 
+
+Redenzione di Lucia, lettura religiosa
+cede negli anni '70
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDQ3NDc0NiwtNDExMDAwMzksMTM1ND
-g4NzEyNiw2OTc5OTA1MTEsLTExMTE1MTQ3OTMsMTYxMTMwMTAx
-MCw4NTg5NzEzNzUsMjg4NDkzMzU2LDI4ODQ5MzM1Nl19
+eyJoaXN0b3J5IjpbMTU0MTY1NjM0OCwxNDMwNDc0NzQ2LC00MT
+EwMDAzOSwxMzU0ODg3MTI2LDY5Nzk5MDUxMSwtMTExMTUxNDc5
+MywxNjExMzAxMDEwLDg1ODk3MTM3NSwyODg0OTMzNTYsMjg4ND
+kzMzU2XX0=
 -->
