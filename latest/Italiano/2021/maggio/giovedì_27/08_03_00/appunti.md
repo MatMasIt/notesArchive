@@ -27,8 +27,10 @@ contratto tra candore
 non ridurla come un sacco di granaglie
 
 Nuovo sentimento del monatto
+
+Disciplina, ordine, solidarietà: produzione di beni e l'a vita civile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3OTkwNTExLC0xMTExNTE0NzkzLDE2MT
-EzMDEwMTAsODU4OTcxMzc1LDI4ODQ5MzM1NiwyODg0OTMzNTZd
-fQ==
+eyJoaXN0b3J5IjpbNzQ2MzcwOTQ3LDY5Nzk5MDUxMSwtMTExMT
+UxNDc5MywxNjExMzAxMDEwLDg1ODk3MTM3NSwyODg0OTMzNTYs
+Mjg4NDkzMzU2XX0=
 -->
