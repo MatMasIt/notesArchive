@@ -112,8 +112,10 @@ I sindacati appaiono nel 1850
 
 appaiono movimenti socialisti, che vogliono criticare il sistema economico che preede la proprietà privata delle industrie, e ritengono che venga limitata o abolita
 
+scenaro
 
+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQyMDAyOTYsLTMzNzMyNjU2Niw4NT
-I4NTMyNTddfQ==
+eyJoaXN0b3J5IjpbLTExNTMwNDQ0NTEsLTIxMjQyMDAyOTYsLT
+MzNzMyNjU2Niw4NTI4NTMyNTddfQ==
 -->
