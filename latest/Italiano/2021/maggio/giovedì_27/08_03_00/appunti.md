@@ -63,10 +63,15 @@ Umili ma non poveri
 
 Renzo e Lucia
 
-Lettura caritatevole,
+Lettura caritatevole, rivoluzionario non è presente
+
+Il paternalismo Manzoniano
+
+Si attende che sia la carità penosa del cristiano ricco a risolvere i problemi
+Il cristiano che da le mancette ma non restituisce il maltolto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NDY2NTg0LDU4NTAwODk5NSwxNDMwND
-c0NzQ2LC00MTEwMDAzOSwxMzU0ODg3MTI2LDY5Nzk5MDUxMSwt
-MTExMTUxNDc5MywxNjExMzAxMDEwLDg1ODk3MTM3NSwyODg0OT
-MzNTYsMjg4NDkzMzU2XX0=
+eyJoaXN0b3J5IjpbMjA3ODM3OTQ4OSw1ODUwMDg5OTUsMTQzMD
+Q3NDc0NiwtNDExMDAwMzksMTM1NDg4NzEyNiw2OTc5OTA1MTEs
+LTExMTE1MTQ3OTMsMTYxMTMwMTAxMCw4NTg5NzEzNzUsMjg4ND
+kzMzU2LDI4ODQ5MzM1Nl19
 -->
