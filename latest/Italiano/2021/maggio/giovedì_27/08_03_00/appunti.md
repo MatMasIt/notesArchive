@@ -96,9 +96,10 @@ r.47 benchè, atteggiamento di aristocrazia individuale
 Recisamente: nettamente
 
 
+Viene messo in discussione il paradigma (modello) della favola
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDU1MTIwNSwtMTEyODEyMTY3MCwtND
+eyJoaXN0b3J5IjpbLTk5ODc2MjI5OCwtMTEyODEyMTY3MCwtND
 Q3MDQxMzMsNTg1MDA4OTk1LDE0MzA0NzQ3NDYsLTQxMTAwMDM5
 LDEzNTQ4ODcxMjYsNjk3OTkwNTExLC0xMTExNTE0NzkzLDE2MT
 EzMDEwMTAsODU4OTcxMzc1LDI4ODQ5MzM1NiwyODg0OTMzNTZd
