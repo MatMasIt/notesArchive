@@ -11,7 +11,12 @@ Capitolo XXXIV
 
 come per Gertrude: affermazione, seguita da "ma"
 
+
+bambina  di nove anni morta
+
+Similitudine della festa promessa
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTMwMTAxMCw4NTg5NzEzNzUsMjg4ND
-kzMzU2LDI4ODQ5MzM1Nl19
+eyJoaXN0b3J5IjpbMTQ1NTU0NDQ5OSwxNjExMzAxMDEwLDg1OD
+k3MTM3NSwyODg0OTMzNTYsMjg4NDkzMzU2XX0=
 -->
