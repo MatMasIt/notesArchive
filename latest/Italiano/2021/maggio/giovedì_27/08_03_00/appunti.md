@@ -97,9 +97,12 @@ Recisamente: nettamente
 
 
 Viene messo in discussione il paradigma (modello) della favola
-!
+
+
+---
+![](https://i.imgur.com/IuBDM98.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTk3MzU1NSwtOTk4NzYyMjk4LC0xMT
+eyJoaXN0b3J5IjpbLTg4MjQ5NjUwNiwtOTk4NzYyMjk4LC0xMT
 I4MTIxNjcwLC00NDcwNDEzMyw1ODUwMDg5OTUsMTQzMDQ3NDc0
 NiwtNDExMDAwMzksMTM1NDg4NzEyNiw2OTc5OTA1MTEsLTExMT
 E1MTQ3OTMsMTYxMTMwMTAxMCw4NTg5NzEzNzUsMjg4NDkzMzU2
