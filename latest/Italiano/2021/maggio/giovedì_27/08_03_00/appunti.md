@@ -28,6 +28,9 @@ non ridurla come un sacco di granaglie
 
 Nuovo sentimento del monatto
 
+---
+
+
 Disciplina, ordine, solidarietà: produzione di beni e l'a vita civile
 
 Soffocamento di stimoli e esigenze profonde, disagio dalla civiltà
@@ -44,9 +47,11 @@ Rimuove tutto ciò che può mettere in discussione il sitema di quieto vivere, o
 
 Leonardo Sciascia, estimatore di Manzoni
 
+Kafka lavorava all'INAIL (cit)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzNjQ1Mzk5LC00MTEwMDAzOSwxMzU0OD
-g3MTI2LDY5Nzk5MDUxMSwtMTExMTUxNDc5MywxNjExMzAxMDEw
-LDg1ODk3MTM3NSwyODg0OTMzNTYsMjg4NDkzMzU2XX0=
+eyJoaXN0b3J5IjpbMTQzMDQ3NDc0NiwtNDExMDAwMzksMTM1ND
+g4NzEyNiw2OTc5OTA1MTEsLTExMTE1MTQ3OTMsMTYxMTMwMTAx
+MCw4NTg5NzEzNzUsMjg4NDkzMzU2LDI4ODQ5MzM1Nl19
 -->
