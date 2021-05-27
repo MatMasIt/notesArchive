@@ -41,8 +41,12 @@ Uomo per natura aggressivo ed autodistruttore per pulsione
 Don Abbondio, analogia con cittadino Italiano
 
 Rimuove tutto ciò che può mettere in discussione il sitema di quieto vivere, opportunismo fatto persona
+
+Leonardo Sciascia, estimatore di Manzoni
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTAwMDM5LDEzNTQ4ODcxMjYsNjk3OT
-kwNTExLC0xMTExNTE0NzkzLDE2MTEzMDEwMTAsODU4OTcxMzc1
-LDI4ODQ5MzM1NiwyODg0OTMzNTZdfQ==
+eyJoaXN0b3J5IjpbNTQzNjQ1Mzk5LC00MTEwMDAzOSwxMzU0OD
+g3MTI2LDY5Nzk5MDUxMSwtMTExMTUxNDc5MywxNjExMzAxMDEw
+LDg1ODk3MTM3NSwyODg0OTMzNTYsMjg4NDkzMzU2XX0=
 -->
