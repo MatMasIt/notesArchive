@@ -8,7 +8,10 @@ Il romanticismo, fenomeno tedesco
 ---
 p.844 *Il male universale: la peste e il tentativo di recuperare la dignità nel dolore*
 Capitolo XXXIV
+
+come per Gertrude: affermazione, seguita da "ma"
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4OTcxMzc1LDI4ODQ5MzM1NiwyODg0OT
-MzNTZdfQ==
+eyJoaXN0b3J5IjpbMTYxMTMwMTAxMCw4NTg5NzEzNzUsMjg4ND
+kzMzU2LDI4ODQ5MzM1Nl19
 -->
