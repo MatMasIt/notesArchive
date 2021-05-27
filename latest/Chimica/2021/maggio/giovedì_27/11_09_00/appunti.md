@@ -9,9 +9,10 @@ Chimica modellata attraverso le leggi della fisica
 
 Chimica teorica e computazionale
 
-* Reazione
+* Reazione $A+BC \implies AB+C$
+Rottura e formazione di un legame
 * Legame
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODg1MjcyM119
+eyJoaXN0b3J5IjpbLTEyODcyMzE1MDNdfQ==
 -->
