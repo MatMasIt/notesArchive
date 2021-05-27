@@ -22,7 +22,10 @@ soretta
 a guisa di: scelta aulica
 
 contratto tra candore 
+
+
+non ridurla come un sacco di granaglie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzcwOTQyMTQsMTYxMTMwMTAxMCw4NT
+eyJoaXN0b3J5IjpbLTExMTE1MTQ3OTMsMTYxMTMwMTAxMCw4NT
 g5NzEzNzUsMjg4NDkzMzU2LDI4ODQ5MzM1Nl19
 -->
