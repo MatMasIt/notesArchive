@@ -12,7 +12,9 @@ Chimica teorica e computazionale
 * Reazione $A+BC \implies AB+C$
 Rottura e formazione di un legame
 * Legame
+$A:$    , $B$ $\implies$  $A-B$
+Livello di dettaglio ult
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODcyMzE1MDNdfQ==
+eyJoaXN0b3J5IjpbLTE5NTc5ODAwMTldfQ==
 -->
