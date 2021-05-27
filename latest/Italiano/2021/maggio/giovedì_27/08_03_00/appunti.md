@@ -32,9 +32,13 @@ Disciplina, ordine, solidarietà: produzione di beni e l'a vita civile
 
 Soffocamento di stimoli e esigenze profonde, disagio dalla civiltà
 
-società
+uomo civile baratta possibilità di felicità per sicurezza
+
+Rimozione, repressione delle pulsioni
+
+Uomo per natura aggressivo ed autodi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTAwMDQwMjMsNjk3OTkwNTExLC0xMT
-ExNTE0NzkzLDE2MTEzMDEwMTAsODU4OTcxMzc1LDI4ODQ5MzM1
-NiwyODg0OTMzNTZdfQ==
+eyJoaXN0b3J5IjpbODE2ODc1MDc2LDY5Nzk5MDUxMSwtMTExMT
+UxNDc5MywxNjExMzAxMDEwLDg1ODk3MTM3NSwyODg0OTMzNTYs
+Mjg4NDkzMzU2XX0=
 -->
