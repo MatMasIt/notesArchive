@@ -47,7 +47,8 @@ Rimuove tutto ciò che può mettere in discussione il sitema di quieto vivere, o
 
 Leonardo Sciascia, estimatore di Manzoni
 
-Kafka lavorava all'INAIL (cit)
+> Kafka lavorava all'INAIL 
+> cit.
 
 
 
@@ -55,9 +56,11 @@ Redenzione di Lucia, lettura religiosa
 cede negli anni '70
 
 
+
+p.857
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTY1NjM0OCwxNDMwNDc0NzQ2LC00MT
-EwMDAzOSwxMzU0ODg3MTI2LDY5Nzk5MDUxMSwtMTExMTUxNDc5
-MywxNjExMzAxMDEwLDg1ODk3MTM3NSwyODg0OTMzNTYsMjg4ND
-kzMzU2XX0=
+eyJoaXN0b3J5IjpbNTg1MDA4OTk1LDE0MzA0NzQ3NDYsLTQxMT
+AwMDM5LDEzNTQ4ODcxMjYsNjk3OTkwNTExLC0xMTExNTE0Nzkz
+LDE2MTEzMDEwMTAsODU4OTcxMzc1LDI4ODQ5MzM1NiwyODg0OT
+MzNTZdfQ==
 -->
