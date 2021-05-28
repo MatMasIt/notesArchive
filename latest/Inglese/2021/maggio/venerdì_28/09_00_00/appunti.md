@@ -57,7 +57,8 @@ He is going to complain about the irrationality, brutality of the horses in Engl
 
 He allowed her wife to sit at the same table a him, but at the farthest end of a long table
 
+He cannot tolerate the smell
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzAxMTIxNiw0OTM3MTEzNDEsLTEyNT
-gwNDE4NjFdfQ==
+eyJoaXN0b3J5IjpbNzIwNjgzMTI0LDQ5MzcxMTM0MSwtMTI1OD
+A0MTg2MV19
 -->
