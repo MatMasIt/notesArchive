@@ -29,6 +29,14 @@ Arteriola afferene
 Capillari clomerulari/capsula del bowman
 
 in mezzo si forma urina primitiva
+
+Tubuli prossimali e distali
+
+
+Formazione dell'urina:
+
+1) Filtrazione
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzQ1ODhdfQ==
+eyJoaXN0b3J5IjpbMzkyOTM4NDk1XX0=
 -->
