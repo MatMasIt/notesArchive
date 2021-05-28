@@ -52,7 +52,9 @@ Se alto il contenuto di glucosio nelle urine $\implies$ diabete
 soglia fisiologica
 
 
-
+Pressione osmotica
+$T=\frac{m}{V}\cdot R \cdot T$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjA2OTA4OTcsMTkzMzM4MTI2OV19
+eyJoaXN0b3J5IjpbMTA5ODk4OTYyOCwtMTAyMDY5MDg5NywxOT
+MzMzgxMjY5XX0=
 -->
