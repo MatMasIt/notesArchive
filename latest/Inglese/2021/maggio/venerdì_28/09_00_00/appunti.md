@@ -25,6 +25,10 @@ The Smell of a Yahoo
 returned home
 
 Last page of the Gulliver's Travels
+
+He is going to behave like a rational horse (Hoyunmmnms [Whatever])
+
+become as virtous as
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5NDQ4OTEsLTEyNTgwNDE4NjFdfQ==
+eyJoaXN0b3J5IjpbLTY4NTIxOTI5MCwtMTI1ODA0MTg2MV19
 -->
