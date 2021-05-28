@@ -24,8 +24,15 @@ c) **La tesi deve essere individuata** in modo esplicito
 
 ## Manzoni
 Opere teatrali
-Una con dichiarazione poetica nell'introduzione: rifiuto unità aristoteliche
+Una con dichiarazione poetica nell'introduzione: rifiuto unità aristoteliche, che impediscono di creare
+
+"Adelchi"
+
+p.782
+
+
+Tragedie di scarso successo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjQ0NDc0Miw3MDgwNjAwMDIsMTQ2Nj
+eyJoaXN0b3J5IjpbMTY0MDg1NDE4Myw3MDgwNjAwMDIsMTQ2Nj
 EzMzc1MiwxNDMwNjUzNTU4LDE2ODM0ODQwMV19
 -->
