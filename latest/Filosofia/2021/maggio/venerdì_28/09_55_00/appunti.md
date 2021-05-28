@@ -46,7 +46,10 @@ Analisi molto intensa
 
 Scetticismo: posizione filosofica per cui non è possibile raggiungere certezze
 
+idee complsse di sostanza
+
+per Aristotele il mondo è fatto di sostanze
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxMjg5NDQsNzE0NjM0NzksMjA4NjE5OT
-QzNywzMzE4NzIzMDhdfQ==
+eyJoaXN0b3J5IjpbMTI1MTIyMTY4LDcxNDYzNDc5LDIwODYxOT
+k0MzcsMzMxODcyMzA4XX0=
 -->
