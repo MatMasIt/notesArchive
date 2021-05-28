@@ -30,9 +30,10 @@ Questi filosofi non credono nell'inconscio
 
 
 * Idee complesse: prodotte dal'intelletto che lavora attivamente sul materiale di base costituito dalle idee semplici
-	* Di modo, ciò che è percepito come non esistenete per sé ma dipendenta da qualcos'altro (dozzina, esiste sempre in relazione a qualcosa)
+	* Di modo, ciò che è percepito come non esistenete per sé ma dipendenta da qualcos'altro (dozzina, esiste sempre in relazione a qualcosa; mucchio)
+		* Di modo semp
 	* Di sostanza
 	* Di relazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjEyNzQyMywzMzE4NzIzMDhdfQ==
+eyJoaXN0b3J5IjpbLTE2NDc1OTA4NjksMzMxODcyMzA4XX0=
 -->
