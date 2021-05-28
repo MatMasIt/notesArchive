@@ -73,8 +73,14 @@ He is not provoked at the sight of there corrupt people
 
 
 When he sees difformities in mind or body mixed and worsened by pride
-He loses his patient
+He loses his patience
+
+Criticizing about The yahoos worst vices of yahoos (humans)
+
+pride is the worst vice of humans
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkxNjU1NDUsLTk5NzI2NjY1NCw0OT
-M3MTEzNDEsLTEyNTgwNDE4NjFdfQ==
+eyJoaXN0b3J5IjpbNzExODA4OTg3LC05OTcyNjY2NTQsNDkzNz
+ExMzQxLC0xMjU4MDQxODYxXX0=
 -->
