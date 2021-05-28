@@ -12,7 +12,10 @@ Absurdity, uselessness of this strict search
 
 The lilliputians cannot use such objects (too big)
 
+Satire of the lilliputians institutions
+
+Just a waste of time
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5MDcyNTM3XX0=
+eyJoaXN0b3J5IjpbLTEyNTgwNDE4NjFdfQ==
 -->
