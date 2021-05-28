@@ -22,8 +22,10 @@ c) **La tesi deve essere individuata** in modo esplicito
 **R**egione: maiuscola
 **C**ostituzione: maiusola
 
-
+## Manzoni
+Opere teatrali
+Una con dichiarazione poetica nell'introduzione: rifiuto unità aristoteliche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4MDYwMDAyLDE0NjYxMzM3NTIsMTQzMD
-Y1MzU1OCwxNjgzNDg0MDFdfQ==
+eyJoaXN0b3J5IjpbMTUyNjQ0NDc0Miw3MDgwNjAwMDIsMTQ2Nj
+EzMzc1MiwxNDMwNjUzNTU4LDE2ODM0ODQwMV19
 -->
