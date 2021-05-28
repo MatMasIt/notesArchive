@@ -17,7 +17,12 @@ Arteia che arriva, vena che parte
 
 Unità anatomica e funzionale del rene: nefrone
 
+* Filtrazione
+* Assorbimento
+* Secrezione
+Tubuli renali prossimali e distali
 
+Dotti collettori $\implies$ uret
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQzOTUxOTRdfQ==
+eyJoaXN0b3J5IjpbMTYzMzc0NDYzMl19
 -->
