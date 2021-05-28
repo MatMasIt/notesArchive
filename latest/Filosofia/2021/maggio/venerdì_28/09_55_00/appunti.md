@@ -50,10 +50,18 @@ idee complsse di sostanza
 
 per Aristotele il mondo è fatto di sostanze
 
-idea semplcice di colore verde, idea semplice di solidità, idea semplice di estensione
+Critica di Locke all'idea di "Sostanza"
 
-Si giunge quindi a sostenere che esi
+Cattedra
+
+idea semplice di colore verde, idea semplice di solidità, idea semplice di estensione
+
+Si giunge quindi a sostenere che esiste sostanza
+
+sostanza come insieme di idee semplici
+
+idee semplici devono es
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1NDAyNTM3LDcxNDYzNDc5LDIwODYxOT
-k0MzcsMzMxODcyMzA4XX0=
+eyJoaXN0b3J5IjpbLTEyODU0MTA1MTUsNzE0NjM0NzksMjA4Nj
+E5OTQzNywzMzE4NzIzMDhdfQ==
 -->
