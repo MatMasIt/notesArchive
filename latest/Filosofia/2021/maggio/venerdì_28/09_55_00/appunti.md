@@ -17,7 +17,7 @@ La classificazione delle idee
 	* Sensazione: derivano da oggetti esterni attraverso ai 5 sensi
 		* possono dipendere o da un solo senso o da più sensi congiunti (idee di movimento)
 	* Riflessione: Operazione interna alla mente
-		*
+		* Possono appartenere ai gruppi di: operazioni del pensiero & operazioni della volontà
 	* Sensazione & Riflessione insieme (come idea di piacere, dolore): stretto collegamento della sensazione e della riflessione, fortemente intrecciati
 
 
@@ -27,8 +27,8 @@ Ogni idea semplice di sensazione comporta una idea semplice di riflessione
 Questi filosofi non credono nell'inconscio
 
 
-* Idee complesse
+* Idee complesse: prodotte dal'intelletto che lavora attivamente sul materiale di base costituito dalle idee semplici
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjUwMTgxNF19
+eyJoaXN0b3J5IjpbMzMxODcyMzA4XX0=
 -->
