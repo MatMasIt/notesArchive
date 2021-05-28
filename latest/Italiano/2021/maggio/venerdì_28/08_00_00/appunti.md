@@ -18,8 +18,9 @@ c) **La tesi deve essere individuata** in modo esplicito
 ##### Organizzazione del testo
 * introduzione sproporzionata
 * assenza di capoversi
-h
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzE1Nzg4LDE0NjYxMzM3NTIsMTQzMD
-Y1MzU1OCwxNjgzNDg0MDFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTYxMTkwMDIsMTQ2NjEzMzc1MiwxND
+MwNjUzNTU4LDE2ODM0ODQwMV19
 -->
