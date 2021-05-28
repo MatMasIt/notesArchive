@@ -36,6 +36,15 @@ He is going to teach all his lessons of virtue to his family
 They shall become as sweet, as mild and as docile as Houyhnhnms
 
 He percieves his family as Yahoos
+
+l.5 "Docile animals"
+
+
+Men are described as animals
+
+
+l.5, 6
+He looks himself in a mirror 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NzkzMjQ5LC0xMjU4MDQxODYxXX0=
+eyJoaXN0b3J5IjpbNzcxMzgyNzI2LC0xMjU4MDQxODYxXX0=
 -->
