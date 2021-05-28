@@ -82,7 +82,10 @@ pride is the worst vice of humans
 Doctors keep yahoos alive, if the yahoos were not diseased they would not need any doctor
 
 Houyhnhnms are never ill
+
+
+He will never unde
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0NzQ0MjQsLTk5NzI2NjY1NCw0OTM3MT
-EzNDEsLTEyNTgwNDE4NjFdfQ==
+eyJoaXN0b3J5IjpbNTA3MzI5ODk3LC05OTcyNjY2NTQsNDkzNz
+ExMzQxLC0xMjU4MDQxODYxXX0=
 -->
