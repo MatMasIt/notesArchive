@@ -36,7 +36,9 @@ Tubuli prossimali e distali
 Formazione dell'urina:
 
 1) Filtrazione
-
+Si cambia diametro dei capillari
+si crea pressione di filtrazione
+Formazione dell'urina primitiva
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyOTM4NDk1XX0=
+eyJoaXN0b3J5IjpbMTkzMzM4MTI2OV19
 -->
