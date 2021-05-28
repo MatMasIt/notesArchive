@@ -15,10 +15,13 @@ La classificazione delle idee
 
 * Idee semplici (che l'intelletto riceve puramente passivamente o dalla sensazione o dalla riflessione)
 	* Sensazione: derivano da oggetti esterni attraverso ai 5 sensi
-	* Riflessione: 
+	* Riflessione: Operazione interna alla mente
 
-Colore verde: sensazione, coscienza del colore verde:
+
+Colore verde: sensazione, coscienza (consapevolezza) del colore verde: riflessione
+
+
 * Idee complesse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjcxOTk3OV19
+eyJoaXN0b3J5IjpbLTgzNzk0NDE1M119
 -->
