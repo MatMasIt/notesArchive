@@ -84,8 +84,10 @@ Doctors keep yahoos alive, if the yahoos were not diseased they would not need a
 Houyhnhnms are never ill
 
 
-He will never unde
+He will never understand how yahoos can be proud of themselves
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3MzI5ODk3LC05OTcyNjY2NTQsNDkzNz
-ExMzQxLC0xMjU4MDQxODYxXX0=
+eyJoaXN0b3J5IjpbLTEyMjI4Mjk5NDYsLTk5NzI2NjY1NCw0OT
+M3MTEzNDEsLTEyNTgwNDE4NjFdfQ==
 -->
