@@ -71,7 +71,10 @@ List of worst and most corrupt people/jobs in society
 
 He is not provoked at the sight of there corrupt people
 
+
+When he sees difformities in mind or body mixed and worsened by pride
+He loses his patient
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODM2ODQyNSwtOTk3MjY2NjU0LDQ5Mz
-cxMTM0MSwtMTI1ODA0MTg2MV19
+eyJoaXN0b3J5IjpbLTE1OTkxNjU1NDUsLTk5NzI2NjY1NCw0OT
+M3MTEzNDEsLTEyNTgwNDE4NjFdfQ==
 -->
