@@ -58,7 +58,11 @@ He is going to complain about the irrationality, brutality of the horses in Engl
 He allowed her wife to sit at the same table a him, but at the farthest end of a long table
 
 He cannot tolerate the smell
+
+Teeth, claws of the yahoos, he thinks he will be able to tolerate them
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwNjgzMTI0LDQ5MzcxMTM0MSwtMTI1OD
-A0MTg2MV19
+eyJoaXN0b3J5IjpbLTk5NzI2NjY1NCw0OTM3MTEzNDEsLTEyNT
+gwNDE4NjFdfQ==
 -->
