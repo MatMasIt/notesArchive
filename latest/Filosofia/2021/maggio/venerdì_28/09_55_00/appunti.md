@@ -20,8 +20,9 @@ La classificazione delle idee
 
 Colore verde: sensazione, coscienza (consapevolezza) del colore verde: riflessione
 
+Ogni idea semplice di sensazione comporta una idea semplice di riflessione
 
 * Idee complesse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzk0NDE1M119
+eyJoaXN0b3J5IjpbMTgxMTEwODM3NV19
 -->
