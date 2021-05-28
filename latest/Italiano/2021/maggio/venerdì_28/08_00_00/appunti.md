@@ -36,8 +36,12 @@ Tragedie di scarso successo
 
 Rappresentazioni che puntano a bene e giustizia divina
 
-Scelta lessicale di Manzoni più accecssibile
+Scelta lessicale di Manzoni più accessibile
+
+### Adelchi
+* 1820 inizio
+* 1821 moti per la richiesta della costituzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NjEyODUwLDcwODA2MDAwMiwxNDY2MT
-MzNzUyLDE0MzA2NTM1NTgsMTY4MzQ4NDAxXX0=
+eyJoaXN0b3J5IjpbLTkwMjMyODQyOCw3MDgwNjAwMDIsMTQ2Nj
+EzMzc1MiwxNDMwNjUzNTU4LDE2ODM0ODQwMV19
 -->
