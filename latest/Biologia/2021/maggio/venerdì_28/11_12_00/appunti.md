@@ -46,7 +46,13 @@ sopra una certa soglia non si assorbe nulla
 
 Se compaiono proteine nelle urine $\implies$ insufficienza renale
 
-Se alto il contenuto di glucos
+Se alto il contenuto di glucosio nelle urine $\implies$ diabete
+
+
+soglia fisiologica
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MjEyMDM3LDE5MzMzODEyNjldfQ==
+eyJoaXN0b3J5IjpbLTEwMjA2OTA4OTcsMTkzMzM4MTI2OV19
 -->
