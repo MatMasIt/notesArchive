@@ -44,7 +44,11 @@ Men are described as animals
 
 
 l.5, 6
-He looks himself in a mirror 
+He looks himself in a mirror to tolerate the sight of humans (exercising to bear)
+
+(Because humans ook like yahoos) **disgusted at the sight of his own image reflected in a mirror**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxMzgyNzI2LC0xMjU4MDQxODYxXX0=
+eyJoaXN0b3J5IjpbNDkzNzExMzQxLC0xMjU4MDQxODYxXX0=
 -->
