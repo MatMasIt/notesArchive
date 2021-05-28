@@ -15,7 +15,9 @@ La classificazione delle idee
 
 * Idee semplici (che l'intelletto riceve puramente passivamente o dalla sensazione o dalla riflessione)
 	* Sensazione: derivano da oggetti esterni attraverso ai 5 sensi
+		* possono dipendere o da un solo senso o da più sensi congiunti (idee di movimento)
 	* Riflessione: Operazione interna alla mente
+		*
 	* Sensazione & Riflessione insieme (come idea di piacere, dolore): stretto collegamento della sensazione e della riflessione, fortemente intrecciati
 
 
@@ -28,5 +30,5 @@ Questi filosofi non credono nell'inconscio
 * Idee complesse
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyOTc4MDc0XX0=
+eyJoaXN0b3J5IjpbMTM2MjUwMTgxNF19
 -->
