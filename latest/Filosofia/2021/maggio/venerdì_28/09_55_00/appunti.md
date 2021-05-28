@@ -13,6 +13,8 @@ p. 195
 
 La classificazione delle idee
 
+Capitolo
+
 * Idee semplici (che l'intelletto riceve puramente passivamente o dalla sensazione o dalla riflessione)
 	* Sensazione: derivano da oggetti esterni attraverso ai 5 sensi
 		* possono dipendere o da un solo senso o da più sensi congiunti (idee di movimento)
@@ -28,7 +30,8 @@ Questi filosofi non credono nell'inconscio
 
 
 * Idee complesse: prodotte dal'intelletto che lavora attivamente sul materiale di base costituito dalle idee semplici
-* 
+	* Di modo
+	* Di sostanza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxODcyMzA4XX0=
+eyJoaXN0b3J5IjpbNzM1MTQ3ODcxLDMzMTg3MjMwOF19
 -->
