@@ -19,8 +19,11 @@ c) **La tesi deve essere individuata** in modo esplicito
 * introduzione sproporzionata
 * assenza di capoversi
 
+**R**egione: maiuscola
+**C**ostituzione: maiusola
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYxMTkwMDIsMTQ2NjEzMzc1MiwxND
-MwNjUzNTU4LDE2ODM0ODQwMV19
+eyJoaXN0b3J5IjpbNzA4MDYwMDAyLDE0NjYxMzM3NTIsMTQzMD
+Y1MzU1OCwxNjgzNDg0MDFdfQ==
 -->
