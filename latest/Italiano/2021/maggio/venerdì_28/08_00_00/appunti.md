@@ -14,8 +14,12 @@
 a) **la sintesi DEVE presentare del "cappello introduttivo"** da redigere, dopo *è bene lasciare un'interlinea*
 b) **la sintesi DEVE essere della lunghezza corretta** (me)
 c) **La tesi deve essere individuata** in modo esplicito
-#### Prod
+#### Produzione
+##### Organizzazione del testo
+* introduzione sproporzionata
+* assenza di capoversi
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTAyMTE2OTIsMTQzMDY1MzU1OCwxNj
-gzNDg0MDFdfQ==
+eyJoaXN0b3J5IjpbMTQ2NjEzMzc1MiwxNDMwNjUzNTU4LDE2OD
+M0ODQwMV19
 -->
