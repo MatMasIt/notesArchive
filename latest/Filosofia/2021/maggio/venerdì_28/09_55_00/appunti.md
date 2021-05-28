@@ -33,8 +33,10 @@ Questi filosofi non credono nell'inconscio
 	* Di modo, ciò che è percepito come non esistenete per sé ma dipendenta da qualcos'altro (dozzina, esiste sempre in relazione a qualcosa; mucchio)
 		* Di modo semplice, fanno riferimento alla stessa cosa (ripetuta più volte), fanno riferimento ad una sola idea semplice
 		* Di modo misto: composizione di colori, figure forme (bellezza, qualcosa deve essere bello)
-	* Di sostanza
+	* Di sostanza, qualcosa che sussiste di per se
+		* singole (uomo, fuore, albero)
+		* collettive (esercito, gregge, flotta), sostanze di carattere collettivo
 	* Di relazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUxOTkyNzAsMzMxODcyMzA4XX0=
+eyJoaXN0b3J5IjpbMjA4NjE5OTQzNywzMzE4NzIzMDhdfQ==
 -->
