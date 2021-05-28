@@ -8,6 +8,11 @@ L.226
 
 Gulliver is impressed by the rationality of the lilliputians
 
+Absurdity, uselessness of this strict search
+
+The lilliputians cannot use such objects (too big)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjYwNjc3NzZdfQ==
+eyJoaXN0b3J5IjpbMjU5MDcyNTM3XX0=
 -->
