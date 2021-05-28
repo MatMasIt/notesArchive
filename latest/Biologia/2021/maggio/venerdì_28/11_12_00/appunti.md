@@ -22,7 +22,13 @@ Unità anatomica e funzionale del rene: nefrone
 * Secrezione
 Tubuli renali prossimali e distali
 
-Dotti collettori $\implies$ uret
+Dotti collettori $\implies$ ureteri $\implies$ vescica $\implies$ uretra
+
+Arteriola afferene
+
+Capillari clomerulari/capsula del bowman
+
+in mezzo si forma urina primitiva
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzc0NDYzMl19
+eyJoaXN0b3J5IjpbLTM2NzQ1ODhdfQ==
 -->
