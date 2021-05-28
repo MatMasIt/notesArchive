@@ -28,7 +28,13 @@ Last page of the Gulliver's Travels
 
 He is going to behave like a rational horse (Hoyunmmnms [Whatever])
 
-become as virtous as
+become as virtous as them
+
+
+He is going to teach all his lessons of virtue to his family
+
+They shall become as sweet, as mi
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTIxOTI5MCwtMTI1ODA0MTg2MV19
+eyJoaXN0b3J5IjpbMTcyNTI2NzQ4NywtMTI1ODA0MTg2MV19
 -->
