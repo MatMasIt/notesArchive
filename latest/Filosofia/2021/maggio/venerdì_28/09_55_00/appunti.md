@@ -13,7 +13,7 @@ p. 195
 
 La classificazione delle idee
 
-Capitolo
+Uno degli inizi della "Filosofia della mente", che oggi si affianca alle neuroscienze
 
 * Idee semplici (che l'intelletto riceve puramente passivamente o dalla sensazione o dalla riflessione)
 	* Sensazione: derivano da oggetti esterni attraverso ai 5 sensi
@@ -30,8 +30,9 @@ Questi filosofi non credono nell'inconscio
 
 
 * Idee complesse: prodotte dal'intelletto che lavora attivamente sul materiale di base costituito dalle idee semplici
-	* Di modo
+	* Di modo, ciò che è percepito come non esistenete per sé ma dipendenta da qualcos'altro (dozzina, esiste sempre in relazione a qualcosa)
 	* Di sostanza
+	* Di relazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1MTQ3ODcxLDMzMTg3MjMwOF19
+eyJoaXN0b3J5IjpbMTYwNjEyNzQyMywzMzE4NzIzMDhdfQ==
 -->
