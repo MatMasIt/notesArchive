@@ -1,4 +1,4 @@
-# Lezione di (3° ora)
+# Lezione di Filosofia (3° ora)
 
 ## venerdì 28 maggio 2021, 09:56:00
 
@@ -76,6 +76,7 @@ non possiamo conoscere la sostanza
 esito scettico
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjIyMDM4OTksMjQyMjUwODUyLDcxND
-YzNDc5LDIwODYxOTk0MzcsMzMxODcyMzA4XX0=
+eyJoaXN0b3J5IjpbMTA1NTkzMjEzNywtMjA2MjIwMzg5OSwyND
+IyNTA4NTIsNzE0NjM0NzksMjA4NjE5OTQzNywzMzE4NzIzMDhd
+fQ==
 -->
