@@ -4,7 +4,7 @@
 
 ## Correzione verifica tipologia $B$
 
-
+$--.-.-.-....----/-..-..--.-.-..--.----.-.---./..--...----...-..-/.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-.-.--.-.-.-$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDYyODg1NCwxNjgzNDg0MDFdfQ==
+eyJoaXN0b3J5IjpbLTYyNjQyMTgxMiwxNjgzNDg0MDFdfQ==
 -->
