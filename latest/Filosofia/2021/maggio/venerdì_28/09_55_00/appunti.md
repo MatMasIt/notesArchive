@@ -13,7 +13,9 @@ p. 195
 
 La classificazione delle idee
 
-*Ide
+* Idee semplici (che l'intelletto riceve puramente passivamente o dalla sensazione o dalla riflessione)
+	* Sensazione: derivano da oggetti esterni attraverso ai 5 sensi
+* Idee complesse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDIwMjA2ODZdfQ==
+eyJoaXN0b3J5IjpbMTk0NDAzNjI0NV19
 -->
