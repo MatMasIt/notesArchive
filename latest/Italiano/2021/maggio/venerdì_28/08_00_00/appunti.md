@@ -10,9 +10,9 @@
 > Ridurre a $\frac14-\frac13$ 
 
 ### Cosa non va?
-a) la
+a) **la sintesi DEVE presentare del "cappello introduttivo"** da redigere, dopo *è bene lasciare un'interlinea*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjEwNTQ5MiwxNDMwNjUzNTU4LDE2OD
-M0ODQwMV19
+eyJoaXN0b3J5IjpbMzA1MjU0NDk5LDE0MzA2NTM1NTgsMTY4Mz
+Q4NDAxXX0=
 -->
