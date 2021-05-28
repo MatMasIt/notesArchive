@@ -36,9 +36,17 @@ Questi filosofi non credono nell'inconscio
 	* Di sostanza, qualcosa che sussiste di per se
 		* singole (uomo, fuore, albero)
 		* collettive (esercito, gregge, flotta), sostanze di carattere collettivo
-	* Di relazione 
+	* Di relazione (mettono in relazione più idee)
 		* Causalità
+
+
+Analisi molto intensa
+
+
+
+Scetticismo: posizione filosofica per cui non è possibile raggiungere certezze
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0NjM0NzksMjA4NjE5OTQzNywzMzE4Nz
-IzMDhdfQ==
+eyJoaXN0b3J5IjpbOTUxMjg5NDQsNzE0NjM0NzksMjA4NjE5OT
+QzNywzMzE4NzIzMDhdfQ==
 -->
