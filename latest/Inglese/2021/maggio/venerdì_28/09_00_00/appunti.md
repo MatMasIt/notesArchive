@@ -26,15 +26,16 @@ returned home
 
 Last page of the Gulliver's Travels
 
-He is going to behave like a rational horse (Hoyunmmnms [Whatever])
+He is going to behave like a rational horse (Houyhnhnms)
 
 become as virtous as them
 
 
 He is going to teach all his lessons of virtue to his family
 
-They shall become as sweet, as mi
+They shall become as sweet, as mild and as docile as Houyhnhnms
 
+He percieves his family as Yahoos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTI2NzQ4NywtMTI1ODA0MTg2MV19
+eyJoaXN0b3J5IjpbMzU3NzkzMjQ5LC0xMjU4MDQxODYxXX0=
 -->
