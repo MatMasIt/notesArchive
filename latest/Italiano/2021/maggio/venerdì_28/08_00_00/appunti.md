@@ -40,8 +40,12 @@ Scelta lessicale di Manzoni più accessibile
 
 ### Adelchi
 * 1820 inizio
-* 1821 moti per la richiesta della costituzione
+* 1821 moti per la richiesta della costituzione 
+
+Deriva dai suoi studi dei Longobardi
+
+Caduta del loro regno, Desiderio sconffitt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjMyODQyOCw3MDgwNjAwMDIsMTQ2Nj
+eyJoaXN0b3J5IjpbMjAyNzkwOTIyNSw3MDgwNjAwMDIsMTQ2Nj
 EzMzc1MiwxNDMwNjUzNTU4LDE2ODM0ODQwMV19
 -->
