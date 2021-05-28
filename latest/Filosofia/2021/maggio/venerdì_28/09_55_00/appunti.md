@@ -60,8 +60,18 @@ Si giunge quindi a sostenere che esiste sostanza
 
 sostanza come insieme di idee semplici
 
-idee semplici devono es
+idee semplici devono essere ricondotte a una sostanza
+
+
+Qualìè l'essenza della sostanza?
+Si può conoscere la sostanza per se senza che sostenga qualità?
+No
+Noi possiamo vedere in sè idee semplici che la sostanza sorregge
+
+penna grigia, cilindrica, estesa, solida
+Ma qual'è l'essenza della sostanza della penna
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODU0MTA1MTUsNzE0NjM0NzksMjA4Nj
-E5OTQzNywzMzE4NzIzMDhdfQ==
+eyJoaXN0b3J5IjpbLTUyMzY1MjU1OCw3MTQ2MzQ3OSwyMDg2MT
+k5NDM3LDMzMTg3MjMwOF19
 -->
