@@ -49,7 +49,11 @@ Scetticismo: posizione filosofica per cui non è possibile raggiungere certezze
 idee complsse di sostanza
 
 per Aristotele il mondo è fatto di sostanze
+
+idea semplcice di colore verde, idea semplice di solidità, idea semplice di estensione
+
+Si giunge quindi a sostenere che esi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTIyMTY4LDcxNDYzNDc5LDIwODYxOT
+eyJoaXN0b3J5IjpbNDI1NDAyNTM3LDcxNDYzNDc5LDIwODYxOT
 k0MzcsMzMxODcyMzA4XX0=
 -->
