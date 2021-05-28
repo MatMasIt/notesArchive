@@ -60,9 +60,8 @@ He allowed her wife to sit at the same table a him, but at the farthest end of a
 He cannot tolerate the smell
 
 Teeth, claws of the yahoos, he thinks he will be able to tolerate them
-
-
+l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzI2NjY1NCw0OTM3MTEzNDEsLTEyNT
-gwNDE4NjFdfQ==
+eyJoaXN0b3J5IjpbMTA4Nzg4NjgzNiwtOTk3MjY2NjU0LDQ5Mz
+cxMTM0MSwtMTI1ODA0MTg2MV19
 -->
