@@ -89,8 +89,10 @@ He will never understand how yahoos can be proud of themselves
 Houyhnhnms have no word for **pride** in their language
 
 
-They have no terms to describe evil things if not the terms they use to describe the qualitied of th
+They have no terms to describe evil things if not the terms they use to describe the qualities of the Yahoos
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NDc0MzM0LC05OTcyNjY2NTQsNDkzNz
-ExMzQxLC0xMjU4MDQxODYxXX0=
+eyJoaXN0b3J5IjpbLTExNTA4OTQ2MjcsLTk5NzI2NjY1NCw0OT
+M3MTEzNDEsLTEyNTgwNDE4NjFdfQ==
 -->
