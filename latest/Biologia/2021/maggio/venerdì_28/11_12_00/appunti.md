@@ -39,6 +39,10 @@ Formazione dell'urina:
 Si cambia diametro dei capillari
 si crea pressione di filtrazione
 Formazione dell'urina primitiva
+
+I tubuli riassorbono fino a concentrazione soglia di glucosio
+
+sopra una certa soglia non si assorbe nu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzM4MTI2OV19
+eyJoaXN0b3J5IjpbLTE2NTk1MzAzOTgsMTkzMzM4MTI2OV19
 -->
