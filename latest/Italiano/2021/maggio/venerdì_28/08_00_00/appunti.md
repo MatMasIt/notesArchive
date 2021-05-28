@@ -26,13 +26,18 @@ c) **La tesi deve essere individuata** in modo esplicito
 Opere teatrali
 Una con dichiarazione poetica nell'introduzione: rifiuto unità aristoteliche, che impediscono di creare
 
-"Adelchi"
+* *Adelchi*
+* *Il conte di Carmagnola*
 
 p.782
 
 
 Tragedie di scarso successo
+
+Rappresentazioni che puntano a bene e giustizia divina
+
+Scelta lessicale di Manzoni più accecssibile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDg1NDE4Myw3MDgwNjAwMDIsMTQ2Nj
-EzMzc1MiwxNDMwNjUzNTU4LDE2ODM0ODQwMV19
+eyJoaXN0b3J5IjpbMjg2NjEyODUwLDcwODA2MDAwMiwxNDY2MT
+MzNzUyLDE0MzA2NTM1NTgsMTY4MzQ4NDAxXX0=
 -->
