@@ -72,9 +72,10 @@ penna grigia, cilindrica, estesa, solida
 Ma qual'è l'essenza della sostanza della penna?
 Boh
 
-
+non possiamo conoscere la sostanza
+esito scettico
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyMjUwODUyLDcxNDYzNDc5LDIwODYxOT
-k0MzcsMzMxODcyMzA4XX0=
+eyJoaXN0b3J5IjpbLTIwNjIyMDM4OTksMjQyMjUwODUyLDcxND
+YzNDc5LDIwODYxOTk0MzcsMzMxODcyMzA4XX0=
 -->
