@@ -48,8 +48,13 @@ He looks himself in a mirror to tolerate the sight of humans (exercising to bear
 
 (Because humans ook like yahoos) **disgusted at the sight of his own image reflected in a mirror**
 
-"Persons: common horses/animals that you can find in europe"
+Persons: common horses/animals that you can find in europe
+People: animals
+
+He is going to complain about the irrationality, brutality of the horses in England
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDEwMjU5NjYsNDkzNzExMzQxLC0xMj
-U4MDQxODYxXX0=
+eyJoaXN0b3J5IjpbLTc0MTM3OTM1Niw0OTM3MTEzNDEsLTEyNT
+gwNDE4NjFdfQ==
 -->
