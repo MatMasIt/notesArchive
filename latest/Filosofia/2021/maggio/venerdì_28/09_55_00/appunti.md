@@ -69,9 +69,12 @@ No
 Noi possiamo vedere in sè idee semplici che la sostanza sorregge
 
 penna grigia, cilindrica, estesa, solida
-Ma qual'è l'essenza della sostanza della penna
+Ma qual'è l'essenza della sostanza della penna?
+Boh
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzY1MjU1OCw3MTQ2MzQ3OSwyMDg2MT
-k5NDM3LDMzMTg3MjMwOF19
+eyJoaXN0b3J5IjpbMjQyMjUwODUyLDcxNDYzNDc5LDIwODYxOT
+k0MzcsMzMxODcyMzA4XX0=
 -->
