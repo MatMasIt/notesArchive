@@ -54,7 +54,9 @@ soglia fisiologica
 
 Pressione osmotica
 $T=\frac{m}{V}\cdot R \cdot T$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODk4OTYyOCwtMTAyMDY5MDg5NywxOT
-MzMzgxMjY5XX0=
+eyJoaXN0b3J5IjpbLTE2MjIxNDQyMzIsMTA5ODk4OTYyOCwtMT
+AyMDY5MDg5NywxOTMzMzgxMjY5XX0=
 -->
