@@ -44,8 +44,13 @@ Scelta lessicale di Manzoni più accessibile
 
 Deriva dai suoi studi dei Longobardi
 
-Caduta del loro regno, Desiderio sconffitt
+Caduta del loro regno, Desiderio sconffitto da Carlo Magno
+
+Ripudio di Ermengada (figlia [?] di Desiderio) da Parte di Carlo Magno
+
+Longobardi: ultima occasione di unificazione dell'italia
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzkwOTIyNSw3MDgwNjAwMDIsMTQ2Nj
+eyJoaXN0b3J5IjpbMTYxNjcyNTAxOSw3MDgwNjAwMDIsMTQ2Nj
 EzMzc1MiwxNDMwNjUzNTU4LDE2ODM0ODQwMV19
 -->
