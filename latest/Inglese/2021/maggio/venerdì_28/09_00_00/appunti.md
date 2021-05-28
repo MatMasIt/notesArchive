@@ -60,8 +60,18 @@ He allowed her wife to sit at the same table a him, but at the farthest end of a
 He cannot tolerate the smell
 
 Teeth, claws of the yahoos, he thinks he will be able to tolerate them
-l
+
+
+List of worst and most corrupt people/jobs in society
+
+* lawyer
+* pickpocket
+* warmonger
+* politician
+
+He is not provoked at the sight of there corrupt people
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Nzg4NjgzNiwtOTk3MjY2NjU0LDQ5Mz
+eyJoaXN0b3J5IjpbLTg1ODM2ODQyNSwtOTk3MjY2NjU0LDQ5Mz
 cxMTM0MSwtMTI1ODA0MTg2MV19
 -->
