@@ -9,11 +9,13 @@
 
 > Ridurre a $\frac14-\frac13$ 
 
-### Che rrori abbiamo fatto?
+### Che errori abbiamo fatto?
+
 a) **la sintesi DEVE presentare del "cappello introduttivo"** da redigere, dopo *è bene lasciare un'interlinea*
 b) **la sintesi DEVE essere della lunghezza corretta** (me)
-c) **La tesi deve essere i
+c) **La tesi deve essere individuata** in modo esplicito
+#### Prod
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzNzI3MjU3LDE0MzA2NTM1NTgsMTY4Mz
-Q4NDAxXX0=
+eyJoaXN0b3J5IjpbLTE2MTAyMTE2OTIsMTQzMDY1MzU1OCwxNj
+gzNDg0MDFdfQ==
 -->
