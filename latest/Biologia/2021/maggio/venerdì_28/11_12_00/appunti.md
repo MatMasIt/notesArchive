@@ -42,7 +42,11 @@ Formazione dell'urina primitiva
 
 I tubuli riassorbono fino a concentrazione soglia di glucosio
 
-sopra una certa soglia non si assorbe nu
+sopra una certa soglia non si assorbe nulla
+
+Se compaiono proteine nelle urine $\implies$ insufficienza renale
+
+Se alto il contenuto di glucos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk1MzAzOTgsMTkzMzM4MTI2OV19
+eyJoaXN0b3J5IjpbNjI0MjEyMDM3LDE5MzMzODEyNjldfQ==
 -->
