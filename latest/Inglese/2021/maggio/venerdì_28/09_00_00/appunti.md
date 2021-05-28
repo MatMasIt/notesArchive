@@ -86,8 +86,11 @@ Houyhnhnms are never ill
 
 He will never understand how yahoos can be proud of themselves
 
+Houyhnhnms have no word for **pride** in their language
 
+
+They have no terms to describe evil things if not the terms they use to describe the qualitied of th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI4Mjk5NDYsLTk5NzI2NjY1NCw0OT
-M3MTEzNDEsLTEyNTgwNDE4NjFdfQ==
+eyJoaXN0b3J5IjpbMjI3NDc0MzM0LC05OTcyNjY2NTQsNDkzNz
+ExMzQxLC0xMjU4MDQxODYxXX0=
 -->
