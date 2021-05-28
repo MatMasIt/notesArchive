@@ -50,7 +50,14 @@ Ripudio di Ermengada (figlia [?] di Desiderio) da Parte di Carlo Magno
 
 Longobardi: ultima occasione di unificazione dell'italia
 
+
+Reazioni dei Latini all'arrivo dei franchi.
+
+I latini osservano i Longobardi
+
+
+Richiama
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjcyNTAxOSw3MDgwNjAwMDIsMTQ2Nj
-EzMzc1MiwxNDMwNjUzNTU4LDE2ODM0ODQwMV19
+eyJoaXN0b3J5IjpbLTE3OTYzNTc3ODMsNzA4MDYwMDAyLDE0Nj
+YxMzM3NTIsMTQzMDY1MzU1OCwxNjgzNDg0MDFdfQ==
 -->
