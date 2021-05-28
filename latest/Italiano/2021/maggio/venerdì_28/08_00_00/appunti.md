@@ -2,7 +2,7 @@
 
 ## venerdì 28 maggio 2021, 08:01:00
 
-
+$\frac\gamma\beta=\frac\iott$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzQ4NDAxXX0=
+eyJoaXN0b3J5IjpbMTAxMjY5NzMzNywxNjgzNDg0MDFdfQ==
 -->
