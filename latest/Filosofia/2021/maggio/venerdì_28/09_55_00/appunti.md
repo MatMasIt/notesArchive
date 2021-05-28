@@ -36,7 +36,9 @@ Questi filosofi non credono nell'inconscio
 	* Di sostanza, qualcosa che sussiste di per se
 		* singole (uomo, fuore, albero)
 		* collettive (esercito, gregge, flotta), sostanze di carattere collettivo
-	* Di relazione
+	* Di relazione 
+		* Causalità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjE5OTQzNywzMzE4NzIzMDhdfQ==
+eyJoaXN0b3J5IjpbNzE0NjM0NzksMjA4NjE5OTQzNywzMzE4Nz
+IzMDhdfQ==
 -->
