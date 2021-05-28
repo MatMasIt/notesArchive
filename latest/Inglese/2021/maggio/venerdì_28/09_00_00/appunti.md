@@ -16,6 +16,15 @@ Satire of the lilliputians institutions
 
 Just a waste of time
 
+---
+
+p.230
+
+The Smell of a Yahoo
+
+returned home
+
+Last page of the Gulliver's Travels
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTgwNDE4NjFdfQ==
+eyJoaXN0b3J5IjpbODQ5NDQ4OTEsLTEyNTgwNDE4NjFdfQ==
 -->
