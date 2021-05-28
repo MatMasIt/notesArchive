@@ -56,8 +56,10 @@ Reazioni dei Latini all'arrivo dei franchi.
 I latini osservano i Longobardi
 
 
-Richiama
+Richiama gli Italici al proprio dover                                                                                                        
+
+Presa di cosienza nazionale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTYzNTc3ODMsNzA4MDYwMDAyLDE0Nj
+eyJoaXN0b3J5IjpbLTE4NDA4MjMyMTUsNzA4MDYwMDAyLDE0Nj
 YxMzM3NTIsMTQzMDY1MzU1OCwxNjgzNDg0MDFdfQ==
 -->
