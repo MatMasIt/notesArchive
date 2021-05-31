@@ -31,8 +31,9 @@ $RID: +7 \implies +4, \Delta e = -3$
 $SO_{3}^{-2} \implies SO_{4}^{-2}$ 
 $OX: +4 \implies +6, \Delta e= 2$
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjU4MDE0LC04MzEwNjExOTcsLTcxMj
-MyMDk4NywxNTQyODI0MDU2LC0xMzE5NjgzNTg1LC03ODQ1MzQz
-MzJdfQ==
+eyJoaXN0b3J5IjpbNTcyMzQzNDM2LDE5MDY1ODAxNCwtODMxMD
+YxMTk3LC03MTIzMjA5ODcsMTU0MjgyNDA1NiwtMTMxOTY4MzU4
+NSwtNzg0NTM0MzMyXX0=
 -->
