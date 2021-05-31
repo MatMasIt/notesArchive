@@ -14,7 +14,12 @@ $SO^{-2}_{3}\implies SO^{-2}_{4}+3e^{-}$
 --
 
 $MnO_{2}+PbO_{2}+HNO_{3}\implies HMnO_{4}+Pb(NO_{3})_{4}$
+
+|V|D|
+|---|---|
+|$MnO_{2}\implies HMnO_{4}$|$OX \Delta e = 3e^{-}$|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjgyNDA1NiwtMTMxOTY4MzU4NSwtNz
-g0NTM0MzMyXX0=
+eyJoaXN0b3J5IjpbLTcxMjMyMDk4NywxNTQyODI0MDU2LC0xMz
+E5NjgzNTg1LC03ODQ1MzQzMzJdfQ==
 -->
