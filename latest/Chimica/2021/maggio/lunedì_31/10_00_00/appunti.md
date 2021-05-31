@@ -1,5 +1,5 @@
 
-# Lezione di Chimica (2° ora)
+# Lezione di Chimica (3° ora)
 
 ## lunedì 32 maggio 2021, 10:00:00
 
@@ -58,8 +58,8 @@ $Fe: +3 \implies 0 : RID, \Delta e=3$
 $C:  +3 \implies +4: OX \Delta e=2$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTUzNzk0MjIsLTEwNjUyNTMyMzUsLT
-EzNjMzNTE3ODEsMTkwNjU4MDE0LC04MzEwNjExOTcsLTcxMjMy
-MDk4NywxNTQyODI0MDU2LC0xMzE5NjgzNTg1LC03ODQ1MzQzMz
-JdfQ==
+eyJoaXN0b3J5IjpbODEwMzA0OTYxLC0yMDE1Mzc5NDIyLC0xMD
+Y1MjUzMjM1LC0xMzYzMzUxNzgxLDE5MDY1ODAxNCwtODMxMDYx
+MTk3LC03MTIzMjA5ODcsMTU0MjgyNDA1NiwtMTMxOTY4MzU4NS
+wtNzg0NTM0MzMyXX0=
 -->
