@@ -19,8 +19,8 @@ Misanthrope
 
 Translation practice
 
-1. The Elisabethan Theatre had a round shape, the stage and the galleries where covered by a straw roof, while the public, th
+1. The Elisabethan Theatre had a round shape, the stage and the galleries where covered by a straw roof, while the public, that payed just one penny, had to stand in the arena
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5MDkyNzgzLDg2NjcwNjIxMSwxNzEzNz
-E2NTQxLC0xNzE0MzAwNTY3XX0=
+eyJoaXN0b3J5IjpbMTU1NjYwNDM5Miw4NjY3MDYyMTEsMTcxMz
+cxNjU0MSwtMTcxNDMwMDU2N119
 -->
