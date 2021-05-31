@@ -32,8 +32,11 @@ $SO_{3}^{-2} \implies SO_{4}^{-2}$
 $OX: +4 \implies +6, \Delta e= 2$
 
 
+$Cr_{2}O_{2}^{2-}
++CL^{
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMzQzNDM2LDE5MDY1ODAxNCwtODMxMD
-YxMTk3LC03MTIzMjA5ODcsMTU0MjgyNDA1NiwtMTMxOTY4MzU4
-NSwtNzg0NTM0MzMyXX0=
+eyJoaXN0b3J5IjpbMTkwNDkzMjI3NCwxOTA2NTgwMTQsLTgzMT
+A2MTE5NywtNzEyMzIwOTg3LDE1NDI4MjQwNTYsLTEzMTk2ODM1
+ODUsLTc4NDUzNDMzMl19
 -->
