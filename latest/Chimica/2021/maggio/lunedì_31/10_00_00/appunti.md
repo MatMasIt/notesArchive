@@ -44,10 +44,12 @@ $Cr: +6 \implies +3, \,\, RID$
 ---
 
 
-$CH_{3}ch_{2}i
+
+calcolo mcm
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM3OTgzLC0xMzYzMzUxNzgxLDE5MD
-Y1ODAxNCwtODMxMDYxMTk3LC03MTIzMjA5ODcsMTU0MjgyNDA1
-NiwtMTMxOTY4MzU4NSwtNzg0NTM0MzMyXX0=
+eyJoaXN0b3J5IjpbLTEwNjUyNTMyMzUsLTEzNjMzNTE3ODEsMT
+kwNjU4MDE0LC04MzEwNjExOTcsLTcxMjMyMDk4NywxNTQyODI0
+MDU2LC0xMzE5NjgzNTg1LC03ODQ1MzQzMzJdfQ==
 -->
