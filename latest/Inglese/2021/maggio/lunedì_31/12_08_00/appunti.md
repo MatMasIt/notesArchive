@@ -16,7 +16,11 @@ Who is guilty of pride, not come in sight
 
 
 Misanthrope
+
+Translation practice
+
+1. The Elisabethan Theatre had a round shape, the stage and the galleries where covered by a straw roof, while the public, th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2NzA2MjExLDE3MTM3MTY1NDEsLTE3MT
-QzMDA1NjddfQ==
+eyJoaXN0b3J5IjpbMzA5MDkyNzgzLDg2NjcwNjIxMSwxNzEzNz
+E2NTQxLC0xNzE0MzAwNTY3XX0=
 -->
