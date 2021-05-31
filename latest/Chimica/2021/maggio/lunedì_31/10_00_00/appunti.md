@@ -5,6 +5,11 @@
 
 
 $NaClO_{3}+Na_{2}SO_{3} \implies NaCl+Na_{2}SO_{4}$
+
+
+$ClO^{-}_{3}+6e^{-}\implies Cl^{-}$
+$ClO^{-2}_{3}+6e^{-}\implies Cl^{-}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk2ODM1ODUsLTc4NDUzNDMzMl19
+eyJoaXN0b3J5IjpbLTkwNTc3OTM0MSwtMTMxOTY4MzU4NSwtNz
+g0NTM0MzMyXX0=
 -->
