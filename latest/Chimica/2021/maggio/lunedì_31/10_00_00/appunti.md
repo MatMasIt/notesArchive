@@ -31,6 +31,7 @@ $RID: +7 \implies +4, \Delta e = -3$
 $SO_{3}^{-2} \implies SO_{4}^{-2}$ 
 $OX: +4 \implies +6, \Delta e= 2$
 
+--
 
 $Cr_{2}O_{7}^{2-}+6Cl^{-}+H^{+}\implies 2 2Cr^{3+}+3Cl_{2}+H_{2}O$
 
@@ -43,7 +44,7 @@ $Cr: +6 \implies +3, \,\, RID$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjMzNTE3ODEsMTkwNjU4MDE0LC04Mz
-EwNjExOTcsLTcxMjMyMDk4NywxNTQyODI0MDU2LC0xMzE5Njgz
-NTg1LC03ODQ1MzQzMzJdfQ==
+eyJoaXN0b3J5IjpbMTE3MTQ0NDMwMSwtMTM2MzM1MTc4MSwxOT
+A2NTgwMTQsLTgzMTA2MTE5NywtNzEyMzIwOTg3LDE1NDI4MjQw
+NTYsLTEzMTk2ODM1ODUsLTc4NDUzNDMzMl19
 -->
