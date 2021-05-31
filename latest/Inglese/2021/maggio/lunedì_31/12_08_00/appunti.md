@@ -11,6 +11,8 @@ English people $\implies$ yahoo
 
 He wants make the society of the english people brearable
 
+
+Who is guilty of pride, not come in sight
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2Mjg5MDg2NywtMTcxNDMwMDU2N119
+eyJoaXN0b3J5IjpbMTcxMzcxNjU0MSwtMTcxNDMwMDU2N119
 -->
