@@ -6,6 +6,12 @@
 
 
 Huonymns are not more proud of them more than I should be proud of not lacking an arm or a leg
+
+English people $\implies$ yahoo
+
+He want
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQzMDA1NjddfQ==
+eyJoaXN0b3J5IjpbLTEzNzQxNTk1NTQsLTE3MTQzMDA1NjddfQ
+==
 -->
