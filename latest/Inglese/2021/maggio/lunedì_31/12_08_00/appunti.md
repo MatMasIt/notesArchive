@@ -20,8 +20,9 @@ Misanthrope
 Translation practice
 
 1. The Elisabethan Theatre had a round shape, the stage and the galleries where covered by a straw roof, while the public, that payed just one penny, had to stand in the arena
-2. Robinson Crusoe represents the typical middle class man, whos
+2. Ophelia drowned herself because she was rejected by Hamlet, who faked being crazy
+3. Robinson Crusoe represents the typical middle class man, whose objective 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcwMDQ1NDksODY2NzA2MjExLDE3MT
+eyJoaXN0b3J5IjpbLTEzNTA1NzU0MDQsODY2NzA2MjExLDE3MT
 M3MTY1NDEsLTE3MTQzMDA1NjddfQ==
 -->
