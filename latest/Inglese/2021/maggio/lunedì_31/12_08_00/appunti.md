@@ -9,9 +9,8 @@ Huonymns are not more proud of them more than I should be proud of not lacking a
 
 English people $\implies$ yahoo
 
-He want
+He wants make the society of the english people brearable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQxNTk1NTQsLTE3MTQzMDA1NjddfQ
-==
+eyJoaXN0b3J5IjpbMTY2Mjg5MDg2NywtMTcxNDMwMDU2N119
 -->
