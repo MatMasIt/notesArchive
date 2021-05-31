@@ -8,8 +8,13 @@ $NaClO_{3}+Na_{2}SO_{3} \implies NaCl+Na_{2}SO_{4}$
 
 
 $ClO^{-}_{3}+6e^{-}\implies Cl^{-}$
-$SO^{-2}_{3}\implies SO^{-2}_{4}$
+$SO^{-2}_{3}\implies SO^{-2}_{4}+3e^{-}$
+
+
+--
+
+$MnO_{2}+PbO_{2}+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1MDg5ODgyLC0xMzE5NjgzNTg1LC03OD
-Q1MzQzMzJdfQ==
+eyJoaXN0b3J5IjpbLTE1MzYwOTEzMjksLTEzMTk2ODM1ODUsLT
+c4NDUzNDMzMl19
 -->
