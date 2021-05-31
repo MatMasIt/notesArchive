@@ -43,13 +43,10 @@ $Cr: +6 \implies +3, \,\, RID$
 
 ---
 
-
-
-calcolo mcm
-
-
+![](https://i.imgur.com/klIDzVP.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjUyNTMyMzUsLTEzNjMzNTE3ODEsMT
-kwNjU4MDE0LC04MzEwNjExOTcsLTcxMjMyMDk4NywxNTQyODI0
-MDU2LC0xMzE5NjgzNTg1LC03ODQ1MzQzMzJdfQ==
+eyJoaXN0b3J5IjpbLTE3MDQ5Mzc5NDQsLTEwNjUyNTMyMzUsLT
+EzNjMzNTE3ODEsMTkwNjU4MDE0LC04MzEwNjExOTcsLTcxMjMy
+MDk4NywxNTQyODI0MDU2LC0xMzE5NjgzNTg1LC03ODQ1MzQzMz
+JdfQ==
 -->
