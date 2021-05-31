@@ -21,7 +21,14 @@ $MnO_{2}+PbO_{2}+HNO_{3}\implies HMnO_{4}+Pb(NO_{3})_{4}$
 
 ---
 $SO_{3}^{-2}+MnO_{4}^{-} \implies MnO_{2}+SO_{4}^{-2}$
+
+$MnO_{4}^{-} \implies MnO_{2}$ 
+$RID: +7 \implies +4$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTA2MTE5NywtNzEyMzIwOTg3LDE1ND
-I4MjQwNTYsLTEzMTk2ODM1ODUsLTc4NDUzNDMzMl19
+eyJoaXN0b3J5IjpbODQwMDM3MTEwLC04MzEwNjExOTcsLTcxMj
+MyMDk4NywxNTQyODI0MDU2LC0xMzE5NjgzNTg1LC03ODQ1MzQz
+MzJdfQ==
 -->
