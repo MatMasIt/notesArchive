@@ -23,8 +23,9 @@ Translation practice
 2. Ophelia drowned herself because she was rejected by Hamlet, who faked being crazy
 3. Robinson Crusoe represents the typical middle class man, whose aim in life is to achieve material happiness 
 4. There was neither dire of vengeance nor wicknedness in Prospero's behabiour, He wanted Antonio to feel the same sense of loss that he had felt 12 years earlier
-5. 
+5. What where the them
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzIxOTg5MiwtMTMwMjA1OTk4Nyw4Nj
-Y3MDYyMTEsMTcxMzcxNjU0MSwtMTcxNDMwMDU2N119
+eyJoaXN0b3J5IjpbMTQyMDg2NDQ4MCwxNTEzMjE5ODkyLC0xMz
+AyMDU5OTg3LDg2NjcwNjIxMSwxNzEzNzE2NTQxLC0xNzE0MzAw
+NTY3XX0=
 -->
