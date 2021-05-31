@@ -52,11 +52,14 @@ $Fe_{2}O_{3}+CO \implies Fe + CO_{2}$
 $Fe_{2}O_{3}:100 Kg$
 $CO: 50 Kg$
 
+$R=67%$
 
-$Fe: +3 \implies 
+$Fe: +3 \implies 0 : RID, \Delta e=3$
+$C:  +3 \implies +4: OX \Delta e=2$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTg4OTIxMSwtMTA2NTI1MzIzNSwtMT
-M2MzM1MTc4MSwxOTA2NTgwMTQsLTgzMTA2MTE5NywtNzEyMzIw
-OTg3LDE1NDI4MjQwNTYsLTEzMTk2ODM1ODUsLTc4NDUzNDMzMl
-19
+eyJoaXN0b3J5IjpbLTIwMTUzNzk0MjIsLTEwNjUyNTMyMzUsLT
+EzNjMzNTE3ODEsMTkwNjU4MDE0LC04MzEwNjExOTcsLTcxMjMy
+MDk4NywxNTQyODI0MDU2LC0xMzE5NjgzNTg1LC03ODQ1MzQzMz
+JdfQ==
 -->
