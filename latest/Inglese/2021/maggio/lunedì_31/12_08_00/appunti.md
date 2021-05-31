@@ -21,8 +21,9 @@ Translation practice
 
 1. The Elizabethan Theatre had a round shape, the stage and the galleries where covered by a straw roof, while the public, that payed just one penny, had to stand in the arena
 2. Ophelia drowned herself because she was rejected by Hamlet, who faked being crazy
-3. Robinson Crusoe represents the typical middle class man, whose aim in life is to achieve material happiness  
+3. Robinson Crusoe represents the typical middle class man, whose aim in life is to achieve material happiness 
+4. There was neither dire of vengeance nor wicknedness
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3MDczNjY4LC0xMzAyMDU5OTg3LDg2Nj
-cwNjIxMSwxNzEzNzE2NTQxLC0xNzE0MzAwNTY3XX0=
+eyJoaXN0b3J5IjpbMTY0NjQ0NDYzOCwtMTMwMjA1OTk4Nyw4Nj
+Y3MDYyMTEsMTcxMzcxNjU0MSwtMTcxNDMwMDU2N119
 -->
