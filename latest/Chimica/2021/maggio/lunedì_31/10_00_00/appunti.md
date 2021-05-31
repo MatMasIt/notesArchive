@@ -13,8 +13,8 @@ $SO^{-2}_{3}\implies SO^{-2}_{4}+3e^{-}$
 
 --
 
-$MnO_{2}+PbO_{2}+$
+$MnO_{2}+PbO_{2}+HNO_{3}\implies HMnO_{4}+Pb(NO_{3})_{4}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYwOTEzMjksLTEzMTk2ODM1ODUsLT
-c4NDUzNDMzMl19
+eyJoaXN0b3J5IjpbMTU0MjgyNDA1NiwtMTMxOTY4MzU4NSwtNz
+g0NTM0MzMyXX0=
 -->
