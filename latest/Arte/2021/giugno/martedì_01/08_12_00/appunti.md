@@ -32,6 +32,8 @@ Canova cercherà di fare ritratti solo e soltanto di personaggi celeberrimi (ci 
 * Paolina Borghese (Sorella di Napoleone)
 
 \+ statue celebrative
+
+Venere Italica di palazzo Puttj
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3OTg3NDVdfQ==
+eyJoaXN0b3J5IjpbMzYwNDg3MDMwLDkzNzk4NzQ1XX0=
 -->
