@@ -79,9 +79,14 @@ $f^{'}(x)=2\tan(2x+1)\cdot\frac{1}{\cos^2(2x+1)}\cdot 2$
 
 
 $$
-\boxed
+\boxed{
+\text{
+Pag. 46 es 318, 219, 
+323, 324, 325, 328, 333
+}
+}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI4MzIyNDYsMTUyMDI0NzU0NiwtMz
-YwNjkxMjQsNTI1NTg3MjczXX0=
+eyJoaXN0b3J5IjpbLTIzMDA3ODQ0MiwxNTIwMjQ3NTQ2LC0zNj
+A2OTEyNCw1MjU1ODcyNzNdfQ==
 -->
