@@ -33,7 +33,10 @@ Canova cercherà di fare ritratti solo e soltanto di personaggi celeberrimi (ci 
 
 \+ statue celebrative
 
-Venere Italica di palazzo Puttj
+Venere Italica di palazzo Pitti
+
+
+Apollo del belvedere e il 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwNDg3MDMwLDkzNzk4NzQ1XX0=
+eyJoaXN0b3J5IjpbMjQxNTIzMjQ1LDkzNzk4NzQ1XX0=
 -->
