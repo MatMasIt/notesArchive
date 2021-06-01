@@ -8,7 +8,7 @@ Manzoni nelle tragedie si muove tra endecasillabi e dodecasillabi, lessico più 
 
 Aderisce ai principi romantici di August Von Schlegel, autore di *letteratura drammatica*
 
-
+Augustin Thierry, indaga il ru
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzgwNjYwNF19
+eyJoaXN0b3J5IjpbLTE5NDc2NjI1ODEsMTQ2NzgwNjYwNF19
 -->
