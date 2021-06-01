@@ -29,7 +29,9 @@ Tema del male, della sofferenza che si diffonde nella storia e tra gli uomini
 Male dall'uomo agli uomini
 
 Auspicio per la coscienza della nazione
+
+Auspicio senza prendere parte, essere colpevoli della condizione di sudditanza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTc1MzI4NCwyMDUxNDk5MzA1LC0yOD
-U2NDA2NDEsOTMyMjE1NjE4LDE0Njc4MDY2MDRdfQ==
+eyJoaXN0b3J5IjpbNzYzMjkwNDkxLDIwNTE0OTkzMDUsLTI4NT
+Y0MDY0MSw5MzIyMTU2MTgsMTQ2NzgwNjYwNF19
 -->
