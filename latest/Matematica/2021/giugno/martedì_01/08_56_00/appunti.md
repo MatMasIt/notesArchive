@@ -8,8 +8,12 @@
 |----|----|
 |$y=k$|0|
 |$y=x^n$|$nx^{n-1}$|
-|$y=\sin x$|$y=\in x|
+|$y=\sin x$|$y=\cos x$|
 |$y=\cos x$|$y=-\sin x$
+|$y=\tan x$|$\frac{1}{\cos^2x}=1+\tan^2x$|
+|$y=e^x$|$e^x$|
+|$y=\ln x$|$\frac1x$|
+|$y=a^x$|$y=a^x\cdot\ln 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3MDIzMjgyLDUyNTU4NzI3M119
+eyJoaXN0b3J5IjpbLTE1NDU1NDMxMzYsNTI1NTg3MjczXX0=
 -->
