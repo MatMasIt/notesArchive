@@ -19,6 +19,9 @@ Ha l'opportunità di vedere marmi antichi
 1775-1776 Orfeo
 
 Per un Senatore
+
+
+Preoccupazione di Dedalo per Icaro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1NzA2MTg4XX0=
+eyJoaXN0b3J5IjpbLTE0NjU4NTk5MDhdfQ==
 -->
