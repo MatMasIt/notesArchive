@@ -4,7 +4,12 @@
 
 ### Ripasso sulle derivate
 
-|
+|Funzione|Derivata|
+|----|----|
+|$y=k$|0|
+|$y=x^n$|$nx^{n-1}$|
+|$y=\sin x$|$y=\in x|
+|$y=\cos x$|$y=-\sin x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMTE1ODM4LDUyNTU4NzI3M119
+eyJoaXN0b3J5IjpbMzY3MDIzMjgyLDUyNTU4NzI3M119
 -->
