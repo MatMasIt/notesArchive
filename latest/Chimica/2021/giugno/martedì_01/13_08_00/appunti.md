@@ -12,6 +12,7 @@ pH\\
 HCl  0,1M \\
  H_{3}COOH 0,1 M
   $$
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjYwMjc2MV19
+eyJoaXN0b3J5IjpbODQ0MzI0MDIzLDEwNjI2MDI3NjFdfQ==
 -->
