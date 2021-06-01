@@ -25,9 +25,12 @@ Preoccupazione di Dedalo per Icaro   -   Preoccupazione del nonno per Canova
 
 Scalpelli alla base della statua
 
-Canova cercherà di fare ritratti solo e soltanto di personaggi celeberrimi
+Canova cercherà di fare ritratti solo e soltanto di personaggi celeberrimi (ci teneva alla sua fama)
 
-* madre di napoleone bonaparte (ispira
+* madre di napoleone Bonaparte (ispirazione all'Agrippina)
+* ritratto di Napoleone
+
++ statue celebrative
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODA3MzQ4OF19
+eyJoaXN0b3J5IjpbMzE0MjYyMDUzXX0=
 -->
