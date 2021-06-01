@@ -20,8 +20,11 @@
 
 #### Operazioni di derivazione
 
-* Addizione
-* $D[f(x)\pm g(
+* Addizione algebrica
+ $D[f(x)\pm g(x)]=D(f(x))\pm D(g(x))$
+*Derivata di un prodotto
+$D[f(x)\cdot g(x)]=D(f(x))g(x)+f(x)D(g(x))$ 
+* Derivata di un quozi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3NTg5NDQ2LDUyNTU4NzI3M119
+eyJoaXN0b3J5IjpbLTg1NjU1Mzc2Myw1MjU1ODcyNzNdfQ==
 -->
