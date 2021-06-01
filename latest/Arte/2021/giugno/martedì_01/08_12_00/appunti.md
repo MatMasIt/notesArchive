@@ -29,8 +29,9 @@ Canova cercherà di fare ritratti solo e soltanto di personaggi celeberrimi (ci 
 
 * madre di napoleone Bonaparte (ispirazione all'Agrippina)
 * ritratto di Napoleone
+* Paolina Borghese (Sorella di Napoleone)
 
-+ statue celebrative
+\+ statue celebrative
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0MjYyMDUzXX0=
+eyJoaXN0b3J5IjpbOTM3OTg3NDVdfQ==
 -->
