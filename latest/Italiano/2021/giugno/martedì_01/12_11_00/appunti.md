@@ -45,7 +45,10 @@ non c'è la virtù che c'è più
 
 doppia antitesi
 
+
+Udite e tornate, al popolo italico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2Mjg0OTM1LDIwNTE0OTkzMDUsLTI4NT
-Y0MDY0MSw5MzIyMTU2MTgsMTQ2NzgwNjYwNF19
+eyJoaXN0b3J5IjpbODcwNzYwNzcsNDU2Mjg0OTM1LDIwNTE0OT
+kzMDUsLTI4NTY0MDY0MSw5MzIyMTU2MTgsMTQ2NzgwNjYwNF19
+
 -->
