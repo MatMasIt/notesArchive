@@ -10,7 +10,9 @@ Antonio Canova
 
 Muore il padre, viene abbandonato al nonno (scalpellino) dalla madre
 
+Allora i marmi erano solo per l'architettura
 
+Ha l'opportunità d9
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA3MjEwN119
+eyJoaXN0b3J5IjpbNzQyMDMzNDM0XX0=
 -->
