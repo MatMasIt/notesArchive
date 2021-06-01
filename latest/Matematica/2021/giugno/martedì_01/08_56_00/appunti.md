@@ -33,6 +33,11 @@ $D[\frac{1}{f(x)}=D[f(x)]^-1=-\frac{1}{[f(x)]^2}\cdot f^{'}(x)=-\frac{f^{'}(x)}{
 * $D[f(x)]^n$:
 $t=f(x)\implies D(t^n)$
 $\frac{dt^n}{\cancel{dt}}\cdot\frac{\cancel{dt}}{dx}=\frac{d(t^n)}{dx}$
+
+
+---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDY5MTI0LDUyNTU4NzI3M119
+eyJoaXN0b3J5IjpbMTI5Mzk4NTY3OSwtMzYwNjkxMjQsNTI1NT
+g3MjczXX0=
 -->
