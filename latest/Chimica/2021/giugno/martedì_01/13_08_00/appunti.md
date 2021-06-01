@@ -1,9 +1,11 @@
 
 
 
-# Lezione di Italiano (5° ora)
+# Lezione di Chimica (6° ora)
 
-## martedì 01 giugno 2021, 12:13:00
+## martedì 01 giugno 2021, 13:08:00
+
+Interrogazione di Francesco Bonino
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMwNDQ3NDJdfQ==
+eyJoaXN0b3J5IjpbLTIwNzA5Nzk0MzFdfQ==
 -->
