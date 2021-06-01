@@ -14,8 +14,10 @@ Controversia con *Sismondi*, svizzero che era entrato in polemica con Manzoni ri
 
 Volgo senza nome che attende da liberatori stranieri quello che dovrebbe fare da sé
 
+Ripudio di Ermengarda
 
+Carlo Magno fa restituire terre dei longobardi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTY0MDY0MSw5MzIyMTU2MTgsMTQ2Nz
-gwNjYwNF19
+eyJoaXN0b3J5IjpbMjA1MTQ5OTMwNSwtMjg1NjQwNjQxLDkzMj
+IxNTYxOCwxNDY3ODA2NjA0XX0=
 -->
