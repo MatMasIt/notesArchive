@@ -55,8 +55,21 @@ $$
 
 $$
 309)\\
-f(x)=\ln(x^4-
+f(x)=\ln(x^4-x^2-1)\\
+f^{'}(x)=\frac{1}{x^4-x^2-1}(4x^3-2x)=\frac{4x^3-2x}{x^4-x^2-1}
+$$
+
+---
+
+$$
+320)\\
+f(x)=\tan^2(3x+1)
+$$
+
+Ci sono tre cose
+
+$f(x)=\boxed{\tan}^{\boxed{2}}(3x+1)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDI1MjY3LC0zNjA2OTEyNCw1MjU1OD
-cyNzNdfQ==
+eyJoaXN0b3J5IjpbLTEwMDgwMDM5NDEsLTM2MDY5MTI0LDUyNT
+U4NzI3M119
 -->
