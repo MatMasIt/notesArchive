@@ -23,11 +23,15 @@
 * Addizione algebrica
  $D[f(x)\pm g(x)]=D(f(x))\pm D(g(x))$
  * Derivata di prodotto con costante
- $D
+ $D[c f(x)]=c\cdot D(f(x))$
 * Derivata di un prodotto
 $D[f(x)\cdot g(x)]=D(f(x))g(x)+f(x)D(g(x))$ 
 * Derivata di un quoziente
 $D(\frac{f(x)}{g(x)})=\frac{D(f(x))g(x)-f(x)D(g(x))}{[g(x)]^2}$
+* Derivata di $\frac{1}{f(x)}$
+$D[\frac{1}{f(x)}=D[f(x)]^-1=-\frac{1}{[f(x)]^2}$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDM3MzQxMCw1MjU1ODcyNzNdfQ==
+eyJoaXN0b3J5IjpbLTExNDU3MDkzOCw1MjU1ODcyNzNdfQ==
 -->
