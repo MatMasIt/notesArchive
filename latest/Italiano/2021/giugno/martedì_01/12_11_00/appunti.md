@@ -36,10 +36,16 @@ Ferro: armature della cavalleria pesante
 
 La voce autorale riflette sulla condizione dei franchi
 
+### T.6
+
 Eredi della stirpe che patiscono lo spregio
 
-non c'è la virtù c
+non c'è la virtù che c'è più
+
+
+doppia antitesi
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjU3MzE4OSwyMDUxNDk5MzA1LC0yOD
-U2NDA2NDEsOTMyMjE1NjE4LDE0Njc4MDY2MDRdfQ==
+eyJoaXN0b3J5IjpbNDU2Mjg0OTM1LDIwNTE0OTkzMDUsLTI4NT
+Y0MDY0MSw5MzIyMTU2MTgsMTQ2NzgwNjYwNF19
 -->
