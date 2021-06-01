@@ -23,8 +23,13 @@ Anfrido, amico
 Sorella Hansberga
 
 > Riassunto degli atti sul libro
-T
+
+
+Tema del male, della sofferenza che si diffonde nella storia e tra gli uomini
+Male dall'uomo agli uomini
+
+Auspicio per la coscienza della nazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTc4ODE1NSwyMDUxNDk5MzA1LC0yOD
+eyJoaXN0b3J5IjpbLTUzMTc1MzI4NCwyMDUxNDk5MzA1LC0yOD
 U2NDA2NDEsOTMyMjE1NjE4LDE0Njc4MDY2MDRdfQ==
 -->
