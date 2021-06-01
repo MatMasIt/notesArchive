@@ -31,7 +31,11 @@ Male dall'uomo agli uomini
 Auspicio per la coscienza della nazione
 
 Auspicio senza prendere parte, essere colpevoli della condizione di sudditanza
+
+Ferro: armature della cavalleria pesante
+
+La voce autorale riflette su
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzMjkwNDkxLDIwNTE0OTkzMDUsLTI4NT
-Y0MDY0MSw5MzIyMTU2MTgsMTQ2NzgwNjYwNF19
+eyJoaXN0b3J5IjpbLTIwOTEyMzI0NDYsMjA1MTQ5OTMwNSwtMj
+g1NjQwNjQxLDkzMjIxNTYxOCwxNDY3ODA2NjA0XX0=
 -->
