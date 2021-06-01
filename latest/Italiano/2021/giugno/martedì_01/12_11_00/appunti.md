@@ -35,7 +35,11 @@ Auspicio senza prendere parte, essere colpevoli della condizione di sudditanza
 Ferro: armature della cavalleria pesante
 
 La voce autorale riflette sulla condizione dei franchi
+
+Eredi della stirpe che patiscono lo spregio
+
+non c'è la virtù c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njc3NjMyMzIsMjA1MTQ5OTMwNSwtMj
-g1NjQwNjQxLDkzMjIxNTYxOCwxNDY3ODA2NjA0XX0=
+eyJoaXN0b3J5IjpbMTMzNjU3MzE4OSwyMDUxNDk5MzA1LC0yOD
+U2NDA2NDEsOTMyMjE1NjE4LDE0Njc4MDY2MDRdfQ==
 -->
