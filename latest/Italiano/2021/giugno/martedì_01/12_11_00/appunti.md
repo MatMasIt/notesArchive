@@ -11,6 +11,11 @@ Aderisce ai principi romantici di August Von Schlegel, autore di *letteratura dr
 Augustin Thierry, indaga il ruolo delle masse nella evoluzione diacronica dei fatti
 
 Controversia con *Sismondi*, svizzero che era entrato in polemica con Manzoni riguardo alle sue *Osservazioni sulla morale cattolica* e riteneva la Chiesa come colpevole di aver impedito unificazione italiana
+
+Volgo senza nome che attende da liberatori stranieri quello che dovrebbe fare da sé
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyMjE1NjE4LDE0Njc4MDY2MDRdfQ==
+eyJoaXN0b3J5IjpbLTI4NTY0MDY0MSw5MzIyMTU2MTgsMTQ2Nz
+gwNjYwNF19
 -->
