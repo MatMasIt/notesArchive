@@ -40,8 +40,23 @@ $\frac{dt^n}{\cancel{dt}}\cdot\frac{\cancel{dt}}{dx}=\frac{d(t^n)}{dx}$
 $$
 305)\\
 f(x)=\frac{1}{(5x-4)^2}=(5x-4)^{-2}\\
-F^{'}(x)=-2(5x-4)^{-3}\cdot 5=\frac{-10}{(5x-4)^3}=\frac{10}{(5x-4)^3}$$
+f^{'}(x)=-2(5x-4)^{-3}\cdot 5=\frac{-10}{(5x-4)^3}=-\frac{10}{(5x-4)^3}$$
+
+---
+
+$$
+307)\\
+f(x)=(2x^2-1)(x+5)\\
+f^{'}(x)=4x(x+5)+(2x^2-1)=4x^2+20x+2x^2-1=
+6x^2+19
+$$
+
+---
+
+$$
+309)\\
+f(x)=\ln(x^4-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODE2Njg4NiwtMzYwNjkxMjQsNTI1NT
-g3MjczXX0=
+eyJoaXN0b3J5IjpbLTYxMDI1MjY3LC0zNjA2OTEyNCw1MjU1OD
+cyNzNdfQ==
 -->
