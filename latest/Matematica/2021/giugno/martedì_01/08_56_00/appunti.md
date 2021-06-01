@@ -73,7 +73,15 @@ $f(x)=\boxed{\tan}^{\boxed{2}}(\boxed{3x+1})$
 Quindi
 
 $f^{'}(x)=\frac{d\tan^2(2x+1)}{dx}=\frac{dy^2}{dx}=\frac{dy^2}{dy}\frac{dy}{dx}=\\2y\cdot\frac{d\tan(2x+1)}{dx}$
+
+
+$f^{'}(x)=2\tan(2x+1)\cdot\frac{1}{\cos^2(2x+1)}\cdot 2$
+
+
+$$
+\boxed
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDI0NzU0NiwtMzYwNjkxMjQsNTI1NT
-g3MjczXX0=
+eyJoaXN0b3J5IjpbLTE5OTI4MzIyNDYsMTUyMDI0NzU0NiwtMz
+YwNjkxMjQsNTI1NTg3MjczXX0=
 -->
