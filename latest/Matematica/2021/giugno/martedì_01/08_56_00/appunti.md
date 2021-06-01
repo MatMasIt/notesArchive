@@ -68,8 +68,12 @@ $$
 
 Ci sono tre cose
 
-$f(x)=\boxed{\tan}^{\boxed{2}}(3x+1)$
+$f(x)=\boxed{\tan}^{\boxed{2}}(\boxed{3x+1})$
+
+Quindi
+
+$f^{'}(x)=\frac{d\tan^2(2x+1)}{dx}=\frac{dy^2}{dx}=\frac{dy^2}{dy}\frac{dy}{dx}=\\2y\cdot$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgwMDM5NDEsLTM2MDY5MTI0LDUyNT
+eyJoaXN0b3J5IjpbLTEwMTk4MDA0NjYsLTM2MDY5MTI0LDUyNT
 U4NzI3M119
 -->
