@@ -30,8 +30,9 @@ $D[f(x)\cdot g(x)]=D(f(x))g(x)+f(x)D(g(x))$
 $D(\frac{f(x)}{g(x)})=\frac{D(f(x))g(x)-f(x)D(g(x))}{[g(x)]^2}$
 * Derivata di $\frac{1}{f(x)}$
 $D[\frac{1}{f(x)}=D[f(x)]^-1=-\frac{1}{[f(x)]^2}$
-
-
+* $D[f(x)]^n$:
+$t=f(x)\implies D(t^n)$
+$\frac{dt^n}{dt}\cdot\frac{dt}{dx$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDU3MDkzOCw1MjU1ODcyNzNdfQ==
+eyJoaXN0b3J5IjpbLTY0OTQ3OTQwLDUyNTU4NzI3M119
 -->
