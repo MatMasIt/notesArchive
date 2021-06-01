@@ -19,7 +19,12 @@ Ripudio di Ermengarda
 Carlo Magno fa restituire terre dei longobardi
 
 Anfrido, amico
+
+Sorella Hansberga
+
+> Riassunto degli atti sul libro
+T
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxNzQ4Nzc5LDIwNTE0OTkzMDUsLTI4NT
-Y0MDY0MSw5MzIyMTU2MTgsMTQ2NzgwNjYwNF19
+eyJoaXN0b3J5IjpbMTI2MTc4ODE1NSwyMDUxNDk5MzA1LC0yOD
+U2NDA2NDEsOTMyMjE1NjE4LDE0Njc4MDY2MDRdfQ==
 -->
