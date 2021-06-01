@@ -37,7 +37,11 @@ $\frac{dt^n}{\cancel{dt}}\cdot\frac{\cancel{dt}}{dx}=\frac{d(t^n)}{dx}$
 
 ---
 
+$$
+305)\\
+f(x)=\frac{1}{(5x-4)^2}=(5x-4)^{-2}\\
+F^{'}(x)=-2(5x-4)^{-3}\cdot 5=\frac{-10}{(5x-4)^3}=\frac{10}{(5x-4)^3}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mzk4NTY3OSwtMzYwNjkxMjQsNTI1NT
+eyJoaXN0b3J5IjpbLTkxODE2Njg4NiwtMzYwNjkxMjQsNTI1NT
 g3MjczXX0=
 -->
