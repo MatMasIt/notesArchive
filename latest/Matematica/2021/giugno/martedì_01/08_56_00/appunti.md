@@ -1,6 +1,6 @@
 # Lezione di Matematica (2° ora)
 
-## giovedì 01 giugno 2021, 08:56:00
+## martedì 01 giugno 2021, 08:56:00
 
 ### Ripasso sulle derivate
 
@@ -87,6 +87,6 @@ Pag. 46 es 318, 219,
 }
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDA3ODQ0MiwxNTIwMjQ3NTQ2LC0zNj
-A2OTEyNCw1MjU1ODcyNzNdfQ==
+eyJoaXN0b3J5IjpbNjIyNzI1NDc1LC0yMzAwNzg0NDIsMTUyMD
+I0NzU0NiwtMzYwNjkxMjQsNTI1NTg3MjczXX0=
 -->
