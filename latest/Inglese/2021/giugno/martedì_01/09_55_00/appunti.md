@@ -7,9 +7,9 @@
 Workers moved from the rural south to the north of england.
 The so-called "mushrooms towns" sprang up very rapidly around the factories.
 The negative consequences od the industrial development where visible in these cities; pollution, overcrowding, lack of hygene, poverty, criminality, and a high  mortality rate.
-2. The main concepts of the english romanticism are: subjectivity, immagination and emotion.
-The poet 
+2. The main concepts of the english romanticism are: subjectivity, imagination and emotion.
+The poet is equipped with the gift of imagination, which allows him to recreate with poetry an emotion that he previously felt while in contact with nature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Njg3MTY0OSw4NjM0MDE5NTYsNTMzMT
-E0ODcyLC0xNDYwMDc0MDU2XX0=
+eyJoaXN0b3J5IjpbNzc2NzU0MDM3LDg2MzQwMTk1Niw1MzMxMT
+Q4NzIsLTE0NjAwNzQwNTZdfQ==
 -->
