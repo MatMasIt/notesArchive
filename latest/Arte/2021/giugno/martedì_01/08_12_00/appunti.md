@@ -36,7 +36,9 @@ Canova cercherà di fare ritratti solo e soltanto di personaggi celeberrimi (ci 
 Venere Italica di palazzo Pitti
 
 
-Apollo del belvedere e il 
+Apollo del belvedere
+
+dipinti pompeian
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxNTIzMjQ1LDkzNzk4NzQ1XX0=
+eyJoaXN0b3J5IjpbOTU4NDk3NDY5LDkzNzk4NzQ1XX0=
 -->
