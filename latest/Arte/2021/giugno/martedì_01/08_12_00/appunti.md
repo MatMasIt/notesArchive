@@ -21,7 +21,13 @@ Ha l'opportunità di vedere marmi antichi
 Per un Senatore
 
 
-Preoccupazione di Dedalo per Icaro
+Preoccupazione di Dedalo per Icaro   -   Preoccupazione del nonno per Canova
+
+Scalpelli alla base della statua
+
+Canova cercherà di fare ritratti solo e soltanto di personaggi celeberrimi
+
+* madre di napoleone bonaparte (ispira
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjU4NTk5MDhdfQ==
+eyJoaXN0b3J5IjpbMTAxODA3MzQ4OF19
 -->
