@@ -38,7 +38,7 @@ Venere Italica di palazzo Pitti
 
 Apollo del belvedere
 
-dipinti pompeian
+dipinti pompeiani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4NDk3NDY5LDkzNzk4NzQ1XX0=
+eyJoaXN0b3J5IjpbLTY3MTYyNzY2Niw5Mzc5ODc0NV19
 -->
