@@ -1,7 +1,7 @@
 
 # Lezione di Inglese (3° ora)
 
-## martedì 01 giugno 2021, 009:56:00
+## martedì 01 giugno 2021, 09:56:00
 
 1) When the steam engine was introduced in the factories, the English Industrial revolution began.
 Workers moved from the rural south to the north of england.
@@ -13,6 +13,7 @@ The poet is endowed with the gift of imagination, which allows him to recreate w
 5) During the Romantic age, the theory of the sublime theorized by Edmund Burke was born.
 He claimed that sublime, unlike beauty, is cause of admiration and fear at teh same time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzE4NzI3NiwtODE5MzMyNzAyLDg2Mz
-QwMTk1Niw1MzMxMTQ4NzIsLTE0NjAwNzQwNTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NjQ3MzcwOTgsMTgzMzE4NzI3NiwtOD
+E5MzMyNzAyLDg2MzQwMTk1Niw1MzMxMTQ4NzIsLTE0NjAwNzQw
+NTZdfQ==
 -->
