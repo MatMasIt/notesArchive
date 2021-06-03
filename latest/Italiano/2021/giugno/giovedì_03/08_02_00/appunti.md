@@ -120,7 +120,9 @@ Parallelismo
 sono venuti per aggiogarvi a nuova dominazione
 
 
+Chiasmo sintattico: accordo politico tra vinti e vincitori
 
+Servitù ineluttabile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTU3NzY5MV19
+eyJoaXN0b3J5IjpbMTIyMTA0NDgxMF19
 -->
