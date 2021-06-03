@@ -198,15 +198,20 @@ Sentire che deriva da sensazione della natura
 due romanticismi
 
 
-Circolo di  **Jena**, *Athenaum*, per due anni
+Circolo di  **Jena**, *Athenaum*, per due anni (1789-1800)
 
 * Von Schiegel Frierich & August
 * Novalis
 * Johann tieck
 
-Secondo, gruppo di **He
+Secondo, gruppo di **Heidelberg e Berlino** (1800-1815)
+* Brentano
+* von Chamisso
+* Hoffmann
+
+Nazionalistico e reazionario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDU4ODk1MCwtMTU1NjQ1OTgxLC0xND
-A3ODkxNjUsMTgzMTQ5MTAwNSwxMzA1MzgxNzc1LDIwNjA4MzEy
-MywxNzk1MDAxNzI0XX0=
+eyJoaXN0b3J5IjpbNjMwMTg5ODc5LC0xNTU2NDU5ODEsLTE0MD
+c4OTE2NSwxODMxNDkxMDA1LDEzMDUzODE3NzUsMjA2MDgzMTIz
+LDE3OTUwMDE3MjRdfQ==
 -->
