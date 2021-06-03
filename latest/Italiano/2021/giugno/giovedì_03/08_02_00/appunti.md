@@ -177,7 +177,10 @@ p.621, sintesi
 Condizione felice del poeta classico
 
 pesia ingenua <u>vs</u> poesia sentimentale
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc4OTE2NSwxODMxNDkxMDA1LDEzMD
-UzODE3NzUsMjA2MDgzMTIzLDE3OTUwMDE3MjRdfQ==
+eyJoaXN0b3J5IjpbMTg5MzgzNTE4MywtMTQwNzg5MTY1LDE4Mz
+E0OTEwMDUsMTMwNTM4MTc3NSwyMDYwODMxMjMsMTc5NTAwMTcy
+NF19
 -->
