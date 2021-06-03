@@ -124,7 +124,7 @@ Chiasmo sintattico: accordo politico tra vinti e vincitori
 
 Servitù ineluttabile
 
-C'è un inter
+C'è un interesse da parte di Manzoni per l'alto medioevo e per una Europa di popoli che cercano una loro identità nazionale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODA4NzA5M119
+eyJoaXN0b3J5IjpbMjEwNzYxNjUyMF19
 -->
