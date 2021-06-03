@@ -192,9 +192,21 @@ Forme di spazio e tempo, alle quali si adeguano la fisica Newtoniana e l'artitme
 Allievi di Kant sul versante filosofico renderanno possibile attraverso l'idealsimo il meccanismo dello spirito assoluto che si autorealizza
 
 
-Sentire 
+Sentire che deriva da sensazione della natura
+
+
+due romanticismi
+
+
+Circolo di  **Jena**, *Athenaum*, per due anni
+
+* Von Schiegel Frierich & August
+* Novalis
+* Johann tieck
+
+Secondo, gruppo di **He
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5NTY1ODkxLC0xNTU2NDU5ODEsLTE0MD
-c4OTE2NSwxODMxNDkxMDA1LDEzMDUzODE3NzUsMjA2MDgzMTIz
-LDE3OTUwMDE3MjRdfQ==
+eyJoaXN0b3J5IjpbMjA4NDU4ODk1MCwtMTU1NjQ1OTgxLC0xND
+A3ODkxNjUsMTgzMTQ5MTAwNSwxMzA1MzgxNzc1LDIwNjA4MzEy
+MywxNzk1MDAxNzI0XX0=
 -->
