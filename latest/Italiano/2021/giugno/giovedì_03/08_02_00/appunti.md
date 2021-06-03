@@ -12,6 +12,11 @@ Forti: ipallage
 
 
 Parallelismo
+
+"Udite!" Apostrofe
+
+
+sono venuti per aggiogarvi a nuova dominazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzY3ODE4OF19
+eyJoaXN0b3J5IjpbMTMyNzU3NzY0OV19
 -->
