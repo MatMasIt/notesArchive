@@ -148,7 +148,9 @@ si creano realismo, simbolismo, positivismo
 Nuova sensibilità. che incide sulle pratiche artistiche
 
 
-Egemonia culturale della franci
+Egemonia culturale della Francia illuministica
+
+Opposizione modelli epici classici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4NTczNDczLDE3OTUwMDE3MjRdfQ==
+eyJoaXN0b3J5IjpbLTE1MDQ5MzYzMjEsMTc5NTAwMTcyNF19
 -->
