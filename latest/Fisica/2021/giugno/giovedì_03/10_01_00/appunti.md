@@ -11,7 +11,7 @@
 |---|---|
 |Gravitazionale<br/>$F_{g}$|$\vec{H}=\frac{\vec{F_{g}}}{m}$<br />$\vec{g}=\frac{\vec{F_{grav.Terrestre}}}{m}=\text{G}\cdot\frac{M_{T}}{r_{T}^2}=9,8\frac{m}{s^2}$|
 |Elettrica<br />$F_{e}$|$\vec{E}=\frac{\vec{F_{e}}}{q}=k\frac{Q\cancel{q}}{\vec{r}^2}\cdot\frac{I}{\cancel{1}}$|
-|Magnetica<br />$F_{m}$|
+|Magnetica<br />$F_{m}$|$\vec{B}=\frac{\mu_{0}}{2\pi}\cdo$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ1MjI1ODNdfQ==
+eyJoaXN0b3J5IjpbLTgwMDkwNDY0Ml19
 -->
