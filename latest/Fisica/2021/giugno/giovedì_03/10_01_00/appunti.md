@@ -1,6 +1,6 @@
 
 
-# Lezione di Matematica (3° ora)
+# Lezione di Fisica (3° ora)
 
 ## giovedì 03 giugno 2021, 10:00:00
 
@@ -31,5 +31,6 @@ Condensatori
 Due lastre di cariche 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzNTM5ODg4LDI3MjQyMDIwMF19
+eyJoaXN0b3J5IjpbLTE1MTI1MzM1NjMsNjgzNTM5ODg4LDI3Mj
+QyMDIwMF19
 -->
