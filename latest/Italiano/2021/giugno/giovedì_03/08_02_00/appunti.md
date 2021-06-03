@@ -214,8 +214,12 @@ Nazionalistico e reazionario
 
 p.622 in alto
 
+
+Fare poesia, che va oltre la realtà del fen omeno sensibile e percepibile
+
+Capacità di andare oltre, realtà extra-fenomenica, ultrarealtà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM2ODMzNTIsMzk1NzU5Mjg0LDEwNj
+eyJoaXN0b3J5IjpbLTE2MTk5NTU2OTUsMzk1NzU5Mjg0LDEwNj
 k0OTgzOTAsLTE3NTU0MDUyNTQsLTE1NTY0NTk4MSwtMTQwNzg5
 MTY1LDE4MzE0OTEwMDUsMTMwNTM4MTc3NSwyMDYwODMxMjMsMT
 c5NTAwMTcyNF19
