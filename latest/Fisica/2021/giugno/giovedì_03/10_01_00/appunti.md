@@ -26,6 +26,7 @@ $H\implies costanti$
 $E\implies costanti$
 
 
+Condensatori
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyNDIwMjAwXX0=
+eyJoaXN0b3J5IjpbLTY4NDY2OTk0MSwyNzI0MjAyMDBdfQ==
 -->
