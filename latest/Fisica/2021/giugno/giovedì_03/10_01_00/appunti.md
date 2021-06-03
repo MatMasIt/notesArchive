@@ -16,6 +16,9 @@
 
 Il $Campo\,magnetico$ è sempre tangente alla linea di campo
 
+## Nuovo argomento: Il $potenziale$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzODE4MTg5XX0=
+eyJoaXN0b3J5IjpbMTc2ODIyOTE4OF19
 -->
