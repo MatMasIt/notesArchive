@@ -29,6 +29,7 @@ $E\implies costanti$
 Condensatori
 
 Due lastre di cariche 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDE1ODIxMCwyNzI0MjAyMDBdfQ==
+eyJoaXN0b3J5IjpbNjgzNTM5ODg4LDI3MjQyMDIwMF19
 -->
