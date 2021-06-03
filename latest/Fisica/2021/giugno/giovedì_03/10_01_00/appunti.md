@@ -19,7 +19,13 @@ Il $Campo\,magnetico$ è sempre tangente alla linea di campo
 ## Nuovo argomento: Il $potenziale$
 
 
-### Campi uniformi (Gravitazionale- el
+### Campi uniformi (Gravitazionale - Elettrico)
+
+$H\implies costanti$
+
+$E\implies costanti$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDYwOTkzNl19
+eyJoaXN0b3J5IjpbMjcyNDIwMjAwXX0=
 -->
