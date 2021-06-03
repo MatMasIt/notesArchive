@@ -188,8 +188,11 @@ legge morale dentro di noi, leggi della natura
 
 Forme di spazio e tempo, alle quali si adeguano la fisica Newtoniana e l'artitmetica euclidea
 
+
+Allievi di Kant sul versante filosofico renderanno possibile attraverso l'idealsimo il meccanismo dello spirito assoluto che si autorealizza
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDg5OTYwOSwtMTQwNzg5MTY1LDE4Mz
+eyJoaXN0b3J5IjpbLTE1NTY0NTk4MSwtMTQwNzg5MTY1LDE4Mz
 E0OTEwMDUsMTMwNTM4MTc3NSwyMDYwODMxMjMsMTc5NTAwMTcy
 NF19
 -->
