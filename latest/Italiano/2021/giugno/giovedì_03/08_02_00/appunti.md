@@ -172,8 +172,12 @@ Johann Herder: valore di un'opera d'arte deriva dalla sua spontaneità espressiv
 Rivalutazione arte gotica tedesca, creazione autonoma
 
 
-\
+p.621, sintesi
+
+Condizione felice del poeta classico
+
+pesia ingenua <u>vs</u> poesia sentimentale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTQ5MTAwNSwxMzA1MzgxNzc1LDIwNj
-A4MzEyMywxNzk1MDAxNzI0XX0=
+eyJoaXN0b3J5IjpbLTE0MDc4OTE2NSwxODMxNDkxMDA1LDEzMD
+UzODE3NzUsMjA2MDgzMTIzLDE3OTUwMDE3MjRdfQ==
 -->
