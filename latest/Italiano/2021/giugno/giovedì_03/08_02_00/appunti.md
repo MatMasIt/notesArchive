@@ -179,8 +179,11 @@ Condizione felice del poeta classico
 pesia ingenua <u>vs</u> poesia sentimentale
 
 
+Kant $\implies$ epigoni, Idealismo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzgzNTE4MywtMTQwNzg5MTY1LDE4Mz
+eyJoaXN0b3J5IjpbMjAyMjcyNDc4OCwtMTQwNzg5MTY1LDE4Mz
 E0OTEwMDUsMTMwNTM4MTc3NSwyMDYwODMxMjMsMTc5NTAwMTcy
 NF19
 -->
