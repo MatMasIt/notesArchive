@@ -147,6 +147,8 @@ si creano realismo, simbolismo, positivismo
 
 Nuova sensibilità. che incide sulle pratiche artistiche
 
+
+Egemonia culturale della franci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTAwMTcyNF19
+eyJoaXN0b3J5IjpbNjE4NTczNDczLDE3OTUwMDE3MjRdfQ==
 -->
