@@ -210,8 +210,11 @@ Secondo, gruppo di **Heidelberg e Berlino** (1800-1815)
 * Hoffmann
 
 Nazionalistico e reazionario
+
+
+p.622 in alto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwMTg5ODc5LC0xNTU2NDU5ODEsLTE0MD
-c4OTE2NSwxODMxNDkxMDA1LDEzMDUzODE3NzUsMjA2MDgzMTIz
-LDE3OTUwMDE3MjRdfQ==
+eyJoaXN0b3J5IjpbLTE3NTU0MDUyNTQsLTE1NTY0NTk4MSwtMT
+QwNzg5MTY1LDE4MzE0OTEwMDUsMTMwNTM4MTc3NSwyMDYwODMx
+MjMsMTc5NTAwMTcyNF19
 -->
