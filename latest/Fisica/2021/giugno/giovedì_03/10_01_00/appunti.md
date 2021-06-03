@@ -1,8 +1,8 @@
 
 
-# Lezione di Italiano (1° ora)
+# Lezione di Matematica (3° ora)
 
-## giovedì 03 giugno 2021, 08:02:00
+## giovedì 03 giugno 2021, 10:00:00
 
 
 
@@ -10,8 +10,8 @@
 |Forza|Campo|
 |---|---|
 |Gravitazionale<br/>$F_{g}$|$\vec{H}=\frac{\vec{F_{g}}}{m}$<br />$\vec{g}=\frac{\vec{F_{grav.Terrestre}}}{m}=\text{G}\cdot\frac{M_{T}}{r_{T}^2}=9,8\frac{m}{s^2}$|
-|Elettrica<br />$F_{e}$||
+|Elettrica<br />$F_{e}$|$\vec{E}=\frac{\vec{F_{e}}}{q}=k\frac{Q\cancel{q}}{\vec{r}^2}\cdot\frac{I}{\cancel{1}}$|
 |Magnetica<br />$F_{m}$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0OTg1NTQyXX0=
+eyJoaXN0b3J5IjpbLTE4NTQ1MjI1ODNdfQ==
 -->
