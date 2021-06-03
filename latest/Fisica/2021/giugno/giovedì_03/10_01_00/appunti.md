@@ -9,9 +9,9 @@
 
 |Forza|Campo|
 |---|---|
-|Gravitazionale<br/>$F_{g}$|$\vec{H}=\frac{\|
+|Gravitazionale<br/>$F_{g}$|$\vec{H}=\frac{\vec{F_{g}}}{m}$<br />$\vec{g}=\frac{\vec{F_{grav.Terrestre}}}{m}$|
 |Elettrica<br />$F_{e}$||
 |Magnetica<br />$F_{m}$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTIzNTU1MDddfQ==
+eyJoaXN0b3J5IjpbMTk5MzY4NTgwMF19
 -->
