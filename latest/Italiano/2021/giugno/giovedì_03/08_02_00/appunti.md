@@ -164,10 +164,12 @@ In Germania questo tipo di teorizzazione
 *Sturm und Drang*: tempesta ed assalto
 
 
-Jhohann Goethe
+Johann Goethe, Friedrich Schiller, *Sulla poeisa ingenua e sentimentale*
 
 
-Johann Herder: valore di un'opera d'arte deriva dalla sua sponta
+Johann Herder: valore di un'opera d'arte deriva dalla sua spontaneità espressiva, saper esprimere lo *spirito di un popolo* (Volkgeist)
+
+Rivalutazione arte gotica tedesca, creazione autonoma
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTEwMDU5NCwxNzk1MDAxNzI0XX0=
+eyJoaXN0b3J5IjpbMjA2MDgzMTIzLDE3OTUwMDE3MjRdfQ==
 -->
