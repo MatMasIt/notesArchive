@@ -159,6 +159,15 @@ Genio artistico di tutti gli uomini, che consente di produrre in maniera istinti
 
 
 In Germania questo tipo di teorizzazione 
+
+
+*Sturm und Drang*: tempesta ed assalto
+
+
+Jhohann Goethe
+
+
+Johann Herder: valore di un'opera d'arte deriva dalla sua sponta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5NjU1MjA0LDE3OTUwMDE3MjRdfQ==
+eyJoaXN0b3J5IjpbMTY2NTEwMDU5NCwxNzk1MDAxNzI0XX0=
 -->
