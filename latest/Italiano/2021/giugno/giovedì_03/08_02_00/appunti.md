@@ -151,6 +151,14 @@ Nuova sensibilità. che incide sulle pratiche artistiche
 Egemonia culturale della Francia illuministica
 
 Opposizione modelli epici classici
+
+
+Poesia: fare, creare
+
+Genio artistico di tutti gli uomini, che consente di produrre in maniera istintiva, naturale
+
+
+In Germania questo tipo di teorizzazione 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ5MzYzMjEsMTc5NTAwMTcyNF19
+eyJoaXN0b3J5IjpbNzE5NjU1MjA0LDE3OTUwMDE3MjRdfQ==
 -->
