@@ -141,7 +141,12 @@ Johann Herder
 
 
 a metà del secolo di creerà una spaccatura
-si creano 
+si creano realismo, simbolismo, positivismo
+
+
+
+Nuova sensibilità. che incide sulle pratiche artistiche
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzNDA3NDg0XX0=
+eyJoaXN0b3J5IjpbMTc5NTAwMTcyNF19
 -->
