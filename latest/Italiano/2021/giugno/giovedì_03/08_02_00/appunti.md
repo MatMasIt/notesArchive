@@ -191,8 +191,10 @@ Forme di spazio e tempo, alle quali si adeguano la fisica Newtoniana e l'artitme
 
 Allievi di Kant sul versante filosofico renderanno possibile attraverso l'idealsimo il meccanismo dello spirito assoluto che si autorealizza
 
+
+Sentire 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY0NTk4MSwtMTQwNzg5MTY1LDE4Mz
-E0OTEwMDUsMTMwNTM4MTc3NSwyMDYwODMxMjMsMTc5NTAwMTcy
-NF19
+eyJoaXN0b3J5IjpbNjA5NTY1ODkxLC0xNTU2NDU5ODEsLTE0MD
+c4OTE2NSwxODMxNDkxMDA1LDEzMDUzODE3NzUsMjA2MDgzMTIz
+LDE3OTUwMDE3MjRdfQ==
 -->
