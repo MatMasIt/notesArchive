@@ -129,6 +129,19 @@ C'è un interesse da parte di Manzoni per l'alto medioevo e per una Europa di po
 ---
 
 
+## Il Romanticismo in Europa
+
+
+Fondamenti:
+1. Ideologici
+2. Filosofici
+3. Sociologici-politici
+
+Johann Herder
+
+
+a metà del secolo di creerà una spaccatura
+si creano 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTczNzA1MjldfQ==
+eyJoaXN0b3J5IjpbNDMzNDA3NDg0XX0=
 -->
