@@ -170,6 +170,9 @@ Johann Goethe, Friedrich Schiller, *Sulla poeisa ingenua e sentimentale*
 Johann Herder: valore di un'opera d'arte deriva dalla sua spontaneità espressiva, saper esprimere lo *spirito di un popolo* (Volkgeist)
 
 Rivalutazione arte gotica tedesca, creazione autonoma
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDgzMTIzLDE3OTUwMDE3MjRdfQ==
+eyJoaXN0b3J5IjpbMTMwNTM4MTc3NSwyMDYwODMxMjMsMTc5NT
+AwMTcyNF19
 -->
