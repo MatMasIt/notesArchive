@@ -181,9 +181,15 @@ pesia ingenua <u>vs</u> poesia sentimentale
 
 Kant $\implies$ epigoni, Idealismo
 
+Kant aveva pubblicato le sue critiche 
+3 principi
+
+legge morale dentro di noi, leggi della natura
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjcyNDc4OCwtMTQwNzg5MTY1LDE4Mz
-E0OTEwMDUsMTMwNTM4MTc3NSwyMDYwODMxMjMsMTc5NTAwMTcy
-NF19
+eyJoaXN0b3J5IjpbNTUwODQ3NDI0LC0xNDA3ODkxNjUsMTgzMT
+Q5MTAwNSwxMzA1MzgxNzc1LDIwNjA4MzEyMywxNzk1MDAxNzI0
+XX0=
 -->
