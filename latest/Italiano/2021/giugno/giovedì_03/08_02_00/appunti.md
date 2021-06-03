@@ -172,7 +172,8 @@ Johann Herder: valore di un'opera d'arte deriva dalla sua spontaneità espressiv
 Rivalutazione arte gotica tedesca, creazione autonoma
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTM4MTc3NSwyMDYwODMxMjMsMTc5NT
-AwMTcyNF19
+eyJoaXN0b3J5IjpbLTE5MTk5NDYyNDMsMTMwNTM4MTc3NSwyMD
+YwODMxMjMsMTc5NTAwMTcyNF19
 -->
