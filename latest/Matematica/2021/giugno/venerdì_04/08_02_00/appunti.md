@@ -15,9 +15,11 @@ scansione della vita che seguiva gli orari degli opifici
 "Il tempo è denaro"
 
 
-Nasce il comncetto di "adolescenza"
+Nasce il concetto di "adolescenza"
+
+Anticapitalismo romantico
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0MTg4NDc3LDY2MTA1MzQ5NSwtMTI0NT
-k3MTg5OF19
+eyJoaXN0b3J5IjpbLTE3OTU4MzkzNjYsNjYxMDUzNDk1LC0xMj
+Q1OTcxODk4XX0=
 -->
