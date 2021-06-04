@@ -25,7 +25,10 @@ Artista: senso di separatezza, estraneità
 Senso di vuoto
 
 Milano & Firenze
+
+La Biblioteca Italiana
+"Il conciliatore": "Foglio scientifico-Letterario"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2MDE4NTEsOTUyNzE3MjEwLC0xNzk1OD
-M5MzY2LDY2MTA1MzQ5NSwtMTI0NTk3MTg5OF19
+eyJoaXN0b3J5IjpbMTgzODQwMDMwNiw5NTI3MTcyMTAsLTE3OT
+U4MzkzNjYsNjYxMDUzNDk1LC0xMjQ1OTcxODk4XX0=
 -->
