@@ -7,6 +7,9 @@
 Thomas Carl Yle:
 > Se ci chiedessero di definire con una parola questa età, "meccanica"
 > *Gli uomini sono diventati dei meccanismi, di tesa come di cuore*
+
+Jean Jacque Rousseau: differenza tra uomo in stato naturale e artificiale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjkyMjE3OCwtMTI0NTk3MTg5OF19
+eyJoaXN0b3J5IjpbLTIwNTI2NDE0NTksLTEyNDU5NzE4OThdfQ
+==
 -->
