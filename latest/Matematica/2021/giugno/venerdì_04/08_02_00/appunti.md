@@ -23,7 +23,9 @@ Anticapitalismo romantico
 Artista: senso di separatezza, estraneità
 
 Senso di vuoto
+
+Milano & Firenze
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyNzE3MjEwLC0xNzk1ODM5MzY2LDY2MT
-A1MzQ5NSwtMTI0NTk3MTg5OF19
+eyJoaXN0b3J5IjpbODk2MDE4NTEsOTUyNzE3MjEwLC0xNzk1OD
+M5MzY2LDY2MTA1MzQ5NSwtMTI0NTk3MTg5OF19
 -->
