@@ -3,7 +3,8 @@
 
 ## venerdì 04 giugno 2021, 09:56:00
 
-The reign of queen Victoria las
+The reign of queen Victoria lasted from 1837 to 1901.
+This was the Victorian period after the name of the queen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTQxNTE1Ml19
+eyJoaXN0b3J5IjpbMTEzMzg4OTA0Ml19
 -->
