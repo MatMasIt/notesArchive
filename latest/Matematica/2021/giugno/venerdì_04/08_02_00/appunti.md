@@ -28,7 +28,17 @@ Milano & Firenze
 
 La Biblioteca Italiana
 "Il conciliatore": "Foglio scientifico-Letterario"
+
+T 12 Ludovico di Breme
+
+
+
+Lettera semiseria
+
+
+p.656 (amico di Manzoni) Hermes Visconti, Idee elementari sulla poesia romantica, manifesto italico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODQwMDMwNiw5NTI3MTcyMTAsLTE3OT
-U4MzkzNjYsNjYxMDUzNDk1LC0xMjQ1OTcxODk4XX0=
+eyJoaXN0b3J5IjpbMTgyOTg2NTA5NCwxODM4NDAwMzA2LDk1Mj
+cxNzIxMCwtMTc5NTgzOTM2Niw2NjEwNTM0OTUsLTEyNDU5NzE4
+OThdfQ==
 -->
