@@ -5,6 +5,8 @@
 
 The reign of queen Victoria lasted from 1837 to 1901.
 This was the Victorian period after the name of the queen.
+It was an era of hypocriy and  contradictions.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzg4OTA0Ml19
+eyJoaXN0b3J5IjpbLTMxNDAwODA5OF19
 -->
