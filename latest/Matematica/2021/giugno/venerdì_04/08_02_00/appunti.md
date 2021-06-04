@@ -14,7 +14,10 @@ scansione della vita che seguiva gli orari degli opifici
 
 "Il tempo è denaro"
 
+
+Nasce il comncetto di "adolescenza"
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwMTY0ODAwLDY2MTA1MzQ5NSwtMTI0NT
+eyJoaXN0b3J5IjpbNzE0MTg4NDc3LDY2MTA1MzQ5NSwtMTI0NT
 k3MTg5OF19
 -->
