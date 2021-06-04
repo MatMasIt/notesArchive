@@ -19,7 +19,11 @@ Nasce il concetto di "adolescenza"
 
 Anticapitalismo romantico
 
+
+Artista: senso di separatezza, estraneità
+
+Senso di vuoto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU4MzkzNjYsNjYxMDUzNDk1LC0xMj
-Q1OTcxODk4XX0=
+eyJoaXN0b3J5IjpbOTUyNzE3MjEwLC0xNzk1ODM5MzY2LDY2MT
+A1MzQ5NSwtMTI0NTk3MTg5OF19
 -->
