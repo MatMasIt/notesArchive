@@ -12,7 +12,9 @@ Jean Jacque Rousseau: differenza tra uomo in stato naturale e artificiale
 
 scansione della vita che seguiva gli orari degli opifici
 
+"Il tempo è denaro"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxMDUzNDk1LC0xMjQ1OTcxODk4XX0=
+eyJoaXN0b3J5IjpbNTkwMTY0ODAwLDY2MTA1MzQ5NSwtMTI0NT
+k3MTg5OF19
 -->
