@@ -14,9 +14,9 @@ What happened in 1851 in London? There was the Great Exhibition, which was held 
 
 ---
 
-The most representative authors from the Victorian period were Dickens, Stevenson and Oscar Wilde, despite their literary goals being completely different.
+The most representative authors from the Victorian period were Dickens, Stevenson and Oscar Wilde, although their literary goals were completely different.
 Dickens wanted to criticize the tragic consequences of the utilitaristic philosopy and the fake philantropic ideas of the Workhouses. There were 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM5OTAwMiwtMTMyMjM2Njg0NiwtND
+eyJoaXN0b3J5IjpbLTY2NjIwNTAwMiwtMTMyMjM2Njg0NiwtND
 U2MTYzNzQ4LC04Njg0OTM5Ml19
 -->
