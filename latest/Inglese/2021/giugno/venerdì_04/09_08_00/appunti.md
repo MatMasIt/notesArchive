@@ -9,7 +9,7 @@ It was an era of hypocriy and  contradictions: on one hand the technological pro
 
 ---
 
-What happened in 1851 in London? There was the Great Exhibition, which took place at Crystal Palace, where all the technological innovations of the time, as well as animals and plants fro, english colonies
+What happened in 1851 in London? There was the Great Exhibition, which was held at Crystal Palace, where all the technological innovations of the time, as well as animals and plants fro, english colonies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTkxNDg4MywtODY4NDkzOTJdfQ==
+eyJoaXN0b3J5IjpbNDQ1NTQxNTU3LC04Njg0OTM5Ml19
 -->
