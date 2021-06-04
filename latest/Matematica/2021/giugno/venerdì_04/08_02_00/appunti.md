@@ -5,7 +5,9 @@
 
 
 Thomas Carl Yle:
-> Se ci chiedessero di definire con un
+> Se ci chiedessero di definire con una parola questa età, "meccanica"
+> Gli uo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwOTk0MDAyLC0xMjQ1OTcxODk4XX0=
+eyJoaXN0b3J5IjpbLTE0MTcyNjY4NDAsLTEyNDU5NzE4OThdfQ
+==
 -->
