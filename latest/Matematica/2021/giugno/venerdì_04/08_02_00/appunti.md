@@ -9,7 +9,10 @@ Thomas Carl Yle:
 > *Gli uomini sono diventati dei meccanismi, di tesa come di cuore*
 
 Jean Jacque Rousseau: differenza tra uomo in stato naturale e artificiale
+
+scansione della vita che seguiva gli orari degli opifici
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI2NDE0NTksLTEyNDU5NzE4OThdfQ
-==
+eyJoaXN0b3J5IjpbNjYxMDUzNDk1LC0xMjQ1OTcxODk4XX0=
 -->
