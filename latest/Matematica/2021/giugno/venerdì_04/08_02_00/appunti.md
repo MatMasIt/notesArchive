@@ -6,8 +6,7 @@
 
 Thomas Carl Yle:
 > Se ci chiedessero di definire con una parola questa età, "meccanica"
-> Gli uo
+> *Gli uomini sono diventati dei meccanismi, di tesa come di cuore*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTcyNjY4NDAsLTEyNDU5NzE4OThdfQ
-==
+eyJoaXN0b3J5IjpbMjAxMjkyMjE3OCwtMTI0NTk3MTg5OF19
 -->
