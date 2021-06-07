@@ -6,10 +6,10 @@
 |n|Person|Character|From|Justification|
 |---|---|---|---|---|
 |1|Matteo Dogliani|Robinson Crusoe|Robinson Crusoe|He is a very rational man indeed|
-|2|Diego Scanavino|Friar Lawrence|Tries to resolve conflicts, is optimistic|
-|3|Giacomo Manera|The fair youth|Pretty self-explanatory|
-|4|Giorgio Adamo|Fortinbras|Trustworthy|
-|5|Marzia Battaglio|Miranda|Compassionate
+|2|Diego Scanavino|Friar Lawrence|Romeo and Juliet|Tries to resolve conflicts, is optimistic|
+|3|Giacomo Manera|The fair youth|The fair youth|Pretty self-explanatory|
+|4|Giorgio Adamo|Fortinbras|Hamlet|Trustworthy|
+|5|Marzia Battaglio|Miranda|The Tempest|Compassionate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUyODg4NSwyMTA1NTE2ODczXX0=
+eyJoaXN0b3J5IjpbLTE5NzA4NTI0OTksMjEwNTUxNjg3M119
 -->
