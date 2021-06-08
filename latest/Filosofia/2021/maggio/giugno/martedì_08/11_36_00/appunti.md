@@ -45,8 +45,9 @@ Dimostrazione necessaria non presente
 Movimento potrebbe essere causato da causa sconosciuta o da nessuna causa
 
 
-Anche la riproducibilità potrebbe esse
+Anche la riproducibilità potrebbe essere sempre casuale, non è detto che in futuro sia così
 
+Concetto di causa è una nostra interpretazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5NjM0NDEwXX0=
+eyJoaXN0b3J5IjpbLTE2OTM1ODQ1NDddfQ==
 -->
