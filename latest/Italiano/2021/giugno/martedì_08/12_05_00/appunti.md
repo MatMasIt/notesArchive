@@ -16,7 +16,12 @@ Filosofie
 Spirito che si autodetermina
 
 Uomo che definisce il sapere
+
+Alienazione, alius, altro da sè
+
+
+Realismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzMxMjE1NCwtMTY4NzI0OTk3NywtND
+eyJoaXN0b3J5IjpbLTMwNDk4MzQ1NywtMTY4NzI0OTk3NywtND
 gxMzI3Mjk0XX0=
 -->
