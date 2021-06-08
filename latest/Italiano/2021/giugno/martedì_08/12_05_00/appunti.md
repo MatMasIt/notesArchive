@@ -65,8 +65,10 @@ regola che prevale: principio d'uso (Isaia Ascoli)
 
 > G Berchet, *La lettera semiseria di Grisostomo al suo figliolo*
 
+
+Non confondere $romantico$ con $romanzesco$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MjQ2OTI4MCwxNzE0MTQwNjUwLDEzMj
-AxMzc0OCwtMTQwNTU0NjIwMCwtMTY4NzI0OTk3NywtNDgxMzI3
-Mjk0XX0=
+eyJoaXN0b3J5IjpbLTIwODE4Mjk0MDMsLTM1MjQ2OTI4MCwxNz
+E0MTQwNjUwLDEzMjAxMzc0OCwtMTQwNTU0NjIwMCwtMTY4NzI0
+OTk3NywtNDgxMzI3Mjk0XX0=
 -->
