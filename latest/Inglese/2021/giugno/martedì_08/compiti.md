@@ -9,11 +9,11 @@
 |2|Diego Scanavino|Friar Lawrence|Romeo and Juliet|Tries to resolve conflicts, is optimistic|
 |3|Giacomo Manera|The fair youth|The fair youth|Pretty self-explanatory|
 |4|Giorgio Adamo|Fortinbras|Hamlet|Trustworthy|
-|5|Marzia Battaglio|Miranda|The Tempest|Compassionate|
+|5|Dehbi Lamya|Miranda|The Tempest|Compassionate|
 |6|Isabella Bollito|Portia|The Merchant Of Venice|Good deception and fraud abilities|
-|7|Matteo Predieri|Sir Walpole|_historical_|Accused of Bribery, good negotiating abilities|
+|7|Marzia Battaglio|Sir Walpole|_historical_|Accused of Bribery, good negotiating abilities|
 |8|Giacomo Roggero|Jhonatan Swift|_historical_|Satirizes everything, very critical|
 |9|Klevisa Kocaj|Gulliver|Gulliver's Travels|Is travelling in the land of the Yahoos at this very moment in time|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDI1NjI0XX0=
+eyJoaXN0b3J5IjpbMTMxNzM0MjYwLDE0NTAyNTYyNF19
 -->
