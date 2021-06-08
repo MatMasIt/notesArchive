@@ -7,6 +7,8 @@ Carattere del romanticismo in Italia
 * Milano
 * Firenze
 
+
+Togliere egemonia alla francia nel campo delle arti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTMyNzI5NF19
+eyJoaXN0b3J5IjpbLTE2ODcyNDk5NzcsLTQ4MTMyNzI5NF19
 -->
