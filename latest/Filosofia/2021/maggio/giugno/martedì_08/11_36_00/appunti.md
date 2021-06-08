@@ -18,6 +18,13 @@ Humme come Locke: non ci sono idee innate
 
 
 Idee sono ricordi di impressioni
+
+Humme diffida del concetto di causa-effetto
+
+In quel momento sta lavorando Newton
+
+constrasto con la scienza
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDEzMzYxMV19
+eyJoaXN0b3J5IjpbMTczMDk2MzYyMF19
 -->
