@@ -42,7 +42,12 @@ Questione della lingua
 Madame Stael, 1816
 
 invita i poeti italiani a tradurre poesie inglesi e tedesche
+
+p. 648 
+Pietro Giordani
+
+insieme a Vincenzo Monti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODU1MjY1MiwxMzIwMTM3NDgsLTE0MD
+eyJoaXN0b3J5IjpbMTcxNDE0MDY1MCwxMzIwMTM3NDgsLTE0MD
 U1NDYyMDAsLTE2ODcyNDk5NzcsLTQ4MTMyNzI5NF19
 -->
