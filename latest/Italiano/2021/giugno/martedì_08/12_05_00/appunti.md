@@ -51,9 +51,17 @@ insieme a Vincenzo Monti
 t 16 e 17, leggere
 
 
-Classicisti & Ro
+Classicisti & Romantici
+
+
+Puristi, commistione
+
+
+regola che prevale: principio d'uso (Isaia Ascoli)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwMzc5MTE5LDE3MTQxNDA2NTAsMTMyMD
-EzNzQ4LC0xNDA1NTQ2MjAwLC0xNjg3MjQ5OTc3LC00ODEzMjcy
-OTRdfQ==
+eyJoaXN0b3J5IjpbMTU2MTYxMTQzNCwxNzE0MTQwNjUwLDEzMj
+AxMzc0OCwtMTQwNTU0NjIwMCwtMTY4NzI0OTk3NywtNDgxMzI3
+Mjk0XX0=
 -->
