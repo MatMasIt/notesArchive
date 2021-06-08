@@ -27,7 +27,13 @@ constrasto con la scienza
 
 Kant si opporrà alla critica di Humme
 
-Humme: relazone tra cau
+Humme: relazone tra causa ed effetto ha un carattere **necessario**?
+
+Palla da biliardo A colpisce B
+
+p.292
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Nzc5MjEyXX0=
+eyJoaXN0b3J5IjpbLTE1OTUwMDA0NjVdfQ==
 -->
