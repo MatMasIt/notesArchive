@@ -15,6 +15,9 @@ Appartiene all'illuminismo scozzese
 Opera fondamentale, _Il trattato sulla natura umana_, 1740 circa
 
 Humme come Locke: non ci sono idee innate
+
+
+Idee sono ricordi di impressioni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODIwNzgyNF19
+eyJoaXN0b3J5IjpbMTIyMDEzMzYxMV19
 -->
