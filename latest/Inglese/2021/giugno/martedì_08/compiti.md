@@ -9,7 +9,8 @@
 |2|Diego Scanavino|Friar Lawrence|Romeo and Juliet|Tries to resolve conflicts, is optimistic|
 |3|Giacomo Manera|The fair youth|The fair youth|Pretty self-explanatory|
 |4|Giorgio Adamo|Fortinbras|Hamlet|Trustworthy|
-|5|Marzia Battaglio|Miranda|The Tempest|Compassionate
+|5|Marzia Battaglio|Miranda|The Tempest|Compassionate|
+|6||Portia|The Merchant Of Venice|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzA4NTI0OTldfQ==
+eyJoaXN0b3J5IjpbNzQ4Mzc3OTM4XX0=
 -->
