@@ -1,4 +1,4 @@
-# English Homweork
+# English Homework
 
 > **Task**
 > Associate _5_ of your classmates to literary characters from the works we studied during the current school year
@@ -15,5 +15,6 @@
 |8|Giacomo Roggero|Jhonatan Swift|_historical_|Satirizes everything, very critical|
 |9|Klevisa Kocaj|Gulliver|Gulliver's Travels|Is travelling in the land of the Yahoos at this very moment in time|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzM0MjYwLDE0NTAyNTYyNF19
+eyJoaXN0b3J5IjpbLTU5NDgxODM0NCwxMzE3MzQyNjAsMTQ1MD
+I1NjI0XX0=
 -->
