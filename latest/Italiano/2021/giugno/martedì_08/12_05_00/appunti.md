@@ -33,7 +33,7 @@ simbolismo, secondo ottocento
 
 Romanticismo: dibattito sul valore del canone classico
 
-+
+\+
 
 Questione della lingua
 
@@ -43,6 +43,6 @@ Madame Stael, 1816
 
 invita i poeti italiani a tradurre poesie inglesi e tedesche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDEzNzQ4LC0xNDA1NTQ2MjAwLC0xNj
-g3MjQ5OTc3LC00ODEzMjcyOTRdfQ==
+eyJoaXN0b3J5IjpbLTg2ODU1MjY1MiwxMzIwMTM3NDgsLTE0MD
+U1NDYyMDAsLTE2ODcyNDk5NzcsLTQ4MTMyNzI5NF19
 -->
