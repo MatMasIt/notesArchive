@@ -60,8 +60,13 @@ Puristi, commistione
 regola che prevale: principio d'uso (Isaia Ascoli)
 
 
+
+   
+
+> G Berchet, *La lettera semiseria di Grisostomo al suo figliolo*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTYxMTQzNCwxNzE0MTQwNjUwLDEzMj
+eyJoaXN0b3J5IjpbLTM1MjQ2OTI4MCwxNzE0MTQwNjUwLDEzMj
 AxMzc0OCwtMTQwNTU0NjIwMCwtMTY4NzI0OTk3NywtNDgxMzI3
 Mjk0XX0=
 -->
