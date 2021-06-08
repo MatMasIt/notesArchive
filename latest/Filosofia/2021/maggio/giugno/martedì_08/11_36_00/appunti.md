@@ -53,6 +53,7 @@ Concetto di causa è una nostra interpretazione
 Kant poi cercherà di giustificare la causalità
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyMjI3NTM0XX0=
+eyJoaXN0b3J5IjpbLTQ0MjM1MjkwMCw0NjIyMjc1MzRdfQ==
 -->
