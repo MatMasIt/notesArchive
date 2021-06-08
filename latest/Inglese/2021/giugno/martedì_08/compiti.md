@@ -12,7 +12,8 @@
 |5|Marzia Battaglio|Miranda|The Tempest|Compassionate|
 |6|Isabella Bollito|Portia|The Merchant Of Venice|Good deception and fraud abilities|
 |7|Matteo Predieri|Sir Walpole|_historical_|Accused of Bribery|
-|8|Gi
+|8|Giacomo Roggero|Jhonatan Swift|_historical_|Satirizes everything, very critical|
+|9|Klevisa Kocaj|Gulliver|Gulliver's Travels|Is travelling in the lan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTY5ODA5NF19
+eyJoaXN0b3J5IjpbLTExODk3MTQyNTJdfQ==
 -->
