@@ -39,8 +39,10 @@ Questione della lingua
 
 
 
-1816, \
+Madame Stael, 1816
+
+invita i poeti italiani a tradurre poesie inglesi e tedesche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzYxMjUwNCwtMTQwNTU0NjIwMCwtMT
-Y4NzI0OTk3NywtNDgxMzI3Mjk0XX0=
+eyJoaXN0b3J5IjpbMTMyMDEzNzQ4LC0xNDA1NTQ2MjAwLC0xNj
+g3MjQ5OTc3LC00ODEzMjcyOTRdfQ==
 -->
