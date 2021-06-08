@@ -33,7 +33,12 @@ Palla da biliardo A colpisce B
 
 p.292
 
+Palle $A$ e $B$:
+* contiuità spaziale
+* sequenza temporale
+* riproducibilità
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUwMDA0NjVdfQ==
+eyJoaXN0b3J5IjpbNzY5OTI5NjldfQ==
 -->
