@@ -31,8 +31,16 @@ Baudelaire, l'artista perde l'aureola
 simbolismo, secondo ottocento
 
 
-Romanticismo: diba
+Romanticismo: dibattito sul valore del canone classico
+
++
+
+Questione della lingua
+
+
+
+1816, \
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Mjk5MjU2NSwtMTQwNTU0NjIwMCwtMT
+eyJoaXN0b3J5IjpbMjEwNzYxMjUwNCwtMTQwNTU0NjIwMCwtMT
 Y4NzI0OTk3NywtNDgxMzI3Mjk0XX0=
 -->
