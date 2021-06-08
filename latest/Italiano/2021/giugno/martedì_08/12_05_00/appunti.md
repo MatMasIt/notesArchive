@@ -29,7 +29,10 @@ Realismo francese
 Baudelaire, l'artista perde l'aureola
 
 simbolismo, secondo ottocento
+
+
+Romanticismo: diba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU1NDYyMDAsLTE2ODcyNDk5NzcsLT
-Q4MTMyNzI5NF19
+eyJoaXN0b3J5IjpbLTc2Mjk5MjU2NSwtMTQwNTU0NjIwMCwtMT
+Y4NzI0OTk3NywtNDgxMzI3Mjk0XX0=
 -->
