@@ -6,13 +6,15 @@ Gnoseologia moderna
 
 Locke: non possiamo conoscere le sostanze
 
-
+Locke: _Saggio sull'intelletto umano_
 
 ## David Humme (1711-1776) - p.288
 
 Appartiene all'illuminismo scozzese
 
-Opera fondamentale, _Il trattato sulla natura umana
+Opera fondamentale, _Il trattato sulla natura umana_, 1740 circa
+
+Humme come Locke: non ci sono idee innate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTAyNTM5OF19
+eyJoaXN0b3J5IjpbLTU3ODIwNzgyNF19
 -->
