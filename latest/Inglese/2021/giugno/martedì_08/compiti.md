@@ -10,7 +10,9 @@
 |3|Giacomo Manera|The fair youth|The fair youth|Pretty self-explanatory|
 |4|Giorgio Adamo|Fortinbras|Hamlet|Trustworthy|
 |5|Marzia Battaglio|Miranda|The Tempest|Compassionate|
-|6||Portia|The Merchant Of Venice|
+|6|Isabella Bollito|Portia|The Merchant Of Venice|Good deception and fraud abilities|
+|7|Matteo Predieri|Sir Walpole|_historical_|Accused of Bribery|
+|8|Gi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4Mzc3OTM4XX0=
+eyJoaXN0b3J5IjpbMTQ5NTY5ODA5NF19
 -->
