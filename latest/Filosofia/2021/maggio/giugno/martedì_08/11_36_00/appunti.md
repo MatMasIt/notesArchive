@@ -38,7 +38,15 @@ Palle $A$ e $B$:
 * sequenza temporale
 * riproducibilità
 
+Non sono sufficienti per giustificare che A causi il movimento di B
+
+Dimostrazione necessaria non presente
+
+Movimento potrebbe essere causato da causa sconosciuta o da nessuna causa
+
+
+Anche la riproducibilità potrebbe esse
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5OTI5NjldfQ==
+eyJoaXN0b3J5IjpbMjM5NjM0NDEwXX0=
 -->
