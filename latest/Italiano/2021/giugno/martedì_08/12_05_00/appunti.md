@@ -47,7 +47,13 @@ p. 648
 Pietro Giordani
 
 insieme a Vincenzo Monti
+
+t 16 e 17, leggere
+
+
+Classicisti & Ro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDE0MDY1MCwxMzIwMTM3NDgsLTE0MD
-U1NDYyMDAsLTE2ODcyNDk5NzcsLTQ4MTMyNzI5NF19
+eyJoaXN0b3J5IjpbNTYwMzc5MTE5LDE3MTQxNDA2NTAsMTMyMD
+EzNzQ4LC0xNDA1NTQ2MjAwLC0xNjg3MjQ5OTc3LC00ODEzMjcy
+OTRdfQ==
 -->
