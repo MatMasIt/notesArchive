@@ -20,8 +20,16 @@ Uomo che definisce il sapere
 Alienazione, alius, altro da sè
 
 
-Realismo
+Realismo, sensazione parassitaria
+
+Realismo francese
+* Victor Hugo
+* Honorè de Balzac
+
+Baudelaire, l'artista perde l'aureola
+
+simbolismo, secondo ottocento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDk4MzQ1NywtMTY4NzI0OTk3NywtND
-gxMzI3Mjk0XX0=
+eyJoaXN0b3J5IjpbLTE0MDU1NDYyMDAsLTE2ODcyNDk5NzcsLT
+Q4MTMyNzI5NF19
 -->
