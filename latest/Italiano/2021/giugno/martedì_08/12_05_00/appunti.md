@@ -9,6 +9,14 @@ Carattere del romanticismo in Italia
 
 
 Togliere egemonia alla francia nel campo delle arti
+
+Filosofie
+
+
+Spirito che si autodetermina
+
+Uomo che definisce il sapere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcyNDk5NzcsLTQ4MTMyNzI5NF19
+eyJoaXN0b3J5IjpbMTI1MzMxMjE1NCwtMTY4NzI0OTk3NywtND
+gxMzI3Mjk0XX0=
 -->
