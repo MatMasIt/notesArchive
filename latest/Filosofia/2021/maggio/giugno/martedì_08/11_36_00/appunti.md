@@ -34,7 +34,7 @@ Palla da biliardo A colpisce B
 p.292
 
 Palle $A$ e $B$:
-* contiuità spaziale
+* continuità spaziale
 * sequenza temporale
 * riproducibilità
 
@@ -48,6 +48,11 @@ Movimento potrebbe essere causato da causa sconosciuta o da nessuna causa
 Anche la riproducibilità potrebbe essere sempre casuale, non è detto che in futuro sia così
 
 Concetto di causa è una nostra interpretazione
+
+
+Kant poi cercherà di giustificare la causalità
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM1ODQ1NDddfQ==
+eyJoaXN0b3J5IjpbNDYyMjI3NTM0XX0=
 -->
