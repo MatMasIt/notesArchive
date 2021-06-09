@@ -46,7 +46,9 @@ Critica del giudizio:
 
 
 1687: *Princii matematici sull filosofia della natura*, Isaac Newton
+
+[Scheda riassuntiva su Kant](testo_kant.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2OTQ3ODc1LDE5NDQwMDY5OTcsMjc0ND
-c1OTY1XX0=
+eyJoaXN0b3J5IjpbNjk5NzYxOTgsOTM2OTQ3ODc1LDE5NDQwMD
+Y5OTcsMjc0NDc1OTY1XX0=
 -->
