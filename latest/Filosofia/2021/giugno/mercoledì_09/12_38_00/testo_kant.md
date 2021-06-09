@@ -1,5 +1,5 @@
   
-Dispensa sulla *Critica della ragion pura* (1781) di Immanuel Kant (1724-1804)
+# Dispensa sulla *Critica della ragion pura* (1781) di Immanuel Kant (1724-1804)
 
 
 **1. Le ragioni che spinsero Kant ad elaborare i contenuti di quest’opera**
@@ -109,5 +109,5 @@ Dispensa sulla *Critica della ragion pura* (1781) di Immanuel Kant (1724-1804)
 
 [^4]: **Diciamo che le proposizioni della geometria e della matematica esprimono determinate proprietà delle due forme a priori (ossia dello spazio e del tempo). Le forme sono necessarie, e così anche le loro proprietà (e le proposizioni che le esprimono).**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Nzk0Njc5NF19
+eyJoaXN0b3J5IjpbLTM4MDY4OTQ2NV19
 -->
