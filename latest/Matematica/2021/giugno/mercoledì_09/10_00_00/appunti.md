@@ -122,8 +122,8 @@ $f^{'}(x) \gg 0 \implies m(a,b)$
 
 ---
 
-$f^{'}(x)=\frac1x$
+$f^{'}(x)=\frac1x+\frac{x}{\sqrt{9-x^2}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5NTUxODI3LDU3NTg1Nzc3MSwtNzY1NT
-AxOTQsLTMxMzg0NDg0MSw5NDA5MTY0MjldfQ==
+eyJoaXN0b3J5IjpbMTI3NzEyNjk4Niw1NzU4NTc3NzEsLTc2NT
+UwMTk0LC0zMTM4NDQ4NDEsOTQwOTE2NDI5XX0=
 -->
