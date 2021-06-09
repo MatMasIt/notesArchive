@@ -34,9 +34,17 @@ Sua prima grande opera
 * critica del giudizio (1790)
 
 Critica della ragion Pura: 
-* Gnosologia
-* Me
+* Gnoseologia
+* Metafisica
+
+
+Critica della ragion pratica:
+* Filosofia morale
+
+Critica del giudizio:
+* Estetica
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0NTU4NjkwLDE5NDQwMDY5OTcsMjc0ND
+eyJoaXN0b3J5IjpbMzMyMTY4NzA2LDE5NDQwMDY5OTcsMjc0ND
 c1OTY1XX0=
 -->
