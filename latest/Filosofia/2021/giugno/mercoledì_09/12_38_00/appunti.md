@@ -12,7 +12,9 @@ Ogni nostra inferenza causale è  legata al presupposto dell'uniformità delle l
 
 
 Kant, formazione filosofica, docente in Prussia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODcyNzE4NiwxOTQ0MDA2OTk3LDI3ND
+eyJoaXN0b3J5IjpbMTk3NjcwNjM3OCwxOTQ0MDA2OTk3LDI3ND
 Q3NTk2NV19
 -->
