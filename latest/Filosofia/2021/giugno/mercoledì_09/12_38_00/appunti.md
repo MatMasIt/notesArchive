@@ -50,7 +50,12 @@ Critica del giudizio:
 [Scheda riassuntiva su Kant](testo_kant.md)
 
 Il conoscere consiste nel formulare e sommare i guidizi
+
+A fondamento della scienza stanno i guidizi sintetici a Priori
+
+
+p. 354
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzAwNTI0OSw5MzY5NDc4NzUsMTk0ND
-AwNjk5NywyNzQ0NzU5NjVdfQ==
+eyJoaXN0b3J5IjpbLTE0MDEwNDg2NTksOTM2OTQ3ODc1LDE5ND
+QwMDY5OTcsMjc0NDc1OTY1XX0=
 -->
