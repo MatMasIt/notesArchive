@@ -144,8 +144,18 @@ Esercizio $2$
 ---
 
 $y=e^x-x+2$
+
+$e^x-x+2=0$
+
+$e^x=x-2$
+
+---
+
+$h(x)=e^x$
+$z(x)=x-2$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMzczMTE0LDE4MjgwNjAyODcsMjA1NT
-QwMjE1NSw1NzU4NTc3NzEsLTc2NTUwMTk0LC0zMTM4NDQ4NDEs
-OTQwOTE2NDI5XX0=
+eyJoaXN0b3J5IjpbMTIyNDk1NDgxNiwxODI4MDYwMjg3LDIwNT
+U0MDIxNTUsNTc1ODU3NzcxLC03NjU1MDE5NCwtMzEzODQ0ODQx
+LDk0MDkxNjQyOV19
 -->
