@@ -154,8 +154,21 @@ $e^x=x-2$
 $h(x)=e^x$
 $z(x)=x-2$
 
+
+$\alpha \in(1,3$
+$\beta \in (-2,-1)$
+
+
+$y=f(x)=e^x-x-2$
+
+
+$f(1) \ll 0$
+$f(2) \gg 0$
+
+
+$y^{'}=f^{'}(x)=e^$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDk1NDgxNiwxODI4MDYwMjg3LDIwNT
-U0MDIxNTUsNTc1ODU3NzcxLC03NjU1MDE5NCwtMzEzODQ0ODQx
-LDk0MDkxNjQyOV19
+eyJoaXN0b3J5IjpbNDYxMTE4NzY5LDEyMjQ5NTQ4MTYsMTgyOD
+A2MDI4NywyMDU1NDAyMTU1LDU3NTg1Nzc3MSwtNzY1NTAxOTQs
+LTMxMzg0NDg0MSw5NDA5MTY0MjldfQ==
 -->
