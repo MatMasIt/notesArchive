@@ -124,7 +124,19 @@ $f^{'}(x) \gg 0 \implies m(a,b)$
 
 $f^{'}(x)=\frac1x+\frac{x}{\sqrt{9-x^2}}$
 $^{''}(x) \ll 0$
+
+
+Approssimazioni
+
+|#||$\alpha$|
+|---|---|
+|2|2,9|
+|1|2,828015987|
+|2|2,815930021|
+|3|2,815727954|
+|5|2,815727001|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTQwMjE1NSw1NzU4NTc3NzEsLTc2NT
-UwMTk0LC0zMTM4NDQ4NDEsOTQwOTE2NDI5XX0=
+eyJoaXN0b3J5IjpbLTIwNjQxMTU2MDQsMjA1NTQwMjE1NSw1Nz
+U4NTc3NzEsLTc2NTUwMTk0LC0zMTM4NDQ4NDEsOTQwOTE2NDI5
+XX0=
 -->
