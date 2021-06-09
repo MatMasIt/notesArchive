@@ -125,10 +125,13 @@ $f^{'}(x) \gg 0 \implies m(a,b)$
 $f^{'}(x)=\frac1x+\frac{x}{\sqrt{9-x^2}}$
 $^{''}(x) \ll 0$
 
+$$
+\boxed{x=b-\frac{f(b)}{f^{'}(b)}}=\text{Ans}-\frac{}{\frac1{\text{Ans}}+\frac{\text{Ans}{}}
+$$
 
 Approssimazioni
 
-|#||$\alpha$|
+|#|$\alpha$|
 |---|---|
 |2|2,9|
 |1|2,828015987|
@@ -136,7 +139,7 @@ Approssimazioni
 |3|2,815727954|
 |5|2,815727001|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQxMTU2MDQsMjA1NTQwMjE1NSw1Nz
-U4NTc3NzEsLTc2NTUwMTk0LC0zMTM4NDQ4NDEsOTQwOTE2NDI5
-XX0=
+eyJoaXN0b3J5IjpbMTE3MjgxNTgyNSwyMDU1NDAyMTU1LDU3NT
+g1Nzc3MSwtNzY1NTAxOTQsLTMxMzg0NDg0MSw5NDA5MTY0Mjld
+fQ==
 -->
