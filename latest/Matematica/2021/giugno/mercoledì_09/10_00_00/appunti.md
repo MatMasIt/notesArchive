@@ -107,7 +107,11 @@ $$
 
 ![](https://i.imgur.com/Ww2E6cp.jpg)
 
+### Metodo di Newton o delle tangenti
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwOTE2NDI5XX0=
+eyJoaXN0b3J5IjpbLTMxMzg0NDg0MSw5NDA5MTY0MjldfQ==
 -->
