@@ -126,7 +126,7 @@ $f^{'}(x)=\frac1x+\frac{x}{\sqrt{9-x^2}}$
 $^{''}(x) \ll 0$
 
 $$
-\boxed{x=b-\frac{f(b)}{f^{'}(b)}}=\text{Ans}-\frac{}{\frac1{\text{Ans}}+\frac{\text{Ans}{}}
+\boxed{x=b-\frac{f(b)}{f^{'}(b)}}=\text{Ans}-\frac{\ln(\text{Ans})-\sqrt{9-\text{Ans}^2}}{\frac1{\text{Ans}}+\frac{\text{Ans}}{\sqrt{9-\text{Ans}^2}}}
 $$
 
 Approssimazioni
@@ -139,7 +139,7 @@ Approssimazioni
 |3|2,815727954|
 |5|2,815727001|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjgxNTgyNSwyMDU1NDAyMTU1LDU3NT
+eyJoaXN0b3J5IjpbMTgyODA2MDI4NywyMDU1NDAyMTU1LDU3NT
 g1Nzc3MSwtNzY1NTAxOTQsLTMxMzg0NDg0MSw5NDA5MTY0Mjld
 fQ==
 -->
