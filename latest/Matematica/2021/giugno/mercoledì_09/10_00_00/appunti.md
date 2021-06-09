@@ -116,7 +116,9 @@ $$
 $f^{'}(x) \ll 0 \implies m (a,b)$
 $f^{'}(x) \gg 0 \implies m(a,b)$
 
+
+![](https://i.imgur.com/52gHs40.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjU3NDUwOCwtMzEzODQ0ODQxLDk0MD
-kxNjQyOV19
+eyJoaXN0b3J5IjpbLTc2NTUwMTk0LC0zMTM4NDQ4NDEsOTQwOT
+E2NDI5XX0=
 -->
