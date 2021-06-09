@@ -104,9 +104,10 @@ Dispensa sulla *Critica della ragion pura* (1781) di Immanuel Kant (1724-1804)
 
 
 [^1]: E, occorre ricordarlo, per Hume ogni contenuto della nostra mente deriva dall’esperienza, ossia non è mai a priori. Pertanto, anche l’idea di causa deve, per lui, derivare dall’esperienza.
-[^2]: `	 `Per “giudizi” si intendono le **operazioni logiche** attraverso cui vengono connessi 2 concetti (uno con la funzione di **soggetto** e uno con la funzione di **predicato**) attraverso una copula (=verbo essere).
-[^3]: `	 `“*Chiamo trascendentale ogni conoscenza che ha a che fare non con oggetti ma col nostro modo di conoscere gli oggetti in quanto deve essere possibile a priori*”.
-[^4]: `	 `**Diciamo che le proposizioni della geometria e della matematica esprimono determinate proprietà delle due forme a priori (ossia dello spazio e del tempo). Le forme sono necessarie, e così anche le loro proprietà (e le proposizioni che le esprimono).**
+[^2]: Per “giudizi” si intendono le **operazioni logiche** attraverso cui vengono connessi 2 concetti (uno con la funzione di **soggetto** e uno con la funzione di **predicato**) attraverso una copula (=verbo essere).
+[^3]: > “*Chiamo trascendentale ogni conoscenza che ha a che fare non con oggetti ma col nostro modo di conoscere gli oggetti in quanto deve essere possibile a priori*”.
+
+[^4]: **Diciamo che le proposizioni della geometria e della matematica esprimono determinate proprietà delle due forme a priori (ossia dello spazio e del tempo). Le forme sono necessarie, e così anche le loro proprietà (e le proposizioni che le esprimono).**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzA5ODgzNThdfQ==
+eyJoaXN0b3J5IjpbMTQ3Nzk0Njc5NF19
 -->
