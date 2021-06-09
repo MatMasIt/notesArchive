@@ -113,8 +113,10 @@ $$
 
 ![](https://i.imgur.com/xDvMeP6.jpg)
 
-$f^{'}x \ll 0 \implies m (a,b)$
+$f^{'}(x) \ll 0 \implies m (a,b)$
+$f^{'}(x) \gg 0 \implies m(a,b)$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1MTExOTE1LC0zMTM4NDQ4NDEsOTQwOT
-E2NDI5XX0=
+eyJoaXN0b3J5IjpbMTQ3NjU3NDUwOCwtMzEzODQ0ODQxLDk0MD
+kxNjQyOV19
 -->
