@@ -13,8 +13,11 @@ Ogni nostra inferenza causale è  legata al presupposto dell'uniformità delle l
 
 Kant, formazione filosofica, docente in Prussia
 
+Kant pubblica "Storia universale della natura e teoria del Cielo"
+*Hìstoria*: osservazione ($greo$)
 
+Lui aveva teroizzato la creazione del sistema solare dallo stato iniziale di una nube cosmica e grazie alla sola azione di forze di interazione attrattive e repulsive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjcwNjM3OCwxOTQ0MDA2OTk3LDI3ND
+eyJoaXN0b3J5IjpbMTc4Njg2NDIwMSwxOTQ0MDA2OTk3LDI3ND
 Q3NTk2NV19
 -->
