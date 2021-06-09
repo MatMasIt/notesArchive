@@ -122,8 +122,8 @@ $f^{'}(x) \gg 0 \implies m(a,b)$
 
 ---
 
-
+$f^{'}(x)=\frac1x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1ODU3NzcxLC03NjU1MDE5NCwtMzEzOD
-Q0ODQxLDk0MDkxNjQyOV19
+eyJoaXN0b3J5IjpbMzM5NTUxODI3LDU3NTg1Nzc3MSwtNzY1NT
+AxOTQsLTMxMzg0NDg0MSw5NDA5MTY0MjldfQ==
 -->
