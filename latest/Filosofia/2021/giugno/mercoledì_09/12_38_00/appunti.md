@@ -4,6 +4,9 @@
 
 Secondo Humme l'ideae di causalità dipende solo dall'abitudine
 
+La scienza allora si pensa sempre valida in futuro
+
+Ogni nostra inferenza causale è  legata al presupposto dell'uniformità delle leggi della natura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0NDc1OTY1XX0=
+eyJoaXN0b3J5IjpbMTk0NDAwNjk5NywyNzQ0NzU5NjVdfQ==
 -->
