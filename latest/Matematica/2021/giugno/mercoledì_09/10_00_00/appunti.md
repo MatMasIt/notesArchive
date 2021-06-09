@@ -118,7 +118,12 @@ $f^{'}(x) \gg 0 \implies m(a,b)$
 
 
 ![](https://i.imgur.com/52gHs40.jpg)
+
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTUwMTk0LC0zMTM4NDQ4NDEsOTQwOT
-E2NDI5XX0=
+eyJoaXN0b3J5IjpbNTc1ODU3NzcxLC03NjU1MDE5NCwtMzEzOD
+Q0ODQxLDk0MDkxNjQyOV19
 -->
