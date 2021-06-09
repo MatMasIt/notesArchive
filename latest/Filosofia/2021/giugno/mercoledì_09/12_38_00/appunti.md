@@ -48,7 +48,9 @@ Critica del giudizio:
 1687: *Princii matematici sull filosofia della natura*, Isaac Newton
 
 [Scheda riassuntiva su Kant](testo_kant.md)
+
+Il conoscere consiste nel formulare e sommare i guidizi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5NzYxOTgsOTM2OTQ3ODc1LDE5NDQwMD
-Y5OTcsMjc0NDc1OTY1XX0=
+eyJoaXN0b3J5IjpbMTQ1MzAwNTI0OSw5MzY5NDc4NzUsMTk0ND
+AwNjk5NywyNzQ0NzU5NjVdfQ==
 -->
