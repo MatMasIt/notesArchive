@@ -161,14 +161,16 @@ $\beta \in (-2,-1)$
 
 $y=f(x)=e^x-x-2$
 
+![](https://i.imgur.com/jxTra0N.jpg)
 
 $f(1) \ll 0$
 $f(2) \gg 0$
 
 
-$y^{'}=f^{'}(x)=e^$
+$y^{'}=f^{'}(x)=e^x-1$
+$f^{''}=e^x$, che è sempre $\gg 0$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxMTE4NzY5LDEyMjQ5NTQ4MTYsMTgyOD
-A2MDI4NywyMDU1NDAyMTU1LDU3NTg1Nzc3MSwtNzY1NTAxOTQs
-LTMxMzg0NDg0MSw5NDA5MTY0MjldfQ==
+eyJoaXN0b3J5IjpbMTkwMzI0NjY1NywxMjI0OTU0ODE2LDE4Mj
+gwNjAyODcsMjA1NTQwMjE1NSw1NzU4NTc3NzEsLTc2NTUwMTk0
+LC0zMTM4NDQ4NDEsOTQwOTE2NDI5XX0=
 -->
