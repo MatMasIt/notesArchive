@@ -29,9 +29,14 @@ Legge teorie di Humme e  vuole salvare la scienza
 Sua prima grande opera
 
 3 opere, 3 critiche:
-* critica della ragion pura
-* critica della rag
+* critica della ragion pura (1781)
+* critica della ragion pratica (1788)
+* critica del giudizio (1790)
+
+Critica della ragion Pura: 
+* Gnosologia
+* Me
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNjY5OTQsMTk0NDAwNjk5NywyNzQ0Nz
-U5NjVdfQ==
+eyJoaXN0b3J5IjpbOTQ0NTU4NjkwLDE5NDQwMDY5OTcsMjc0ND
+c1OTY1XX0=
 -->
