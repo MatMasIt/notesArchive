@@ -44,7 +44,9 @@ Critica della ragion pratica:
 Critica del giudizio:
 * Estetica
 
+
+1687: *Princii matematici sull filosofia della natura*, Isaac Newton
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMTY4NzA2LDE5NDQwMDY5OTcsMjc0ND
+eyJoaXN0b3J5IjpbOTM2OTQ3ODc1LDE5NDQwMDY5OTcsMjc0ND
 c1OTY1XX0=
 -->
