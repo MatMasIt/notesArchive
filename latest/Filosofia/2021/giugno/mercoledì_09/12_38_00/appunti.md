@@ -22,8 +22,16 @@ Lui aveva teroizzato la creazione del sistema solare dallo stato iniziale di una
 
 Teoria   $Kant-Laplace$
 
+Kant crede nella assoluta certezza della scienza
 
+Legge teorie di Humme e  vuole salvare la scienza
+
+Sua prima grande opera
+
+3 opere, 3 critiche:
+* critica della ragion pura
+* critica della rag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTIxNjM4OSwxOTQ0MDA2OTk3LDI3ND
-Q3NTk2NV19
+eyJoaXN0b3J5IjpbNTEwNjY5OTQsMTk0NDAwNjk5NywyNzQ0Nz
+U5NjVdfQ==
 -->
