@@ -79,7 +79,11 @@ $\lim _{x\rightarrow \infin}=\infin$
 ---
 
 $f^{'}(x)=e^x(x+1)$
+
+
+
+$f(-1)=-1,37$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDczMjMwNiwtMTkyMTkzMjMyNiwxNT
-gxNjgyOTczLC0xOTAzNjk4MzA5XX0=
+eyJoaXN0b3J5IjpbNTk2MzQ5ODE2LC0zMjA3MzIzMDYsLTE5Mj
+E5MzIzMjYsMTU4MTY4Mjk3MywtMTkwMzY5ODMwOV19
 -->
