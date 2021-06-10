@@ -45,8 +45,11 @@ $f(1) \gg 0$
 $f^{'}(x) \gg 0$
 
 
-$e^x(1+x
+$e^x(1+x) \gg 0 \implies x \gg -1$
+$\implies (0,1) f^{'}(x) \gg 0$
+
+$f^{''} \gg 0
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjI4NDE5NzMsMTU4MTY4Mjk3MywtMT
-kwMzY5ODMwOV19
+eyJoaXN0b3J5IjpbMTk0ODg0NTIyOCwxNTgxNjgyOTczLC0xOT
+AzNjk4MzA5XX0=
 -->
