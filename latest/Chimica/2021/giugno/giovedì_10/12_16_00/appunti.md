@@ -30,7 +30,12 @@ $c= 2N$
 
 
 $n_{el_{scambiati}}$
+
+---
+
+
+$0,05M$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA3NDk0NzUsLTE3MTg3MTY0MTBdfQ
-==
+eyJoaXN0b3J5IjpbOTE3MTI2NDk2LC0xNzgwNzQ5NDc1LC0xNz
+E4NzE2NDEwXX0=
 -->
