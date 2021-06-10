@@ -64,7 +64,14 @@ $\boxed{\alpha_{1}+1=Ans-\frac{Anx\cdot e^{Ans}-1}{(Ans+1)e^{Ans}}}$
 $f(x) \g 0$
 
 $x \gg e^{-x}$
+
+---
+
+Condizioni agli estremi del campo di esistenza
+
+
+$\lim_{x \rightarrow\infin} xe^{x}-1=-\infin$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDQzMDE3NiwtMTkyMTkzMjMyNiwxNT
+eyJoaXN0b3J5IjpbMTU1MjQ2NTczOCwtMTkyMTkzMjMyNiwxNT
 gxNjgyOTczLC0xOTAzNjk4MzA5XX0=
 -->
