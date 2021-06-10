@@ -99,8 +99,13 @@ $P(t)=P_{0}\cdot a^t$
 $t\rightarrow h$
 
 $P(3)=2P_{0}$
+
+$2\cancel{P_{0}}=\cancel{P_{0}}a^3$
+
+$a=\sqrt[3]{2}=2^{\frac13}$
+$P(t)=p_{0}2^{\frac
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1ODg5NTQzLDU5NjM0OTgxNiwtMzIwNz
-MyMzA2LC0xOTIxOTMyMzI2LDE1ODE2ODI5NzMsLTE5MDM2OTgz
-MDldfQ==
+eyJoaXN0b3J5IjpbLTMxMzE1NjY5Niw1OTYzNDk4MTYsLTMyMD
+czMjMwNiwtMTkyMTkzMjMyNiwxNTgxNjgyOTczLC0xOTAzNjk4
+MzA5XX0=
 -->
