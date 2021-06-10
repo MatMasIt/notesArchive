@@ -103,9 +103,15 @@ $P(3)=2P_{0}$
 $2\cancel{P_{0}}=\cancel{P_{0}}a^3$
 
 $a=\sqrt[3]{2}=2^{\frac13}$
-$P(t)=p_{0}2^{\frac
+
+$P(t)=P_{0}2^{\frac{t}3}$
+
+$\overline{t}$ $P(\overline{t})=3P_{0}$
+
+$3\cancel{P_{0}}=\cancel{P_{0}*2^{\frac{t}3}$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzE1NjY5Niw1OTYzNDk4MTYsLTMyMD
-czMjMwNiwtMTkyMTkzMjMyNiwxNTgxNjgyOTczLC0xOTAzNjk4
-MzA5XX0=
+eyJoaXN0b3J5IjpbNjAxNDQ5MDkyLDU5NjM0OTgxNiwtMzIwNz
+MyMzA2LC0xOTIxOTMyMzI2LDE1ODE2ODI5NzMsLTE5MDM2OTgz
+MDldfQ==
 -->
