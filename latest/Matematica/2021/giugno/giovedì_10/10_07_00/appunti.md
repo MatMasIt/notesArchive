@@ -52,10 +52,11 @@ $f^{''} \gg 0$
 
 $\boxed{\alpha_{1}+1=Ans-\frac{Anx\cdot e^{Ans}-1}{(Ans+1)e^{Ans}}}$
 
-|$\alpha_{i}$|val|
-|---|---|
+|$\alpha_{i}$|
+|---|
 |1|
+|...|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzAwNDkzOCwxNTgxNjgyOTczLC0xOT
-AzNjk4MzA5XX0=
+eyJoaXN0b3J5IjpbLTE5MjE5MzIzMjYsMTU4MTY4Mjk3MywtMT
+kwMzY5ODMwOV19
 -->
