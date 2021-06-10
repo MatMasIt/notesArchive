@@ -25,6 +25,10 @@ $p_{equiv}=\frac{MM}{n_{ua}}$
 
 $n_{UA}=nH$
 
+
+$c= 2N$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzgzMDI0NSwtMTcxODcxNjQxMF19
+eyJoaXN0b3J5IjpbLTEyNTg2ODExODksLTE3MTg3MTY0MTBdfQ
+==
 -->
