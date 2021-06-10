@@ -6,7 +6,7 @@
 
 
 $$
-y=xe^{x-1}
+y=xe^x-1
 $$
 
 
@@ -15,9 +15,11 @@ $C.E. (-\infin,+\infin)$
 2)
 Non ci sono evidenti simmetrie
 
-$f(
+$f(-x) \neq f(x) \neq -f(x)$
 
 3) Intersezioni con gli assi
+
+$xe^x-1=0$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDQ3NTAzNiwtMTkwMzY5ODMwOV19
+eyJoaXN0b3J5IjpbMTU4MTY4Mjk3MywtMTkwMzY5ODMwOV19
 -->
