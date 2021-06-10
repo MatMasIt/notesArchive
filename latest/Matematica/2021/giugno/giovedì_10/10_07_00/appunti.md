@@ -5,7 +5,14 @@
 
 
 
-$
+$$
+y=xe^{x-1}
+$$
+
+
+$C.E. (-\infin,+\infin)$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTQ5Mjc5NywtMTkwMzY5ODMwOV19
+eyJoaXN0b3J5IjpbMTg4MTE4MDYzMSwtMTkwMzY5ODMwOV19
 -->
