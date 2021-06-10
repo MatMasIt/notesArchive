@@ -12,7 +12,12 @@ $$
 
 $C.E. (-\infin,+\infin)$
 
+2)
+Non ci sono evidenti simmetrie
 
+$f(
+
+3) Intersezioni con gli assi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTE4MDYzMSwtMTkwMzY5ODMwOV19
+eyJoaXN0b3J5IjpbLTU3NDQ3NTAzNiwtMTkwMzY5ODMwOV19
 -->
