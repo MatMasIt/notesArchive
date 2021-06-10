@@ -36,7 +36,12 @@ $n_{el_{scambiati}}$
 
 $0,05M$
 
+---
+
+$KI H_2O \rightarrow K^++I^-+H^++OH^-$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzExMTQ2MTAsOTE3MTI2NDk2LC0xNz
-gwNzQ5NDc1LC0xNzE4NzE2NDEwXX0=
+eyJoaXN0b3J5IjpbLTcxNzczMzc3OCwtMTM3MTExNDYxMCw5MT
+cxMjY0OTYsLTE3ODA3NDk0NzUsLTE3MTg3MTY0MTBdfQ==
 -->
