@@ -48,8 +48,14 @@ $f^{'}(x) \gg 0$
 $e^x(1+x) \gg 0 \implies x \gg -1$
 $\implies (0,1) f^{'}(x) \gg 0$
 
-$f^{''} \gg 0
+$f^{''} \gg 0$
+
+$\boxed{\alpha_{1}+1=Ans-\frac{Anx\cdot e^{Ans}-1}{(Ans+1)e^{Ans}}}$
+
+|$\alpha_{i}$|val|
+|---|---|
+|1|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODg0NTIyOCwxNTgxNjgyOTczLC0xOT
+eyJoaXN0b3J5IjpbLTQxMzAwNDkzOCwxNTgxNjgyOTczLC0xOT
 AzNjk4MzA5XX0=
 -->
