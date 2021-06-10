@@ -4,7 +4,7 @@ $MnO_4^{-}+C_2O_4^{-}+H^{+} \rightarrow Mn{2+}+CO_2+H_2O$
 
 $MnO_{4}^{-} \implies Mn^{2+}$  RID $\Delta e=5$
 
-
+$C_2O_4 \implies CO_2 +2e$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY1ODk3OTZdfQ==
+eyJoaXN0b3J5IjpbLTQxNjIxNDY0XX0=
 -->
