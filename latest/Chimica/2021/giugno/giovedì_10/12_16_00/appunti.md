@@ -35,7 +35,8 @@ $n_{el_{scambiati}}$
 
 
 $0,05M$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3MTI2NDk2LC0xNzgwNzQ5NDc1LC0xNz
-E4NzE2NDEwXX0=
+eyJoaXN0b3J5IjpbLTEzNzExMTQ2MTAsOTE3MTI2NDk2LC0xNz
+gwNzQ5NDc1LC0xNzE4NzE2NDEwXX0=
 -->
