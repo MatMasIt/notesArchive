@@ -9,6 +9,15 @@ $C_2O_4 \implies CO_2 +2e$ $\Delta e =1$
 
 $2MnO_4^{-}+5C_2O_4^{-}+16H^{+} \rightarrow 2Mn{2+}+10CO_2+8H_2O$
 
+
+
+----
+
+
+$98\,g di H_2SO_4 in 1 L$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg3MTY0MTBdfQ==
+eyJoaXN0b3J5IjpbLTEwMDczODEwMjMsLTE3MTg3MTY0MTBdfQ
+==
 -->
