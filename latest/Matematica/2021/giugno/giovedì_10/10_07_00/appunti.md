@@ -70,8 +70,11 @@ $x \gg e^{-x}$
 Condizioni agli estremi del campo di esistenza
 
 
-$\lim_{x \rightarrow\infin} xe^{x}-1=-\infin$
+$\lim_{x \rightarrow\infin} xe^{x}-1=-\infin e^{-\infin}-1=-\infin\cdot 0-1=-1$
+
+
+$\lim _
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjQ2NTczOCwtMTkyMTkzMjMyNiwxNT
+eyJoaXN0b3J5IjpbLTkwNDYxMTMwNCwtMTkyMTkzMjMyNiwxNT
 gxNjgyOTczLC0xOTAzNjk4MzA5XX0=
 -->
