@@ -28,7 +28,25 @@ $z(x)=e^{-x}$
 
 
 $x\alpha \in (0,1)$
+
+
+---
+
+$f(x)=xe^x-1$
+$f(^{'}(x)=e^x+xe^x=e^x(1+x)$
+$f^{''}(x)=e^x+e^x+xe^x=2e^x=e^x(2+x)$
+
+
+---
+
+
+$f(0) \ll0$
+$f(1) \gg 0$
+$f^{'}(x) \gg 0$
+
+
+$e^x(1+x
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA5MDM4NTQsMTU4MTY4Mjk3MywtMT
+eyJoaXN0b3J5IjpbLTEzMjI4NDE5NzMsMTU4MTY4Mjk3MywtMT
 kwMzY5ODMwOV19
 -->
