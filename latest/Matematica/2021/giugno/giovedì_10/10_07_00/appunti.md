@@ -73,8 +73,13 @@ Condizioni agli estremi del campo di esistenza
 $\lim_{x \rightarrow\infin} xe^{x}-1=-\infin e^{-\infin}-1=-\infin\cdot 0-1=-1$
 
 
-$\lim _
+$\lim _{x\rightarrow \infin}=\infin$
+
+
+---
+
+$f^{'}(x)=e^x(x+1)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDYxMTMwNCwtMTkyMTkzMjMyNiwxNT
+eyJoaXN0b3J5IjpbLTMyMDczMjMwNiwtMTkyMTkzMjMyNiwxNT
 gxNjgyOTczLC0xOTAzNjk4MzA5XX0=
 -->
