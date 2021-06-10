@@ -90,12 +90,17 @@ $f(-1)=-1,37$
 
 Problema sugli esponenziali
 
-p.91 l.4
+P.91 L.4
 
-es 
+es 570
 
+$P(t)=P_{0}\cdot a^t$
+
+$t\rightarrow h$
+
+$P(3)=2P_{0}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Mjg1MTgxMiw1OTYzNDk4MTYsLTMyMD
-czMjMwNiwtMTkyMTkzMjMyNiwxNTgxNjgyOTczLC0xOTAzNjk4
-MzA5XX0=
+eyJoaXN0b3J5IjpbODY1ODg5NTQzLDU5NjM0OTgxNiwtMzIwNz
+MyMzA2LC0xOTIxOTMyMzI2LDE1ODE2ODI5NzMsLTE5MDM2OTgz
+MDldfQ==
 -->
