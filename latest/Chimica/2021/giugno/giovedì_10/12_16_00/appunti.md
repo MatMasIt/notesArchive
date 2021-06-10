@@ -28,7 +28,9 @@ $n_{UA}=nH$
 
 $c= 2N$
 
+
+$n_{el_{scambiati}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg2ODExODksLTE3MTg3MTY0MTBdfQ
+eyJoaXN0b3J5IjpbLTE3ODA3NDk0NzUsLTE3MTg3MTY0MTBdfQ
 ==
 -->
