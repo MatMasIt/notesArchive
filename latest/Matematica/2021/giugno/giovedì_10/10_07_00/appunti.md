@@ -1,7 +1,6 @@
-#  Lezione di Matematica (5° ora)
+#  Lezione di Matematica (3° ora)
 
-## mercoledì 09 giugno 2021, 12:38:00
-
+## giovedì 10 giugno 2021, 10:09:00
 
 
 
@@ -9,5 +8,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE3MDMzOTRdfQ==
+eyJoaXN0b3J5IjpbLTE5MDM2OTgzMDldfQ==
 -->
