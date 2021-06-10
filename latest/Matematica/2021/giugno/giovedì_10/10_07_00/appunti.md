@@ -108,10 +108,12 @@ $P(t)=P_{0}2^{\frac{t}3}$
 
 $\overline{t}$ $P(\overline{t})=3P_{0}$
 
-$3\cancel{P_{0}}=\cancel{P_{0}*2^{\frac{t}3}$
+$3\cancel{P_{0}}=\cancel{P_{0}}2^{\frac{t}3}$
 
+
+$\overline{t}=3\log_{2}3=4,75h$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxNDQ5MDkyLDU5NjM0OTgxNiwtMzIwNz
+eyJoaXN0b3J5IjpbOTk5MDM4OTIwLDU5NjM0OTgxNiwtMzIwNz
 MyMzA2LC0xOTIxOTMyMzI2LDE1ODE2ODI5NzMsLTE5MDM2OTgz
 MDldfQ==
 -->
