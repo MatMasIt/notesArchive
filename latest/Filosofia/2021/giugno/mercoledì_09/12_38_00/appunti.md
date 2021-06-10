@@ -1,4 +1,4 @@
-#  Lezione di Fisica (5° ora)
+#  Lezione di Filosofia (5° ora)
 
 ## mercoledì 09 giugno 2021, 12:38:00
 
@@ -56,6 +56,6 @@ A fondamento della scienza stanno i guidizi sintetici a Priori
 
 p. 354
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDEwNDg2NTksOTM2OTQ3ODc1LDE5ND
-QwMDY5OTcsMjc0NDc1OTY1XX0=
+eyJoaXN0b3J5IjpbLTY3OTU2NjA2NCwtMTQwMTA0ODY1OSw5Mz
+Y5NDc4NzUsMTk0NDAwNjk5NywyNzQ0NzU5NjVdfQ==
 -->
