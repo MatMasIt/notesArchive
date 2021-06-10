@@ -56,7 +56,15 @@ $\boxed{\alpha_{1}+1=Ans-\frac{Anx\cdot e^{Ans}-1}{(Ans+1)e^{Ans}}}$
 |---|
 |1|
 |...|
+
+
+--
+
+
+$f(x) \g 0$
+
+$x \gg e^{-x}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE5MzIzMjYsMTU4MTY4Mjk3MywtMT
-kwMzY5ODMwOV19
+eyJoaXN0b3J5IjpbLTY3NDQzMDE3NiwtMTkyMTkzMjMyNiwxNT
+gxNjgyOTczLC0xOTAzNjk4MzA5XX0=
 -->
