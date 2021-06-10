@@ -20,6 +20,15 @@ $f(-x) \neq f(x) \neq -f(x)$
 3) Intersezioni con gli assi
 
 $xe^x-1=0$
+
+
+$h(x)=x$
+
+$z(x)=e^{-x}$
+
+
+$x\alpha \in (0,1)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTY4Mjk3MywtMTkwMzY5ODMwOV19
+eyJoaXN0b3J5IjpbLTE3ODA5MDM4NTQsMTU4MTY4Mjk3MywtMT
+kwMzY5ODMwOV19
 -->
