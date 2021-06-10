@@ -83,7 +83,19 @@ $f^{'}(x)=e^x(x+1)$
 
 
 $f(-1)=-1,37$
+
+
+---
+
+
+Problema sugli esponenziali
+
+p.91 l.4
+
+es 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2MzQ5ODE2LC0zMjA3MzIzMDYsLTE5Mj
-E5MzIzMjYsMTU4MTY4Mjk3MywtMTkwMzY5ODMwOV19
+eyJoaXN0b3J5IjpbLTQ5Mjg1MTgxMiw1OTYzNDk4MTYsLTMyMD
+czMjMwNiwtMTkyMTkzMjMyNiwxNTgxNjgyOTczLC0xOTAzNjk4
+MzA5XX0=
 -->
