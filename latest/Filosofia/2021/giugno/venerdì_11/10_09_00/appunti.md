@@ -12,8 +12,18 @@ Giudizi sintetici a priori:
 
 > La linea retta è la più breve tra due punti
 
-Non st
+Non sto analizzando il concetto di linea retta
 
+Il concetto di retta (qualità) non implica che sia la più breve tra due punti (quantità)
+
+Giudizi particolari:
+* carattere sintetico (amplificativo)
+* carattere analitico
+
+Secondo kant questi saperi sono la base del pernsiero scientifico
+
+
+come possono essere a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwMjc0NDQwXX0=
+eyJoaXN0b3J5IjpbMTA2ODc5MzQ0MF19
 -->
