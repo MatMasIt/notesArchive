@@ -1,3 +1,7 @@
+# Lezione di Chimica (5° ora)
+
+## giovedì 10 giugno 2021, 12:16:00
+
 $KMnO_{4}+H_2C_2O_4+H_2SO_4 \rightarrow MnSO_4+CO_2+K_2SO_4+H_2O$
 
 $MnO_4^{-}+C_2O_4^{-}+H^{+} \rightarrow Mn{2+}+CO_2+H_2O$
@@ -42,6 +46,7 @@ $KI H_2O \rightarrow K^++I^-+H^++OH^-$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzczMzc3OCwtMTM3MTExNDYxMCw5MT
-cxMjY0OTYsLTE3ODA3NDk0NzUsLTE3MTg3MTY0MTBdfQ==
+eyJoaXN0b3J5IjpbLTE2MTMxNjIyNDUsLTcxNzczMzc3OCwtMT
+M3MTExNDYxMCw5MTcxMjY0OTYsLTE3ODA3NDk0NzUsLTE3MTg3
+MTY0MTBdfQ==
 -->
