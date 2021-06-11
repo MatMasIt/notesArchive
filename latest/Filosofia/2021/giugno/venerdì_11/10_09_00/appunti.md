@@ -23,7 +23,9 @@ Giudizi particolari:
 Secondo kant questi saperi sono la base del pernsiero scientifico
 
 
-come possono essere a 
+come possono essere $a\,priori$ e sintetici?
+
+come si può essere sicuri, certi, necessari ma anche amp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODc5MzQ0MF19
+eyJoaXN0b3J5IjpbMzE2ODg5OTMxXX0=
 -->
