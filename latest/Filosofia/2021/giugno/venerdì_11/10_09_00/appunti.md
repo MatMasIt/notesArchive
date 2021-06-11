@@ -25,7 +25,7 @@ Secondo kant questi saperi sono la base del pernsiero scientifico
 
 come possono essere $a\,priori$ e sintetici?
 
-come si può essere sicuri, certi, necessari ma anche amp
+come si può essere sicuri, certi, necessari ma anche amplificativi della conoscenza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2ODg5OTMxXX0=
+eyJoaXN0b3J5IjpbLTU3NTgyNDE5MF19
 -->
