@@ -4,7 +4,9 @@
 
 ## Remembering a short story
 
-The signalman is a story about a signalman
+The signalman is a story about a signalman who works at a railway intersection
+
+The narrator dicuss 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM4OTAxODBdfQ==
+eyJoaXN0b3J5IjpbLTEyMDgxNzg4MTddfQ==
 -->
