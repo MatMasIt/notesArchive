@@ -39,8 +39,8 @@ Easy narration
 	   Love story
 	   Cruel, Passionate, Inpulsive
    * Markheim
-   Written by Stevenson,who wrote _The strange case of Dr. jekyll and 
+   Written by Stevenson,who wrote _The strange case of Dr. Jekyll and Mr. Hide_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzc0Nzg3LDEyMDkyNjU5NDAsMTA0OT
-QyMDM5MCwtOTU3NDQ3NjI0XX0=
+eyJoaXN0b3J5IjpbMTI3NzU4OTE2OSwxMjA5MjY1OTQwLDEwND
+k0MjAzOTAsLTk1NzQ0NzYyNF19
 -->
