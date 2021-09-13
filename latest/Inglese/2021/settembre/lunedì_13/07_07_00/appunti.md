@@ -53,8 +53,12 @@ Easy narration
 
 
 ## Dr. Jekyll and Mr. Hide
-S
+Story about a double personality (like Dr. Jekyll)
+
+On Wednesday bring the book and execrises, revise the stories
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTgyODYxNiwtODU0ODA0MDkwLDEyMD
-kyNjU5NDAsMTA0OTQyMDM5MCwtOTU3NDQ3NjI0XX0=
+eyJoaXN0b3J5IjpbLTE0MTI2NzQxMjMsLTg1NDgwNDA5MCwxMj
+A5MjY1OTQwLDEwNDk0MjAzOTAsLTk1NzQ0NzYyNF19
 -->
