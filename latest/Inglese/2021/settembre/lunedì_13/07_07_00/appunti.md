@@ -7,6 +7,8 @@
 The signalman is a story about a signalman who works at a railway intersection
 
 The narrator dicusses the duties of the work with him and he explains that he sees a ghost sometimes saying "Halloa below there"
+
+The duties require precision but not a great  deal of work
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTUyNTIwXX0=
+eyJoaXN0b3J5IjpbLTE2MjY4MDQzOTRdfQ==
 -->
