@@ -1,8 +1,6 @@
 # Filosofia
 oggi filosofia
-## d
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY4NzcyNDEsMTUwMzcyNzY0OV19
+eyJoaXN0b3J5IjpbMTUwMzcyNzY0OSwtMTk4Njg3NzI0MSwxNT
+AzNzI3NjQ5XX0=
 -->
