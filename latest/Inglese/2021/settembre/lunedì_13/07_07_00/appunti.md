@@ -48,9 +48,13 @@ Easy narration
     He hears, voices, footsteps, but there is nobody in the shop
     *	Does the story give a moral to the reader?
 	    > We should not be too selfish
+	*	Does the protagonist get away with the crime?
+	He confesses to the secretary
 
 
+## Dr. Jekyll and Mr. Hide
+S
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDgwNDA5MCwxMjA5MjY1OTQwLDEwND
-k0MjAzOTAsLTk1NzQ0NzYyNF19
+eyJoaXN0b3J5IjpbLTUwMTgyODYxNiwtODU0ODA0MDkwLDEyMD
+kyNjU5NDAsMTA0OTQyMDM5MCwtOTU3NDQ3NjI0XX0=
 -->
