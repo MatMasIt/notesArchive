@@ -10,7 +10,11 @@ The narrator dicusses the duties of the work with him and he explains that he se
 
 The duties require precision but not a great  deal of work
 
-the same way the narrator called him is the way the ghost called him and the train conductor will call him
+the same way the narrator called him is the way the ghost called him and the train conductor will call him "below there"
+
+He had seen the ghost before and accidents occurred
+
+"clear the way" ghost and train conductor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODI0NjQxNV19
+eyJoaXN0b3J5IjpbMTg4MjQ3OTY0MF19
 -->
