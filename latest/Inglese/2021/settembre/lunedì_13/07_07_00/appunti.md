@@ -43,7 +43,10 @@ Easy narration
    Atmosphere similar to that book
     Similar to _Macbeth_, by Shakespeare
     Markheim kills the owner of the shop to steal some money
+    He is very anxious, worried, feels guilty
+    Hallucinations, as Macbeth (==haunted== by their sense of guilt)
+    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxMzc5MDk1LDEyMDkyNjU5NDAsMTA0OT
-QyMDM5MCwtOTU3NDQ3NjI0XX0=
+eyJoaXN0b3J5IjpbLTYyMjIxOTM5MywxMjA5MjY1OTQwLDEwND
+k0MjAzOTAsLTk1NzQ0NzYyNF19
 -->
