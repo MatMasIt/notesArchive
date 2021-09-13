@@ -37,7 +37,10 @@ Easy narration
 	   Trial, she is set free
 	   A letter of hers says she invited him over
 	   Love story
+	   Cruel, Passionate, Inpulsive
+   * Markheim
+   Written by Stevenson,who wrote _The strange case of Dr. jekyll and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgxMTI4NjksMTIwOTI2NTk0MCwxMD
-Q5NDIwMzkwLC05NTc0NDc2MjRdfQ==
+eyJoaXN0b3J5IjpbLTcwMzc0Nzg3LDEyMDkyNjU5NDAsMTA0OT
+QyMDM5MCwtOTU3NDQ3NjI0XX0=
 -->
