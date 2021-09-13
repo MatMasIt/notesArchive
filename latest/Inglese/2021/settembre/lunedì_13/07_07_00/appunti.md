@@ -23,6 +23,7 @@ He had seen the ghost before and accidents occurred
 The image of the hand on the eye, same as conductor
 
 the signalman stayed on the rails
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzQ0NzYyNF19
+eyJoaXN0b3J5IjpbMTA0OTQyMDM5MCwtOTU3NDQ3NjI0XX0=
 -->
