@@ -24,8 +24,11 @@ The image of the hand on the eye, same as conductor
 
 the signalman stayed on the rails
 
-
+## In class the order is
+* The Letter
+Crime in malaysia, trial in Singapore
+Plot is quite difficult
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTI2NTk0MCwxMDQ5NDIwMzkwLC05NT
-c0NDc2MjRdfQ==
+eyJoaXN0b3J5IjpbMTY2MjY5NTM4NywxMjA5MjY1OTQwLDEwND
+k0MjAzOTAsLTk1NzQ0NzYyNF19
 -->
