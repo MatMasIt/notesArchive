@@ -31,8 +31,12 @@ Plot is quite difficult
 guilty but set free, goes back to start
 Easy narration
 	*	Summing up of the plot
-	   Killing of Hammond, the lover od
+	   Ms. Crosby
+	   Killing of Hammond, the lover of the protagonist
+	   Killing of Jealousy
+	   Trial, she is set free
+	   A 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjcxMTk4MzksMTIwOTI2NTk0MCwxMD
-Q5NDIwMzkwLC05NTc0NDc2MjRdfQ==
+eyJoaXN0b3J5IjpbMTcxNjk0NDM1MCwxMjA5MjY1OTQwLDEwND
+k0MjAzOTAsLTk1NzQ0NzYyNF19
 -->
