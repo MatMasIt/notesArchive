@@ -25,7 +25,7 @@ The image of the hand on the eye, same as conductor
 the signalman stayed on the rails
 
 ## In class the order is
-* The Letter
+* ==The Letter==
 Crime in malaysia, trial in Singapore
 Plot is quite difficult
 guilty but set free, goes back to start
@@ -38,11 +38,12 @@ Easy narration
 	   A letter of hers says she invited him over
 	   Love story
 	   Cruel, Passionate, Inpulsive
-   * Markheim
+   * ==Markheim==
    Written by Stevenson,who wrote _The strange case of Dr. Jekyll and Mr. Hide (1886)_
    Atmosphere similar to that book
-    
+    Similar to _Macbeth_, by Shakespeare
+    Markheim kills the owner of the shop to steal some money
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDE5NjY5MzEsMTIwOTI2NTk0MCwxMD
-Q5NDIwMzkwLC05NTc0NDc2MjRdfQ==
+eyJoaXN0b3J5IjpbNTgxMzc5MDk1LDEyMDkyNjU5NDAsMTA0OT
+QyMDM5MCwtOTU3NDQ3NjI0XX0=
 -->
