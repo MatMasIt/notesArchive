@@ -38,16 +38,19 @@ Easy narration
 	   A letter of hers says she invited him over
 	   Love story
 	   Cruel, Passionate, Inpulsive
-   * ==Markheim==
+ * ==Markheim==
    Written by Stevenson,who wrote _The strange case of Dr. Jekyll and Mr. Hide (1886)_
    Atmosphere similar to that book
     Similar to _Macbeth_, by Shakespeare
     Markheim kills the owner of the shop to steal some money
     He is very anxious, worried, feels guilty
     Hallucinations, as Macbeth (==haunted== by their sense of guilt)
-    He hears, voices, footsteps, but there s n
-    
+    He hears, voices, footsteps, but there is nobody in the shop
+    *	Does the story give a moral to the reader?
+	    > We should not be too selfish
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzMTcyNTIxLDEyMDkyNjU5NDAsMTA0OT
-QyMDM5MCwtOTU3NDQ3NjI0XX0=
+eyJoaXN0b3J5IjpbLTg1NDgwNDA5MCwxMjA5MjY1OTQwLDEwND
+k0MjAzOTAsLTk1NzQ0NzYyNF19
 -->
