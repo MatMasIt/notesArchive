@@ -35,8 +35,9 @@ Easy narration
 	   Killing of Hammond, the lover of the protagonist
 	   Killing of Jealousy
 	   Trial, she is set free
-	   A 
+	   A letter of hers says she invited him over
+	   Love story
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjk0NDM1MCwxMjA5MjY1OTQwLDEwND
-k0MjAzOTAsLTk1NzQ0NzYyNF19
+eyJoaXN0b3J5IjpbLTE1NDgxMTI4NjksMTIwOTI2NTk0MCwxMD
+Q5NDIwMzkwLC05NTc0NDc2MjRdfQ==
 -->
