@@ -45,8 +45,9 @@ Easy narration
     Markheim kills the owner of the shop to steal some money
     He is very anxious, worried, feels guilty
     Hallucinations, as Macbeth (==haunted== by their sense of guilt)
+    He hears, voices, footsteps, but there s n
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjIxOTM5MywxMjA5MjY1OTQwLDEwND
-k0MjAzOTAsLTk1NzQ0NzYyNF19
+eyJoaXN0b3J5IjpbODYzMTcyNTIxLDEyMDkyNjU5NDAsMTA0OT
+QyMDM5MCwtOTU3NDQ3NjI0XX0=
 -->
