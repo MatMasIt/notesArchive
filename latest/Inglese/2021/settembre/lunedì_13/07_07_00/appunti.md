@@ -28,7 +28,11 @@ the signalman stayed on the rails
 * The Letter
 Crime in malaysia, trial in Singapore
 Plot is quite difficult
+guilty but set free, goes back to start
+Easy narration
+	*	Summing up of the plot
+	   Killing of Hammond, the lover od
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjY5NTM4NywxMjA5MjY1OTQwLDEwND
-k0MjAzOTAsLTk1NzQ0NzYyNF19
+eyJoaXN0b3J5IjpbLTE3MjcxMTk4MzksMTIwOTI2NTk0MCwxMD
+Q5NDIwMzkwLC05NTc0NDc2MjRdfQ==
 -->
