@@ -2,35 +2,20 @@
 
 ## martedì 14 settembre 2021, 08:33:00
 
-### CONTENUTI DEL CORSO DI MATEMATICA
+### CONTENUTI DEL CORSO DI MATEMATICA, CLASSE QUINTA
 
-CLASSE QUINTA
-
-  
-
-LICEO SCIENTIFICO “L. COCITO” ALBA
+  LICEO SCIENTIFICO “L. COCITO” ALBA
 
   
-
-INDICE DELLE UNITÀ DIDATTICHE
+NDICE DELLE UNITÀ DIDATTICHE
 
   
   
-
-1.  GEOMETRIA SOLIDA E ANALITICA NELLO SPAZIO
-    
-
-Settembre- ottobre
-
-2.  INTRODUZIONE ALL’ANALISI
-    
-
-Ottobre-novembre
-
-3.  LA DERIVATA E IL DIFFERENZIALE
-    
-
-Ottobre-novembre
+|N|unità|Quando|
+|---|---|---|
+|1|GEOMETRIA SOLIDA E ANALITICA NELLO SPAZIO|Settembre- ottobre|
+|2|INTRODUZIONE ALL’ANALISI|Ottobre-novembre|
+|3|LA DERIVATA E IL DIFFERENZIALE|Ottobre-novembre
 
 4.  IL CALCOLO INTEGRALE E LE EQUAZIONI DIFFERENZIALI
     
@@ -882,5 +867,5 @@ voto
 
 data ……24 ottobre 2020 firma Prof. Genta Daniela
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzgzNjIyN119
+eyJoaXN0b3J5IjpbNjUxNjIzMDYzXX0=
 -->
