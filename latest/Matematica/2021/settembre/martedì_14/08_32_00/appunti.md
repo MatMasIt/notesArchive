@@ -457,13 +457,10 @@ Essere in grado di:
     
 -   Definizione del limite di una funzione reale:
     
--   f(x)  =l
+-   $f(x)  =l$
     
--   f(x)  =∞
+-   $f(x)  =\infin$
     
--   f(x)  =l
-    
--   f(x)  =∞
     
 -   Asintoti orizzontali, verticali ed obliqui.
     
@@ -499,19 +496,18 @@ Essere in grado di:
   
   
   
+|||
+|---|---|---|
+|MODULO N. 7|TITOLO: DISTRIBUZIONI DI PROBABILITA’|
 
-MODULO N. 7
+**OBIETTIVI**
 
-TITOLO: DISTRIBUZIONI DI PROBABILITA’
-
-OBIETTIVI
-
-COMPETENZE
+**COMPETENZE**
 
 -   Utilizzare modelli probabilistici per risolvere problemi e effettuare scelte consapevoli.
     
 
-CONTENUTI
+**CONTENUTI**
 
   
 
@@ -524,15 +520,13 @@ CONTENUTI
 -   Distribuzione uniforme, esponenziale e normale
     
 
-EVENTUALI
-
-PROPOSTE DI AMPLIAMENTO DELL’OFFERTA FORMATIVA
+**EVENTUALI PROPOSTE DI AMPLIAMENTO DELL’OFFERTA FORMATIVA**
 
 Olimpiadi di matematica
 
   
 
-VERIFICHE
+**VERIFICHE**
 
   
 
@@ -858,6 +852,10 @@ $x=0$
 $m=-2$
 
 $y=-2x$
+
+Per una parabola
+
+$V(\
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3OTc0NDA3XX0=
+eyJoaXN0b3J5IjpbLTE3MTcyNzkxMTFdfQ==
 -->
