@@ -52,7 +52,18 @@ $$
 28=64+4c
 \end{cases} \end{equation}
 $$
+$$
+\begin{equation} \begin{cases} 
+\text{-}\\\text{-}\\
+c=-9
+\end{cases} \end{equation}
+$$
+
+---
+$g:y=-x^2+8x-9$
+$f^{'}=2x$
+$g^{'}=-2x+8$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODM4MDQwMiwtMTE5Njc1ODMyMCwxMT
+eyJoaXN0b3J5IjpbMTA0OTg5MjA1MywtMTE5Njc1ODMyMCwxMT
 MwMjQzMTA5LC0yMDg4NzQ2NjEyXX0=
 -->
