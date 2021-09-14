@@ -184,13 +184,13 @@ Essere in grado di :
     
 
   
-||||
+|||
 |---|---|
 |MODULO N. 3|TITOLO: LA DERIVATA E IL DIFFERENZIALE|
 
-OBIETTIVI
+**OBIETTIVI**
 
-COMPETENZE
+**COMPETENZE**
 
 Essere in grado di:
 
@@ -205,14 +205,14 @@ Essere in grado di:
 -   Rappresentare i punti di non derivabilità di una funzione
     
 
-PREREQUISITI
+**PREREQUISITI**
 
 -   Campi di esistenza
     
 -   limiti
     
 
-CONTENUTI
+**CONTENUTI**
 
 -   Nascita e sviluppo del concetto di derivata
     
@@ -256,9 +256,9 @@ CONTENUTI
 |---|---|
 |MODULO N. 4|TITOLO: IL CALCOLO INTEGRALE E LE EQUAZIONI DIFFERENZIALI|
 
-OBIETTIVI
+**OBIETTIVI**
 
-COMPETENZE
+**COMPETENZE**
 
 Essere in grado di:
 
@@ -267,12 +267,12 @@ Essere in grado di:
 -   Modellizzare un problema e risolverlo con le eq. differenziali
     
 
-PREREQUISITI
+**PREREQUISITI**
 
 -   Derivate
     
 
-CONTENUTI
+**CONTENUTI**
 
   
 
@@ -312,9 +312,9 @@ CONTENUTI
 |---|---|
 |MODULO N. 5|TITOLO: STATISTICA E PROBABILITA’|
 
-OBIETTIVI
+**OBIETTIVI**
 
-COMPETENZE
+**COMPETENZE**
 
 Essere in grado di :
 
@@ -413,9 +413,9 @@ percentuali
 |---|---|
 |MODULO N. 6|TITOLO: LIMITI E CONTINUITA’ DELLE FUNZIONI|
 
-OBIETTIVI
+**OBIETTIVI**
 
-COMPETENZE
+**COMPETENZE**
 
 Essere in grado di:
 
@@ -430,14 +430,14 @@ Essere in grado di:
 -   Calcolare i limiti di forme di indecisione mediante il confronto tra infinitesimi ed infiniti
     
 
-PREREQUISITI
+**PREREQUISITI**
 
 -   Campi di esistenza delle funzioni
     
 -   Algebra
     
 
-CONTENUTI
+**CONTENUTI**
 
 -   Nascita del concetto di limite
     
@@ -859,5 +859,5 @@ $m=-2$
 
 $y=-2x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTE4OTMyOV19
+eyJoaXN0b3J5IjpbNTM3OTc0NDA3XX0=
 -->
