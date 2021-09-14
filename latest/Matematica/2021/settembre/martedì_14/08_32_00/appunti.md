@@ -766,8 +766,13 @@ $t=(2x_t-2)x$
 $t_1:y=2x$
 $t_2:y=-6x$
 
+---
+
+$f:y=x^2+1$
+
+$g:\rightarrow$ simmetrica della $f$ rispetto a $P(2,4)$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTYyNTY2OTUsLTIwODE0MTYwODQsLT
-E3MjcxNTYxNDQsNjAyNzczMzc5XX0=
+eyJoaXN0b3J5IjpbMjAzMTY0NDY0NCwtMjA4MTQxNjA4NCwtMT
+cyNzE1NjE0NCw2MDI3NzMzNzldfQ==
 -->
