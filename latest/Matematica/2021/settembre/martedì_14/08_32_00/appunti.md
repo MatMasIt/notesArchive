@@ -863,8 +863,19 @@ Intersezioni con asse $x$
 
 $$
 \begin{equation}
-\en
+\begin{cases}
+x^2-2x+4=0\\
+y=0
+\end{cases}
+\end{equation}\\
+\begin{equation}
+\begin{cases}
+x=\frac{1\pm\sqrt{1-4}}{1}(\Delta \ll 0)\\
+y=0
+\end{cases}
+\end{equation}
 $$
+No interse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzA2NDg1Nl19
+eyJoaXN0b3J5IjpbLTE1MTE1NzEwNTldfQ==
 -->
