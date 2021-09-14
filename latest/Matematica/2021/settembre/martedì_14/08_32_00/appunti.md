@@ -308,10 +308,9 @@ CONTENUTI
     
 
   
-
-MODULO N. 5
-
-TITOLO: STATISTICA E PROBABILITA’
+|||
+|---|---|
+|MODULO N. 5|TITOLO: STATISTICA E PROBABILITA’|
 
 OBIETTIVI
 
@@ -341,7 +340,7 @@ Essere in grado di :
 -   Utilizzare modelli probabilistici per risolvere problemi ed effettuare scelte consapevoli
     
 
-PREREQUISITI
+**PREREQUISITI**
 
 Insiemi
 
@@ -349,7 +348,7 @@ Prodotto cartesiano tra insiemi
 
 percentuali
 
-CONTENUTI
+**CONTENUTI**
 
 -   Fenomeno collettivo e metodi di indagine
     
@@ -410,10 +409,9 @@ CONTENUTI
 
   
   
-
-MODULO N. 6
-
-TITOLO: LIMITI E CONTINUITA’ DELLE FUNZIONI
+|||
+|---|---|
+|MODULO N. 6|TITOLO: LIMITI E CONTINUITA’ DELLE FUNZIONI|
 
 OBIETTIVI
 
@@ -842,6 +840,12 @@ voto
   
 
 data ……24 ottobre 2020 firma Prof. Genta Daniela
+
+
+----
+
+
+## es 13 p 27 limiti e continuità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTAyNzE1N119
+eyJoaXN0b3J5IjpbLTE5MTc0NTU1MzhdfQ==
 -->
