@@ -590,58 +590,16 @@ GRIGLIA PER L’INTERVALLO DI VALUTAZIONE DAL 2 AL 10.
 |[59,64]|7|
 |[65,70]|7,5|
 |[71,76]|8|
+|[77,82]|8,5|
+|[83,88]|9|
+|[89,94]|9,5|
+|[95,100]|10|
 
-[77,82]
-
-[83,88]
-
-[89,94]
-
-[95,100]
-
-voto
-
-2
-
-2½
-
-3
-
-3½
-
-4
-
-4½
-
-5
-
-5½
-
-6
-
-6½
-
-7
-
-7½
-
-8
-
-8½
-
-9
-
-9½
-
-10
-
-  
 
 GRIGLIA PER L’INTERVALLO DI VALUTAZIONE DAL 3 AL 9.
 
-intervalli di punteggio
-
-[0,6]
+|Intervallo|Voto|
+|[0,6]|3|
 
 [7,12]
 
@@ -761,6 +719,11 @@ y=4
 $$
 
 derivata: $\lim_{t\to 0}\frac{f(x+t)-f(x)}{\cancel{x}+t-\cancel{x}}$
+
+
+Notazione di liebniz
+
+$\frac{df(x)}{dx}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzc5ODQ5NDldfQ==
+eyJoaXN0b3J5IjpbMTc0NzAzMzEwN119
 -->
