@@ -26,16 +26,10 @@ NDICE DELLE UNITÀ DIDATTICHE
 ### ORGANIZZAZIONE MODULARE DISCIPLINARE DEL PERCORSO DIDATTICO
 
   
-|Moduli|
-MODULO N. 1
-
-TITOLO: GEOMETRIA EUCLIDEA E ANALITICA NELLO SPAZIO
-
-OBIETTIVI
-
-CONOSCENZE
-
-Cenni di geometria euclidea nello spazio:
+|||
+|---|---|
+|MODULO N. 1|TITOLO: GEOMETRIA EUCLIDEA E ANALITICA NELLO SPAZIO|
+|OBIETTIVI/CONOSCENZE|Cenni di geometria euclidea nello spazio:
 
 -   Retta e piano nello spazio
     
@@ -851,5 +845,5 @@ voto
 
 data ……24 ottobre 2020 firma Prof. Genta Daniela
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU3MDM1MzddfQ==
+eyJoaXN0b3J5IjpbMzkyNzk4NTgwXX0=
 -->
