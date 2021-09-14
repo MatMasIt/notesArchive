@@ -27,8 +27,8 @@ $$
 
 
 
-
+\frac{}{} \left( \right)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTExODM4OTEsLTg1NjA2MjIwOSw0OT
-IxNTE2MzIsMzg3NDE0NjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNjE0NTQ2ODI5LC04NTYwNjIyMDksNDkyMT
+UxNjMyLDM4NzQxNDY2LDczMDk5ODExNl19
 -->
