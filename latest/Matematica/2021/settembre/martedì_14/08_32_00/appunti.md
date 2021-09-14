@@ -150,7 +150,7 @@ Essere in grado di :
 -   Rappresentazioni di funzioni elementari
     
 
-CONTENUTI
+**CONTENUTI**
 
 -   Nascita e sviluppo storico dello studio dell’analisi
     
@@ -184,10 +184,9 @@ CONTENUTI
     
 
   
-
-MODULO N. 3
-
-TITOLO: LA DERIVATA E IL DIFFERENZIALE
+||||
+|---|---|
+|MODULO N. 3|TITOLO: LA DERIVATA E IL DIFFERENZIALE|
 
 OBIETTIVI
 
@@ -253,10 +252,9 @@ CONTENUTI
     
 
   
-
-MODULO N. 4
-
-TITOLO: IL CALCOLO INTEGRALE E LE EQUAZIONI DIFFERENZIALI
+|||
+|---|---|
+|MODULO N. 4|TITOLO: IL CALCOLO INTEGRALE E LE EQUAZIONI DIFFERENZIALI|
 
 OBIETTIVI
 
@@ -845,5 +843,5 @@ voto
 
 data ……24 ottobre 2020 firma Prof. Genta Daniela
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjc1NDMxMzNdfQ==
+eyJoaXN0b3J5IjpbLTMxNTAyNzE1N119
 -->
