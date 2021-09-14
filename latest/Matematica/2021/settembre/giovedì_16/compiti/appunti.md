@@ -41,11 +41,11 @@ a=-1\\
 \begin{equation} \begin{cases} 
 a=-1\\
 b=8\\
-7=\frac{64+}{4}
+7=\frac{64+4c}{4}
 \end{cases} \end{equation}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTkwMzE3MiwtMTE5Njc1ODMyMCwxMT
+eyJoaXN0b3J5IjpbMTE5NDA0NTQyMSwtMTE5Njc1ODMyMCwxMT
 MwMjQzMTA5LC0yMDg4NzQ2NjEyXX0=
 -->
