@@ -696,7 +696,10 @@ $\lim_{t\to 0}\frac{f(x+t)-f(x)}{\cancel{x}+t-\cancel{x}}$
 
 
 ### Tabella derivate
-|$
+|$f(x)$|$D(f(x))$
+|---|---|
+|$y=x^n$|$y=nx^{n-1}$|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzkwMTc3LDYwMjc3MzM3OV19
+eyJoaXN0b3J5IjpbMTAzMjQ4OTYyLDYwMjc3MzM3OV19
 -->
