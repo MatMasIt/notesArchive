@@ -2,8 +2,12 @@
 
 ## 19 p. 27
 
-$f:y=x^2+1$
-$g\to simmetrico\,$
+> $f:y=x^2+1$
+> $g\to simmetrico\,di\,f\,per\,P(2,4)$
+
+$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU5NzEzNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE0MjgyNDgzNDUsLTIwODg3NDY2MTJdfQ
+==
 -->
