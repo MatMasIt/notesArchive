@@ -38,9 +38,14 @@ a=-1\\
 4=\frac{b}{2} \\
 7=\frac{b^2-4ac}{4a}
 \end{cases} \end{equation}
+\begin{equation} \begin{cases} 
+a=-1\\
+b=8\\
+7=\frac{64+}{4}
+\end{cases} \end{equation}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY3NTgzMjAsMTEzMDI0MzEwOSwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTUwOTkwMzE3MiwtMTE5Njc1ODMyMCwxMT
+MwMjQzMTA5LC0yMDg4NzQ2NjEyXX0=
 -->
