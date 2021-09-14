@@ -29,7 +29,10 @@ NDICE DELLE UNITÀ DIDATTICHE
 |||
 |---|---|
 |MODULO N. 1|TITOLO: GEOMETRIA EUCLIDEA E ANALITICA NELLO SPAZIO|
-|OBIETTIVI/CONOSCENZE|Cenni di geometria euclidea nello spazio:
+
+OBIETTIVI
+**CONOSCENZE**
+Cenni di geometria euclidea nello spazio:
 
 -   Retta e piano nello spazio
     
@@ -79,7 +82,7 @@ Geometria analitica nello spazio:
 
 OBIETTIVI
 
-COMPETENZE
+**COMPETENZE**
 
 -   Saper utilizzare geogebra 3D
     
@@ -104,7 +107,7 @@ COMPETENZE
 -   Saper calcolare la sup. laterale di solidi di rotazione o di una sfera
     
 
-PREREQUISITI
+**PREREQUISITI**
 
 -   Geometria euclidea
     
@@ -116,15 +119,12 @@ PREREQUISITI
     
 
   
-  
-
-MODULO N. 2
-
-TITOLO: INTRODUZIONE ALL’ANALISI
-
+  |||
+  |---|---|
+|MODULO N. 2|TITOLO: INTRODUZIONE ALL’ANALISI|
 OBIETTIVI
 
-COMPETENZE
+**COMPETENZE**
 
 Essere in grado di :
 
@@ -141,7 +141,7 @@ Essere in grado di :
 -   risolvere problemi di massimo e minimo
     
 
-PREREQUISITI
+**PREREQUISITI**
 
 -   Insiemi
     
@@ -845,5 +845,5 @@ voto
 
 data ……24 ottobre 2020 firma Prof. Genta Daniela
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyNzk4NTgwXX0=
+eyJoaXN0b3J5IjpbLTEwMjc1NDMxMzNdfQ==
 -->
