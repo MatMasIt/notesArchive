@@ -532,18 +532,9 @@ Olimpiadi di matematica
 |Tipo|N|
 |---|---|
 |Interrogazione (numero medio per ogni alunno)|3|
-|Analisi di testo Saggio breve
-
-Articolo giornalistico
-
-Relazione
-
-Tema
-
-Prova semistrutturata
-
-Prova
-
+|Analisi di testo Saggio breve, Articolo giornalistico, Relazione, Tema|3
+|Prova semistrutturata|2|
+|Prova
 stutturata
 
 Problema
@@ -893,5 +884,5 @@ y=4
 \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQ4MzYwNDNdfQ==
+eyJoaXN0b3J5IjpbLTEwNzU1Mjg4NTRdfQ==
 -->
