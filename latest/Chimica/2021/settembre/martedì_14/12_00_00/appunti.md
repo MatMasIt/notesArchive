@@ -1,3 +1,6 @@
+# Lezione di Chimica (5° ora)
+
+## martedì 14 settembre 2021, 12:00:00
 
 ${}^{1}_{1}H$ $1s^1$
 $Z=1: 1p+, 1e-$
@@ -97,5 +100,5 @@ $m_f=\frac{m_1\cdot p_1  +m_2\cdot p_2}{100}$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTEzMTg2NzZdfQ==
+eyJoaXN0b3J5IjpbMTIzNTQwMzc5OV19
 -->
