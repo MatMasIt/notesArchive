@@ -8,7 +8,8 @@ poi a casa comincia a sperimentare con legno, metalli, plastica
 
 Guide fondazione Burri
 
-e
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNDg0OTczLC0xMzQ0NDU4MDc4XX0=
+eyJoaXN0b3J5IjpbLTEzNDQ0NTgwNzgsLTEzNDQ0NTgwNzhdfQ
+==
 -->
