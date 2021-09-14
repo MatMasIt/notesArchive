@@ -6,6 +6,9 @@ Burri, fascista convinto,, trasportato in prigionia negli stati uniti
 Inizia a fare arte con sacchi di iuta
 poi a casa comincia a sperimentare con legno, metalli, plastica
 
+Guide fondazione Burri
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDgwMzE5M119
+eyJoaXN0b3J5IjpbLTEzNDQ0NTgwNzhdfQ==
 -->
