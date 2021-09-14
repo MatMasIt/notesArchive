@@ -599,13 +599,11 @@ GRIGLIA PER L’INTERVALLO DI VALUTAZIONE DAL 2 AL 10.
 GRIGLIA PER L’INTERVALLO DI VALUTAZIONE DAL 3 AL 9.
 
 |Intervallo|Voto|
+|---|---|
 |[0,6]|3|
-
-[7,12]
-
-[13,22]
-
-[23,29]
+|[7,12]|3,5|
+|[13,22]|4|
+|[23,29]|4
 
 [30,37]
 
@@ -724,6 +722,12 @@ derivata: $\lim_{t\to 0}\frac{f(x+t)-f(x)}{\cancel{x}+t-\cancel{x}}$
 Notazione di liebniz
 
 $\frac{df(x)}{dx}$
+$y^{'}$
+$ydotover$
+$D(f(x))$
+
+Tutte uguali a 
+$\lim_{t\to 0}\frac{f(x+t)-f(x)}{\cancel{x}+t-\cancel{x}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzAzMzEwN119
+eyJoaXN0b3J5IjpbLTE1NjExOTI2MDFdfQ==
 -->
