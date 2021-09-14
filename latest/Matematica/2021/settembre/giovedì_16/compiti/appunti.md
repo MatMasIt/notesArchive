@@ -70,12 +70,14 @@ $$
 f^{'}\\
 g^{'}
  \end{cases} \end{equation}\\
+ $$
+ $$
  \begin{equation} \begin{cases} 
-f^{'}=2x\
+f^{'}=2x\\
 g^{'}=-2x+8
  \end{cases} \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc2NTUyMjUsMTA0OTg5MjA1MywtMT
-E5Njc1ODMyMCwxMTMwMjQzMTA5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE2NTA4MjE2OSwxMDQ5ODkyMDUzLC0xMT
+k2NzU4MzIwLDExMzAyNDMxMDksLTIwODg3NDY2MTJdfQ==
 -->
