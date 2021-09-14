@@ -120,11 +120,17 @@ $y=2x$
 
 $$
 \begin{equation} \begin{cases}
-y_T^{'}=(-2x+8)x_t^{'}\\
-y_T^{'}=-x_t^2+
+x^2_t=9
  \end{cases} \end{equation}
 $$
+
+$$
+y-4=2(x-2)\\
+y=2x\\
+y-4=6(x-2)\\
+y=6x-8
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzNTkyNTA5LDEwNDk4OTIwNTMsLTExOT
-Y3NTgzMjAsMTEzMDI0MzEwOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTI4NzI2NzI4NywxMDQ5ODkyMDUzLC0xMT
+k2NzU4MzIwLDExMzAyNDMxMDksLTIwODg3NDY2MTJdfQ==
 -->
