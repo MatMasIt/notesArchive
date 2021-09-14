@@ -710,8 +710,11 @@ $f:y=x^2-2x+4$
 $y^{'}=2x-2$
 
 
-$\boxed{m_T=\left(\frac{f(x)}{dx}\right)_{x=x_t}=2x_{t}-2$
+$\boxed{m_T=\left(\frac{f(x)}{dx}\right)_{x=x_t}=2x_{t}-2}$
+Attenzione a questo tipo di notazione
+
+$D[f(x)]_{x=x
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTYxNDc0NDAsLTIwODE0MTYwODQsLT
-E3MjcxNTYxNDQsNjAyNzczMzc5XX0=
+eyJoaXN0b3J5IjpbLTg1NTQ1OTk0MCwtMjA4MTQxNjA4NCwtMT
+cyNzE1NjE0NCw2MDI3NzMzNzldfQ==
 -->
