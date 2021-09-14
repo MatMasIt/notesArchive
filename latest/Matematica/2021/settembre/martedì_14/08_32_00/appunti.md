@@ -762,8 +762,12 @@ x_t=\pm2\\
 \end{equation}
 $$
 
-$t=(2X_t
+$t=(2x_t-2)x$
+$t_1:y=2x$
+$t_2:y=-6x$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDAwMTgxMzcsLTIwODE0MTYwODQsLT
+eyJoaXN0b3J5IjpbLTE0OTYyNTY2OTUsLTIwODE0MTYwODQsLT
 E3MjcxNTYxNDQsNjAyNzczMzc5XX0=
 -->
