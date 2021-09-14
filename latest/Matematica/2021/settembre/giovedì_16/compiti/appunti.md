@@ -110,9 +110,14 @@ $$
 
 $$
 \begin{equation} \begin{cases} 
+x_t=1\\
+y_t=2
  \end{cases} \end{equation}
 $$
+
+$y=2x$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzYyODg0MSwxMDQ5ODkyMDUzLC0xMT
-k2NzU4MzIwLDExMzAyNDMxMDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE0NjE1NjAzODUsMTA0OTg5MjA1MywtMT
+E5Njc1ODMyMCwxMTMwMjQzMTA5LC0yMDg4NzQ2NjEyXX0=
 -->
