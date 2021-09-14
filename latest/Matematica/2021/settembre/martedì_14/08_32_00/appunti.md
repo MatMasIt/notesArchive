@@ -603,56 +603,18 @@ GRIGLIA PER L’INTERVALLO DI VALUTAZIONE DAL 3 AL 9.
 |[0,6]|3|
 |[7,12]|3,5|
 |[13,22]|4|
-|[23,29]|4
+|[23,29]|4,5|
+|[30,37]|5|
+|[38,47]|5,5|
+|[48,55]|6|
+|[56,62]|6,5|
+|[63,71]|7|
+|[72,79]|7,5|
+|[80,86]|8|
+|[87,93]|8,5|
+|[94,100]|9|
 
-[30,37]
 
-[38,47]
-
-[48,55]
-
-[56,62]
-
-[63,71]
-
-[72,79]
-
-[80,86]
-
-[87,93]
-
-[94,100]
-
-voto
-
-3
-
-3½
-
-4
-
-4½
-
-5
-
-5½
-
-6
-
-6½
-
-7
-
-7½
-
-8
-
-8½
-
-9
-
-  
-  
 
 data ……24 ottobre 2020 firma Prof. Genta Daniela
 
@@ -729,5 +691,5 @@ $D(f(x))$
 Tutte uguali a 
 $\lim_{t\to 0}\frac{f(x+t)-f(x)}{\cancel{x}+t-\cancel{x}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjExOTI2MDFdfQ==
+eyJoaXN0b3J5IjpbMjE1NzEzMDM4XX0=
 -->
