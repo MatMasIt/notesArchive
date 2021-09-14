@@ -30,6 +30,16 @@ V_{2x}=V_{1x}+2P_X=4\\
 V_{2y}=V_{1y}+2P_y=7
  \end{cases} \end{equation}
 $$
+
+
+$$
+\begin{equation} \begin{cases} 
+a=-1\\
+4=\frac{b}{2} \\
+7=\frac{b^2-4ac}{4a}\end{cases} \end{equation}
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDI0MzEwOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE5NTQwOTI5NTgsMTEzMDI0MzEwOSwtMj
+A4ODc0NjYxMl19
 -->
