@@ -5,11 +5,17 @@
 > $f:y=x^2+1$
 > $g\to simmetrico\,di\,f\,per\,P(2,4)$
 
-$$
-$$
+### Vertice
 
-xle xle 
+$$
+\begin{equation}
+ \begin{cases} 
+ V_{1x}=-\frac{b}
+ \end{cases} 
+ \end{equation}
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwMDc2NzU1LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTExMjY5NzA2MjIsLTIwODg3NDY2MTJdfQ
+==
 -->
