@@ -736,12 +736,20 @@ T \in f
 \end{cases}
 \end{equation}\implies \begin{equation}
 \begin{cases}
-y_T=(2x_T-2)x_t=2
+y_t=(2x_t-2)x_t=2x_t^2-2x_t\\
+y_t=x_t^2-2x_t+4
+\end{cases}
+\end{equation}
+$$
+$$
+\begin{equation}
+\begin{cases}
+x_t^2\cancel{-2x_T}+4=2x_t^2\cancel\\
 T \in f
 \end{cases}
 \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTc0NjAwOSwtMjA4MTQxNjA4NCwtMT
+eyJoaXN0b3J5IjpbMTk4ODAwNjY4NywtMjA4MTQxNjA4NCwtMT
 cyNzE1NjE0NCw2MDI3NzMzNzldfQ==
 -->
