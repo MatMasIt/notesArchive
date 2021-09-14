@@ -90,9 +90,29 @@ $$
 
 $$
 \begin{equation} \begin{cases} 
-T \in  \end{cases} \end{equation}
+y_t=(2x_k)x_t\\
+y_t=x_t^2+1
+ \end{cases} \end{equation}
+$$
+
+
+$$
+\begin{equation} \begin{cases} 
+y_t=2x^2_t\\
+y_t=x_t^2+1
+ \end{cases} \end{equation}
+$$
+
+
+$$
+2x_t^2=x_t^2+1
+$$
+
+$$
+\begin{equation} \begin{cases} 
+ \end{cases} \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzMzc3MTYwLDEwNDk4OTIwNTMsLTExOT
-Y3NTgzMjAsMTEzMDI0MzEwOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTA2NzYyODg0MSwxMDQ5ODkyMDUzLC0xMT
+k2NzU4MzIwLDExMzAyNDMxMDksLTIwODg3NDY2MTJdfQ==
 -->
