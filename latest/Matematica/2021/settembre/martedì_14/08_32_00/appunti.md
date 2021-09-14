@@ -695,7 +695,8 @@ $\lim_{t\to 0}\frac{f(x+t)-f(x)}{\cancel{x}+t-\cancel{x}}$
 
 
 
-
+### Tabella derivate
+|$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA3NDY1OTcsNjAyNzczMzc5XX0=
+eyJoaXN0b3J5IjpbMTUwMzkwMTc3LDYwMjc3MzM3OV19
 -->
