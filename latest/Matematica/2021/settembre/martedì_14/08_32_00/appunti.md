@@ -846,6 +846,11 @@ data ……24 ottobre 2020 firma Prof. Genta Daniela
 
 
 ## es 13 p 27 limiti e continuità
+
+$P:y=x^2+2x+4$
+$O\in t$
+
+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc0NTU1MzhdfQ==
+eyJoaXN0b3J5IjpbMTEyMTg3OTU2XX0=
 -->
