@@ -726,7 +726,22 @@ $T(x_t,y_t)$
 
 Condizioni
 T tangente a parabola, T passa per $(0,0)$
+
+
+$$
+\begin{equation}
+\begin{cases}
+T \in t\\
+T \in f
+\end{cases}
+\end{equation}\implies \begin{equation}
+\begin{cases}
+y_T=(2x_T-2)x_t=2
+T \in f
+\end{cases}
+\end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTczNDE1NDEsLTIwODE0MTYwODQsLT
-E3MjcxNTYxNDQsNjAyNzczMzc5XX0=
+eyJoaXN0b3J5IjpbLTY3MTc0NjAwOSwtMjA4MTQxNjA4NCwtMT
+cyNzE1NjE0NCw2MDI3NzMzNzldfQ==
 -->
