@@ -36,10 +36,11 @@ $$
 \begin{equation} \begin{cases} 
 a=-1\\
 4=\frac{b}{2} \\
-7=\frac{b^2-4ac}{4a}\end{cases} \end{equation}
+7=\frac{b^2-4ac}{4a}
+\end{cases} \end{equation}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQwOTI5NTgsMTEzMDI0MzEwOSwtMj
+eyJoaXN0b3J5IjpbLTExOTY3NTgzMjAsMTEzMDI0MzEwOSwtMj
 A4ODc0NjYxMl19
 -->
