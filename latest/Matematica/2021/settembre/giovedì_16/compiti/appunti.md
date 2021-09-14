@@ -63,7 +63,19 @@ $$
 $g:y=-x^2+8x-9$
 $f^{'}=2x$
 $g^{'}=-2x+8$
+
+
+$$
+\begin{equation} \begin{cases} 
+f^{'}\\
+g^{'}
+ \end{cases} \end{equation}\\
+ \begin{equation} \begin{cases} 
+f^{'}=2x\
+g^{'}=-2x+8
+ \end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTg5MjA1MywtMTE5Njc1ODMyMCwxMT
-MwMjQzMTA5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE2MDc2NTUyMjUsMTA0OTg5MjA1MywtMT
+E5Njc1ODMyMCwxMTMwMjQzMTA5LC0yMDg4NzQ2NjEyXX0=
 -->
