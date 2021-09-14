@@ -700,7 +700,9 @@ $\lim_{t\to 0}\frac{f(x+t)-f(x)}{\cancel{x}+t-\cancel{x}}$
 |---|---|
 |$y=x^n$|$y=nx^{n-1}$|
 |$g(x)=kf(x)$|$\dot{g}(x)=k\dot{f}(x)$|
-|g(x)=f(x)+h(x)$|$\dot{g}(x)=\dot{f}(x)+
+|$g(x)=f(x)\pm h(x)$|$\dot{g}(x)=\dot{f}(x)\pm\dot{h}(x)$
+|$f(x)=f(x)\cdot g(x)$|$\dot{g}(x)=\dot{f}(x)h(x)+f(x)\cdot\dot{h}(x)$|
+|$g(x)=\frac{f(x)}{h(x)}$$\dot{g}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDk2MTU0OSw2MDI3NzMzNzldfQ==
+eyJoaXN0b3J5IjpbMTUyODAzMTM5Niw2MDI3NzMzNzldfQ==
 -->
