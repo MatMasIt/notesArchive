@@ -586,13 +586,10 @@ GRIGLIA PER L’INTERVALLO DI VALUTAZIONE DAL 2 AL 10.
 |[37,43]|5|
 |[44,48]|5,5|
 |[49,53]|6|
-|[54,58]|6
-
-[59,64]
-
-[65,70]
-
-[71,76]
+|[54,58]|6,5|
+|[59,64]|7|
+|[65,70]|7,5|
+|[71,76]|8|
 
 [77,82]
 
@@ -762,6 +759,8 @@ y=4
 \end{cases}
 \end{equation}
 $$
+
+derivata: $\lim_{t\to 0}\frac{f(x+t)-f(x)}{\cancel{x}+t-\cancel{x}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3ODMxMTUxXX0=
+eyJoaXN0b3J5IjpbLTE1Mzc5ODQ5NDldfQ==
 -->
