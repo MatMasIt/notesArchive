@@ -638,6 +638,8 @@ $m=-2$
 
 $y=-2x$
 
+(soluzione mia, may be wrong)
+
 Per disegnare una parabola
 
 Vertice
@@ -713,8 +715,15 @@ $y^{'}=2x-2$
 $\boxed{m_T=\left(\frac{f(x)}{dx}\right)_{x=x_t}=2x_{t}-2}$
 Attenzione a questo tipo di notazione
 
-$D[f(x)]_{x=x
+$D[f(x)]_{x=x_T}$
+
+
+$$
+y=(2x_t-2)x
+$$
+
+$T(y
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTQ1OTk0MCwtMjA4MTQxNjA4NCwtMT
-cyNzE1NjE0NCw2MDI3NzMzNzldfQ==
+eyJoaXN0b3J5IjpbLTE2MTkxODcyMzksLTIwODE0MTYwODQsLT
+E3MjcxNTYxNDQsNjAyNzczMzc5XX0=
 -->
