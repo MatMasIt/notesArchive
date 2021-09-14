@@ -534,142 +534,14 @@ Olimpiadi di matematica
 |Interrogazione (numero medio per ogni alunno)|3|
 |Analisi di testo Saggio breve, Articolo giornalistico, Relazione, Tema|3
 |Prova semistrutturata|2|
-|Prova
-stutturata
-
-Problema
-
-Casi
-
-Esercizi
-
-Progetto
-
-3
-
-3
-
-2
+|Prova stutturata||
+|Problema, Casi, Esercizi|6|
+|Progetto||
 
   
 
-6
+  |
 
-  
-
-  
-
-Metodologie didattiche adottate nel processo di insegnamento apprendimento:
-
-  
-
-Spazi utilizzati
-
-  
-
-Strumenti utilizzati
-
-  
-
-Metodologie utilizzate
-
-  
-
-Aula di classe
-
-X
-
-LIM
-
-X
-
-Lezioni frontali
-
-X
-
-Laboratorio informatica
-
-X
-
-Apparecchiature tecniche
-
-X
-
-Lavoro individuale autonomo
-
-X
-
-  
-
-  
-
-  
-
-  
-
-Lavoro individuale guidato
-
-X
-
-  
-
-  
-
-  
-
-  
-
-Lavori di gruppo
-
-X
-
-  
-
-  
-
-  
-
-  
-
-Esercitazioni pratiche
-
-X
-
-  
-
-  
-
-  
-
-  
-
-Ricerche
-
-X
-
-  
-
-  
-
-  
-
-  
-
-Applicazioni con uso di elaboratori
-
-X
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
   
 
@@ -884,5 +756,5 @@ y=4
 \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzU1Mjg4NTRdfQ==
+eyJoaXN0b3J5IjpbLTEzMTg1MDQ4MTRdfQ==
 -->
