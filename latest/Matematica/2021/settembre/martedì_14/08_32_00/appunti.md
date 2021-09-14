@@ -847,10 +847,17 @@ data ……24 ottobre 2020 firma Prof. Genta Daniela
 
 ## es 13 p 27 limiti e continuità
 
-$P:y=x^2+2x+4$
+$P:y=x^2-2x+4$
+$D(P)=2x-2$
 $O\in t$
 
-$
+
+$m=2x-2$
+$x=0$
+
+$m=-2$
+
+$y=-2x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTg3OTU2XX0=
+eyJoaXN0b3J5IjpbLTk4NTE4OTMyOV19
 -->
