@@ -540,7 +540,23 @@ Olimpiadi di matematica
 
   
 
-  |
+ 
+ ### Metodologie didattiche adottate nel processo di insegnamento apprendimento
+
+Spazi Utilizzati
+* Aula di classe
+* Aula di informatica
+Strumenti
+* Lim
+* Apparechiature tecniche
+Metodologie Utilizzate
+* Lezioni frontali
+* Lavoro individuale autonomo
+* Lavoro individuale guidato
+* Lavori di gruppo
+* Esercitazioni pratiche
+* Ricerche
+* Applicazioni con uso di laboratorio
 
 
   
@@ -756,5 +772,5 @@ y=4
 \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTg1MDQ4MTRdfQ==
+eyJoaXN0b3J5IjpbLTE5MzY3ODI0NzldfQ==
 -->
