@@ -19,12 +19,16 @@ xco
 > Citazione<br /> *Opera*, Autore, anno
 
 xle 
-< 
+
+
+$$
+\left(  \frac{3}{6}  \right)
+$$
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDMxMTYxOCwtODU2MDYyMjA5LDQ5Mj
-E1MTYzMiwzODc0MTQ2Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTExOTExODM4OTEsLTg1NjA2MjIwOSw0OT
+IxNTE2MzIsMzg3NDE0NjYsNzMwOTk4MTE2XX0=
 -->
