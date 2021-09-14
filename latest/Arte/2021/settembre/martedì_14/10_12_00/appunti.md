@@ -1,6 +1,11 @@
 # Lezione di Arte (3° ora)
 
-## martedì 14 sette, 11:41:00
+## martedì 14 settembre 2021, 10:12:00
+
+Burri, fascista convinto,, trasportato in prigionia negli stati uniti 
+Inizia a fare arte con sacchi di iuta
+poi a casa comincia a sperimentare con legno, metalli, plastica
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzY3MDY4Nl19
+eyJoaXN0b3J5IjpbLTU3NDgwMzE5M119
 -->
