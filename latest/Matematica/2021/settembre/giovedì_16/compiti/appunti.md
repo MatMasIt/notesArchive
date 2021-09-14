@@ -10,12 +10,14 @@
 $$
 \begin{equation}
  \begin{cases} 
- V_{1x}=-\frac{b}
+ V_{1x}=-\frac{b}{2a}=0\\
+ 
  \end{cases} 
  \end{equation}
 $$
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY5NzA2MjIsLTIwODg3NDY2MTJdfQ
+eyJoaXN0b3J5IjpbLTE1OTM5ODI1MzQsLTIwODg3NDY2MTJdfQ
 ==
 -->
