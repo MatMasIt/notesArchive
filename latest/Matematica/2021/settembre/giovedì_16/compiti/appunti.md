@@ -18,9 +18,18 @@ $$
 $$
 
 $$
-\vec{V_P}=\
+\vec{V_P}=\begin{pmatrix}  
+2\\
+3
+\end{pmatrix}
+$$
+
+$$
+\begin{equation} \begin{cases} 
+V_{2x}=V_{1x}+2P_X=4\\
+V_{2y}=V_{1y}+2P_y=7
+ \end{cases} \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQxMDQzNDksLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMTc4NDY4MTQ5OCwtMjA4ODc0NjYxMl19
 -->
