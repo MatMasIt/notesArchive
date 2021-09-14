@@ -529,12 +529,10 @@ Olimpiadi di matematica
 **VERIFICHE**
 
   
-
-Interrogazione (numero medio per ogni alunno)
-
-  
-
-Analisi di testo Saggio breve
+|Tipo|N|
+|---|---|
+|Interrogazione (numero medio per ogni alunno)|3|
+|Analisi di testo Saggio breve
 
 Articolo giornalistico
 
@@ -895,5 +893,5 @@ y=4
 \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIxOTQ0MzBdfQ==
+eyJoaXN0b3J5IjpbLTExNDQ4MzYwNDNdfQ==
 -->
