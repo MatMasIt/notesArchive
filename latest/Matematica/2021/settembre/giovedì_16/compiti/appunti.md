@@ -119,9 +119,11 @@ $y=2x$
 
 
 $$
-\begin{equation} \begin{cases} Here \end{cases} \end{equation}
+\begin{equation} \begin{cases}
+
+ \end{cases} \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTg0MzE4NSwxMDQ5ODkyMDUzLC0xMT
+eyJoaXN0b3J5IjpbMTkxOTcwMjY4NywxMDQ5ODkyMDUzLC0xMT
 k2NzU4MzIwLDExMzAyNDMxMDksLTIwODg3NDY2MTJdfQ==
 -->
