@@ -683,7 +683,7 @@ $$
 derivata: $\lim_{t\to 0}\frac{f(x+t)-f(x)}{\cancel{x}+t-\cancel{x}}$
 
 
-Notazione di liebniz
+Notazione di Liebniz
 
 $\frac{df(x)}{dx}$
 $y^{'}$
@@ -692,6 +692,10 @@ $D(f(x))$
 
 Tutte uguali a 
 $\lim_{t\to 0}\frac{f(x+t)-f(x)}{\cancel{x}+t-\cancel{x}}$
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyNzczMzc5XX0=
+eyJoaXN0b3J5IjpbLTE3OTA3NDY1OTcsNjAyNzczMzc5XX0=
 -->
