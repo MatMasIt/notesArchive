@@ -11,13 +11,16 @@ $$
 \begin{equation}
  \begin{cases} 
  V_{1x}=-\frac{b}{2a}=0\\
- 
+ V_{1y}=1
  \end{cases} 
- \end{equation}
+ \end{equation}\\
+ V(0,1)
 $$
 
-
+$$
+\vec{V_P}=\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM5ODI1MzQsLTIwODg3NDY2MTJdfQ
+eyJoaXN0b3J5IjpbLTIxMjQxMDQzNDksLTIwODg3NDY2MTJdfQ
 ==
 -->
