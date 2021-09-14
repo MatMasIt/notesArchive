@@ -616,11 +616,13 @@ GRIGLIA PER L’INTERVALLO DI VALUTAZIONE DAL 3 AL 9.
 
 
 
-data ……24 ottobre 2020 firma Prof. Genta Daniela
+data: 24 ottobre 2020 
+
+_Prof. Genta Daniela_
 
 
 ----
-
+# Eserxizi
 
 ## es 13 p 27 limiti e continuità
 
@@ -685,11 +687,11 @@ Notazione di liebniz
 
 $\frac{df(x)}{dx}$
 $y^{'}$
-$ydotover$
+$\dot{y}$
 $D(f(x))$
 
 Tutte uguali a 
 $\lim_{t\to 0}\frac{f(x+t)-f(x)}{\cancel{x}+t-\cancel{x}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1NzEzMDM4XX0=
+eyJoaXN0b3J5IjpbNjAyNzczMzc5XX0=
 -->
