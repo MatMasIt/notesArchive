@@ -875,7 +875,25 @@ y=0
 \end{cases}
 \end{equation}
 $$
-No interse
+No intersezione
+
+
+Intersezioni con asse $y$
+
+$$
+\begin{equation}
+\begin{cases}
+y=x^2-2x+4\\
+x=0
+\end{cases}
+\end{equation}\\
+\begin{equation}
+\begin{cases}
+x=0\\
+y=4
+\end{cases}
+\end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE1NzEwNTldfQ==
+eyJoaXN0b3J5IjpbLTEzMzIxOTQ0MzBdfQ==
 -->
