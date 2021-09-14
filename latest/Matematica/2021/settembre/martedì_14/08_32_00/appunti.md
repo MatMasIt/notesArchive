@@ -722,8 +722,11 @@ $$
 y=(2x_t-2)x
 $$
 
-$T(y
+$T(x_t,y_t)$
+
+Condizioni
+T tangente a parabola, T passa per $(0,0)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTkxODcyMzksLTIwODE0MTYwODQsLT
+eyJoaXN0b3J5IjpbLTIwNTczNDE1NDEsLTIwODE0MTYwODQsLT
 E3MjcxNTYxNDQsNjAyNzczMzc5XX0=
 -->
