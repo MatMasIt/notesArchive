@@ -707,8 +707,11 @@ $\lim_{t\to 0}\frac{f(x+t)-f(x)}{\cancel{x}+t-\cancel{x}}$
 ---
 
 $f:y=x^2-2x+4$
-$y^{'}=$
+$y^{'}=2x-2$
+
+
+$\boxed{m_T=\left(\frac{f(x)}{dx}\right)_{x=x_t}=2x_{t}-2$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE0MTYwODQsLTE3MjcxNTYxNDQsNj
-AyNzczMzc5XX0=
+eyJoaXN0b3J5IjpbLTIwOTYxNDc0NDAsLTIwODE0MTYwODQsLT
+E3MjcxNTYxNDQsNjAyNzczMzc5XX0=
 -->
