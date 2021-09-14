@@ -117,7 +117,11 @@ $$
 
 $y=2x$
 
+
+$$
+\begin{equation} \begin{cases} Here \end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE1NjAzODUsMTA0OTg5MjA1MywtMT
-E5Njc1ODMyMCwxMTMwMjQzMTA5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTk4NTg0MzE4NSwxMDQ5ODkyMDUzLC0xMT
+k2NzU4MzIwLDExMzAyNDMxMDksLTIwODg3NDY2MTJdfQ==
 -->
