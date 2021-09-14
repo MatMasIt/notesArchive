@@ -575,27 +575,18 @@ La sufficienza è stabilita sul 50% della prova.
 
 GRIGLIA PER L’INTERVALLO DI VALUTAZIONE DAL 2 AL 10.
 
-intervalli di punteggio
-
-[0,3]
-
-[4,8]
-
-[9,15]
-
-[16,22]
-
-[23,29]
-
-[30,36]
-
-[37,43]
-
-[44,48]
-
-[49,53]
-
-[54,58]
+|intervalli di punteggio|Voto|
+|---|---|
+|[0,3]|2|
+|[4,8]|2,5|
+|[9,15]|3|
+|[16,22]|3,5|
+|[23,29]|4|
+|[30,36]|4,5|
+|[37,43]|5|
+|[44,48]|5,5|
+|[49,53]|6|
+|[54,58]|6
 
 [59,64]
 
@@ -772,5 +763,5 @@ y=4
 \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY3ODI0NzldfQ==
+eyJoaXN0b3J5IjpbNTA3ODMxMTUxXX0=
 -->
