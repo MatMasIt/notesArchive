@@ -77,7 +77,22 @@ f^{'}=2x\\
 g^{'}=-2x+8
  \end{cases} \end{equation}
 $$
+
+$2x=-2x+8$
+
+$$
+\begin{equation} \begin{cases} 
+x=2\\
+y=4
+ \end{cases} \end{equation}
+$$
+
+
+$$
+\begin{equation} \begin{cases} 
+T \in  \end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA4MjE2OSwxMDQ5ODkyMDUzLC0xMT
-k2NzU4MzIwLDExMzAyNDMxMDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNjQzMzc3MTYwLDEwNDk4OTIwNTMsLTExOT
+Y3NTgzMjAsMTEzMDI0MzEwOSwtMjA4ODc0NjYxMl19
 -->
