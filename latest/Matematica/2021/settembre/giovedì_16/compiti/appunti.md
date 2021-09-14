@@ -120,10 +120,11 @@ $y=2x$
 
 $$
 \begin{equation} \begin{cases}
-
+y_T^{'}=(-2x+8)x_t^{'}\\
+y_T^{'}=-x_t^2+
  \end{cases} \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTcwMjY4NywxMDQ5ODkyMDUzLC0xMT
-k2NzU4MzIwLDExMzAyNDMxMDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNjMzNTkyNTA5LDEwNDk4OTIwNTMsLTExOT
+Y3NTgzMjAsMTEzMDI0MzEwOSwtMjA4ODc0NjYxMl19
 -->
