@@ -98,8 +98,7 @@ Calcolo massa atomica di $H$
 Media Ponderata
 $m_f=\frac{m_1\cdot p_1  +m_2\cdot p_2}{100}$
 
-e
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE3ODQ5MCwxMjM1NDAzNzk5XX0=
+eyJoaXN0b3J5IjpbMTIzNTQwMzc5OSwxMjM1NDAzNzk5XX0=
 -->
