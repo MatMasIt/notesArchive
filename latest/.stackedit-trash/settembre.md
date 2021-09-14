@@ -1,5 +1,8 @@
-
+# Lezione di @ (@° ora) 
+@@dì dd MESE 20xx, hh:mm:ss 
+Mattia Mascarello 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg3NDY2MTIsLTg1NjA2MjIwOSw0OT
-IxNTE2MzIsMzg3NDE0NjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTU3MDQxMDc4LC0yMDg4NzQ2NjEyLC04NT
+YwNjIyMDksNDkyMTUxNjMyLDM4NzQxNDY2LDczMDk5ODExNl19
+
 -->
