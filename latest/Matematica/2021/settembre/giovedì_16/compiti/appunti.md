@@ -130,7 +130,10 @@ y=2x\\
 y-4=6(x-2)\\
 y=6x-8
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzI2NzI4NywxMDQ5ODkyMDUzLC0xMT
-k2NzU4MzIwLDExMzAyNDMxMDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNTYyMDgyNDM3LC0yODcyNjcyODcsMTA0OT
+g5MjA1MywtMTE5Njc1ODMyMCwxMTMwMjQzMTA5LC0yMDg4NzQ2
+NjEyXX0=
 -->
