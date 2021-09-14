@@ -853,9 +853,18 @@ $m=-2$
 
 $y=-2x$
 
-Per una parabola
+Per disegnare una parabola
 
-$V(\
+Vertice
+
+$V\left(-\frac{b}{2a},P\left(\frac{-b}{2a}\right)\right)$
+
+Intersezioni con asse $x$
+
+$$
+\begin{equation}
+\en
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTcyNzkxMTFdfQ==
+eyJoaXN0b3J5IjpbLTU2NzA2NDg1Nl19
 -->
