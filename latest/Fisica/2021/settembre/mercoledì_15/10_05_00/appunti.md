@@ -115,9 +115,10 @@ Sette gradi di libertà?
 $K_m=\frac72 kT$
 
 
-
+ ---
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjQ1NjE0Miw2NTY4MDQ1NDksNDEyMj
-EyMDkwLC0xOTk4NzQ2NzY1LC0xMzY4OTIyMzk3LDI3NTg0MTI4
-MF19
+eyJoaXN0b3J5IjpbLTUyOTczMTE2MywxOTcyNDU2MTQyLDY1Nj
+gwNDU0OSw0MTIyMTIwOTAsLTE5OTg3NDY3NjUsLTEzNjg5MjIz
+OTcsMjc1ODQxMjgwXX0=
 -->
