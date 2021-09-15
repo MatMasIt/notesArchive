@@ -33,7 +33,18 @@ $$
 
 
 
-Urti delle pa
+Urti delle particelle sulle pareti
+
+$P=\frac{F_{particelle}}{S}$  pressione 
+
+
+Grandezze "in gioco" in un contenitore ermetico:
+* $P$ pressione
+* $V$ volume
+
+Equazioni dimensionali
+
+$[P\cdot V]=[$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzkwNzIxLDI3NTg0MTI4MF19
+eyJoaXN0b3J5IjpbLTE3NzIyMzM3MiwyNzU4NDEyODBdfQ==
 -->
