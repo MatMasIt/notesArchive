@@ -96,11 +96,11 @@ $\frac23 \cancel{N}K_m=\cancel{N}kT$
 
 
 > $\Delta U= N\cdot K_m = \frac32 kT$
-> _L'energia interna di un sistema è una funzione di stato_
+> _L'energia interna di un sistema è una funzione di stato (dipende dallo stato istantaneo, no dalla trasformazione che la porta da uno stato all'altro_
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTk3NjYxMiw0MTIyMTIwOTAsLTE5OT
+eyJoaXN0b3J5IjpbMTA1OTY3ODU1OCw0MTIyMTIwOTAsLTE5OT
 g3NDY3NjUsLTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
 -->
