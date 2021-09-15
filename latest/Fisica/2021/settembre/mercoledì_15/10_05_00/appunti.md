@@ -167,11 +167,13 @@ Il lavoro non può essere presente anche siccome il $V$ è costante
 $PV=\boxed{nRT}$
 $T$ costante
 
-$P_0V_0=$=$P_1V_1$ (legge di _Boyle_)
+$P_0V_0=P_1V_1$ (legge di _Boyle_)
 
+$W=NkT\ln\frac{V_f}{V_i}$
+$W=nRT\ln\frac{V_g}{V_i}$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzEyODcyOCw4NjE2MDgxNDgsMTk3Mj
+eyJoaXN0b3J5IjpbLTQ5ODUxMjc1MSw4NjE2MDgxNDgsMTk3Mj
 Q1NjE0Miw2NTY4MDQ1NDksNDEyMjEyMDkwLC0xOTk4NzQ2NzY1
 LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
 -->
