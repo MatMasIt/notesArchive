@@ -44,7 +44,7 @@ Grandezze "in gioco" in un contenitore ermetico:
 
 Equazioni dimensionali
 
-$[P\cdot V]=[P]\cdot[V]=\frac{[F]}{[L^2]}$
+$[P\cdot V]=[P]\cdot[V]=\frac{[F]}{\cancel{[L^2]}}\cdot \cancel{[L^3]}=[F]\cdot[L]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA4OTE2NzAsMjc1ODQxMjgwXX0=
+eyJoaXN0b3J5IjpbLTE3ODc3NjgwMTIsMjc1ODQxMjgwXX0=
 -->
