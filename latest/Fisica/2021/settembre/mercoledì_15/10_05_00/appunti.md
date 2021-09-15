@@ -167,13 +167,20 @@ Il lavoro non può essere presente anche siccome il $V$ è costante
 $PV=\boxed{nRT}$
 $T$ costante
 
-$P_0V_0=P_1V_1$ (legge di _Boyle_)
+$$
+P_0V_0=P_1V_1
+$$
+(legge di _Boyle_)
+
+![](https://i.imgur.com/I8LSS7P.jpg)
 
 $W=NkT\ln\frac{V_f}{V_i}$
+
 $W=nRT\ln\frac{V_g}{V_i}$
 
+## Adiabatica ⇒ $T=k$ temperatura costante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODUxMjc1MSw4NjE2MDgxNDgsMTk3Mj
-Q1NjE0Miw2NTY4MDQ1NDksNDEyMjEyMDkwLC0xOTk4NzQ2NzY1
-LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
+eyJoaXN0b3J5IjpbNjI1MTYzMjMwLDg2MTYwODE0OCwxOTcyND
+U2MTQyLDY1NjgwNDU0OSw0MTIyMTIwOTAsLTE5OTg3NDY3NjUs
+LTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
 -->
