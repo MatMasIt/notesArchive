@@ -31,8 +31,10 @@ James Joyce (Dubliners, collection of 15 short stories) (Ulisses, book, whole no
 
 In "Bliss" there is not a particular plot, set during a dinner
 
+> Mrs. dallaway: buying flower for an important dinner
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY4Njk4ODQsLTEzNDQzNjU5OTUsNT
+eyJoaXN0b3J5IjpbLTIxMjM1NDQ4MjgsLTEzNDQzNjU5OTUsNT
 I0ODQ1Nzg5LDExMDQ5NTMwMTddfQ==
 -->
