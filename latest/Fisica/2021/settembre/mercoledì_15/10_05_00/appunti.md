@@ -73,8 +73,12 @@ Velocità media per x è $\frac13$ della quadratica media
 |---|---|
 |$PV=nRT$|$R=8,31\frac{J}{mol\cdot K}$|
 
-$n=\frac{N}{N_A}4 
+$n=\frac{N}{N_A}$
+
+k: costante di Boltzmann
+ $k=\frac{R}{N_A}=1,38\c$
+$pV=\frac{N}{\boxed{N_A}}\boxed{R}T=N\boxed{k}T$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg4OTIwMjIsNDEyMjEyMDkwLC0xOT
+eyJoaXN0b3J5IjpbLTE2MTIyMDY0MDcsNDEyMjEyMDkwLC0xOT
 k4NzQ2NzY1LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
 -->
