@@ -88,10 +88,14 @@ $K_m$= enegia cinetica media
 
 
 
-$\frac23 \cancel{N}K_m=\cance{NkT$
+$\frac23 \cancel{N}K_m=\cancel{N}kT$
+
+> $K_m=\frac{3}{2}kT$
+> _L'energia cinetica media di un sistema dipende esclusivamente dalla sua temperatura_
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTUyMTg0MzYsNDEyMjEyMDkwLC0xOT
-k4NzQ2NzY1LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
+eyJoaXN0b3J5IjpbNDE1NTg4Nzk3LDQxMjIxMjA5MCwtMTk5OD
+c0Njc2NSwtMTM2ODkyMjM5NywyNzU4NDEyODBdfQ==
 -->
