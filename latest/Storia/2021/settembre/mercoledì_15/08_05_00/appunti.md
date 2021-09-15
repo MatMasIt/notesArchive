@@ -41,7 +41,17 @@ Identità di appartenenza allo stato in paesi più antichi forte
 
 
 ---
-Si creano monarchie assolute, tranno in I
+Si creano monarchie assolute, tranno in Inghilterra: monarchia costituzionale
+
+Re & parlamento
+
+Modello diventa comune dall' '800, 
+dopo la rivoluzione inglese 
+$$
+\begin{pmatrix}
+a  &  b & c
+\end{pmatrix}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzgwMzA1MzVdfQ==
+eyJoaXN0b3J5IjpbLTEyOTQ1NDQ2NTddfQ==
 -->
