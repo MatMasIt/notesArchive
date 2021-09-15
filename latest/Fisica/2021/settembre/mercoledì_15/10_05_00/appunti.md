@@ -226,14 +226,14 @@ Q= \overline{K_m}
  mc \Delta T= \overline{K_m}\\ 
  $$
  $$
- \Delta T=\frac{\overline{K_m}}{mc}=\frac{\frac12 \cancel mv^2}{mc}
+ \Delta T=\frac{\overline{K_m}}{mc}=\frac{\frac23 \frac12 \cancel mv^2}{\cancel mc}=\frac{\frac34v^2}{c}=\frac43 \frac{v^2}{c}
 $$
 
 
 p 490 es 1 2 8 11 15 16
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU2OTAzNjcsODYxNjA4MTQ4LDE5Nz
+eyJoaXN0b3J5IjpbLTExNTM5NDE3MzIsODYxNjA4MTQ4LDE5Nz
 I0NTYxNDIsNjU2ODA0NTQ5LDQxMjIxMjA5MCwtMTk5ODc0Njc2
 NSwtMTM2ODkyMjM5NywyNzU4NDEyODBdfQ==
 -->
