@@ -125,8 +125,14 @@ Noi immaginiamo trasformazioni reversibili
 
 
 Isocore ⇒ volume costante
+
+$\boxed P \cdot  \boxed V= n R \boxed T$
+
+$\frac{P}T=\frac{nR}V$
+
+$\frac{P_0}{T_0}=\frac{P_1}{T_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxNjA4MTQ4LDE5NzI0NTYxNDIsNjU2OD
-A0NTQ5LDQxMjIxMjA5MCwtMTk5ODc0Njc2NSwtMTM2ODkyMjM5
-NywyNzU4NDEyODBdfQ==
+eyJoaXN0b3J5IjpbMTU5MDgyNTAzMyw4NjE2MDgxNDgsMTk3Mj
+Q1NjE0Miw2NTY4MDQ1NDksNDEyMjEyMDkwLC0xOTk4NzQ2NzY1
+LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
 -->
