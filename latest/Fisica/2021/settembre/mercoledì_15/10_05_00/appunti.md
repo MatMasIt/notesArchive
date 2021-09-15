@@ -57,8 +57,15 @@ Area rettangolo: lavoro della trasformazione
 
 ----
 
+![Curva](https://i.imgur.com/3RsXUhZ.jpg)
+
 In una qualunque trasormazione l'area sotto la curva corrisponde al lavoro, in questo caso una curva formata da 2 trapezi
+
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0Njk1NjQsLTE5OTg3NDY3NjUsLTEzNj
-g5MjIzOTcsMjc1ODQxMjgwXX0=
+eyJoaXN0b3J5IjpbNDEyMjEyMDkwLC0xOTk4NzQ2NzY1LC0xMz
+Y4OTIyMzk3LDI3NTg0MTI4MF19
 -->
