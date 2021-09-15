@@ -87,12 +87,18 @@ Questa divisione causava l'esplosione degli stati in formazione
 Quindi si sviluppa l'idea di tolleranza religiosa
 Laicità dello stato, religione aspetto privato
 
+... poi $\to$ sviluppo idee diritti umani
 
+
+### Il rinascimento
+
+
+E
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU3Mjc5MTddfQ==
+eyJoaXN0b3J5IjpbLTQ5NDUzMDgyNV19
 -->
