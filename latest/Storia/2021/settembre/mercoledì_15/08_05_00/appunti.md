@@ -60,6 +60,11 @@ Tuttavia:
 ---
 
 Ambizione della borghesia al potere politico 
+
+Borghese: nuova visione
+
+
+Borghesia genera il suo nemico: classe operaia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzU2OTg2N119
+eyJoaXN0b3J5IjpbMTExNjkyODk0M119
 -->
