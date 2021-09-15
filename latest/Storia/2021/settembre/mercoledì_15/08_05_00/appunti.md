@@ -70,7 +70,11 @@ Borghesia genera il suo nemico: classe operaia
 
 Operai vs capitale
 
+---
 
+Riforma protestante: il potere politico la utilizza in modo strumentale
+
+stravolgimento u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyNDc4NTQxXX0=
+eyJoaXN0b3J5IjpbOTIwNzU4MjIyXX0=
 -->
