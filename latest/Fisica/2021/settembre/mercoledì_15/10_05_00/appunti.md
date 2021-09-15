@@ -200,9 +200,24 @@ $W=\frac{kT}{\left( 1-\gamma \right) V^{\gamma-1}}$
 > $v=500 \frac{Km}{h}=138,9 \frac{m}{s}$
 > $\Delta T=?$
 > $\overline{K_m}=\frac23K_{m_p}$
-> $c=120 \frac{J}{KgK}$
+> $c=120 \frac{J}{Kg\text{K}}$
+
+
+Legame tra calore ed energia cinetica
+
+$$
+Q=mc\Delta T
+$$
+_Legge fondamentale della termologia_
+
+
+Il calore è una forma di energia
+Tutta l'energia rimasta viene utilizzata per innalzare la temperatura (_assunzione_)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0Njk2NTQxLDg2MTYwODE0OCwxOTcyND
-U2MTQyLDY1NjgwNDU0OSw0MTIyMTIwOTAsLTE5OTg3NDY3NjUs
-LTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
+eyJoaXN0b3J5IjpbMTgzMDkwNDkwOCw4NjE2MDgxNDgsMTk3Mj
+Q1NjE0Miw2NTY4MDQ1NDksNDEyMjEyMDkwLC0xOTk4NzQ2NzY1
+LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
 -->
