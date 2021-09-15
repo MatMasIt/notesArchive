@@ -13,7 +13,11 @@ the only way to be accepted is to become blind, but he goes away
 
 He accepts to be different in the end
 
+### Bliss:
+Katherine Mansfield, masters a narrative technique
 
+xco 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0ODQ1Nzg5LDExMDQ5NTMwMTddfQ==
+eyJoaXN0b3J5IjpbMTk5OTU4OTI0NSw1MjQ4NDU3ODksMTEwND
+k1MzAxN119
 -->
