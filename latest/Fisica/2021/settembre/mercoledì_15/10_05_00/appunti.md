@@ -186,8 +186,10 @@ $W=nRT\ln\frac{V_g}{V_i}$
 $PV^{\gamma}=c$ ($c$ è una costante)
 
 $P=\frac{c}{V^\gamma}$ ($y=\frac{c}{x^k}$: funzione che ==decresce rapidamente== e **non** è simmetrica) 
+
+$W=\frac{kT}{\left( 1-\gamma \right) V^{\gamma-1}}$ (con integrale)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM4ODc4NzYsODYxNjA4MTQ4LDE5Nz
-I0NTYxNDIsNjU2ODA0NTQ5LDQxMjIxMjA5MCwtMTk5ODc0Njc2
-NSwtMTM2ODkyMjM5NywyNzU4NDEyODBdfQ==
+eyJoaXN0b3J5IjpbLTk3MDM3ODEwMSw4NjE2MDgxNDgsMTk3Mj
+Q1NjE0Miw2NTY4MDQ1NDksNDEyMjEyMDkwLC0xOTk4NzQ2NzY1
+LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
 -->
