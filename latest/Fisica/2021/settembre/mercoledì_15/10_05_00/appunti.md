@@ -26,9 +26,10 @@ $$
 
 |Condizione|Segno|
 |---|---|
-|_Il sistema **acquista** calore_, l'ambiente cede/fornisce calore|$Q > 0$|
-|_Il sistema **cede** calore_, l'ambiente acquista calore|$Q < 0$|
-|Il sist
+|_Il ==sistema **acquista** calore==_, l'ambiente cede/fornisce calore|$Q > 0$|
+|_Il ==sistema **cede** calore_, l'ambiente acquista calore|$Q < 0$|
+|Il sistema **esegue** lavoro sull'ambiente|$W > 0$|
+|L' **ambiente esterno** esegue lavoro sul sistema|$W < 0$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwNTg5MTM4LDI3NTg0MTI4MF19
+eyJoaXN0b3J5IjpbLTI5ODc2NDIwMSwyNzU4NDEyODBdfQ==
 -->
