@@ -22,7 +22,13 @@ Katherine Mansfield, masters a narrative technique
 metaphor of swallowing the sun
 
 
+
+Modernist Authors (20th century)
+
+Virginia Woolf (Mrs. Dallaway, book)
+James Joyce (Dubliners, collection of 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQzNjU5OTUsNTI0ODQ1Nzg5LDExMD
-Q5NTMwMTddfQ==
+eyJoaXN0b3J5IjpbNTA1NDI0MzUsLTEzNDQzNjU5OTUsNTI0OD
+Q1Nzg5LDExMDQ5NTMwMTddfQ==
 -->
