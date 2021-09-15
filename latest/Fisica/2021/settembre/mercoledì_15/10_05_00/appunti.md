@@ -64,8 +64,14 @@ In una qualunque trasormazione l'area sotto la curva corrisponde al lavoro, in q
 
 ---
 
+Si presuppone che le particelle si muovano nelle 3 direzioni nello stesso identico modo
 
+Velocità media per x è $\frac13$ della quadratica media
+
+---
+
+$PV
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMjEyMDkwLC0xOTk4NzQ2NzY1LC0xMz
-Y4OTIyMzk3LDI3NTg0MTI4MF19
+eyJoaXN0b3J5IjpbMTk2ODg4MDU1NCw0MTIyMTIwOTAsLTE5OT
+g3NDY3NjUsLTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
 -->
