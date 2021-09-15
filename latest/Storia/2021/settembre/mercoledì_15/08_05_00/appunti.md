@@ -84,12 +84,15 @@ milioni di morti
 
 Questa divisione causava l'esplosione degli stati in formazione
 
-Quindi 
+Quindi si sviluppa l'idea di tolleranza religiosa
+Laicità dello stato, religione aspetto privato
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDc2OTUxMV19
+eyJoaXN0b3J5IjpbLTE2NTU3Mjc5MTddfQ==
 -->
