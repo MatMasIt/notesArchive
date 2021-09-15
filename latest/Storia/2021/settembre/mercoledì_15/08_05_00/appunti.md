@@ -37,7 +37,11 @@ Avviene in:
 * Area Tedesca
 * Italia
 
+Identità di appartenenza allo stato in paesi più antichi forte
 
+
+---
+Si creano monarchie assolute, tranno in I
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzE1Njg5NTNdfQ==
+eyJoaXN0b3J5IjpbLTIwMzgwMzA1MzVdfQ==
 -->
