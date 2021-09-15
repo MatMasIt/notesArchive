@@ -46,14 +46,13 @@ Equazioni dimensionali
 
 $[P\cdot V]=[P]\cdot[V]=\frac{[F]}{\cancel{[L^2]}}\cdot \cancel{[L^3]}=[F]\cdot[L]=[W]$ (*forza per distanza è lavoro*)
 
+Isobara
+![Isobara](https://i.imgur.com/XsRhDOV.jpg)
 
 
 
-
-
-
-
-
+Area rettangolo: lavoro della trasformazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
+eyJoaXN0b3J5IjpbLTE5OTg3NDY3NjUsLTEzNjg5MjIzOTcsMj
+c1ODQxMjgwXX0=
 -->
