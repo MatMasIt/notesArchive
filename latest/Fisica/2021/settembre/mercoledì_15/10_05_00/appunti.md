@@ -190,8 +190,13 @@ $P=\frac{c}{V^\gamma}$ ($y=\frac{c}{x^k}$: funzione che ==decresce rapidamente==
 $W=\frac{kT}{\left( 1-\gamma \right) V^{\gamma-1}}$
 
 		calcolato con un integrale
+
+---
+## Esercizi
+
+### p. 390 es .1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDcyOTUzMjEsODYxNjA4MTQ4LDE5Nz
+eyJoaXN0b3J5IjpbLTE3Mjc0OTcyMjgsODYxNjA4MTQ4LDE5Nz
 I0NTYxNDIsNjU2ODA0NTQ5LDQxMjIxMjA5MCwtMTk5ODc0Njc2
 NSwtMTM2ODkyMjM5NywyNzU4NDEyODBdfQ==
 -->
