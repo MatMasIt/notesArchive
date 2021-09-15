@@ -195,8 +195,12 @@ $W=\frac{kT}{\left( 1-\gamma \right) V^{\gamma-1}}$
 ## Esercizi
 
 ### p. 390 es .1
+
+> Dati
+> $v=500 \frac{Km}{h}=138,9 \frac{m}{s}$
+> $\Delta T=?$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc0OTcyMjgsODYxNjA4MTQ4LDE5Nz
+eyJoaXN0b3J5IjpbLTEyNjIzNzk1MDAsODYxNjA4MTQ4LDE5Nz
 I0NTYxNDIsNjU2ODA0NTQ5LDQxMjIxMjA5MCwtMTk5ODc0Njc2
 NSwtMTM2ODkyMjM5NywyNzU4NDEyODBdfQ==
 -->
