@@ -52,7 +52,11 @@ Isobara
 
 
 Area rettangolo: lavoro della trasformazione
+
+----
+
+In una qualunque trasormazi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg3NDY3NjUsLTEzNjg5MjIzOTcsMj
-c1ODQxMjgwXX0=
+eyJoaXN0b3J5IjpbMTAxMTA4NDE4NSwtMTk5ODc0Njc2NSwtMT
+M2ODkyMjM5NywyNzU4NDEyODBdfQ==
 -->
