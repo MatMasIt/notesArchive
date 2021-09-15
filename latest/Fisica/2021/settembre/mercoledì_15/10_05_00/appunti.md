@@ -124,12 +124,17 @@ Noi immaginiamo trasformazioni reversibili
 * Adiabatiche senza scambi di calore con l'esterno
 
 
-## Isobare ⇒ $P=k$ pre
+## Isobare ⇒ $P=k$ pressione costante
+
+$PV=nRT$
+
+$\frac{V}{T}=\frac{nR}{P}$
+
 ## Isocore ⇒ $V=k$ volume costante
 
 $\boxed P \cdot  \boxed V= n R \boxed T$
 
-Sepraro costanti da variabili
+Sepraro costanti $n,R,V$ da variabili
 
 $\frac{P}T=\frac{nR}V$
 
@@ -144,7 +149,7 @@ Il lavoro non può essere presente anche siccome il $V$ è costante
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NDE4ODQ0LDg2MTYwODE0OCwxOTcyND
-U2MTQyLDY1NjgwNDU0OSw0MTIyMTIwOTAsLTE5OTg3NDY3NjUs
-LTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
+eyJoaXN0b3J5IjpbMTAxNDc4MzgwOCw4NjE2MDgxNDgsMTk3Mj
+Q1NjE0Miw2NTY4MDQ1NDksNDEyMjEyMDkwLC0xOTk4NzQ2NzY1
+LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
 -->
