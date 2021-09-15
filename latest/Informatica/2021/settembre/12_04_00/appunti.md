@@ -4,7 +4,9 @@
 
 HTML: linguaggio di markup
 
+Lista di componenti e della loro disposizione
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjEwOTAzOF19
+eyJoaXN0b3J5IjpbOTM1MzA2Mjk5XX0=
 -->
