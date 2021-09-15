@@ -101,7 +101,16 @@ Esaltamento vita mondana (caratteristia anche di oggi)
 deriva nel '700 dalla rivoluzione scientifica del '600.
 
 
-### 
+### p. 263, vol.2
+
+Aspetti importanti dopo la sconfitta di napoleone
+
+
+Area tedesca: linea rosssa, impero germanico abolito: ora c'è una confederazione
+
+Potere locale > potere centrale
+
+Sta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5NzkxMzg2XX0=
+eyJoaXN0b3J5IjpbLTIwMTY4MTMyOThdfQ==
 -->
