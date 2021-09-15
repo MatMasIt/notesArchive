@@ -57,7 +57,9 @@ Tuttavia:
 * sterminio indiani
 * mantenimento schiavi
 
+---
 
+Ambizione della borghesia al potere politico 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTQyMzgyM119
+eyJoaXN0b3J5IjpbLTk3NzU2OTg2N119
 -->
