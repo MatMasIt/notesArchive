@@ -66,7 +66,7 @@ In una qualunque trasormazione l'area sotto la curva corrisponde al lavoro, in q
 
 Si presuppone che le particelle si muovano nelle 3 direzioni nello stesso identico modo
 
-Velocità media per x è $\frac13$ della quadratica media
+Velocità media per x è $\frac13$ della quadratica media $\left( v_x^2=\frac13 v_m^2 \right)$
 
 ---
 |||
@@ -95,8 +95,12 @@ $\frac23 \cancel{N}K_m=\cancel{N}kT$
 
 
 
-> $\Delta U= N\cdot K_M\frac32 kT$
+> $\Delta U= N\cdot K_m = \frac32 kT$
+> _L'energia interna di un sistema è una funzione di stato_
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA0NzEyOTQsNDEyMjEyMDkwLC0xOT
-k4NzQ2NzY1LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
+eyJoaXN0b3J5IjpbLTMxOTk3NjYxMiw0MTIyMTIwOTAsLTE5OT
+g3NDY3NjUsLTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
 -->
