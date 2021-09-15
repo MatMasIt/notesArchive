@@ -10,6 +10,10 @@ all  of them are blind
 They don't understand, they think he is crazy
 
 the only way to be accepted is to become blind, but he goes away
+
+He accepts to be different in the end
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODQxMTc2MSwxMTA0OTUzMDE3XX0=
+eyJoaXN0b3J5IjpbNTI0ODQ1Nzg5LDExMDQ5NTMwMTddfQ==
 -->
