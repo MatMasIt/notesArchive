@@ -4,7 +4,15 @@
 
 Sintesi di termodinamica
 
+Tre grandezze
+
+* $\Delta U$ energia interna
+* $Q$ calore
+* $W$ lavoro
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4OTA1NDcyLDI3NTg0MTI4MF19
+eyJoaXN0b3J5IjpbLTExMDg1ODAyNDUsMjc1ODQxMjgwXX0=
 -->
