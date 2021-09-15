@@ -19,8 +19,10 @@ Katherine Mansfield, masters a narrative technique
 
 > The verbal expression of a *stream of consciousness* is an *interior monologue*
 
+metaphor of swallowing the sun
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDM2MzIzNiw1MjQ4NDU3ODksMTEwND
-k1MzAxN119
+eyJoaXN0b3J5IjpbLTEzNDQzNjU5OTUsNTI0ODQ1Nzg5LDExMD
+Q5NTMwMTddfQ==
 -->
