@@ -223,15 +223,17 @@ $$
 Q=mc\Delta T\\
 Q= \overline{K_m}
  \end{cases} \end{equation}\\
- mc \Delta
+ mc \Delta T= \overline{K_m}\\ 
+ $$
+ $$
+ \Delta T=\frac{\overline{K_m}}{mc}=\frac{\frac12 \cancel mv^2}{mc}
 $$
 
 
-es
-
+p 490 es 1 2 8 11 15 16
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4NDYyODEzLDg2MTYwODE0OCwxOTcyND
-U2MTQyLDY1NjgwNDU0OSw0MTIyMTIwOTAsLTE5OTg3NDY3NjUs
-LTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
+eyJoaXN0b3J5IjpbLTIwMjU2OTAzNjcsODYxNjA4MTQ4LDE5Nz
+I0NTYxNDIsNjU2ODA0NTQ5LDQxMjIxMjA5MCwtMTk5ODc0Njc2
+NSwtMTM2ODkyMjM5NywyNzU4NDEyODBdfQ==
 -->
