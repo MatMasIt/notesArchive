@@ -101,9 +101,14 @@ $\frac23 \cancel{N}K_m=\cancel{N}kT$
 
 
 
+Il $3$ in $\frac32$ corrisponde alle direzioni, ma le particelle potrebbero muoversi anche in altri modi (movimenti rispetto a se stesse rotatori, etc), che si chiamano ==gradi di libertà==
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2ODA0NTQ5LDQxMjIxMjA5MCwtMTk5OD
-c0Njc2NSwtMTM2ODkyMjM5NywyNzU4NDEyODBdfQ==
+eyJoaXN0b3J5IjpbLTc4NTI5NDAwLDY1NjgwNDU0OSw0MTIyMT
+IwOTAsLTE5OTg3NDY3NjUsLTEzNjg5MjIzOTcsMjc1ODQxMjgw
+XX0=
 -->
