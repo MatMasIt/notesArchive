@@ -124,15 +124,20 @@ Noi immaginiamo trasformazioni reversibili
 * Adiabatiche senza scambi di calore con l'esterno
 
 
-Isocore ⇒ volume costante
+Isocore ⇒ $V=k$ volume costante
 
 $\boxed P \cdot  \boxed V= n R \boxed T$
 
+Sepraro costanti da variabili
+
 $\frac{P}T=\frac{nR}V$
 
-$\frac{P_0}{T_0}=\frac{P_1}{T_
+$\frac{P_0}{T_0}=\frac{P_1}{T_1}$
+
+
+![
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDgyNTAzMyw4NjE2MDgxNDgsMTk3Mj
+eyJoaXN0b3J5IjpbMjAwNDA1NzAwOCw4NjE2MDgxNDgsMTk3Mj
 Q1NjE0Miw2NTY4MDQ1NDksNDEyMjEyMDkwLC0xOTk4NzQ2NzY1
 LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
 -->
