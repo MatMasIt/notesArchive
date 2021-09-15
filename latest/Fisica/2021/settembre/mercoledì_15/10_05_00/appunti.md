@@ -178,13 +178,16 @@ $W=NkT\ln\frac{V_f}{V_i}$
 
 $W=nRT\ln\frac{V_g}{V_i}$
 
+		calcolato con un integrale
+
+
 ## Adiabatica ⇒ $Q=0$ no scambi di calore con esterno
 
 $PV^{\gamma}=c$ ($c$ è una costante)
 
-$P=\frac{c}{V^\gamma}$ ($y=\frac{c}{x^k}$: funzion) 
+$P=\frac{c}{V^\gamma}$ ($y=\frac{c}{x^k}$: funzione che ==decresce rapidamente== e **non** è simmetrica) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODI1MDkwNyw4NjE2MDgxNDgsMTk3Mj
-Q1NjE0Miw2NTY4MDQ1NDksNDEyMjEyMDkwLC0xOTk4NzQ2NzY1
-LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
+eyJoaXN0b3J5IjpbLTE4MDM4ODc4NzYsODYxNjA4MTQ4LDE5Nz
+I0NTYxNDIsNjU2ODA0NTQ5LDQxMjIxMjA5MCwtMTk5ODc0Njc2
+NSwtMTM2ODkyMjM5NywyNzU4NDEyODBdfQ==
 -->
