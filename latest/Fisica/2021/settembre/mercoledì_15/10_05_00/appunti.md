@@ -199,8 +199,10 @@ $W=\frac{kT}{\left( 1-\gamma \right) V^{\gamma-1}}$
 > Dati
 > $v=500 \frac{Km}{h}=138,9 \frac{m}{s}$
 > $\Delta T=?$
+> $\overline{K_m}=\frac23K_{m_p}$
+> $c=120 \frac{J}{KgK}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjIzNzk1MDAsODYxNjA4MTQ4LDE5Nz
-I0NTYxNDIsNjU2ODA0NTQ5LDQxMjIxMjA5MCwtMTk5ODc0Njc2
-NSwtMTM2ODkyMjM5NywyNzU4NDEyODBdfQ==
+eyJoaXN0b3J5IjpbNzA0Njk2NTQxLDg2MTYwODE0OCwxOTcyND
+U2MTQyLDY1NjgwNDU0OSw0MTIyMTIwOTAsLTE5OTg3NDY3NjUs
+LTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
 -->
