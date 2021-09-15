@@ -41,8 +41,13 @@ symbolism is in commn too
 
 *moment of being*/*epiphany*: sudden revelation that becomens symbol of own life
 
-x
+
+Periods
+
+1. Romanticism (2md half 18th c  - 1837)
+2. Vicrotian Age (1837 - 1901)
+3. Modern Age (20th 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTg3MDIzNywxNDg5MTEyNjAyLC0xMz
-Q0MzY1OTk1LDUyNDg0NTc4OSwxMTA0OTUzMDE3XX0=
+eyJoaXN0b3J5IjpbOTI3MzEzMTcwLDE0ODkxMTI2MDIsLTEzND
+QzNjU5OTUsNTI0ODQ1Nzg5LDExMDQ5NTMwMTddfQ==
 -->
