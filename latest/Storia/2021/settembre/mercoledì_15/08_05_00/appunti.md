@@ -74,7 +74,22 @@ Operai vs capitale
 
 Riforma protestante: il potere politico la utilizza in modo strumentale
 
-stravolgimento u
+stravolgimento unità europea 
+
+
+Guerrre di religione devastanti 
+
+milioni di morti
+
+
+Questa divisione causava l'esplosione degli stati in formazione
+
+Quindi 
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwNzU4MjIyXX0=
+eyJoaXN0b3J5IjpbMTUxNDc2OTUxMV19
 -->
