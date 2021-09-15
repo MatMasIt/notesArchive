@@ -44,10 +44,10 @@ symbolism is in commn too
 
 Periods
 
-1. Romanticism (2md half 18th c  - 1837)
+1. Romanticism (2nd half 18th c  - 1837)
 2. Vicrotian Age (1837 - 1901)
-3. Modern Age (20th 
+3. Modern Age (20th c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3MzEzMTcwLDE0ODkxMTI2MDIsLTEzND
-QzNjU5OTUsNTI0ODQ1Nzg5LDExMDQ5NTMwMTddfQ==
+eyJoaXN0b3J5IjpbMTkzOTk1NjQ5MSwxNDg5MTEyNjAyLC0xMz
+Q0MzY1OTk1LDUyNDg0NTc4OSwxMTA0OTUzMDE3XX0=
 -->
