@@ -15,8 +15,10 @@ He accepts to be different in the end
 
 ### Bliss:
 Katherine Mansfield, masters a narrative technique
-*Interior monologue/Stream of consciousness*: free flow of thougths, feelings, emotions, sensations in the mind of the character
+*Interior monologue/Stream of consciousness*: free flow of thougths, feelings, emotions, sensations in the mind of the character (theorized by James)
+
+The verbal expression of a stream of consciousness is an interial 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU1MzQ1NTcsNTI0ODQ1Nzg5LDExMD
-Q5NTMwMTddfQ==
+eyJoaXN0b3J5IjpbLTkxMjkyNzcxNyw1MjQ4NDU3ODksMTEwND
+k1MzAxN119
 -->
