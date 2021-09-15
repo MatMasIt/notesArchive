@@ -77,7 +77,7 @@ $n=\frac{N}{N_A}$
 
 k: costante di Boltzmann
 
- $k=\frac{R}{N_A}=1,38\cdot 10^{-23}\frac{J}{K}$
+ $k=\frac{R}{N_A}=1,38\cdot 10^{-23}\frac{J}{\text{K}}$
 
 $pV=\frac{N}{\boxed{N_A}}\boxed{R}T=N\boxed{k}T$
 
@@ -88,8 +88,11 @@ $K_m$= enegia cinetica media
 
 
 
-$\frac23 NK_m=NkT$
+> $\frac23 NK_m=NkT$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzk0NjE3Niw0MTIyMTIwOTAsLTE5OT
-g3NDY3NjUsLTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
+eyJoaXN0b3J5IjpbLTE0MzE0ODU0MTcsNDEyMjEyMDkwLC0xOT
+k4NzQ2NzY1LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
 -->
