@@ -39,8 +39,10 @@ Focus on the emotions, the mind, not the events
 symbolism is in commn too
 
 
-*moment of being*: sudden revelation that becomens symbol of own lif
+*moment of being*/*epiphany*: sudden revelation that becomens symbol of own life
+
+⇐ xa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODk2MzA3OSwxNDg5MTEyNjAyLC0xMz
-Q0MzY1OTk1LDUyNDg0NTc4OSwxMTA0OTUzMDE3XX0=
+eyJoaXN0b3J5IjpbOTU2MDM2ODcwLDE0ODkxMTI2MDIsLTEzND
+QzNjU5OTUsNTI0ODQ1Nzg5LDExMDQ5NTMwMTddfQ==
 -->
