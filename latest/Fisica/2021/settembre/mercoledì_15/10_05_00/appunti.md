@@ -12,7 +12,15 @@ Tre grandezze
 
 
 
+Movimento: forza che produce spostamento
+Forza per spostamento = lavoro = energia
 
+### Primo principio della termodinamica
+
+
+$$
+\boxed{\DeltaU}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDg1ODAyNDUsMjc1ODQxMjgwXX0=
+eyJoaXN0b3J5IjpbMTE2OTgwMDY1NywyNzU4NDEyODBdfQ==
 -->
