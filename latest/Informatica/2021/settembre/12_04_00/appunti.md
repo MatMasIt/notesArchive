@@ -5,7 +5,9 @@
 Iniziamo a studiare html, struttura a tag, funzione head e body, commenti
 
 Spieghiamo cosa sono 
-*html, css e js
+* html
+* css
+* js
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTQwMDQ0Niw5MzUzMDYyOTldfQ==
+eyJoaXN0b3J5IjpbMTg5MzIyOTc2MSw5MzUzMDYyOTldfQ==
 -->
