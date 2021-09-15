@@ -114,7 +114,9 @@ Stati
 
 |Acentrato|Federale|Confederale|
 |---|---|---|
-|Potere locale debole, potere centrale forte|Potere centrale dominante, potere locale rilevante|
+|Potere locale debole, potere centrale forte|Potere centrale dominante, potere locale rilevante|Potere Centrale debole, Potere locale Dominante|
+
+Impero asburgico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4NDk2Njc3XX0=
+eyJoaXN0b3J5IjpbMTIyMTkyMjgxOF19
 -->
