@@ -54,7 +54,10 @@ Stati uniti: nuova forza, auto governo
 Precoce esperimento democratico
 
 Tuttavia:
-* stre
+* sterminio indiani
+* mantenimento schiavi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTcyNDI1MV19
+eyJoaXN0b3J5IjpbMTY2NTQyMzgyM119
 -->
