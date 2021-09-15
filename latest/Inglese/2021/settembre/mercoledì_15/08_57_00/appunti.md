@@ -15,9 +15,8 @@ He accepts to be different in the end
 
 ### Bliss:
 Katherine Mansfield, masters a narrative technique
-
-xco 
+*Interior monologue/Stream of consciousness*: free flow of thougths, feelings, emotions, sensations in the mind of the character
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTU4OTI0NSw1MjQ4NDU3ODksMTEwND
-k1MzAxN119
+eyJoaXN0b3J5IjpbLTE3MjU1MzQ1NTcsNTI0ODQ1Nzg5LDExMD
+Q5NTMwMTddfQ==
 -->
