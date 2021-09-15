@@ -47,11 +47,7 @@ Re & parlamento
 
 Modello diventa comune dall' '800, 
 dopo la rivoluzione inglese 
-$$
-\begin{pmatrix}
-a  &  b & c
-\end{pmatrix}
-$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ1NDQ2NTddfQ==
+eyJoaXN0b3J5IjpbMTg0MDQ4OTgwOV19
 -->
