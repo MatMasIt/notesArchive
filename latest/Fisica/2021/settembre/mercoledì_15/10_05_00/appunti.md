@@ -82,7 +82,9 @@ k: costante di Boltzmann
 $pV=\frac{N}{\boxed{N_A}}\boxed{R}T=N\boxed{k}T$
 
 
-> $PV=\frac23NK_m$
+> $$
+> PV=\frac23NK_m
+> $$
 
 $K_m$= enegia cinetica media
 
@@ -90,12 +92,16 @@ $K_m$= enegia cinetica media
 
 $\frac23 \cancel{N}K_m=\cancel{N}kT$
 
-> $K_m=\frac{3}{2}kT$
+> $$
+> K_m=\frac{3}{2}kT
+> $$
 > _L'energia cinetica media di un sistema dipende esclusivamente dalla sua temperatura_
 
 
 
-> $\Delta U= N\cdot K_m = \frac32 kT$
+> $$
+> \Delta U= N\cdot K_m = \frac32 kT
+> $$
 > _L'energia interna di un sistema è una funzione di stato, ovvero ==dipende dallo stato istantaneo, no dalla trasformazione che la porta da uno stato all'altro==_
 
 
@@ -128,7 +134,12 @@ Noi immaginiamo trasformazioni reversibili
 
 $PV=nRT$
 
+Separo costanti $n,R,P$ dalle variabili 
 $\frac{V}{T}=\frac{nR}{P}$
+
+$$
+\frac{V_0}{T_0}=\frac{V_1}{T_1}
+$$
 
 ## Isocore ⇒ $V=k$ volume costante
 
@@ -138,7 +149,9 @@ Sepraro costanti $n,R,V$ da variabili
 
 $\frac{P}T=\frac{nR}V$
 
-$\frac{P_0}{T_0}=\frac{P_1}{T_1}$
+$$
+\frac{P_0}{T_0}=\frac{P_1}{T_1}
+$$
 
 
 ![](https://i.imgur.com/Sz7l7Hs.jpg)
@@ -149,7 +162,7 @@ Il lavoro non può essere presente anche siccome il $V$ è costante
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDc4MzgwOCw4NjE2MDgxNDgsMTk3Mj
+eyJoaXN0b3J5IjpbMTE2Mzg5NTc3Myw4NjE2MDgxNDgsMTk3Mj
 Q1NjE0Miw2NTY4MDQ1NDksNDEyMjEyMDkwLC0xOTk4NzQ2NzY1
 LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
 -->
