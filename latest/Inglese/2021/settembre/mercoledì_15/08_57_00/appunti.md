@@ -34,7 +34,11 @@ In "Bliss" there is not a particular plot, set during a dinner
 > Mrs. dallaway: buying flower for an important dinner
 
 
+Focus on the emotions, the mind, not the events 
+
+symbolism is in commn too
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM1NDQ4MjgsLTEzNDQzNjU5OTUsNT
-I0ODQ1Nzg5LDExMDQ5NTMwMTddfQ==
+eyJoaXN0b3J5IjpbMTQ4OTExMjYwMiwtMTM0NDM2NTk5NSw1Mj
+Q4NDU3ODksMTEwNDk1MzAxN119
 -->
