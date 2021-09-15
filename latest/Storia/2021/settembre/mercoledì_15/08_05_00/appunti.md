@@ -48,6 +48,10 @@ Re & parlamento
 Modello diventa comune dall' '800, 
 dopo la rivoluzione inglese 
 
+
+Stati uniti: nuova forza, auto governo
+
+Precoce esperimento democratico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDQ4OTgwOV19
+eyJoaXN0b3J5IjpbLTE3NTE5MjkzOV19
 -->
