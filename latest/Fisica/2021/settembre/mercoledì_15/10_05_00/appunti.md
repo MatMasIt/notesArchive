@@ -19,8 +19,14 @@ Forza per spostamento = lavoro = energia
 
 
 $$
-\boxed{\DeltaU}
+\boxed{\Delta U=Q-W}
 $$
+
+### Convenzione dei segni
+
+|Condizione|Segno|
+|---|---|
+|Il sistema **acquista** calore|$Q > 0$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTgwMDY1NywyNzU4NDEyODBdfQ==
+eyJoaXN0b3J5IjpbLTIyMDcwOTY1NywyNzU4NDEyODBdfQ==
 -->
