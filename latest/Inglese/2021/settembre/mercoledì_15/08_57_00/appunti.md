@@ -29,8 +29,10 @@ Virginia Woolf (Mrs. Dallaway, book)
 James Joyce (Dubliners, collection of 15 short stories) (Ulisses, book, whole novel is an interior monologue, most experimental, some parts have **no** punctuation)
 
 
-In "Blies
+In "Bliss" there is not a particular plot, set during a dinner
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc0MzcwOTYsLTEzNDQzNjU5OTUsNT
+eyJoaXN0b3J5IjpbLTE4MDY4Njk4ODQsLTEzNDQzNjU5OTUsNT
 I0ODQ1Nzg5LDExMDQ5NTMwMTddfQ==
 -->
