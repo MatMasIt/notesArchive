@@ -143,7 +143,7 @@ $$
 
 ![](https://i.imgur.com/YmDKzdm.jpg)
 
-
+$W=\overline{P}\cdot \Delta V=\overline{P}\cdot (V_f-V_I)$
 ## Isocore ⇒ $V=k$ volume costante
 
 $\boxed P \cdot  \boxed V= n R \boxed T$
@@ -163,9 +163,13 @@ Non c'è area sotto curva, $W=0$
 
 Il lavoro non può essere presente anche siccome il $V$ è costante
 
+## Isoterma ⇒ $T=k$ temperatura costante
+$PV=\boxed{nRT}$
+$T$ costante
 
+$P_0V_=$=$P_1_v_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjkxNTgwLDg2MTYwODE0OCwxOTcyND
+eyJoaXN0b3J5IjpbNjAxNzE0NjkzLDg2MTYwODE0OCwxOTcyND
 U2MTQyLDY1NjgwNDU0OSw0MTIyMTIwOTAsLTE5OTg3NDY3NjUs
 LTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
 -->
