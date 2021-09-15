@@ -46,7 +46,9 @@ Equazioni dimensionali
 
 $[P\cdot V]=[P]\cdot[V]=\frac{[F]}{\cancel{[L^2]}}\cdot \cancel{[L^3]}=[F]\cdot[L]=[W]$ (*forza per distanza è lavoro*)
 
-Isobara
+#### Isobara
+![](https://i.imgur.com/jqjFwYW.jpg)
+
 ![Isobara](https://i.imgur.com/XsRhDOV.jpg)
 
 
@@ -55,8 +57,8 @@ Area rettangolo: lavoro della trasformazione
 
 ----
 
-In una qualunque trasormazi
+In una qualunque trasormazione l'area sotto la curva corrisponde al lavoro, in questo caso una curva formata da 2 trapezi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTA4NDE4NSwtMTk5ODc0Njc2NSwtMT
-M2ODkyMjM5NywyNzU4NDEyODBdfQ==
+eyJoaXN0b3J5IjpbNTE0Njk1NjQsLTE5OTg3NDY3NjUsLTEzNj
+g5MjIzOTcsMjc1ODQxMjgwXX0=
 -->
