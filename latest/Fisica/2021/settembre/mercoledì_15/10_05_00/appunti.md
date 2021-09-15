@@ -104,11 +104,17 @@ $\frac23 \cancel{N}K_m=\cancel{N}kT$
 Il $3$ in $\frac32$ corrisponde alle direzioni, ma le particelle potrebbero muoversi anche in altri modi (movimenti rispetto a se stesse rotatori, etc), che si chiamano ==gradi di libertà==
 
 
+Nelle molecole biatomiche
+
+$\frac32 \to \frac 52$ 
+
+$K_m=\frac52kT$
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTI5NDAwLDY1NjgwNDU0OSw0MTIyMT
-IwOTAsLTE5OTg3NDY3NjUsLTEzNjg5MjIzOTcsMjc1ODQxMjgw
-XX0=
+eyJoaXN0b3J5IjpbLTI3NDY4NzA0Miw2NTY4MDQ1NDksNDEyMj
+EyMDkwLC0xOTk4NzQ2NzY1LC0xMzY4OTIyMzk3LDI3NTg0MTI4
+MF19
 -->
