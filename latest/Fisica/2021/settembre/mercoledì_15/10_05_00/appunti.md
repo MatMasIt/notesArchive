@@ -4,7 +4,7 @@
 
 Sintesi di termodinamica
 
-xlog 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1ODQxMjgwXX0=
+eyJoaXN0b3J5IjpbOTY4OTA1NDcyLDI3NTg0MTI4MF19
 -->
