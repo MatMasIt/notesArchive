@@ -6,7 +6,7 @@ HTML: linguaggio di markup
 
 Lista di componenti e della loro disposizione
 
-
+pagina sempl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MzA2Mjk5XX0=
+eyJoaXN0b3J5IjpbLTI1MDc4NDY3NCw5MzUzMDYyOTldfQ==
 -->
