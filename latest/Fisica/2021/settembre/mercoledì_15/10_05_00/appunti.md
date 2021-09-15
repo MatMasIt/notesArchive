@@ -178,9 +178,13 @@ $W=NkT\ln\frac{V_f}{V_i}$
 
 $W=nRT\ln\frac{V_g}{V_i}$
 
-## Adiabatica ⇒ $T=k$ temperatura costante
+## Adiabatica ⇒ $Q=0$ no scambi di calore con esterno
+
+$PV^{\gamma}=c$ ($c$ è una costante)
+
+$P=\frac{c}{V^\gamma}$ ($y=\frac{c}{x^k}$: funzion) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1MTYzMjMwLDg2MTYwODE0OCwxOTcyND
-U2MTQyLDY1NjgwNDU0OSw0MTIyMTIwOTAsLTE5OTg3NDY3NjUs
-LTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
+eyJoaXN0b3J5IjpbMTU0ODI1MDkwNyw4NjE2MDgxNDgsMTk3Mj
+Q1NjE0Miw2NTY4MDQ1NDksNDEyMjEyMDkwLC0xOTk4NzQ2NzY1
+LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
 -->
