@@ -15,7 +15,11 @@ Dominio economico europeo sul mondo
 
 Metà '500: mutamento equilibri interni
 
-Il sud era la parte più ricca, ora avviene i
+Il sud era la parte più ricca, ora avviene il contrario
+
+Impero ottomano: difficile accedere alle spezie
+
+Strade dell'atlantico: portoghese (circumnavigare l'Africa)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjQ4MjM4M119
+eyJoaXN0b3J5IjpbLTIyMTIwNjAwNl19
 -->
