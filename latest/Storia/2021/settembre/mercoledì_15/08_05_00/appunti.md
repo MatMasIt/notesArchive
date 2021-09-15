@@ -65,6 +65,12 @@ Borghese: nuova visione
 
 
 Borghesia genera il suo nemico: classe operaia
+
+
+
+Operai vs capitale
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjkyODk0M119
+eyJoaXN0b3J5IjpbMjcyNDc4NTQxXX0=
 -->
