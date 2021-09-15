@@ -2,7 +2,7 @@
 
 ## Mercoledì 15 settembre 2021, 08:06:00
 
-
+### Economia
 Rinascita economica dovuta a fattori casuali e miglioramento delle tecniche agricole
 frenata dalla peste
 
@@ -19,7 +19,18 @@ Il sud era la parte più ricca, ora avviene il contrario
 
 Impero ottomano: difficile accedere alle spezie
 
-Strade dell'atlantico: portoghese (circumnavigare l'Africa)
+Strade dell'atlantico: 
+* portoghese (circumnavigare l'Africa)
+* strada di Cristoforo Colombo
+
+### Politica
+
+Grande frammentazione del potere ==> 
+
+* Francia
+* Inghilterra
+* Spagna
+* Portogallo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTIwNjAwNl19
+eyJoaXN0b3J5IjpbMjcwNzQ0MjY2XX0=
 -->
