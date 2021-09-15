@@ -29,8 +29,8 @@ Virginia Woolf (Mrs. Dallaway, book)
 James Joyce (Dubliners, collection of 15 short stories) (Ulisses, book, whole novel is an interior monologue, most experimental, some parts have **no** punctuation)
 
 
-
+In "Blies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNjY1MzgwLC0xMzQ0MzY1OTk1LDUyND
-g0NTc4OSwxMTA0OTUzMDE3XX0=
+eyJoaXN0b3J5IjpbLTExOTc0MzcwOTYsLTEzNDQzNjU5OTUsNT
+I0ODQ1Nzg5LDExMDQ5NTMwMTddfQ==
 -->
