@@ -8,6 +8,9 @@ frenata dalla peste
 
 Crisi del '600: rallentamento della crescita economica
 
+Ma nel '700: rivoluzione industriale
+
+Dominio 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwNDc0MDQzXX0=
+eyJoaXN0b3J5IjpbMTQ5MDI5ODU4MV19
 -->
