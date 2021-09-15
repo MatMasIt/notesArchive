@@ -27,10 +27,17 @@ Strade dell'atlantico:
 
 Grande frammentazione del potere ==> Accentramento del potere nelle mani del sovrano
 
+Avviene in:
 * Francia
 * Inghilterra
 * Spagna
 * Portogallo
+
+**Non** avviene in:
+* Area Tedesca
+* Italia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjQ2NTg2OF19
+eyJoaXN0b3J5IjpbLTE4NzE1Njg5NTNdfQ==
 -->
