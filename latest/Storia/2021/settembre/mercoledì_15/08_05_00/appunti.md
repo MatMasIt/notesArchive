@@ -1,6 +1,7 @@
 # Lezione di Storia (1° ora)
 
 ## Mercoledì 15 settembre 2021, 08:06:00
+## Ripasso
 
 ### Economia
 Rinascita economica dovuta a fattori casuali e miglioramento delle tecniche agricole
@@ -98,6 +99,9 @@ Esaltamento vita mondana (caratteristia anche di oggi)
 
 ### Illminismo
 deriva nel '700 dalla rivoluzione scientifica del '600.
+
+
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTQyNTM4Ml19
+eyJoaXN0b3J5IjpbNjE5NzkxMzg2XX0=
 -->
