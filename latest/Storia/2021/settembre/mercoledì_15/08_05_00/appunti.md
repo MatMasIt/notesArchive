@@ -110,7 +110,11 @@ Area tedesca: linea rosssa, impero germanico abolito: ora c'è una confederazion
 
 Potere locale > potere centrale
 
-Sta
+Stati
+
+|Acentrato|Federale|Confederale|
+|---|---|---|
+|Potere locale debole, potere centrale forte|Potere centrale dominante, potere locale rilevante|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY4MTMyOThdfQ==
+eyJoaXN0b3J5IjpbNzA4NDk2Njc3XX0=
 -->
