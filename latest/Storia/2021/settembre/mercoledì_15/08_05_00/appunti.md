@@ -93,12 +93,11 @@ Laicità dello stato, religione aspetto privato
 ### Il rinascimento
 
 
-E
+Esaltamento vita mondana (caratteristia anche di oggi)
 
 
-
-
-
+### Illminismo
+deriva nel '700 dalla rivoluzione scientifica del '600.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDUzMDgyNV19
+eyJoaXN0b3J5IjpbMTA4OTQyNTM4Ml19
 -->
