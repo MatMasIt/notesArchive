@@ -44,7 +44,16 @@ Grandezze "in gioco" in un contenitore ermetico:
 
 Equazioni dimensionali
 
-$[P\cdot V]=[P]\cdot[V]=\frac{[F]}{\cancel{[L^2]}}\cdot \cancel{[L^3]}=[F]\cdot[L]$
+$[P\cdot V]=[P]\cdot[V]=\frac{[F]}{\cancel{[L^2]}}\cdot \cancel{[L^3]}=[F]\cdot[L]=[W]$ (*forza per distanza è lavoro*)
+
+
+
+
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc3NjgwMTIsMjc1ODQxMjgwXX0=
+eyJoaXN0b3J5IjpbLTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
 -->
