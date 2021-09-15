@@ -69,9 +69,12 @@ Si presuppone che le particelle si muovano nelle 3 direzioni nello stesso identi
 Velocità media per x è $\frac13$ della quadratica media
 
 ---
+|||
+|---|---|
+|$PV=nRT$|$R=8,31\frac{J}{mol\cdot K}$|
 
-$PV
+$n=\frac{N}{N_A}4 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODg4MDU1NCw0MTIyMTIwOTAsLTE5OT
-g3NDY3NjUsLTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
+eyJoaXN0b3J5IjpbLTE3Mzg4OTIwMjIsNDEyMjEyMDkwLC0xOT
+k4NzQ2NzY1LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
 -->
