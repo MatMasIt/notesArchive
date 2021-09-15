@@ -10,7 +10,12 @@ Crisi del '600: rallentamento della crescita economica
 
 Ma nel '700: rivoluzione industriale
 
-Dominio 
+Dominio economico europeo sul mondo
+
+
+Metà '500: mutamento equilibri interni
+
+Il sud era la parte più ricca, ora avviene i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDI5ODU4MV19
+eyJoaXN0b3J5IjpbMTMzMjQ4MjM4M119
 -->
