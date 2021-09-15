@@ -52,6 +52,9 @@ dopo la rivoluzione inglese
 Stati uniti: nuova forza, auto governo
 
 Precoce esperimento democratico
+
+Tuttavia:
+* stre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE5MjkzOV19
+eyJoaXN0b3J5IjpbMTM4OTcyNDI1MV19
 -->
