@@ -215,9 +215,9 @@ Il calore è una forma di energia
 Tutta l'energia rimasta viene utilizzata per innalzare la temperatura (_assunzione_)
 
 
-
+$K_{m_p}=\frac12mv^2$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDkwNDkwOCw4NjE2MDgxNDgsMTk3Mj
-Q1NjE0Miw2NTY4MDQ1NDksNDEyMjEyMDkwLC0xOTk4NzQ2NzY1
-LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
+eyJoaXN0b3J5IjpbLTE0NTc3NTI4NDksODYxNjA4MTQ4LDE5Nz
+I0NTYxNDIsNjU2ODA0NTQ5LDQxMjIxMjA5MCwtMTk5ODc0Njc2
+NSwtMTM2ODkyMjM5NywyNzU4NDEyODBdfQ==
 -->
