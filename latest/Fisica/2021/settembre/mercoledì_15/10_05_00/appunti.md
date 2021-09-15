@@ -76,9 +76,20 @@ Velocità media per x è $\frac13$ della quadratica media
 $n=\frac{N}{N_A}$
 
 k: costante di Boltzmann
- $k=\frac{R}{N_A}=1,38\c$
+
+ $k=\frac{R}{N_A}=1,38\cdot 10^{-23}\frac{J}{K}$
+
 $pV=\frac{N}{\boxed{N_A}}\boxed{R}T=N\boxed{k}T$
+
+
+> $PV=\frac23NK_m$
+
+$K_m$= enegia cinetica media
+
+
+
+$\frac23 NK_m=NkT$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTIyMDY0MDcsNDEyMjEyMDkwLC0xOT
-k4NzQ2NzY1LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
+eyJoaXN0b3J5IjpbMTAxMzk0NjE3Niw0MTIyMTIwOTAsLTE5OT
+g3NDY3NjUsLTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
 -->
