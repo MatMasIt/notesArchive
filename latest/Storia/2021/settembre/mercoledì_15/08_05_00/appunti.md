@@ -127,6 +127,11 @@ p.303: prussia
 
 Est: parte agricola
 Ovest: più industrializzata
+
+
+Parte più orientale di prussia (dove nasce Kant) è fuori dalla confederazione
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzMzNTk0Nl19
+eyJoaXN0b3J5IjpbNzU0MDk0NTE1XX0=
 -->
