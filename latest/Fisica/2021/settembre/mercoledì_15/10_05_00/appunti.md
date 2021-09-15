@@ -26,7 +26,9 @@ $$
 
 |Condizione|Segno|
 |---|---|
-|Il sistema **acquista** calore|$Q > 0$|
+|_Il sistema **acquista** calore_, l'ambiente cede/fornisce calore|$Q > 0$|
+|_Il sistema **cede** calore_, l'ambiente acquista calore|$Q < 0$|
+|Il sist
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDcwOTY1NywyNzU4NDEyODBdfQ==
+eyJoaXN0b3J5IjpbOTkwNTg5MTM4LDI3NTg0MTI4MF19
 -->
