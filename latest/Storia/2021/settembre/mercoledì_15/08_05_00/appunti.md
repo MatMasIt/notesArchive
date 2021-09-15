@@ -25,12 +25,12 @@ Strade dell'atlantico:
 
 ### Politica
 
-Grande frammentazione del potere ==> 
+Grande frammentazione del potere ==> Accentramento del potere nelle mani del sovrano
 
 * Francia
 * Inghilterra
 * Spagna
 * Portogallo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNzQ0MjY2XX0=
+eyJoaXN0b3J5IjpbMTg4MjQ2NTg2OF19
 -->
