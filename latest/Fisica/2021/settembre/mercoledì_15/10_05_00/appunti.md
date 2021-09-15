@@ -116,9 +116,17 @@ $K_m=\frac72 kT$
 
 
  ---
- 
+Noi immaginiamo trasformazioni reversibili
+
+* Isobare A pressione costante
+* Isocore A volume costante
+* Isoterme a temperatura Costante
+* Adiabatiche senza scambi di calore con l'esterno
+
+
+Isocore ⇒ volume costante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTczMTE2MywxOTcyNDU2MTQyLDY1Nj
-gwNDU0OSw0MTIyMTIwOTAsLTE5OTg3NDY3NjUsLTEzNjg5MjIz
-OTcsMjc1ODQxMjgwXX0=
+eyJoaXN0b3J5IjpbODYxNjA4MTQ4LDE5NzI0NTYxNDIsNjU2OD
+A0NTQ5LDQxMjIxMjA5MCwtMTk5ODc0Njc2NSwtMTM2ODkyMjM5
+NywyNzU4NDEyODBdfQ==
 -->
