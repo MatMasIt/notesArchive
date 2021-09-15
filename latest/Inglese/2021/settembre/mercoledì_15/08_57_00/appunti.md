@@ -26,11 +26,11 @@ metaphor of swallowing the sun
 Modernist Authors (20th century)
 
 Virginia Woolf (Mrs. Dallaway, book)
-James Joyce (Dubliners, collection of 15 short stories) (Ulisses, book)
+James Joyce (Dubliners, collection of 15 short stories) (Ulisses, book, whole novel is an interior monologue, most experimental, some parts have **no** punctuation)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQwNzg0MSwtMTM0NDM2NTk5NSw1Mj
-Q4NDU3ODksMTEwNDk1MzAxN119
+eyJoaXN0b3J5IjpbNDgwNjY1MzgwLC0xMzQ0MzY1OTk1LDUyND
+g0NTc4OSwxMTA0OTUzMDE3XX0=
 -->
