@@ -95,7 +95,8 @@ $\frac23 \cancel{N}K_m=\cancel{N}kT$
 
 
 
+> $\Delta U= N\cdot K_M\frac32 kT$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1NTg4Nzk3LDQxMjIxMjA5MCwtMTk5OD
-c0Njc2NSwtMTM2ODkyMjM5NywyNzU4NDEyODBdfQ==
+eyJoaXN0b3J5IjpbLTE3NTA0NzEyOTQsNDEyMjEyMDkwLC0xOT
+k4NzQ2NzY1LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
 -->
