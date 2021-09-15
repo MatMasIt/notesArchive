@@ -141,6 +141,9 @@ $$
 \frac{V_0}{T_0}=\frac{V_1}{T_1}
 $$
 
+![](https://i.imgur.com/YmDKzdm.jpg)
+
+
 ## Isocore ⇒ $V=k$ volume costante
 
 $\boxed P \cdot  \boxed V= n R \boxed T$
@@ -162,7 +165,7 @@ Il lavoro non può essere presente anche siccome il $V$ è costante
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Mzg5NTc3Myw4NjE2MDgxNDgsMTk3Mj
-Q1NjE0Miw2NTY4MDQ1NDksNDEyMjEyMDkwLC0xOTk4NzQ2NzY1
-LC0xMzY4OTIyMzk3LDI3NTg0MTI4MF19
+eyJoaXN0b3J5IjpbLTg2MjkxNTgwLDg2MTYwODE0OCwxOTcyND
+U2MTQyLDY1NjgwNDU0OSw0MTIyMTIwOTAsLTE5OTg3NDY3NjUs
+LTEzNjg5MjIzOTcsMjc1ODQxMjgwXX0=
 -->
