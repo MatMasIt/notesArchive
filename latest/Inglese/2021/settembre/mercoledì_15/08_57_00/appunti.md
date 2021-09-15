@@ -18,7 +18,9 @@ Katherine Mansfield, masters a narrative technique
 *Interior monologue/Stream of consciousness*: free flow of thougths, feelings, emotions, sensations in the mind of the character (theorized by James)
 
 > The verbal expression of a *stream of consciousness* is an *interior monologue*
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjA2OTMxMiw1MjQ4NDU3ODksMTEwND
+eyJoaXN0b3J5IjpbLTI2NDM2MzIzNiw1MjQ4NDU3ODksMTEwND
 k1MzAxN119
 -->
