@@ -24,14 +24,16 @@ $$
 
 ### Convenzione dei segni
 
-|Condizione|Segno|
-|---|---|
-|_Il ==sistema **acquista** calore==_, l'ambiente cede/fornisce calore|$Q > 0$|
-|_Il ==sistema **cede** calore==_, l'ambiente acquista calore|$Q < 0$|
-|Il ==sistema **esegue** lavoro== sull'ambiente|$W > 0$|
-|L' ==**ambiente esterno** esegue lavoro sul sistema==|$W < 0$|
+|Grandezza|Condizione|Segno|
+|---|---|---|
+|Calore|_Il ==sistema **acquista** calore==_, l'ambiente cede/fornisce calore|$Q > 0$|
+|Calore|_Il ==sistema **cede** calore==_, l'ambiente acquista calore|$Q < 0$|
+|lavoro|Il ==sistema **esegue** lavoro== sull'ambiente|$W > 0$|
+|Lavoro|L' ==**ambiente esterno** esegue lavoro sul sistema==|$W < 0$|
 
 
+
+Urti delle pa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDIzNjU3MywyNzU4NDEyODBdfQ==
+eyJoaXN0b3J5IjpbMTkzMzkwNzIxLDI3NTg0MTI4MF19
 -->
