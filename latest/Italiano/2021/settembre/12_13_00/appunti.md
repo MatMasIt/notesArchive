@@ -7,6 +7,13 @@ mondo del sublime, mondo della luce e della'armonia
 
 
 p. 591, canto I 
+
+pperifrasi: Dio tutto muove
+
+
+> L'amor che move il sole e l'altre stelle
+
+Dante ha viaggiato davvero e ha davvero fatto un viaggio profetico alla pari degli antichi profeti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzM3NTc2N119
+eyJoaXN0b3J5IjpbMTkzNDEwNjE5NF19
 -->
