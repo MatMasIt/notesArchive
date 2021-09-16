@@ -61,9 +61,12 @@ $y-4=-\frac34\frac{x_0}{\sqrt{1-\frac{x_0^2}{4}}}(x-2)$
 
 
 $$
-\begin{equation} \begin{cases} Here \end{cases} \end{equation}
+\begin{equation} \begin{cases} 
+y_0-4=-\frac34\frac{x_0}{\sqrt{1-\frac{x_0^2}{4}}}(x-2)\implies T_0 \in t\\
+y_0=3\sqrt{1-\frac{x_0^2}{4}}
+ \end{cases} \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDc1Mjg5NiwxOTYyNTQ1MjE4LC0yMj
-UzODQyMDIsLTk1MTQyMTQxM119
+eyJoaXN0b3J5IjpbLTE1ODQxMTE2NDQsMTk2MjU0NTIxOCwtMj
+I1Mzg0MjAyLC05NTE0MjE0MTNdfQ==
 -->
