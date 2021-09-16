@@ -41,9 +41,10 @@ $$
 Solo parte sopra
 
 
-$y=3\sqrt{1-\frac{x^2}4}=$
-
+$y=3\sqrt{1-\frac{x^2}4}=3\left( 1-\frac{x^2}{4} \right)^{\frac12}$
+$y^{'}=D\left( 3\left( 1-\frac{x^2}{4} \right)^{\frac12}\right)$ 
+$=3\cdot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjY3NDgxNSwxOTYyNTQ1MjE4LC0yMj
+eyJoaXN0b3J5IjpbMTkxMDIzMDQwNCwxOTYyNTQ1MjE4LC0yMj
 UzODQyMDIsLTk1MTQyMTQxM119
 -->
