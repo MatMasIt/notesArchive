@@ -92,8 +92,14 @@ $y-=\frac34\frac{x_0}{\sqrt{1-\frac{x_0^2}{4}}}(x-2)$
 
 ---
 
-## Equazioni delle simmetri
+## Equazioni delle simmetrie
+
+
+$y=x^2+1$
+$P(2,4)$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTI2NjA2NywtMTU4NDExMTY0NCwxOT
-YyNTQ1MjE4LC0yMjUzODQyMDIsLTk1MTQyMTQxM119
+eyJoaXN0b3J5IjpbLTE5MDIxNDExMTUsLTE1ODQxMTE2NDQsMT
+k2MjU0NTIxOCwtMjI1Mzg0MjAyLC05NTE0MjE0MTNdfQ==
 -->
