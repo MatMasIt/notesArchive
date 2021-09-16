@@ -17,7 +17,9 @@ Kant fa una riflessione Gnoseologica
 
 Kant: prussiano, prussia orientale
 
-Massimo esponente 
+Massimo esponente illuminismo tedesco
+
+Appassionato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDcxOTM3Ml19
+eyJoaXN0b3J5IjpbLTEzMjY1Mjk3NV19
 -->
