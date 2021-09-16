@@ -63,6 +63,12 @@ Dio in empireo
 
 
 Cieli più vicini al primmo mobile sono più veloci anche se dante si aspettava il contrario
+
+
+anime raccolte per gruppi 
+
+Tem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTc2MTU2MSwxOTM0MTA2MTk0XX0=
+eyJoaXN0b3J5IjpbLTEwNDQ3NzM0NzIsMTMwNTc2MTU2MSwxOT
+M0MTA2MTk0XX0=
 -->
