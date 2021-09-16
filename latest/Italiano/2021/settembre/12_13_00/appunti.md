@@ -18,6 +18,7 @@ Dante ha viaggiato davvero e ha davvero fatto un viaggio profetico alla pari deg
 
 _La Commedia secondo l'antica vulgata_, Milano, 1966-67 Giorgio Petrocchi, prima editione prima dell'edizione di Boccaccio
 
+mezzogiorno del mercoledì successivo alla domenica di Pasqua
 
 13 aprile 1300, annogiubilare, giorno di ascensione da paradiso terrestre a celeste
 
@@ -25,6 +26,8 @@ _La Commedia secondo l'antica vulgata_, Milano, 1966-67 Giorgio Petrocchi, prima
 v.70 canto I
 
 "trasumanare" neologismo
+
+inspiegabile, indicibile, irriferibile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTgxMDU0MCwxOTM0MTA2MTk0XX0=
+eyJoaXN0b3J5IjpbODEwNTg4NjcwLDE5MzQxMDYxOTRdfQ==
 -->
