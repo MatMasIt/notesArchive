@@ -127,7 +127,13 @@ $$
 $8-y^{'}=(4-x^{'})^2+1$
 
 $y^{'}=-x^{{'}^{{}^2}}+8x^{'}-9$
+
+## p.42
+### es. 123
+$f(x)=4\sqrt{x}+3\sqrt{3}{x}$
+f(x)=4x^{\fra$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MDUzMzM3LC0xNTg0MTExNjQ0LDE5Nj
-I1NDUyMTgsLTIyNTM4NDIwMiwtOTUxNDIxNDEzXX0=
+eyJoaXN0b3J5IjpbLTY3Njg4MzI2MSw0NDcwNTMzMzcsLTE1OD
+QxMTE2NDQsMTk2MjU0NTIxOCwtMjI1Mzg0MjAyLC05NTE0MjE0
+MTNdfQ==
 -->
