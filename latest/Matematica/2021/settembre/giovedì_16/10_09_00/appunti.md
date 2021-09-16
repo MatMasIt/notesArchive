@@ -139,10 +139,10 @@ $$
 D(f(x))=\frac12x^{-\frac12}+\frac12x^{-\frac23}=\\
 $$
 $$
-D(f(x))=\frac12\sqrt{x}+\frac12\sqrt
+D(f(x))=\frac12\sqrt{x}+\frac12\sqrt[3]{x^2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0MTMwMzUxLDQ0NzA1MzMzNywtMTU4ND
+eyJoaXN0b3J5IjpbODg3NDg5NTc2LDQ0NzA1MzMzNywtMTU4ND
 ExMTY0NCwxOTYyNTQ1MjE4LC0yMjUzODQyMDIsLTk1MTQyMTQx
 M119
 -->
