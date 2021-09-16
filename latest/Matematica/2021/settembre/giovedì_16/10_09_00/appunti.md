@@ -114,9 +114,16 @@ $$
 
 
 $$
+xeq \begin{equation} \begin{cases} 
+2=\frac{x+x^{'}}{2}\\
+4=\frac{y+y^{'}}{2}
+ \end{cases} \end{equation}\\
+\begin{equation} \begin{cases}
+x=4-x^{'}\\
+y=8-y^{'} \end{cases} \end{equation}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTQ3OTUwNywtMTU4NDExMTY0NCwxOT
+eyJoaXN0b3J5IjpbMTU3MzY2ODYxMywtMTU4NDExMTY0NCwxOT
 YyNTQ1MjE4LC0yMjUzODQyMDIsLTk1MTQyMTQxM119
 -->
