@@ -48,6 +48,8 @@ Fissare con sgurado della mente dei sensi
 
 Cosmologia tolemaica
 
+
+p.589: struttura del paradiso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTQxNDE2LDE5MzQxMDYxOTRdfQ==
+eyJoaXN0b3J5IjpbLTIxMjIzMDg3NzIsMTkzNDEwNjE5NF19
 -->
