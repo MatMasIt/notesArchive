@@ -152,10 +152,11 @@ D(\sin x)=\cos x\\
 D(\cos x)=-\sin x\\
 D(e^x)=e^x\\
 D(\ln x)=\frac{1}{x}\\
-D(a^x)=a^x\ln a
+D(a^x)=a^x\ln a\\
+D(\log_ax)=\frac 1{x}\cdot\frac{1}{\ln a}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzk4NTg1Nyw0NDcwNTMzMzcsLTE1OD
-QxMTE2NDQsMTk2MjU0NTIxOCwtMjI1Mzg0MjAyLC05NTE0MjE0
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTE5NDk4ODcxODIsNDQ3MDUzMzM3LC0xNT
+g0MTExNjQ0LDE5NjI1NDUyMTgsLTIyNTM4NDIwMiwtOTUxNDIx
+NDEzXX0=
 -->
