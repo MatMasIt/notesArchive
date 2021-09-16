@@ -153,10 +153,11 @@ D(\cos x)=-\sin x\\
 D(e^x)=e^x\\
 D(\ln x)=\frac{1}{x}\\
 D(a^x)=a^x\ln a\\
-D(\log_ax)=\frac 1{x}\cdot\frac{1}{\ln a}
+D(\log_ax)=\frac 1{x}\cdot\frac{1}{\ln a}\\
+D(\tan x)=1+\tan^2 x=\frac 1 {\cos^2 x}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk4ODcxODIsNDQ3MDUzMzM3LC0xNT
+eyJoaXN0b3J5IjpbLTIwODA4NDg5NjcsNDQ3MDUzMzM3LC0xNT
 g0MTExNjQ0LDE5NjI1NDUyMTgsLTIyNTM4NDIwMiwtOTUxNDIx
 NDEzXX0=
 -->
