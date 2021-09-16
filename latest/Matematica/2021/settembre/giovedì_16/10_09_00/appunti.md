@@ -25,11 +25,20 @@ $y=\pm\sqrt{9-\frac94 x^2}$
 
 
 $$
+y=+\sqrt{1-\frac14 x^2}\\
 \begin{equation} \begin{cases} 
 y \geq 0\\
  \end{cases} \end{equation}
 $$
+
+--- 
+$$
+y=-\sqrt{9-\frac94 x^2}\\
+\begin{equation} \begin{cases} 
+y \leq 0
+\end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM0MjA2NzIsLTIyNTM4NDIwMiwtOT
-UxNDIxNDEzXX0=
+eyJoaXN0b3J5IjpbMTk2MjU0NTIxOCwtMjI1Mzg0MjAyLC05NT
+E0MjE0MTNdfQ==
 -->
