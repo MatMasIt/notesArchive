@@ -98,8 +98,13 @@ $y-=\frac34\frac{x_0}{\sqrt{1-\frac{x_0^2}{4}}}(x-2)$
 $y=x^2+1$
 $P(2,4)$
 
+$P^{'}\to P \text{ simmetrico } C$
+
+> (segmento $P^{'}-P$ con $C$ in mezzo)
+> $C$ è punto medio del segmento
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDIxNDExMTUsLTE1ODQxMTE2NDQsMT
-k2MjU0NTIxOCwtMjI1Mzg0MjAyLC05NTE0MjE0MTNdfQ==
+eyJoaXN0b3J5IjpbMjA1NTAyNjY5NywtMTU4NDExMTY0NCwxOT
+YyNTQ1MjE4LC0yMjUzODQyMDIsLTk1MTQyMTQxM119
 -->
