@@ -48,8 +48,13 @@ $=3\cdot D \left[\left(1-\frac{x^2}{4}\right)^{\frac12}\right]$
 
 $f^{'}=3\cdot \frac12 \left(1-\frac{x^2}{4}\right)^{\frac12-1}\cdot \left[D(1)-D\left(1-\frac{x^2}4\right)\right]$
 
-$=\frac32\frac{1}{\sqrt{1-\frac{x^2}{4}}}\left(-\frac1{\cancel{4} {}2}}\cdot\cancel2x\right )$
+$=\frac32\frac{1}{\sqrt{1-\frac{x^2}{4}}}\left(-\frac1{\cancel{4} {}^{\boxed{2}}}\cdot\cancel2x\right )=-\frac34 \cdot\frac{x}{\sqrt{1-\frac14 x^2}}$
+
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNDY4NjY5LDE5NjI1NDUyMTgsLTIyNT
-M4NDIwMiwtOTUxNDIxNDEzXX0=
+eyJoaXN0b3J5IjpbLTE5OTMwNDc2MjksMTk2MjU0NTIxOCwtMj
+I1Mzg0MjAyLC05NTE0MjE0MTNdfQ==
 -->
