@@ -50,6 +50,10 @@ Cosmologia tolemaica
 
 
 p.589: struttura del paradiso
+
+
+
+I no
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjIzMDg3NzIsMTkzNDEwNjE5NF19
+eyJoaXN0b3J5IjpbNTE0MjQyODQsMTkzNDEwNjE5NF19
 -->
