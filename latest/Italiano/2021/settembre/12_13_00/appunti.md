@@ -57,6 +57,12 @@ I noce cieli condizionano il comportamento dei beati
 
 
 Primo mobile o cristallino origine del movimento
+
+
+Dio in empireo
+
+
+Cieli più vicini al primmo mobile sono più veloci anche se dante si aspettava il contrario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg2MzE2MjksMTkzNDEwNjE5NF19
+eyJoaXN0b3J5IjpbMTMwNTc2MTU2MSwxOTM0MTA2MTk0XX0=
 -->
