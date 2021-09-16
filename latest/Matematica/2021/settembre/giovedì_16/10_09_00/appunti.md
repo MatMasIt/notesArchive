@@ -84,9 +84,9 @@ $$
 
 
 $$
-x_0=\frac{}{}
-$$
+x_0=\frac{18\pm\sqrt{324+700}}{25}
+=2\lor-\frac{14}{25}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjE1MTYzOCwtMTU4NDExMTY0NCwxOT
+eyJoaXN0b3J5IjpbMTQxNDMyMzY3OSwtMTU4NDExMTY0NCwxOT
 YyNTQ1MjE4LC0yMjUzODQyMDIsLTk1MTQyMTQxM119
 -->
