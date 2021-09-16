@@ -31,7 +31,10 @@ Lui nato 1724
 Opera scrittta nel 1781
 
 Formazione filosofica
- k
+ 
+kant deve conciliare scienza e obiezioni Humme
+
+Deve conciliare ambizioni della metafisica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg4MDIwNywtOTMyMDE4MTQ4XX0=
+eyJoaXN0b3J5IjpbNzEzNTU1OTA0LC05MzIwMTgxNDhdfQ==
 -->
