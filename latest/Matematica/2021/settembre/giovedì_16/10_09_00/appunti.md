@@ -34,7 +34,16 @@ $$
 y \leq 0
 \end{cases} \end{equation}
 $$
+
+---
+
+
+Solo parte sopra
+
+
+$y=3\sqrt{1-\frac{x^2}4}=$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzA2NzQ3OCwxOTYyNTQ1MjE4LC0yMj
+eyJoaXN0b3J5IjpbLTczMjY3NDgxNSwxOTYyNTQ1MjE4LC0yMj
 UzODQyMDIsLTk1MTQyMTQxM119
 -->
