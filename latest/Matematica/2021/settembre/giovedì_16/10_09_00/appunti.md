@@ -148,6 +148,7 @@ $$
 $$
 D(k)=0\\
 D(x)=1\\
+D(x^n)nx^{n-1}\\
 D(\sin x)=\cos x\\
 D(\cos x)=-\sin x\\
 D(e^x)=e^x\\
@@ -157,7 +158,7 @@ D(\log_ax)=\frac 1{x}\cdot\frac{1}{\ln a}\\
 D(\tan x)=1+\tan^2 x=\frac 1 {\cos^2 x}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA4NDg5NjcsNDQ3MDUzMzM3LC0xNT
-g0MTExNjQ0LDE5NjI1NDUyMTgsLTIyNTM4NDIwMiwtOTUxNDIx
-NDEzXX0=
+eyJoaXN0b3J5IjpbLTcwNzU4NDA4MCwtMjA4MDg0ODk2Nyw0ND
+cwNTMzMzcsLTE1ODQxMTE2NDQsMTk2MjU0NTIxOCwtMjI1Mzg0
+MjAyLC05NTE0MjE0MTNdfQ==
 -->
