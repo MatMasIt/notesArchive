@@ -12,6 +12,14 @@ $$
 $$
 P(2,4)
 $$
+
+$ricaviamo$ $le$ $funzioni$
+
+$$
+4y^2=36-9x^2\\
+y^2=9-\frac94 x^2 
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTM4NDIwMiwtOTUxNDIxNDEzXX0=
+eyJoaXN0b3J5IjpbMjAzNjM1MTU1NiwtMjI1Mzg0MjAyLC05NT
+E0MjE0MTNdfQ==
 -->
