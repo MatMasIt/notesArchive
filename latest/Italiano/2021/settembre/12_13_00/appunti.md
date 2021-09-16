@@ -6,7 +6,7 @@ Paradiso
 mondo del sublime, mondo della luce e della'armonia
 
 
-
+p. 591, canto I 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDc2MTU4XX0=
+eyJoaXN0b3J5IjpbMTc5NzM3NTc2N119
 -->
