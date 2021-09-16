@@ -69,9 +69,9 @@ $$
 
 
 $$
-3\sqrt{1-\frac{x_0^2}{4}}-4=-\frac34\frac{}
+3\sqrt{1-\frac{x_0^2}{4}}-4=-\frac34\frac{x_0^2-2x_0}{\sqrt{1-\frac{x_0^2}{4}}}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDA2MjA5NCwtMTU4NDExMTY0NCwxOT
+eyJoaXN0b3J5IjpbMTkyNzU0NjA1MCwtMTU4NDExMTY0NCwxOT
 YyNTQ1MjE4LC0yMjUzODQyMDIsLTk1MTQyMTQxM119
 -->
