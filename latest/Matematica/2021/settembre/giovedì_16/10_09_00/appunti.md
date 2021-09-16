@@ -133,16 +133,16 @@ $y^{'}=-x^{{'}^{{}^2}}+8x^{'}-9$
 $$f(x)=4\sqrt{x}+3\sqrt[3]{x}\\
 $$
 $$
-f(x)=4\cdot D(x^{\frac12})+3\cdot D(x^{\frac13})\\
+D(f(x))=4\cdot D(x^{\frac12})+3\cdot D(x^{\frac13})\\
 $$
 $$
-D(f(x))=\frac
+D(f(x))=4\frac12x^{\frac12-1}+3\cdot D(\sqrt[3]{x})
 $$
 $$
-D(f(x))=\frac12\sqrt{x}+\frac12\sqrt[3]{x^2}
+D(f(x))=\frac2{\sqrt{x}}+\frac{1}{\sqrt[3]{x^2}}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjEzNzI1NzYsNDQ3MDUzMzM3LC0xNT
+eyJoaXN0b3J5IjpbLTIwOTU3MzY4OTYsNDQ3MDUzMzM3LC0xNT
 g0MTExNjQ0LDE5NjI1NDUyMTgsLTIyNTM4NDIwMiwtOTUxNDIx
 NDEzXX0=
 -->
