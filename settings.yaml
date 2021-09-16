@@ -1,87 +1,117 @@
-# Add your custom settings here to override the  
-# default settings.  
-colorTheme: dark  
-shortcuts:  
-    'x a u space':  
-        method: expand  
-        params:  
-            -  'xau '  
-            -  'Mattia Mascarello '  
-    'x l z space':  
-        method: expand  
-        params:  
-            -  'xlz '  
-            -  '# Lezione di @ (@° ora) '  
-    'x c space':  
-        method: expand  
-        params:  
-            -  'xc '  
-            -  '# Compiti di @ per @ '  
-    'x q space':  
-        method: expand  
-        params:  
-            -  'xq '  
-            -  '> '  
-    'x l e space':  
-        method: expand  
-        params:  
-            -  'xle '  
-            -  '< '  
-    'x a q space':  
-        method: expand  
-        params:  
-            -  'xaq '  
-            -  '> Citazione<br /> *Opera*, Autore, anno'  
-    'x e q space':  
-        method: expand  
-        params:  
-            -  'xeq '  
-            - \begin{equation}  
-              \begin{cases}  
-              Here  
-              \end{cases}  
-              \end{equation}  
-    'x c o space':  
-        method: expand  
-        params:  
-            -  'xco '  
-            -  '``` '  
-    'x l p space':  
-        method: expand  
-        params:  
-            -  'xlp '  
-            -  '\left( '  
-    'x r p space':  
-        method: expand  
-        params:  
-            -  'xrp '  
-            -  '\right)'  
-    'x f space':  
-        method: expand  
-        params:  
-            -  'xf '  
-            -  '\frac{}{} '  
-    'x s q space':  
-        method: expand  
-        params:  
-            -  'xsq '  
-            -  '\sqrt{} '  
-    'x l o g space':  
-        method: expand  
-        params:  
-            -  'xlog '  
-            -  '\log_{} '  
-    'x d a space':  
-        method: expand  
-        params:  
-            -  'xda '  
-            -  '@@dì dd MESE 20xx, hh:mm:ss '  
+# Add your custom settings here to override the
+# default settings.
+colorTheme: dark
+shortcuts:
+  'x a u space':
+    method: expand
+    params:
+    - 'xau '
+    - 'Mattia Mascarello '
+  'x l z space':
+    method: expand
+    params:
+    - 'xlz '
+    - '# Lezione di #@@ (@@° ora) '
+  'x c space':
+    method: expand
+    params:
+    - 'xc '
+    - '# Compiti di @@ per  @@ '
+  'x q space':
+    method: expand
+    params:
+    - 'xq '
+    - '> '
+  'x l e space':
+    method: expand
+    params:
+    - 'xle '
+    - '< '
+  'x a q space':
+    method: expand
+    params:
+    - 'xaq '
+    - '> Citazione<br /> *Opera*, Autore, anno'
+  'x e q space':
+    method: expand
+    params:
+    - 'xeq '
+    - \begin{equation}
+      \begin{cases}
+      Here
+      \end{cases}
+      \end{equation} 
+  'x c m space':
+    method: expand
+    params:
+    - 'xcm '
+    - '``` '
+  'x m a t space':
+    method: expand
+    params:
+    - 'xmat '
+    - \begin{pmatrix}
+       a  &  b & c\\ 
+       d & e & f \\
+       g & h & i
+       \end{pmatrix}
+  'x b r space':
+    method: expand
+    params:
+    - 'xbr '
+    - '<br />'
+  'x h r space':
+    method: expand
+    params:
+    - 'xhr '
+    - '<hr />'
+  'x e s space':
+    method: expand
+    params:
+    - 'xes '
+    - 'Esercizio n. '
+  'x p g space':
+    method: expand
+    params:
+    - 'xpg '
+    - 'Pagina n. '
+  'x a r space':
+    method: expand
+    params:
+    - 'xar '
+    - '⇒ '
+  'x a l space':
+    method: expand
+    params:
+    - 'xal '
+    - '⇐ '
+  'x f space':
+    method: expand
+    params:
+    - 'xf '
+    - '\frac{}{} '
+  'x l o g space':
+    method: expand
+    params:
+    - 'xlog '
+    - '\log_{} '
+  'x l p space':
+    method: expand
+    params:
+    - 'xlp '
+    - '\left( '
+  'x r p space':
+    method: expand
+    params:
+    - 'xrp '
+    - '\right) '
+  'x l t space':
+    method: expand
+    params:
+    - 'xlt '
+    - '\text{} '
+newFileContent: |
+  # Title
 
+  
 
-  
-  
-  
-  
-  
-newFileContent:  |  
-# Title
