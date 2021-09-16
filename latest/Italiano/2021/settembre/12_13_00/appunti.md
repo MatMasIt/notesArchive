@@ -28,6 +28,13 @@ v.70 canto I
 "trasumanare" neologismo
 
 inspiegabile, indicibile, irriferibile
+
+
+Non ci sono elementi terreni
+
+vista, luminosità anche accecante, i suoni
+
+passaggio tra cieli istantaneo e percepito dopo da cambiamenti di luci, colori e suoni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwNTg4NjcwLDE5MzQxMDYxOTRdfQ==
+eyJoaXN0b3J5IjpbLTE2OTc3MjEwMTUsMTkzNDEwNjE5NF19
 -->
