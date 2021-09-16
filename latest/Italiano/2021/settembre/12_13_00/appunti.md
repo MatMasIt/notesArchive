@@ -14,6 +14,9 @@ pperifrasi: Dio tutto muove
 > L'amor che move il sole e l'altre stelle
 
 Dante ha viaggiato davvero e ha davvero fatto un viaggio profetico alla pari degli antichi profeti
+
+
+_La Commedia secondo l'antica vulgata_, Milano, 1966-67 Giorgio Petrocchi, prima editione prima dell'edizione di Boccaccio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDEwNjE5NF19
+eyJoaXN0b3J5IjpbLTM1NTIxMjI4NiwxOTM0MTA2MTk0XX0=
 -->
