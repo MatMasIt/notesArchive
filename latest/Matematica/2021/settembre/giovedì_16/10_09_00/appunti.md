@@ -42,11 +42,11 @@ Solo parte sopra
 
 
 $y=3\sqrt{1-\frac{x^2}4}=3\left( 1-\frac{x^2}{4} \right)^{\frac12}$
-$y^{'}=D\left( 3\left( 1-\frac{x^2}{4} \right)^{\frac12}\right)$ 
-$=3\cdot D ((1-\frac{x^2}{4})^{\frac12})$
+$y^{'}=D\left[ 3\left( 1-\frac{x^2}{4} \right)^{\frac12}\right]$ 
+$=3\cdot D \left[\left(1-\frac{x^2}{4}\right)^{\frac12}\right]$
 
-$f^{'}=3\cdot \frac12 (1-\frac{x^2}{4})^{\frac12-1}\cdot D(1-\frac{x^2}4)$
+$f^{'}=3\cdot \frac12 \left(1-\frac{x^2}{4}\right)^{\frac12-1}\cdot D\left[\left(1-\frac{x^2}4\right)\right]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMTU0NTQwLDE5NjI1NDUyMTgsLTIyNT
-M4NDIwMiwtOTUxNDIxNDEzXX0=
+eyJoaXN0b3J5IjpbLTM1ODg0NjcwOSwxOTYyNTQ1MjE4LC0yMj
+UzODQyMDIsLTk1MTQyMTQxM119
 -->
