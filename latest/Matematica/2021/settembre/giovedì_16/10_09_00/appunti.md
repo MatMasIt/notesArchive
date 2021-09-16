@@ -19,7 +19,13 @@ $$
 4y^2=36-9x^2\\
 y^2=9-\frac94 x^2 
 $$
+
+
+$y=\pm\sqrt{9-\frac94 x^2}$
+
+
+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjM1MTU1NiwtMjI1Mzg0MjAyLC05NT
-E0MjE0MTNdfQ==
+eyJoaXN0b3J5IjpbLTEzNTc3NDI1NjIsLTIyNTM4NDIwMiwtOT
+UxNDIxNDEzXX0=
 -->
