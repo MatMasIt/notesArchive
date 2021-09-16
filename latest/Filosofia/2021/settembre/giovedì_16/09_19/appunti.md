@@ -1,4 +1,5 @@
-# Title
+# Lezione di Filsofia (2° ora) 
+## Giovedì 16 settembre 2021, 09:23:00
 
 Filosofia del '600: Gnoseologia molto presente
 
@@ -10,7 +11,13 @@ Discussione sulla struttra ultima della realtà
 
 Gnoseologia ⇐⇒ metafisica
 
+esiti metafisici scettici
+
 Kant fa una riflessione Gnoseologica
+
+Kant: prussiano, prussia orientale
+
+Massimo esponente 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjMzMzYxNF19
+eyJoaXN0b3J5IjpbMjEwMDcxOTM3Ml19
 -->
