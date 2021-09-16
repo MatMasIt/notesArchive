@@ -58,7 +58,12 @@ $y-4=m\cdot(x-2)$
 
 
 $y-4=-\frac34\frac{x_0}{\sqrt{1-\frac{x_0^2}{4}}}(x-2)$
+
+
+$$
+\begin{equation} \begin{cases} Here \end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwNzEyODk4LDE5NjI1NDUyMTgsLTIyNT
-M4NDIwMiwtOTUxNDIxNDEzXX0=
+eyJoaXN0b3J5IjpbMTQ4MDc1Mjg5NiwxOTYyNTQ1MjE4LC0yMj
+UzODQyMDIsLTk1MTQyMTQxM119
 -->
