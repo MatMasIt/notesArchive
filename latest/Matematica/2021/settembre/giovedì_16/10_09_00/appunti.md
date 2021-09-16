@@ -148,14 +148,14 @@ $$
 $$
 D(k)=0\\
 D(x)=1\\
-D(\sin x)=\cos x
+D(\sin x)=\cos x\\
 D(\cos x)=-\sin x\\
 D(e^x)=e^x\\
 D(\ln x)=\frac{1}{x}\\
-D(a^x)=a^2\
+D(a^x)=a^x\ln a
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY3NjcxOTIsNDQ3MDUzMzM3LC0xNT
-g0MTExNjQ0LDE5NjI1NDUyMTgsLTIyNTM4NDIwMiwtOTUxNDIx
-NDEzXX0=
+eyJoaXN0b3J5IjpbLTIwNzk4NTg1Nyw0NDcwNTMzMzcsLTE1OD
+QxMTE2NDQsMTk2MjU0NTIxOCwtMjI1Mzg0MjAyLC05NTE0MjE0
+MTNdfQ==
 -->
