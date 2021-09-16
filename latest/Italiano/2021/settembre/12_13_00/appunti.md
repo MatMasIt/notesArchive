@@ -43,7 +43,7 @@ beatrice sorride
 empiro: sola luce intellettuale di Dio
 
 
-< 
+Fissare con sgurado della 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ2NzI5NzcsMTkzNDEwNjE5NF19
+eyJoaXN0b3J5IjpbMjQ1NTAzODQxLDE5MzQxMDYxOTRdfQ==
 -->
