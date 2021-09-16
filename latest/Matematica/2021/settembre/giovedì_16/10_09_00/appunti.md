@@ -103,8 +103,20 @@ $P^{'}\to P \text{ simmetrico } C$
 > (segmento $P^{'}-P$ con $C$ in mezzo)
 > $C$ è punto medio del segmento
 
+$P^{'}(x^{'},y^{'})$
+
+$$
+\begin{equation} \begin{cases} 
+x_c=\frac{x+x^{'}}{2}\\
+y_c=\frac{y+y^{'}}{2}
+\end{cases} \end{equation}
+$$
+
+
+$$
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTAyNjY5NywtMTU4NDExMTY0NCwxOT
+eyJoaXN0b3J5IjpbMTM2MTQ3OTUwNywtMTU4NDExMTY0NCwxOT
 YyNTQ1MjE4LC0yMjUzODQyMDIsLTk1MTQyMTQxM119
 -->
