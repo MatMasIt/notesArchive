@@ -19,7 +19,16 @@ Kant: prussiano, prussia orientale
 
 Massimo esponente illuminismo tedesco
 
-Appassionato
+Appassionato di scienza, allora tutti credevono che  fosse utile per scoprire la realtà ultima
+
+Lui a sostiene, pensa che fornisca verità
+
+Conosce critiche di Humme verso causalità e induzione e cerca di trovare soluzioni
+
+Lui nato 1724
+
+
+Opera scrittta nel 178
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjY1Mjk3NV19
+eyJoaXN0b3J5IjpbMTQzODA3NDQ2Nl19
 -->
