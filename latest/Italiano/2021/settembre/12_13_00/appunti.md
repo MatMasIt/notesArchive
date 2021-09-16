@@ -35,6 +35,15 @@ Non ci sono elementi terreni
 vista, luminosità anche accecante, i suoni
 
 passaggio tra cieli istantaneo e percepito dopo da cambiamenti di luci, colori e suoni
+
+Nel settimo cielo (di saturno) udito e vista non sopportano potere
+
+beatrice sorride
+
+empiro: sola luce intellettuale di Dio
+
+
+< 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc3MjEwMTUsMTkzNDEwNjE5NF19
+eyJoaXN0b3J5IjpbLTEyMDQ2NzI5NzcsMTkzNDEwNjE5NF19
 -->
