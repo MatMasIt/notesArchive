@@ -123,7 +123,10 @@ x=4-x^{'}\\
 y=8-y^{'} \end{cases} \end{equation}
 $$
 
+
+$8-y^{'}=(4-x^{'})^2+1$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzY2ODYxMywtMTU4NDExMTY0NCwxOT
+eyJoaXN0b3J5IjpbMTA3MDU2NjU3MiwtMTU4NDExMTY0NCwxOT
 YyNTQ1MjE4LC0yMjUzODQyMDIsLTk1MTQyMTQxM119
 -->
