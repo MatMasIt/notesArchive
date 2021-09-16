@@ -71,7 +71,13 @@ $$
 $$
 3\sqrt{1-\frac{x_0^2}{4}}-4=-\frac34\frac{x_0^2-2x_0}{\sqrt{1-\frac{x_0^2}{4}}}
 $$
+$$
+\left(4\sqrt{1-\frac{x_0^2}{4}}
+$$
+$$
+16-4x_0^2=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzU0NjA1MCwtMTU4NDExMTY0NCwxOT
+eyJoaXN0b3J5IjpbMTE4NjI5NjY0OCwtMTU4NDExMTY0NCwxOT
 YyNTQ1MjE4LC0yMjUzODQyMDIsLTk1MTQyMTQxM119
 -->
