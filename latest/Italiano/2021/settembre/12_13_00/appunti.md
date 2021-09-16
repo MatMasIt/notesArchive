@@ -67,8 +67,12 @@ Cieli più vicini al primmo mobile sono più veloci anche se dante si aspettava 
 
 anime raccolte per gruppi 
 
-Tem
+Temi:
+* redenzione
+* fisica e astronomia (macchie lunari, movimento dei cieli)
+* Teoria astrologica sul libero abitrio
+* Tema politico: provvidenza divina e impero romano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ3NzM0NzIsMTMwNTc2MTU2MSwxOT
-M0MTA2MTk0XX0=
+eyJoaXN0b3J5IjpbMTIxNjkyOTY5NiwxMzA1NzYxNTYxLDE5Mz
+QxMDYxOTRdfQ==
 -->
