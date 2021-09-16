@@ -141,8 +141,21 @@ $$
 $$
 D(f(x))=\frac2{\sqrt{x}}+\frac{1}{\sqrt[3]{x^2}}
 $$
+
+---
+# Derivate
+
+$$
+D(k)=0\\
+D(x)=1\\
+D(\sin x)=\cos x
+D(\cos x)=-\sin x\\
+D(e^x)=e^x\\
+D(\ln x)=\frac{1}{x}\\
+D(a^x)=a^2\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU3MzY4OTYsNDQ3MDUzMzM3LC0xNT
+eyJoaXN0b3J5IjpbLTIwMDY3NjcxOTIsNDQ3MDUzMzM3LC0xNT
 g0MTExNjQ0LDE5NjI1NDUyMTgsLTIyNTM4NDIwMiwtOTUxNDIx
 NDEzXX0=
 -->
