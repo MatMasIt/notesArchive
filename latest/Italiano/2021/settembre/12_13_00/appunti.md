@@ -72,7 +72,11 @@ Temi:
 * fisica e astronomia (macchie lunari, movimento dei cieli)
 * Teoria astrologica sul libero abitrio
 * Tema politico: provvidenza divina e impero romano
+
+
+Dante padre della lingua
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjkyOTY5NiwxMzA1NzYxNTYxLDE5Mz
-QxMDYxOTRdfQ==
+eyJoaXN0b3J5IjpbLTE5Mjc4MDQ3NzAsMTMwNTc2MTU2MSwxOT
+M0MTA2MTk0XX0=
 -->
