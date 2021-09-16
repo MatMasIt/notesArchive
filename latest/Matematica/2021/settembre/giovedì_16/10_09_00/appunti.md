@@ -86,7 +86,14 @@ $$
 $$
 x_0=\frac{18\pm\sqrt{324+700}}{25}
 =2\lor-\frac{14}{25}$$
+
+
+$y-=\frac34\frac{x_0}{\sqrt{1-\frac{x_0^2}{4}}}(x-2)$
+
+---
+
+## Equazioni delle simmetri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDMyMzY3OSwtMTU4NDExMTY0NCwxOT
+eyJoaXN0b3J5IjpbMTEyMTI2NjA2NywtMTU4NDExMTY0NCwxOT
 YyNTQ1MjE4LC0yMjUzODQyMDIsLTk1MTQyMTQxM119
 -->
