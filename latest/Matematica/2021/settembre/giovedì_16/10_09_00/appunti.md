@@ -45,7 +45,8 @@ $y=3\sqrt{1-\frac{x^2}4}=3\left( 1-\frac{x^2}{4} \right)^{\frac12}$
 $y^{'}=D\left( 3\left( 1-\frac{x^2}{4} \right)^{\frac12}\right)$ 
 $=3\cdot D ((1-\frac{x^2}{4})^{\frac12})$
 
+$f^{'}=3\cdot \frac12 (1-\frac{x^2}{4})^{\frac12-1}\cdot D(1-\frac{x^2}4)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzQ2NzA0MywxOTYyNTQ1MjE4LC0yMj
-UzODQyMDIsLTk1MTQyMTQxM119
+eyJoaXN0b3J5IjpbOTIwMTU0NTQwLDE5NjI1NDUyMTgsLTIyNT
+M4NDIwMiwtOTUxNDIxNDEzXX0=
 -->
