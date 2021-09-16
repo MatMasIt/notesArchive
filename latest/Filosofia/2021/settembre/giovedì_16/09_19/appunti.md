@@ -31,6 +31,7 @@ Lui nato 1724
 Opera scrittta nel 1781
 
 Formazione filosofica
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzc3MjEyMzRdfQ==
+eyJoaXN0b3J5IjpbLTkzMjAxODE0OF19
 -->
