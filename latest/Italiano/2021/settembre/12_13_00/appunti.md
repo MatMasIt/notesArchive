@@ -53,7 +53,10 @@ p.589: struttura del paradiso
 
 
 
-I no
+I noce cieli condizionano il comportamento dei beati
+
+
+Primo mobile o cristallino origine del movimento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0MjQyODQsMTkzNDEwNjE5NF19
+eyJoaXN0b3J5IjpbLTIwOTg2MzE2MjksMTkzNDEwNjE5NF19
 -->
