@@ -54,7 +54,11 @@ $=\frac32\frac{1}{\sqrt{1-\frac{x^2}{4}}}\left(-\frac1{\cancel{4} {}^{\boxed{2}}
 ---
 
 $y-4=m\cdot(x-2)$
+
+
+
+$y-4=-\frac34\c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwODIwMTc3LDE5NjI1NDUyMTgsLTIyNT
-M4NDIwMiwtOTUxNDIxNDEzXX0=
+eyJoaXN0b3J5IjpbLTE5ODIwMDUyNDUsMTk2MjU0NTIxOCwtMj
+I1Mzg0MjAyLC05NTE0MjE0MTNdfQ==
 -->
