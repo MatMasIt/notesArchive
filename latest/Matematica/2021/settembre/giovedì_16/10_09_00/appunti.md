@@ -130,10 +130,12 @@ $y^{'}=-x^{{'}^{{}^2}}+8x^{'}-9$
 
 ## p.42
 ### es. 123
-$f(x)=4\sqrt{x}+3\sqrt{3}{x}$
-f(x)=4x^{\fra$
+$$f(x)=4\sqrt{x}+3\sqrt[3]{x}\\
+f(x)=4x^{\frac12}+3x^{\frac13}\\
+D(f(x))=\frac12x^{-\frac12}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Njg4MzI2MSw0NDcwNTMzMzcsLTE1OD
+eyJoaXN0b3J5IjpbMTk2MDI5NTg4Niw0NDcwNTMzMzcsLTE1OD
 QxMTE2NDQsMTk2MjU0NTIxOCwtMjI1Mzg0MjAyLC05NTE0MjE0
 MTNdfQ==
 -->
