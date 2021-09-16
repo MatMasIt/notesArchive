@@ -126,7 +126,8 @@ $$
 
 $8-y^{'}=(4-x^{'})^2+1$
 
+$y^{'}=-x^{{'}^{{}^2}}+8x^{'}-9$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDU2NjU3MiwtMTU4NDExMTY0NCwxOT
-YyNTQ1MjE4LC0yMjUzODQyMDIsLTk1MTQyMTQxM119
+eyJoaXN0b3J5IjpbNDQ3MDUzMzM3LC0xNTg0MTExNjQ0LDE5Nj
+I1NDUyMTgsLTIyNTM4NDIwMiwtOTUxNDIxNDEzXX0=
 -->
