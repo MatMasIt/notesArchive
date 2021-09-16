@@ -44,9 +44,12 @@ Solo parte sopra
 $y=3\sqrt{1-\frac{x^2}4}=3\left( 1-\frac{x^2}{4} \right)^{\frac12}$
 $y^{'}=D\left[ 3\left( 1-\frac{x^2}{4} \right)^{\frac12}\right]$ 
 $=3\cdot D \left[\left(1-\frac{x^2}{4}\right)^{\frac12}\right]$
+> è una derivata di una $f$ composta
 
-$f^{'}=3\cdot \frac12 \left(1-\frac{x^2}{4}\right)^{\frac12-1}\cdot D\left[\left(1-\frac{x^2}4\right)\right]$
+$f^{'}=3\cdot \frac12 \left(1-\frac{x^2}{4}\right)^{\frac12-1}\cdot \left[D(1)-D\left(1-\frac{x^2}4\right)\right]$
+
+$=\frac32\frac{1}{\sqrt{1-\frac{x^2}{4}}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODg0NjcwOSwxOTYyNTQ1MjE4LC0yMj
-UzODQyMDIsLTk1MTQyMTQxM119
+eyJoaXN0b3J5IjpbLTE3OTIzMjg4MTIsMTk2MjU0NTIxOCwtMj
+I1Mzg0MjAyLC05NTE0MjE0MTNdfQ==
 -->
