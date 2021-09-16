@@ -43,7 +43,11 @@ beatrice sorride
 empiro: sola luce intellettuale di Dio
 
 
-Fissare con sgurado della 
+Fissare con sgurado della mente dei sensi 
+
+
+Cosmologia tolemaica
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1NTAzODQxLDE5MzQxMDYxOTRdfQ==
+eyJoaXN0b3J5IjpbMTM4MTQxNDE2LDE5MzQxMDYxOTRdfQ==
 -->
