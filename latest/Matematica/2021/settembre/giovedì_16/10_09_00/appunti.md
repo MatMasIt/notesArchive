@@ -57,8 +57,8 @@ $y-4=m\cdot(x-2)$
 
 
 
-$y-4=-\frac34\c
+$y-4=-\frac34\frac{x_0}{\sqrt{1-\frac{x_0^2}{4}}}(x-2)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIwMDUyNDUsMTk2MjU0NTIxOCwtMj
-I1Mzg0MjAyLC05NTE0MjE0MTNdfQ==
+eyJoaXN0b3J5IjpbNTYwNzEyODk4LDE5NjI1NDUyMTgsLTIyNT
+M4NDIwMiwtOTUxNDIxNDEzXX0=
 -->
