@@ -24,8 +24,12 @@ $$
 $y=\pm\sqrt{9-\frac94 x^2}$
 
 
-$
+$$
+\begin{equation} \begin{cases} 
+y \geq 0\\
+ \end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTc3NDI1NjIsLTIyNTM4NDIwMiwtOT
+eyJoaXN0b3J5IjpbLTIwMDM0MjA2NzIsLTIyNTM4NDIwMiwtOT
 UxNDIxNDEzXX0=
 -->
