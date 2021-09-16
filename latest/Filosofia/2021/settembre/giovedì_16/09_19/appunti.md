@@ -28,7 +28,9 @@ Conosce critiche di Humme verso causalità e induzione e cerca di trovare soluzi
 Lui nato 1724
 
 
-Opera scrittta nel 178
+Opera scrittta nel 1781
+
+Formazione filosofica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODA3NDQ2Nl19
+eyJoaXN0b3J5IjpbLTE0Mzc3MjEyMzRdfQ==
 -->
