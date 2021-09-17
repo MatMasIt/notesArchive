@@ -20,6 +20,9 @@ scienza: fondata su _giudizi sintetici a priori_
 
 p. 254 vol.2
 Giudizio analitico a priori (Il corpo è esteso), sterile e universale
+Non serve fare esperienza, il concetto di "corpo" contiene estensione
+
+giudizio sintetico a posteriori
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTcxMjI3OCwtMTYwMDcwMjA5NF19
+eyJoaXN0b3J5IjpbLTkwODY2ODEwMSwtMTYwMDcwMjA5NF19
 -->
