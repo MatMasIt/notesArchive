@@ -23,6 +23,10 @@ Giudizio analitico a priori (Il corpo è esteso), sterile e universale
 Non serve fare esperienza, il concetto di "corpo" contiene estensione
 
 giudizio sintetico a posteriori
+Deriva dall'esperienza
+"L'erba è verde"
+non universale ma arricchisce esperienza
+Aggiungono elementi conoscitvi nuovi al soggetto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODY2ODEwMSwtMTYwMDcwMjA5NF19
+eyJoaXN0b3J5IjpbLTQ5Mjc4NTI4OCwtMTYwMDcwMjA5NF19
 -->
