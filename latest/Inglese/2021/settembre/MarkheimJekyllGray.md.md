@@ -15,7 +15,7 @@ See p. 37, 43, 44
 
 -   Main theme(s): 
 Struggle between good and evil, interior conflict in Markheim
-    
+Duplicity of the uman soul
 > overwhelm, good and evil both strong
   
 
@@ -140,6 +140,6 @@ p. 41: (find another reference):_______________________________
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0MDcxMjk4LDY1OTE4MzIyNiwyMDQ4Nj
-IyOTgwXX0=
+eyJoaXN0b3J5IjpbLTEzNzA1MjE5OTcsNjU5MTgzMjI2LDIwND
+g2MjI5ODBdfQ==
 -->
