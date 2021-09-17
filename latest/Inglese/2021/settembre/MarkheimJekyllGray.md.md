@@ -4,7 +4,7 @@
 -   Setting (place, time, weather): 
 - The storyy is set in England on christmas day during a rainy and foggy day in the afternoon , in a dark shop only with the line of a candle (l.37)
 The moom is swelling and waivering like water because of that    
-Misterious, gloom
+Misterious, gloomy atmosphere, the room is silent only the sound of the clock ticking echoes
 See p. 37, 43, 44
 
   
@@ -140,6 +140,6 @@ p. 41: (find another reference):_______________________________
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0Mzk1ODIwLDY1OTE4MzIyNiwyMDQ4Nj
-IyOTgwXX0=
+eyJoaXN0b3J5IjpbLTE0OTAxMjM0NjAsNjU5MTgzMjI2LDIwND
+g2MjI5ODBdfQ==
 -->
