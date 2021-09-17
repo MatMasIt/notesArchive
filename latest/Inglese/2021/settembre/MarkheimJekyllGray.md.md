@@ -16,7 +16,7 @@ See p. 37, 43, 44
 -   Main theme(s): 
 Struggle between good and evil, interior conflict in Markheim
     
-
+> overwhelm, good and evil both strong
   
 
 Find references in the text (juxtaposition/coexistence of opposite terms/feelings):
@@ -140,6 +140,6 @@ p. 41: (find another reference):_______________________________
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjg1OTAwMyw2NTkxODMyMjYsMjA0OD
-YyMjk4MF19
+eyJoaXN0b3J5IjpbNTc0MDcxMjk4LDY1OTE4MzIyNiwyMDQ4Nj
+IyOTgwXX0=
 -->
