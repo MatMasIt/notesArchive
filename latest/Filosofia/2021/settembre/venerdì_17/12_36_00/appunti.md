@@ -16,6 +16,10 @@ Kant: conoscere è formulare giudizi
 * sintetici a priori
 
 scienza: fondata su _giudizi sintetici a priori_
+
+
+p. 254 vol.2
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzU5MDUzLC0xNjAwNzAyMDk0XX0=
+eyJoaXN0b3J5IjpbMTI3NjE2ODg2MywtMTYwMDcwMjA5NF19
 -->
