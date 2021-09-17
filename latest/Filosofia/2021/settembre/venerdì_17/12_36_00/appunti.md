@@ -3,6 +3,14 @@
 
 critica al concetto di causalità da parte di Humme
 Causalità necessaria: no 
+
+
+Kant riesce nal suo intento ma sarificando la metafisica
+
+---
+Kant: conoscere è formulare giudizi
+
+3 tip
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA3MDIwOTRdfQ==
+eyJoaXN0b3J5IjpbMTI2NjQxMjE1OCwtMTYwMDcwMjA5NF19
 -->
