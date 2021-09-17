@@ -19,7 +19,7 @@ scienza: fondata su _giudizi sintetici a priori_
 
 
 p. 254 vol.2
-
+Giudizio analitico a priori (Il corpo è esteso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjE2ODg2MywtMTYwMDcwMjA5NF19
+eyJoaXN0b3J5IjpbMTM3ODE2NjUyOCwtMTYwMDcwMjA5NF19
 -->
