@@ -10,7 +10,12 @@ Kant riesce nal suo intento ma sarificando la metafisica
 ---
 Kant: conoscere è formulare giudizi
 
-3 tipologie di giudizi
+3 tipologie di giudizi:
+* sintetici a posteriori
+* analitici
+* sintetici a priori
+
+scienza: fondata su _giudizi sintetici a priori_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjAzNDcsLTE2MDA3MDIwOTRdfQ==
+eyJoaXN0b3J5IjpbMTMwNzU5MDUzLC0xNjAwNzAyMDk0XX0=
 -->
