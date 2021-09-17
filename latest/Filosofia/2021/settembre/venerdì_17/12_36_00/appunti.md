@@ -10,7 +10,7 @@ Kant riesce nal suo intento ma sarificando la metafisica
 ---
 Kant: conoscere è formulare giudizi
 
-3 tip
+3 tipologie di giudizi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjQxMjE1OCwtMTYwMDcwMjA5NF19
+eyJoaXN0b3J5IjpbMTExNjAzNDcsLTE2MDA3MDIwOTRdfQ==
 -->
