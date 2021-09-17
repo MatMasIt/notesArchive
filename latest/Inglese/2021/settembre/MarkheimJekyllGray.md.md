@@ -9,12 +9,12 @@ See p. 37, 43, 44
 
   
 
--   Narrator: _______________________________________________________________________
-    
-
+-   Narrator: 
+- Third person omniscent narrator
   
 
--   Main theme(s): ____________________________________________________________________
+-   Main theme(s): 
+Struggle between good and evil, interior conflict in Markheim
     
 
   
@@ -140,6 +140,6 @@ p. 41: (find another reference):_______________________________
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAxMjM0NjAsNjU5MTgzMjI2LDIwND
-g2MjI5ODBdfQ==
+eyJoaXN0b3J5IjpbLTkyNjg1OTAwMyw2NTkxODMyMjYsMjA0OD
+YyMjk4MF19
 -->
