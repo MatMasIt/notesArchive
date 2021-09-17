@@ -2,7 +2,7 @@
 
 ## Venerdì 17 settembre 2021, 12:13:00
 
-F
+_From the google classroom sheet, see "MarkheimJekyllGray.md" in this month's folder_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjM5Nzg1ODVdfQ==
+eyJoaXN0b3J5IjpbLTE5OTQ3NjQ2NDJdfQ==
 -->
