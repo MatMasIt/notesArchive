@@ -1,9 +1,8 @@
 # R.L. STEVENSON (1850 – 1894, Victorian author)
 
-## “MARKHEIM”  (1884 – short story from “The merry Men and other Tales and Fables”, 1887)ò
-
--   Setting (place, time, weather): _______________________________________________________
-    
+## “MARKHEIM”  (1884 – short story from “The merry Men and other Tales and Fables”, 1887)
+-   Setting (place, time, weather): 
+- The s    
 
 See p. 37, 43, 44
 
@@ -140,5 +139,6 @@ p. 41: (find another reference):_______________________________
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5MTgzMjI2LDIwNDg2MjI5ODBdfQ==
+eyJoaXN0b3J5IjpbLTIwNDMxMTgxNzIsNjU5MTgzMjI2LDIwND
+g2MjI5ODBdfQ==
 -->
