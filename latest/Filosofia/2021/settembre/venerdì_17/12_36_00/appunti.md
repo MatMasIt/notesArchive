@@ -19,14 +19,14 @@ scienza: fondata su _giudizi sintetici a priori_
 
 
 p. 254 vol.2
-Giudizio analitico a priori (Il corpo è esteso), sterile e universale
+_Giudizio analitico a priori_  (Il corpo è esteso), sterile e universale
 Non serve fare esperienza, il concetto di "corpo" contiene estensione
 
-giudizio sintetico a posteriori
+_giudizio sintetico a posteriori_
 Deriva dall'esperienza
 "L'erba è verde"
 non universale ma arricchisce esperienza
 Aggiungono elementi conoscitvi nuovi al soggetto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Mjc4NTI4OCwtMTYwMDcwMjA5NF19
+eyJoaXN0b3J5IjpbLTM3ODEzNDIyNCwtMTYwMDcwMjA5NF19
 -->
