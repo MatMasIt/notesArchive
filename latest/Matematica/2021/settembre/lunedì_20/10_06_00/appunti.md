@@ -39,6 +39,7 @@ Punti in cui funzione ==cambia di concavità==: ==$flessi$==
 
  ---
  ### p.223 es 164
+![](https://i.imgur.com/gmPKbKn.jpg)
  
  $y=\ln^2(x)$
 
@@ -154,8 +155,15 @@ $y-1=\frac2e(x-e)$
 $y-1=\frac2ex-2$
 $y=\frac2ex-1$
 
+---
+$$
+y=x^3-x+1
+$$
+
+### Dominio
+$(-\infin,+\infin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNTg5Mzc3LDE5Nzg4MzU0NDMsLTIwNz
+eyJoaXN0b3J5IjpbLTU5NzAzNzc1LDE5Nzg4MzU0NDMsLTIwNz
 kyNzQ0NTAsMTE3MDQwNzE3MiwxNTEzNDQ2NDUwLDE1MTM0NDY0
 NTAsMTU1MzY3ODQyNSw2Njc5NTc0NjgsMTc4NzA4OTY5NCw2MD
 c0MjU5NywtODU1NDQzMzIxLC02MTMyNDIzMjJdfQ==
