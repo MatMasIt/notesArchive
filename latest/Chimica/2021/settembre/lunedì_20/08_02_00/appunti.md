@@ -8,7 +8,8 @@ Sia scienza che giornalismo: fatti, non rappresentazioni
 Trappola: scenza, opinione
 
 
-Prograna
+Progr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjM3NjI0MiwtMTc3ODQ2MzA0NF19
+eyJoaXN0b3J5IjpbMTI4NDc3MTk1NCwtNzI2Mzc2MjQyLC0xNz
+c4NDYzMDQ0XX0=
 -->
