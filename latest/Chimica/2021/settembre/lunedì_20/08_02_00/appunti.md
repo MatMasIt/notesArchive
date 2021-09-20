@@ -44,7 +44,7 @@ $$
 HCl\xleftrightarrow[H_20]{}H^{+}+Cl^{-}\\
 HCl+H_2O\to H_3O^{+}+Cl^{-}\\
 $$
-
+> **Dati**
 > $$
 > m_{HCL}=36,45g\\
 > $$
@@ -79,7 +79,9 @@ $$
 $$
 Nl\left[\frac{eq}{L}\right]=2N
 $$
+
+Se 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxMDk2MTQwLC03MjYzNzYyNDIsLTE3Nz
-g0NjMwNDRdfQ==
+eyJoaXN0b3J5IjpbLTE5MjQxMTkzMTAsLTcyNjM3NjI0MiwtMT
+c3ODQ2MzA0NF19
 -->
