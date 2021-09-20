@@ -96,10 +96,17 @@ $D^{'}=D$
 $y^{'}=0\to\frac{\ln x}{\cancel x}=0\to \ln x=0\to x=1$
 #### 7. Monotonia
 
-$\fra
+$\frac{\cancel 2 \ln x}{x} > 0$
+
+$N \ln x >  0 \to x > 1$
+$D x > 0 \to x > 0$
+
+||0||1||
+|---|---|---|---|---|
+||#|+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDQ3MzQxLC0yMDc5Mjc0NDUwLDExNz
-A0MDcxNzIsMTUxMzQ0NjQ1MCwxNTEzNDQ2NDUwLDE1NTM2Nzg0
-MjUsNjY3OTU3NDY4LDE3ODcwODk2OTQsNjA3NDI1OTcsLTg1NT
-Q0MzMyMSwtNjEzMjQyMzIyXX0=
+eyJoaXN0b3J5IjpbLTE0MDI3OTY4OTksLTIwNzkyNzQ0NTAsMT
+E3MDQwNzE3MiwxNTEzNDQ2NDUwLDE1MTM0NDY0NTAsMTU1MzY3
+ODQyNSw2Njc5NTc0NjgsMTc4NzA4OTY5NCw2MDc0MjU5NywtOD
+U1NDQzMzIxLC02MTMyNDIzMjJdfQ==
 -->
