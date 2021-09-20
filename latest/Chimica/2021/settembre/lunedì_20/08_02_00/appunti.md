@@ -1,6 +1,10 @@
 # Lezione di Scienze (1° ora) 
 ## Lunedì 20 settembre 2021, 08:02:00
 
+## Riflessione
+
+_Lettura di un articolo della sen. On. Cattaneo_
+
 Sia scienza che giornalismo: fatti, non rappresentazioni
 
 > Informazione democratica, che vuole sempre garantire equivalente peso a due parti è spesso errata
@@ -8,6 +12,8 @@ Sia scienza che giornalismo: fatti, non rappresentazioni
 Trappola: scenza, opinione
 
 ---
+## Esercizi di Chimica
+### 1
 $$
 HCl\xleftrightarrow[H_20]{}H^{+}+Cl^{-}\\
 $$
@@ -39,6 +45,7 @@ $$
 Acido _diprotico_: cede $2$ moli di ioni $H^{+}$
 
 ---
+### 2
 
 $$
 HCl\xleftrightarrow[H_20]{}H^{+}+Cl^{-}\\
@@ -83,10 +90,12 @@ $$
 $n_{eq}\neq 1\implies N=M\cdot n_{eq}$
 
 ---
+### 3
+Una titolazione _acido-base_
 $$
 H_2SO_4+NaOH\to
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTcxNDk1MSwtNzI2Mzc2MjQyLC0xNz
-c4NDYzMDQ0XX0=
+eyJoaXN0b3J5IjpbLTIwMTA4MDQ5NzIsLTcyNjM3NjI0MiwtMT
+c3ODQ2MzA0NF19
 -->
