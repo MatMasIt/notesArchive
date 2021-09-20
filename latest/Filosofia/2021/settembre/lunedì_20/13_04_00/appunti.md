@@ -32,7 +32,10 @@ Predicato non contenuto nel soggetto, giudizio sintetico a priori della fisica
 Forme a priori in noi ordinano il materiale esterno in una certa maniera
 
 Tutti condividiamo queste strutture
+
+
+condivisione dei trascndentali: non si sa se la scienza dica la verità in assoluti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTE4MzQ0MSwyMTI4NTcwMzcwLC0xOD
-c0MzUzNjI2LDE1NDAzNTYzODNdfQ==
+eyJoaXN0b3J5IjpbLTE3Njk5ODg3NSwxODU1MTgzNDQxLDIxMj
+g1NzAzNzAsLTE4NzQzNTM2MjYsMTU0MDM1NjM4M119
 -->
