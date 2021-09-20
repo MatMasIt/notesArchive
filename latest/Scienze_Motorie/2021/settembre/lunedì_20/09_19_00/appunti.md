@@ -9,8 +9,10 @@ generici, non per sport preciso
 Piegamento vs Flessione
 
 
-Piegament
+Piegamento: c'è sempre un contatto
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ0MDM0NTZdfQ==
+eyJoaXN0b3J5IjpbLTEzODY2MDY5MDBdfQ==
 -->
