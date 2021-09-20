@@ -23,7 +23,8 @@ Riscaldamento al chiuso
 
 |N|Attività|Descrizione|Durata|Ripetizioni|Pausa tra Ripetizioni|Musica|
 |---|---|---|---|---|---|---|
+|$1$|Camminata|Camminare lungo il permietro della palestra|$2'$|$1$|$0'$|Fly me to the moon, Frank Sinatra|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUyNjY1MThdfQ==
+eyJoaXN0b3J5IjpbLTIxMTIxNjE0MDldfQ==
 -->
