@@ -19,9 +19,14 @@ y^{''}=2a
 $$
 
 $a$ è la ==concavità== della funzione
+![](https://i.imgur.com/Ke1hZ55.jpg)
+
+
 
 ### Studio di funzione
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDMzMDY0OCwtODU1NDQzMzIxLC02MT
-MyNDIzMjJdfQ==
+eyJoaXN0b3J5IjpbLTE3MzczMTQxMDAsLTg1NTQ0MzMyMSwtNj
+EzMjQyMzIyXX0=
 -->
