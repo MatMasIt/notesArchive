@@ -101,13 +101,16 @@ $\frac{\cancel 2 \ln x}{x} > 0$
 $N \ln x >  0 \to x > 1$
 $D x > 0 \to x > 0$
 
-|||0||1||
+|||$0$||$1$||
 |---|---|---|---|---|---|
-|N||#|+|#|+
-|D||#|-|#|+|
-|$F$||#|-|#|#|+
+|$N$||$\#$|$+$|$\#$|$+$
+|$D$||$\#$|$-$|$\#$|$+$|
+|$F$||$\#$|$-$|$\#$|$+$
+
+
+$x=1$ è un minimo relativo della funzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg0OTc4OTUsLTIwNzkyNzQ0NTAsMT
+eyJoaXN0b3J5IjpbLTEyMDUxODM5ODIsLTIwNzkyNzQ0NTAsMT
 E3MDQwNzE3MiwxNTEzNDQ2NDUwLDE1MTM0NDY0NTAsMTU1MzY3
 ODQyNSw2Njc5NTc0NjgsMTc4NzA4OTY5NCw2MDc0MjU5NywtOD
 U1NDQzMzIxLC02MTMyNDIzMjJdfQ==
