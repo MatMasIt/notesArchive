@@ -95,7 +95,7 @@ Una titolazione _acido-base_
 $$
 H_2SO_4+NaOH\to Na_2SO_4+2H_2O 
 $$
-$Na_2SO_4
+$Na_2SO_4\text{ : solfato di sodio}$
 > $H_2SO_4$:
 > $V=50mL$
 > $N=0,1\frac{eq}{L}$
@@ -103,6 +103,6 @@ $Na_2SO_4
 > $V=150mL$
 > $N\left[\frac{eq}{L}\right]=?$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTc0NzgzMywtNzI2Mzc2MjQyLC0xNz
+eyJoaXN0b3J5IjpbMjAwMTU0MjQ1OSwtNzI2Mzc2MjQyLC0xNz
 c4NDYzMDQ0XX0=
 -->
