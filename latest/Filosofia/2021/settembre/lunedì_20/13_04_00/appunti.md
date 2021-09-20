@@ -13,8 +13,17 @@ Essere retti: qualitativo
 La scienza si fonda su questo tipo di giudizi
 
 
-p. 354, penultimo capo
+p. 354, penultimo capoverso
 
+$7+5=12$
+
+concetto del $12$ risulta dalla sintesi progressiva
+
+Giudizio:  7 più 5 è 12
+Predicato: 12
+
+
+Causalità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTAzNzMwNSwxNTQwMzU2MzgzXX0=
+eyJoaXN0b3J5IjpbLTEwMjEzNzkzMSwxNTQwMzU2MzgzXX0=
 -->
