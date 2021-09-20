@@ -47,8 +47,8 @@ $y=\ln(x)$
 
 
 $y=\ln(x^2)$
-Nei calcoli: ==$2\ln(x)$==
+==Nei calcoli== $\text{       \,     l            \,   w}$$2\ln(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODk0Mjk4MywtODU1NDQzMzIxLC02MT
-MyNDIzMjJdfQ==
+eyJoaXN0b3J5IjpbLTEzOTQ4MjEyMjUsLTg1NTQ0MzMyMSwtNj
+EzMjQyMzIyXX0=
 -->
