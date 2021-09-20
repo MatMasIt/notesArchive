@@ -176,8 +176,17 @@ $f(x)=-f(x)$
 
 Non esistono simmetrie evidenti
 
+#### Intersezione con assi
+$$
+\begin{equation} \begin{cases} 
+y=0\\
+\boxed{x^3-x+1=0} \to\text{ per via grafica}
+ \end{cases} \end{equation}
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODc3Nzc2MywxOTc4ODM1NDQzLC0yMD
+eyJoaXN0b3J5IjpbLTgyMDU3MjY4NSwxOTc4ODM1NDQzLC0yMD
 c5Mjc0NDUwLDExNzA0MDcxNzIsMTUxMzQ0NjQ1MCwxNTEzNDQ2
 NDUwLDE1NTM2Nzg0MjUsNjY3OTU3NDY4LDE3ODcwODk2OTQsNj
 A3NDI1OTcsLTg1NTQ0MzMyMSwtNjEzMjQyMzIyXX0=
