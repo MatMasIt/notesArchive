@@ -23,9 +23,9 @@ Riscaldamento al chiuso
 
 |N|Attività|Descrizione|Durata serie|Ripetizioni|Pausa tra Ripetizioni|Musica|
 |---|---|---|---|---|---|---|
-|$1$|Camminata|Camminare lungo il permietro della palestra|$2'$|$1$|$36''$|_Fly me to the moon_, Frank Sinatra|
-|$2$|Corsa|Correre lungo il perimetro della palestra|$2'$|$3$|$30''$|_Giant Steps_, John Coltrane|
-|$3$|
+|$1$|Camminata|Camminare lungo il permietro della palestra|$2'$|$1$|$36''$|_Giant Steps_, Jhon Coltrane|
+|$2$|Corsa|Correre lungo il perimetro della palestra|$2'$|$3$|$30''$|_I Get Around, The Beach Boys_|
+|$3$|"Jumping Jack"|Saltare addducendo ripetutame
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTA4NzE0M119
+eyJoaXN0b3J5IjpbLTI4ODIzMDg0XX0=
 -->
