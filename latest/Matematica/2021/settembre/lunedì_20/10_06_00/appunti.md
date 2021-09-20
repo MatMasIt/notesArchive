@@ -168,10 +168,16 @@ $$
 f(-x)=-x^3+x+1=-(x^3-x-1)
 $$
 
-Parte dentro il raccoglimento uguale alla funzione iniziale? $
+Parte dentro il raccoglimento uguale alla funzione iniziale? $No$
+
+$Quindi$
+
+$f(x)=-f(x)$
+
+Non esistono simmetrie evidenti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDc5NjM1NiwxOTc4ODM1NDQzLC0yMD
-c5Mjc0NDUwLDExNzA0MDcxNzIsMTUxMzQ0NjQ1MCwxNTEzNDQ2
-NDUwLDE1NTM2Nzg0MjUsNjY3OTU3NDY4LDE3ODcwODk2OTQsNj
-A3NDI1OTcsLTg1NTQ0MzMyMSwtNjEzMjQyMzIyXX0=
+eyJoaXN0b3J5IjpbODUyOTM4NTQ5LDE5Nzg4MzU0NDMsLTIwNz
+kyNzQ0NTAsMTE3MDQwNzE3MiwxNTEzNDQ2NDUwLDE1MTM0NDY0
+NTAsMTU1MzY3ODQyNSw2Njc5NTc0NjgsMTc4NzA4OTY5NCw2MD
+c0MjU5NywtODU1NDQzMzIxLC02MTMyNDIzMjJdfQ==
 -->
