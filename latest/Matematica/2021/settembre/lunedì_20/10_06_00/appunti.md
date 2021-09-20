@@ -75,12 +75,15 @@ y=0\\
  \begin{equation*} \begin{cases} 
 y=0\\
 x=1
-\end{cases} \end{equation*}\\
+\end{cases} \end{equation*}
 A(1,0)
 $$
-
+$$
+\cancel {\begin{equation} \begin{cases} x=0 \end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDQwNzE3MiwxNTEzNDQ2NDUwLDE1MT
-M0NDY0NTAsMTU1MzY3ODQyNSw2Njc5NTc0NjgsMTc4NzA4OTY5
-NCw2MDc0MjU5NywtODU1NDQzMzIxLC02MTMyNDIzMjJdfQ==
+eyJoaXN0b3J5IjpbLTE4MDE1MzU1MDIsMTE3MDQwNzE3MiwxNT
+EzNDQ2NDUwLDE1MTM0NDY0NTAsMTU1MzY3ODQyNSw2Njc5NTc0
+NjgsMTc4NzA4OTY5NCw2MDc0MjU5NywtODU1NDQzMzIxLC02MT
+MyNDIzMjJdfQ==
 -->
