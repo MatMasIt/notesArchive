@@ -12,11 +12,10 @@ jobs:
     - name: Run script file
       run: |
          bash viewer/*.sh
-         tree .
       shell: bash 
     - name: Commit changes
       uses: EndBug/add-and-commit@v7
       with:
         author_name: LaTexCompiler
-        message: 'Compiled LaTeX into PDF, updated README'
+        message: 'Save json tree'
         add: 'viewer/list.json'
