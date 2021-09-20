@@ -49,9 +49,9 @@ Conoscenza _anche_ empirismo
 Soggeto ha una forma che unifica il materiale proveniente dall'esterno
 
 
-O
+Oggetti in se stessi possono essere oggetto del nostro pensiero ma non della nostra conoscenza (numeri)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjAxNzYwMjcsNDc0OTExNzgwLDE4NT
-UxODM0NDEsMjEyODU3MDM3MCwtMTg3NDM1MzYyNiwxNTQwMzU2
-MzgzXX0=
+eyJoaXN0b3J5IjpbMTQ3MDg1MDk5Myw0NzQ5MTE3ODAsMTg1NT
+E4MzQ0MSwyMTI4NTcwMzcwLC0xODc0MzUzNjI2LDE1NDAzNTYz
+ODNdfQ==
 -->
