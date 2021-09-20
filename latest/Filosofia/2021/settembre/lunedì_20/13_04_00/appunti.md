@@ -24,6 +24,10 @@ Predicato: 12
 
 
 Causalità
+
+Tutto ciò che accade è dovuto ad una causa
+
+Predicato non contenuto nel soggetto, giudizio sintetico a priori della fisica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjEzNzkzMSwxNTQwMzU2MzgzXX0=
+eyJoaXN0b3J5IjpbLTE4NzQzNTM2MjYsMTU0MDM1NjM4M119
 -->
