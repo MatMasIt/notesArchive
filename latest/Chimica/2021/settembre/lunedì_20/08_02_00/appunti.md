@@ -102,7 +102,16 @@ $Na_2SO_4\text{ : solfato di sodio}$
 > $NaOH$
 > $V=150mL$
 > $N\left[\frac{eq}{L}\right]=?$
+
+$M_A\cdot V_A=M_B\cdot V_B$
+
+$M_A\cdot u.a.\cdot _a \cdot V_A= M_B \cdot u.a. \cdot V_B$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTU0MjQ1OSwtNzI2Mzc2MjQyLC0xNz
-c4NDYzMDQ0XX0=
+eyJkaXNjdXNzaW9ucyI6eyJKOUNqV2JtSDlYV1B5dHZBIjp7In
+N0YXJ0IjoxNTg5LCJlbmQiOjE1ODQsInRleHQiOiJIZWFkaW5n
+In19LCJjb21tZW50cyI6eyJ5YTZtR2xIckhHVGlGQWp6Ijp7Im
+Rpc2N1c3Npb25JZCI6Iko5Q2pXYm1IOVhXUHl0dkEiLCJzdWIi
+OiJnaDozNDc0NTk5NiIsInRleHQiOiJOb24gdGVybWluYXRvIi
+wiY3JlYXRlZCI6MTYzMjEyMTAwMzUyN319LCJoaXN0b3J5Ijpb
+MTI2Mjg4MDE4MiwtNzI2Mzc2MjQyLC0xNzc4NDYzMDQ0XX0=
 -->
