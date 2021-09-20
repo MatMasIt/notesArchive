@@ -21,13 +21,13 @@ Progettare il riscaldamento in funzione del tempo a nostra disposizione
 ### Il mio riscaldamento
 Riscaldamento al chiuso
 
-|N|Attività|Descrizione|Durata serie|Ripetizioni|Pausa tra Ripetizioni|Paua finale|Musica|
+|N|Attività|Descrizione|Durata serie|Ripetizioni|Pausa tra Ripetizioni|Pausa finale|Musica|
 |---|---|---|---|---|---|---|---|
 |$1$|Camminata|Camminare lungo il permietro della palestra|$2'$|$N/A$|$1$|$36''$|_Giant Steps_, Jhon Coltrane|
 |$2$|Corsa|Correre lungo il perimetro della palestra|$2'$|$N/A$|$3$|$30''$|_I Get Around, The Beach Boys_|
 |$3$|"Jumping Jack"|Saltare adducendo ripetutamente sul piano saggittale arti inferiori e posteriori|$30''$|$2$|$10''$|$30''$|_Back in Black_, AC/DC|
 |$4$|Circonduzioni del capo sulle spalle|==nota==: cambiare direzione tra ogni serie|$5''$|4|$0''$|$10''$|_Mr. Blue Sky_, The Electronic Light Orchestra|
-|$5$|Sospenzione su una gamba ritraendo l'altra|==nota==: 
+|$5$|Sospenzione su una gamba ritraendo l'altra|==nota==: cambiare la gamba ogni serie|$30''$|$3$|$5''$|$10''$|$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTUzNzMyMF19
+eyJoaXN0b3J5IjpbMTMwNzIxNjU4MV19
 -->
