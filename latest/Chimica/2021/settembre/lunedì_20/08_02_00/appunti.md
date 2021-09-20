@@ -28,12 +28,9 @@ _principio di equilibrio mobile_
 
 
 $$
-\begin{equation*}
-    V_{sal} = -\left(1.V_8 + \frac{1}{2}.V_7 + \frac{1}{8}.V_6 +\frac{1}{8}.V_5  + \frac{1}{16}.V_4 \right.\\
-     \left. + \frac{1}{32}.V_3 + \frac{1}{64}.V_2 + \frac{1}{128}.V_1\right) 
-\end{equation*}
+\circletext{d}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzA2NDYzNiwtNzI2Mzc2MjQyLC0xNz
+eyJoaXN0b3J5IjpbMjA1NTc2NjQzMSwtNzI2Mzc2MjQyLC0xNz
 c4NDYzMDQ0XX0=
 -->
