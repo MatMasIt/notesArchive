@@ -203,10 +203,20 @@ $f^{''}=6x$
 $f^{''}> 0 \to x > 0$
 
 
+---
+$$
+\begin{equation} \begin{cases} 
+y-y_0=f^{'}(x_0)(x-x_0)\\
+y=0
+\end{cases} \end{equation}
+\begin{equation} \begin{cases} 
+x=x_0-\frac{f(x_0)}[f^{'}(x_0}}
+ \end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQxNjMyOTAsMTQzMTY4NDQ2OSwxNT
-IyOTAzNzM1LDExMDI4NzYwNzQsMTk3ODgzNTQ0MywtMjA3OTI3
-NDQ1MCwxMTcwNDA3MTcyLDE1MTM0NDY0NTAsMTUxMzQ0NjQ1MC
-wxNTUzNjc4NDI1LDY2Nzk1NzQ2OCwxNzg3MDg5Njk0LDYwNzQy
-NTk3LC04NTU0NDMzMjEsLTYxMzI0MjMyMl19
+eyJoaXN0b3J5IjpbNTk4MjQzNjk0LDE0MzE2ODQ0NjksMTUyMj
+kwMzczNSwxMTAyODc2MDc0LDE5Nzg4MzU0NDMsLTIwNzkyNzQ0
+NTAsMTE3MDQwNzE3MiwxNTEzNDQ2NDUwLDE1MTM0NDY0NTAsMT
+U1MzY3ODQyNSw2Njc5NTc0NjgsMTc4NzA4OTY5NCw2MDc0MjU5
+NywtODU1NDQzMzIxLC02MTMyNDIzMjJdfQ==
 -->
