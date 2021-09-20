@@ -26,11 +26,17 @@ _Legge dell'azione di massa_:
 
 _principio di equilibrio mobile_
 
+Cloridrico: monoprotico
+
+---
 
 $$
-\circletext{d}
+H_2SO_4\\
+H_2SO_4+H_2O\to2
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTc2NjQzMSwtNzI2Mzc2MjQyLC0xNz
+eyJoaXN0b3J5IjpbMTEzMTM4NTI2NCwtNzI2Mzc2MjQyLC0xNz
 c4NDYzMDQ0XX0=
 -->
