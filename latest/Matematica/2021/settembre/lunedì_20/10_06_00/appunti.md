@@ -156,15 +156,22 @@ $y-1=\frac2ex-2$
 $y=\frac2ex-1$
 
 ---
+### Studio di funzione es. 2
 $$
 y=x^3-x+1
 $$
 
-### Dominio
-$(-\infin,+\infin
+#### Dominio
+$(-\infin,+\infin)$
+#### Simmetrie
+$$
+f(-x)=-x^3+x+1=-(x^3-x-1)
+$$
+
+Parte dentro il raccoglimento uguale alla funzione iniziale? $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzAzNzc1LDE5Nzg4MzU0NDMsLTIwNz
-kyNzQ0NTAsMTE3MDQwNzE3MiwxNTEzNDQ2NDUwLDE1MTM0NDY0
-NTAsMTU1MzY3ODQyNSw2Njc5NTc0NjgsMTc4NzA4OTY5NCw2MD
-c0MjU5NywtODU1NDQzMzIxLC02MTMyNDIzMjJdfQ==
+eyJoaXN0b3J5IjpbMTIwMDc5NjM1NiwxOTc4ODM1NDQzLC0yMD
+c5Mjc0NDUwLDExNzA0MDcxNzIsMTUxMzQ0NjQ1MCwxNTEzNDQ2
+NDUwLDE1NTM2Nzg0MjUsNjY3OTU3NDY4LDE3ODcwODk2OTQsNj
+A3NDI1OTcsLTg1NTQ0MzMyMSwtNjEzMjQyMzIyXX0=
 -->
