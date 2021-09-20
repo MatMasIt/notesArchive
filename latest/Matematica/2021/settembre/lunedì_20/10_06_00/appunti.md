@@ -18,9 +18,10 @@ y^{'}=2ax+b\\
 y^{''}=2a
 $$
 
-$a$ è la ==co
+$a$ è la ==concavità== della funzione
+
 ### Studio di funzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2ODQ0NTUsLTg1NTQ0MzMyMSwtNjEzMj
-QyMzIyXX0=
+eyJoaXN0b3J5IjpbLTk0NDMzMDY0OCwtODU1NDQzMzIxLC02MT
+MyNDIzMjJdfQ==
 -->
