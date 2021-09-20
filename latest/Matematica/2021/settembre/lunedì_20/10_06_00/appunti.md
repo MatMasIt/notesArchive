@@ -145,9 +145,18 @@ $$
 
 $+\to$ concavità ==verso l'alto==
 $-\to$concavità ==verso il basso
+
+
+$f^{'}(e)=\frac{2\ln e}{e}=\frac2e=0,7$
+$(e,1)$
+
+$y-1=\frac2e(x-e)$
+$y-1=\frac2ex-2$
+$y=\frac2ex-1$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODgzNTQ0MywtMjA3OTI3NDQ1MCwxMT
-cwNDA3MTcyLDE1MTM0NDY0NTAsMTUxMzQ0NjQ1MCwxNTUzNjc4
-NDI1LDY2Nzk1NzQ2OCwxNzg3MDg5Njk0LDYwNzQyNTk3LC04NT
-U0NDMzMjEsLTYxMzI0MjMyMl19
+eyJoaXN0b3J5IjpbNzYwNTg5Mzc3LDE5Nzg4MzU0NDMsLTIwNz
+kyNzQ0NTAsMTE3MDQwNzE3MiwxNTEzNDQ2NDUwLDE1MTM0NDY0
+NTAsMTU1MzY3ODQyNSw2Njc5NTc0NjgsMTc4NzA4OTY5NCw2MD
+c0MjU5NywtODU1NDQzMzIxLC02MTMyNDIzMjJdfQ==
 -->
