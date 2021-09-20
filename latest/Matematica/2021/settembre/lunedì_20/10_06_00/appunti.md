@@ -56,8 +56,10 @@ $$
 \text{\textcircled{2}} C.E. x > 0
 $$
 
+#### $1$ Dominio
 
+$x > 0$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzA4OTY5NCw2MDc0MjU5NywtODU1ND
-QzMzIxLC02MTMyNDIzMjJdfQ==
+eyJoaXN0b3J5IjpbNjY3OTU3NDY4LDE3ODcwODk2OTQsNjA3ND
+I1OTcsLTg1NTQ0MzMyMSwtNjEzMjQyMzIyXX0=
 -->
