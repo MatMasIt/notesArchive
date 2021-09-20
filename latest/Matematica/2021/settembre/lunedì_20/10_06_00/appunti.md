@@ -30,8 +30,12 @@ Punti in cui funzione ==cambia di concavità==: ==$flessi$==
 2. Simmetrie
 3. Intersezione con gli assi
 4. Segno
-5. Derivata pria
+5. 
+6. Derivata prima $\implies$ punti di stazionarietà
+7. Monotonia
+8. Derivata seconda $\implies$ flessi
+9. Concavità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzI3NDAzOTksLTg1NTQ0MzMyMSwtNj
-EzMjQyMzIyXX0=
+eyJoaXN0b3J5IjpbMTE4MDQyNDY2LC04NTU0NDMzMjEsLTYxMz
+I0MjMyMl19
 -->
