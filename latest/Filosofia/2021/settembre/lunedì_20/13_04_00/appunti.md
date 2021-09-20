@@ -35,7 +35,12 @@ Tutti condividiamo queste strutture
 
 
 condivisione dei trascndentali: non si sa se la scienza dica la verità in assoluti
+
+Per kant non c'è risposta
+
+
+Filtrandolo potremmo tradirlo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk5ODg3NSwxODU1MTgzNDQxLDIxMj
-g1NzAzNzAsLTE4NzQzNTM2MjYsMTU0MDM1NjM4M119
+eyJoaXN0b3J5IjpbODgyMzcwMzA4LDE4NTUxODM0NDEsMjEyOD
+U3MDM3MCwtMTg3NDM1MzYyNiwxNTQwMzU2MzgzXX0=
 -->
