@@ -79,11 +79,14 @@ x=1
 A(1,0)
 $$
 $$
-\cancel {\begin{equation} \begin{cases} x=0 \end{cases} \end{equation}
+\cancel {\begin{equation} \begin{cases} x=0 \end{cases} \end{equation}}
 $$
+#### 4. segno
+
+$\ln^2 x > 0 \to \forall x \in D \lor x \neq 1$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE1MzU1MDIsMTE3MDQwNzE3MiwxNT
-EzNDQ2NDUwLDE1MTM0NDY0NTAsMTU1MzY3ODQyNSw2Njc5NTc0
-NjgsMTc4NzA4OTY5NCw2MDc0MjU5NywtODU1NDQzMzIxLC02MT
-MyNDIzMjJdfQ==
+eyJoaXN0b3J5IjpbMTY4Njk0NjgyMSwxMTcwNDA3MTcyLDE1MT
+M0NDY0NTAsMTUxMzQ0NjQ1MCwxNTUzNjc4NDI1LDY2Nzk1NzQ2
+OCwxNzg3MDg5Njk0LDYwNzQyNTk3LC04NTU0NDMzMjEsLTYxMz
+I0MjMyMl19
 -->
