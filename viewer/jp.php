@@ -65,4 +65,5 @@ foreach($files as $file){
 		"humanDay"=>str_replace("_"," ",$w[4])." ".$w[3]." ".$w[2]
 	];
 }
+$list["lastUpdate"]=["unix"=>time(),date("d/m/Y H:i:s")];
 file_put_contents("list.json",json_encode($list,JSON_PRETTY_PRINT));
