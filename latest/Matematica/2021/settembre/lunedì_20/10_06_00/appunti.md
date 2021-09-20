@@ -64,17 +64,22 @@ $x > 0$ù
 
 #### 3.
 $$
-\begin{equation} \begin{cases} 
+\begin{equation*} \begin{cases} 
 y=0\\
 \ln^2x =0
-\end{cases} \end{equation}
-\begin{equation} \begin{cases} 
+\end{cases} \end{equation*}
+\begin{equation*} \begin{cases} 
 y=0\\
 \ln x =0
- \end{cases} \end{equation}
+ \end{cases} \end{equation*}
+ \begin{equation*} \begin{cases} 
+y=0\\
+x=1
+\end{cases} \end{equation*}\\
+A(1,0)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI4MTg0MjIsNjY3OTU3NDY4LDE3OD
-cwODk2OTQsNjA3NDI1OTcsLTg1NTQ0MzMyMSwtNjEzMjQyMzIy
-XX0=
+eyJoaXN0b3J5IjpbMTU1MzY3ODQyNSw2Njc5NTc0NjgsMTc4Nz
+A4OTY5NCw2MDc0MjU5NywtODU1NDQzMzIxLC02MTMyNDIzMjJd
+fQ==
 -->
