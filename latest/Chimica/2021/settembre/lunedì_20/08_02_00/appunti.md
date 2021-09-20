@@ -9,10 +9,15 @@ Trappola: scenza, opinione
 
 
 $$
-HCl+H_2O\toH^{+}+Cl^{-}\\
-HCl+H_2O\toH
+HCl+H_2O\to H^{+}+Cl^{-}\\
+HCl+H_2O\to H_3O^{+}+Cl^{-}\\
+acido\,1+base\,2\to acido\,2+base\,1
+$$
+
+$$
+K_A=\frac{[H^
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTgxMjE3NiwtNzI2Mzc2MjQyLC0xNz
+eyJoaXN0b3J5IjpbLTMwMTU3MTc4OCwtNzI2Mzc2MjQyLC0xNz
 c4NDYzMDQ0XX0=
 -->
