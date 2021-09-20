@@ -41,7 +41,14 @@ Punti in cui funzione ==cambia di concavità==: ==$flessi$==
  ### p.223 es 164
  
  $y=\ln^2(x)$
+
+Osservazioni
+$y=\ln(x)$
+
+
+$y=\ln(x^2)$
+Nei calcoli: ==$2\ln(x)$==
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzE3ODY5OSwtODU1NDQzMzIxLC02MT
+eyJoaXN0b3J5IjpbLTIyODk0Mjk4MywtODU1NDQzMzIxLC02MT
 MyNDIzMjJdfQ==
 -->
