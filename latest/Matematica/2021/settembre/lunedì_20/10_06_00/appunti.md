@@ -58,8 +58,23 @@ $$
 
 #### $1$ Dominio
 
-$x > 0$
+$x > 0$ù
+
+#### 2. $\cancel \exist$ simmetrie evidenti
+
+#### 3.
+$$
+\begin{equation} \begin{cases} 
+y=0\\
+\ln^2x =0
+\end{cases} \end{equation}
+\begin{equation} \begin{cases} 
+y=0\\
+\ln x =0
+ \end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3OTU3NDY4LDE3ODcwODk2OTQsNjA3ND
-I1OTcsLTg1NTQ0MzMyMSwtNjEzMjQyMzIyXX0=
+eyJoaXN0b3J5IjpbLTExODI4MTg0MjIsNjY3OTU3NDY4LDE3OD
+cwODk2OTQsNjA3NDI1OTcsLTg1NTQ0MzMyMSwtNjEzMjQyMzIy
+XX0=
 -->
