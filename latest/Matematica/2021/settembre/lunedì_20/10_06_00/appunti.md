@@ -105,7 +105,7 @@ $D x > 0 \to x > 0$
 |---|---|---|---|---|---|
 |$N$|$\cancel D$|$\#$|$+$|$\#$|$+$
 |$D$|$\cancel D$|$\#$|$-$|$\#$|$+$|
-|$F$|$\cancel D$|$\#$|$-$|$\#$|$+$
+|$F$|$\cancel D$|$\#$|$\boxed -$|$\#$|$\boxed+$
 
 
 $x=1$ è un minimo relativo della funzione
@@ -131,14 +131,20 @@ $N \ln x < 1 \to x < e$
 $D x^2 > 0 \to x \neq 0$
 
 
-|$0$||$e$||
+|||$0$||$1$||
 |---|---|---|---|---|---|
-|$N$|$\cancel D$|$\#$|$+$|$\#$|$+$
-|$D$|$\cancel D$|$\#$|$-$|$\#$|$+$|
-|$F$|$\cancel D$|$\#$|$-$|$\#$|$+$
+|$N$|$\cancel D$|$\#$|$+$|$\#$|$-$
+|$D$|$\cancel D$|$\#$|$+$|$\#$|$+$|
+|$F$|$\cancel D$|$\#$|$\boxed +$|$\#$|$\boxed -$
+
+
+$$
+x=e\text{ Flesso  }\\
+f(e)=(\ln e)^2=1
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2NDc5MzM3LC0yMDc5Mjc0NDUwLDExNz
-A0MDcxNzIsMTUxMzQ0NjQ1MCwxNTEzNDQ2NDUwLDE1NTM2Nzg0
-MjUsNjY3OTU3NDY4LDE3ODcwODk2OTQsNjA3NDI1OTcsLTg1NT
-Q0MzMyMSwtNjEzMjQyMzIyXX0=
+eyJoaXN0b3J5IjpbLTE2NzI2ODU0MSwtMjA3OTI3NDQ1MCwxMT
+cwNDA3MTcyLDE1MTM0NDY0NTAsMTUxMzQ0NjQ1MCwxNTUzNjc4
+NDI1LDY2Nzk1NzQ2OCwxNzg3MDg5Njk0LDYwNzQyNTk3LC04NT
+U0NDMzMjEsLTYxMzI0MjMyMl19
 -->
