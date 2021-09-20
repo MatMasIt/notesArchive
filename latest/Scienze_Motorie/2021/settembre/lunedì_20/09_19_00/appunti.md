@@ -17,10 +17,13 @@ Base musicale: rilassamento
 
 Progettare il riscaldamento in funzione del tempo a nostra disposizione 
 
---
+---
+### Il mio riscaldamento
 Riscaldamento al chiuso
 
-|
+|N|Attività|Descrizione|Durata|Ripetizioni|Pausa tra Ripetizioni|Musica|
+|---|---|---|---|---|---|---|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM5Njg4MDVdfQ==
+eyJoaXN0b3J5IjpbLTE0NDUyNjY1MThdfQ==
 -->
