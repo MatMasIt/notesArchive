@@ -122,9 +122,22 @@ $\frac{1-\ln x}{\cancel{x^2}}=0$
 
 $\ln x=1 \to \ln x = \ln e \to  x=e$
 
-#####
+##### - Concavità
+
+$$
+\frac{2(1-	ln x)}{x^2}> 0
+$$
+$N \ln x < 1 \to x < e$
+$D x^2 > 0 \to x \neq 0$
+
+
+|$0$||$e$||
+|---|---|---|---|---|---|
+|$N$|$\cancel D$|$\#$|$+$|$\#$|$+$
+|$D$|$\cancel D$|$\#$|$-$|$\#$|$+$|
+|$F$|$\cancel D$|$\#$|$-$|$\#$|$+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwNzM2Njc1LC0yMDc5Mjc0NDUwLDExNz
+eyJoaXN0b3J5IjpbNDY2NDc5MzM3LC0yMDc5Mjc0NDUwLDExNz
 A0MDcxNzIsMTUxMzQ0NjQ1MCwxNTEzNDQ2NDUwLDE1NTM2Nzg0
 MjUsNjY3OTU3NDY4LDE3ODcwODk2OTQsNjA3NDI1OTcsLTg1NT
 Q0MzMyMSwtNjEzMjQyMzIyXX0=
