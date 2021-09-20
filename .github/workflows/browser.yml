@@ -13,3 +13,9 @@ jobs:
       run: |
          bash viewer/*.sh
       shell: bash 
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: LaTexCompiler
+        message: 'Compiled LaTeX into PDF, updated README'
+        add: '["*.pdf","*md"]'
