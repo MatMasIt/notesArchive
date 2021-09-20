@@ -1,6 +1,7 @@
 name: Build browser tree and data
 on:
-  push
+  schedule:    
+  - cron: "*/30 * * * *"
 jobs:
   run_tests:
     runs-on: ubuntu-20.04
