@@ -38,15 +38,28 @@ $$
 
 Acido _diprotico_: cede $2$ moli di ioni $H^{+}$
 
---
+---
+
+$$
+HCl\xleftrightarrow[H_20]{}H^{+}+Cl^{-}\\
+HCl+H_2O\to H_3O^{+}+Cl^{-}\\
+$$
 
 > $$
 > m_{HCL}=36,45g\\
-> V=400mL\\
-> M[\frac{mol}{L}=?\\
-> N=?
 > $$
+> $$
+> V=400mL\\
+> $$
+> $$
+> M\left[\frac{mol}{L}\right]=?\\
+> $$
+> $$
+> N\left[\frac{eq}{L}\right]=?
+> $$
+
+$n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ1MzQ5NDIsLTcyNjM3NjI0MiwtMT
-c3ODQ2MzA0NF19
+eyJoaXN0b3J5IjpbLTMyNjg5NTIzMiwtNzI2Mzc2MjQyLC0xNz
+c4NDYzMDQ0XX0=
 -->
