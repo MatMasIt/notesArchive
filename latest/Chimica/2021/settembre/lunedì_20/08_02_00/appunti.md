@@ -106,6 +106,8 @@ $Na_2SO_4\text{ : solfato di sodio}$
 $M_A\cdot V_A=M_B\cdot V_B$
 
 $M_A\cdot u.a.\cdot _a \cdot V_A= M_B \cdot u.a. \cdot V_B$
+
+> Normalità tiene conte del fatto che il numero delle unità attive dell'acido diventa il coefficiente stechiometrico della base
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJKOUNqV2JtSDlYV1B5dHZBIjp7In
 N0YXJ0IjoxNTg5LCJlbmQiOjE1ODQsInRleHQiOiJIZWFkaW5n
@@ -113,5 +115,5 @@ In19LCJjb21tZW50cyI6eyJ5YTZtR2xIckhHVGlGQWp6Ijp7Im
 Rpc2N1c3Npb25JZCI6Iko5Q2pXYm1IOVhXUHl0dkEiLCJzdWIi
 OiJnaDozNDc0NTk5NiIsInRleHQiOiJOb24gdGVybWluYXRvIi
 wiY3JlYXRlZCI6MTYzMjEyMTAwMzUyN319LCJoaXN0b3J5Ijpb
-MTI2Mjg4MDE4MiwtNzI2Mzc2MjQyLC0xNzc4NDYzMDQ0XX0=
+LTc4NDg3NjAzOCwtNzI2Mzc2MjQyLC0xNzc4NDYzMDQ0XX0=
 -->
