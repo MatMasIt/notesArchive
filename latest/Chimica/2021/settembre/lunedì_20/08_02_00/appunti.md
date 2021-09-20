@@ -93,9 +93,16 @@ $n_{eq}\neq 1\implies N=M\cdot n_{eq}$
 ### 3
 Una titolazione _acido-base_
 $$
-H_2SO_4+NaOH\to
+H_2SO_4+NaOH\to Na_2SO_4+2H_2O 
 $$
+$Na_2SO_4
+> $H_2SO_4$:
+> $V=50mL$
+> $N=0,1\frac{eq}{L}$
+> $NaOH$
+> $V=150mL$
+> $N\left[\frac{eq}{L}\right]=?$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTA4MDQ5NzIsLTcyNjM3NjI0MiwtMT
-c3ODQ2MzA0NF19
+eyJoaXN0b3J5IjpbLTcyOTc0NzgzMywtNzI2Mzc2MjQyLC0xNz
+c4NDYzMDQ0XX0=
 -->
