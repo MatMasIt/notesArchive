@@ -28,7 +28,7 @@ Riscaldamento al chiuso
 |$3$|"Jumping Jack"|Saltare adducendo ripetutamente sul piano saggittale arti inferiori e posteriori|$15''$|$4$|$10''$|$30''$|_Back in Black_, AC/DC|
 |$4$|Circonduzioni del capo sulle spalle|==nota==: cambiare direzione tra ogni serie|$5''$|4|$0''$|$10''$|_Mr. Blue Sky_, The Electronic Light Orchestra|
 |$5$|Sospenzione su una gamba ritraendo l'altra|==nota==: cambiare la gamba ogni serie|$30''$|$3$|$5''$|$10''$|_Il lago dei cigni_, Pëtr Il'ič Čajkovskij|
-|$6$|Piegamenti sulle braccia anteriori||$
+|$6$|Piegamenti sulle braccia anteriori||$30''$|$2$|$5''$|$10''$|_Il vulcano_, Domenico 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTk0MzU5LDEyNDc1NDU5N119
+eyJoaXN0b3J5IjpbMjEwNTg5MDA3NywxMjQ3NTQ1OTddfQ==
 -->
