@@ -40,8 +40,8 @@ Punti in cui funzione ==cambia di concavità==: ==$flessi$==
  ---
  ### p.223 es 164
  
- $y=
+ $y=\ln^2(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzIyNjE5NzIsLTg1NTQ0MzMyMSwtNj
-EzMjQyMzIyXX0=
+eyJoaXN0b3J5IjpbMTIzNzE3ODY5OSwtODU1NDQzMzIxLC02MT
+MyNDIzMjJdfQ==
 -->
