@@ -3913,14 +3913,14 @@
         },
         {
             "path": "viewer\/jp.php",
-            "size": 1846,
+            "size": 1904,
             "subject": "jp.php",
             "extract": "        dir  new DirectoryIteratorstringdir            dirs   array      files  array      foreach dir as node           if nodeisDir  nodeisDot               tree  dirtreenodegetPathname regex ignoreEmpty              if ignoreEmpty  counttree  nodegetFilenamestackedittrash                   dirsno",
             "humanDay": "  "
         },
         {
             "path": "viewer\/list.json",
-            "size": 215194,
+            "size": 215195,
             "subject": "list.json",
             "extract": "                    giovedu00ec03                           130133                               appuntimd                                                                                    novembre                       giovedu00ec26                           130004                               ap",
             "humanDay": "  "
@@ -3932,5 +3932,9 @@
             "extract": "done  cat tempdata   awk x0  perl ne chomp if e  print n grep v stackedittrash  tee tempdata  php viewerjpphp  rm tempdata  mv listjson viewerlistjson    ",
             "humanDay": "  "
         }
-    ]
+    ],
+    "lastUpdate": {
+        "unix": 1632170836,
+        "0": "20\/09\/2021 20:47:16"
+    }
 }
