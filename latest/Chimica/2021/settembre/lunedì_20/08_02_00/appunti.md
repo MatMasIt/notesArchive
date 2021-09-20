@@ -80,8 +80,13 @@ $$
 Nl\left[\frac{eq}{L}\right]=2N
 $$
 
-Se 
+$n_{eq}\neq 1\implies N=M\cdot n_{eq}$
+
+---
+$$
+H_2SO_4+NaOH\to
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQxMTkzMTAsLTcyNjM3NjI0MiwtMT
-c3ODQ2MzA0NF19
+eyJoaXN0b3J5IjpbMjA4NTcxNDk1MSwtNzI2Mzc2MjQyLC0xNz
+c4NDYzMDQ0XX0=
 -->
