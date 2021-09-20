@@ -12,7 +12,10 @@ Piegamento vs Flessione
 Piegamento: c'è sempre un contatto
 
 
+Base musicale: rilassamento
 
+
+Progettare il riscaldamento in funzione del
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY2MDY5MDBdfQ==
+eyJoaXN0b3J5IjpbLTE4MTI1ODc1NzBdfQ==
 -->
