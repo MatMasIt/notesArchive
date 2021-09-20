@@ -37,8 +37,11 @@ Punti in cui funzione ==cambia di concavità==: ==$flessi$==
 ![](https://i.imgur.com/szi250N.jpg)
 9. Concavità
 
+ ---
+ ### p.223 es 164
  
+ $y=
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjIyNzI2LC04NTU0NDMzMjEsLTYxMz
-I0MjMyMl19
+eyJoaXN0b3J5IjpbLTE2MzIyNjE5NzIsLTg1NTQ0MzMyMSwtNj
+EzMjQyMzIyXX0=
 -->
