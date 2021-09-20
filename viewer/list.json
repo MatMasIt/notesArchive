@@ -1757,16 +1757,30 @@
     "recent": [
         {
             "path": ".github\/workflows\/browser.yml",
-            "size": 473,
+            "size": 507,
             "subject": "workflows",
-            "extract": "    runson ubuntu2004      steps       uses actionscheckoutv2       uses shivammathursetupphpv2        with          phpversion 74       name Run script file        run            bash viewersh        shell bash        name Commit changes        uses EndBugaddandcommitv7        with          authorn",
+            "extract": "  runtests      runson ubuntu2004      steps       uses actionscheckoutv2       uses shivammathursetupphpv2        with          phpversion 74       name Run script file        run            bash viewersh        shell bash        name Commit changes        uses EndBugaddandcommitv7        with     ",
             "humanDay": "  browser.yml"
         },
         {
-            "path": "README.md",
-            "size": 396,
+            "path": ".nojekyll",
+            "size": 1,
             "subject": null,
-            "extract": "  The notes are mostly in Italian I am italian and attending an Italian school      As of 27042021 also the notes actually taken at school are here thanks to Stackedit and my tablet    Soon a filebrowser will be implemented    ",
+            "extract": "",
+            "humanDay": "  "
+        },
+        {
+            "path": "README.md",
+            "size": 822,
+            "subject": null,
+            "extract": "  My home server keeps a copy of these notes too    The notes are mostly in Italian I am italian and attending an Italian school    As of 27042021 also the notes actually taken at school are here thanks to Stackedit and my tablet    A custom notes browser elegantly allows notes browsing recents and ",
+            "humanDay": "  "
+        },
+        {
+            "path": "index.html",
+            "size": 84,
+            "subject": null,
+            "extract": "",
             "humanDay": "  "
         },
         {
@@ -3913,14 +3927,14 @@
         },
         {
             "path": "viewer\/jp.php",
-            "size": 1904,
+            "size": 1953,
             "subject": "jp.php",
             "extract": "        dir  new DirectoryIteratorstringdir            dirs   array      files  array      foreach dir as node           if nodeisDir  nodeisDot               tree  dirtreenodegetPathname regex ignoreEmpty              if ignoreEmpty  counttree  nodegetFilenamestackedittrash                   dirsno",
             "humanDay": "  "
         },
         {
             "path": "viewer\/list.json",
-            "size": 215195,
+            "size": 215287,
             "subject": "list.json",
             "extract": "                    giovedu00ec03                           130133                               appuntimd                                                                                    novembre                       giovedu00ec26                           130004                               ap",
             "humanDay": "  "
@@ -3934,7 +3948,8 @@
         }
     ],
     "lastUpdate": {
-        "unix": 1632170836,
-        "0": "20\/09\/2021 20:47:16"
+        "unix": 1632172668,
+        "human": "20\/09\/2021 21:17:48",
+        "timezone": "UTC"
     }
 }
