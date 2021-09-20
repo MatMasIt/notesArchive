@@ -103,15 +103,22 @@ $D x > 0 \to x > 0$
 
 |||$0$||$1$||
 |---|---|---|---|---|---|
-|$N$||$\#$|$+$|$\#$|$+$
-|$D$||$\#$|$-$|$\#$|$+$|
-|$F$||$\#$|$-$|$\#$|$+$
+|$N$|$\cancel D$|$\#$|$+$|$\#$|$+$
+|$D$|$\cancel D$|$\#$|$-$|$\#$|$+$|
+|$F$|$\cancel D$|$\#$|$-$|$\#$|$+$
 
 
 $x=1$ è un minimo relativo della funzione
+
+#### Derivata seconda $f^{''}$
+
+$y^{'}=\frac{2\ln x}{x}$
+$$
+y^{''}=2\frac{\frac1xx-\lnx}{x^2}=2\frac{1-\ln x}{x^2
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDUxODM5ODIsLTIwNzkyNzQ0NTAsMT
-E3MDQwNzE3MiwxNTEzNDQ2NDUwLDE1MTM0NDY0NTAsMTU1MzY3
-ODQyNSw2Njc5NTc0NjgsMTc4NzA4OTY5NCw2MDc0MjU5NywtOD
-U1NDQzMzIxLC02MTMyNDIzMjJdfQ==
+eyJoaXN0b3J5IjpbMTMwNTEzNjkxOCwtMjA3OTI3NDQ1MCwxMT
+cwNDA3MTcyLDE1MTM0NDY0NTAsMTUxMzQ0NjQ1MCwxNTUzNjc4
+NDI1LDY2Nzk1NzQ2OCwxNzg3MDg5Njk0LDYwNzQyNTk3LC04NT
+U0NDMzMjEsLTYxMzI0MjMyMl19
 -->
