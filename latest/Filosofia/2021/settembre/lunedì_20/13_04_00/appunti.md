@@ -48,7 +48,10 @@ Conoscenza _anche_ empirismo
 
 Soggeto ha una forma che unifica il materiale proveniente dall'esterno
 
+
+O
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0OTExNzgwLDE4NTUxODM0NDEsMjEyOD
-U3MDM3MCwtMTg3NDM1MzYyNiwxNTQwMzU2MzgzXX0=
+eyJoaXN0b3J5IjpbLTE3MjAxNzYwMjcsNDc0OTExNzgwLDE4NT
+UxODM0NDEsMjEyODU3MDM3MCwtMTg3NDM1MzYyNiwxNTQwMzU2
+MzgzXX0=
 -->
