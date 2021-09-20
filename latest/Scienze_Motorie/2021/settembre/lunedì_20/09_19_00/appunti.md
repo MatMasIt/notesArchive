@@ -24,7 +24,8 @@ Riscaldamento al chiuso
 |N|Attività|Descrizione|Durata serie|Ripetizioni|Pausa tra Ripetizioni|Musica|
 |---|---|---|---|---|---|---|
 |$1$|Camminata|Camminare lungo il permietro della palestra|$2'$|$1$|$36''$|_Fly me to the moon_, Frank Sinatra|
-|$2$|Corsa|Correre lungo il perimetro della palestra|$1'$|$3$|$30''$|
+|$2$|Corsa|Correre lungo il perimetro della palestra|$2'$|$3$|$30''$|_Giant Steps_, John Coltrane|
+|$3$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Njk3NTE3NF19
+eyJoaXN0b3J5IjpbMTcwMTA4NzE0M119
 -->
