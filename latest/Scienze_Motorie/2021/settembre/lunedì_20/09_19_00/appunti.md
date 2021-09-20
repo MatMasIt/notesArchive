@@ -25,7 +25,7 @@ Riscaldamento al chiuso
 |---|---|---|---|---|---|---|
 |$1$|Camminata|Camminare lungo il permietro della palestra|$2'$|$1$|$36''$|_Giant Steps_, Jhon Coltrane|
 |$2$|Corsa|Correre lungo il perimetro della palestra|$2'$|$3$|$30''$|_I Get Around, The Beach Boys_|
-|$3$|"Jumping Jack"|Saltare addducendo ripetutame
+|$3$|"Jumping Jack"|Saltare addducendo ripetutamente sul piano saggittale arti inferiori e posteriori|$30''$|$2$|$10''$|_Back in Black_, AC/DC|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODIzMDg0XX0=
+eyJoaXN0b3J5IjpbMjEzMzc1MTMwMl19
 -->
