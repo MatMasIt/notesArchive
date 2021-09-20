@@ -34,7 +34,7 @@ Forme a priori in noi ordinano il materiale esterno in una certa maniera
 Tutti condividiamo queste strutture
 
 
-condivisione dei trascndentali: non si sa se la scienza dica la verità in assoluti
+condivisione dei trascendentali: non si sa se la scienza dica la verità in assoluti
 
 Per kant non c'è risposta
 
@@ -45,7 +45,10 @@ Possiamo solo conoscere il mondo come ci appare, non come è in se stesso
 
 
 Conoscenza _anche_ empirismo
+
+Soggeto ha una forma che unifica il materiale proveniente dall'esterno
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk0NTY5NTgsMTg1NTE4MzQ0MSwyMT
-I4NTcwMzcwLC0xODc0MzUzNjI2LDE1NDAzNTYzODNdfQ==
+eyJoaXN0b3J5IjpbNDc0OTExNzgwLDE4NTUxODM0NDEsMjEyOD
+U3MDM3MCwtMTg3NDM1MzYyNiwxNTQwMzU2MzgzXX0=
 -->
