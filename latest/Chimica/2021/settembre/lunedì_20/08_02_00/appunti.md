@@ -15,9 +15,13 @@ acido\,1+base\,2\to acido\,2+base\,1
 $$
 
 $$
-K_A=\frac{[H^
+K_A=\frac{[H^{+}][Cl^{-}]}{[HCl]}
 $$
+
+_Legge dell'azione di massa_:
+> E
+_principio di equilibrio mobile_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTU3MTc4OCwtNzI2Mzc2MjQyLC0xNz
+eyJoaXN0b3J5IjpbMTkyODQwMTM1NiwtNzI2Mzc2MjQyLC0xNz
 c4NDYzMDQ0XX0=
 -->
