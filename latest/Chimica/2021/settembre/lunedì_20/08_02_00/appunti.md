@@ -7,9 +7,11 @@ Sia scienza che giornalismo: fatti, non rappresentazioni
 
 Trappola: scenza, opinione
 
-
+---
 $$
-\\\
+HCl\xleftrightarrow[H_20]{}H^{+}+Cl^{-}\\
+$$
+$$
 HCl+H_2O\to H^{+}+Cl^{-}\\
 HCl+H_2O\to H_3O^{+}+Cl^{-}\\
 acido\,1+base\,2\to acido\,2+base\,1
@@ -24,6 +26,6 @@ _Legge dell'azione di massa_:
 
 _principio di equilibrio mobile_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyMDY3MTE1LC03MjYzNzYyNDIsLTE3Nz
-g0NjMwNDRdfQ==
+eyJoaXN0b3J5IjpbMjA2ODE5NjQzNiwtNzI2Mzc2MjQyLC0xNz
+c4NDYzMDQ0XX0=
 -->
