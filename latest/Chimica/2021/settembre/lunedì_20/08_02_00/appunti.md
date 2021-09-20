@@ -8,8 +8,11 @@ Sia scienza che giornalismo: fatti, non rappresentazioni
 Trappola: scenza, opinione
 
 
-Progr
+$$
+HCl+H_2O\toH^{+}+Cl^{-}\\
+HCl+H_2O\toH
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDc3MTk1NCwtNzI2Mzc2MjQyLC0xNz
+eyJoaXN0b3J5IjpbMTI3NTgxMjE3NiwtNzI2Mzc2MjQyLC0xNz
 c4NDYzMDQ0XX0=
 -->
