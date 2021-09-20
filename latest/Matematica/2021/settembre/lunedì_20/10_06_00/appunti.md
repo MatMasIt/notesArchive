@@ -58,7 +58,7 @@ $$
 
 #### $1$ Dominio
 
-$x > 0$ù
+$x > 0$
 
 #### 2. $\cancel \exist$ simmetrie evidenti
 
@@ -78,8 +78,10 @@ x=1
 \end{cases} \end{equation*}\\
 A(1,0)
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzY3ODQyNSw2Njc5NTc0NjgsMTc4Nz
-A4OTY5NCw2MDc0MjU5NywtODU1NDQzMzIxLC02MTMyNDIzMjJd
-fQ==
+eyJoaXN0b3J5IjpbMTUxMzQ0NjQ1MCwxNTUzNjc4NDI1LDY2Nz
+k1NzQ2OCwxNzg3MDg5Njk0LDYwNzQyNTk3LC04NTU0NDMzMjEs
+LTYxMzI0MjMyMl19
 -->
