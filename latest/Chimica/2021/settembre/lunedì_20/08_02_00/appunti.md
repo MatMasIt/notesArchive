@@ -29,15 +29,24 @@ _principio di equilibrio mobile_
 Cloridrico: monoprotico
 
 ---
-Negli isotopi varia il numero di netroni
+Negli isotopi varia il numero di neutroni
 
 $$
 H_2SO_4\\
 H_2SO_4+H_2O\to2H^{+}+SO^{2-}_4
 $$
 
+Acido _diprotico_: cede $2$ moli di ioni $H^{+}$
 
+--
+
+> $$
+> m_{HCL}=36,45g\\
+> V=400mL\\
+> M[\frac{mol}{L}=?\\
+> N=?
+> $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzA2OTc4OCwtNzI2Mzc2MjQyLC0xNz
-c4NDYzMDQ0XX0=
+eyJoaXN0b3J5IjpbLTE3NDQ1MzQ5NDIsLTcyNjM3NjI0MiwtMT
+c3ODQ2MzA0NF19
 -->
