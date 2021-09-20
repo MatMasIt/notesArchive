@@ -44,16 +44,20 @@ Punti in cui funzione ==cambia di concavità==: ==$flessi$==
 
 Osservazioni
 
-$y=\ln(x)$
+$\text{\textcircled{1}}y=\ln(x)$
 
 
-$y=\ln(x^2)$
+$\text{\textcircled{2}}y=\ln(x^2)$
 
 ==Nei calcoli== $2\ln(x)$
 
+$$
+\text{\textcircled{1}} C.E. x^2 > 0 \to x n\neq 0\\
+\text{\textcircled{2}} C.E. x > 0
+$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3NDI1OTcsLTg1NTQ0MzMyMSwtNjEzMj
-QyMzIyXX0=
+eyJoaXN0b3J5IjpbMTc4NzA4OTY5NCw2MDc0MjU5NywtODU1ND
+QzMzIxLC02MTMyNDIzMjJdfQ==
 -->
