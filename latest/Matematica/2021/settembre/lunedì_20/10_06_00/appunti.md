@@ -114,11 +114,18 @@ $x=1$ è un minimo relativo della funzione
 
 $y^{'}=\frac{2\ln x}{x}$
 $$
-y^{''}=2\frac{\frac1xx-\lnx}{x^2}=2\frac{1-\ln x}{x^2
+y^{''}=2\frac{\frac1xx-\ln x}{x^2}=2\frac{1-\ln x}{x^2}
 $$
+
+$y^{''}=0$
+$\frac{1-\ln x}{\cancel{x^2}}=0$
+
+$\ln x=1 \to \ln x = \ln e \to  x=e$
+
+#####
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTEzNjkxOCwtMjA3OTI3NDQ1MCwxMT
-cwNDA3MTcyLDE1MTM0NDY0NTAsMTUxMzQ0NjQ1MCwxNTUzNjc4
-NDI1LDY2Nzk1NzQ2OCwxNzg3MDg5Njk0LDYwNzQyNTk3LC04NT
-U0NDMzMjEsLTYxMzI0MjMyMl19
+eyJoaXN0b3J5IjpbNDIwNzM2Njc1LC0yMDc5Mjc0NDUwLDExNz
+A0MDcxNzIsMTUxMzQ0NjQ1MCwxNTEzNDQ2NDUwLDE1NTM2Nzg0
+MjUsNjY3OTU3NDY4LDE3ODcwODk2OTQsNjA3NDI1OTcsLTg1NT
+Q0MzMyMSwtNjEzMjQyMzIyXX0=
 -->
