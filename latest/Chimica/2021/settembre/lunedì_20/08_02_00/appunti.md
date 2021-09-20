@@ -59,16 +59,23 @@ $$
 > $$
 
 $$
-n[mol]=\frac{m[g]}{MM{\frac{g}{mol}}}=\frac{36,45g}{36,45\frac{g}{mol}}=1mol\\=\frac{n[mol]}{V[L}}=\frac{1mol}{0,5L}=2M
+n[mol]=\frac{m[g]}{MM{\frac{g}{mol}}}=\frac{36,45g}{36,45\frac{g}{mol}}=1mol
+$$
+$$
+M\left[\frac{mol}{Ld}\right]=\frac{n[mol]}{V[L]}=\frac{1mol}{0,5L}=2M
 $$
 
 $$
 n^{'}[eq]=\frac{m[g]}{p_{eq}[\frac{g}{mol}]}
 $$
 $$
-p_eq\left[\frac{g}{eq}\right]=\frac{MM[\frac{g}{mol}]}{U.Q.[\frac{eq}{mol}]}
+p_{eq}\left[\frac{g}{eq}\right]=\frac{MM[\frac{g}{mol}]}{U.Q.[\frac{eq}{mol}]}
+$$
+
+$$
+p_{eq}=\frac{36,45\frac{g}{mol}}{1\frac{eq}{mol}}=36,45\frac
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTI5NDM1OCwtNzI2Mzc2MjQyLC0xNz
-c4NDYzMDQ0XX0=
+eyJoaXN0b3J5IjpbLTEzNTE4NTIzMTcsLTcyNjM3NjI0MiwtMT
+c3ODQ2MzA0NF19
 -->
