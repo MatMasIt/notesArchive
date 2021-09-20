@@ -5,8 +5,12 @@ jobs:
   run_tests:
     runs-on: ubuntu-20.04
     steps:
+    - name: Setup PHP with intl
+    - uses: shivammathur/setup-php@v2
+      with:
+        php-version: '7.4'
     - uses: actions/checkout@v2
     - name: Run script file
       run: |
-         ls
-      shell: bash
+         bash viewer/*.sh
+      shell: bash 
