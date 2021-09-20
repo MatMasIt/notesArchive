@@ -93,11 +93,13 @@ $y=\ln^2$
 $y^{'}=2\ln x\cdot \frac1x=\frac2x\ln x$
 $D^{'}=D$
 
-$y^{'}=0$
+$y^{'}=0\to\frac{\ln x}{\cancel x}=0\to \ln x=0\to x=1$
+#### 7. Monotonia
 
+$\fra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM4MzM2MzgsLTIwNzkyNzQ0NTAsMT
-E3MDQwNzE3MiwxNTEzNDQ2NDUwLDE1MTM0NDY0NTAsMTU1MzY3
-ODQyNSw2Njc5NTc0NjgsMTc4NzA4OTY5NCw2MDc0MjU5NywtOD
-U1NDQzMzIxLC02MTMyNDIzMjJdfQ==
+eyJoaXN0b3J5IjpbMTM0MDQ3MzQxLC0yMDc5Mjc0NDUwLDExNz
+A0MDcxNzIsMTUxMzQ0NjQ1MCwxNTEzNDQ2NDUwLDE1NTM2Nzg0
+MjUsNjY3OTU3NDY4LDE3ODcwODk2OTQsNjA3NDI1OTcsLTg1NT
+Q0MzMyMSwtNjEzMjQyMzIyXX0=
 -->
