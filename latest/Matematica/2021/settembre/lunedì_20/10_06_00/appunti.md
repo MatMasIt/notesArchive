@@ -28,14 +28,14 @@ Punti in cui funzione ==cambia di concavità==: ==$flessi$==
 ### Studio di funzione
 1. Dominio
 2. Simmetrie
-3. Intersezione con gli assi
+3. Intersezione con gli assi $\to$ con _Metodo di Newton_ se necessario
 4. Segno
-5. 
+5. _condizioni agli estremi del campo di esistenza_ (limiti)
 6. Derivata prima $\implies$ punti di stazionarietà
 7. Monotonia
-8. Derivata seconda $\implies$ flessi
+8. Derivata seconda $\implies$ flessi $\imp
 9. Concavità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDQyNDY2LC04NTU0NDMzMjEsLTYxMz
-I0MjMyMl19
+eyJoaXN0b3J5IjpbMTk2NzgxNTI0NiwtODU1NDQzMzIxLC02MT
+MyNDIzMjJdfQ==
 -->
