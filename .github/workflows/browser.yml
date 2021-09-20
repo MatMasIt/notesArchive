@@ -19,4 +19,4 @@ jobs:
       with:
         author_name: LaTexCompiler
         message: 'Compiled LaTeX into PDF, updated README'
-        add: '["*.pdf","*md"]'
+        add: 'viewer/list.json'
