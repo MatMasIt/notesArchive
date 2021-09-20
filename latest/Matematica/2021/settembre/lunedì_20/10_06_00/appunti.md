@@ -184,10 +184,12 @@ y=0\\
  \end{cases} \end{equation}
 $$
 
+
+$x^2=x-1$
 $f_1:y=x^3$
-$f_2:
+$f_2:x-1$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDEzNjY3MywxOTc4ODM1NDQzLC0yMD
+eyJoaXN0b3J5IjpbMTEwMjg3NjA3NCwxOTc4ODM1NDQzLC0yMD
 c5Mjc0NDUwLDExNzA0MDcxNzIsMTUxMzQ0NjQ1MCwxNTEzNDQ2
 NDUwLDE1NTM2Nzg0MjUsNjY3OTU3NDY4LDE3ODcwODk2OTQsNj
 A3NDI1OTcsLTg1NTQ0MzMyMSwtNjEzMjQyMzIyXX0=
