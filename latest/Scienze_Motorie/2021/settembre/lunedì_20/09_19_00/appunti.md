@@ -15,7 +15,12 @@ Piegamento: c'è sempre un contatto
 Base musicale: rilassamento
 
 
-Progettare il riscaldamento in funzione del
+Progettare il riscaldamento in funzione del tempo a nostra disposizione 
+
+--
+Riscaldamento al chiuso
+
+|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTI1ODc1NzBdfQ==
+eyJoaXN0b3J5IjpbLTE3MTM5Njg4MDVdfQ==
 -->
