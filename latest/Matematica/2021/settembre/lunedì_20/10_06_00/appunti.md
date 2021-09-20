@@ -33,9 +33,9 @@ Punti in cui funzione ==cambia di concavità==: ==$flessi$==
 5. _condizioni agli estremi del campo di esistenza_ (limiti)
 6. Derivata prima $\implies$ punti di stazionarietà
 7. Monotonia
-8. Derivata seconda $\implies$ flessi $\imp
+8. Derivata seconda $\implies$ flessi $\implies$ tangente nei punti di flesso
 9. Concavità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzgxNTI0NiwtODU1NDQzMzIxLC02MT
+eyJoaXN0b3J5IjpbLTQ5MjU1ODk5NiwtODU1NDQzMzIxLC02MT
 MyNDIzMjJdfQ==
 -->
