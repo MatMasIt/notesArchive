@@ -29,8 +29,10 @@ Tutto ciò che accade è dovuto ad una causa
 
 Predicato non contenuto nel soggetto, giudizio sintetico a priori della fisica
 
+Forme a priori in noi ordinano il materiale esterno in una certa maniera
 
+Tutti condividiamo queste strutture
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODU3MDM3MCwtMTg3NDM1MzYyNiwxNT
-QwMzU2MzgzXX0=
+eyJoaXN0b3J5IjpbMTg1NTE4MzQ0MSwyMTI4NTcwMzcwLC0xOD
+c0MzUzNjI2LDE1NDAzNTYzODNdfQ==
 -->
