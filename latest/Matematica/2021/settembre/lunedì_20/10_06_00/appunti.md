@@ -22,11 +22,16 @@ $a$ è la ==concavità== della funzione
 ![](https://i.imgur.com/Ke1hZ55.jpg)
 
 
+Punti in cui funzione ==cambia di concavità==: ==$flessi$==
+
 
 ### Studio di funzione
-
-
+1. Dominio
+2. Simmetrie
+3. Intersezione con gli assi
+4. Segno
+5. Derivata pria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzczMTQxMDAsLTg1NTQ0MzMyMSwtNj
+eyJoaXN0b3J5IjpbLTE5NzI3NDAzOTksLTg1NTQ0MzMyMSwtNj
 EzMjQyMzIyXX0=
 -->
