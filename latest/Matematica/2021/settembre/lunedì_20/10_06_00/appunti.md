@@ -89,9 +89,11 @@ $\ln^2 x > 0 \to \forall x \in D \lor x \neq 1$
 #### 6. Derivata $f^{'}$
 Derivata di una funzione composta
 $y=\ln^2$
+
+$y^
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzkyNzQ0NTAsMTE3MDQwNzE3MiwxNT
-EzNDQ2NDUwLDE1MTM0NDY0NTAsMTU1MzY3ODQyNSw2Njc5NTc0
-NjgsMTc4NzA4OTY5NCw2MDc0MjU5NywtODU1NDQzMzIxLC02MT
-MyNDIzMjJdfQ==
+eyJoaXN0b3J5IjpbLTIwMDIwMTE5MDMsLTIwNzkyNzQ0NTAsMT
+E3MDQwNzE3MiwxNTEzNDQ2NDUwLDE1MTM0NDY0NTAsMTU1MzY3
+ODQyNSw2Njc5NTc0NjgsMTc4NzA4OTY5NCw2MDc0MjU5NywtOD
+U1NDQzMzIxLC02MTMyNDIzMjJdfQ==
 -->
