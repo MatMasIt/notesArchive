@@ -11,7 +11,16 @@ Individuare la _monotonia_ della funzione
 > |$\left(\frac{df}{dx}\right) < 0$|Descrescente|
 > |$\left(\frac{df}{dx}\right) = 0$ |Massimo /Minimo|
 
+Derivare più volte
+$$
+y=ax^2+bx+c\\
+y^{'}=2ax+b\\
+y^{''}=2a
+$$
+
+$a$ è la ==co
 ### Studio di funzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTQ0MzMyMSwtNjEzMjQyMzIyXX0=
+eyJoaXN0b3J5IjpbNDM2ODQ0NTUsLTg1NTQ0MzMyMSwtNjEzMj
+QyMzIyXX0=
 -->
