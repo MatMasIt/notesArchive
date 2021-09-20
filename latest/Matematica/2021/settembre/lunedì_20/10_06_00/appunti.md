@@ -90,9 +90,13 @@ $\ln^2 x > 0 \to \forall x \in D \lor x \neq 1$
 Derivata di una funzione composta
 $y=\ln^2$
 
-$y^
+$y^{'}=2\ln x\cdot \frac1x=\frac2x\ln x$
+$D^{'}=D$
+
+$y^{'}=0$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDIwMTE5MDMsLTIwNzkyNzQ0NTAsMT
+eyJoaXN0b3J5IjpbLTIwNDM4MzM2MzgsLTIwNzkyNzQ0NTAsMT
 E3MDQwNzE3MiwxNTEzNDQ2NDUwLDE1MTM0NDY0NTAsMTU1MzY3
 ODQyNSw2Njc5NTc0NjgsMTc4NzA4OTY5NCw2MDc0MjU5NywtOD
 U1NDQzMzIxLC02MTMyNDIzMjJdfQ==
