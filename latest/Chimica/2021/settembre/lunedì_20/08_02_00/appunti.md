@@ -29,14 +29,15 @@ _principio di equilibrio mobile_
 Cloridrico: monoprotico
 
 ---
+Negli isotopi varia il numero di netroni
 
 $$
 H_2SO_4\\
-H_2SO_4+H_2O\to2
+H_2SO_4+H_2O\to2H^{+}+SO^{2-}_4
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTM4NTI2NCwtNzI2Mzc2MjQyLC0xNz
+eyJoaXN0b3J5IjpbMTY0NzA2OTc4OCwtNzI2Mzc2MjQyLC0xNz
 c4NDYzMDQ0XX0=
 -->
