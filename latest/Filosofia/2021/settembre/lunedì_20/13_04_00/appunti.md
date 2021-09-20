@@ -6,6 +6,15 @@ _A posteriori_ $\to$ ==dopo== l'esperienza
 
 
 La linea retta è la più breve tra due punti: giudizio sintetico a priori
+
+Brevità: quantitativo
+Essere retti: qualitativo
+
+La scienza si fonda su questo tipo di giudizi
+
+
+p. 354, penultimo capo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzODc0MzY1LDE1NDAzNTYzODNdfQ==
+eyJoaXN0b3J5IjpbMTQ1OTAzNzMwNSwxNTQwMzU2MzgzXX0=
 -->
