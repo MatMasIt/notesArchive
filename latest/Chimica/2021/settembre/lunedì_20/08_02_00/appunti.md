@@ -73,9 +73,13 @@ p_{eq}\left[\frac{g}{eq}\right]=\frac{MM[\frac{g}{mol}]}{U.Q.[\frac{eq}{mol}]}
 $$
 
 $$
-p_{eq}=\frac{36,45\frac{g}{mol}}{1\frac{eq}{mol}}=36,45\frac
+p_{eq}=\frac{36,45\frac{g}{mol}}{1\frac{eq}{mol}}=36,45\frac{g}{eq}
+$$
+
+$$
+Nl\left[\frac{eq}{L}\right]=2N
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE4NTIzMTcsLTcyNjM3NjI0MiwtMT
-c3ODQ2MzA0NF19
+eyJoaXN0b3J5IjpbNzMxMDk2MTQwLC03MjYzNzYyNDIsLTE3Nz
+g0NjMwNDRdfQ==
 -->
