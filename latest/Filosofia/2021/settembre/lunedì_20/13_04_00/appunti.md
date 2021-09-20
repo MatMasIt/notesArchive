@@ -40,7 +40,9 @@ Per kant non c'è risposta
 
 
 Filtrandolo potremmo tradirlo
+
+Possiamo solo conoscere il mondo come ci appare, non come è in se stesso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyMzcwMzA4LDE4NTUxODM0NDEsMjEyOD
-U3MDM3MCwtMTg3NDM1MzYyNiwxNTQwMzU2MzgzXX0=
+eyJoaXN0b3J5IjpbLTE0MTIxMzA2MTEsMTg1NTE4MzQ0MSwyMT
+I4NTcwMzcwLC0xODc0MzUzNjI2LDE1NDAzNTYzODNdfQ==
 -->
