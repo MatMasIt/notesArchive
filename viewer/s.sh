@@ -1,7 +1,7 @@
 git config core.quotepath off
 rm tempdata
 touch tempdata
-tree -ifFCD --timefmt '%Y%m%d %H%M%S' latest | sort -k1 -k2 | grep "md" | awk '{print($3)}' | tail -n 10 | tac | tee tempdata
+ git ls-files -z | xargs -0 -n1 -I{} -- git log -1 --format="%ai {}" {} | grep appunti.md | sort | awk '{for (i=4; i<=NF; i++) print $i}' | tail -n 20 | tac | tee tempdata
 php viewer/jp.php
 rm tempdata
 mv list.json viewer/list.json
