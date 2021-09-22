@@ -518,6 +518,11 @@
                         "08_05_00": [
                             "appunti.md"
                         ]
+                    },
+                    "marted\u00ec_21": {
+                        "10_00_00": [
+                            "appunti.md"
+                        ]
                     }
                 },
                 "febbraio": {
@@ -1402,6 +1407,11 @@
                         "12_13_00": [
                             "appunti.md"
                         ]
+                    },
+                    "marted\u00ec_21": {
+                        "12_00_00": [
+                            "appunti.md"
+                        ]
                     }
                 },
                 "giugno": {
@@ -1765,6 +1775,13 @@
             "humanDay": "mercoled\u00ec 15 settembre 2021"
         },
         {
+            "path": "latest\/Storia\/2021\/settembre\/marted\u00ec_21\/10_00_00\/appunti.md",
+            "size": 546,
+            "subject": "Storia",
+            "extract": "   Non indicizzabile  httpsiimgurcomnki2f2upng    httpsiimgurcomgslltwBpng    httpsiimgurcomk1rNtZvpng    httpsiimgurcomKGijqJ7png    httpsiimgurcomf6ZaL1Apng    httpsiimgurcomkHmANMipng        httpsiimgurcome0VMnPbpng      httpsiimgurcomfTJxos6png      httpsiimgurcomFNVmf4Ipng  ",
+            "humanDay": "marted\u00ec 21 settembre 2021"
+        },
+        {
             "path": "latest\/Storia\/2021\/marzo\/venerd\u00ec_26\/10_00_25\/appunti.md",
             "size": 13940,
             "subject": "Storia",
@@ -1889,18 +1906,11 @@
             "subject": "Storia",
             "extract": "  Henry Ireton legato a Cromwell    Rainborough  sostiene suffragio universale    potere dal basso    alla fine vince Ireton suffragio censitario per avere diritto al voto  ricchezza  why      r 18 Rainborough    Ireton 27 e 49  giustificazione solo chi ha interesse permanente fisso nel paese ha dir",
             "humanDay": "mercoled\u00ec 09 dicembre 2020"
-        },
-        {
-            "path": "latest\/Storia\/2020\/dicembre\/mercoled\u00ec_02\/13_25_08\/appunti.md",
-            "size": 94,
-            "subject": "Storia",
-            "extract": "",
-            "humanDay": "mercoled\u00ec 02 dicembre 2020"
         }
     ],
     "lastUpdate": {
-        "unix": 1632325467,
-        "human": "22\/09\/2021 15:44:27",
+        "unix": 1632328274,
+        "human": "22\/09\/2021 16:31:14",
         "timezone": "UTC"
     }
 }
