@@ -4,10 +4,12 @@
 
 ### _In absentia_, appunti di _Marzia Battaglio_
 
+#### Non indicizzabile
+
 ![](https://i.imgur.com/fyTMV9j.jpg)
 
 ![](https://i.imgur.com/fyTMV9j.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTIyNDAwXX0=
+eyJoaXN0b3J5IjpbODU2MzEzNzkwLC01ODkyMjQwMF19
 -->
