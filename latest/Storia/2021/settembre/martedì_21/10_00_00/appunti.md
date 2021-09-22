@@ -5,6 +5,10 @@
 ### _In absentia_, appunti di _Marzia Battaglio_
 ![](https://i.imgur.com/nki2f2u.png)
 
+![](https://i.imgur.com/gslltwB.png)
+
+![](https://i.imgur.com/k1rNtZv.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTA1MzEyNV19
+eyJoaXN0b3J5IjpbNDk5MDE5NjQwXX0=
 -->
