@@ -23,6 +23,10 @@ Oggi, ora (v.12)
 Dio: causa prima, fine ultimo
 
 teofania ltima di dio, intelletto lo processa con difficoltà
+
+Commistione di Ideologia classica
+Personaggi mitologici: pre-figurazioni
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzI3ODEwNV19
+eyJoaXN0b3J5IjpbMTQ5NzU4NzExMV19
 -->
