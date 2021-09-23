@@ -39,6 +39,13 @@ Beatrice guarda fisso il sole
 Muto linguaggio di sguardi tra Dante e Beatrice
 
 Beatrice fissa le eterne rote e Dante fissa le "luci" (gli occhi) a lei
+
+
+_àpax legòmenon_
+
+Costruiti neologismi con prefisso "in" per assenza di parole
+
+Si ricorre a Glauco (Ovidio, mitologia) per illustrare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk1MzQ5MjRdfQ==
+eyJoaXN0b3J5IjpbLTE0NTYwNDU0ODZdfQ==
 -->
