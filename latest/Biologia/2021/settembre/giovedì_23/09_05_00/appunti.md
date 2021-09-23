@@ -17,9 +17,11 @@ Stomaco: produce succo gastrico
 
 Epitelio forma fossette gastriche: 3 fossette secretrici
 * pepsinogeno: enzima che digerisce le ptoreine, pepsinogeno $\to$ pepsina cloridrata
-hì
-
-
+Le proteine formate da 20 amminoacidi
+Gruppo amminico (base, carica $+$)
+Gruppo carbossilico (acido organico, carica $-$)
+Forma inattiva
+* $HCL
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTk4ODQzN119
+eyJoaXN0b3J5IjpbNTAwMTkyNDk5XX0=
 -->
