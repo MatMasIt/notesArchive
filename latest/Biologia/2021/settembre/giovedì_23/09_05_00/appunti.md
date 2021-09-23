@@ -21,7 +21,9 @@ Le proteine formate da 20 amminoacidi
 Gruppo amminico (base, carica $+$)
 Gruppo carbossilico (acido organico, carica $-$)
 Forma inattiva
-* $HCL
+* $HCl$ secreto dalle cellule parietali
+(forte, monoprotico, disinfetta)
+$pH
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwMTkyNDk5XX0=
+eyJoaXN0b3J5IjpbNDA0MTAzMTMwXX0=
 -->
