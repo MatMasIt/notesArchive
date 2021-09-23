@@ -52,8 +52,18 @@ _Ineffabilità, incapacità di dire_
 
 armonia delle rote celesti spiegabili adducedo la teoria pitagorica dei suoni delle sfere celesti, Dante probabilmente lesse in Cicerone, _sommus scipionis_, parte del _De Republica_
 
-Si interroga 
+Si interroga sulla Cagione del barlume
+
+
+v. 79-80
+
+Beatrice dice che Dante sta facendo congetture improprie
+
+
+v.91-93
+
+Dant _inretito_
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjA3NjI2M119
+eyJoaXN0b3J5IjpbOTM2ODI0MjEzXX0=
 -->
