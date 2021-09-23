@@ -22,7 +22,10 @@ tutto per la partia
 anche la vita per la patria
 
 Bisogna prvare qualcosa! 
+
+
+Artista è un genio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTI0NzUzLC0zMDM5NDE1Miw0NDgwNj
-Y5ODldfQ==
+eyJoaXN0b3J5IjpbLTE3NjQxODg4ODQsLTM5NTI0NzUzLC0zMD
+M5NDE1Miw0NDgwNjY5ODldfQ==
 -->
