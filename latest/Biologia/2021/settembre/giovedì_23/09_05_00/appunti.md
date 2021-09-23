@@ -43,6 +43,12 @@ Stato _dinamico_ che richiede lavoro notevole
 
 * Controllo temperatura
 Siamo omeotermi, la temperatura deve rimanere costante
+p.486
+
+Infiammazione
+
+Se si dannneggia un tessuto
+p.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjYwNDkwNTNdfQ==
+eyJoaXN0b3J5IjpbLTc0NTI1NDYyNl19
 -->
