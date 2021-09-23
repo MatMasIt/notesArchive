@@ -31,7 +31,17 @@ William
 Blake
 
 scuola da incisore
+
+La zattera
+
+due gruppi
+
+
+
+
+Rassegnati e positivi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxNTI2OTcwLC0xNzY0MTg4ODg0LC0zOT
-UyNDc1MywtMzAzOTQxNTIsNDQ4MDY2OTg5XX0=
+eyJoaXN0b3J5IjpbODQ2ODM2OTA2LDMzMTUyNjk3MCwtMTc2ND
+E4ODg4NCwtMzk1MjQ3NTMsLTMwMzk0MTUyLDQ0ODA2Njk4OV19
+
 -->
