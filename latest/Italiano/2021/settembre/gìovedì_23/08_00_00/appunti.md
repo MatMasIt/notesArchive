@@ -117,8 +117,12 @@ Nel 1902, _Croce_ scrive _"L'estetica_", in cuui ritiene che alcune composizioni
 ---
 ## Canto Politico $\text{VI}$
 
+p.628
 
+Luna, Mercurio, Venre, secondo cielo
+
+più di $1000$ splendori che cantano 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY5MDk4NzksLTE2MjAwMzc0Ml19
+eyJoaXN0b3J5IjpbLTEwNDk4Mjg0OTgsLTE2MjAwMzc0Ml19
 -->
