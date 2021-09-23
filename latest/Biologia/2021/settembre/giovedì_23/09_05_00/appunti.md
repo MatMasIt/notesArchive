@@ -72,6 +72,10 @@ febbre inibisce patogeni, accellera processi di riparazione
 
 Fibrina: dentro le piastrine
 
+
+Emofilia, malattia genetica ereditaria: no coagulazione del sangue
+
+Rischio di emorraggia interna
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk4ODcyODldfQ==
+eyJoaXN0b3J5IjpbMjA3NzYyMzQ2OV19
 -->
