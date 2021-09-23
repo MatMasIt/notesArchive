@@ -30,9 +30,9 @@ p. 40:
 	line 3-4 
 	Onw poertion of his mind was alert and cunning, another trembled on the brink of lunacy
 p. 47:
-
+A flash of ice, a flash of fire (contrasting feelings)
 p. 48:
-
+At times he thought he knew him... the con
 p. 53:
 
   
@@ -142,6 +142,6 @@ p. 41: (find another reference):_______________________________
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDgwNjU5MzcsNjc5MDgyNzY3LDY1OT
-E4MzIyNiwyMDQ4NjIyOTgwXX0=
+eyJoaXN0b3J5IjpbLTc2OTQzOTE4NCw2NzkwODI3NjcsNjU5MT
+gzMjI2LDIwNDg2MjI5ODBdfQ==
 -->
