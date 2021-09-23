@@ -36,23 +36,23 @@ At times he thought he knew him... the conviction that this thinga was _not of e
 At times he is aware of his hidden side BUT most of teh time he i convinced he dows not know it
 p. 53:
 
-Evil and Good run strong in me. I o 
+Evil and Good run strong in me. I o not love the one thing, I love all $\to$ soul duplicity
 
   
   
 
--   Symbols: a. ________________, b. _______________
+-   Symbols: a. mirror , b. shadow
     
 
   
 
 References to symbol a.
 
-p. 35 (how is it defined?): _____________________________
+p. 35 (how is it defined?): this damn reminder of sins abd fades
 
-p. 38 (find another reference): _________________________
+p. 38 (find another reference):  so naby rich mirrors 
 
-p. 46: (find another reference)____________________________________________
+p. 46: (find another reference) several great 
 
   
 
@@ -145,6 +145,6 @@ p. 41: (find another reference):_______________________________
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTgzNDY5OSw2NzkwODI3NjcsNjU5MT
+eyJoaXN0b3J5IjpbMTEyNzQ5MzExOSw2NzkwODI3NjcsNjU5MT
 gzMjI2LDIwNDg2MjI5ODBdfQ==
 -->
