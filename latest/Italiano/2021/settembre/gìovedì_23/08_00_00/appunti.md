@@ -107,8 +107,11 @@ Dante:
 * 1600 no
 * 1700 rivalutazione in romanticismo e pre-romanticismo di Dante, Shakespeare e Omero
 * 1800, onomastica dedicata a Dante, risorgimento, unità d'Italia
+* 1900
+  Neo-idealismo di _Giovanni Gentile_ e _Benedetto Croce_
+Manifesto intellettuali _filo_ e _anti_ fascisti
+s
 
-Neo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDEzNTg0MCwtMTYyMDAzNzQyXX0=
+eyJoaXN0b3J5IjpbMTAwMzQxNzMwMSwtMTYyMDAzNzQyXX0=
 -->
