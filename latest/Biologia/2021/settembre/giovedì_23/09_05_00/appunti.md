@@ -23,7 +23,9 @@ Gruppo carbossilico (acido organico, carica $-$)
 Forma inattiva
 * $HCl$ secreto dalle cellule parietali
 (forte, monoprotico, disinfetta)
-$pH
+$pH_{gastrico}\approx 2$
+fortemente acido
+aC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0MTAzMTMwXX0=
+eyJoaXN0b3J5IjpbLTIxMjYxOTI4MzJdfQ==
 -->
