@@ -129,7 +129,9 @@ v.130
  
  La luce che sfavilla e parla dice cose che vengono restituite nel seguente canto
 
-Canto VI: 
+Canto VI: parla solo Giustiniano
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQxMjA4MjYsLTE2MjAwMzc0Ml19
+eyJoaXN0b3J5IjpbLTYyODIzNDU4NSwtMTYyMDAzNzQyXX0=
 -->
