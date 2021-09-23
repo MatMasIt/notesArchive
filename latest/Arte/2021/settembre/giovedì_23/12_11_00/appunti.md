@@ -51,8 +51,11 @@ John constable
 
 
 Pittoresco: natura incontaminata
+
+
+William Turner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzMyMDg1MSw2MDA2ODg5MjYsMzMxNT
+eyJoaXN0b3J5IjpbLTcxNjQ5ODczMCw2MDA2ODg5MjYsMzMxNT
 I2OTcwLC0xNzY0MTg4ODg0LC0zOTUyNDc1MywtMzAzOTQxNTIs
 NDQ4MDY2OTg5XX0=
 -->
