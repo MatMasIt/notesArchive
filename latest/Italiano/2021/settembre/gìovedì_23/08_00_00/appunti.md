@@ -135,7 +135,14 @@ Invettiva consto la decadenza della istituzione-universale: impero
 
 Lungo _excursus_ storico
 
-(Inizia con _
+(Inizia con _Poscia_)
+aquila imperiale
+condotta in direzione opposta da costantino rispetto a qulla usuale riportandola a bisanzio da dove era venuta (330 d.C) Trasferimento capitale da roma a Costantinopoli
+
+Enea
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxOTcyMTQwLC0xNjIwMDM3NDJdfQ==
+eyJoaXN0b3J5IjpbLTEyMzc2MTQzNjcsLTE2MjAwMzc0Ml19
 -->
