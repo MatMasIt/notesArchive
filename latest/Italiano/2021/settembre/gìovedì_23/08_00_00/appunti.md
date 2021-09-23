@@ -27,6 +27,11 @@ teofania ltima di dio, intelletto lo processa con difficoltà
 Commistione di Ideologia classica
 Personaggi mitologici: pre-figurazioni
 
+p. 592
+
+
+v. 37 Ampia indicazione astronomica
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzU4NzExMV19
+eyJoaXN0b3J5IjpbMTk3Mjk0Mjg3OF19
 -->
