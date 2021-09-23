@@ -40,8 +40,12 @@ due gruppi
 
 
 Rassegnati e positivi
+
+
+
+William Blake
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2ODM2OTA2LDMzMTUyNjk3MCwtMTc2ND
+eyJoaXN0b3J5IjpbNjAwNjg4OTI2LDMzMTUyNjk3MCwtMTc2ND
 E4ODg4NCwtMzk1MjQ3NTMsLTMwMzk0MTUyLDQ0ODA2Njk4OV19
 
 -->
