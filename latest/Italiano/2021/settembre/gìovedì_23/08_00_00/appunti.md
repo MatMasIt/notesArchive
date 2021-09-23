@@ -142,7 +142,14 @@ condotta in direzione opposta da costantino rispetto a qulla usuale riportandola
 Enea
 
 
+Da imperatore all'altro 
 
+
+Giustiniano, fu Cesare
+
+Chiasmo v 10
+
+> Cesare fui, e son giustiniano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzc2MTQzNjcsLTE2MjAwMzc0Ml19
+eyJoaXN0b3J5IjpbMTYxMDY4MTA4OSwtMTYyMDAzNzQyXX0=
 -->
