@@ -27,8 +27,12 @@ $pH_{gastrico}\approx 2$
 fortemente acido
 Acidità eccessiva può causare ulcere gastriche, stillicidio, forte dolore gastrico
 Psicoomatico, controllato dal sistema nervoso autonomo, spesso stress causa iper-secrezione
+$HCl$
+	* disinfetta
 	*	Pepsinogeno $\to$ pepsina cloridrato
-	*	Aumenta 
+	*	Aumenta movimenti peristaltici, quindi svuotamento gastrico
+
+* cellule mucose secernono muco per proteggere la parete
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjgyMDNdfQ==
+eyJoaXN0b3J5IjpbMzA0NzU2MDUwXX0=
 -->
