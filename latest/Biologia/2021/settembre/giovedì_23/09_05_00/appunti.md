@@ -40,6 +40,9 @@ benesere dell'oemostasi sta nella vita quotidiana
 Stato _dinamico_ che richiede lavoro notevole
 
 ==p. 396==
+
+* Controllo temperatura
+Siamo omeotermi, la temperatura deve rimanere costante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDEzNDM3NzhdfQ==
+eyJoaXN0b3J5IjpbLTE1MjYwNDkwNTNdfQ==
 -->
