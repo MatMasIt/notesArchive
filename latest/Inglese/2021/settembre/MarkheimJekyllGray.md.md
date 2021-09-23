@@ -50,7 +50,7 @@ References to symbol a.
 
 p. 35 (how is it defined?): this damn reminder of years and sins and follies, this hand-conscience [line 3-4]
 
-p. 38 (find another reference):  so rich mirrors 
+p. 38 (find another reference):  In many rich mirrors  [3rd paragraph, 3rd sentence]
 
 p. 46: (find another reference) several great pearl  and glasses
   
@@ -144,6 +144,6 @@ p. 41: (find another reference): he glanced at the door, where shadows ...
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzgyMzYzNiwxNDM2NjMxMzIwLDY3OT
+eyJoaXN0b3J5IjpbLTgwMjU3MjMyOSwxNDM2NjMxMzIwLDY3OT
 A4Mjc2Nyw2NTkxODMyMjYsMjA0ODYyMjk4MF19
 -->
