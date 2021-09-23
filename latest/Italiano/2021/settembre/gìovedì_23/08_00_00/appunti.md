@@ -90,7 +90,11 @@ Ci sarebbe anzi da meravigliarsi se sarebbe rimasto nel purgatorio quando epurat
 
 Peccato: eccezione, che è prevista
 
+v.131 è possibile che la creatura pieghi la traettoria dell'arco, l'inclinazione naturale
 
+Libertà di errare
+
+Traviamento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Nzg3NzYxNywtMTYyMDAzNzQyXX0=
+eyJoaXN0b3J5IjpbNTgzMjA1NzUzLC0xNjIwMDM3NDJdfQ==
 -->
