@@ -11,6 +11,16 @@ Borghesia non apprezza antichità, la vedono come una cosa da superare
 Vedono nel progresso grande capacità di emanciparsi
 
 Non più interessata a modelli valoriali antichi
+
+
+Sensazioni importanti
+
+solco patriottico
+
+tutto per la partia
+
+anche la vita per la patria
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTI1NjYyMiw0NDgwNjY5ODldfQ==
+eyJoaXN0b3J5IjpbLTMwMzk0MTUyLDQ0ODA2Njk4OV19
 -->
