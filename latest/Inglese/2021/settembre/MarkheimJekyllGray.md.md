@@ -113,6 +113,7 @@ p. 41: (find another reference): he glanced at the door, where shadows ...
 
 (p. 115-116 “Jekyll’s experiment”)
 
+Identities that coexist just like a
   
 
 1.  Read the quotes above and Underline words or short passages that can be associated with the main theme of “Markheim” and explain why.
@@ -144,6 +145,6 @@ p. 41: (find another reference): he glanced at the door, where shadows ...
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjU3MjMyOSwxNDM2NjMxMzIwLDY3OT
+eyJoaXN0b3J5IjpbMTI3NjI0ODM2MywxNDM2NjMxMzIwLDY3OT
 A4Mjc2Nyw2NTkxODMyMjYsMjA0ODYyMjk4MF19
 -->
