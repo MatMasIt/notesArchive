@@ -76,6 +76,8 @@ Fibrina: dentro le piastrine
 Emofilia, malattia genetica ereditaria: no coagulazione del sangue
 
 Rischio di emorraggia interna
+
+Il pus o raggiunge la superficie e viene disperso o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzYyMzQ2OV19
+eyJoaXN0b3J5IjpbLTQ5MzczNjE5Nl19
 -->
