@@ -69,7 +69,15 @@ Dante si chiede come faccia con il suo corpo fisico a muoversi
 Inizia parte della armonia cosmica
 
 Beatrice spiega che in questo nuovo mond la fisica terrena non vale
-trascendere n
+
+trascendere normale come lo _scendere a valle di un rivo_
+
+Tutti gli esseri
+
+v. 115
+Fuochi, animali, la terra stessa
+
+naturalmente inclini (v.109) verso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA5OTYxXX0=
+eyJoaXN0b3J5IjpbMTY2NDU3NjAwOV19
 -->
