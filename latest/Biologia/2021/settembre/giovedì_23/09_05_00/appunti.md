@@ -58,7 +58,11 @@ p.485
 * gonfiore
 
 
-Dolore è un sin
+Dolore è un sintomo importante
+
+Mastociti rilasciano istamina (difesa immunitaria ==aspecifica==)
+Isstamina:
+* d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODg5ODgxNV19
+eyJoaXN0b3J5IjpbMTQyMzA3Nzk1OV19
 -->
