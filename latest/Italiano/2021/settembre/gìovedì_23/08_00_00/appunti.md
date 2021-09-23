@@ -103,7 +103,10 @@ Forma non nell'intenzione dell'artista
 Dante:
 * popolare nel 1300
 * 1400 tranne alla fine
-* stalllo 1500 (1526: codificaz
+* stalllo 1500 (1526: codificazione della lingua, dante espulso dalla teoria Bembiana)
+* 1600 no
+* 1700 rivalutazione in romanticismo e pre-romanticismo di Dante, Shakespeare e Omero
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg3MDc4MSwtMTYyMDAzNzQyXX0=
+eyJoaXN0b3J5IjpbMTMzNDc5MDUxMiwtMTYyMDAzNzQyXX0=
 -->
