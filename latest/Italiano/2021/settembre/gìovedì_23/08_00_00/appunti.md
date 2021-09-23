@@ -77,7 +77,10 @@ Tutti gli esseri
 v. 115
 Fuochi, animali, la terra stessa
 
-naturalmente inclini (v.109) verso
+naturalmente inclini (v.109) verso porti figurati (v.112) attraverso il figurato grande mare dell'esistere non solo per tendere al loro fine naturale ma il gran Fattor (v.129) è un arciere che saetta in modo che tutto tenda al ricongiungimento ad esso
+
+
+terzina v 4-126
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDU3NjAwOV19
+eyJoaXN0b3J5IjpbLTEwOTU1Njc2NzldfQ==
 -->
