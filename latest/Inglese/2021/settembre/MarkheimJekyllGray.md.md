@@ -50,7 +50,9 @@ References to symbol a.
 
 p. 35 (how is it defined?): this damn reminder of years and sins and follies, this hand-conscience [line 3-4]
 
-p. 38 (find another reference):  In many rich mirrors  [3rd paragraph, 3rd sentence]
+p. 38 (find another reference):  In many rich mirrors  [3rd paragraph, 3rd sentence], an army of spies
+
+Face repeated: multiple personality
 
 p. 46: (find another reference) several great pearl  and glasses
   
@@ -91,7 +93,7 @@ p. 41: (find another reference): he glanced at the door, where shadows ...
 
   
 
-“If each, I told myself, could but be housed in separate identities, life would be relieved of all that was unbearable; the unjust might go his way, delivered from the aspirations and remorse of his more upright twin; and the just could walk securely on his upward path, doing the good things in which he found his pleasure, and no longer exposed to disgrace and penitence by the hands of his ==extraneous evil==”
+“If each, I told myself, could but be housed in separate identities, life would be relieved of all that was unbearable; the unjust might go his way, delivered from the aspirations and ==remorse== of his more upright twin; and the just could walk securely on his upward path, doing the good things in which he found his pleasure, and no longer exposed to disgrace and ==penitence== by the hands of his ==extraneous evil==”
 
   
 
@@ -145,6 +147,6 @@ Identities that coexist just like Markheim
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwNzQ0NTY4LDE0MzY2MzEzMjAsNjc5MD
-gyNzY3LDY1OTE4MzIyNiwyMDQ4NjIyOTgwXX0=
+eyJoaXN0b3J5IjpbLTM1Mjk1NTE0OCwxNDM2NjMxMzIwLDY3OT
+A4Mjc2Nyw2NTkxODMyMjYsMjA0ODYyMjk4MF19
 -->
