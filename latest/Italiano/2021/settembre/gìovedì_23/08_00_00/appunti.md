@@ -100,7 +100,10 @@ Traviamento
 Forma non nell'intenzione dell'artista
 
 
-
+Dante:
+* popolare nel 1300
+* 1400 tranne alla fine
+* stalllo 1500 (1526: codificaz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA0MzExOCwtMTYyMDAzNzQyXX0=
+eyJoaXN0b3J5IjpbLTE5Njg3MDc4MSwtMTYyMDAzNzQyXX0=
 -->
