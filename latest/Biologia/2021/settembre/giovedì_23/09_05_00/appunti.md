@@ -12,7 +12,14 @@ p.451
 Degluizion $\to$ movimenti peristaltici
 
 muscolaura liscia dello stomaco può espandersi
-Stomaco: pr
+
+Stomaco: produce succo gastrico
+
+Epitelio forma fossette gastriche: 3 fossette secretrici
+* pepsinogeno: enzima che digerisce le ptoreine, pepsinogeno $\to$ pepsina cloridrata
+hì
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjYxODAxNF19
+eyJoaXN0b3J5IjpbMjAxMTk4ODQzN119
 -->
