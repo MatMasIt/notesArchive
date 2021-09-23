@@ -62,8 +62,14 @@ Beatrice dice che Dante sta facendo congetture improprie
 
 v.91-93
 
-Dant _inretito_
+Dante _inretito_
 
+Dante si chiede come faccia con il suo corpo fisico a muoversi
+
+Inizia parte della armonia cosmica
+
+Beatrice spiega che in questo nuovo mond la fisica terrena non vale
+trascendere n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2ODI0MjEzXX0=
+eyJoaXN0b3J5IjpbLTE3MDA5OTYxXX0=
 -->
