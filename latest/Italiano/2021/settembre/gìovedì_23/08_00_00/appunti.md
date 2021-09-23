@@ -106,7 +106,9 @@ Dante:
 * stalllo 1500 (1526: codificazione della lingua, dante espulso dalla teoria Bembiana)
 * 1600 no
 * 1700 rivalutazione in romanticismo e pre-romanticismo di Dante, Shakespeare e Omero
-* 
+* 1800, onomastica dedicata a Dante, risorgimento, unità d'Italia
+
+Neo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDc5MDUxMiwtMTYyMDAzNzQyXX0=
+eyJoaXN0b3J5IjpbMTMwNDEzNTg0MCwtMTYyMDAzNzQyXX0=
 -->
