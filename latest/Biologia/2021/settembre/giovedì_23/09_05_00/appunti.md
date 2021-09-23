@@ -33,6 +33,13 @@ $HCl$
 	*	Aumenta movimenti peristaltici, quindi svuotamento gastrico
 
 * cellule mucose secernono muco per proteggere la parete
+
+---
+benesere dell'oemostasi sta nella vita quotidiana
+
+Stato _dinamico_ che richiede lavoro notevole
+
+==p. 396==
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0NzU2MDUwXX0=
+eyJoaXN0b3J5IjpbLTExNDEzNDM3NzhdfQ==
 -->
