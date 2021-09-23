@@ -48,19 +48,18 @@ Evil and Good run strong in me. I o not love the one thing, I love all $\to$ sou
 
 References to symbol a.
 
-p. 35 (how is it defined?): this damn reminder of sins abd fades
+p. 35 (how is it defined?): this damn reminder of sins and fades
 
 p. 38 (find another reference):  so naby rich mirrors 
 
-p. 46: (find another reference) several great 
-
+p. 46: (find another reference) several great pearl  and glasses
   
 
 References to symbol b.
 
-p. 40 “the shadow of himself”: what does it mean to Markheim? _________________________
+p. 40 “the shadow of himself”: what does it mean to Markheim?  he does not recognize his worst part
 
-p. 41: (find another reference):_______________________________
+p. 41: (find another reference): he glanced at the door, where shadows ...
 
   
 
@@ -145,6 +144,6 @@ p. 41: (find another reference):_______________________________
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzQ5MzExOSw2NzkwODI3NjcsNjU5MT
-gzMjI2LDIwNDg2MjI5ODBdfQ==
+eyJoaXN0b3J5IjpbNTQ1Mjc3NTcwLDY3OTA4Mjc2Nyw2NTkxOD
+MyMjYsMjA0ODYyMjk4MF19
 -->
