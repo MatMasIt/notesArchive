@@ -44,8 +44,15 @@ Rassegnati e positivi
 
 
 William Blake
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwNjg4OTI2LDMzMTUyNjk3MCwtMTc2ND
-E4ODg4NCwtMzk1MjQ3NTMsLTMwMzk0MTUyLDQ0ODA2Njk4OV19
 
+
+
+John constable
+
+
+Pittoresco: natura incontaminata
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk3NzMyMDg1MSw2MDA2ODg5MjYsMzMxNT
+I2OTcwLC0xNzY0MTg4ODg0LC0zOTUyNDc1MywtMzAzOTQxNTIs
+NDQ4MDY2OTg5XX0=
 -->
