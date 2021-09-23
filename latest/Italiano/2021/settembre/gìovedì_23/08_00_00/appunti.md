@@ -124,6 +124,12 @@ Luna, Mercurio, Venre, secondo cielo
 più di $1000$ splendori che cantano come pesci in un vivaio che raccolgono mangime dalla superfice
 
 Mille splendori 
+
+v.130
+ 
+ La luce che sfavilla e parla dice cose che vengono restituite nel seguente canto
+
+Canto VI: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjEwODI3MjYsLTE2MjAwMzc0Ml19
+eyJoaXN0b3J5IjpbLTExNzQxMjA4MjYsLTE2MjAwMzc0Ml19
 -->
