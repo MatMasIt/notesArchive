@@ -19,6 +19,10 @@ Primo mobile, tutto penetra
 Analessi : *fui io, vidi, potei*
 
 Oggi, ora (v.12)
+
+Dio: causa prima, fine ultimo
+
+teofania ltima di dio, intelletto lo processa con difficoltà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTIwNTMxNjNdfQ==
+eyJoaXN0b3J5IjpbMTc4NzI3ODEwNV19
 -->
