@@ -110,8 +110,12 @@ Dante:
 * 1900
   Neo-idealismo di _Giovanni Gentile_ e _Benedetto Croce_
 Manifesto intellettuali _filo_ e _anti_ fascisti
-s
+Nel 1902, _Croce_ scrive _"L'estetica_", in cuui ritiene che alcune composizioni poetiche italiane non sarebbe poesia in senso pieno, ma di secondo valore, incluso il _paradiso_
 
+
+
+---
+## Canto Politico $VI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzQxNzMwMSwtMTYyMDAzNzQyXX0=
+eyJoaXN0b3J5IjpbLTQ3MDQ3MTgxNCwtMTYyMDAzNzQyXX0=
 -->
