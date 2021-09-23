@@ -68,7 +68,10 @@ Fagociti raggiungono l'area interessata
 
 I fagociti
 
-febbre inibisce patog
+febbre inibisce patogeni, accellera processi di riparazione
+
+Fibrina: dentro le piastrine
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkzMjU1MzVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDk4ODcyODldfQ==
 -->
