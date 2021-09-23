@@ -78,6 +78,11 @@ Emofilia, malattia genetica ereditaria: no coagulazione del sangue
 Rischio di emorraggia interna
 
 Il pus o raggiunge la superficie e viene disperso o viene degradato
+
+
+ADH: Anti-diuretic hormone
+
+concentrazionesalina nel sangue
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzQ4MTcyMl19
+eyJoaXN0b3J5IjpbMTI0NjY3OTQwOSwtODc3NDgxNzIyXX0=
 -->
