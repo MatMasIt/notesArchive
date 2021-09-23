@@ -87,33 +87,33 @@ p. 41: (find another reference): he glanced at the door, where shadows ...
 
 ## “THE STRANGE CASE OF DR JEKYLL AND MR HYDE”  (1886 - novel) – p.110 vol. 2
 
-“It was on the moral side, and in my own person, that I learned to recognise the thorough and primitive duality of man; I saw that, of the two natures that contended in the field of my consciousness, even if I could rightly be said to be either, it was only because I was radically both”
+“It was on the moral side, and in my own person, that I learned to recognise the thorough and primitive duality of man; I saw that, of the two natures that contended in the field of my ==consciousness==, even if I could rightly be said to be either, it was only because I was radically ==both==”
 
   
 
-“If each, I told myself, could but be housed in separate identities, life would be relieved of all that was unbearable; the unjust might go his way, delivered from the aspirations and remorse of his more upright twin; and the just could walk securely on his upward path, doing the good things in which he found his pleasure, and no longer exposed to disgrace and penitence by the hands of his extraneous evil”
+“If each, I told myself, could but be housed in separate identities, life would be relieved of all that was unbearable; the unjust might go his way, delivered from the aspirations and remorse of his more upright twin; and the just could walk securely on his upward path, doing the good things in which he found his pleasure, and no longer exposed to disgrace and penitence by the hands of his ==extraneous evil==”
 
   
 
-“It was the curse of mankind that these incongruous faggots were thus bound together – that in the agonised womb of consciousness these polar twins should be continuously struggling. How, then, were they dissociated?”
+“It was the curse of mankind that these incongruous faggots were thus bound together – that in the agonised womb of ==consciousness== these polar twins should be continuously ==struggling==. How, then, were they dissociated?”
 
   
 
-“And yet when I looked upon that ugly idol in the glass, I was conscious of no repugnance, rather of a leap of welcome. This, too, was myself, it seemed natural and human.”
+==“And yet when I looked upon that ugly idol in the glass, I was conscious of no repugnance, rather of a leap of welcome. This, too, was myself, it seemed natural and human.”==
 
   
 
-“I have observed that when I wore the semblance of Edward Hyde, none could come near to me at first without a visible misgiving of the flesh. This was because all human beings, as we meet them, are commingled out of good and evil: and Edward Hyde, alone, in the ranks of mankind, was pure evil”
+“I have observed that when I wore the semblance of Edward Hyde, none could come near to me at first without a visible misgiving of the flesh. This was because all human beings, as we meet them, are commingled out of ==good and evil==: and Edward Hyde, alone, in the ranks of mankind, was pure evil”
 
   
 
-“I lingered but a moment at the mirror: the second and conclusive experiment had yet to be attempted”
+==“I lingered but a moment at the mirror: the second and conclusive experiment had yet to be attempted”==
 
   
 
 (p. 115-116 “Jekyll’s experiment”)
 
-Identities that coexist just like a
+Identities that coexist just like Markheim
   
 
 1.  Read the quotes above and Underline words or short passages that can be associated with the main theme of “Markheim” and explain why.
@@ -145,6 +145,6 @@ Identities that coexist just like a
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjI0ODM2MywxNDM2NjMxMzIwLDY3OT
-A4Mjc2Nyw2NTkxODMyMjYsMjA0ODYyMjk4MF19
+eyJoaXN0b3J5IjpbNDQwNzQ0NTY4LDE0MzY2MzEzMjAsNjc5MD
+gyNzY3LDY1OTE4MzIyNiwyMDQ4NjIyOTgwXX0=
 -->
