@@ -32,8 +32,11 @@ p. 40:
 p. 47:
 A flash of ice, a flash of fire (contrasting feelings)
 p. 48:
-At times he thought he knew him... the con
+At times he thought he knew him... the conviction that this thinga was _not of earth and neither of Gid_ $\to$ ambiguity between Markheim's sould 
+At times he is aware of his hidden side BUT most of teh time he i convinced he dows not know it
 p. 53:
+
+Evil and Good run strong in me. I o 
 
   
   
@@ -142,6 +145,6 @@ p. 41: (find another reference):_______________________________
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTQzOTE4NCw2NzkwODI3NjcsNjU5MT
+eyJoaXN0b3J5IjpbMjExNTgzNDY5OSw2NzkwODI3NjcsNjU5MT
 gzMjI2LDIwNDg2MjI5ODBdfQ==
 -->
