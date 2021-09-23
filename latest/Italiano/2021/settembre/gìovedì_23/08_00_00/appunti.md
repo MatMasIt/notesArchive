@@ -50,7 +50,10 @@ Si ricorre a Glauco (Ovidio, mitologia) per illustrare
 ---
 _Ineffabilità, incapacità di dire_
 
-armonia delle rote celesti spiegabili adducedo la teoria pitagorica dei suoni delle sfere celesti, egli probabilme
+armonia delle rote celesti spiegabili adducedo la teoria pitagorica dei suoni delle sfere celesti, Dante probabilmente lesse in Cicerone, _sommus scipionis_, parte del _De Republica_
+
+Si interroga 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTUyMzc2ODldfQ==
+eyJoaXN0b3J5IjpbLTg1MjA3NjI2M119
 -->
