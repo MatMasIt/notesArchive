@@ -29,7 +29,9 @@ Artista è un genio
 
 William
 Blake
+
+scuola da incisore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc2MjA4MDYsLTE3NjQxODg4ODQsLT
-M5NTI0NzUzLC0zMDM5NDE1Miw0NDgwNjY5ODldfQ==
+eyJoaXN0b3J5IjpbMzMxNTI2OTcwLC0xNzY0MTg4ODg0LC0zOT
+UyNDc1MywtMzAzOTQxNTIsNDQ4MDY2OTg5XX0=
 -->
