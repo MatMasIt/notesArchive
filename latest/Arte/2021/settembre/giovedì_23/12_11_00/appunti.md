@@ -6,7 +6,11 @@ Romanticismo inizia prima in nord Europa
 Il capitolo arrriva fino a p 943
 
 
-Borghesia non apprezza antichità, la vedono come una cosa da supe
+Borghesia non apprezza antichità, la vedono come una cosa da superare
+
+Vedono nel progresso grande capacità di emanciparsi
+
+Non più interessata a modelli valoriali antichi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDI3NTEwMSw0NDgwNjY5ODldfQ==
+eyJoaXN0b3J5IjpbMTc1OTI1NjYyMiw0NDgwNjY5ODldfQ==
 -->
