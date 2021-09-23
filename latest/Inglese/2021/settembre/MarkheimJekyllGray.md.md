@@ -75,7 +75,7 @@ p. 41: (find another reference): he glanced at the door, where shadows ...
   
 
 -   Who/ what do you think the mysterious visitor is? Discuss with your mates.
-    
+    Markheim's consciece
 
   
 
@@ -144,6 +144,6 @@ p. 41: (find another reference): he glanced at the door, where shadows ...
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1Mjc3NTcwLDY3OTA4Mjc2Nyw2NTkxOD
-MyMjYsMjA0ODYyMjk4MF19
+eyJoaXN0b3J5IjpbMTQzNjYzMTMyMCw2NzkwODI3NjcsNjU5MT
+gzMjI2LDIwNDg2MjI5ODBdfQ==
 -->
