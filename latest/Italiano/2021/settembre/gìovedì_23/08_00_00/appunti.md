@@ -121,8 +121,9 @@ p.628
 
 Luna, Mercurio, Venre, secondo cielo
 
-più di $1000$ splendori che cantano 
+più di $1000$ splendori che cantano come pesci in un vivaio che raccolgono mangime dalla superfice
 
+Mille splendori 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDk4Mjg0OTgsLTE2MjAwMzc0Ml19
+eyJoaXN0b3J5IjpbLTE0MjEwODI3MjYsLTE2MjAwMzc0Ml19
 -->
