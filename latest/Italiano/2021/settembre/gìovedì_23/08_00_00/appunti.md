@@ -84,9 +84,13 @@ terzina v 4-126
 
 fuoco: tende a salire
 
+v.139
+
 Ci sarebbe anzi da meravigliarsi se sarebbe rimasto nel purgatorio quando epurato
 
 Peccato: eccezione, che è prevista
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAwMzc0Ml19
+eyJoaXN0b3J5IjpbMTU0Nzg3NzYxNywtMTYyMDAzNzQyXX0=
 -->
