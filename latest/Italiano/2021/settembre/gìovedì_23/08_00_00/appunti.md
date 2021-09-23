@@ -46,6 +46,11 @@ _àpax legòmenon_
 Costruiti neologismi con prefisso "in" per assenza di parole
 
 Si ricorre a Glauco (Ovidio, mitologia) per illustrare
+
+---
+_Ineffabilità, incapacità di dire_
+
+armonia delle rote celesti spiegabili adducedo la teoria pitagorica dei suoni delle sfere celesti, egli probabilme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTYwNDU0ODZdfQ==
+eyJoaXN0b3J5IjpbLTExOTUyMzc2ODldfQ==
 -->
