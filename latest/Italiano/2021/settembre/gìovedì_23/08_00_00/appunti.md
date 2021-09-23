@@ -156,7 +156,17 @@ Centro del campo: giustizia
 
 _Corpus Iuris Civilis Iustinianei_
 
-Gi ha creduto al monofisismo
+Giustinianeo ha creduto al monofisismo
+
+Solo natura divina
+
+(Dante si inventa cose)
+
+
+Scarsa presenza dimensione storica, errori, sbanadature
+
+Classico di uomini del medioevo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAyMzY1MjIsLTE2MjAwMzc0Ml19
+eyJoaXN0b3J5IjpbNzE1MzAxMDI4LC0xNjIwMDM3NDJdfQ==
 -->
