@@ -36,7 +36,9 @@ Mezzogiorno
 
 Beatrice guarda fisso il sole
 
+Muto linguaggio di sguardi tra Dante e Beatrice
 
+Fe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTE4OTg1NF19
+eyJoaXN0b3J5IjpbLTEzMDExMzYyMTldfQ==
 -->
