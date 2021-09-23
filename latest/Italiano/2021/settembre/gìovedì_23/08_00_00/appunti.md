@@ -81,6 +81,12 @@ naturalmente inclini (v.109) verso porti figurati (v.112) attraverso il figurato
 
 
 terzina v 4-126
+
+fuoco: tende a salire
+
+Ci sarebbe anzi da meravigliarsi se sarebbe rimasto nel purgatorio quando epurato
+
+Peccato: eccezione, che è prevista
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU1Njc2NzldfQ==
+eyJoaXN0b3J5IjpbLTE2MjAwMzc0Ml19
 -->
