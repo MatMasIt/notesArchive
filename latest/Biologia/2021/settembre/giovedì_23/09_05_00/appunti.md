@@ -61,8 +61,14 @@ p.485
 Dolore è un sintomo importante
 
 Mastociti rilasciano istamina (difesa immunitaria ==aspecifica==)
-Isstamina:
-* d
+Istamina:
+* dilatazione e aumento permeabilità vasi sanguigni nel tessuto danneggiato che si arrossa e si riscalta
+
+Fagociti raggiungono l'area interessata
+
+I fagociti
+
+febbre inibisce patog
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzA3Nzk1OV19
+eyJoaXN0b3J5IjpbLTEzMzkzMjU1MzVdfQ==
 -->
