@@ -32,6 +32,11 @@ p. 592
 
 v. 37 Ampia indicazione astronomica
 
+Mezzogiorno
+
+Beatrice guarda fisso il sole
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mjk0Mjg3OF19
+eyJoaXN0b3J5IjpbMTE3NTE4OTg1NF19
 -->
