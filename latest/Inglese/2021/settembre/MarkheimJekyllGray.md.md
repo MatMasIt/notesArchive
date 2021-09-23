@@ -27,7 +27,8 @@ Find references in the text (juxtaposition/coexistence of opposite terms/feeling
 p. 36: “Many different emotions were depicted together on his face – terror, horror, and resolve, fascination and a physical repulsion”
 
 p. 40:
-
+	line 3-4 
+	Onw poertion of his mind was alert and cunning, another trembled on the brink of lunacy
 p. 47:
 
 p. 48:
@@ -141,6 +142,6 @@ p. 41: (find another reference):_______________________________
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5MDgyNzY3LDY1OTE4MzIyNiwyMDQ4Nj
-IyOTgwXX0=
+eyJoaXN0b3J5IjpbLTE5NDgwNjU5MzcsNjc5MDgyNzY3LDY1OT
+E4MzIyNiwyMDQ4NjIyOTgwXX0=
 -->
