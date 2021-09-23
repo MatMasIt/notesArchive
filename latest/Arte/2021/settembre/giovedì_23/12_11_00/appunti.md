@@ -21,8 +21,8 @@ tutto per la partia
 
 anche la vita per la patria
 
-
+Bisogna prvare qualcosa! 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDUzOTA1ODYsLTMwMzk0MTUyLDQ0OD
-A2Njk4OV19
+eyJoaXN0b3J5IjpbLTM5NTI0NzUzLC0zMDM5NDE1Miw0NDgwNj
+Y5ODldfQ==
 -->
