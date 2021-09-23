@@ -54,8 +54,9 @@ p. 38 (find another reference):  In many rich mirrors  [3rd paragraph, 3rd sente
 
 Face repeated: multiple personality
 
-p. 46: (find another reference) several great pearl  and glasses
-  
+p. 46: (find another reference) several great pier-glasses in which he beheld himself at various angles
+
+
 
 References to symbol b.
 
@@ -147,6 +148,6 @@ Identities that coexist just like Markheim
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Mjk1NTE0OCwxNDM2NjMxMzIwLDY3OT
-A4Mjc2Nyw2NTkxODMyMjYsMjA0ODYyMjk4MF19
+eyJoaXN0b3J5IjpbLTE1ODI2MjY2NzUsMTQzNjYzMTMyMCw2Nz
+kwODI3NjcsNjU5MTgzMjI2LDIwNDg2MjI5ODBdfQ==
 -->
