@@ -150,6 +150,13 @@ Giustiniano, fu Cesare
 Chiasmo v 10
 
 > Cesare fui, e son giustiniano
+
+Centro del campo: giustizia
+
+
+_Corpus Iuris Civilis Iustinianei_
+
+Gi ha creduto al monofisismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDY4MTA4OSwtMTYyMDAzNzQyXX0=
+eyJoaXN0b3J5IjpbLTE4NTAyMzY1MjIsLTE2MjAwMzc0Ml19
 -->
