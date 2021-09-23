@@ -115,7 +115,10 @@ Nel 1902, _Croce_ scrive _"L'estetica_", in cuui ritiene che alcune composizioni
 
 
 ---
-## Canto Politico $VI
+## Canto Politico $\text{VI}$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDQ3MTgxNCwtMTYyMDAzNzQyXX0=
+eyJoaXN0b3J5IjpbLTE4NzY5MDk4NzksLTE2MjAwMzc0Ml19
 -->
