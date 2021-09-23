@@ -38,7 +38,7 @@ Beatrice guarda fisso il sole
 
 Muto linguaggio di sguardi tra Dante e Beatrice
 
-Fe
+Beatrice fissa le eterne rote e Dante fissa le "luci" (gli occhi) a lei
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDExMzYyMTldfQ==
+eyJoaXN0b3J5IjpbLTE4NTk1MzQ5MjRdfQ==
 -->
