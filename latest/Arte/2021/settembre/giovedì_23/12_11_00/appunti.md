@@ -3,7 +3,10 @@
 
 p. 924
 Romanticismo inizia prima in nord Europa
+Il capitolo arrriva fino a p 943
 
+
+Borghesia non apprezza antichità, la vedono come una cosa da supe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4MDY2OTg5XX0=
+eyJoaXN0b3J5IjpbMTg1MDI3NTEwMSw0NDgwNjY5ODldfQ==
 -->
