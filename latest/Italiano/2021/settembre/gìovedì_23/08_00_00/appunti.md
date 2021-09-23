@@ -131,7 +131,11 @@ v.130
 
 Canto VI: parla solo Giustiniano
 
+Invettiva consto la decadenza della istituzione-universale: impero
 
+Lungo _excursus_ storico
+
+(Inizia con _
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODIzNDU4NSwtMTYyMDAzNzQyXX0=
+eyJoaXN0b3J5IjpbNzkxOTcyMTQwLC0xNjIwMDM3NDJdfQ==
 -->
