@@ -25,7 +25,10 @@ Forma inattiva
 (forte, monoprotico, disinfetta)
 $pH_{gastrico}\approx 2$
 fortemente acido
-aC
+Acidità eccessiva può causare ulcere gastriche, stillicidio, forte dolore gastrico
+Psicoomatico, controllato dal sistema nervoso autonomo, spesso stress causa iper-secrezione
+	*	Pepsinogeno $\to$ pepsina cloridrato
+	*	Aumenta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjYxOTI4MzJdfQ==
+eyJoaXN0b3J5IjpbMTI4NjgyMDNdfQ==
 -->
