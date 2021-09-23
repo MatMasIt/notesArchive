@@ -95,6 +95,12 @@ v.131 è possibile che la creatura pieghi la traettoria dell'arco, l'inclinazion
 Libertà di errare
 
 Traviamento
+
+
+Forma non nell'intenzione dell'artista
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMjA1NzUzLC0xNjIwMDM3NDJdfQ==
+eyJoaXN0b3J5IjpbLTEzNDA0MzExOCwtMTYyMDAzNzQyXX0=
 -->
