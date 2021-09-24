@@ -19,6 +19,7 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/styles/default.min.css">
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/highlight.min.js"></script>
+    <script src="delegate.js"></script>
     <style>
         body {
             font-family: 'cmu_serifroman', Arial, sans-serif;
@@ -31,6 +32,9 @@
                 display: none !important;
             }
         }
+      img{
+        max-width:21cm;
+      }
     </style>
     <script>
         marked.setOptions({
@@ -99,6 +103,9 @@
 </body>
 <script>
     document.getElementById("docstory").setAttribute("href", "https://github.com/MatMasIt/notesArchive/blame/main/" + c);
+    delegate('img', (element) => {
+      location.href=element.getAttribute();
+     })
 </script>
 
 </html>
