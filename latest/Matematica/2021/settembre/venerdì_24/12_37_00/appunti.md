@@ -24,13 +24,19 @@ $$
 $$
 y=(\sin x)^x
 $$
+
+---
 è come 
 $$
 \left[f\left(x\right)\right]^{\left[g\left(x\right)\right]}\implies e^{{\ln \left[f\left(x\right)\right]}^{g\left(x\right)}}
 $$
 
+--
 $$
+y=e^{x\ln(\sin(x))}
 $$
+
+-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzE1NjgwOSwxMzQ1NzgyNDc4XX0=
+eyJoaXN0b3J5IjpbMTU1MjA0NzQ1MiwxMzQ1NzgyNDc4XX0=
 -->
