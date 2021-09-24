@@ -63,7 +63,11 @@ Galleria Vittori Emanuele IIa Milano
 spazi pubblici anche usufruibili d'verno
 
 Bufera di neve: espediente, passaggio di Annibale
+
+
+Turner presentato a Roma nell'accademia di San Luca a Canova
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjAwOTI2OCwzMDA0MjQwNDksLTE1NT
-QwOTU4NjIsLTEyODAyMTcxMDcsLTU0NDQwODkxNV19
+eyJoaXN0b3J5IjpbMTI2MzY4Mjc0LDExMjYwMDkyNjgsMzAwND
+I0MDQ5LC0xNTU0MDk1ODYyLC0xMjgwMjE3MTA3LC01NDQ0MDg5
+MTVdfQ==
 -->
