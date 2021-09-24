@@ -26,8 +26,11 @@ y=(\sin x)^x
 $$
 è come 
 $$
-\left[f(x)\right]
+\left[f\left(x\right)\right]^{\left[g\left(x\right)\right]}\implies e^{{\ln \left[f\left(x\right)\right]}^{g\left(x\right)}}
+$$
+
+$$
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4OTc4NjMyLDEzNDU3ODI0NzhdfQ==
+eyJoaXN0b3J5IjpbLTU2NzE1NjgwOSwxMzQ1NzgyNDc4XX0=
 -->
