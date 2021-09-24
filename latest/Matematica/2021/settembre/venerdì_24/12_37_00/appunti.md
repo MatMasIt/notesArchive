@@ -12,8 +12,10 @@ $$
 ### 348
 $$
 y=\ln^2x-3\ln x^2\\
-\dot{y}=2\ln (x) \frac1x  -3 \frac{1}{x^2}\co
+\dot{y}=2\ln (x) \frac1x  -3 \frac{1}{x^{\cancel 2}}\cdot 2 \cancel x=\\
+\frac{2\ln x}{x}-\frac{6}{x}
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NTQ2OTE2XX0=
+eyJoaXN0b3J5IjpbMTM0NTc4MjQ3OF19
 -->
