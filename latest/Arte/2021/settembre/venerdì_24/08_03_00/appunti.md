@@ -28,8 +28,11 @@ Turner
 Titoli: sottotitoli descrittivi
 
 
-Architettura: si mescolano t
+Architettura: si mescolano tutti gli stili
+eclettismoo
+
+"sala cinese" in tutti i palazzi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODQ0NzMzMiwtMTI4MDIxNzEwNywtNT
-Q0NDA4OTE1XX0=
+eyJoaXN0b3J5IjpbLTE1NTQwOTU4NjIsLTEyODAyMTcxMDcsLT
+U0NDQwODkxNV19
 -->
