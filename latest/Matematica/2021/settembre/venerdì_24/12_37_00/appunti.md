@@ -23,8 +23,11 @@ $$
 
 $$
 y=(\sin x)^x
-
+$$
+è come 
+$$
+\left[f(x)\right]
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjgxMjg2LDEzNDU3ODI0NzhdfQ==
+eyJoaXN0b3J5IjpbODg4OTc4NjMyLDEzNDU3ODI0NzhdfQ==
 -->
