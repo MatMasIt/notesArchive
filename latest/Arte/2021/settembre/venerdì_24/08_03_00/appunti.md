@@ -32,7 +32,9 @@ Architettura: si mescolano tutti gli stili
 eclettismoo
 
 "sala cinese" in tutti i palazzi
+
+Turner muore l'anno di costruzione di Crystal Palace ( prima esposizione universale)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQwOTU4NjIsLTEyODAyMTcxMDcsLT
-U0NDQwODkxNV19
+eyJoaXN0b3J5IjpbLTE0MDI0Nzk4NjAsLTE1NTQwOTU4NjIsLT
+EyODAyMTcxMDcsLTU0NDQwODkxNV19
 -->
