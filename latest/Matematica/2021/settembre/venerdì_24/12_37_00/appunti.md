@@ -34,9 +34,9 @@ $$
 --
 $$
 \dot{y}=e^{x\ln(\sin(x))}\\
-\dot {y}=e^{x\ln (\sin x)}\left[\ln(\sin x)+ x\frac1{\sin x}\cos x}
+\dot {y}=e^{x\ln (\sin x)}\left[\ln(\sin x)+ x\frac1{\sin x}\cos x\right]
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzcwMjYzOCwxMzQ1NzgyNDc4XX0=
+eyJoaXN0b3J5IjpbMjA5NDg0MTg4NCwxMzQ1NzgyNDc4XX0=
 -->
