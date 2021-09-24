@@ -60,7 +60,7 @@ Galleria Mazzini a Genova
 
 Galleria Vittori Emanuele IIa Milano
 
-spazi pubblici anche usufruibili d'verno
+spazi pubblici anche usufruibili d'inverno
 
 Bufera di neve: espediente, passaggio di Annibale
 
@@ -72,7 +72,7 @@ Acquereli di Roma
 turner si inventa imbarcazioni
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzg3NjkyMiwxMDE4MjkxMzEsMTEyNj
-AwOTI2OCwzMDA0MjQwNDksLTE1NTQwOTU4NjIsLTEyODAyMTcx
-MDcsLTU0NDQwODkxNV19
+eyJoaXN0b3J5IjpbLTEwNTMzMzM0MDksMTUyMzg3NjkyMiwxMD
+E4MjkxMzEsMTEyNjAwOTI2OCwzMDA0MjQwNDksLTE1NTQwOTU4
+NjIsLTEyODAyMTcxMDcsLTU0NDQwODkxNV19
 -->
