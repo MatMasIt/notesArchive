@@ -9,6 +9,9 @@ y=\sin(\ln x)\\
 \dot{y}=\cos(\ln x)\cdot \frac1x=\\\frac{\cos(\ln x)}{x}
 $$
 
+HEREST
+
+
 ### 348
 $$
 y=\ln^2x-3\ln x^2\\
@@ -16,6 +19,12 @@ y=\ln^2x-3\ln x^2\\
 \frac{2\ln x}{x}-\frac{6}{x}
 $$
 
+### 409 
+
+$$
+y=(\sin x)^x
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTc4MjQ3OF19
+eyJoaXN0b3J5IjpbLTQ4MjgxMjg2LDEzNDU3ODI0NzhdfQ==
 -->
