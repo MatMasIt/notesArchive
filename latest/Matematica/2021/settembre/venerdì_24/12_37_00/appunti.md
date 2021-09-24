@@ -9,7 +9,7 @@ y=\sin(\ln x)\\
 \dot{y}=\cos(\ln x)\cdot \frac1x=\\\frac{\cos(\ln x)}{x}
 $$
 
-HEREST
+![](https://i.imgur.com/hBJzQeL.jpg)
 
 
 ### 348
@@ -38,5 +38,5 @@ $$
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDg0MTg4NCwxMzQ1NzgyNDc4XX0=
+eyJoaXN0b3J5IjpbOTM2MDc3OTY4LDEzNDU3ODI0NzhdfQ==
 -->
