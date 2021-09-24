@@ -49,7 +49,16 @@ doveva essere smontata in 2 anni
 ma poi tenuta come simbolo
 
 
+Di vetro 
+
+Galleria Umberto I a Napoli
+
+Galleria Sordi a Roma
+
+
+Galleria Mazzini a Genova
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3NjI4NjA1LC0xNTU0MDk1ODYyLC0xMj
-gwMjE3MTA3LC01NDQ0MDg5MTVdfQ==
+eyJoaXN0b3J5IjpbMTkzNjIwNDY4OCwtMTU1NDA5NTg2MiwtMT
+I4MDIxNzEwNywtNTQ0NDA4OTE1XX0=
 -->
