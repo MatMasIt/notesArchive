@@ -61,7 +61,9 @@ Galleria Mazzini a Genova
 Galleria Vittori Emanuele IIa Milano
 
 spazi pubblici anche usufruibili d'verno
+
+Bufera di neve: espediente, passaggio di Annibale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwNDI0MDQ5LC0xNTU0MDk1ODYyLC0xMj
-gwMjE3MTA3LC01NDQ0MDg5MTVdfQ==
+eyJoaXN0b3J5IjpbMTEyNjAwOTI2OCwzMDA0MjQwNDksLTE1NT
+QwOTU4NjIsLTEyODAyMTcxMDcsLTU0NDQwODkxNV19
 -->
