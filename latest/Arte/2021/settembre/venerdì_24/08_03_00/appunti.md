@@ -58,7 +58,10 @@ Galleria Sordi a Roma
 
 Galleria Mazzini a Genova
 
+Galleria Vittori Emanuele IIa Milano
+
+spazi pubblici anche usufruibili d'verno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjIwNDY4OCwtMTU1NDA5NTg2MiwtMT
-I4MDIxNzEwNywtNTQ0NDA4OTE1XX0=
+eyJoaXN0b3J5IjpbMzAwNDI0MDQ5LC0xNTU0MDk1ODYyLC0xMj
+gwMjE3MTA3LC01NDQ0MDg5MTVdfQ==
 -->
