@@ -34,7 +34,14 @@ eclettismoo
 "sala cinese" in tutti i palazzi
 
 Turner muore l'anno di costruzione di Crystal Palace ( prima esposizione universale)
+
+Serra enorme di ghisa, ferro e vetro
+
+
+
+Tourre eifell vostruita a Parigi
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI0Nzk4NjAsLTE1NTQwOTU4NjIsLT
-EyODAyMTcxMDcsLTU0NDQwODkxNV19
+eyJoaXN0b3J5IjpbNjg4MTA2NjQ5LC0xNTU0MDk1ODYyLC0xMj
+gwMjE3MTA3LC01NDQ0MDg5MTVdfQ==
 -->
