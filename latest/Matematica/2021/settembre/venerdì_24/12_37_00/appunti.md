@@ -3,11 +3,17 @@
 
 ### Parzialmente indicizzabile
 
+### 344
+$$
+y=\sin(\ln x)\\
+\dot{y}=\cos(\ln x)\cdot \frac1x
+$$
 
 ### 348
 $$
-y=\ln^2x
+y=\ln^2x-3\ln x^2\\
+\dot{y}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTA0NzY1Ml19
+eyJoaXN0b3J5IjpbMTk3Mzg3NTM0N119
 -->
