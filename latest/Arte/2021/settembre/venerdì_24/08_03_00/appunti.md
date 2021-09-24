@@ -18,8 +18,13 @@ William turner, entra nella Royal Academy di Londra
 Jhon Constable: grand tour dell'antichità
 tappa fondamentale
 
-campagne napoleoniche hanno bloccato i Grand Tour, che ripartono dopo 
+campagne napoleoniche hanno bloccato i Grand Tour, che ripartono dopo il congresso di Vienna
+
+
+Tutti venivano in italia: veneziq, Firenze, Roma, Napoli
+
+alcuni andavano poi in grecia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIzNjI0MTIsLTEyODAyMTcxMDcsLT
-U0NDQwODkxNV19
+eyJoaXN0b3J5IjpbLTQwNTA4MTk2NiwtMTI4MDIxNzEwNywtNT
+Q0NDA4OTE1XX0=
 -->
