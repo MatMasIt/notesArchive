@@ -37,11 +37,17 @@ Turner muore l'anno di costruzione di Crystal Palace ( prima esposizione univers
 
 Serra enorme di ghisa, ferro e vetro
 
+Crystal palace poi demolito
 
+Tourre eifell costruita a Parigi per expo
 
-Tourre eifell vostruita a Parigi
+18°000 pezzi
+324 m
+
+doveva essere smontata in 2 anni
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4MTA2NjQ5LC0xNTU0MDk1ODYyLC0xMj
-gwMjE3MTA3LC01NDQ0MDg5MTVdfQ==
+eyJoaXN0b3J5IjpbLTU3MjUzNTA2NywtMTU1NDA5NTg2MiwtMT
+I4MDIxNzEwNywtNTQ0NDA4OTE1XX0=
 -->
