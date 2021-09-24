@@ -5,7 +5,6 @@
 
 ![](https://i.imgur.com/htU2Vbw.jpg)
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTI1MjM5MCwyNDA1MTQ3NDldfQ==
+eyJoaXN0b3J5IjpbMzIxODM0ODcyLDI0MDUxNDc0OV19
 -->
