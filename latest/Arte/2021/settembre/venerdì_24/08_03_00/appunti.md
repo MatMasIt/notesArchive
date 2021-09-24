@@ -68,8 +68,11 @@ Bufera di neve: espediente, passaggio di Annibale
 Turner presentato a Roma nell'accademia di San Luca a Canova
 
 Acquereli di Roma
+
+turner si inventa imbarcazioni
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODI5MTMxLDExMjYwMDkyNjgsMzAwND
-I0MDQ5LC0xNTU0MDk1ODYyLC0xMjgwMjE3MTA3LC01NDQ0MDg5
-MTVdfQ==
+eyJoaXN0b3J5IjpbMTUyMzg3NjkyMiwxMDE4MjkxMzEsMTEyNj
+AwOTI2OCwzMDA0MjQwNDksLTE1NTQwOTU4NjIsLTEyODAyMTcx
+MDcsLTU0NDQwODkxNV19
 -->
