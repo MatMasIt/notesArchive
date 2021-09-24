@@ -46,8 +46,10 @@ Tourre eifell costruita a Parigi per expo
 
 doveva essere smontata in 2 anni
 
+ma poi tenuta come simbolo
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjUzNTA2NywtMTU1NDA5NTg2MiwtMT
-I4MDIxNzEwNywtNTQ0NDA4OTE1XX0=
+eyJoaXN0b3J5IjpbNjM3NjI4NjA1LC0xNTU0MDk1ODYyLC0xMj
+gwMjE3MTA3LC01NDQ0MDg5MTVdfQ==
 -->
