@@ -21,10 +21,15 @@ tappa fondamentale
 campagne napoleoniche hanno bloccato i Grand Tour, che ripartono dopo il congresso di Vienna
 
 
-Tutti venivano in italia: veneziq, Firenze, Roma, Napoli
+Tutti venivano in italia: venezia, Firenze, Roma, Napoli
 
 alcuni andavano poi in grecia
+Turner
+Titoli: sottotitoli descrittivi
+
+
+Architettura: si mescolano t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTA4MTk2NiwtMTI4MDIxNzEwNywtNT
+eyJoaXN0b3J5IjpbLTc4ODQ0NzMzMiwtMTI4MDIxNzEwNywtNT
 Q0NDA4OTE1XX0=
 -->
