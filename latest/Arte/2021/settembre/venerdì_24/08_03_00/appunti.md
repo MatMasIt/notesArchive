@@ -66,8 +66,10 @@ Bufera di neve: espediente, passaggio di Annibale
 
 
 Turner presentato a Roma nell'accademia di San Luca a Canova
+
+Acquereli di Roma
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzY4Mjc0LDExMjYwMDkyNjgsMzAwND
+eyJoaXN0b3J5IjpbMTAxODI5MTMxLDExMjYwMDkyNjgsMzAwND
 I0MDQ5LC0xNTU0MDk1ODYyLC0xMjgwMjE3MTA3LC01NDQ0MDg5
 MTVdfQ==
 -->
