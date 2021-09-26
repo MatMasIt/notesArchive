@@ -831,34 +831,6 @@
                         ]
                     }
                 },
-                "settembre": {
-                    "venerd\u00ec_24": {
-                        "12_37_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_14": {
-                        "08_32_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "gioved\u00ec_16": {
-                        "compiti": [
-                            "appunti.md"
-                        ],
-                        "10_09_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_20": {
-                        "10_06_00": [
-                            "appunti.md"
-                        ],
-                        "compiti": [
-                            "compiti.md"
-                        ]
-                    }
-                },
                 "giugno": {
                     "venerd\u00ec_04": {
                         "08_02_00": [
@@ -886,6 +858,37 @@
                         ],
                         "compiti": [
                             "file.md"
+                        ]
+                    }
+                },
+                "settembre": {
+                    "marted\u00ec_14": {
+                        "08_32_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_24": {
+                        "12_37_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_27": [
+                        "compiti.md"
+                    ],
+                    "gioved\u00ec_16": {
+                        "compiti": [
+                            "appunti.md"
+                        ],
+                        "10_09_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_20": {
+                        "10_06_00": [
+                            "appunti.md"
+                        ],
+                        "compiti": [
+                            "compiti.md"
                         ]
                     }
                 }
@@ -1936,8 +1939,8 @@
         }
     ],
     "lastUpdate": {
-        "unix": 1632673784,
-        "human": "26\/09\/2021 16:29:44",
+        "unix": 1632675575,
+        "human": "26\/09\/2021 16:59:35",
         "timezone": "UTC"
     }
 }
