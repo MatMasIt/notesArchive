@@ -1,6 +1,6 @@
 # Compiti di Matematica
 
-## Lunedì 26 settembre 2021ì
+## Lunedì 27 settembre 2021
 
 #### Non indicizzabile
 
@@ -10,6 +10,6 @@
 ![](https://i.imgur.com/J6ciLzE.jpg)
 ![](https://i.imgur.com/3SeHOQg.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzAzNDI2MCwtNjkxNjc0NzU1LC0zNz
+eyJoaXN0b3J5IjpbMTc2NjEwNjgzNSwtNjkxNjc0NzU1LC0zNz
 E1MjM2OTEsMjM0MTIzNDA1XX0=
 -->
