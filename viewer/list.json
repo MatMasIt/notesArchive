@@ -1738,16 +1738,19 @@
                     }
                 },
                 "settembre": {
+                    "venerd\u00ec_24": {
+                        "10_00_00": [
+                            "appunti.md"
+                        ]
+                    },
                     "mercoled\u00ec_15": {
                         "10_05_00": [
                             "appunti.md"
                         ]
                     },
-                    "venerd\u00ec_24": {
-                        "10_00_00": [
-                            "appunti.md"
-                        ]
-                    }
+                    "luned\u00ec_27": [
+                        "compiti.md"
+                    ]
                 },
                 "aprile": {
                     "venerd\u00ec_30": {
@@ -1939,8 +1942,8 @@
         }
     ],
     "lastUpdate": {
-        "unix": 1632675575,
-        "human": "26\/09\/2021 16:59:35",
+        "unix": 1632677087,
+        "human": "26\/09\/2021 17:24:47",
         "timezone": "UTC"
     }
 }
