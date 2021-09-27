@@ -90,7 +90,7 @@ p. 41: (find another reference): he glanced at the door, where shadows ...
 
 ## “THE STRANGE CASE OF DR JEKYLL AND MR HYDE”  (1886 - novel) – p.110 vol. 2
 
-“It was on the moral side, and in my own person, that I learned to recognise the thorough and primitive duality of man; I saw that, of the two natures that contended in the field of my ==consciousness==, even if I could rightly be said to be either, it was only because I was radically ==both==”
+“It was on the moral side, and in my own person, that I learned to recognise the thorough and primitive ==duality== of man; I saw that, of the two natures that contended in the field of my ==consciousness==, even if I could rightly be said to be either, it was only because I was radically ==both==”
 
   
 
@@ -148,6 +148,7 @@ Identities that coexist just like Markheim
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODI2MjY2NzUsMTQzNjYzMTMyMCw2Nz
-kwODI3NjcsNjU5MTgzMjI2LDIwNDg2MjI5ODBdfQ==
+eyJoaXN0b3J5IjpbODE3MTYyMzgxLC0xNTgyNjI2Njc1LDE0Mz
+Y2MzEzMjAsNjc5MDgyNzY3LDY1OTE4MzIyNiwyMDQ4NjIyOTgw
+XX0=
 -->
