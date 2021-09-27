@@ -37,8 +37,12 @@ Secondo Kant qualunque tentativo in quel senso è destinato a fallire
 
 Secondo Kant occorre entrare in contatto con il materiale empirico
 
+Non come Cartesio
 
+Ragione pura non basta
+
+non c'è conoscenza che prescinda dall'esperienza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTY1NTMwMiwtMTQxNTkzMTIwMCwxNz
-QxMTgwNTk2XX0=
+eyJoaXN0b3J5IjpbMTU3NDE1MDYzLC0xNDE1OTMxMjAwLDE3ND
+ExODA1OTZdfQ==
 -->
