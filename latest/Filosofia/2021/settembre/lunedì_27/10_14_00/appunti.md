@@ -50,8 +50,10 @@ Dottrina degli elementi , del metodo
 
 Logica trascendentale si occupa sia dell'intelletto che della ragine in senso stretto
 
-Analitica trascendel
+Analitica trascendentale: intelletto
+
+10b.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzEwNzAyOSwtMTQxNTkzMTIwMCwxNz
-QxMTgwNTk2XX0=
+eyJoaXN0b3J5IjpbLTEzOTIzOTc3MzYsLTE0MTU5MzEyMDAsMT
+c0MTE4MDU5Nl19
 -->
