@@ -58,8 +58,10 @@ Analitica trascendentale: intelletto
 sensibilità: facoltà di essere modificati dall'esterno attraverso sensazioni
 
 
-La sensibil
+La sensibilità è immediata e intuitiva, non discorsiva
+
+Materiale empirico immediatamente collocato in spazio e tempo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODkxMDgzMiwtMTQxNTkzMTIwMCwxNz
+eyJoaXN0b3J5IjpbMTQxNTY1NDQzMSwtMTQxNTkzMTIwMCwxNz
 QxMTgwNTk2XX0=
 -->
