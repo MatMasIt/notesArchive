@@ -98,7 +98,7 @@ p. 41: (find another reference): he glanced at the door, where shadows ...
 
   
 
-“It was the curse of mankind that these incongruous faggots were thus bound together – that in the agonised womb of ==consciousness== these polar twins should be continuously ==struggling==. How, then, were they dissociated?”
+“It was the curse of mankind that these incongruous faggots were thus bound together – that in the agonised womb of ==consciousness== these ==polar twins== should be continuously ==struggling==. How, then, were they dissociated?”
 
   
 
@@ -148,7 +148,7 @@ Identities that coexist just like Markheim
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMjI2MDYxLDgxNzE2MjM4MSwtMTU4Mj
-YyNjY3NSwxNDM2NjMxMzIwLDY3OTA4Mjc2Nyw2NTkxODMyMjYs
-MjA0ODYyMjk4MF19
+eyJoaXN0b3J5IjpbLTQ2MjYxNzEzOSw5NTAyMjYwNjEsODE3MT
+YyMzgxLC0xNTgyNjI2Njc1LDE0MzY2MzEzMjAsNjc5MDgyNzY3
+LDY1OTE4MzIyNiwyMDQ4NjIyOTgwXX0=
 -->
