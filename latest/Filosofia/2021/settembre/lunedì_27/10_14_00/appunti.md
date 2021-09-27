@@ -64,7 +64,10 @@ Materiale empirico immediatamente collocato in spazio e tempo in modo contiguo i
 
 
 Spazio e tempo: strutture che consentono giudizi sintetici a priori di geometria e matematica
+
+matematica: tempo
+geometria: spazio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTI2NjU5NDAsLTE0MTU5MzEyMDAsMT
-c0MTE4MDU5Nl19
+eyJoaXN0b3J5IjpbMTc1MDEzMTIzNCwtMTQxNTkzMTIwMCwxNz
+QxMTgwNTk2XX0=
 -->
