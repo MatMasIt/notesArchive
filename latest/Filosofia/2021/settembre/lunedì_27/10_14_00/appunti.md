@@ -53,7 +53,13 @@ Logica trascendentale si occupa sia dell'intelletto che della ragine in senso st
 Analitica trascendentale: intelletto
 
 10b.
+
+
+sensibilità: facoltà di essere modificati dall'esterno attraverso sensazioni
+
+
+La sensibil
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIzOTc3MzYsLTE0MTU5MzEyMDAsMT
-c0MTE4MDU5Nl19
+eyJoaXN0b3J5IjpbMTUxODkxMDgzMiwtMTQxNTkzMTIwMCwxNz
+QxMTgwNTk2XX0=
 -->
