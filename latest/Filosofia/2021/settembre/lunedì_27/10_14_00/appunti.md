@@ -60,8 +60,11 @@ sensibilità: facoltà di essere modificati dall'esterno attraverso sensazioni
 
 La sensibilità è immediata e intuitiva, non discorsiva
 
-Materiale empirico immediatamente collocato in spazio e tempo
+Materiale empirico immediatamente collocato in spazio e tempo in modo contiguo in spazio e tempo
+
+
+Spazio e tempo: strutture che consentono giudizi sintetici a priori di geometria e matematica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTY1NDQzMSwtMTQxNTkzMTIwMCwxNz
-QxMTgwNTk2XX0=
+eyJoaXN0b3J5IjpbLTE2MTI2NjU5NDAsLTE0MTU5MzEyMDAsMT
+c0MTE4MDU5Nl19
 -->
