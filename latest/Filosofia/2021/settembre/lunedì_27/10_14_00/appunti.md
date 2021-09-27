@@ -27,7 +27,9 @@ Critica della ragion pura _1781_
 Innanzitutto **crotica**
 
 mettere in dicsussione certezze consolidate
+
+Ragione impegnata in un lavoro gnoseologico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExMTAwNzM3LC0xNDE1OTMxMjAwLDE3ND
-ExODA1OTZdfQ==
+eyJoaXN0b3J5IjpbLTIxMDY5MDk0OTksLTE0MTU5MzEyMDAsMT
+c0MTE4MDU5Nl19
 -->
