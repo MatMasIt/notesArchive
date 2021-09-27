@@ -94,7 +94,7 @@ p. 41: (find another reference): he glanced at the door, where shadows ...
 
   
 
-“If each, I told myself, could but be housed in separate identities, life would be relieved of all that was unbearable; the unjust might go his way, delivered from the aspirations and ==remorse== of his more upright twin; and the just could walk securely on his upward path, doing the good things in which he found his pleasure, and no longer exposed to disgrace and ==penitence== by the hands of his ==extraneous evil==”
+“If each, I told myself, could but be housed in separate identities, life would be relieved of all that was unbearable; the unjust might go his way, delivered from the aspirations and ==remorse== of his ==more upright twin==; and the just could walk securely on his upward path, doing the good things in which he found his pleasure, and no longer exposed to disgrace and ==penitence== by the hands of his ==extraneous evil==”
 
   
 
@@ -148,7 +148,7 @@ Identities that coexist just like Markheim
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3MTYyMzgxLC0xNTgyNjI2Njc1LDE0Mz
-Y2MzEzMjAsNjc5MDgyNzY3LDY1OTE4MzIyNiwyMDQ4NjIyOTgw
-XX0=
+eyJoaXN0b3J5IjpbOTUwMjI2MDYxLDgxNzE2MjM4MSwtMTU4Mj
+YyNjY3NSwxNDM2NjMxMzIwLDY3OTA4Mjc2Nyw2NTkxODMyMjYs
+MjA0ODYyMjk4MF19
 -->
