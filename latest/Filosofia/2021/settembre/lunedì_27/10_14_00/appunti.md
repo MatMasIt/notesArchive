@@ -16,6 +16,9 @@ Kant e l'esito scettico sulla metafisica
 La scienza non riflette necessariamente la realtà per come è in se stessa
 
 Scienza: condivisa e universale ma umana
+
+Elemento soggettivo, sempre più importante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU5MzEyMDAsMTc0MTE4MDU5Nl19
+eyJoaXN0b3J5IjpbNTk2MDkwODExLC0xNDE1OTMxMjAwLDE3ND
+ExODA1OTZdfQ==
 -->
