@@ -43,7 +43,12 @@ Ragione pura non basta
 
 non c'è conoscenza che prescinda dall'esperienza
 
+
+Struttura dell'opera
+
+Dottrina degli elementi , del metodo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkzNjE0MDMsLTE0MTU5MzEyMDAsMT
+eyJoaXN0b3J5IjpbLTIwMDA2MzQ4NjgsLTE0MTU5MzEyMDAsMT
 c0MTE4MDU5Nl19
 -->
