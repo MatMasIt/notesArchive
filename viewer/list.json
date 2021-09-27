@@ -1432,18 +1432,6 @@
                 }
             },
             "2021": {
-                "settembre": {
-                    "gioved\u00ec_16": {
-                        "12_13_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_21": {
-                        "12_00_00": [
-                            "appunti.md"
-                        ]
-                    }
-                },
                 "giugno": {
                     "gioved\u00ec_03": {
                         "08_02_00": [
@@ -1460,6 +1448,21 @@
                             "appunti.md"
                         ]
                     }
+                },
+                "settembre": {
+                    "marted\u00ec_21": {
+                        "12_00_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_16": {
+                        "12_13_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_28": [
+                        "compiti.md"
+                    ]
                 },
                 "gennaio": {
                     "gioved\u00ec_14": {
@@ -1947,8 +1950,8 @@
         }
     ],
     "lastUpdate": {
-        "unix": 1632775231,
-        "human": "27\/09\/2021 20:40:31",
+        "unix": 1632777361,
+        "human": "27\/09\/2021 21:16:01",
         "timezone": "UTC"
     }
 }
