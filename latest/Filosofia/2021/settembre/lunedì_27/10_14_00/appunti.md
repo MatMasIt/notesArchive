@@ -48,7 +48,10 @@ Struttura dell'opera
 
 Dottrina degli elementi , del metodo
 
+Logica trascendentale si occupa sia dell'intelletto che della ragine in senso stretto
+
+Analitica trascendel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDA2MzQ4NjgsLTE0MTU5MzEyMDAsMT
-c0MTE4MDU5Nl19
+eyJoaXN0b3J5IjpbMTU3NzEwNzAyOSwtMTQxNTkzMTIwMCwxNz
+QxMTgwNTk2XX0=
 -->
