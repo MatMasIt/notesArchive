@@ -990,11 +990,6 @@
                     }
                 },
                 "settembre": {
-                    "gioved\u00ec_16": {
-                        "09_19": [
-                            "appunti.md"
-                        ]
-                    },
                     "venerd\u00ec_17": {
                         "12_36_00": [
                             "appunti.md"
@@ -1002,6 +997,16 @@
                     },
                     "luned\u00ec_20": {
                         "13_04_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_16": {
+                        "09_19": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_27": {
+                        "10_14_00": [
                             "appunti.md"
                         ]
                     }
@@ -1942,8 +1947,8 @@
         }
     ],
     "lastUpdate": {
-        "unix": 1632728294,
-        "human": "27\/09\/2021 07:38:14",
+        "unix": 1632731039,
+        "human": "27\/09\/2021 08:23:59",
         "timezone": "UTC"
     }
 }
