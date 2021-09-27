@@ -11,6 +11,10 @@ Fenomeni vs Numeri
 tutti quanti condividiamo le strutture a priori
 
 Kant e l'esito scettico sulla metafisica
+
+
+La scienza non riflette necessariamente la realtà per come è in se stessa
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTYzMDYyNjcsMTc0MTE4MDU5Nl19
+eyJoaXN0b3J5IjpbNzY1Njc2MjIsMTc0MTE4MDU5Nl19
 -->
