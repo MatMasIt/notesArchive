@@ -18,7 +18,16 @@ La scienza non riflette necessariamente la realtà per come è in se stessa
 Scienza: condivisa e universale ma umana
 
 Elemento soggettivo, sempre più importante
+
+
+Critica della ragion pura _1781_
+
+10.a del foglio
+
+Innanzitutto **crotica**
+
+mettere in dicsussione certezze consolidate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2MDkwODExLC0xNDE1OTMxMjAwLDE3ND
+eyJoaXN0b3J5IjpbOTExMTAwNzM3LC0xNDE1OTMxMjAwLDE3ND
 ExODA1OTZdfQ==
 -->
