@@ -5,7 +5,8 @@ Kant riconosce che il mondo non può essere conosciuto di per se, indipendenteme
 
 
 Fenomeni vs Numeri
-* fenomeni =i
+* fenomeni = il mondo come appare
+* noumeni [pensare, dal gr. _nous_= il mondo com è in se stesso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2NTE2MTIyLDE3NDExODA1OTZdfQ==
+eyJoaXN0b3J5IjpbMTk4ODk4MDAwNSwxNzQxMTgwNTk2XX0=
 -->
