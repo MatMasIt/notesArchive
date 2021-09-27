@@ -42,7 +42,8 @@ Non come Cartesio
 Ragione pura non basta
 
 non c'è conoscenza che prescinda dall'esperienza
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDE1MDYzLC0xNDE1OTMxMjAwLDE3ND
-ExODA1OTZdfQ==
+eyJoaXN0b3J5IjpbLTEzMDkzNjE0MDMsLTE0MTU5MzEyMDAsMT
+c0MTE4MDU5Nl19
 -->
