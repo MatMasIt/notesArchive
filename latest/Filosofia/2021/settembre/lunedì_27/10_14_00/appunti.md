@@ -9,6 +9,8 @@ Fenomeni vs Numeri
 * noumeni [pensare, dal gr. _nous_, pensiero] = il mondo com è in se stesso
 
 tutti quanti condividiamo le strutture a priori
+
+Kant e l'esito scettico sulla metafisica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjY5NDAxOCwxNzQxMTgwNTk2XX0=
+eyJoaXN0b3J5IjpbLTEzOTYzMDYyNjcsMTc0MTE4MDU5Nl19
 -->
