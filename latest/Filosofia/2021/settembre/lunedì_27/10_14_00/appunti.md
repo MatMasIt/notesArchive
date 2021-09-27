@@ -29,7 +29,16 @@ Innanzitutto **crotica**
 mettere in dicsussione certezze consolidate
 
 Ragione impegnata in un lavoro gnoseologico
+
+
+Contestare la capacità di conoscere la realtà prescindendo dal materiale empirio
+
+Secondo Kant qualunque tentativo in quel senso è destinato a fallire
+
+Secondo Kant occorre entrare in contatto con il materiale empirico
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDY5MDk0OTksLTE0MTU5MzEyMDAsMT
-c0MTE4MDU5Nl19
+eyJoaXN0b3J5IjpbMjA0OTY1NTMwMiwtMTQxNTkzMTIwMCwxNz
+QxMTgwNTk2XX0=
 -->
