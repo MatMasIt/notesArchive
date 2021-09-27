@@ -147,8 +147,12 @@ Identities that coexist just like Markheim
 (p. 132-133 vol 2)
 
 2.  Can you find a link between these quotes (from Wilde’s masterpiece) and “Markheim”? (a symbol, a theme, a similar passage…)
+
+
+Portrait was part of himself (he just committed suicide)
+sevants do not recognize him except by his golden rings
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjYxNzEzOSw5NTAyMjYwNjEsODE3MT
-YyMzgxLC0xNTgyNjI2Njc1LDE0MzY2MzEzMjAsNjc5MDgyNzY3
-LDY1OTE4MzIyNiwyMDQ4NjIyOTgwXX0=
+eyJoaXN0b3J5IjpbMjUzODQyNTE1LC00NjI2MTcxMzksOTUwMj
+I2MDYxLDgxNzE2MjM4MSwtMTU4MjYyNjY3NSwxNDM2NjMxMzIw
+LDY3OTA4Mjc2Nyw2NTkxODMyMjYsMjA0ODYyMjk4MF19
 -->
