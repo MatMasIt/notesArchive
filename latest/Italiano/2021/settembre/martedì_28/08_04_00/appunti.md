@@ -207,7 +207,10 @@ madonna povertà rimase più vicina a gesù Cristo di Maria
 parlare figurato
 
 Bernardo da Quintavalle si scalzò
+
+
+Santità epica, regale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjMzMzM5MCw5ODQ5NjU5MjMsLTE4MD
-QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
+eyJoaXN0b3J5IjpbNjc2MDAyNDA1LDk4NDk2NTkyMywtMTgwND
+A2Mjg2MCwtMTI5OTk3NzIyN119
 -->
