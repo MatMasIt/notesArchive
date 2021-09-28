@@ -158,7 +158,11 @@ Impegnare vita dietro a false virtù
 Falso piacere terreno, fa battere le ali in basso, volo verso il basso
 
 molta umanità si lascia irretire da vanità dei piaceri mentre lui liberatosi  da essi ascese al terzo cielo
+
+Epanalessi, polisindto
+
+v 4 p 660
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM5OTkxOTksOTg0OTY1OTIzLC0xOD
+eyJoaXN0b3J5IjpbLTE0MDA4NjQ0OTcsOTg0OTY1OTIzLC0xOD
 A0MDYyODYwLC0xMjk5OTc3MjI3XX0=
 -->
