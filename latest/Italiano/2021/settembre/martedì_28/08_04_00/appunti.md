@@ -122,8 +122,15 @@ dante rivolge a se stesso
 
 Canto 11: san Tommato usato per elogiare s. Francesco d'assisi
 
-San francesco fa apparire una fiammata, compie un miracolo 
+San francesco fa apparire una fiammata, compie un miracolo per convincere sultano d'egitto alla pace
+
+
+S.F. di Dante, parallelo a quello di Gioytto
+
+
+430
+> O vanagloria dell'umane
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTE4MjIwMSw5ODQ5NjU5MjMsLTE4MD
+eyJoaXN0b3J5IjpbLTc0Nzg2NTE0Myw5ODQ5NjU5MjMsLTE4MD
 QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
 -->
