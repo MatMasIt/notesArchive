@@ -30,6 +30,14 @@ Errore storico del monofisismo di Giustiniano, corretto da Agapito
 
 l'alto lavoro: Laoro sul _Corpus_
 
+
+v. 31 - 33: Ghibellini e Guelfi
+
+Pallante, figlio di Evandro, alleato di Enea contro i Latini
+
+Dimora in Alba longa per 300 anni
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjkyOTE0MF19
+eyJoaXN0b3J5IjpbLTEyOTk5NzcyMjddfQ==
 -->
