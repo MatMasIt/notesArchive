@@ -98,8 +98,10 @@ Chi si allontana dal simbolo imperiale o lo segue con interessi imperiali lo dan
 
 Giustizia divina dell''aquila che punisce i superbi umani
 
-Carlo d'Angi
+Carlo d'Angiò: leoe
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQzOTEzODMsLTEyOTk5NzcyMjddfQ
-==
+eyJoaXN0b3J5IjpbOTUwOTExOTUwLC0xMjk5OTc3MjI3XX0=
 -->
