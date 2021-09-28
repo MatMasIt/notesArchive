@@ -50,8 +50,9 @@ Metafisica può stimolare le ricerche singole per creare una visione sistematica
 ha una buona tentenza giacchè ci porta a pensare alla totalità
 
 _Malattia inevitabile_ ma con effetto positivo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTQ3MjY3MywxNTY0MDAzMjY2LDUwNT
+eyJoaXN0b3J5IjpbMTA5OTEyMTE2NywxNTY0MDAzMjY2LDUwNT
 Y5NDY2OCw5MzMyMjg4MTUsMTM3OTY4NzI2MiwtMTg0NDA2MTUw
 MF19
 -->
