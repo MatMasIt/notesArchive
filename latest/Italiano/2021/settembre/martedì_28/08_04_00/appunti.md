@@ -78,7 +78,9 @@ fatturo     poliptoto
 
 
 Giustizia v.88,121
+
+
+Gloria di far vendetta mediante alla crocifissione di Ges+ di far vendetta per Dio riguardo al peccato originale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg4Mzg0NDUsLTEyOTk5NzcyMjddfQ
-==
+eyJoaXN0b3J5IjpbLTYyMTcxNzIwNSwtMTI5OTk3NzIyN119
 -->
