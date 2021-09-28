@@ -181,10 +181,14 @@ Riforma della chiesa corrotta, simoniaca
 agirono per lo stesso fine
 
 
-Nasce al mondo il sole
+Nasce al mondo il Sole
 
-a
+nascita di francesco come il sole che nasce dal fiume gange
+
+
+
+Oriemte di Perugia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODc2MzkyMSw5ODQ5NjU5MjMsLTE4MD
-QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
+eyJoaXN0b3J5IjpbNTAyNDMyODE2LDk4NDk2NTkyMywtMTgwND
+A2Mjg2MCwtMTI5OTk3NzIyN119
 -->
