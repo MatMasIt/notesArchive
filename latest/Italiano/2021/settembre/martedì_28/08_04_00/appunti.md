@@ -17,6 +17,15 @@ Una _giunta_ giustificata
 Giustiniano: ==modello ideale di mperatore cristiano==
 * strumento provvidenziale (armonia tra poteri)
 * buon imperatore (ha saputo ben legiferare)
+
+--08:11--
+
+Giustiniano: alter-ego di dante
+
+p 631
+v 10
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQwNTYzNzZdfQ==
+eyJoaXN0b3J5IjpbLTE4MjIwNzk1NDhdfQ==
 -->
