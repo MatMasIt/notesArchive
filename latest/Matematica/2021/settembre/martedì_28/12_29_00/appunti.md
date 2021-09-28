@@ -153,9 +153,9 @@ $$
 
 
 $$
-N^{'}(t)=\frac{}{)2t+1}
+N^{'}(t)=\frac{16\small{'}000t(2t+1)^2-2(2t+1)\cdot2\cdot 8\small{'}}{(2t+1)^4}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk4MzcyMzIsNjYzMzgxNzIwLDgyOD
-I2NTY0NywxMzk0MDQ1ODQ2LDEwOTAyNjQ4NzRdfQ==
+eyJoaXN0b3J5IjpbODkzODY1OTUyLDY2MzM4MTcyMCw4MjgyNj
+U2NDcsMTM5NDA0NTg0NiwxMDkwMjY0ODc0XX0=
 -->
