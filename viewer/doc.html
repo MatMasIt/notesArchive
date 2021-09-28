@@ -43,6 +43,13 @@
                 n = n + '';
                 return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
            }
+        function uuidv4() {
+                return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+                    var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+                    return v.toString(16);
+                });
+            }
+
         marked.setOptions({
             renderer: new marked.Renderer(),
             gfm: true,
@@ -78,8 +85,8 @@
                         document.getElementById("content").innerHTML = marked(text);
                         document.getElementById("error").style.display = "none";
                         var d = new Date();
-                        var dat= pad(d.getDay(),2)+"/"+pad(d.getMonth(),2)+"/"+d.getFullYear()+" "+pad(d.gerHours(),2)+":"+pad(d.getMinutes(),2)+":"+pad(d.getSeconds(),2);
-                        document.getElementById("headerH").innerHTML= c+" "+MD5(unescape(encodeURIComponent(text)))+" "+dat;
+                        var dat= pad(d.getDay(),2)+"/"+pad(d.getMonth(),2)+"/"+d.getFullYear()+" "+pad(d.getHours(),2)+":"+pad(d.getMinutes(),2)+":"+pad(d.getSeconds(),2);
+                        document.getElementById("headerH").innerHTML="<table><tr><th>Path</th><th>md5</th><th>Data</th><th>UUID</th></tr><tr><td>"+c+"</td><td>"+MD5(unescape(encodeURIComponent(text)))+"</td><td>"+dat+"</td><td>"+uuidv4()+"</td></tr></table>';
                     })
                 }
             });
