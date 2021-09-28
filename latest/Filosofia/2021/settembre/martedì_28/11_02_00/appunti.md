@@ -44,7 +44,11 @@ Le $3$ parti della metafisica erano:
 
 Ultima riga pagina 5 pdf
 
+Secondo Kant metafisica è irrefreabile
+
+Metafisica può stimolare le ricerche singole per creare una visione sistematica e complessiva nonostante non si aun sapere
+ha una buona tentenza giacchè ci porta a pensare alla totalità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTU2MjYzOSw1MDU2OTQ2NjgsOTMzMj
+eyJoaXN0b3J5IjpbMTU2NDAwMzI2Niw1MDU2OTQ2NjgsOTMzMj
 I4ODE1LDEzNzk2ODcyNjIsLTE4NDQwNjE1MDBdfQ==
 -->
