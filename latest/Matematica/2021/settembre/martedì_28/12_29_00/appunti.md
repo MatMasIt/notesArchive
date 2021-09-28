@@ -93,10 +93,12 @@ $$
 ---
 
 ## Nel prossimo compito
+* derivate
 
+---
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4MjY1NjQ3LDEzOTQwNDU4NDYsMTA5MD
-I2NDg3NF19
+eyJoaXN0b3J5IjpbLTE5MTY4MzY3MzgsODI4MjY1NjQ3LDEzOT
+QwNDU4NDYsMTA5MDI2NDg3NF19
 -->
