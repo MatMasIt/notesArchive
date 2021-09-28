@@ -14,8 +14,9 @@ conoscere ssolola realtà per come appare
 obbietivo fondamentale della metafisica è irrealizzabile
 
 
-La conoscenza non funziona senza materiale  empirico o ca
+La conoscenza non funziona senza materiale  empirico o categorie dell'intelletto
+conoscenza pura non esiste
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA0MjU1NjIsOTMzMjI4ODE1LDEzNz
-k2ODcyNjIsLTE4NDQwNjE1MDBdfQ==
+eyJoaXN0b3J5IjpbNTA1Njk0NjY4LDkzMzIyODgxNSwxMzc5Nj
+g3MjYyLC0xODQ0MDYxNTAwXX0=
 -->
