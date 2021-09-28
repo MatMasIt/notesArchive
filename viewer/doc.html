@@ -82,6 +82,10 @@
                         text = text.replaceAll("\\infin", "\\infty");
                         text = text.replaceAll("\\boxed", "\\fbox");
                         text = text.replaceAll("\\cancel", "\\require{cancel}\\cancel");
+                        text=text.replace(/==([ \w]+)?([ \w]+)?==/, function (text){
+	                        if(text[2]!=" " && text[2]!= undefined && text[text.length-3]!=" " &&  text[text.length-3]!= undefined) return "<marked>"+text.substr(2,text.length-4)+"</marked>";
+	                        else return text;
+                        });
                         document.getElementById("content").innerHTML = marked(text);
                         document.getElementById("error").style.display = "none";
                         var d = new Date();
