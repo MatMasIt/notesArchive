@@ -134,7 +134,9 @@ S.F. di Dante, parallelo a quello di Gioytto
 Dura poco
 
 Guininzeli $\to$ Cavalcanti $\to$ Dante
+
+Francesco: campione di povertà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzA2MjAyMCw5ODQ5NjU5MjMsLTE4MD
-QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
+eyJoaXN0b3J5IjpbLTE4MDg5Mjk0NTMsOTg0OTY1OTIzLC0xOD
+A0MDYyODYwLC0xMjk5OTc3MjI3XX0=
 -->
