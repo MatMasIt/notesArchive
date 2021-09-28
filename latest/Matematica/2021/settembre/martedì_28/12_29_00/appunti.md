@@ -140,8 +140,10 @@ Un prodotto di successo
 
 $$
 N(t)=\frac{8000t^2}{(2t+1)^2}
-$$Ve
+$$
+
+Velocità di crescita delle unità vendute dopo 2 settimane
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTQ0MTYzOCw4MjgyNjU2NDcsMTM5ND
-A0NTg0NiwxMDkwMjY0ODc0XX0=
+eyJoaXN0b3J5IjpbLTEyMDQyODY3NTEsODI4MjY1NjQ3LDEzOT
+QwNDU4NDYsMTA5MDI2NDg3NF19
 -->
