@@ -197,9 +197,9 @@ $$
 
 $562$
 
-> Scrivere l'equazione della funzione razionale intera di terzo grado (un polinomio a coefficienti reali ma senza variabile a denominatore $\left[P(x)=ax^3+bx^2+cx+d\right]$) dispari ($P(-x)=-P(x)\implies P(x)=ax^3+\cancel{bx^2}+cx+\cancel d=-ax^3-bx^2-cx-d$) che interseca l'asse delle x in 3 $P(3)=0$
+> Scrivere l'equazione della funzione razionale intera di terzo grado (un polinomio a coefficienti reali ma senza variabile a denominatore $\left[P(x)=ax^3+bx^2+cx+d\right]$) dispari ($P(-x)=-P(x)\implies P(x)=ax^3+\cancel{bx^2}+cx+\cancel d=-ax^3-bx^2-cx-d$) che interseca l'asse delle x in 3 $P(3)=0$ e $P^{'}(3)=6$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyODM4NTAyLC0xMDc4NzgzMjkyLDY2Mz
+eyJoaXN0b3J5IjpbMjYyNDM1Njg3LC0xMDc4NzgzMjkyLDY2Mz
 M4MTcyMCw4MjgyNjU2NDcsMTM5NDA0NTg0NiwxMDkwMjY0ODc0
 XX0=
 -->
