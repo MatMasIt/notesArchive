@@ -103,6 +103,7 @@ Carlo d'Angiò: leoe
 
 é inveitabile che i raggi del vero amore si alzino al cielo
 Le anime buone che ora sono beate al cielo, ma la loro traettoria nel cielo difetta
+Nel far sentire le anime del cielo di mercurio soddisfatte del loro premio: no invidia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzI0MDUxMiwtMTI5OTk3NzIyN119
+eyJoaXN0b3J5IjpbLTc2ODkyMjU3MywtMTI5OTk3NzIyN119
 -->
