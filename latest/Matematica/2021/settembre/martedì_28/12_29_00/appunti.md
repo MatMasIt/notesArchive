@@ -53,6 +53,22 @@ $$
 
 
 Le due funzioni sono semplicemente traslate
+
+
+---
+
+### $429$
+
+
+$a,b = ?$
+
+$$
+y=a\sin x +b \cos x\\
+y^{''}+2y^{'}=2\sin x\\
+\text{Equazione di secondo grado differenziale}
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzNDU0NjQsMTA5MDI2NDg3NF19
+eyJoaXN0b3J5IjpbLTY3OTU4NjMzNSwxMDkwMjY0ODc0XX0=
 -->
