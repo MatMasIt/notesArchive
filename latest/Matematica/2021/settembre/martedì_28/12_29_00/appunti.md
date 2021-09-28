@@ -70,9 +70,14 @@ $$
 
 
 $$
-y^{'}=a\cod
+y^{'}=a\cos x-b\sin x\\
+y^{''}=-a\sin x-b \cos x
 $$
 
+
+$$
+(1)-a\sin x -b \cos x+2(
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0Mjg0OTc3LDEwOTAyNjQ4NzRdfQ==
+eyJoaXN0b3J5IjpbMjA4MzU5MzE5NCwxMDkwMjY0ODc0XX0=
 -->
