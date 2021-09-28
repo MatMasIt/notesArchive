@@ -50,6 +50,9 @@ $$
 $$
 \ln2+\ln\left(x^2+\frac12\right)
 $$
+
+
+Le due f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0ODM4OTQxLDEwOTAyNjQ4NzRdfQ==
+eyJoaXN0b3J5IjpbMzc1NTc1MTI0LDEwOTAyNjQ4NzRdfQ==
 -->
