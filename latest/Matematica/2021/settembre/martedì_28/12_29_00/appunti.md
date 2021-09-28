@@ -19,9 +19,9 @@ $$
 \frac{df(x)}{dx}=e^{x\ln \sin x} \left[\ln(\sin x)+x\frac1{\sin x}\cos x\right]\\
 $$
 $$
-e^{x\ln \sin x}
+e^{x\ln \sin x}\left(\ln \sin x +x \cot x \right)
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY1MTQ5OTNdfQ==
+eyJoaXN0b3J5IjpbMTA5MDI2NDg3NF19
 -->
