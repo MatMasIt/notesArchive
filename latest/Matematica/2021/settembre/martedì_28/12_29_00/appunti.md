@@ -197,10 +197,10 @@ $$
 
 $562$
 
-Sc
+> Scrivere l'equazione della funzione razionale intera (un polinomio a coefficienti reali ma senza variabile a denominatore $\left[P(x)=ax^3+bx^2+cx+d\right]$)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzMwODA2MjcsLTEwNzg3ODMyOTIsNj
-YzMzgxNzIwLDgyODI2NTY0NywxMzk0MDQ1ODQ2LDEwOTAyNjQ4
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTU2MjgyMzM1MSwtMTA3ODc4MzI5Miw2Nj
+MzODE3MjAsODI4MjY1NjQ3LDEzOTQwNDU4NDYsMTA5MDI2NDg3
+NF19
 -->
