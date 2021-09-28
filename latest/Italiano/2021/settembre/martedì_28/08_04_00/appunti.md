@@ -162,7 +162,11 @@ molta umanità si lascia irretire da vanità dei piaceri mentre lui liberatosi  
 Epanalessi, polisindto
 
 v 4 p 660
+
+Mero: puro
+
+San Tommaso telepatico, comprende i dubbi di Dante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA4NjQ0OTcsOTg0OTY1OTIzLC0xOD
-A0MDYyODYwLC0xMjk5OTc3MjI3XX0=
+eyJoaXN0b3J5IjpbMTMyMTM4Mjk3OSw5ODQ5NjU5MjMsLTE4MD
+QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
 -->
