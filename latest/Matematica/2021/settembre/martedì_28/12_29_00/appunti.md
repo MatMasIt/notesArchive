@@ -197,10 +197,10 @@ $$
 
 $562$
 
-> Scrivere l'equazione della funzione razionale intera (un polinomio a coefficienti reali ma senza variabile a denominatore $\left[P(x)=ax^3+bx^2+cx+d\right]$)
+> Scrivere l'equazione della funzione razionale intera di terzo grado (un polinomio a coefficienti reali ma senza variabile a denominatore $\left[P(x)=ax^3+bx^2+cx+d\right]$) dispari ($P(-x)=-P(x)\implies P(x)=ax^3+\cancel{bx^2+cx+d$)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjgyMzM1MSwtMTA3ODc4MzI5Miw2Nj
-MzODE3MjAsODI4MjY1NjQ3LDEzOTQwNDU4NDYsMTA5MDI2NDg3
-NF19
+eyJoaXN0b3J5IjpbNzA4ODAyNTEzLC0xMDc4NzgzMjkyLDY2Mz
+M4MTcyMCw4MjgyNjU2NDcsMTM5NDA0NTg0NiwxMDkwMjY0ODc0
+XX0=
 -->
