@@ -118,11 +118,9 @@ $$
 
 
 $$
-\$1,24\$
+\dot f =e^{x\ln 2x}\cdot \left[\ln(2x)+x\frac1{\cancel{2}x}{\cancel 2}\right]=(2x)
 $$
-
-$ 11,42 $1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzUyMzI0OSw4MjgyNjU2NDcsMTM5ND
+eyJoaXN0b3J5IjpbLTQ1MTE2MDk0Miw4MjgyNjU2NDcsMTM5ND
 A0NTg0NiwxMDkwMjY0ODc0XX0=
 -->
