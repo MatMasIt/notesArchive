@@ -1460,9 +1460,12 @@
                             "appunti.md"
                         ]
                     },
-                    "marted\u00ec_28": [
-                        "compiti.md"
-                    ]
+                    "marted\u00ec_28": {
+                        "08_04_00": [
+                            "appunti.md"
+                        ],
+                        "0": "compiti.md"
+                    }
                 },
                 "gennaio": {
                     "gioved\u00ec_14": {
@@ -1950,8 +1953,8 @@
         }
     ],
     "lastUpdate": {
-        "unix": 1632807478,
-        "human": "28\/09\/2021 05:37:58",
+        "unix": 1632810231,
+        "human": "28\/09\/2021 06:23:51",
         "timezone": "UTC"
     }
 }
