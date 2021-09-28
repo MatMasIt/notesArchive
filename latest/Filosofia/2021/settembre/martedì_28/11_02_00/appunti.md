@@ -42,8 +42,9 @@ Le $3$ parti della metafisica erano:
 * cosmologia razionale
 * teologia razionale
 
-Ultima riga pagin
+Ultima riga pagina 5 pdf
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5ODcyMjk3LDUwNTY5NDY2OCw5MzMyMj
-g4MTUsMTM3OTY4NzI2MiwtMTg0NDA2MTUwMF19
+eyJoaXN0b3J5IjpbLTgwNTU2MjYzOSw1MDU2OTQ2NjgsOTMzMj
+I4ODE1LDEzNzk2ODcyNjIsLTE4NDQwNjE1MDBdfQ==
 -->
