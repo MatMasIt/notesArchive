@@ -129,8 +129,15 @@ $$
 
 
 $y-2=(\ln 4+2)(x-1)$
-$y=(\ln 4è
+$y=(\ln 4+2)x-\ln4-\cancel 2 + \cancel 2$
+
+---
+
+Un prodotto di successo
+
+> $N(t)$ unità vendute
+> $t$ in settimane 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwNTI3NjQxLDgyODI2NTY0NywxMzk0MD
-Q1ODQ2LDEwOTAyNjQ4NzRdfQ==
+eyJoaXN0b3J5IjpbMTc1MDQzMTIwNyw4MjgyNjU2NDcsMTM5ND
+A0NTg0NiwxMDkwMjY0ODc0XX0=
 -->
