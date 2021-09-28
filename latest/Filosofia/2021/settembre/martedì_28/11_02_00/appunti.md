@@ -16,7 +16,11 @@ obbietivo fondamentale della metafisica è irrealizzabile
 
 La conoscenza non funziona senza materiale  empirico o categorie dell'intelletto
 conoscenza pura non esiste
+
+esperienza è sempre di ==porzioni limitate== sia ==interna== che ==esterna==
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1Njk0NjY4LDkzMzIyODgxNSwxMzc5Nj
-g3MjYyLC0xODQ0MDYxNTAwXX0=
+eyJoaXN0b3J5IjpbLTMyNDAxMDE3MCw1MDU2OTQ2NjgsOTMzMj
+I4ODE1LDEzNzk2ODcyNjIsLTE4NDQwNjE1MDBdfQ==
 -->
