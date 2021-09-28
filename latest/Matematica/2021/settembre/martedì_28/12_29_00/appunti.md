@@ -167,7 +167,19 @@ $$
 $$
 \dot N=\frac{32\small^{'}000}{125}=\frac{256}{settimane}
 $$
+
+---
+$$
+y=x^3-3x^2+2x-1
+$$
+$$
+t//r
+$$
+
+$$
+r:11x-y-2=0
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjUzMTg5OSw2NjMzODE3MjAsODI4Mj
+eyJoaXN0b3J5IjpbMTU1MDQyMzYxMCw2NjMzODE3MjAsODI4Mj
 Y1NjQ3LDEzOTQwNDU4NDYsMTA5MDI2NDg3NF19
 -->
