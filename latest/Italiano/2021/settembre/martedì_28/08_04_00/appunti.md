@@ -105,8 +105,11 @@ Carlo d'Angiò: leoe
 Le anime buone che ora sono beate al cielo, ma la loro traettoria nel cielo difetta
 Nel far sentire le anime del cielo di mercurio soddisfatte del loro premio: no invidia
 
-Margherita: termine latu
+Margherita: termine latino 
+
+perla, gemma
+
+Romeo di Villanova, come Pier delle Vigne immeritatamente considerato colpevole in vita
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTUxMDg1NDcsLTEyOTk5NzcyMjddfQ
-==
+eyJoaXN0b3J5IjpbMTg5NDA1Njc5MCwtMTI5OTk3NzIyN119
 -->
