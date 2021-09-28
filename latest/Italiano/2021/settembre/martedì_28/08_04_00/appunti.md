@@ -28,7 +28,8 @@ v 10
 
 Errore storico del monofisismo di Giustiniano, corretto da Agapito
 
+l'alto lavoro: Laoro sul _Corpus_
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTY0NjE5MV19
+eyJoaXN0b3J5IjpbLTQzNjkyOTE0MF19
 -->
