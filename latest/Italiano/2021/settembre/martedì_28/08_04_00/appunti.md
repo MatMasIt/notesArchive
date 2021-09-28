@@ -150,10 +150,13 @@ Rappresentato prima come eroi rivoluzionario, poi come eroe cortese del ciclo br
 
 Agiogafia, vite dei santi
 
-camto XI
+canto XI
+
+Impegnare vita dietro a false virtù
 
 
+Falso piacere terreno, fa battere le ali in basso, volo verso il basso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDU2NTc5Nyw5ODQ5NjU5MjMsLTE4MD
+eyJoaXN0b3J5IjpbMTkzMDg3NzIwNiw5ODQ5NjU5MjMsLTE4MD
 QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
 -->
