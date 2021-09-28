@@ -219,8 +219,12 @@ Pastore d'anime
 Archimandrita
 
 
+Francesco volle essere lasciato morire sulla nuda terra
+
+Agiografia epica, con  elementi delle Chansons des gestes
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTA4MDA3Niw5ODQ5NjU5MjMsLTE4MD
+eyJoaXN0b3J5IjpbMTU4NjQ4NzQ0Myw5ODQ5NjU5MjMsLTE4MD
 QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
 -->
