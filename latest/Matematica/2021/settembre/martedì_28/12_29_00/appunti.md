@@ -38,14 +38,18 @@ $$
 f:y=\ln\left(x^2+\frac12\right)
 $$
 
+
 $$
 g:y=\ln(2x^2+1)
 $$
 
 
 $$
-g:
+g:y=\ln\left[2\cdot\left(x^2+\frac12\right)\right]=
+$$
+$$
+\ln2+\ln\left(x^2+\frac12\right)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzMwMzM5OCwxMDkwMjY0ODc0XX0=
+eyJoaXN0b3J5IjpbNzQ0ODM4OTQxLDEwOTAyNjQ4NzRdfQ==
 -->
