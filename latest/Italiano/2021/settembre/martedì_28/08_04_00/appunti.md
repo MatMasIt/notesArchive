@@ -168,7 +168,11 @@ Mero: puro
 San Tommaso telepatico, comprende i dubbi di Dante
 
 riferimento al canto rpecedente
+
+Provvidenza divina kegge nella creatura prima che essa capisca il suo destino
+
+v.32
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2NDMwNTgsOTg0OTY1OTIzLC0xODA0MD
-YyODYwLC0xMjk5OTc3MjI3XX0=
+eyJoaXN0b3J5IjpbNzIwMTMwNjE5LDk4NDk2NTkyMywtMTgwND
+A2Mjg2MCwtMTI5OTk3NzIyN119
 -->
