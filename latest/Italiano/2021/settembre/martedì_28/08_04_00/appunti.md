@@ -101,7 +101,8 @@ Giustizia divina dell''aquila che punisce i superbi umani
 Carlo d'Angiò: leoe
 
 
-
+é inveitabile che i raggi del vero amore si alzino al cielo
+Le anime buone che ora sono beate al cielo, ma la loro traettoria nel cielo difetta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwOTExOTUwLC0xMjk5OTc3MjI3XX0=
+eyJoaXN0b3J5IjpbMTA2MzI0MDUxMiwtMTI5OTk3NzIyN119
 -->
