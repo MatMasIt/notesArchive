@@ -146,7 +146,16 @@ N(t)=\frac{8000t^2}{(2t+1)^2}
 $$
 
 $Velocità$ di crescita delle unità vendute dopo $2$ settimane
+
+$$
+\left(\frac{dN(t)}{t}\right)_{t=2}=N^{'}(2)
+$$
+
+
+$$
+N^{'}(t)=\frac{}{)2t+1}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzMzgxNzIwLDgyODI2NTY0NywxMzk0MD
-Q1ODQ2LDEwOTAyNjQ4NzRdfQ==
+eyJoaXN0b3J5IjpbLTE1NDk4MzcyMzIsNjYzMzgxNzIwLDgyOD
+I2NTY0NywxMzk0MDQ1ODQ2LDEwOTAyNjQ4NzRdfQ==
 -->
