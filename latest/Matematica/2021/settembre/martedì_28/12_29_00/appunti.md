@@ -118,9 +118,19 @@ $$
 
 
 $$
-\dot f =e^{x\ln 2x}\cdot \left[\ln(2x)+x\frac1{\cancel{2}x}{\cancel 2}\right]=(2x)
+\dot f =e^{x\ln 2x}\cdot \left[\ln(2x)+x\frac1{\cancel{2}x}{\cancel 2}\right]=(2x)^x\left[\ln(x)+1\right]
 $$
+
+
+$$
+\dot f(1)=2(\ln2+1)=2\ln2+2=\ln4+2
+$$
+
+
+
+$y-2=(\ln 4+2)(x-1)$
+$y=(\ln 4è
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTE2MDk0Miw4MjgyNjU2NDcsMTM5ND
-A0NTg0NiwxMDkwMjY0ODc0XX0=
+eyJoaXN0b3J5IjpbNTQwNTI3NjQxLDgyODI2NTY0NywxMzk0MD
+Q1ODQ2LDEwOTAyNjQ4NzRdfQ==
 -->
