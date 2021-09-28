@@ -10,8 +10,12 @@ Perhcè 12 categorie?
 
 conoscere _è_ giudicare
 
+conoscere ssolola realtà per come appare
+obbietivo fondamentale della metafisica è irrealizzabile
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1NDA0NTIzLDkzMzIyODgxNSwxMzc5Nj
-g3MjYyLC0xODQ0MDYxNTAwXX0=
+eyJoaXN0b3J5IjpbLTk4MTcyMzA1Myw5MzMyMjg4MTUsMTM3OT
+Y4NzI2MiwtMTg0NDA2MTUwMF19
 -->
