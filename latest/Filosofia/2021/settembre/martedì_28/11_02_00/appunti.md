@@ -3,6 +3,13 @@
 
 Critiche di Kant:
 * Difende scienza che oggi nega di avere questo carattere
+
+p. 3 punto 10.4
+
+Perhcè 12 categorie?
+
+conoscere _è_ giudicare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTY4NzI2MiwtMTg0NDA2MTUwMF19
+eyJoaXN0b3J5IjpbOTMzMjI4ODE1LDEzNzk2ODcyNjIsLTE4ND
+QwNjE1MDBdfQ==
 -->
