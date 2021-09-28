@@ -52,7 +52,7 @@ $$
 $$
 
 
-Le due f
+Le due funzioni sono semplicemente traslate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1NTc1MTI0LDEwOTAyNjQ4NzRdfQ==
+eyJoaXN0b3J5IjpbNTUzNDU0NjQsMTA5MDI2NDg3NF19
 -->
