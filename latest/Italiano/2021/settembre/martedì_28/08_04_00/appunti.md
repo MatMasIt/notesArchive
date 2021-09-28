@@ -143,8 +143,13 @@ San francesco di Giotto commissionato dai Bardi compie prodigi, celebra la vanag
 
 p.674
 
-_Legenda Maior_(
+_Legenda Maior_ (Vita di san Francesco d'Assisi), San Bonaventura da Bagnoregio
+
+
+Rappresentato prima come eroi rivoluzionario, poi come eroe cortese del ciclo bretone da Dante
+
+Agiogafia, vite dei santi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4NjQ0MDY2LDk4NDk2NTkyMywtMTgwND
-A2Mjg2MCwtMTI5OTk3NzIyN119
+eyJoaXN0b3J5IjpbLTEyMjA5ODUyMDYsOTg0OTY1OTIzLC0xOD
+A0MDYyODYwLC0xMjk5OTc3MjI3XX0=
 -->
