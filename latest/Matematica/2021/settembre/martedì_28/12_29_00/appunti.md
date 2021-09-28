@@ -160,9 +160,9 @@ $$
 $$
 
 $$
-16\sma
+\frac{16\small{'}000t(2t+1)(\cancel{2t}+1-\cancel{2t})}{(2t+1)^{{\cancel4}^{\3}}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTcwNTc2MDksNjYzMzgxNzIwLDgyOD
-I2NTY0NywxMzk0MDQ1ODQ2LDEwOTAyNjQ4NzRdfQ==
+eyJoaXN0b3J5IjpbOTA1Nzc3MTE0LDY2MzM4MTcyMCw4MjgyNj
+U2NDcsMTM5NDA0NTg0NiwxMDkwMjY0ODc0XX0=
 -->
