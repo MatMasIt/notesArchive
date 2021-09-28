@@ -24,8 +24,11 @@ Giustiniano: alter-ego di dante
 
 p 631
 v 10
+> _Casare fui e son Iustiniano_ (Giustiniano contiene la parola Giustizia)
+
+Errore storico del monofisismo di Giustiniano, corretto da Agapito
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjIwNzk1NDhdfQ==
+eyJoaXN0b3J5IjpbMTI4MTY0NjE5MV19
 -->
