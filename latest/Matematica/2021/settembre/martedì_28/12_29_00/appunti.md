@@ -29,8 +29,8 @@ f(x)=x^x=e^{x\ln x}
 $$
 
 $$
-\dot{y}=
+\dot{y}=e^{x\ln x
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjI0MTM3OCwxMDkwMjY0ODc0XX0=
+eyJoaXN0b3J5IjpbLTE0NzAxMzEzNzQsMTA5MDI2NDg3NF19
 -->
