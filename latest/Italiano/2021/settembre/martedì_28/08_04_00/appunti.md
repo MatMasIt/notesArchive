@@ -172,7 +172,14 @@ riferimento al canto rpecedente
 Provvidenza divina kegge nella creatura prima che essa capisca il suo destino
 
 v.32
+
+La volontà divina con due principi (SF assisi, San domenico di Guzman) 
+li invia alla chiesa
+
+Riforma della chiesa corrotta
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwMTMwNjE5LDk4NDk2NTkyMywtMTgwND
+eyJoaXN0b3J5IjpbODU1MDg5Mzk0LDk4NDk2NTkyMywtMTgwND
 A2Mjg2MCwtMTI5OTk3NzIyN119
 -->
