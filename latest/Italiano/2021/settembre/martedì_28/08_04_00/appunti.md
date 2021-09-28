@@ -129,8 +129,12 @@ S.F. di Dante, parallelo a quello di Gioytto
 
 
 430
-> O vanagloria dell'umane
+> O vanagloria dell'umane posse
+
+Dura poco
+
+Guininzeli $\to$ Cavalcanti $\to$ Dante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Nzg2NTE0Myw5ODQ5NjU5MjMsLTE4MD
+eyJoaXN0b3J5IjpbMjEyMzA2MjAyMCw5ODQ5NjU5MjMsLTE4MD
 QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
 -->
