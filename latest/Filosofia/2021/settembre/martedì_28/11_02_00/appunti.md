@@ -2,8 +2,9 @@
 ## Martedì 28 settembre 2021, 10:02:00
 
 Critiche di Kant:
-* Difend
+* Difende scienza che oggi nega di avere questo carattere
+* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjA0NzIxNV19
+eyJoaXN0b3J5IjpbLTE4NDQwNjE1MDBdfQ==
 -->
