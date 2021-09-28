@@ -77,8 +77,9 @@ $$
 
 $$
 (1)-a\sin x -b \cos x+2(a \cos x -b \sin x)= 2 \sin x\\
--a\space \underline{\sin x}- b \underline{\underline{\cos}}
+-a\space \underline{\sin x}- b \space \underline{\underline{\cos x}} +2a \space \underline{\underline{\cos x}}-2b\space \underline{\sin x}=2\sin x\\
+\underline{\sin x}(-a-2b)+\cos x (-
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTk3ODY2MSwxMDkwMjY0ODc0XX0=
+eyJoaXN0b3J5IjpbMjA5MTIwNzY1NSwxMDkwMjY0ODc0XX0=
 -->
