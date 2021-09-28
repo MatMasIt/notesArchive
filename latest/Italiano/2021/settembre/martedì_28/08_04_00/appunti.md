@@ -69,6 +69,16 @@ Ottaviano porta-insegne
 
 
 Gianicolo aperto: la guerra vista come la "condizione normale"
+
+
+Tiberio: terzo imperatore
+
+
+fatturo     poliptoto
+
+
+Giustizia v.88,121
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NDEyNjQzLC0xMjk5OTc3MjI3XX0=
+eyJoaXN0b3J5IjpbLTE2Mjg4Mzg0NDUsLTEyOTk5NzcyMjddfQ
+==
 -->
