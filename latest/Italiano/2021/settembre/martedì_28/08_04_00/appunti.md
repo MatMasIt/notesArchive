@@ -199,7 +199,15 @@ Madonna povertà, vedova di cristo
 
 
 da 1100 anni la cheisa non pratica la povertà
+
+
+v.71
+madonna povertà rimase più vicina a gesù Cristo di Maria
+
+parlare figurato
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjA4NDgwLDk4NDk2NTkyMywtMTgwND
-A2Mjg2MCwtMTI5OTk3NzIyN119
+eyJoaXN0b3J5IjpbLTE0Mjc0MDg5ODksOTg0OTY1OTIzLC0xOD
+A0MDYyODYwLC0xMjk5OTc3MjI3XX0=
 -->
