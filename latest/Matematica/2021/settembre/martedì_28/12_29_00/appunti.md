@@ -3,6 +3,9 @@
 
 ### Parzialmente indicizzabile
 
+![](https://i.imgur.com/6TDymk5.jpg)
+
+
 $f(x)=\left(\sin x\right)^x=e^{\ln(\sin x)^x}=e^{x\ln\sin x}$
 
 ---
@@ -142,8 +145,8 @@ $$
 N(t)=\frac{8000t^2}{(2t+1)^2}
 $$
 
-Velocità di crescita delle unità vendute dopo 2 settimane
+$Velocità$ di crescita delle unità vendute dopo $2$ settimane
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQyODY3NTEsODI4MjY1NjQ3LDEzOT
-QwNDU4NDYsMTA5MDI2NDg3NF19
+eyJoaXN0b3J5IjpbNjYzMzgxNzIwLDgyODI2NTY0NywxMzk0MD
+Q1ODQ2LDEwOTAyNjQ4NzRdfQ==
 -->
