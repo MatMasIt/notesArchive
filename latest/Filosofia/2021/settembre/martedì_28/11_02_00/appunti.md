@@ -27,8 +27,11 @@ idee trascendentali (totalità assoluta)
 idee di :
 * anima: totalità degli stati interni
 * mondo: totalità dei fenomeni esterni
-* Dio: totalità di tutte le totalità
+* Dio: totalità di tutte le totalità (entità massima immaginabile)
+
+nostra tendenza ingiustificata a costruite totalità
+queste non sono mai conoscenze, non entriamo mai in contatto con a totalità, questo modo di funzionare dell'intelletto causa la metafisica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTEyMDAzNzMsNTA1Njk0NjY4LDkzMz
-IyODgxNSwxMzc5Njg3MjYyLC0xODQ0MDYxNTAwXX0=
+eyJoaXN0b3J5IjpbMTY2MDIwODQwNSw1MDU2OTQ2NjgsOTMzMj
+I4ODE1LDEzNzk2ODcyNjIsLTE4NDQwNjE1MDBdfQ==
 -->
