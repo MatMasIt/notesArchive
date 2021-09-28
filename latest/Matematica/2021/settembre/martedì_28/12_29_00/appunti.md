@@ -41,6 +41,11 @@ $$
 $$
 g:y=\ln(2x^2+1)
 $$
+
+
+$$
+g:
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTc1NDc5NywxMDkwMjY0ODc0XX0=
+eyJoaXN0b3J5IjpbMTQzMzMwMzM5OCwxMDkwMjY0ODc0XX0=
 -->
