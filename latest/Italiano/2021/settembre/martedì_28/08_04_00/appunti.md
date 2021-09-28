@@ -120,8 +120,10 @@ Se tutti avessero la sua costanza
 
 dante rivolge a se stesso
 
-cAnto
+Canto 11: san Tommato usato per elogiare s. Francesco d'assisi
+
+San francesco fa apparire una fiammata, compie un miracolo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NTUyMzYyLDk4NDk2NTkyMywtMTgwND
-A2Mjg2MCwtMTI5OTk3NzIyN119
+eyJoaXN0b3J5IjpbMTk0MTE4MjIwMSw5ODQ5NjU5MjMsLTE4MD
+QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
 -->
