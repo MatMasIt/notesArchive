@@ -37,7 +37,13 @@ Far funzionare le categorie a vuoto
 
 Kant: Dio è un postulato della ragioen pratica (sfera morale)
 
+Le $3$ parti della metafisica erano:
+* psicologia razionale
+* cosmologia razionale
+* teologia razionale
+
+Ultima riga pagin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTIxODI5NjQsNTA1Njk0NjY4LDkzMz
-IyODgxNSwxMzc5Njg3MjYyLC0xODQ0MDYxNTAwXX0=
+eyJoaXN0b3J5IjpbODU5ODcyMjk3LDUwNTY5NDY2OCw5MzMyMj
+g4MTUsMTM3OTY4NzI2MiwtMTg0NDA2MTUwMF19
 -->
