@@ -193,8 +193,13 @@ Occasio: tramonto
 
 per tal donna (povertà) corse in guerra del padre
 
-Nessun uomo da 
+Nessun uomo da benvenuto alla povertò, come la morte
+
+Madonna povertà, vedova di cristo
+
+
+da 1100 anni la cheisa non pratica la povertà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjY3OTE0NSw5ODQ5NjU5MjMsLTE4MD
-QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
+eyJoaXN0b3J5IjpbLTY0MjA4NDgwLDk4NDk2NTkyMywtMTgwND
+A2Mjg2MCwtMTI5OTk3NzIyN119
 -->
