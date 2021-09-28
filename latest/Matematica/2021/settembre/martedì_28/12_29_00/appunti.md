@@ -82,13 +82,13 @@ $$
 $$
 
 $$
-\begin{equation} \begin{cases}
+\begin{equation*} \begin{cases}
 -a-2b=2\\
 2a-b=0
- \end{cases} \end{equation}\\
- \begin{equation} \begin{cases} a=\frac25\\b=-\frac45 \end{cases} \end{equation}
+ \end{cases} \end{equation*}
+ \begin{equation*} \begin{cases} a=\frac25\\b=-\frac45 \end{cases} \end{equation*}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTYwMDc5NjgsMTA5MDI2NDg3NF19
+eyJoaXN0b3J5IjpbMTM5NDA0NTg0NiwxMDkwMjY0ODc0XX0=
 -->
