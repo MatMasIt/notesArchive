@@ -86,7 +86,7 @@
                         document.getElementById("error").style.display = "none";
                         var d = new Date();
                         var dat= pad(d.getDay(),2)+"/"+pad(d.getMonth(),2)+"/"+d.getFullYear()+" "+pad(d.getHours(),2)+":"+pad(d.getMinutes(),2)+":"+pad(d.getSeconds(),2);
-                        document.getElementById("headerH").innerHTML="<table><tr><th>Path</th><th>md5</th><th>Data</th><th>UUID</th></tr><tr><td>"+c+"</td><td>"+MD5(unescape(encodeURIComponent(text)))+"</td><td>"+dat+"</td><td>"+uuidv4()+"</td></tr></table>";
+                        document.getElementById("headerH").innerHTML="<p>Archivio degli appunti di Mattia Mascarello</p><br /><table><tr><th>Path</th><th>md5</th><th>Data</th><th>UUID</th></tr><tr><td>"+c+"</td><td>"+MD5(unescape(encodeURIComponent(text)))+"</td><td>"+dat+"</td><td>"+uuidv4()+"</td></tr></table>";
                     })
                 }
             });
