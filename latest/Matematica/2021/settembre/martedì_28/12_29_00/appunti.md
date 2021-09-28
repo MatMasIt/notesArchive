@@ -29,8 +29,17 @@ f(x)=x^x=e^{x\ln x}
 $$
 
 $$
-\dot{y}=e^{x\ln x
+\dot{y}=e^{x\ln x}\cdot \left(\ln x\cdot  x\frac{1}{x}\right)
+$$
+
+---
+
+$$
+f:y=\ln\left(x^2+\frac12\right)
+$$
+
+$$
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzAxMzEzNzQsMTA5MDI2NDg3NF19
+eyJoaXN0b3J5IjpbNzI1MTM1NjE1LDEwOTAyNjQ4NzRdfQ==
 -->
