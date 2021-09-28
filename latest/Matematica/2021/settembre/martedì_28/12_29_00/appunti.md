@@ -107,9 +107,22 @@ $y=(2x)^x$   $x_P=1$ $y-y_P=f^{'}(x_P)(x-x_P)$
 $$
 \begin{equation*} \begin{cases}
 x_P=1\\
-y_P=(2\dc \end{cases} \end{equation*}
+y_P=(2\cdot 1)^1=2 \end{cases} \end{equation*}
 $$
+
+---
+
+$$
+f:e^{\ln(2x)^x}=e^{x\ln(2x)}
+$$
+
+
+$$
+\$1,24\$
+$$
+
+$ 11,42 $1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTkzNDE3Niw4MjgyNjU2NDcsMTM5ND
+eyJoaXN0b3J5IjpbMjEzNzUyMzI0OSw4MjgyNjU2NDcsMTM5ND
 A0NTg0NiwxMDkwMjY0ODc0XX0=
 -->
