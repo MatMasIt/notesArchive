@@ -176,10 +176,15 @@ v.32
 La volontà divina con due principi (SF assisi, San domenico di Guzman) 
 li invia alla chiesa
 
-Riforma della chiesa corrotta
+Riforma della chiesa corrotta, simoniaca
+
+agirono per lo stesso fine
 
 
+Nasce al mondo il sole
+
+a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1MDg5Mzk0LDk4NDk2NTkyMywtMTgwND
-A2Mjg2MCwtMTI5OTk3NzIyN119
+eyJoaXN0b3J5IjpbMTYzODc2MzkyMSw5ODQ5NjU5MjMsLTE4MD
+QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
 -->
