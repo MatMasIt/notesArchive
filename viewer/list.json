@@ -989,28 +989,6 @@
                         ]
                     }
                 },
-                "settembre": {
-                    "venerd\u00ec_17": {
-                        "12_36_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_20": {
-                        "13_04_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "gioved\u00ec_16": {
-                        "09_19": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_27": {
-                        "10_14_00": [
-                            "appunti.md"
-                        ]
-                    }
-                },
                 "maggio": {
                     "marted\u00ec_04": {
                         "11_10_00": [
@@ -1056,6 +1034,33 @@
                     },
                     "nercoled\u00ec_17": {
                         "12_31_07": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "settembre": {
+                    "venerd\u00ec_17": {
+                        "12_36_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_16": {
+                        "09_19": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_28": {
+                        "11_02_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_20": {
+                        "13_04_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_27": {
+                        "10_14_00": [
                             "appunti.md"
                         ]
                     }
@@ -1953,8 +1958,8 @@
         }
     ],
     "lastUpdate": {
-        "unix": 1632818585,
-        "human": "28\/09\/2021 08:43:05",
+        "unix": 1632820747,
+        "human": "28\/09\/2021 09:19:07",
         "timezone": "UTC"
     }
 }
