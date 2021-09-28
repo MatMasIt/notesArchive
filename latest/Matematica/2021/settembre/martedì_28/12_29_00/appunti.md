@@ -39,7 +39,8 @@ f:y=\ln\left(x^2+\frac12\right)
 $$
 
 $$
+g:y=\ln(2x^2+1)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1MTM1NjE1LDEwOTAyNjQ4NzRdfQ==
+eyJoaXN0b3J5IjpbLTM0MTc1NDc5NywxMDkwMjY0ODc0XX0=
 -->
