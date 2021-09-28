@@ -210,7 +210,11 @@ Bernardo da Quintavalle si scalzò
 
 
 Santità epica, regale
+
+sigillo per nuovo ordine di frati
+
+Onorio III approva regola
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2MDAyNDA1LDk4NDk2NTkyMywtMTgwND
-A2Mjg2MCwtMTI5OTk3NzIyN119
+eyJoaXN0b3J5IjpbLTExMDc1NzM4OCw5ODQ5NjU5MjMsLTE4MD
+QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
 -->
