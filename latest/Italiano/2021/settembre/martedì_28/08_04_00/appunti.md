@@ -8,7 +8,9 @@ Aquila, allegoria del potere imperiale
 
 Artificio letterario
 
-Lungo discorso storico-celebrativo 
+Lungo discorso storico-celebrativo sulla necessità del potere imperiale
+
+Visione provvidenzialistica del mondo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzOTE2NTM3XX0=
+eyJoaXN0b3J5IjpbLTQ1NDM1ODE0NV19
 -->
