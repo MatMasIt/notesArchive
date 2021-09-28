@@ -166,7 +166,9 @@ v 4 p 660
 Mero: puro
 
 San Tommaso telepatico, comprende i dubbi di Dante
+
+riferimento al canto rpecedente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTM4Mjk3OSw5ODQ5NjU5MjMsLTE4MD
-QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
+eyJoaXN0b3J5IjpbMzE2NDMwNTgsOTg0OTY1OTIzLC0xODA0MD
+YyODYwLC0xMjk5OTc3MjI3XX0=
 -->
