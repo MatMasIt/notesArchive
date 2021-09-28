@@ -38,6 +38,15 @@ Pallante, figlio di Evandro, alleato di Enea contro i Latini
 Dimora in Alba longa per 300 anni
 
 
+_Deci_ e _Fabi_ due gens romane
+
+
+
+Aràbi: cartaginesi
+
+
+Alpestre rocce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTk5NzcyMjddfQ==
+eyJoaXN0b3J5IjpbLTIwMjc2MTU2NzAsLTEyOTk5NzcyMjddfQ
+==
 -->
