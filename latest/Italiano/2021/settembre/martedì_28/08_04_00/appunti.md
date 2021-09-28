@@ -139,8 +139,12 @@ Francesco: campione di povertà
 
 Sposa madonna povertà
 
-San francesco di Giotto commissionato dai Bardi compie prodigi, celebra la vanagloria, deve soddisfare la richiesta dei ba
+San francesco di Giotto commissionato dai Bardi compie prodigi, celebra la vanagloria, deve soddisfare la richiesta dei banchieri
+
+p.674
+
+_Legenda Maior_(
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDYxMjI0OSw5ODQ5NjU5MjMsLTE4MD
-QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
+eyJoaXN0b3J5IjpbNDk4NjQ0MDY2LDk4NDk2NTkyMywtMTgwND
+A2Mjg2MCwtMTI5OTk3NzIyN119
 -->
