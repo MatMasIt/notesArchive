@@ -110,6 +110,12 @@ Margherita: termine latino
 perla, gemma
 
 Romeo di Villanova, come Pier delle Vigne immeritatamente considerato colpevole in vita
+
+Mal cammina chi si fa danno del ben fare altrui
+
+
+Procede male chi considera il buon operare altrui un danno per se stesso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDA1Njc5MCwtMTI5OTk3NzIyN119
+eyJoaXN0b3J5IjpbLTE4MDQwNjI4NjAsLTEyOTk5NzcyMjddfQ
+==
 -->
