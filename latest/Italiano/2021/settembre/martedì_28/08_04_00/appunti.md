@@ -91,6 +91,15 @@ Anno 1000
 v.97 Ormai puoi giudicare (quelli che si oppongono al simbolo)
 
 I lor falli
+
+Chi si allontana dal simbolo imperiale o lo segue con interessi imperiali lo danneggia
+
+
+
+Giustizia divina dell''aquila che punisce i superbi umani
+
+Carlo d'Angi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjM2NDQzNiwtMTI5OTk3NzIyN119
+eyJoaXN0b3J5IjpbLTE4MTQzOTEzODMsLTEyOTk5NzcyMjddfQ
+==
 -->
