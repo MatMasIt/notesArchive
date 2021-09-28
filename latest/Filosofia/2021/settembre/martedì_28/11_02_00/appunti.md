@@ -3,8 +3,6 @@
 
 Critiche di Kant:
 * Difende scienza che oggi nega di avere questo carattere
-* 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQwNjE1MDBdfQ==
+eyJoaXN0b3J5IjpbMTM3OTY4NzI2MiwtMTg0NDA2MTUwMF19
 -->
