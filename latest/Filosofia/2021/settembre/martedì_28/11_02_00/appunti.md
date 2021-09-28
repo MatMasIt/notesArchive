@@ -9,7 +9,9 @@ p. 3 punto 10.4
 Perhcè 12 categorie?
 
 conoscere _è_ giudicare
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzMjI4ODE1LDEzNzk2ODcyNjIsLTE4ND
-QwNjE1MDBdfQ==
+eyJoaXN0b3J5IjpbMzA1NDA0NTIzLDkzMzIyODgxNSwxMzc5Nj
+g3MjYyLC0xODQ0MDYxNTAwXX0=
 -->
