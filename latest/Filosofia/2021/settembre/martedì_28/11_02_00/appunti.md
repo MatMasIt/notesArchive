@@ -14,8 +14,8 @@ conoscere ssolola realtà per come appare
 obbietivo fondamentale della metafisica è irrealizzabile
 
 
-
+La conoscenza non funziona senza materiale  empirico o ca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTcyMzA1Myw5MzMyMjg4MTUsMTM3OT
-Y4NzI2MiwtMTg0NDA2MTUwMF19
+eyJoaXN0b3J5IjpbLTE3ODA0MjU1NjIsOTMzMjI4ODE1LDEzNz
+k2ODcyNjIsLTE4NDQwNjE1MDBdfQ==
 -->
