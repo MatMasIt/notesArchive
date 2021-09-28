@@ -59,7 +59,13 @@ Ricordata la guerra civile Cesare-Pompeo
 Epsodi delle Idi di Marzo
 
 
-v
+v.76-78
+
+Suoni infernali
+
+Cleopatria si da la morte dopo la morte di Marco Antonio
+
+Ottaviano porta-insegne
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzNjg5Mzg0LC0xMjk5OTc3MjI3XX0=
+eyJoaXN0b3J5IjpbMTEyNjg2MzAyOCwtMTI5OTk3NzIyN119
 -->
