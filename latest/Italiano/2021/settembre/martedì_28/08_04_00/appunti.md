@@ -87,6 +87,10 @@ Dante antisemita: ebrei giustamente vendicati da Vespasiano e Tito per aver comm
 si arriva ai longobardi (salto)
 
 Anno 1000
+
+v.97 Ormai puoi giudicare (quelli che si oppongono al simbolo)
+
+I lor falli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTc1MzE3NCwtMTI5OTk3NzIyN119
+eyJoaXN0b3J5IjpbMTcwMjM2NDQzNiwtMTI5OTk3NzIyN119
 -->
