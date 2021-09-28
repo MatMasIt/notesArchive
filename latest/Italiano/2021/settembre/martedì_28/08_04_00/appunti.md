@@ -206,8 +206,8 @@ madonna povertà rimase più vicina a gesù Cristo di Maria
 
 parlare figurato
 
-
+Bernardo da Quintavalle si scalzò
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc0MDg5ODksOTg0OTY1OTIzLC0xOD
-A0MDYyODYwLC0xMjk5OTc3MjI3XX0=
+eyJoaXN0b3J5IjpbMTk2NjMzMzM5MCw5ODQ5NjU5MjMsLTE4MD
+QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
 -->
