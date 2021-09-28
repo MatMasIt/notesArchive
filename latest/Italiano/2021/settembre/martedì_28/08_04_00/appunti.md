@@ -230,8 +230,10 @@ Il gregge si sparge per diversi salti
 
 più si allontantano dalla dottrina di francesco più si svuotano spiritualmente (latte, metafora)
 
+San Tommaso auocritica sul suo ordine (Domenicano)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc3MTQxMDMsOTg0OTY1OTIzLC0xOD
-A0MDYyODYwLC0xMjk5OTc3MjI3XX0=
+eyJoaXN0b3J5IjpbNzA0NjU3ODE3LDk4NDk2NTkyMywtMTgwND
+A2Mjg2MCwtMTI5OTk3NzIyN119
 -->
