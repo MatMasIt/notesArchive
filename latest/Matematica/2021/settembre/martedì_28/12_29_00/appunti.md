@@ -22,6 +22,15 @@ $$
 e^{x\ln \sin x}\left(\ln \sin x +x \cot x \right)
 $$
 
+---
+
+$$
+f(x)=x^x=e^{x\ln x}
+$$
+
+$$
+\dot{y}=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDI2NDg3NF19
+eyJoaXN0b3J5IjpbMTU1NjI0MTM3OCwxMDkwMjY0ODc0XX0=
 -->
