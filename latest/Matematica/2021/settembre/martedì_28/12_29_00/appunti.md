@@ -142,7 +142,7 @@ Un prodotto di successo
 > $t$ in settimane 
 
 $$
-N(t)=\frac{8000t^2}{(2t+1)^2}
+N(t)=\frac{8\small{'}000t^2}{(2t+1)^2}
 $$
 
 $Velocità$ di crescita delle unità vendute dopo $2$ settimane
@@ -153,9 +153,16 @@ $$
 
 
 $$
-N^{'}(t)=\frac{16\small{'}000t(2t+1)^2-2(2t+1)\cdot2\cdot 8\small{'}}{(2t+1)^4}
+N^{'}(t)=\frac{16\small{'}000t(2t+1)^2-2(2t+1)\cdot2\cdot 8\small{'}000t^2}{(2t+1)^4}
+$$
+$$
+=\frac{16\small{'}000t(2t+1)^2-32\small{'}000t^2(2t+1)}{(2t+1)^4}
+$$
+
+$$
+16\sma
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzODY1OTUyLDY2MzM4MTcyMCw4MjgyNj
-U2NDcsMTM5NDA0NTg0NiwxMDkwMjY0ODc0XX0=
+eyJoaXN0b3J5IjpbLTE4MTcwNTc2MDksNjYzMzgxNzIwLDgyOD
+I2NTY0NywxMzk0MDQ1ODQ2LDEwOTAyNjQ4NzRdfQ==
 -->
