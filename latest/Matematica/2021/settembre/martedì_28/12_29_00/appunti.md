@@ -184,8 +184,16 @@ $$
 $m_r=11$
 
 $y^{'}=3x^2-6x+2$
+
+$y^{'}11$
+
+$\cancel 3x^2-\cancel 6{}^{\to 2}x-\cancel 9{}^{\to3}=0$
+
+$$
+x=\fac{1\pm\sqrt{\+3}{}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTY2MTYyNywtMTA3ODc4MzI5Miw2Nj
-MzODE3MjAsODI4MjY1NjQ3LDEzOTQwNDU4NDYsMTA5MDI2NDg3
-NF19
+eyJoaXN0b3J5IjpbNjM0Mzk0NzI1LC0xMDc4NzgzMjkyLDY2Mz
+M4MTcyMCw4MjgyNjU2NDcsMTM5NDA0NTg0NiwxMDkwMjY0ODc0
+XX0=
 -->
