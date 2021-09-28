@@ -136,7 +136,11 @@ Dura poco
 Guininzeli $\to$ Cavalcanti $\to$ Dante
 
 Francesco: campione di povertà
+
+Sposa madonna povertà
+
+San francesco di Giotto commissionato dai Bardi compie prodigi, celebra la vanagloria, deve soddisfare la richiesta dei ba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDg5Mjk0NTMsOTg0OTY1OTIzLC0xOD
-A0MDYyODYwLC0xMjk5OTc3MjI3XX0=
+eyJoaXN0b3J5IjpbLTc4MDYxMjI0OSw5ODQ5NjU5MjMsLTE4MD
+QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
 -->
