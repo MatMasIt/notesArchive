@@ -119,7 +119,9 @@ Procede male chi considera il buon operare altrui un danno per se stesso
 Se tutti avessero la sua costanza
 
 dante rivolge a se stesso
+
+cAnto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0OTY1OTIzLC0xODA0MDYyODYwLC0xMj
-k5OTc3MjI3XX0=
+eyJoaXN0b3J5IjpbODQ0NTUyMzYyLDk4NDk2NTkyMywtMTgwND
+A2Mjg2MCwtMTI5OTk3NzIyN119
 -->
