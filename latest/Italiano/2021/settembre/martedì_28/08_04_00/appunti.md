@@ -224,7 +224,14 @@ Francesco volle essere lasciato morire sulla nuda terra
 Agiografia epica, con  elementi delle Chansons des gestes
 
 Francesco messo in terra per mantener la barca di Pietro in _dritto segno_
+
+
+Il gregge si sparge per diversi salti
+
+più si allontantano dalla dottrina di francesco più si svuotano spiritualmente (latte, metafora)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ2Njc0NjcsOTg0OTY1OTIzLC0xOD
+eyJoaXN0b3J5IjpbLTE3Mzc3MTQxMDMsOTg0OTY1OTIzLC0xOD
 A0MDYyODYwLC0xMjk5OTc3MjI3XX0=
 -->
