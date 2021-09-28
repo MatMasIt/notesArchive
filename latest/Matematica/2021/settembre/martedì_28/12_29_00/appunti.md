@@ -8,6 +8,14 @@ $f(x)=\left(\sin x\right)^x=e^{\ln(\sin x)^x}=e^{x\ln\sin x}$
 * esponenziale
 * prodotto
 * $\ln$
+* $\sin$
+
+
+$$
+\frac{df(x)}{dx}=e^{x\ln \sin x}
+$$
+
+1. Derivata di un prodotto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0NTE0MDY0XX0=
+eyJoaXN0b3J5IjpbODE2Nzg1NDA5XX0=
 -->
