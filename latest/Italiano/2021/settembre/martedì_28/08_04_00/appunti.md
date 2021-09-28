@@ -53,6 +53,9 @@ Campagna di Gallia (anni 50 del primo secolo)
 
 Imprese di Gneo Pompeo in Spagna
 
+
+Ricordata la guerra civile Cesare-Pompeo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2ODAwNTI4LC0xMjk5OTc3MjI3XX0=
+eyJoaXN0b3J5IjpbLTEyNzI0OTA0NzgsLTEyOTk5NzcyMjddfQ
+==
 -->
