@@ -188,7 +188,13 @@ nascita di francesco come il sole che nasce dal fiume gange
 
 
 Oriemte di Perugia
+
+Occasio: tramonto
+
+per tal donna (povertà) corse in guerra del padre
+
+Nessun uomo da 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyNDMyODE2LDk4NDk2NTkyMywtMTgwND
-A2Mjg2MCwtMTI5OTk3NzIyN119
+eyJoaXN0b3J5IjpbMTY0NjY3OTE0NSw5ODQ5NjU5MjMsLTE4MD
+QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
 -->
