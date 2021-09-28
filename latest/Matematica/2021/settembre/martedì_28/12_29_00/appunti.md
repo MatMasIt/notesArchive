@@ -99,8 +99,17 @@ $$
 
 $es$ $343$ $p$ $53$
 
-$y=(2x)^x$   
+tangente in $x_P=1$
+$y=(2x)^x$   $x_P=1$ $y-y_P=f^{'}(x_P)(x-x_P)$
+
+
+
+$$
+\begin{equation*} \begin{cases}
+x_P=1\\
+y_P=(2\dc \end{cases} \end{equation*}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Mjc1ODM3OSw4MjgyNjU2NDcsMTM5ND
+eyJoaXN0b3J5IjpbMTQ4OTkzNDE3Niw4MjgyNjU2NDcsMTM5ND
 A0NTg0NiwxMDkwMjY0ODc0XX0=
 -->
