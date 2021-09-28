@@ -69,6 +69,10 @@ y^{''}+2y^{'}=2\sin x\\
 $$
 
 
+$$
+y^{'}=a\cod
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTU4NjMzNSwxMDkwMjY0ODc0XX0=
+eyJoaXN0b3J5IjpbNTA0Mjg0OTc3LDEwOTAyNjQ4NzRdfQ==
 -->
