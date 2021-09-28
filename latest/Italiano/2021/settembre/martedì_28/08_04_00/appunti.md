@@ -223,8 +223,8 @@ Francesco volle essere lasciato morire sulla nuda terra
 
 Agiografia epica, con  elementi delle Chansons des gestes
 
-
+Francesco messo in terra per mantener la barca di Pietro in _dritto segno_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjQ4NzQ0Myw5ODQ5NjU5MjMsLTE4MD
-QwNjI4NjAsLTEyOTk5NzcyMjddfQ==
+eyJoaXN0b3J5IjpbLTExMDQ2Njc0NjcsOTg0OTY1OTIzLC0xOD
+A0MDYyODYwLC0xMjk5OTc3MjI3XX0=
 -->
