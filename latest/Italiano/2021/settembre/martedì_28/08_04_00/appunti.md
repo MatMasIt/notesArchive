@@ -42,11 +42,10 @@ _Deci_ e _Fabi_ due gens romane
 
 
 
-Aràbi: cartaginesi
+Aràbi: cartaginesi (==scarto di 700 anni== tra cartaginesi e Arabi)
 
 
-Alpestre rocce
+Alpestre rocce: Alpi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc2MTU2NzAsLTEyOTk5NzcyMjddfQ
-==
+eyJoaXN0b3J5IjpbMjU2OTkzNjUwLC0xMjk5OTc3MjI3XX0=
 -->
