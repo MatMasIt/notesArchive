@@ -97,8 +97,10 @@ $$
 
 ---
 
+$es$ $343$ $p$ $53$
 
+$y=(2x)^x$   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY4MzY3MzgsODI4MjY1NjQ3LDEzOT
-QwNDU4NDYsMTA5MDI2NDg3NF19
+eyJoaXN0b3J5IjpbMTM3Mjc1ODM3OSw4MjgyNjU2NDcsMTM5ND
+A0NTg0NiwxMDkwMjY0ODc0XX0=
 -->
