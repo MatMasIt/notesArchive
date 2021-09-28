@@ -31,7 +31,10 @@ idee di :
 
 nostra tendenza ingiustificata a costruite totalità
 queste non sono mai conoscenze, non entriamo mai in contatto con a totalità, questo modo di funzionare dell'intelletto causa la metafisica
+
+
+Far funzionare le categorie a vuoto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDIwODQwNSw1MDU2OTQ2NjgsOTMzMj
+eyJoaXN0b3J5IjpbLTUxNzg0NjY3OSw1MDU2OTQ2NjgsOTMzMj
 I4ODE1LDEzNzk2ODcyNjIsLTE4NDQwNjE1MDBdfQ==
 -->
