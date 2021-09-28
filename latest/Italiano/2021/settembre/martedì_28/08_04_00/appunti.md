@@ -10,7 +10,7 @@ Artificio letterario
 
 Lungo discorso storico-celebrativo sulla necessità del potere imperiale
 
-Visione provvidenzialistica del mondo
+Visione provvidenzialistica del mondo, con scarso senso della prospettiva storica e che mescola leggenda e realtà, compie errori
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDM1ODE0NV19
+eyJoaXN0b3J5IjpbLTE5OTEyODcwNzVdfQ==
 -->
