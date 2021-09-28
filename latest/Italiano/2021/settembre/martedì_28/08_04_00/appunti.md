@@ -115,7 +115,11 @@ Mal cammina chi si fa danno del ben fare altrui
 
 
 Procede male chi considera il buon operare altrui un danno per se stesso
+
+Se tutti avessero la sua costanza
+
+dante rivolge a se stesso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQwNjI4NjAsLTEyOTk5NzcyMjddfQ
-==
+eyJoaXN0b3J5IjpbOTg0OTY1OTIzLC0xODA0MDYyODYwLC0xMj
+k5OTc3MjI3XX0=
 -->
