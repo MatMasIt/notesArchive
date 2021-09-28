@@ -190,10 +190,17 @@ $y^{'}11$
 $\cancel 3x^2-\cancel 6{}^{\to 2}x-\cancel 9{}^{\to3}=0$
 
 $$
-x=\fac{1\pm\sqrt{\+3}{}
+x=\frac{1\pm\sqrt{1+3}}{1}=1\pm 2=\left\{-1;3\right\}
 $$
+
+---
+
+$562$
+
+Sc
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0Mzk0NzI1LC0xMDc4NzgzMjkyLDY2Mz
-M4MTcyMCw4MjgyNjU2NDcsMTM5NDA0NTg0NiwxMDkwMjY0ODc0
-XX0=
+eyJoaXN0b3J5IjpbLTIwMzMwODA2MjcsLTEwNzg3ODMyOTIsNj
+YzMzgxNzIwLDgyODI2NTY0NywxMzk0MDQ1ODQ2LDEwOTAyNjQ4
+NzRdfQ==
 -->
