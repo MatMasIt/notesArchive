@@ -81,6 +81,12 @@ Giustizia v.88,121
 
 
 Gloria di far vendetta mediante alla crocifissione di Ges+ di far vendetta per Dio riguardo al peccato originale
+
+Dante antisemita: ebrei giustamente vendicati da Vespasiano e Tito per aver commesso il deicidio
+
+si arriva ai longobardi (salto)
+
+Anno 1000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTcxNzIwNSwtMTI5OTk3NzIyN119
+eyJoaXN0b3J5IjpbMTg3NTc1MzE3NCwtMTI5OTk3NzIyN119
 -->
