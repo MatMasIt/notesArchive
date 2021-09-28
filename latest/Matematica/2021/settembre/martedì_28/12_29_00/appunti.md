@@ -160,9 +160,14 @@ $$
 $$
 
 $$
-\frac{16\small{'}000t(2t+1)(\cancel{2t}+1-\cancel{2t})}{(2t+1)^{{\cancel4}^{\3}}
+\frac{16\small{'}000t\cancel{(2t+1)}(\cancel{2t}+1-\cancel{2t})}{(2t+1)^{{\cancel4}^{\to3}}}=\frac{16\small{'}000t}{(2t+1)^3}
+$$
+
+
+$$
+\dot N=\frac{32\small^{'}000}{125}=\frac{256}{settimane}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1Nzc3MTE0LDY2MzM4MTcyMCw4MjgyNj
-U2NDcsMTM5NDA0NTg0NiwxMDkwMjY0ODc0XX0=
+eyJoaXN0b3J5IjpbMTc2MjUzMTg5OSw2NjMzODE3MjAsODI4Mj
+Y1NjQ3LDEzOTQwNDU4NDYsMTA5MDI2NDg3NF19
 -->
