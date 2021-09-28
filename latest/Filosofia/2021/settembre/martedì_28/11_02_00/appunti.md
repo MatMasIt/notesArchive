@@ -34,7 +34,10 @@ queste non sono mai conoscenze, non entriamo mai in contatto con a totalità, qu
 
 
 Far funzionare le categorie a vuoto
+
+Kant: Dio è un postulato della ragioen pratica (sfera morale)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzg0NjY3OSw1MDU2OTQ2NjgsOTMzMj
-I4ODE1LDEzNzk2ODcyNjIsLTE4NDQwNjE1MDBdfQ==
+eyJoaXN0b3J5IjpbLTE4OTIxODI5NjQsNTA1Njk0NjY4LDkzMz
+IyODgxNSwxMzc5Njg3MjYyLC0xODQ0MDYxNTAwXX0=
 -->
