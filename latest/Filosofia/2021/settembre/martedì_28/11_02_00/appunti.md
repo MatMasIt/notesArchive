@@ -20,7 +20,15 @@ conoscenza pura non esiste
 esperienza è sempre di ==porzioni limitate== sia ==interna== che ==esterna==
 
 
+
+oi facciamo uso etra-empiricodelle categorie:
+idee trascendentali (totalità assoluta)
+
+idee di :
+* anima: totalità degli stati interni
+* mondo: totalità dei fenomeni esterni
+* Dio: totalità di tutte le totalità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDAxMDE3MCw1MDU2OTQ2NjgsOTMzMj
-I4ODE1LDEzNzk2ODcyNjIsLTE4NDQwNjE1MDBdfQ==
+eyJoaXN0b3J5IjpbLTExOTEyMDAzNzMsNTA1Njk0NjY4LDkzMz
+IyODgxNSwxMzc5Njg3MjYyLC0xODQ0MDYxNTAwXX0=
 -->
