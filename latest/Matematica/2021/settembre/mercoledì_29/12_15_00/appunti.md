@@ -63,7 +63,12 @@ $$
 maggioranti: tutti i valori che super
 
 Insieme di tutti i  maggioranti degli eementi di un insieme
+
+Se estremo superiore coincide con ultimo elemento dell'intervallo  è il a
+
+$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTgwNTc4LDE5OTc3MDI5MTAsLTEzOT
-cwMjQ0NTAsMzQwMDMwMDQ5LDEyNjI4NjcyMzldfQ==
+eyJoaXN0b3J5IjpbLTkzOTAzNzczMiwxOTk3NzAyOTEwLC0xMz
+k3MDI0NDUwLDM0MDAzMDA0OSwxMjYyODY3MjM5XX0=
 -->
