@@ -7,6 +7,9 @@ Mushroom towns near factories
 * no hygene
 * overcrowding
 * workers explorati
+
+
+steam po
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjY1MzQ3MV19
+eyJoaXN0b3J5IjpbLTEyMjIxODc5MTBdfQ==
 -->
