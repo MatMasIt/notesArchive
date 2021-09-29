@@ -76,8 +76,10 @@ $$
 
 
 $$
+\R=R\bigcup\left\{\pm \infin\right\}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjE0NTMzNiwtMTA3MjIxMzU3MCwxOT
-k3NzAyOTEwLC0xMzk3MDI0NDUwLDM0MDAzMDA0OSwxMjYyODY3
-MjM5XX0=
+eyJoaXN0b3J5IjpbNjY0OTg5OTY5LC0xMDcyMjEzNTcwLDE5OT
+c3MDI5MTAsLTEzOTcwMjQ0NTAsMzQwMDMwMDQ5LDEyNjI4Njcy
+MzldfQ==
 -->
