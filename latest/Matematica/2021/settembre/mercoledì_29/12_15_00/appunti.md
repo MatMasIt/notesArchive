@@ -73,7 +73,11 @@ $$
 
 ==Maggioranti==: dopo estremo superiore
 ==Minoranti==: prima estremo inferirore
+
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzIyMTM1NzAsMTk5NzcwMjkxMCwtMT
-M5NzAyNDQ1MCwzNDAwMzAwNDksMTI2Mjg2NzIzOV19
+eyJoaXN0b3J5IjpbLTc3MjE0NTMzNiwtMTA3MjIxMzU3MCwxOT
+k3NzAyOTEwLC0xMzk3MDI0NDUwLDM0MDAzMDA0OSwxMjYyODY3
+MjM5XX0=
 -->
