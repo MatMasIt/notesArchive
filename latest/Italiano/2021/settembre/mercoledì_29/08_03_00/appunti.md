@@ -83,7 +83,10 @@ Canto  XVII
 > O cara piota mia
 
 v13
+
+Con stessa evidenza geometrica ( 2 angoli ottusi ) lui vede le cose
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjcwMzg2OTEsMjI4MjYyOTc0LDc4Mz
-U0ODYzNCwtMjExMzkxNDY1NF19
+eyJoaXN0b3J5IjpbNTU5OTQ5NTA0LDIyODI2Mjk3NCw3ODM1ND
+g2MzQsLTIxMTM5MTQ2NTRdfQ==
 -->
