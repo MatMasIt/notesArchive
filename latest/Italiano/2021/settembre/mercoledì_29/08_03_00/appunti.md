@@ -7,6 +7,9 @@ ci si nutre spiritualmente se non si vaneggia
 
 
 francesco figura christi riceve le stimmate
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzNTQ4NjM0LC0yMTEzOTE0NjU0XX0=
+eyJoaXN0b3J5IjpbMjI4MjYyOTc0LDc4MzU0ODYzNCwtMjExMz
+kxNDY1NF19
 -->
