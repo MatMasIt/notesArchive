@@ -35,9 +35,11 @@ countryside landscape and makes me feel calm
 * quiet
 * calm
 William Wordswoth, poet analogies with Constable's paintings
-==The trave
+==The traveller==
+* Fascination 
+* Contemplation
 Main subject: nature and its manifestation in all 3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4MjY2ODc4LC0yMjM3MDE2NTAsLTg0OD
+eyJoaXN0b3J5IjpbMTUyMTc4ODEzLC0yMjM3MDE2NTAsLTg0OD
 gwMDQ5Ml19
 -->
