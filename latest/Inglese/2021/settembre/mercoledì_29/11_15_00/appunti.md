@@ -32,10 +32,11 @@ main subject is a shipwreck which makes me feel unsettled
 Hay wain: (carro per fieno)
 countryside landscape and makes me feel calm
 * peaceful
-* quie
-
+* quiet
+* calm
+Wi
 Main subject: nature and its manifestation in all 3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQ0MjAzNzUsLTIyMzcwMTY1MCwtOD
-Q4ODAwNDkyXX0=
+eyJoaXN0b3J5IjpbMTY5NDgwNjQyOCwtMjIzNzAxNjUwLC04ND
+g4MDA0OTJdfQ==
 -->
