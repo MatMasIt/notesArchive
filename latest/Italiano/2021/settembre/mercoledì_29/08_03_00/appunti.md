@@ -71,8 +71,19 @@ v.33
 
 interesse linguistico, evoluzine lingua da Cacciaguida a Dante
 
-* libero arbi
+* libero arbitrio
+* predestinazione
+* crescenza
+* viaggio
+* profezia
+Trisavolo
+
+Canto  XVII
+
+> O cara piota mia
+
+v13
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyNzc1MDExLDIyODI2Mjk3NCw3ODM1ND
-g2MzQsLTIxMTM5MTQ2NTRdfQ==
+eyJoaXN0b3J5IjpbLTIwNjcwMzg2OTEsMjI4MjYyOTc0LDc4Mz
+U0ODYzNCwtMjExMzkxNDY1NF19
 -->
