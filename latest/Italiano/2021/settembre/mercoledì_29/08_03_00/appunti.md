@@ -35,7 +35,12 @@ presentato con tresimilitudini
 
 v28 cacciaguida
 altri fecero il viaggio di Dante?
+dante si chiede se è degno
+
+
+v.88 fronda mia
+Dante si egualia a Gesù cristo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzI4MzIwMSwyMjgyNjI5NzQsNzgzNT
+eyJoaXN0b3J5IjpbMTA2Njk0NjkyNCwyMjgyNjI5NzQsNzgzNT
 Q4NjM0LC0yMTEzOTE0NjU0XX0=
 -->
