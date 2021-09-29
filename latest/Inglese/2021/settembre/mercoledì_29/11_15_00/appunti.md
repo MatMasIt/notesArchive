@@ -53,7 +53,11 @@ Sublime elements:
 uncontrollable nature
 
 W.Wordsworth nature as a spirituall healer
+
+Sublime: colleridge (Samuel Taylor)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODYwMzk2MiwtMTU2NjQ0ODg5MCwtMj
-IzNzAxNjUwLC04NDg4MDA0OTJdfQ==
+eyJoaXN0b3J5IjpbLTE5MDkwMTkyNzQsLTE1NjY0NDg4OTAsLT
+IyMzcwMTY1MCwtODQ4ODAwNDkyXX0=
 -->
