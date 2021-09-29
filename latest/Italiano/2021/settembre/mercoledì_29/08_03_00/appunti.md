@@ -66,7 +66,13 @@ primizia: capostipite
 Quanti erano  buoni politici (alti scranni)
 
 Blandire
+
+v.33 
+
+interesse linguistico, evoluzine lingua da Cacciaguida a Dante
+
+* libero arbi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODY4NjE4NSwyMjgyNjI5NzQsNzgzNT
-Q4NjM0LC0yMTEzOTE0NjU0XX0=
+eyJoaXN0b3J5IjpbNTMyNzc1MDExLDIyODI2Mjk3NCw3ODM1ND
+g2MzQsLTIxMTM5MTQ2NTRdfQ==
 -->
