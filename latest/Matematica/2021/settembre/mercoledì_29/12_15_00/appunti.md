@@ -28,6 +28,17 @@ Ammette due soluzioni
 
 $t=0$
 $t=2$
+
+
+$\ln k=0$
+$k=1$
+$\ln k=2=\ln e^2$
+$k=e^2$
+
+
+---
+$\ln^2x=(\lnx)^2=\ln x\ln x$
+$\lnx^2=2\
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwOTMyNTEyXX0=
+eyJoaXN0b3J5IjpbMjg4MzM4MTAzXX0=
 -->
