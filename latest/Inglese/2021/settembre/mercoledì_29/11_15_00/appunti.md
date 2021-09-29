@@ -9,7 +9,15 @@ Mushroom towns near factories
 * workers explorati
 
 
-steam po
+steam power:
+* transportation
+* textile
+
+---
+
+Three paingings
+* Subject
+* emotions conveyed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjIxODc5MTBdfQ==
+eyJoaXN0b3J5IjpbLTEwNjQ2NjA0MTVdfQ==
 -->
