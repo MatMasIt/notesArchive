@@ -20,7 +20,11 @@ Ricerca medievisti
 
 
 Piota: radice
+
+p.91
+
+cacciaguida: atti notarili: prova di eistenza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM2MDc0OTMsMjI4MjYyOTc0LDc4Mz
+eyJoaXN0b3J5IjpbLTExNjQ2NTQ3MTMsMjI4MjYyOTc0LDc4Mz
 U0ODYzNCwtMjExMzkxNDY1NF19
 -->
