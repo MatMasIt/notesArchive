@@ -57,8 +57,13 @@ crociata
 Canto $XVI$
 Dante si rivolge e Cacciaguida
 
+termini che sottoindendono ascensione
+
+anafora VOI, deferenza
+
+primizia: capostipite
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0NTM5Mzg1LDIyODI2Mjk3NCw3ODM1ND
-g2MzQsLTIxMTM5MTQ2NTRdfQ==
+eyJoaXN0b3J5IjpbMTgzMjE0MDcxOCwyMjgyNjI5NzQsNzgzNT
+Q4NjM0LC0yMTEzOTE0NjU0XX0=
 -->
