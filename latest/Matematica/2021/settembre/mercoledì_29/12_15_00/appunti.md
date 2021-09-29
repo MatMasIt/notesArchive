@@ -42,7 +42,9 @@ $\ln x^2=2\ln x$
 
 ---
 ---
-
+# I limiti
+Problemi del 1600:
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Mjg2NzIzOV19
+eyJoaXN0b3J5IjpbMzQwMDMwMDQ5LDEyNjI4NjcyMzldfQ==
 -->
