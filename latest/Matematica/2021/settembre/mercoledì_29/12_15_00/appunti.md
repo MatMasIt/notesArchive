@@ -52,7 +52,16 @@ Problemi del 1600:
 ---
 $x \leq a \lor b < x \leq c$
 $(-\infin,a]\bigcup\space (b,c]$
+
+
+--
+$$
+\left\{a,b,c,d,...\right\}\\
+(b,c]
+$$
+
+maggioranti: tutti i valori che super
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzcwMjkxMCwtMTM5NzAyNDQ1MCwzND
-AwMzAwNDksMTI2Mjg2NzIzOV19
+eyJoaXN0b3J5IjpbMTE0MzkyNjY3MiwxOTk3NzAyOTEwLC0xMz
+k3MDI0NDUwLDM0MDAzMDA0OSwxMjYyODY3MjM5XX0=
 -->
