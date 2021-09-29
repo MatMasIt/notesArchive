@@ -867,6 +867,11 @@
                             "appunti.md"
                         ]
                     },
+                    "mercoled\u00ec_29": {
+                        "12_15_00": [
+                            "appunti.md"
+                        ]
+                    },
                     "marted\u00ec_14": {
                         "08_32_00": [
                             "appunti.md"
@@ -1973,8 +1978,8 @@
         }
     ],
     "lastUpdate": {
-        "unix": 1632908464,
-        "human": "29\/09\/2021 09:41:04",
+        "unix": 1632910956,
+        "human": "29\/09\/2021 10:22:36",
         "timezone": "UTC"
     }
 }
