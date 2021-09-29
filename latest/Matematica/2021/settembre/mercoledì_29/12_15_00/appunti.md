@@ -71,9 +71,9 @@ A=\phi \\
 A=(b,c]
 $$
 
-Maggioranti: dopo estremo superiore
-mina
+==Maggioranti==: dopo estremo superiore
+==Minoranti==: prima estremo inferirore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzA1MTQ3NywxOTk3NzAyOTEwLC0xMz
-k3MDI0NDUwLDM0MDAzMDA0OSwxMjYyODY3MjM5XX0=
+eyJoaXN0b3J5IjpbLTEwNzIyMTM1NzAsMTk5NzcwMjkxMCwtMT
+M5NzAyNDQ1MCwzNDAwMzAwNDksMTI2Mjg2NzIzOV19
 -->
