@@ -47,8 +47,12 @@ Problemi del 1600:
 * Ottimizzazione
 * Calcolo area
 * Fisica
-![
+![](https://i.imgur.com/DqWnwA6.jpg)
+
+---
+$x \leq a \lor b < x \leq c$
+$(-\infin,a]\bigcup\space (b,c]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUxMDQzMDIsLTEzOTcwMjQ0NTAsMz
-QwMDMwMDQ5LDEyNjI4NjcyMzldfQ==
+eyJoaXN0b3J5IjpbMTk5NzcwMjkxMCwtMTM5NzAyNDQ1MCwzND
+AwMzAwNDksMTI2Mjg2NzIzOV19
 -->
