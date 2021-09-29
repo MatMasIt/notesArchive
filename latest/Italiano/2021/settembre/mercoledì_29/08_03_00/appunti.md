@@ -63,7 +63,10 @@ anafora VOI, deferenza
 
 primizia: capostipite
 
+Quanti erano  buoni politici (alti scranni)
+
+Blandire
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjE0MDcxOCwyMjgyNjI5NzQsNzgzNT
+eyJoaXN0b3J5IjpbMTA2ODY4NjE4NSwyMjgyNjI5NzQsNzgzNT
 Q4NjM0LC0yMTEzOTE0NjU0XX0=
 -->
