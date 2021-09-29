@@ -48,10 +48,10 @@ Sublime: provokes ==@fascination@==, admiration, fear, astonishment at the same 
  Concept theorized by philosoper _Edmund Burke_ in $1757$
 Sublime elements:
 * Vastness of the sea
-* call of the voide (cliff, skyscraper, parachute)
+* call of the void (cliff, skyscraper, parachute)
 
 uncontrollable nature
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4NjcwNDQ1LC0xNTY2NDQ4ODkwLC0yMj
-M3MDE2NTAsLTg0ODgwMDQ5Ml19
+eyJoaXN0b3J5IjpbLTE5Mzc1NzE0MTQsLTE1NjY0NDg4OTAsLT
+IyMzcwMTY1MCwtODQ4ODAwNDkyXX0=
 -->
