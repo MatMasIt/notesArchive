@@ -37,8 +37,12 @@ $k=e^2$
 
 
 ---
-$\ln^2x=(\lnx)^2=\ln x\ln x$
-$\lnx^2=2\
+$\ln^2x=(\ln x)^2=\ln x\ln x$
+$\ln x^2=2\ln x$
+
+---
+---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4MzM4MTAzXX0=
+eyJoaXN0b3J5IjpbMTI2Mjg2NzIzOV19
 -->
