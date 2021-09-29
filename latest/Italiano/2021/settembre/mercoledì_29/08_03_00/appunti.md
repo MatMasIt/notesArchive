@@ -29,9 +29,13 @@ cacciaguida: atti notarili: prova di eistenza
 
 presentato con tresimilitudini
 * stelle cadente v 16 
-* fuoco dietr alabastro v 24
-* 
+* fuoco dietro alabastro v 24
+* 27 similitudine metafisica
+
+
+v28 cacciaguida
+altri fecero il viaggio di Dante?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjUzNDIzMTYsMjI4MjYyOTc0LDc4Mz
-U0ODYzNCwtMjExMzkxNDY1NF19
+eyJoaXN0b3J5IjpbMTI4MzI4MzIwMSwyMjgyNjI5NzQsNzgzNT
+Q4NjM0LC0yMTEzOTE0NjU0XX0=
 -->
