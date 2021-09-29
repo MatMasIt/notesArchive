@@ -64,11 +64,16 @@ maggioranti: tutti i valori che super
 
 Insieme di tutti i  maggioranti degli eementi di un insieme
 
-Se estremo superiore coincide con ultimo elemento dell'intervallo  è il a
+Se estremo superiore coincide con ultimo elemento dell'intervallo  è il massimo
 
 $$
+A=\phi \\
+A=(b,c]
 $$
+
+Maggioranti: dopo estremo superiore
+mina
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTAzNzczMiwxOTk3NzAyOTEwLC0xMz
+eyJoaXN0b3J5IjpbMTM4NzA1MTQ3NywxOTk3NzAyOTEwLC0xMz
 k3MDI0NDUwLDM0MDAzMDA0OSwxMjYyODY3MjM5XX0=
 -->
