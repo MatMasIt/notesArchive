@@ -21,9 +21,15 @@ Three paingings
 * Leitmotiv between three paintings
 
 Shipwerck:
-main subject is a shipwreck which makes me feel
-naturallaape and makes me feel calm
+main subject is a shipwreck which makes me feel unsettled
+* Fear 
+* Uncontrolla
+Countryside
+countryside landscape and makes me feel calm
 
+
+
+Main subject: nature and its manifestation in all 3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDk5NjMxNF19
+eyJoaXN0b3J5IjpbLTg0ODgwMDQ5Ml19
 -->
