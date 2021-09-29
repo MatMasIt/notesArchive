@@ -1228,6 +1228,11 @@
                     }
                 },
                 "settembre": {
+                    "mercoled\u00ec_29": {
+                        "11_15_00": [
+                            "appunti.md"
+                        ]
+                    },
                     "mercoled\u00ec_15": {
                         "08_57_00": [
                             "appunti.md"
@@ -1968,8 +1973,8 @@
         }
     ],
     "lastUpdate": {
-        "unix": 1632904968,
-        "human": "29\/09\/2021 08:42:48",
+        "unix": 1632907143,
+        "human": "29\/09\/2021 09:19:03",
         "timezone": "UTC"
     }
 }
