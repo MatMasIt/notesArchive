@@ -46,7 +46,9 @@ Main subject: nature and its manifestation in all 3
 Sublime: provokes ==@fascination@==, admiration, fear, astonishment at the same time, usually caused by nautre
  
  Concept theorized by philosoper _Edmund Burke_ in $1757$
+Subli
+Vastness of the sea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzAwNTkwNzQsLTIyMzcwMTY1MCwtOD
+eyJoaXN0b3J5IjpbLTEwMzkyMzI3NjEsLTIyMzcwMTY1MCwtOD
 Q4ODAwNDkyXX0=
 -->
