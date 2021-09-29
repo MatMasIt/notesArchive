@@ -78,8 +78,11 @@ $$
 $$
 \R=R\bigcup\left\{\pm \infin\right\}
 $$
+
+Funzione:
+relazione che assegna ad ogni elemento del primo insime uno e uno solo del secondo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0OTg5OTY5LC0xMDcyMjEzNTcwLDE5OT
-c3MDI5MTAsLTEzOTcwMjQ0NTAsMzQwMDMwMDQ5LDEyNjI4Njcy
-MzldfQ==
+eyJoaXN0b3J5IjpbMTY0ODU2ODY0MCwtMTA3MjIxMzU3MCwxOT
+k3NzAyOTEwLC0xMzk3MDI0NDUwLDM0MDAzMDA0OSwxMjYyODY3
+MjM5XX0=
 -->
