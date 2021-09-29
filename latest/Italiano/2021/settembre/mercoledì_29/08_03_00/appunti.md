@@ -45,8 +45,11 @@ lungo elogio della antica firenze prima della _gente nova e di subiti guadagni_
 
 mariti non andavano in francia, quindi donne erano sempre felici di avere mariti accanto a loro
 
+padri emadri favorivano apprendimento lingua nativa con lallazione
 
+
+v 130 nascita Cacciaguida
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDU1NjI3NCwyMjgyNjI5NzQsNzgzNT
+eyJoaXN0b3J5IjpbMTQ1MTIyNDE3MCwyMjgyNjI5NzQsNzgzNT
 Q4NjM0LC0yMTEzOTE0NjU0XX0=
 -->
