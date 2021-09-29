@@ -50,8 +50,15 @@ padri emadri favorivano apprendimento lingua nativa con lallazione
 
 v 130 nascita Cacciaguida
 
-parte
+partecipa alla legge iniqua
+
+crociata
+
+Canto $XVI$
+Dante si rivolge e Cacciaguida
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1MjgyODc2LDIyODI2Mjk3NCw3ODM1ND
+eyJoaXN0b3J5IjpbNTg0NTM5Mzg1LDIyODI2Mjk3NCw3ODM1ND
 g2MzQsLTIxMTM5MTQ2NTRdfQ==
 -->
