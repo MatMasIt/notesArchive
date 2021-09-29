@@ -49,7 +49,9 @@ Sublime: provokes ==@fascination@==, admiration, fear, astonishment at the same 
 Sublime elements:
 * Vastness of the sea
 * call of the voide (cliff, skyscraper, parachute)
+
+uncontrollable nature
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY0NDg4OTAsLTIyMzcwMTY1MCwtOD
-Q4ODAwNDkyXX0=
+eyJoaXN0b3J5IjpbOTg4NjcwNDQ1LC0xNTY2NDQ4ODkwLC0yMj
+M3MDE2NTAsLTg0ODgwMDQ5Ml19
 -->
