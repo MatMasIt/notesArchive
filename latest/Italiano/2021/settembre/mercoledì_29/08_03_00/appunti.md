@@ -4,7 +4,9 @@
 p 668 v 138
 
 ci si nutre spiritualmente se non si vaneggia
+
+
+francesco figura christi riceve le stimmate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDIwMjk2MDEsLTIxMTM5MTQ2NTRdfQ
-==
+eyJoaXN0b3J5IjpbNzgzNTQ4NjM0LC0yMTEzOTE0NjU0XX0=
 -->
