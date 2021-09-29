@@ -42,7 +42,11 @@ v.88 fronda mia
 Dante si egualia a Gesù cristo
 
 lungo elogio della antica firenze prima della _gente nova e di subiti guadagni_
+
+mariti non andavano in francia, quindi donne erano sempre felici di avere mariti accanto a loro
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk5MTYxNzUsMjI4MjYyOTc0LDc4Mz
-U0ODYzNCwtMjExMzkxNDY1NF19
+eyJoaXN0b3J5IjpbLTIzMDU1NjI3NCwyMjgyNjI5NzQsNzgzNT
+Q4NjM0LC0yMTEzOTE0NjU0XX0=
 -->
