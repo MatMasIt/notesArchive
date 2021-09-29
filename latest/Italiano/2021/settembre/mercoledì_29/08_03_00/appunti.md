@@ -40,7 +40,9 @@ dante si chiede se è degno
 
 v.88 fronda mia
 Dante si egualia a Gesù cristo
+
+lungo elogio della antica firenze prima della _gente nova e di subiti guadagni_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Njk0NjkyNCwyMjgyNjI5NzQsNzgzNT
-Q4NjM0LC0yMTEzOTE0NjU0XX0=
+eyJoaXN0b3J5IjpbLTExNjk5MTYxNzUsMjI4MjYyOTc0LDc4Mz
+U0ODYzNCwtMjExMzkxNDY1NF19
 -->
