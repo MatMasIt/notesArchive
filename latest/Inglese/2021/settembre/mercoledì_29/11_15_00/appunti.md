@@ -5,7 +5,8 @@ Industial revolution
 
 Mushroom towns near factories
 * no hygene
-* o
+* overcrowding
+* workers explorati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzOTM5NjA4XX0=
+eyJoaXN0b3J5IjpbMTE0MjY1MzQ3MV19
 -->
