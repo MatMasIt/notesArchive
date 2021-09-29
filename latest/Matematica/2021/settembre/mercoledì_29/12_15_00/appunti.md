@@ -47,7 +47,8 @@ Problemi del 1600:
 * Ottimizzazione
 * Calcolo area
 * Fisica
+![
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTcwMjQ0NTAsMzQwMDMwMDQ5LDEyNj
-I4NjcyMzldfQ==
+eyJoaXN0b3J5IjpbLTE1NjUxMDQzMDIsLTEzOTcwMjQ0NTAsMz
+QwMDMwMDQ5LDEyNjI4NjcyMzldfQ==
 -->
