@@ -23,13 +23,18 @@ Three paingings
 Shipwerck:
 main subject is a shipwreck which makes me feel unsettled
 * Fear 
-* Uncontrolla
-Countryside
+* Uncontrollable power of nature
+* terror
+* anxiety
+* chaos
+* unsettlement
+* man's inferiority
+Hay wain: (carro per fieno)
 countryside landscape and makes me feel calm
 
 
 
 Main subject: nature and its manifestation in all 3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODgwMDQ5Ml19
+eyJoaXN0b3J5IjpbLTIyMzcwMTY1MCwtODQ4ODAwNDkyXX0=
 -->
