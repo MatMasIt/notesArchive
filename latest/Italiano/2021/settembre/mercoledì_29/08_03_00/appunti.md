@@ -9,8 +9,10 @@ ci si nutre spiritualmente se non si vaneggia
 francesco figura christi riceve le stimmate
 
 
-c 
+cacciaguida e aldighiera: nasce aldighiero
+
+connome com 9 varianti 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDgxMzgzLDIyODI2Mjk3NCw3ODM1ND
-g2MzQsLTIxMTM5MTQ2NTRdfQ==
+eyJoaXN0b3J5IjpbLTE1NzIzODUyNzQsMjI4MjYyOTc0LDc4Mz
+U0ODYzNCwtMjExMzkxNDY1NF19
 -->
