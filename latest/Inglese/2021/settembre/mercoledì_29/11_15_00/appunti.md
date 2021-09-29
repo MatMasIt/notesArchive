@@ -36,11 +36,16 @@ countryside landscape and makes me feel calm
 * calm
 William Wordswoth, poet analogies with Constable's paintings
 ==The traveller==
-*==@Fascination 
+* ==@Fascination@==
 * Contemplation
 * Helplessness
 Main subject: nature and its manifestation in all 3
+
+
+
+Sublime: provokes ==@fascination@==, admiration or fear, astonishmen, usually caused by nautre
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMTMxNDIsLTIyMzcwMTY1MCwtODQ4OD
-AwNDkyXX0=
+eyJoaXN0b3J5IjpbLTE2NTM2NzAzNTUsLTIyMzcwMTY1MCwtOD
+Q4ODAwNDkyXX0=
 -->
