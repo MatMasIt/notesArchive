@@ -51,7 +51,9 @@ Sublime elements:
 * call of the void (cliff, skyscraper, parachute)
 
 uncontrollable nature
+
+W.Wordsworth nature as a spirituall healer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc1NzE0MTQsLTE1NjY0NDg4OTAsLT
-IyMzcwMTY1MCwtODQ4ODAwNDkyXX0=
+eyJoaXN0b3J5IjpbLTcwODYwMzk2MiwtMTU2NjQ0ODg5MCwtMj
+IzNzAxNjUwLC04NDg4MDA0OTJdfQ==
 -->
