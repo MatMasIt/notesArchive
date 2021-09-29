@@ -20,7 +20,7 @@ Three paingings
 * emotions conveyed
 * Leitmotiv between three paintings
 
-Shipwerck:
+==Shipwerck==:
 main subject is a shipwreck which makes me feel unsettled
 * Fear 
 * Uncontrollable power of nature
@@ -29,14 +29,15 @@ main subject is a shipwreck which makes me feel unsettled
 * chaos
 * unsettlement
 * man's inferiority
-Hay wain: (carro per fieno)
+==Hay wain==: (carro per fieno)
 countryside landscape and makes me feel calm
 * peaceful
 * quiet
 * calm
-Wi
+William Wordswoth, poet analogies with Constable's paintings
+==The trave
 Main subject: nature and its manifestation in all 3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDgwNjQyOCwtMjIzNzAxNjUwLC04ND
-g4MDA0OTJdfQ==
+eyJoaXN0b3J5IjpbNzQ4MjY2ODc4LC0yMjM3MDE2NTAsLTg0OD
+gwMDQ5Ml19
 -->
