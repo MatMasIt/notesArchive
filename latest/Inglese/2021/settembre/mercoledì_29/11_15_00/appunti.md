@@ -18,6 +18,12 @@ steam power:
 Three paingings
 * Subject
 * emotions conveyed
+* Leitmotiv between three paintings
+
+Shipwerck:
+main subject is a shipwreck which makes me feel
+naturallaape and makes me feel calm
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ2NjA0MTVdfQ==
+eyJoaXN0b3J5IjpbMTI2MDk5NjMxNF19
 -->
