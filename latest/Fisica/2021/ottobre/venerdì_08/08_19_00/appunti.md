@@ -210,8 +210,17 @@ Isobara
 $$
 W=P(V_f-V_i)
 $$
+
+### p. 444 es 35
+
+$$
+p(V)=\frac12 P_i\left(\frac{V}{V_I}+1\right)
+$$
+$$
+V_i \leq V \leq 3V_i
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjU2NTM0OSwxNzg1NTg0NzgyLDE3Nz
-gxNTMzNjcsOTI3NjA1MTU2LC0xMzY1NTMyNzc3LDk0MjEyNjM1
-M119
+eyJoaXN0b3J5IjpbLTExMDA1OTA2NjAsMTc4NTU4NDc4MiwxNz
+c4MTUzMzY3LDkyNzYwNTE1NiwtMTM2NTUzMjc3Nyw5NDIxMjYz
+NTNdfQ==
 -->
