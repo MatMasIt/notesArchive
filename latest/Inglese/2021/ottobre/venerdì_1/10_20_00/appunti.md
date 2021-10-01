@@ -14,7 +14,10 @@ Sublime:
 * icy landscapes
 * volcanic eruptions
 
-Nature as a 
+Nature as an <u>overwhelming</u> force
+
+
+==fragility of human beings==
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5ODYxMDYxXX0=
+eyJoaXN0b3J5IjpbMTk4NDE5MzM5OV19
 -->
