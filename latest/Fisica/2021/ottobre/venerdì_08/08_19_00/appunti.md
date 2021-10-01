@@ -13,8 +13,11 @@ $$
 p=\frac{3030J}{V}\\
 p_B=0,5 atm
 $$
-
+a. 
+è una trasformazione isoterma
+$pV=k$
+b.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTY0MzE0OV19
+eyJoaXN0b3J5IjpbODM2Mzk2NDU0XX0=
 -->
