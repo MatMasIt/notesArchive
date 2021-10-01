@@ -184,9 +184,17 @@ $$
 $$
 
 $$
-T=\frac{m_{H_2O}\cdot }{}
+T=\frac{m_{O_2}\cdot v_{q_{O_2}}^2}{\cancel{3k}}
+$$
+...
+
+---
+
+
+$$
+V_{q_{H_2O}}=\sqrt
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjMyMDEyMTgsOTI3NjA1MTU2LC0xMz
-Y1NTMyNzc3LDk0MjEyNjM1M119
+eyJoaXN0b3J5IjpbLTk0ODA1NDEyLDkyNzYwNTE1NiwtMTM2NT
+UzMjc3Nyw5NDIxMjYzNTNdfQ==
 -->
