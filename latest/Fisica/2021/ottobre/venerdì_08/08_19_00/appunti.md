@@ -90,7 +90,8 @@ $$
 >  |$N_2$|$78\%$
 >  $V=0,5l=0,5dm^3=0,5\cdot 10^{-3}m^3$
 >  $T=247K$
->  #
+>  ### Richieste
+>  $N=?$
 
 
 $$
@@ -108,6 +109,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1MzI1MDM1LC0xMzY1NTMyNzc3LDk0Mj
-EyNjM1M119
+eyJoaXN0b3J5IjpbLTE4ODYzODMwNTMsLTEzNjU1MzI3NzcsOT
+QyMTI2MzUzXX0=
 -->
