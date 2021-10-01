@@ -41,8 +41,10 @@ La risposta aspecifica più importante è l'==infiammazione==
 
 
 p.490 
-La risposta immunitaria umor
+La risposta immunitaria umorale
+
+anticorpi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzMDY4NTMsMTc1MDg3ODIwMywxNjYyMj
-czODA1LC00Njg3NTg5MjhdfQ==
+eyJoaXN0b3J5IjpbMTYzMDkyMTk1OCwxNzUwODc4MjAzLDE2Nj
+IyNzM4MDUsLTQ2ODc1ODkyOF19
 -->
