@@ -192,9 +192,9 @@ $$
 
 
 $$
-V_{q_{H_2O}}=\sqrt
+V_{q_{H_2O}}=\sqrt{\frac{m_{O_2}}{m_{H_2O}}}\cdot v_{q_{O_2}}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODA1NDEyLDkyNzYwNTE1NiwtMTM2NT
-UzMjc3Nyw5NDIxMjYzNTNdfQ==
+eyJoaXN0b3J5IjpbMTc3ODE1MzM2Nyw5Mjc2MDUxNTYsLTEzNj
+U1MzI3NzcsOTQyMTI2MzUzXX0=
 -->
