@@ -53,7 +53,7 @@ $$
 > $m=1,25mol$
 
 $a)$ $V=?$
-$b))$ $d=2,5\cdot 10^{-10}m$
+$b)$ $d=2,5\cdot 10^{-10}m$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTkyMjc0NSw5NDIxMjYzNTNdfQ==
+eyJoaXN0b3J5IjpbMTc3OTIxNTY2Miw5NDIxMjYzNTNdfQ==
 -->
