@@ -43,12 +43,13 @@ non serve
 $nRT=3020J$
 
 $$
-T=\frac{3030J}{nR}=\frac{3030J}{1mol\cdot }
+T=\frac{3030J}{nR}
 $$
 
-$$
-display\text
-$$
+### 23
+
+> $T=310k$
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTU0ODgwNCw5NDIxMjYzNTNdfQ==
+eyJoaXN0b3J5IjpbMTQyOTk1NDE5OSw5NDIxMjYzNTNdfQ==
 -->
