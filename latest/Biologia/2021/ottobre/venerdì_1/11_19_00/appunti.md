@@ -57,9 +57,10 @@ anticorpi
 
 
 
-Miollo os
+Midollo osseo: staminali, tutte le cellule del sangue
+Tonsille, milza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjM5NjQyNywxNDk4NTIzNDAxLC0xMj
-QxMjI2NzMwLDE2MzA5MjE5NTgsMTc1MDg3ODIwMywxNjYyMjcz
-ODA1LC00Njg3NTg5MjhdfQ==
+eyJoaXN0b3J5IjpbLTE4MTM5MzcxODYsMTQ5ODUyMzQwMSwtMT
+I0MTIyNjczMCwxNjMwOTIxOTU4LDE3NTA4NzgyMDMsMTY2MjI3
+MzgwNSwtNDY4NzU4OTI4XX0=
 -->
