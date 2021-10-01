@@ -21,7 +21,12 @@ Nature as an <u>overwhelming</u> force
 
 ==fragility of human beings==
 
-**Coleridge**'s poetry 
+**Coleridge**'s poetry p. 281 Balld with dangerous animals, sea snakes, sublime elements
+
+**Frankestein** Ruins, ancient castles, icy landscapes
+
+
+> _S
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTI2OTU1MF19
+eyJoaXN0b3J5IjpbNjU3NzIyMTQ4XX0=
 -->
