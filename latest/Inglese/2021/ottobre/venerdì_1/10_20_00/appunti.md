@@ -52,6 +52,11 @@ state of peace, relaxing, healer, joy
 nature is alive
 
 Wordsworth: nature as a spiritual healer
+
+
+
+Wordsworth wrote wih Coleridge the <u>Lyrical ballads</u>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTA1MDE2M119
+eyJoaXN0b3J5IjpbNTAxMTQwMTU2LDIwNTEwNTAxNjNdfQ==
 -->
