@@ -178,7 +178,15 @@ $$
 
 
 $v_q^2=\frac{3kT}{m}$
+
+$$
+\frac1{\cancel 2}nV_q^2=\frac3{\cancel 2}kT
+$$
+
+$$
+T=\frac{m_{H_2O}\cdot }{}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4NTE5NDQ5LDkyNzYwNTE1NiwtMTM2NT
-UzMjc3Nyw5NDIxMjYzNTNdfQ==
+eyJoaXN0b3J5IjpbLTE3NjMyMDEyMTgsOTI3NjA1MTU2LC0xMz
+Y1NTMyNzc3LDk0MjEyNjM1M119
 -->
