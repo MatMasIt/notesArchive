@@ -61,8 +61,9 @@ They met in Lake District, nothen England, near the Scottish Border
 |William Wordsworth|Seymour Taylor Coleridge|
 |---|---|
 |Peaceful nature|sublime|
+|ordinary life of humble people|Supernatural/visionary topics|
 
-They Published together "L
+They Published together "Lyrical Ballads" 1798
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ1ODQ0OTIsMjA1MTA1MDE2M119
+eyJoaXN0b3J5IjpbLTE0ODQ4Nzk3NTIsMjA1MTA1MDE2M119
 -->
