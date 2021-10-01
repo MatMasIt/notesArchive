@@ -48,14 +48,14 @@ anticorpi
 
 ==Self== e ==non self==
 
-
-à--
-
-
-
-
+---
+## Sistema linfatico
+* drenaggio
+* linfonodi
+	* globuli bianchi (macrofagi, linfociti)
+	* Filtrano la linfa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzYxNjYyMCwtMTI0MTIyNjczMCwxNj
+eyJoaXN0b3J5IjpbMTQ5ODUyMzQwMSwtMTI0MTIyNjczMCwxNj
 MwOTIxOTU4LDE3NTA4NzgyMDMsMTY2MjI3MzgwNSwtNDY4NzU4
 OTI4XX0=
 -->
