@@ -56,7 +56,13 @@ Wordsworth: nature as a spiritual healer
 
 
 Wordsworth wrote wih Coleridge the <u>Lyrical ballads</u>
-William Wordsworth and Seymo
+The "Lake Poets"
+They met in Lake District, nothen England, near the Scottish Border
+|William Wordsworth|Seymour Taylor Coleridge|
+|---|---|
+|Peaceful nature|sublime|
+
+They Published together "L
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjAzNTg4NTQsMjA1MTA1MDE2M119
+eyJoaXN0b3J5IjpbLTExMzQ1ODQ0OTIsMjA1MTA1MDE2M119
 -->
