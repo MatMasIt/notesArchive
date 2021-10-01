@@ -134,10 +134,19 @@ $$
 v_q^2=\frac{3kT}{m}
 $$
 
+$$
+v_{q_{O_2}}=\frac{3kT_{O_2}}{m_{O_2}}
+$$
+$$
+v_{q_{H_2}}=\frac{3kT_{H_2}}{m_{H_2}}
+$$
 
+$$
+\frac{\cancel{3k}T_{O_2}}{m_{O_2}}
+$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI2MDE1NzIsOTI3NjA1MTU2LC0xMz
-Y1NTMyNzc3LDk0MjEyNjM1M119
+eyJoaXN0b3J5IjpbMTI4OTM0NDM4MCw5Mjc2MDUxNTYsLTEzNj
+U1MzI3NzcsOTQyMTI2MzUzXX0=
 -->
