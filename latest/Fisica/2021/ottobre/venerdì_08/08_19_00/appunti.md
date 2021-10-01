@@ -160,9 +160,9 @@ $$
 
 
 $$
-T_H=\frac{
+T_H=\frac{1,01\cancel u}{16 \cancel u}313K\approx 19,8K
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDQzMDYwMyw5Mjc2MDUxNTYsLTEzNj
-U1MzI3NzcsOTQyMTI2MzUzXX0=
+eyJoaXN0b3J5IjpbNDEyMjM4NzYwLDkyNzYwNTE1NiwtMTM2NT
+UzMjc3Nyw5NDIxMjYzNTNdfQ==
 -->
