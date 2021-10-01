@@ -32,7 +32,15 @@ Nature as an <u>overwhelming</u> force
 
 _Frankensein_, a **gothic** ==novel== by Mary Selley (1818)
 Sublime elements:
-* Antartica: i
+* Antartica: iy
+* Alps: isolated castles, ruins, gloomy atmosphere bar warther; night supernatural
+* cereatures
+
+FEAR in the reader
+
+Mr. Franskestein is the scientist, the monster is nameless
+
+The _monste
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4NTMyNjU3XX0=
+eyJoaXN0b3J5IjpbMjEyOTMxOTE5N119
 -->
