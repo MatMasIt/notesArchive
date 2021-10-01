@@ -4,6 +4,8 @@
 Pressione selettiva evoluzione per non rimuovere gene di hungtington 
 
 Sostituzioni sinonime sono silenti (dna degenerato, ridondante)
+
+Gene interviene in comunicazione 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjMyNl19
+eyJoaXN0b3J5IjpbMTM4NTI1MTIwOV19
 -->
