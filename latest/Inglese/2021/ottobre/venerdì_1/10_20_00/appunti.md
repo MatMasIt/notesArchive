@@ -26,7 +26,8 @@ Nature as an <u>overwhelming</u> force
 **Frankestein** Ruins, ancient castles, icy landscapes
 
 
-> _S
+> _"Sublime is a horrible beauty"_
+>  William Blake
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3NzIyMTQ4XX0=
+eyJoaXN0b3J5IjpbLTM1MjU4MjY2N119
 -->
