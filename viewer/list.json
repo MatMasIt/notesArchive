@@ -1766,9 +1766,33 @@
                         ]
                     }
                 },
+                "ottobre": {
+                    "venerd\u00ec_08": {
+                        "08_19_00": [
+                            "appunti.md"
+                        ]
+                    }
+                },
                 "giugno": {
                     "gioved\u00ec_03": {
                         "10_01_00": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "aprile": {
+                    "venerd\u00ec_30": {
+                        "12_14_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_27": {
+                        "08_58_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_29": {
+                        "10_00_00": [
                             "appunti.md"
                         ]
                     }
@@ -1787,23 +1811,6 @@
                     "luned\u00ec_27": [
                         "compiti.md"
                     ]
-                },
-                "aprile": {
-                    "venerd\u00ec_30": {
-                        "12_14_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_27": {
-                        "08_58_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "gioved\u00ec_29": {
-                        "10_00_00": [
-                            "appunti.md"
-                        ]
-                    }
                 },
                 "maggio": {
                     "marted\u00ec_04": {
@@ -1978,8 +1985,8 @@
         }
     ],
     "lastUpdate": {
-        "unix": 1633066663,
-        "human": "01\/10\/2021 05:37:43",
+        "unix": 1633069451,
+        "human": "01\/10\/2021 06:24:11",
         "timezone": "UTC"
     }
 }
