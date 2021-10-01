@@ -78,7 +78,12 @@ $$
 $$
 N=nN_A=1,25\cancel{mol}\cdot 6,022\cdot 10^{23}\frac{1}{\cancel{mol}}=7,52\cdot 10^{25}
 $$
+
+---
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTEzODg2NzMsLTEzNjU1MzI3NzcsOT
-QyMTI2MzUzXX0=
+eyJoaXN0b3J5IjpbLTMzMTc3NDQxMCwtMTM2NTUzMjc3Nyw5ND
+IxMjYzNTNdfQ==
 -->
