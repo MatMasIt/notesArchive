@@ -108,9 +108,16 @@ $$
 $$
 
 $$
-N=\frac{PV}{kT}=\frac{33767Pa\cdot 0,5\cdot 10^{-3}m^3}{1,38\cd}
+N=\frac{PV}{kT}=\frac{33767Pa\cdot 0,5\cdot 10^{-3}m^3}{1,38\cdot 10^{-23}\frac{J}{\cancel K}247\cancel K}
 $$
+
+
+$$
+N_{O_2}=21\%N=1,1\cdot 10^21
+$$
+
+### 43
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjY1MzAyNiwtMTM2NTUzMjc3Nyw5ND
-IxMjYzNTNdfQ==
+eyJoaXN0b3J5IjpbOTI3NjA1MTU2LC0xMzY1NTMyNzc3LDk0Mj
+EyNjM1M119
 -->
