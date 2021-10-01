@@ -62,8 +62,9 @@ $c)$ Argomenta
 $a:$  $PV=nRT$
 _Applico l'equazione di stato dei gas perfetti_
 $$
-V=\frac{nRT}{P}
+V=\frac{nRT}{P}=\frac{1,25mol\cdot 8,31 \frac{J}{\cancel{mol}\cancel{K}\cdot 310 \c
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjU1MzI3NzcsOTQyMTI2MzUzXX0=
+eyJoaXN0b3J5IjpbMTMzODA3MjQ2OCwtMTM2NTUzMjc3Nyw5ND
+IxMjYzNTNdfQ==
 -->
