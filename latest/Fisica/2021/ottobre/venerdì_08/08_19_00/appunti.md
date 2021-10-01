@@ -177,8 +177,8 @@ v_{q_{H_2O}}
 $$
 
 
-$v_q^2=\frac{3kT}{m}
+$v_q^2=\frac{3kT}{m}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc5OTM3MzcsOTI3NjA1MTU2LC0xMz
-Y1NTMyNzc3LDk0MjEyNjM1M119
+eyJoaXN0b3J5IjpbMzA4NTE5NDQ5LDkyNzYwNTE1NiwtMTM2NT
+UzMjc3Nyw5NDIxMjYzNTNdfQ==
 -->
