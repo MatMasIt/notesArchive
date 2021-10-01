@@ -226,8 +226,15 @@ $V-p$
 $$
 p(V)=\frac12\frac{P_i}{V_i}V+\frac12P_i
 $$
+
+
+
+es 39 42 43 p .444
+p. 399 es 17 19 21
+walker pdf classroom
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNTUzMDk0LDE3ODU1ODQ3ODIsMTc3OD
-E1MzM2Nyw5Mjc2MDUxNTYsLTEzNjU1MzI3NzcsOTQyMTI2MzUz
-XX0=
+eyJoaXN0b3J5IjpbLTM2NTIxOTAyNCw1MTA1NTMwOTQsMTc4NT
+U4NDc4MiwxNzc4MTUzMzY3LDkyNzYwNTE1NiwtMTM2NTUzMjc3
+Nyw5NDIxMjYzNTNdfQ==
 -->
