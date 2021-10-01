@@ -47,9 +47,13 @@ T=\frac{3030J}{nR}
 $$
 
 ### 23
+> #### Dati
+> $T=310K$
+> $P=10kPa=1,01\cdot10^5Pa$
+> $m=1,25mol$
 
-> $T=310k$
-> 
+$a)$ $V=?$
+$b))$ $d=2,5\cdot 10^{-10}m$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTk1NDE5OSw5NDIxMjYzNTNdfQ==
+eyJoaXN0b3J5IjpbLTE0MTkyMjc0NSw5NDIxMjYzNTNdfQ==
 -->
