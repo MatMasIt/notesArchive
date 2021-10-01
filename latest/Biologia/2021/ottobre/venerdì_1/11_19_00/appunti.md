@@ -13,7 +13,16 @@ Echinodermi: limiti tra vertebrati e invertebrati
 
 Anfiosso: limiti tra pesci e anfibi
 
+---
+
+## p 482 libro di biliogia
+
+> Il ==sistema== linfatico e gli organi linfatici sono importanti per la difesa immunitaria
+
+
+Strategie:
+* leucocit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDg3ODIwMywxNjYyMjczODA1LC00Nj
-g3NTg5MjhdfQ==
+eyJoaXN0b3J5IjpbMTY5Njg4ODgyMSwxNzUwODc4MjAzLDE2Nj
+IyNzM4MDUsLTQ2ODc1ODkyOF19
 -->
