@@ -90,10 +90,24 @@ $$
 >  |$N_2$|$78\%$
 >  $V=0,5l=0,5dm^3=0,5\cdot 10^{-3}m^3$
 >  $T=247K$
+>  #
 
 
-$\frac{P_iV_i}{T_i}=\frac{P_f
+$$
+\frac{P_iV_i}{T_i}=\frac{P_fV_f}{T_f}
+$$
+
+$$
+PV=nRT\\
+PV=NkT
+$$
+
+$$
+\boxed{k}\to \text{Costante di Stefan-Boltzmann}
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI3ODE0NzIsLTEzNjU1MzI3NzcsOT
-QyMTI2MzUzXX0=
+eyJoaXN0b3J5IjpbNTU1MzI1MDM1LC0xMzY1NTMyNzc3LDk0Mj
+EyNjM1M119
 -->
