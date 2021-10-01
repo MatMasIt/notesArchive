@@ -76,9 +76,9 @@ r=\frac{d}{2}1,25\cdot10^{-10}m
 $$
 
 $$
-N=nN_A=1,25\cancel{mol}\cdo 6
+N=nN_A=1,25\cancel{mol}\cdot 6,022\cdot 10^{23}\frac{1}{\cancel{mol}}=7,52\cdot 10^{25}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzODg5OTE3LC0xMzY1NTMyNzc3LDk0Mj
-EyNjM1M119
+eyJoaXN0b3J5IjpbLTEyMTEzODg2NzMsLTEzNjU1MzI3NzcsOT
+QyMTI2MzUzXX0=
 -->
