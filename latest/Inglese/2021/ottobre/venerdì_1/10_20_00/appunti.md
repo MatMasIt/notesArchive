@@ -1,8 +1,11 @@
 #  Lezione di Inglese (3° ora)
 ## Venerdì 1settembre 2021, 10:20:00
 
-==Sublime== (<u>Viewer</u>, perception)  supremacy over the ==beautiful== ( object, <u>objective quality </u>
+==Sublime== (<u>Viewer</u>, subjective perception of the object)  supremacy over the ==beautiful== ( object, <u>objective quality </u>)
 (E. burke)
+
+Sublime deals with, focuses with the viewer and their perception
+4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDMxMzM5MzFdfQ==
+eyJoaXN0b3J5IjpbMTE5Nzg3NTMyXX0=
 -->
