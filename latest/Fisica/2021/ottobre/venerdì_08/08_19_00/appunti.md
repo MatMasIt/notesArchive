@@ -84,7 +84,13 @@ $$
 > ### Dati
 > $P_{livmare}=1atm$
 >  $P_{Everest}=\frac13 atm=\frac13101300PA=33767Pa$
+>  |Elemento|Percentuale|
+>  |---|---|
+>  |$O_2$|$21\%$|
+>  |$N_2$|$78\%$
+>  $V=0,5l=0,5dm^3=0,5\cdot 10^{-3}m^3$
+>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTU5ODkyMSwtMTM2NTUzMjc3Nyw5ND
-IxMjYzNTNdfQ==
+eyJoaXN0b3J5IjpbLTE4NzQxOTQ2MDgsLTEzNjU1MzI3NzcsOT
+QyMTI2MzUzXX0=
 -->
