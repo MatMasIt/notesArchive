@@ -64,6 +64,9 @@ They met in Lake District, nothen England, near the Scottish Border
 |ordinary life of humble people|Supernatural/visionary topics|
 
 They Published together "Lyrical Ballads" 1798
+
+In 1800 Wordsworth added the _Preface of the Lyrical Ballads_, which is considered the ==manifesto of romanticism==
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQ4Nzk3NTIsMjA1MTA1MDE2M119
+eyJoaXN0b3J5IjpbLTE5ODE0MDk3MjQsMjA1MTA1MDE2M119
 -->
