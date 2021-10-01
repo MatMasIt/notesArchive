@@ -142,11 +142,27 @@ v_{q_{H_2}}=\frac{3kT_{H_2}}{m_{H_2}}
 $$
 
 $$
-\frac{\cancel{3k}T_{O_2}}{m_{O_2}}
+\frac{\cancel{3k}T_{O_2}}{m_{O_2}}=\frac{\cancel{3k}T_{H_2}}{m_{H_2}}
 $$
 
 
+$$
+T_{H_2}=\frac{m_{H_2}}{m_{O_2}}T_{O_2}
+$$
+
+$$
+m_H=1,01u=1,01 \frac{g}{mol}
+$$
+
+$$
+m_O=16u=16\frac{g}{mol}
+$$
+
+
+$$
+T_H=\frac{
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTM0NDM4MCw5Mjc2MDUxNTYsLTEzNj
+eyJoaXN0b3J5IjpbMTM3NDQzMDYwMyw5Mjc2MDUxNTYsLTEzNj
 U1MzI3NzcsOTQyMTI2MzUzXX0=
 -->
