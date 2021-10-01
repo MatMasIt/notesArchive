@@ -23,11 +23,16 @@ Nature as an <u>overwhelming</u> force
 
 **Coleridge**'s poetry p. 281 Balld with dangerous animals, sea snakes, sublime elements
 
-**Frankestein** Ruins, ancient castles, icy landscapes
+**Frankenstein** Ruins, ancient castles, icy landscapes
 
 
 > _"Sublime is a horrible beauty"_
 >  William Blake
+
+
+_Frankensein_, a **gothic** ==novel== by Mary Selley (1818)
+Sublime elements:
+* Antartica: i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MjU4MjY2N119
+eyJoaXN0b3J5IjpbOTY4NTMyNjU3XX0=
 -->
