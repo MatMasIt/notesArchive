@@ -25,8 +25,16 @@ $$
 $$
 \frac{N}{m^2}=\frac{N \cancel m}{m^{\cancel 3 2}}
 $$
+c.
+
+$$
+P_A\cdot V_A=nRT_A
+$$
+$$
+T_A=T_B
+$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyMTI2MzUzXX0=
+eyJoaXN0b3J5IjpbLTgzOTA5MDYzMyw5NDIxMjYzNTNdfQ==
 -->
