@@ -56,7 +56,7 @@ Wordsworth: nature as a spiritual healer
 
 
 Wordsworth wrote wih Coleridge the <u>Lyrical ballads</u>
-
+William Wordsworth and Seymo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxMTQwMTU2LDIwNTEwNTAxNjNdfQ==
+eyJoaXN0b3J5IjpbLTExNjAzNTg4NTQsMjA1MTA1MDE2M119
 -->
