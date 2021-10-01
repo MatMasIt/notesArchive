@@ -17,9 +17,11 @@ a.
 è una trasformazione isoterma
 $pV=k$
 b.
-
-$Pa
+$$
+Pa=\frac{N}{m^2}
+$$
+$\frac{N}{m^2}=\frac{N \cancel m}{m^{\cancel 3 2}}$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM0MDEzODNdfQ==
+eyJoaXN0b3J5IjpbLTE1MjY0NzM1MjRdfQ==
 -->
