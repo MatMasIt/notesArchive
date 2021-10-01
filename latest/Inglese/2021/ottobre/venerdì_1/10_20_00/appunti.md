@@ -40,7 +40,14 @@ FEAR in the reader
 
 Mr. Franskestein is the scientist, the monster is nameless
 
-The _monste
+The _monster_ of Frankenstein
+
+
+---
+
+completely different interpretation:
+
+state of peace, relax
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTMxOTE5N119
+eyJoaXN0b3J5IjpbLTEzMDA0MzUzNTldfQ==
 -->
