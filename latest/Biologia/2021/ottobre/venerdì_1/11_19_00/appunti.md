@@ -59,8 +59,9 @@ anticorpi
 
 Midollo osseo: staminali, tutte le cellule del sangue
 Tonsille, milza
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM5MzcxODYsMTQ5ODUyMzQwMSwtMT
-I0MTIyNjczMCwxNjMwOTIxOTU4LDE3NTA4NzgyMDMsMTY2MjI3
-MzgwNSwtNDY4NzU4OTI4XX0=
+eyJoaXN0b3J5IjpbLTE2OTgyOTUxNTYsLTE4MTM5MzcxODYsMT
+Q5ODUyMzQwMSwtMTI0MTIyNjczMCwxNjMwOTIxOTU4LDE3NTA4
+NzgyMDMsMTY2MjI3MzgwNSwtNDY4NzU4OTI4XX0=
 -->
