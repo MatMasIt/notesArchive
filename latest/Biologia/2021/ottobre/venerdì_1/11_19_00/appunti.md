@@ -23,12 +23,18 @@ Anfiosso: limiti tra pesci e anfibi
 Leucociti
 
 Strategie:
-* Immunità innata
-text goes here
-$dio$ $betoniera$
+* Immunità innata o ==aspecifica==
+Non mirata esattamente all'attacco di un  patogeno
+	*	Barrirere meccaniche
+	*	molecole tossiche
+	*	Fagociti
+
+Barriere fisiche sia cellulari che chimiche
+p 484
+La risposta aspecifica più importante
 * immuntà adattiva
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzY1Nzg0MiwxNzUwODc4MjAzLDE2Nj
+eyJoaXN0b3J5IjpbLTM1MTc5MDgyOSwxNzUwODc4MjAzLDE2Nj
 IyNzM4MDUsLTQ2ODc1ODkyOF19
 -->
