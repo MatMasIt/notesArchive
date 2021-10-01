@@ -68,9 +68,17 @@ $$
 
 
 $$
-V_{m
+V_{mol}=\frac43\pi r^3=\frac43 \pi(1,25\cdot 10^{-5}m)^3
+$$
+
+$$
+r=\frac{d}{2}1,25\cdot10^{-10}m
+$$
+
+$$
+N=nN_A=1,25\cancel{mol}\cdo 6
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTk2Njk2MywtMTM2NTUzMjc3Nyw5ND
-IxMjYzNTNdfQ==
+eyJoaXN0b3J5IjpbNjIzODg5OTE3LC0xMzY1NTMyNzc3LDk0Mj
+EyNjM1M119
 -->
