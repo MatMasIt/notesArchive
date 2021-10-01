@@ -107,8 +107,10 @@ $$
 \boxed{k}\to \text{Costante di Stefan-Boltzmann}
 $$
 
-
+$$
+N=\frac{PV}{kT}=\frac{33767Pa\cdot 0,5\cdot 10^{-3}m^3}{1,38\cd}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODYzODMwNTMsLTEzNjU1MzI3NzcsOT
-QyMTI2MzUzXX0=
+eyJoaXN0b3J5IjpbLTk4MjY1MzAyNiwtMTM2NTUzMjc3Nyw5ND
+IxMjYzNTNdfQ==
 -->
