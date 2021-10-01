@@ -89,8 +89,11 @@ $$
 >  |$O_2$|$21\%$|
 >  |$N_2$|$78\%$
 >  $V=0,5l=0,5dm^3=0,5\cdot 10^{-3}m^3$
->  
+>  $T=247K$
+
+
+$\frac{P_iV_i}{T_i}=\frac{P_f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQxOTQ2MDgsLTEzNjU1MzI3NzcsOT
+eyJoaXN0b3J5IjpbLTE5MDI3ODE0NzIsLTEzNjU1MzI3NzcsOT
 QyMTI2MzUzXX0=
 -->
