@@ -13,11 +13,15 @@ Sublime:
 * cliffs
 * icy landscapes
 * volcanic eruptions
+* ruins
+* dangerous animals
 
 Nature as an <u>overwhelming</u> force
 
 
 ==fragility of human beings==
+
+**Coleridge**'s poetry 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDE5MzM5OV19
+eyJoaXN0b3J5IjpbMTc4OTI2OTU1MF19
 -->
