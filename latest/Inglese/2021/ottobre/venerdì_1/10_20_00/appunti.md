@@ -11,6 +11,10 @@ Sublime:
 * storm
 * sense of void
 * cliffs
+* icy landscapes
+* volcanic eruptions
+
+Nature as a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDEwNzc4OF19
+eyJoaXN0b3J5IjpbODg5ODYxMDYxXX0=
 -->
