@@ -71,7 +71,7 @@ In 1800 Wordsworth added the _Preface of the Lyrical Ballads_, which is consider
 
 
 
-Le
+Leitmotif: _german_ word: filo conduttore, leading topic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODEwNTIzOTUsMjA1MTA1MDE2M119
+eyJoaXN0b3J5IjpbLTIwMzk1Njc1MSwyMDUxMDUwMTYzXX0=
 -->
