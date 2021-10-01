@@ -44,7 +44,10 @@ p.490
 La risposta immunitaria umorale
 
 anticorpi
+
+
+==Self== e ==non self==
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDkyMTk1OCwxNzUwODc4MjAzLDE2Nj
-IyNzM4MDUsLTQ2ODc1ODkyOF19
+eyJoaXN0b3J5IjpbLTEyNDEyMjY3MzAsMTYzMDkyMTk1OCwxNz
+UwODc4MjAzLDE2NjIyNzM4MDUsLTQ2ODc1ODkyOF19
 -->
