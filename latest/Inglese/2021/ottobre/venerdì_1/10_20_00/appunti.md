@@ -72,6 +72,9 @@ In 1800 Wordsworth added the _Preface of the Lyrical Ballads_, which is consider
 
 
 Leitmotif: _german_ word: filo conduttore, leading topic
+
+Rainbow: surprised, happy and joyful
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk1Njc1MSwyMDUxMDUwMTYzXX0=
+eyJoaXN0b3J5IjpbLTg0NzUzMzQzMiwtMjAzOTU2NzUxLDIwNT
+EwNTAxNjNdfQ==
 -->
