@@ -60,8 +60,15 @@ anticorpi
 Midollo osseo: staminali, tutte le cellule del sangue
 Tonsille, milza
 
+
+Circolazioni:
+* ematica
+* linfatica
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTgyOTUxNTYsLTE4MTM5MzcxODYsMT
-Q5ODUyMzQwMSwtMTI0MTIyNjczMCwxNjMwOTIxOTU4LDE3NTA4
-NzgyMDMsMTY2MjI3MzgwNSwtNDY4NzU4OTI4XX0=
+eyJoaXN0b3J5IjpbNzIxMTM0NzkzLC0xNjk4Mjk1MTU2LC0xOD
+EzOTM3MTg2LDE0OTg1MjM0MDEsLTEyNDEyMjY3MzAsMTYzMDky
+MTk1OCwxNzUwODc4MjAzLDE2NjIyNzM4MDUsLTQ2ODc1ODkyOF
+19
 -->
