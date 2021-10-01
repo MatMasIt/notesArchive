@@ -60,9 +60,10 @@ $c)$ Argomenta
 
 ---
 $a:$  $PV=nRT$
+_Applico l'equazione di stato dei gas perfetti_
 $$
 V=\frac{nRT}{P}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzQ3NzQ2MSw5NDIxMjYzNTNdfQ==
+eyJoaXN0b3J5IjpbLTEzNjU1MzI3NzcsOTQyMTI2MzUzXX0=
 -->
