@@ -20,9 +20,15 @@ Anfiosso: limiti tra pesci e anfibi
 > Il ==sistema== linfatico e gli organi linfatici sono importanti per la difesa immunitaria
 
 
+Leucociti
+
 Strategie:
-* leucocit
+* Immunità innata
+text goes here
+$dio$ $betoniera$
+* immuntà adattiva
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Njg4ODgyMSwxNzUwODc4MjAzLDE2Nj
+eyJoaXN0b3J5IjpbMTYxMzY1Nzg0MiwxNzUwODc4MjAzLDE2Nj
 IyNzM4MDUsLTQ2ODc1ODkyOF19
 -->
