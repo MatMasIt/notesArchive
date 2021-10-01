@@ -204,7 +204,13 @@ $$
 > $V_f=8600cm^3$
 
 $a)$ $W=?$
+Isobara
+
+
+$$
+W=P(v_f-v_i)=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3MDIwMzE3LDE3NzgxNTMzNjcsOTI3Nj
+eyJoaXN0b3J5IjpbNjAzNzA2NDQ2LDE3NzgxNTMzNjcsOTI3Nj
 A1MTU2LC0xMzY1NTMyNzc3LDk0MjEyNjM1M119
 -->
