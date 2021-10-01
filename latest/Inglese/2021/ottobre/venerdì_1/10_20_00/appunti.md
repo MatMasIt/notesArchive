@@ -47,7 +47,11 @@ The _monster_ of Frankenstein
 
 completely different interpretation:
 
-state of peace, relax
+state of peace, relaxing, healer, joy
+
+nature is alive
+
+Wordsworth: nature as a spiritual healer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA0MzUzNTldfQ==
+eyJoaXN0b3J5IjpbMjA1MTA1MDE2M119
 -->
