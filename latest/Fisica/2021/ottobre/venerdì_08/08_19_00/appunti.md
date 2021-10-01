@@ -194,7 +194,12 @@ $$
 $$
 V_{q_{H_2O}}=\sqrt{\frac{m_{O_2}}{m_{H_2O}}}\cdot v_{q_{O_2}}
 $$
+
+
+---
+### 27 p 443
+> $m=18mol$ $monoatomico$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODE1MzM2Nyw5Mjc2MDUxNTYsLTEzNj
-U1MzI3NzcsOTQyMTI2MzUzXX0=
+eyJoaXN0b3J5IjpbNDQ0NjIwMjUzLDE3NzgxNTMzNjcsOTI3Nj
+A1MTU2LC0xMzY1NTMyNzc3LDk0MjEyNjM1M119
 -->
