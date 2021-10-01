@@ -5,7 +5,12 @@
 (E. burke)
 
 Sublime deals with, focuses with the viewer and their perception
-4
+==Subjectivity==
+Sublime:
+* Vastness of the ocean
+* storm
+* sense of void
+* cliffs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Nzg3NTMyXX0=
+eyJoaXN0b3J5IjpbLTI0NDEwNzc4OF19
 -->
