@@ -1,7 +1,7 @@
 #  Lezione di Fisica (1° ora)
 ## Venerdì 1settembre 2021, 08:20:00
 
-## Walker, es 18
+## Walker 3, es 18
 
 > Dati
 > $p_A=2 atm$
@@ -229,12 +229,10 @@ $$
 
 
 
-es 39 42 43 p .444
-p. 399 es 17 19 21
-walker pdf classroom
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTIxOTAyNCw1MTA1NTMwOTQsMTc4NT
-U4NDc4MiwxNzc4MTUzMzY3LDkyNzYwNTE1NiwtMTM2NTUzMjc3
-Nyw5NDIxMjYzNTNdfQ==
+eyJoaXN0b3J5IjpbLTMxMTQ0MjYzMSwtMzY1MjE5MDI0LDUxMD
+U1MzA5NCwxNzg1NTg0NzgyLDE3NzgxNTMzNjcsOTI3NjA1MTU2
+LC0xMzY1NTMyNzc3LDk0MjEyNjM1M119
 -->
