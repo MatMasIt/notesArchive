@@ -199,7 +199,12 @@ $$
 ---
 ### 27 p 443
 > $m=18mol$ $monoatomico$
+> $P=160kPa=160\cdot 10^3 Pa$
+> $V_i=5400cm^3$
+> $V_f=8600cm^3$
+
+$a)$ $W=?$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0NjIwMjUzLDE3NzgxNTMzNjcsOTI3Nj
+eyJoaXN0b3J5IjpbMjY3MDIwMzE3LDE3NzgxNTMzNjcsOTI3Nj
 A1MTU2LC0xMzY1NTMyNzc3LDk0MjEyNjM1M119
 -->
