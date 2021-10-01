@@ -34,7 +34,16 @@ $$
 T_A=T_B
 $$
 
+$$
+\xcancel{T_A=\frac{P_A\cdot V_A}{nR}}
+$$
+non serve
 
+
+$nRT=3020J$
+
+$$
+T=\frac{3030J}[nR}=\frac{}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTA5MDYzMyw5NDIxMjYzNTNdfQ==
+eyJoaXN0b3J5IjpbMTUxODgzMTE0MCw5NDIxMjYzNTNdfQ==
 -->
