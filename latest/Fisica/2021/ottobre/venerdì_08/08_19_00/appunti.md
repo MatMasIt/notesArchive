@@ -162,11 +162,23 @@ $$
 $$
 T_H=\frac{1,01\cancel u}{16 \cancel u}313K\approx 19,8K
 $$
+### 44
 
 $$
-V_{q_{O_2}}=1550\f
+V_{q_{O_2}}=1550\frac{m}{s}
 $$
+
+$$
+v_{q_{H_2O}}RV_{q_{O_2}}
+$$
+
+$$
+v_{q_{H_2O}}
+$$
+
+
+$v_q^2=\frac{3kT}{m}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODAwMzYxNSw5Mjc2MDUxNTYsLTEzNj
-U1MzI3NzcsOTQyMTI2MzUzXX0=
+eyJoaXN0b3J5IjpbLTE0Njc5OTM3MzcsOTI3NjA1MTU2LC0xMz
+Y1NTMyNzc3LDk0MjEyNjM1M119
 -->
