@@ -67,8 +67,11 @@ They Published together "Lyrical Ballads" 1798
 
 In 1800 Wordsworth added the _Preface of the Lyrical Ballads_, which is considered the ==manifesto of romanticism==
 
-<u>Leitmotif</u>: the realtionship between ==man== and ==nature==
-==
+# <u>Leitmotif</u>: the realtionship between ==man== and ==nature==
+
+
+
+Le
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzNTc5MzM1LDIwNTEwNTAxNjNdfQ==
+eyJoaXN0b3J5IjpbLTE5ODEwNTIzOTUsMjA1MTA1MDE2M119
 -->
