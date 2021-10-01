@@ -219,8 +219,15 @@ $$
 $$
 V_i \leq V \leq 3V_i
 $$
+
+$V-p$
+
+
+$$
+p(V)=\frac12\frac{P_i}{V_i}V+\frac12P_i
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA1OTA2NjAsMTc4NTU4NDc4MiwxNz
-c4MTUzMzY3LDkyNzYwNTE1NiwtMTM2NTUzMjc3Nyw5NDIxMjYz
-NTNdfQ==
+eyJoaXN0b3J5IjpbNTEwNTUzMDk0LDE3ODU1ODQ3ODIsMTc3OD
+E1MzM2Nyw5Mjc2MDUxNTYsLTEzNjU1MzI3NzcsOTQyMTI2MzUz
+XX0=
 -->
