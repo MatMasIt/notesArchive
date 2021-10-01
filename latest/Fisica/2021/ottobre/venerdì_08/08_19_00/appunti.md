@@ -60,7 +60,9 @@ $c)$ Argomenta
 
 ---
 $a:$  $PV=nRT$
-
+$$
+V=\frac{nRT}{P}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTg4MjgzMCw5NDIxMjYzNTNdfQ==
+eyJoaXN0b3J5IjpbMTc1MzQ3NzQ2MSw5NDIxMjYzNTNdfQ==
 -->
