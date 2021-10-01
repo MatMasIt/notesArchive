@@ -208,9 +208,9 @@ Isobara
 
 
 $$
-W=P(v_f-v_i)=
+W=P(V_f-V_i)=
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzNzA2NDQ2LDE3NzgxNTMzNjcsOTI3Nj
-A1MTU2LC0xMzY1NTMyNzc3LDk0MjEyNjM1M119
+eyJoaXN0b3J5IjpbMTc4NTU4NDc4MiwxNzc4MTUzMzY3LDkyNz
+YwNTE1NiwtMTM2NTUzMjc3Nyw5NDIxMjYzNTNdfQ==
 -->
