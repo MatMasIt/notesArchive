@@ -1,6 +1,18 @@
 #  Lezione di Fisica (1° ora)
-## Mercoledì 29 settembre 2021, 12:16:00
+## Venerdì 1settembre 2021, 08:20:00
+
+> Dati
+> $p_A=2 atm$
+> $v_A=15dm^3$
+
+grafico $V-P$
+
+$$
+p=\frac{3030J}{V}\\
+p_B=0,5 atm
+$$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODQ2MDI1MV19
+eyJoaXN0b3J5IjpbLTQ3MzI4Mzk2OF19
 -->
