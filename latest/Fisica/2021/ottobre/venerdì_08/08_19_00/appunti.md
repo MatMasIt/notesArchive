@@ -122,9 +122,22 @@ $$
 > $O_2$$T_{O_2}=313K$
 > $H_2$$T_H=?$
 > $$
-> v_{q_{O_2}}=v_{q_{H_"}}
+> \boxed{v_{q_{O_2}}=v_{q_{H_2}}}\implies v_{q_{O_2}}^2=v_{q_{H_2}}^2
 > $$
+
+
+$$
+\frac{1}{\cancel 2}m v_q^2=\frac3{\cancel{2}}kT
+$$
+
+$$
+v_q^2=\frac{3kT}{m}
+$$
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzIwMzUwMCw5Mjc2MDUxNTYsLTEzNj
-U1MzI3NzcsOTQyMTI2MzUzXX0=
+eyJoaXN0b3J5IjpbLTE5MTI2MDE1NzIsOTI3NjA1MTU2LC0xMz
+Y1NTMyNzc3LDk0MjEyNjM1M119
 -->
