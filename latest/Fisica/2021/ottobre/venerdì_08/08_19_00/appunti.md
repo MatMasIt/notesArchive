@@ -50,10 +50,17 @@ $$
 > #### Dati
 > $T=310K$
 > $P=10kPa=1,01\cdot10^5Pa$
-> $m=1,25mol$
+> $n=1,25mol$
 
 $a)$ $V=?$
-$b)$ $d=2,5\cdot 10^{-10}m$
+$b)$ $d=2,5\cdot 10^{-10}m$ $\%V_{percentuale}$
+$c)$ Argomenta
+
+
+
+---
+$a:$  $PV=nRT$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTIxNTY2Miw5NDIxMjYzNTNdfQ==
+eyJoaXN0b3J5IjpbMTYzMTg4MjgzMCw5NDIxMjYzNTNdfQ==
 -->
