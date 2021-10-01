@@ -31,10 +31,18 @@ Non mirata esattamente all'attacco di un  patogeno
 
 Barriere fisiche sia cellulari che chimiche
 p 484
-La risposta aspecifica più importante
+La risposta aspecifica più importante è l'==infiammazione==
 * immuntà adattiva
- 
+	* Riconoscimento da parte dei Linfociti $T$ e $B$
+	 *	Risposta mirata 
+		 *	Chimica
+		 *	Cellulare (cellule che attaccano invasore)
+	 *	Creazione memoria che immunizza organismo per tempo $+$ o $-$ lungo
+
+
+p.490 
+La risposta immunitaria umor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTc5MDgyOSwxNzUwODc4MjAzLDE2Nj
-IyNzM4MDUsLTQ2ODc1ODkyOF19
+eyJoaXN0b3J5IjpbNjEzMDY4NTMsMTc1MDg3ODIwMywxNjYyMj
+czODA1LC00Njg3NTg5MjhdfQ==
 -->
