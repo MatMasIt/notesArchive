@@ -81,9 +81,10 @@ $$
 
 ---
 
-
-
+> ### Dati
+> $P_{livmare}=1atm$
+>  $P_{Everest}=\frac13 atm=\frac13101300PA=33767Pa$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTc3NDQxMCwtMTM2NTUzMjc3Nyw5ND
+eyJoaXN0b3J5IjpbMTI2NTU5ODkyMSwtMTM2NTUzMjc3Nyw5ND
 IxMjYzNTNdfQ==
 -->
