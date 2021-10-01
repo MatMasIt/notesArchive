@@ -54,8 +54,12 @@ anticorpi
 * linfonodi
 	* globuli bianchi (macrofagi, linfociti)
 	* Filtrano la linfa
+
+
+
+Miollo os
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODUyMzQwMSwtMTI0MTIyNjczMCwxNj
-MwOTIxOTU4LDE3NTA4NzgyMDMsMTY2MjI3MzgwNSwtNDY4NzU4
-OTI4XX0=
+eyJoaXN0b3J5IjpbMjA0NjM5NjQyNywxNDk4NTIzNDAxLC0xMj
+QxMjI2NzMwLDE2MzA5MjE5NTgsMTc1MDg3ODIwMywxNjYyMjcz
+ODA1LC00Njg3NTg5MjhdfQ==
 -->
