@@ -7,7 +7,7 @@ Sostituzioni sinonime sono silenti (dna degenerato, ridondante)
 
 Gene interviene in comunicazione cellulare
 
-Costruir
+Costruire albero genealogico in base ad analisi delle proteine
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2NjM1NzYzXX0=
+eyJoaXN0b3J5IjpbLTQ2ODc1ODkyOF19
 -->
