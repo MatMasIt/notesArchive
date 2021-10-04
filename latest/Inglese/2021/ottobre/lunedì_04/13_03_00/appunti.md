@@ -51,7 +51,9 @@ Wordsworth's paantheistic view of universe
 
 When you are in touch with nature you can really feel blessed
 
+Communion, link between Man and nature, man and God only when you are in touch with God
 
+The rest of the poem: p. 261
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1ODEwMzM4LDEwNjY3NzAwMzBdfQ==
+eyJoaXN0b3J5IjpbMTA2Nzc5MDQzMiwxMDY2NzcwMDMwXX0=
 -->
