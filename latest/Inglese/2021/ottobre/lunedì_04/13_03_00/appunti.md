@@ -22,6 +22,11 @@ Astonishment $\implies$ inability to reason
 
 ---
 Wordsworth: nature as a spiritual healer
+
+
+Romantic poetry: subjectivity
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDkzOTQxNiwxMDY2NzcwMDMwXX0=
+eyJoaXN0b3J5IjpbNjI3MDg3NDA3LDEwNjY3NzAwMzBdfQ==
 -->
