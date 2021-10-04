@@ -33,7 +33,10 @@ v.94 choise su quello che anticipato a Dante nel inferno-purgatorio
 vede rettammente, ama: Cacciaguida
 
 Dante: poesia-testo sacro
+
+Forte agrume aspro/ 
+vital nutrimento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODEyOTE4NiwtODk0NTIxODEsMTA2MT
-A1ODU4Ml19
+eyJoaXN0b3J5IjpbLTEzOTUxNzIwMTIsLTg5NDUyMTgxLDEwNj
+EwNTg1ODJdfQ==
 -->
