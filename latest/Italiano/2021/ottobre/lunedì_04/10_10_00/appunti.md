@@ -86,9 +86,9 @@ sineddoche uomo-dante/umanità
 
 sforzo ineffabilità, indicibilità
 
-dolce
+dolcezza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDg2NTY5OSwtNzgzODE5MzM2LDIwMj
-AwMjkwMiw3NjU0OTg0MzQsLTEwODk4MDgwNjgsLTY1MTY0Mzcy
-MCwtNDU0MjA0MDUsLTg5NDUyMTgxLDEwNjEwNTg1ODJdfQ==
+eyJoaXN0b3J5IjpbMTg2MDQyNDYsLTc4MzgxOTMzNiwyMDIwMD
+I5MDIsNzY1NDk4NDM0LC0xMDg5ODA4MDY4LC02NTE2NDM3MjAs
+LTQ1NDIwNDA1LC04OTQ1MjE4MSwxMDYxMDU4NTgyXX0=
 -->
