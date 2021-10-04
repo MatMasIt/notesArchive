@@ -21,6 +21,8 @@ Curia pontificia: si mercifica Cristo
 microinvettiva
 
 Giustizia divina farà vendetta
+
+scendere/salir
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzOTYzMjIwLDEwNjEwNTg1ODJdfQ==
+eyJoaXN0b3J5IjpbLTg5NDUyMTgxLDEwNjEwNTg1ODJdfQ==
 -->
