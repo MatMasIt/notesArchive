@@ -66,6 +66,19 @@ Children are superior to the parents it appears they mean
 
 they can get the sense of the nature, not corrupted of industrial society
 They are purer, influenced by nature in a deeper way, so they are better in touch with God, and they can thus teach this purity to the adults
+
+William blake shares this idea
+
+According to Blake the children are superior to the adults but he thinks they complete each other
+
+Both states
+
+* Childhood
+* Adulthood
+
+are needed  for development
+
+Wordsworth on the other and t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQyODY0MTcsMTA2Njc3MDAzMF19
+eyJoaXN0b3J5IjpbLTUyODA0MDYyMSwxMDY2NzcwMDMwXX0=
 -->
