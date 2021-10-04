@@ -44,8 +44,9 @@ Invenzione fotografia
 Non si vedono i volti, denuncia sociale
 
 
-Porta Nuova, in occasione unità d'Italia, 1861
+Porta N=""uova, in occasione unità d'Italia, 1861
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDYxMDkzMiwyNTAzMTYyOTEsNDM1MD
-c1NzI5LC0xNDcxMzk2NTUyLC02NDYzODM2NjJdfQ==
+eyJoaXN0b3J5IjpbLTczNzEzMDE1NywtMjM0NjEwOTMyLDI1MD
+MxNjI5MSw0MzUwNzU3MjksLTE0NzEzOTY1NTIsLTY0NjM4MzY2
+Ml19
 -->
