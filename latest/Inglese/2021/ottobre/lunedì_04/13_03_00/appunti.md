@@ -91,6 +91,12 @@ He also thinks this for
 Wordsworth on the other end thinks  adulthood is only negative
 
 man and nature are part of the same _whole_
+
+Daffodils, a second poem by Wordsworth
+p. 286
+Importance of nature
+
+T
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzAyODg3MywxMDY2NzcwMDMwXX0=
+eyJoaXN0b3J5IjpbLTIyOTc0NTM3MSwxMDY2NzcwMDMwXX0=
 -->
