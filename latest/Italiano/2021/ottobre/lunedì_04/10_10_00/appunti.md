@@ -63,7 +63,9 @@ fiammelle del fiume vanno nei fiori
 sembrano rubini cesellati nell'oro
 
 faville vive riprofondavano nel fiume di luce
+
+Acuimento delle facoltà intellettive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODA5NjgzOSwtNjUxNjQzNzIwLC00NT
-QyMDQwNSwtODk0NTIxODEsMTA2MTA1ODU4Ml19
+eyJoaXN0b3J5IjpbLTEwODk4MDgwNjgsLTY1MTY0MzcyMCwtND
+U0MjA0MDUsLTg5NDUyMTgxLDEwNjEwNTg1ODJdfQ==
 -->
