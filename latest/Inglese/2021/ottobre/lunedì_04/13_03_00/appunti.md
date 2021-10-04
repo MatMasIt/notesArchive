@@ -54,6 +54,8 @@ When you are in touch with nature you can really feel blessed
 Communion, link between Man and nature, man and God only when you are in touch with God
 
 The rest of the poem: p. 261
+
+importance of subjectivity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Nzc5MDQzMiwxMDY2NzcwMDMwXX0=
+eyJoaXN0b3J5IjpbLTE1NTEyMDcwOTQsMTA2Njc3MDAzMF19
 -->
