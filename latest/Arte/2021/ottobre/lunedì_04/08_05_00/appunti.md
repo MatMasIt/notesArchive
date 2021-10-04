@@ -42,7 +42,10 @@ Brevetto Hennebique, cemento armato
 Invenzione fotografia
 
 Non si vedono i volti, denuncia sociale
+
+
+Porta Nuova, in occasione unità d'Italia, 1861
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwMzE2MjkxLDQzNTA3NTcyOSwtMTQ3MT
-M5NjU1MiwtNjQ2MzgzNjYyXX0=
+eyJoaXN0b3J5IjpbLTIzNDYxMDkzMiwyNTAzMTYyOTEsNDM1MD
+c1NzI5LC0xNDcxMzk2NTUyLC02NDYzODM2NjJdfQ==
 -->
