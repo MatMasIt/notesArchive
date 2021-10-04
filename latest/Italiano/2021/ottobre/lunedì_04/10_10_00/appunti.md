@@ -11,7 +11,10 @@ paradiso 33, universo-volume
 
 preconoscenza che non determina il d eterminismo
 
-ippolito di Euripide, nota 46 p 7
+ippolito di Euripide, nota 46 p 706
+Fedra, Seneca
+
+convenir: necessita
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA5NTk4MTksMTA2MTA1ODU4Ml19
+eyJoaXN0b3J5IjpbLTg1MDkzMzUzNywxMDYxMDU4NTgyXX0=
 -->
