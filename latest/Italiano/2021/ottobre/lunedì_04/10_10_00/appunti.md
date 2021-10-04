@@ -68,11 +68,9 @@ Acuimento delle facoltà intellettive
 
 Compare san Bernardo
 
- - [x] List item
- 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI0MTE1NTYsNzY1NDk4NDM0LC0xMD
-g5ODA4MDY4LC02NTE2NDM3MjAsLTQ1NDIwNDA1LC04OTQ1MjE4
-MSwxMDYxMDU4NTgyXX0=
+eyJoaXN0b3J5IjpbMjAyMDAyOTAyLDc2NTQ5ODQzNCwtMTA4OT
+gwODA2OCwtNjUxNjQzNzIwLC00NTQyMDQwNSwtODk0NTIxODEs
+MTA2MTA1ODU4Ml19
 -->
