@@ -67,8 +67,12 @@ faville vive riprofondavano nel fiume di luce
 Acuimento delle facoltà intellettive
 
 Compare san Bernardo
+
+ - [x] List item
+ 
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1NDk4NDM0LC0xMDg5ODA4MDY4LC02NT
-E2NDM3MjAsLTQ1NDIwNDA1LC04OTQ1MjE4MSwxMDYxMDU4NTgy
-XX0=
+eyJoaXN0b3J5IjpbLTExMjI0MTE1NTYsNzY1NDk4NDM0LC0xMD
+g5ODA4MDY4LC02NTE2NDM3MjAsLTQ1NDIwNDA1LC04OTQ1MjE4
+MSwxMDYxMDU4NTgyXX0=
 -->
