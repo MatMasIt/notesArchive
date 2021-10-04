@@ -77,8 +77,13 @@ Capolavoro di eloquenza sacra
 p. 794
 Canto $XXXIII$
 creatura umile ma alta
+
+p.796 "Donna" apostrofe
+
+
+sineddoche uomo-dante/umanità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0Mjg2NzM3LDIwMjAwMjkwMiw3NjU0OT
-g0MzQsLTEwODk4MDgwNjgsLTY1MTY0MzcyMCwtNDU0MjA0MDUs
-LTg5NDUyMTgxLDEwNjEwNTg1ODJdfQ==
+eyJoaXN0b3J5IjpbLTc4MzgxOTMzNiwyMDIwMDI5MDIsNzY1ND
+k4NDM0LC0xMDg5ODA4MDY4LC02NTE2NDM3MjAsLTQ1NDIwNDA1
+LC04OTQ1MjE4MSwxMDYxMDU4NTgyXX0=
 -->
