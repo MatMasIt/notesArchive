@@ -35,8 +35,13 @@ vede rettammente, ama: Cacciaguida
 Dante: poesia-testo sacro
 
 Forte agrume aspro/ 
-vital nutrimento
+vital nutrimento: poesia
+
+
+Dante: incontro compromettente
+
+teme di perdere la fama tra i posteri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUxNzIwMTIsLTg5NDUyMTgxLDEwNj
-EwNTg1ODJdfQ==
+eyJoaXN0b3J5IjpbLTgzNzYyNzc1MiwtODk0NTIxODEsMTA2MT
+A1ODU4Ml19
 -->
