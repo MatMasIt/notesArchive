@@ -24,7 +24,7 @@ Parigi, cuore arte moderna nella seconda metà dell'800
 _"La ville lumière"_, illuminata a giorno anche di notte dai lampioni a gas
 
 Garnier p. 954
-Teatro dell' Opéra di Parigi, criticato dalla mohli
+Teatro dell' Opéra di Parigi, criticato dalla moglie di Napoleone III
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDM3MDk5N119
+eyJoaXN0b3J5IjpbLTY0NjM4MzY2Ml19
 -->
