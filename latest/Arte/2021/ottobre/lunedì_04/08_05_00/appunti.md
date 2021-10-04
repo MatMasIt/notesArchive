@@ -37,7 +37,7 @@ Ghisa, accia
 Strutture snelle
 
 
-Brevetto Hennebi
+Brevetto Hennebique, cemento armato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODQ0MzY3MCwtNjQ2MzgzNjYyXX0=
+eyJoaXN0b3J5IjpbLTE0NzEzOTY1NTIsLTY0NjM4MzY2Ml19
 -->
