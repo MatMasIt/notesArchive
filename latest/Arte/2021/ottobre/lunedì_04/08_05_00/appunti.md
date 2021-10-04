@@ -28,7 +28,16 @@ Teatro dell' Opéra di Parigi, criticato dalla moglie di Napoleone III
 
 
 
-Riv
+Rivoluzione idustriali
+* sostenitori (UK)
+* oppositori [paesaggio bucolico, nostalgia]
+
+
+Ghisa, accia
+Strutture snelle
+
+
+Brevetto Hennebi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc1OTczMzMsLTY0NjM4MzY2Ml19
+eyJoaXN0b3J5IjpbMjA4ODQ0MzY3MCwtNjQ2MzgzNjYyXX0=
 -->
