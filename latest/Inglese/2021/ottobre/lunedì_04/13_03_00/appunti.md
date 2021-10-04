@@ -31,7 +31,20 @@ Romantic poetry: subjectivity
 ==hearth leaps up== wonder, as  if hearth jumped of happiness
 
 
-He wishes his days
+He wishes his days to be linked each to each bu **natural piety** $\implies$ devotion to nature
+
+for the rest of his  life
+
+
+nature is so 
+* peaceful
+* quite
+* relazxing
+* joyful
+beacuse it is the manifestation of God on Earth
+
+Wordsworth's paantheistic view of universe
+Nature is the manifestatio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0MDc0NzYwLDEwNjY3NzAwMzBdfQ==
+eyJoaXN0b3J5IjpbMTk4Mjc4OTMwOSwxMDY2NzcwMDMwXX0=
 -->
