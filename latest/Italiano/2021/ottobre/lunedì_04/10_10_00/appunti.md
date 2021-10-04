@@ -43,7 +43,13 @@ Dante: incontro compromettente
 teme di perdere la fama tra i posteri
 
 Grattar dove è la rogna 
+
+Dante: diffonde la Verità
+
+riporta la parola redentrice alla comunità
+
+novello profeta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDIwNDA1LC04OTQ1MjE4MSwxMDYxMD
-U4NTgyXX0=
+eyJoaXN0b3J5IjpbLTY1MTY0MzcyMCwtNDU0MjA0MDUsLTg5ND
+UyMTgxLDEwNjEwNTg1ODJdfQ==
 -->
