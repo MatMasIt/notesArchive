@@ -41,7 +41,9 @@ vital nutrimento: poesia
 Dante: incontro compromettente
 
 teme di perdere la fama tra i posteri
+
+Grattar dove è la rogna 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzYyNzc1MiwtODk0NTIxODEsMTA2MT
-A1ODU4Ml19
+eyJoaXN0b3J5IjpbLTQ1NDIwNDA1LC04OTQ1MjE4MSwxMDYxMD
+U4NTgyXX0=
 -->
