@@ -110,7 +110,11 @@ Both lonely
 
 Absent minded, floating
 
+Poet is detached by common reality, high, floating detached
+
+But he is detached with nature
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ2NzI4NjgsMTA2Njc3MDAzMF19
+eyJoaXN0b3J5IjpbNTc2ODQ0ODMsMTA2Njc3MDAzMF19
 -->
