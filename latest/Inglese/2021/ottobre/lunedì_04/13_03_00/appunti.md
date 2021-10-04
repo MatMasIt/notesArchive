@@ -56,6 +56,15 @@ Communion, link between Man and nature, man and God only when you are in touch w
 The rest of the poem: p. 261
 
 importance of subjectivity
+ > The Child is father of the Man
+
+sounds like a Paradox
+
+
+
+Children are superior
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTEyMDcwOTQsMTA2Njc3MDAzMF19
+eyJoaXN0b3J5IjpbLTExMTMxMjQxMzQsMTA2Njc3MDAzMF19
 -->
