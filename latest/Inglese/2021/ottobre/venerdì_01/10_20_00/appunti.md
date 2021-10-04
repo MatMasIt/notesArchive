@@ -1,5 +1,5 @@
 #  Lezione di Inglese (3° ora)
-## Venerdì 1settembre 2021, 10:20:00
+## Venerdì 1 ottobre 2021, 10:20:00
 
 ==Sublime== (<u>Viewer</u>, subjective perception of the object)  supremacy over the ==beautiful== ( object, <u>objective quality </u>)
 (E. burke)
@@ -75,5 +75,5 @@ Leitmotif: _german_ word: filo conduttore, leading topic
 
 Rainbow: surprised, happy and joyful
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzUzMzQzMl19
+eyJoaXN0b3J5IjpbMzc3NTY2MDkwXX0=
 -->
