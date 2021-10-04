@@ -65,9 +65,7 @@ sounds like a Paradox
 Children are superior to the parents it appears they mean
 
 they can get the sense of the nature, not corrupted of industrial society
-They are purer
-
-
+They are purer, influenced by nature in a deeper way, so they are better in touch with God, and they can thus teach this purity to the adults
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDk2NDM5NCwxMDY2NzcwMDMwXX0=
+eyJoaXN0b3J5IjpbLTIwNTQyODY0MTcsMTA2Njc3MDAzMF19
 -->
