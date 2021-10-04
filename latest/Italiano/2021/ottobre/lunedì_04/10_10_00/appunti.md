@@ -15,6 +15,12 @@ ippolito di Euripide, nota 46 p 706
 Fedra, Seneca
 
 convenir: necessita
+
+Curia pontificia: si mercifica Cristo
+
+microinvettiva
+
+Giustizia divina farà vendetta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDkzMzUzNywxMDYxMDU4NTgyXX0=
+eyJoaXN0b3J5IjpbNjEzOTYzMjIwLDEwNjEwNTg1ODJdfQ==
 -->
