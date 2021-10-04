@@ -26,7 +26,12 @@ Wordsworth: nature as a spiritual healer
 
 Romantic poetry: subjectivity
 
+==rainbow== natural element
 
+==hearth leaps up== wonder, as  if hearth jumped of happiness
+
+
+He wishes his days
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3MDg3NDA3LDEwNjY3NzAwMzBdfQ==
+eyJoaXN0b3J5IjpbNDA0MDc0NzYwLDEwNjY3NzAwMzBdfQ==
 -->
