@@ -82,8 +82,13 @@ p.796 "Donna" apostrofe
 
 
 sineddoche uomo-dante/umanità
+
+
+sforzo ineffabilità, indicibilità
+
+dolce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzgxOTMzNiwyMDIwMDI5MDIsNzY1ND
-k4NDM0LC0xMDg5ODA4MDY4LC02NTE2NDM3MjAsLTQ1NDIwNDA1
-LC04OTQ1MjE4MSwxMDYxMDU4NTgyXX0=
+eyJoaXN0b3J5IjpbLTY4NDg2NTY5OSwtNzgzODE5MzM2LDIwMj
+AwMjkwMiw3NjU0OTg0MzQsLTEwODk4MDgwNjgsLTY1MTY0Mzcy
+MCwtNDU0MjA0MDUsLTg5NDUyMTgxLDEwNjEwNTg1ODJdfQ==
 -->
