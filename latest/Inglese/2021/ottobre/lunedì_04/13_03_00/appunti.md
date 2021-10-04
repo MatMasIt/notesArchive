@@ -8,6 +8,9 @@ wether big or small causes the sublime
 l.23 ocean, its vastness
 dangerous animal: cause of the sublime
 l 24 obscurity
+l25 denger
+
+big and terrific? Even more sublime
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDQ2MzU3MV19
+eyJoaXN0b3J5IjpbLTcyMjcyNDI3MV19
 -->
