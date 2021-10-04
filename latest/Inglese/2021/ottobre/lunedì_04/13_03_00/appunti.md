@@ -100,6 +100,10 @@ T47
 
 Poem is generated after a persnal experience
 
+First stanza:
+Lake district, under the trees
+A group of golden daffodils moving in the air
+First l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDUzNDQ4MTIsMTA2Njc3MDAzMF19
+eyJoaXN0b3J5IjpbLTg2NjU3OTczOCwxMDY2NzcwMDMwXX0=
 -->
