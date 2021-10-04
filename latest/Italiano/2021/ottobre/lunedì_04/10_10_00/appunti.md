@@ -73,8 +73,10 @@ p 801
 Quadratura del cerchio: impossibile
 
 Capolavoro di eloquenza sacra
+
+creatura umike ma alt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzY3NDY3OCwyMDIwMDI5MDIsNzY1ND
+eyJoaXN0b3J5IjpbMTgxNjY5NDMxNSwyMDIwMDI5MDIsNzY1ND
 k4NDM0LC0xMDg5ODA4MDY4LC02NTE2NDM3MjAsLTQ1NDIwNDA1
 LC04OTQ1MjE4MSwxMDYxMDU4NTgyXX0=
 -->
