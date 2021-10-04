@@ -65,7 +65,10 @@ sembrano rubini cesellati nell'oro
 faville vive riprofondavano nel fiume di luce
 
 Acuimento delle facoltà intellettive
+
+Compare san Bernardo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODk4MDgwNjgsLTY1MTY0MzcyMCwtND
-U0MjA0MDUsLTg5NDUyMTgxLDEwNjEwNTg1ODJdfQ==
+eyJoaXN0b3J5IjpbNzY1NDk4NDM0LC0xMDg5ODA4MDY4LC02NT
+E2NDM3MjAsLTQ1NDIwNDA1LC04OTQ1MjE4MSwxMDYxMDU4NTgy
+XX0=
 -->
