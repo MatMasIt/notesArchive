@@ -10,6 +10,13 @@ Eclettismo: stili misti, recuperati dalle epoche ma non citando, collocandole co
 Modificare il centro con Grandi Buolevard per permettere passaggio esercito 
 
 Urbanistica
+
+Tutte le città europee vogliono somigliare a Parigi
+Barcellona: ramblas
+
+Anche motivo pratico
+
+Reti a gas, tram, filobus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzY4ODI0N119
+eyJoaXN0b3J5IjpbLTE0MTMzOTIxN119
 -->
