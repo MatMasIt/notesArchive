@@ -39,8 +39,8 @@ Strutture snelle
 
 Brevetto Hennebique, cemento armato
 
-Inve
+Invenzione fotografia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4NjQ2NCwtMTQ3MTM5NjU1MiwtNjQ2Mz
-gzNjYyXX0=
+eyJoaXN0b3J5IjpbNDM1MDc1NzI5LC0xNDcxMzk2NTUyLC02ND
+YzODM2NjJdfQ==
 -->
