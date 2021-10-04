@@ -74,9 +74,11 @@ Quadratura del cerchio: impossibile
 
 Capolavoro di eloquenza sacra
 
-creatura umike ma alt
+p. 794
+Canto $XXXIII$
+creatura umile ma alta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjY5NDMxNSwyMDIwMDI5MDIsNzY1ND
-k4NDM0LC0xMDg5ODA4MDY4LC02NTE2NDM3MjAsLTQ1NDIwNDA1
-LC04OTQ1MjE4MSwxMDYxMDU4NTgyXX0=
+eyJoaXN0b3J5IjpbODU0Mjg2NzM3LDIwMjAwMjkwMiw3NjU0OT
+g0MzQsLTEwODk4MDgwNjgsLTY1MTY0MzcyMCwtNDU0MjA0MDUs
+LTg5NDUyMTgxLDEwNjEwNTg1ODJdfQ==
 -->
