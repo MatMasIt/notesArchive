@@ -17,6 +17,13 @@ Barcellona: ramblas
 Anche motivo pratico
 
 Reti a gas, tram, filobus
+
+
+Parigi, cuore arte moderna nella seconda metà dell'800
+
+_"La ville lumière"_, illuminata a giorno anche di notte dai lampioni a gas
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMzOTIxN119
+eyJoaXN0b3J5IjpbNTIzNDg0MjcxXX0=
 -->
