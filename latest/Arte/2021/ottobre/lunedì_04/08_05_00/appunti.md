@@ -40,7 +40,9 @@ Strutture snelle
 Brevetto Hennebique, cemento armato
 
 Invenzione fotografia
+
+Non si vedono i volti, denuncia sociale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1MDc1NzI5LC0xNDcxMzk2NTUyLC02ND
-YzODM2NjJdfQ==
+eyJoaXN0b3J5IjpbMjUwMzE2MjkxLDQzNTA3NTcyOSwtMTQ3MT
+M5NjU1MiwtNjQ2MzgzNjYyXX0=
 -->
