@@ -10,6 +10,8 @@ universo-quaderno
 paradiso 33, universo-volume
 
 preconoscenza che non determina il d eterminismo
+
+ippolito di Euripide, nota 46 p 7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU4MzcwNjYsMTA2MTA1ODU4Ml19
+eyJoaXN0b3J5IjpbLTE2MTA5NTk4MTksMTA2MTA1ODU4Ml19
 -->
