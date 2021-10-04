@@ -17,7 +17,7 @@ secondary effects:
 * asdmiration
 * reverence
 
-Astonishment $\implies$ inability to reason
+Astonishment $\implies$ inability to reasn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Njc3MDAzMF19
+eyJoaXN0b3J5IjpbODg3NDk3ODgxLDEwNjY3NzAwMzBdfQ==
 -->
