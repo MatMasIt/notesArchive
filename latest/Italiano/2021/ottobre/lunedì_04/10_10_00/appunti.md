@@ -27,7 +27,9 @@ scendere/salir
 intesa
 
 virtù di CAngrande della scala: no avidità smodata
+
+v.94 choise su quello che anticipato a Dante nel inferno-purgatorio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE4OTUzMjQsLTg5NDUyMTgxLDEwNj
-EwNTg1ODJdfQ==
+eyJoaXN0b3J5IjpbLTE4NjA2MjY4NiwtODk0NTIxODEsMTA2MT
+A1ODU4Ml19
 -->
