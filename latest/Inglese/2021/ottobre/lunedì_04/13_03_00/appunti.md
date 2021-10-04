@@ -62,9 +62,12 @@ sounds like a Paradox
 
 
 
-Children are superior
+Children are superior to the parents it appears they mean
+
+they can get the sense of the nature, not corrupted of industrial society
+They are purer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTMxMjQxMzQsMTA2Njc3MDAzMF19
+eyJoaXN0b3J5IjpbLTk3MDk2NDM5NCwxMDY2NzcwMDMwXX0=
 -->
