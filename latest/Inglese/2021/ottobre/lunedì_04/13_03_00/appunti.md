@@ -103,7 +103,14 @@ Poem is generated after a persnal experience
 First stanza:
 Lake district, under the trees
 A group of golden daffodils moving in the air
-First l
+First line: 
+simly
+I wandred as a cloud
+Both lonely
+
+Absent minded, floating
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjU3OTczOCwxMDY2NzcwMDMwXX0=
+eyJoaXN0b3J5IjpbLTE1MDQ2NzI4NjgsMTA2Njc3MDAzMF19
 -->
