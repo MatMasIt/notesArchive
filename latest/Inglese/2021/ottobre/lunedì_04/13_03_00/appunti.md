@@ -17,7 +17,11 @@ secondary effects:
 * asdmiration
 * reverence
 
-Astonishment $\implies$ inability to reasn
+Astonishment $\implies$ inability to reason
+
+
+---
+Wordsworth: nature as a spiritual healer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3NDk3ODgxLDEwNjY3NzAwMzBdfQ==
+eyJoaXN0b3J5IjpbMjAxMDkzOTQxNiwxMDY2NzcwMDMwXX0=
 -->
