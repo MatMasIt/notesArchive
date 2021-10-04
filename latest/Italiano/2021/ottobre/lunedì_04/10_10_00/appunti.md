@@ -23,6 +23,9 @@ microinvettiva
 Giustizia divina farà vendetta
 
 scendere/salir
+
+intesa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDUyMTgxLDEwNjEwNTg1ODJdfQ==
+eyJoaXN0b3J5IjpbMTU3MTg1Njk5NSwtODk0NTIxODEsMTA2MT
+A1ODU4Ml19
 -->
