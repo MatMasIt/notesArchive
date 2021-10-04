@@ -49,7 +49,11 @@ Dante: diffonde la Verità
 riporta la parola redentrice alla comunità
 
 novello profeta
+
+p 783
+
+Trasmoda: supera il lvello della misura umana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTY0MzcyMCwtNDU0MjA0MDUsLTg5ND
-UyMTgxLDEwNjEwNTg1ODJdfQ==
+eyJoaXN0b3J5IjpbMTgyNTY0MjUzLC02NTE2NDM3MjAsLTQ1ND
+IwNDA1LC04OTQ1MjE4MSwxMDYxMDU4NTgyXX0=
 -->
