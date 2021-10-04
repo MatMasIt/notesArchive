@@ -70,6 +70,8 @@ They are purer, influenced by nature in a deeper way, so they are better in touc
 William blake shares this idea
 
 According to Blake the children are superior to the adults but he thinks they complete each other
+ 
+Blake says adulthood is necessary to understand the purity of childhood
 
 Both states
 
@@ -86,7 +88,7 @@ He also thinks this for
 * town & countriside
 * sweet animals & dangerous animals
 
-Wordsworth on the other hand thinks 
+Wordsworth on the other end thinks  adulthood is only negatie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4OTMxNiwxMDY2NzcwMDMwXX0=
+eyJoaXN0b3J5IjpbMTY4MTU2MjIzOSwxMDY2NzcwMDMwXX0=
 -->
