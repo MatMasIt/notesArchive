@@ -44,7 +44,14 @@ nature is so
 beacuse it is the manifestation of God on Earth
 
 Wordsworth's paantheistic view of universe
-Nature is the manifestatio
+==Nature is the manifestation of God on earth==
+
+
+> Human beings should worship nature
+
+When you are in touch with nature you can really feel blessed
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mjc4OTMwOSwxMDY2NzcwMDMwXX0=
+eyJoaXN0b3J5IjpbODE1ODEwMzM4LDEwNjY3NzAwMzBdfQ==
 -->
