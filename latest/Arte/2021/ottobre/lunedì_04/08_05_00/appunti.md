@@ -25,6 +25,10 @@ _"La ville lumière"_, illuminata a giorno anche di notte dai lampioni a gas
 
 Garnier p. 954
 Teatro dell' Opéra di Parigi, criticato dalla moglie di Napoleone III
+
+
+
+Riv
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjM4MzY2Ml19
+eyJoaXN0b3J5IjpbLTEzMzc1OTczMzMsLTY0NjM4MzY2Ml19
 -->
