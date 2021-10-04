@@ -69,9 +69,12 @@ Acuimento delle facoltà intellettive
 Compare san Bernardo
 
  
+p 801 
+Quadratura del cerchio: impossibile
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTAxMjEwODQsMjAyMDAyOTAyLDc2NT
+eyJoaXN0b3J5IjpbLTIxMzkzOTYwMzEsMjAyMDAyOTAyLDc2NT
 Q5ODQzNCwtMTA4OTgwODA2OCwtNjUxNjQzNzIwLC00NTQyMDQw
 NSwtODk0NTIxODEsMTA2MTA1ODU4Ml19
 -->
