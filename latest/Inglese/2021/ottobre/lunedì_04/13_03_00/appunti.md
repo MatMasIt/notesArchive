@@ -96,7 +96,10 @@ Daffodils, a second poem by Wordsworth
 p. 286
 Importance of nature
 
-T
+T47
+
+Poem is generated after a persnal experience
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTc0NTM3MSwxMDY2NzcwMDMwXX0=
+eyJoaXN0b3J5IjpbLTEwNDUzNDQ4MTIsMTA2Njc3MDAzMF19
 -->
