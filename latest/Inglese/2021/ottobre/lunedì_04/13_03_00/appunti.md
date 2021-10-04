@@ -11,6 +11,8 @@ l 24 obscurity
 l25 denger
 
 big and terrific? Even more sublime
+
+Astonishment: motionless sould
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjcyNDI3MV19
+eyJoaXN0b3J5IjpbMTAyMzEyNzUzMl19
 -->
