@@ -114,7 +114,7 @@ Poet is detached by common reality, high, floating detached
 
 But he is detached with nature
 
-
+Crowd: personification
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2ODQ0ODMsMTA2Njc3MDAzMF19
+eyJoaXN0b3J5IjpbLTYzODU4MzUwNywxMDY2NzcwMDMwXX0=
 -->
