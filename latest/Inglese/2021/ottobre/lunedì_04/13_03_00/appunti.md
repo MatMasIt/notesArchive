@@ -90,7 +90,7 @@ He also thinks this for
 
 Wordsworth on the other end thinks  adulthood is only negative
 
-
+man and nature are part of the same _whole_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAxODQ4MDMsMTA2Njc3MDAzMF19
+eyJoaXN0b3J5IjpbMTgzNzAyODg3MywxMDY2NzcwMDMwXX0=
 -->
