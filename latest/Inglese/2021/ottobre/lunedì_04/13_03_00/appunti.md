@@ -13,6 +13,8 @@ l25 denger
 big and terrific? Even more sublime
 
 Astonishment: motionless sould
+secondary effects:
+* asdmira
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzEyNzUzMl19
+eyJoaXN0b3J5IjpbMTY5NzI2Mzk0NV19
 -->
