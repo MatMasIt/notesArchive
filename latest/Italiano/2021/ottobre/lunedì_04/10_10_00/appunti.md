@@ -53,7 +53,9 @@ novello profeta
 p 783
 
 Trasmoda: supera il lvello della misura umana
+
+dolzore: provenzalismi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTY0MjUzLC02NTE2NDM3MjAsLTQ1ND
-IwNDA1LC04OTQ1MjE4MSwxMDYxMDU4NTgyXX0=
+eyJoaXN0b3J5IjpbLTkyMDIzNTg4OSwtNjUxNjQzNzIwLC00NT
+QyMDQwNSwtODk0NTIxODEsMTA2MTA1ODU4Ml19
 -->
