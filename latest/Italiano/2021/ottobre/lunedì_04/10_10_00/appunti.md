@@ -55,7 +55,9 @@ p 783
 Trasmoda: supera il lvello della misura umana
 
 dolzore: provenzalismi
+
+fulgore improvviso esercitato da dio sui beati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDIzNTg4OSwtNjUxNjQzNzIwLC00NT
-QyMDQwNSwtODk0NTIxODEsMTA2MTA1ODU4Ml19
+eyJoaXN0b3J5IjpbLTE3MzcxNzU1NjksLTY1MTY0MzcyMCwtND
+U0MjA0MDUsLTg5NDUyMTgxLDEwNjEwNTg1ODJdfQ==
 -->
