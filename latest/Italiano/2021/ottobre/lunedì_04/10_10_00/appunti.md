@@ -57,7 +57,13 @@ Trasmoda: supera il lvello della misura umana
 dolzore: provenzalismi
 
 fulgore improvviso esercitato da dio sui beati
+
+fiammelle del fiume vanno nei fiori
+
+sembrano rubini cesellati nell'oro
+
+faville vive riprofondavano nel fiume di luce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcxNzU1NjksLTY1MTY0MzcyMCwtND
-U0MjA0MDUsLTg5NDUyMTgxLDEwNjEwNTg1ODJdfQ==
+eyJoaXN0b3J5IjpbLTcyODA5NjgzOSwtNjUxNjQzNzIwLC00NT
+QyMDQwNSwtODk0NTIxODEsMTA2MTA1ODU4Ml19
 -->
