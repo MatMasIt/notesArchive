@@ -72,9 +72,9 @@ Compare san Bernardo
 p 801 
 Quadratura del cerchio: impossibile
 
-
+Capolavoro di eloquenza sacra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzkzOTYwMzEsMjAyMDAyOTAyLDc2NT
-Q5ODQzNCwtMTA4OTgwODA2OCwtNjUxNjQzNzIwLC00NTQyMDQw
-NSwtODk0NTIxODEsMTA2MTA1ODU4Ml19
+eyJoaXN0b3J5IjpbMTk2MzY3NDY3OCwyMDIwMDI5MDIsNzY1ND
+k4NDM0LC0xMDg5ODA4MDY4LC02NTE2NDM3MjAsLTQ1NDIwNDA1
+LC04OTQ1MjE4MSwxMDYxMDU4NTgyXX0=
 -->
