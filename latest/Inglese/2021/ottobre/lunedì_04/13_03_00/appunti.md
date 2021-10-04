@@ -77,8 +77,16 @@ Both states
 * Adulthood
 
 are needed  for development
+They coexist
+==Theory of the complementary opposites==
 
-Wordsworth on the other and t
+He also thinks this for
+
+* good & evil
+* town & countriside
+* sweet animals & dangerous animals
+
+Wordsworth on the other hand thinks 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODA0MDYyMSwxMDY2NzcwMDMwXX0=
+eyJoaXN0b3J5IjpbNTA4OTMxNiwxMDY2NzcwMDMwXX0=
 -->
