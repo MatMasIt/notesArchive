@@ -25,7 +25,9 @@ Giustizia divina farà vendetta
 scendere/salir
 
 intesa
+
+virtù di CAngrande della scala: no avidità smodata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTg1Njk5NSwtODk0NTIxODEsMTA2MT
-A1ODU4Ml19
+eyJoaXN0b3J5IjpbLTIxMTE4OTUzMjQsLTg5NDUyMTgxLDEwNj
+EwNTg1ODJdfQ==
 -->
