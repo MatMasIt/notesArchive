@@ -31,7 +31,9 @@ virtù di CAngrande della scala: no avidità smodata
 v.94 choise su quello che anticipato a Dante nel inferno-purgatorio
 
 vede rettammente, ama: Cacciaguida
+
+Dante: poesia-testo sacro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNDE5OTc5LC04OTQ1MjE4MSwxMDYxMD
-U4NTgyXX0=
+eyJoaXN0b3J5IjpbLTc2ODEyOTE4NiwtODk0NTIxODEsMTA2MT
+A1ODU4Ml19
 -->
