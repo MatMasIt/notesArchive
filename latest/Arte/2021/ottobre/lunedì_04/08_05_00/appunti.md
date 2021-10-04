@@ -23,7 +23,8 @@ Parigi, cuore arte moderna nella seconda metà dell'800
 
 _"La ville lumière"_, illuminata a giorno anche di notte dai lampioni a gas
 
-
+Garnier p. 954
+Teatro dell' Opéra di Parigi, criticato dalla mohli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzNDg0MjcxXX0=
+eyJoaXN0b3J5IjpbMjA4MDM3MDk5N119
 -->
