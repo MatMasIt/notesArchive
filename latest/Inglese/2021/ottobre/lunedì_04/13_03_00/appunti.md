@@ -88,7 +88,9 @@ He also thinks this for
 * town & countriside
 * sweet animals & dangerous animals
 
-Wordsworth on the other end thinks  adulthood is only negatie
+Wordsworth on the other end thinks  adulthood is only negative
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTU2MjIzOSwxMDY2NzcwMDMwXX0=
+eyJoaXN0b3J5IjpbLTE2ODAxODQ4MDMsMTA2Njc3MDAzMF19
 -->
