@@ -14,7 +14,10 @@ big and terrific? Even more sublime
 
 Astonishment: motionless sould
 secondary effects:
-* asdmira
+* asdmiration
+* reverence
+
+Astonishment $\implies$ inability to reason
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzI2Mzk0NV19
+eyJoaXN0b3J5IjpbMTA2Njc3MDAzMF19
 -->
