@@ -1,5 +1,5 @@
 #  Lezione di Fisica (1° ora)
-## Venerdì 1settembre 2021, 08:20:00
+## Venerdì 1 settembre 2021, 08:20:00
 
 ## Walker 3, es 18
 
@@ -232,7 +232,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTQ0MjYzMSwtMzY1MjE5MDI0LDUxMD
-U1MzA5NCwxNzg1NTg0NzgyLDE3NzgxNTMzNjcsOTI3NjA1MTU2
-LC0xMzY1NTMyNzc3LDk0MjEyNjM1M119
+eyJoaXN0b3J5IjpbLTE3ODQ4ODAzMjcsLTM2NTIxOTAyNCw1MT
+A1NTMwOTQsMTc4NTU4NDc4MiwxNzc4MTUzMzY3LDkyNzYwNTE1
+NiwtMTM2NTUzMjc3Nyw5NDIxMjYzNTNdfQ==
 -->
