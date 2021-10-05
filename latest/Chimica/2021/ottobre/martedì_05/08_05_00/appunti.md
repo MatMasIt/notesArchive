@@ -139,8 +139,11 @@ Legami covalenti: condivisione di elettroni
 * polare
 
 Diversa distribuzione carica: legame polare
+
+Lunghezza del legame:
+$H$: distanza di $0,74 \text{\AA}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1NzgyNTMsLTg3OTcyMzY1MywtMTc0ND
-YwNDg1MiwtMzQxMzE5NTY4LC00NTYzNTQ1NzIsLTQ5ODUyNDEw
-MywtMTkzNzY0NTkwNV19
+eyJoaXN0b3J5IjpbLTExOTgwMTI1MDYsLTg3OTcyMzY1MywtMT
+c0NDYwNDg1MiwtMzQxMzE5NTY4LC00NTYzNTQ1NzIsLTQ5ODUy
+NDEwMywtMTkzNzY0NTkwNV19
 -->
