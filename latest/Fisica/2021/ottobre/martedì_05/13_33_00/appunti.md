@@ -79,6 +79,19 @@ $\Delta U\uparrow$
 
 
 $W=-670 \text{J}$
+
+----
+
+## es 42
+
+> **Dati**
+> T. Adiabatica
+> $n=3,92mol$ monoatomica
+> $T_i=485°C=758K$
+> $T_f=205°C=478K$
+> **Richieste**:
+> 1. $p(T)$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA0NzQ2OTVdfQ==
+eyJoaXN0b3J5IjpbMTY0MjU3NDQxMl19
 -->
