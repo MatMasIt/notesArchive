@@ -11,8 +11,9 @@ Both daffodils and stars shine and wiknle
 In fact daffodils are golden 
 
 
-Comparing daffodils to the sky: Wordsworth's belief that they are linked together in the sa
+Comparing daffodils to the sky: Wordsworth's belief that they are linked together in the same great universal order
+
+endless, infin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjU3MDMzODQsLTE3MzA0NDE4ODhdfQ
-==
+eyJoaXN0b3J5IjpbNTYzNzYyMTg0LC0xNzMwNDQxODg4XX0=
 -->
