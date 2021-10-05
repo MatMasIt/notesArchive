@@ -16,7 +16,8 @@ Comparing daffodils to the sky: Wordsworth's belief that they are linked togethe
 endless, infinite, shining: similatiries
 
 waves of the lake
+
+Sight of the daffodils made the poet much more happy than the dancing waves of the lake
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTExODUwNzIsLTE3MzA0NDE4ODhdfQ
-==
+eyJoaXN0b3J5IjpbNDUxODM3NjYyLC0xNzMwNDQxODg4XX0=
 -->
