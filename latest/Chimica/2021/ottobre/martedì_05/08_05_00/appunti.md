@@ -1,6 +1,7 @@
 #  Lezione di Chimica (1° ora)
 ## Martedì 5 ottobre 2021, 08:08:00
 
+### Interrogazioe di Benetello e Menzio
 Reazioni endotermiche e esotermiche
 
 ==Esotermiche== $E_{reagenti} < E_{prodotti}$
@@ -32,7 +33,16 @@ Reazine favorita:
 
 Principio che regola questo: Le Chatellier,
 una reazione risponde in maniera uguale ma contraria in modo da annullare l'effetto prodotto
+## Lezione
 
+$6HCl+2Al \to 2AlCl_3+3H_2$
+
+> ==$HCL$==
+> $c=2M$
+> $V(ml)=?$
+> ==Al==
+> m=
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODUyNDEwMywtMTkzNzY0NTkwNV19
+eyJoaXN0b3J5IjpbMjA2NDgxMzAwNiwtNDk4NTI0MTAzLC0xOT
+M3NjQ1OTA1XX0=
 -->
