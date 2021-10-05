@@ -79,26 +79,28 @@ Composti comuni
 ==Idrogeno==
 
 $$
-\boxed{
-H\cdot
-}
-\\1s^1\\
-\text{\textcircled{$\uparrow$}}
+{}^1H
+$$
+$$
+1s^1
+\text{\textcircled{\tiny$\uparrow$}}
 $$
 
 $$
 a \begin{equation} \begin{cases} l=0\\m=0 \end{cases} \end{equation}
 $$
 
-
+$$
+H\cdot
+$$
 ==Carbonio==
 
 
 $${}^6C\\
 \begin{equation} \begin{cases} 
 1s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}} E_{+}\\
-2s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}}\text{\textcircled{\$\uparrow\downarrow$}}\\
-2p^2 \text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{}}E_{-}\end{cases} \end{equation}
+2s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}}\text{\textcircled{\tiny$\uparrow\downarrow$}}\\
+2p^2 \text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{}}E_{-}\end{cases} \end{equation}
 $$
 ==Azoto==
 $${}^7N\\
@@ -138,7 +140,7 @@ Legami covalenti: condivisione di elettroni
 
 Diversa distribuzione carica: legame polare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODYyNDczMCwtODc5NzIzNjUzLC0xNz
-Q0NjA0ODUyLC0zNDEzMTk1NjgsLTQ1NjM1NDU3MiwtNDk4NTI0
-MTAzLC0xOTM3NjQ1OTA1XX0=
+eyJoaXN0b3J5IjpbNjU1NzgyNTMsLTg3OTcyMzY1MywtMTc0ND
+YwNDg1MiwtMzQxMzE5NTY4LC00NTYzNTQ1NzIsLTQ5ODUyNDEw
+MywtMTkzNzY0NTkwNV19
 -->
