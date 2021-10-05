@@ -1,0 +1,79 @@
+
+## es 38 scheda
+> **Dati**
+> $n=3mol$
+> $T_i=T_f=34°C=307K$ (isoterma)
+> monoatomico
+> $V_f=4V_i$
+> $W=?$
+> $Q=?$
+> $R=8,3145\frac{J}{molK}$
+
+$$
+L=nRT\ln\left(\frac{V_f}{V_i}\right)\\
+=nRT\ln\left(\frac{4\cancel{V_i}}{\cancel{V_i}}\right)\\
+=3\cancel{mol}\cdot 8,3145\frac{J}{\cancel{mol}K} \cdot 307K\ln(4)=11 \text{kJ}
+$$
+
+In isoterma $\Delta U =0$
+$\Delta U = Q-W$
+
+$$
+Q=W=11\text{kJ}
+$$
+
+
+---
+> **Dati**
+> ![](https://i.imgur.com/EEAkP6f.jpg)
+> Trasformazione Isoterma
+> $V_i=1m^3$
+> $V_f=4m^3$
+> **Richieste**
+> 1. $T_i,T_f=?$  
+> 2. $W=?$
+
+$T_i=T_f$
+
+Isoterma: legge di Boyle
+
+$$
+PV=400\text{kJ}
+$$
+
+$$
+\Huge \boxed{P(V)=\frac{400\text{kJ}}{V}}
+$$
+
+
+
+Iperbole tende a $0$
+
+$$
+V\to\infin\\
+P\to 0 \\\lim_{v\to \infin}P(V)=0
+$$
+
+$$
+\Huge \boxed{ T=\frac{400\text{kJ}}{nR}}
+$$
+
+---
+a. Se l' $\Delta U$ di un sistema aumenta dopo una trasformazione adiabatica, $W$ è $negativo$ (sul sistema) o $positivo$ (dal sistema) ?
+
+
+Trasformazione Adiabatica:
+$$
+Q=0
+$$  
+
+
+
+$$
+\Delta U = Q-W
+$$
+
+$\Delta U\uparrow$
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjU4MjU3NzQ2XX0=
+-->
