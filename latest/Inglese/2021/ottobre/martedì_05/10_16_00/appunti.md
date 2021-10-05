@@ -3,7 +3,11 @@
 
 p.286 Daffodils
 
-$v.4$ golden: 
+$v.4$ golden: sight
+
+Startig point of romantic poetr: sensory experience
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTYzMjIzOThdfQ==
+eyJoaXN0b3J5IjpbLTE3MzA0NDE4ODhdfQ==
 -->
