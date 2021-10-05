@@ -79,14 +79,22 @@ $$
 H\cdot
 }
 \\1s^1\\
-\text{\textcircled{\arrowup}}
+\text{\textcircled{$\uparrow$}}
 $$
 
 $$
 a \begin{equation} \begin{cases} l=0\\m=0 \end{cases} \end{equation}
 $$
+
+
+
+
+
+${}^6C$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTgzODg4MzgsLTg3OTcyMzY1MywtMT
-c0NDYwNDg1MiwtMzQxMzE5NTY4LC00NTYzNTQ1NzIsLTQ5ODUy
-NDEwMywtMTkzNzY0NTkwNV19
+eyJoaXN0b3J5IjpbLTk3MzgwNjk1MSwtODc5NzIzNjUzLC0xNz
+Q0NjA0ODUyLC0zNDEzMTk1NjgsLTQ1NjM1NDU3MiwtNDk4NTI0
+MTAzLC0xOTM3NjQ1OTA1XX0=
 -->
