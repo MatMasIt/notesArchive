@@ -59,8 +59,13 @@ $V_{ml}=\frac{n_{mol}}{M_{\frac{mol}{L}}}=\frac{0,45 mol}{2\frac{mol}{L}}=225 ml
 
 
 ---
-_Con altri
+_Con altri dati_
+
+> ==HCL==
+> $m_g=4,5g$
+> ==Al==
+> $n_{mol}=0,15mol$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjQ1NjQ0OSwtNDk4NTI0MTAzLC0xOT
+eyJoaXN0b3J5IjpbLTQ1NjM1NDU3MiwtNDk4NTI0MTAzLC0xOT
 M3NjQ1OTA1XX0=
 -->
