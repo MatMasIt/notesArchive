@@ -41,8 +41,14 @@ $6HCl+2Al \to 2AlCl_3+3H_2$
 > $c=2M$
 > $V(ml)=?$
 > ==Al==
-> m=
+> $m=4g$
+
+
+$Al$:
+
+
+$n(mol)=\frac{m_{g}}{MM_{\frac{g}{mol}}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDgxMzAwNiwtNDk4NTI0MTAzLC0xOT
-M3NjQ1OTA1XX0=
+eyJoaXN0b3J5IjpbLTEzOTM5OTk0MzEsLTQ5ODUyNDEwMywtMT
+kzNzY0NTkwNV19
 -->
