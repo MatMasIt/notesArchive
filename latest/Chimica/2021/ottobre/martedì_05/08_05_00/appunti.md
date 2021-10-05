@@ -15,7 +15,10 @@ Non basta $\Delta H$ per stabilire se una reazione spontanea
 
 Occorre $\Delta G$ (Energia libera di Gibbs)
 
-$\Delta H 
+$\Delta S$: entropia
+$\Delta H = \Delta H - T \Delta S$
+
+$\Delta G < 0$: reazione spontanea
 
 Endotermiche $E_{reagenti} > E_{prodotti}$
 
@@ -23,7 +26,10 @@ legami contengono energia
 legami formati da elettroni
 
 
+Reazine favorita:
+> equilibrio spostato verso ai prodotti
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwNTgzNTM5XX0=
+eyJoaXN0b3J5IjpbLTIwNTQ5MTkwNzJdfQ==
 -->
