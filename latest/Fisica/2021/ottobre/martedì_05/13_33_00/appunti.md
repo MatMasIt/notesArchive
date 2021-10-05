@@ -102,6 +102,19 @@ P_iV_i=nRT_i\\
 P_fV_f=nRT_f
 $$
 
+$$
+\frac{P_f}{P_i}=\left( \frac{V_i}{V_f}\right) ^\gamma
+$$
+
+$$
+V_i=\frac{nRT_f}{P_i}
+$$
+
+$$
+V_f=\frac{nRT}{P_f}
+$$
+
+$$\frac{V_i}{V_f}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzE1OTM5NF19
+eyJoaXN0b3J5IjpbLTEzNjA0NDgxOThdfQ==
 -->
