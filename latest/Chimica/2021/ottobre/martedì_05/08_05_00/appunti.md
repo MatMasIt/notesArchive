@@ -97,7 +97,7 @@ $$
 
 
 $${}^6C\\
-\begin{equation} \begin{cases} 
+\Huge\uparrow\small\begin{equation} \begin{cases} 
 1s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}} E_{+}\\
 2s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}}\text{\textcircled{\tiny$\uparrow\downarrow$}}\\
 2p^2 \text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{}}E_{-}\end{cases} \end{equation}
@@ -145,7 +145,7 @@ $H$: distanza di $0,74 \text{\AA}$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyMTk2NjEwLC0xMTk4MDEyNTA2LC04Nz
-k3MjM2NTMsLTE3NDQ2MDQ4NTIsLTM0MTMxOTU2OCwtNDU2MzU0
-NTcyLC00OTg1MjQxMDMsLTE5Mzc2NDU5MDVdfQ==
+eyJoaXN0b3J5IjpbLTQ5NjQ3Mzk4NiwtMTE5ODAxMjUwNiwtOD
+c5NzIzNjUzLC0xNzQ0NjA0ODUyLC0zNDEzMTk1NjgsLTQ1NjM1
+NDU3MiwtNDk4NTI0MTAzLC0xOTM3NjQ1OTA1XX0=
 -->
