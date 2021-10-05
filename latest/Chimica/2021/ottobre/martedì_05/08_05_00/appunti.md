@@ -65,7 +65,10 @@ _Con altri dati_
 > $m_g=4,5g$
 > ==Al==
 > $n_{mol}=0,15mol$
+
+$HCl$
+$n_{mol_{HCl}}=\frac{4,5 g}{36,45 \frac{g}{mol}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjM1NDU3MiwtNDk4NTI0MTAzLC0xOT
-M3NjQ1OTA1XX0=
+eyJoaXN0b3J5IjpbLTM0MTMxOTU2OCwtNDU2MzU0NTcyLC00OT
+g1MjQxMDMsLTE5Mzc2NDU5MDVdfQ==
 -->
