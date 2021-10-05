@@ -92,6 +92,7 @@ $W=-670 \text{J}$
 > **Richieste**:
 > 1. $p(T)$
 
+$\Delta T=$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjU3NDQxMl19
+eyJoaXN0b3J5IjpbMTIwOTcyMjAyN119
 -->
