@@ -68,7 +68,9 @@ _Con altri dati_
 
 $HCl$
 $n_{mol_{HCl}}=\frac{4,5 g}{36,45 \frac{g}{mol}}$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTMxOTU2OCwtNDU2MzU0NTcyLC00OT
-g1MjQxMDMsLTE5Mzc2NDU5MDVdfQ==
+eyJoaXN0b3J5IjpbLTE3NDQ2MDQ4NTIsLTM0MTMxOTU2OCwtND
+U2MzU0NTcyLC00OTg1MjQxMDMsLTE5Mzc2NDU5MDVdfQ==
 -->
