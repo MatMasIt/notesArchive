@@ -93,6 +93,15 @@ $W=-670 \text{J}$
 > 1. $p(T)$
 
 $\Delta T=$
+
+
+Adiabatica:
+$$
+P_fV_f^{\gamma}=P_iV_i^{\gamma}\\
+P_iV_i=nRT_i\\
+P_fV_f=nRT_f
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTcyMjAyN119
+eyJoaXN0b3J5IjpbLTMxMzE1OTM5NF19
 -->
