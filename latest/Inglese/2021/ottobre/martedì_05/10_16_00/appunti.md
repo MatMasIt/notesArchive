@@ -21,7 +21,12 @@ Sight of the daffodils made the poet much more happy than the dancing waves of t
 
 A poet could not but be gay (happy)
 He refers to himself as happy
+
+
+Glee, gay, jocund
+
+He gazed and gazed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0MTYxMzUyLDQ1MTgzNzY2MiwtMTczMD
-Q0MTg4OF19
+eyJoaXN0b3J5IjpbLTEyNjY4Njk1MzEsMzI0MTYxMzUyLDQ1MT
+gzNzY2MiwtMTczMDQ0MTg4OF19
 -->
