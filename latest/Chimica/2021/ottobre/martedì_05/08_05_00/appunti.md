@@ -47,8 +47,15 @@ $6HCl+2Al \to 2AlCl_3+3H_2$
 $Al$:
 
 
-$n(mol)=\frac{m_{g}}{MM_{\frac{g}{mol}}}$
+$n_{mol}=\frac{m_{g}}{MM_{\frac{g}{mol}}}=0,15mol$
+
+$HCL$
+
+$n_{mol}=0,45mol$
+
+
+$V_{ml}=\fra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM5OTk0MzEsLTQ5ODUyNDEwMywtMT
+eyJoaXN0b3J5IjpbLTE1ODI5MjExOTYsLTQ5ODUyNDEwMywtMT
 kzNzY0NTkwNV19
 -->
