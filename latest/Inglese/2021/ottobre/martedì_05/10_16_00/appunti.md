@@ -35,7 +35,11 @@ Inner eye: blessing of soliture
 
 
 Daffodils flash on the inwasrd eye (gift of the poet)
+
+
+Interior eye allows the poet to see beyond what people do and to recover previous emotions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM1NDE3NjAsLTY0NTIyMzMwNCwzMj
-QxNjEzNTIsNDUxODM3NjYyLC0xNzMwNDQxODg4XX0=
+eyJoaXN0b3J5IjpbMTIyMTYzOTE0OCwtMTg4MzU0MTc2MCwtNj
+Q1MjIzMzA0LDMyNDE2MTM1Miw0NTE4Mzc2NjIsLTE3MzA0NDE4
+ODhdfQ==
 -->
