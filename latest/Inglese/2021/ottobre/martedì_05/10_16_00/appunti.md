@@ -13,7 +13,7 @@ In fact daffodils are golden
 
 Comparing daffodils to the sky: Wordsworth's belief that they are linked together in the same great universal order
 
-endless, infin
+endless, infinite, shining: similatiries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzNzYyMTg0LC0xNzMwNDQxODg4XX0=
+eyJoaXN0b3J5IjpbNDQ3NDQzMjM5LC0xNzMwNDQxODg4XX0=
 -->
