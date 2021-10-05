@@ -1,3 +1,5 @@
+#  Lezione di Fisica (6° ora)
+## Martedì 5 ottobre 2021, 13:35:00
 
 ## es 38 scheda
 > **Dati**
@@ -74,6 +76,9 @@ $$
 $$
 
 $\Delta U\uparrow$
+
+
+$W=-670 \text{J}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4MjU3NzQ2XX0=
+eyJoaXN0b3J5IjpbLTE0OTA0NzQ2OTVdfQ==
 -->
