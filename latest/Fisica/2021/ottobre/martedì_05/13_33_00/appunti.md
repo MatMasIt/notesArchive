@@ -133,12 +133,12 @@ $$
 $$
 
 $$
-\frac{P_f}{P_i}=\left( \frac{T_i}{T_f} \right) ^{\frac{\gamma}{1-\gamma}}
+\Huge \frac{P_f}{P_i}=\left( \frac{T_i}{T_f} \right) ^{\frac{\gamma}{1-\gamma}}
 $$
 
 $$
-P=\left( P_i{T_i}
+P=\left( P_i{T_i}^{\frac{\gamma}{1-\gamma}}\right)\frac1{T^\frac{\gamma}{1-\gamma}} 
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI3Njg0MThdfQ==
+eyJoaXN0b3J5IjpbLTIxMzc1Mzc4NzddfQ==
 -->
