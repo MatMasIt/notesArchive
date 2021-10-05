@@ -48,8 +48,12 @@ he can do it thanks to imagination
 at the end of this poetry comes out
 
 last stanza: process of poetic production
+
+Inward eyes: immagination
+
+Only when he is on is sofa that he can realize the joy of nature
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Njc4NjcxNCwtMTg4MzU0MTc2MCwtNj
+eyJoaXN0b3J5IjpbMTUyOTYzODE4MCwtMTg4MzU0MTc2MCwtNj
 Q1MjIzMzA0LDMyNDE2MTM1Miw0NTE4Mzc2NjIsLTE3MzA0NDE4
 ODhdfQ==
 -->
