@@ -96,16 +96,16 @@ $$
 
 $${}^6C\\
 \begin{equation} \begin{cases} 
-1s^2 \text{\textcircled{$\uparrow\downarrow$}} E_{+}\\
-2s^2 \text{\textcircled{$\uparrow\downarrow$}}\text{\textcircled{$\uparrow\downarrow$}}\\
+1s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}} E_{+}\\
+2s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}}\text{\textcircled{\$\uparrow\downarrow$}}\\
 2p^2 \text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{}}E_{-}\end{cases} \end{equation}
 $$
 ==Azoto==
 $${}^7N\\
 \begin{equation} \begin{cases} 
-1s^2 \text{\textcircled{$\uparrow\downarrow$}} E_{+}\\
-2s^2 \text{\textcircled{$\uparrow\downarrow$}}\text{\textcircled{$\uparrow\downarrow$}}\\
-2p^3 \text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}E_{-}\end{cases} \end{equation}\\
+1s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}} E_{+}\\
+2s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}}\text{\textcircled{\tiny$\uparrow\downarrow$}}\\
+2p^3 \text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{\tiny$\uparrow$}}E_{-}\end{cases} \end{equation}\\
 $$
 $$
 \dot{\underset{\small\cdot}{\cdot \space \space N \text{\textcircled{$\cdot$}} }}
@@ -114,8 +114,8 @@ $$
 $${}^8O\\
 \begin{equation} \begin{cases} 
 1s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}} E_{+}\\
-2s^2 \text{\textcircled{$\uparrow\downarrow$}}\text{\textcircled{$\uparrow\downarrow$}}\\
-2p^4 \text{\textcircled{$\uparrow\downarrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}E_{-}\end{cases} \end{equation}\\
+2s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}}\text{\textcircled{\tiny$\uparrow\downarrow$}}\\
+2p^4 \text{\textcircled{\tiny$\uparrow\downarrow$}}\text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{\tiny$\uparrow$}}E_{-}\end{cases} \end{equation}\\
 $$
 $$
 \dot{\underset{ \small\text{\textcircled{..}} }{ \cdot \space \space \space O \text{\textcircled{:}} }}
@@ -138,7 +138,7 @@ Legami covalenti: condivisione di elettroni
 
 Diversa distribuzione carica: legame polare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM1MTgwNTQsLTg3OTcyMzY1MywtMT
-c0NDYwNDg1MiwtMzQxMzE5NTY4LC00NTYzNTQ1NzIsLTQ5ODUy
-NDEwMywtMTkzNzY0NTkwNV19
+eyJoaXN0b3J5IjpbMTkzODYyNDczMCwtODc5NzIzNjUzLC0xNz
+Q0NjA0ODUyLC0zNDEzMTk1NjgsLTQ1NjM1NDU3MiwtNDk4NTI0
+MTAzLC0xOTM3NjQ1OTA1XX0=
 -->
