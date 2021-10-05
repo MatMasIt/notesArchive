@@ -74,6 +74,10 @@ $n_{mol_{HCl}}=\frac{4,5 g}{36,45 \frac{g}{mol}}$
 
 Elemento comune a tutti i composti organici: carbonio
 
+Composti comuni
+
+==Idrogeno==
+
 $$
 \boxed{
 H\cdot
@@ -87,7 +91,7 @@ a \begin{equation} \begin{cases} l=0\\m=0 \end{cases} \end{equation}
 $$
 
 
-
+==Carbonio==
 
 
 $${}^6C\\
@@ -103,7 +107,7 @@ $${}^7N\\
 2p^3 \text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}E_{-}\end{cases} \end{equation}\\
 $$
 $$
-\dot{\underset{\small\cdot}{\cdot \space \spa N \text{\textcircled{$\cdot$}} }}
+\dot{\underset{\small\cdot}{\cdot \space \space N \text{\textcircled{$\cdot$}} }}
 $$
 
 $${}^8O\\
@@ -124,8 +128,14 @@ Tutti gli altri elementi faranno legami per raggiungere l'ottetto
 
 > Elettronegatività: 
 > Capacità di addensare su di sè un doppietto elettronico
+
+
+Legami covalenti: condivisione di elettroni
+> $\Delta \delta ^{-}$: differenza di elettronegatività
+* puro $\Delta \delta^{-} < 1,04$
+* polare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTg2MTEyNCwtODc5NzIzNjUzLC0xNz
+eyJoaXN0b3J5IjpbLTUyMDA5ODA3OSwtODc5NzIzNjUzLC0xNz
 Q0NjA0ODUyLC0zNDEzMTk1NjgsLTQ1NjM1NDU3MiwtNDk4NTI0
 MTAzLC0xOTM3NjQ1OTA1XX0=
 -->
