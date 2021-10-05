@@ -110,10 +110,10 @@ $${}^8O\\
 \begin{equation} \begin{cases} 
 1s^2 \text{\textcircled{$\uparrow\downarrow$}} E_{+}\\
 2s^2 \text{\textcircled{$\uparrow\downarrow$}}\text{\textcircled{$\uparrow\downarrow$}}\\
-2p^3 \text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}E_{-}\end{cases} \end{equation}\\
+2p^4 \text{\textcircled{$\uparrow\downarrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}E_{-}\end{cases} \end{equation}\\
 $$
 $$
-\dot{\underset{\cdot}{\cdot N \text{\textcircled{$\cdot$}} }}
+\dot{\underset{\cdot}{:  O \text{\textcircled{:}} }}
 $$
 
 cap 13
@@ -121,8 +121,11 @@ cap 13
 Ottetto: condizione di massima stabilità (gas nobili)
 
 Tutti gli altri elementi faranno legami per raggiungere l'ottetto
+
+> Elettronegatività: 
+> Capacità di addensare su di sè u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Nzc0NjM0MywtODc5NzIzNjUzLC0xNz
-Q0NjA0ODUyLC0zNDEzMTk1NjgsLTQ1NjM1NDU3MiwtNDk4NTI0
-MTAzLC0xOTM3NjQ1OTA1XX0=
+eyJoaXN0b3J5IjpbLTE2NzkyODY4MTYsLTg3OTcyMzY1MywtMT
+c0NDYwNDg1MiwtMzQxMzE5NTY4LC00NTYzNTQ1NzIsLTQ5ODUy
+NDEwMywtMTkzNzY0NTkwNV19
 -->
