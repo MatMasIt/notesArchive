@@ -73,8 +73,10 @@ $n_{mol_{HCl}}=\frac{4,5 g}{36,45 \frac{g}{mol}}$
 ## Elementi di chimicaorgnica
 
 Elemento comune a tutti i composti organici: carbonio
+
+$\boxed{}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTcyMzY1MywtMTc0NDYwNDg1MiwtMz
-QxMzE5NTY4LC00NTYzNTQ1NzIsLTQ5ODUyNDEwMywtMTkzNzY0
-NTkwNV19
+eyJoaXN0b3J5IjpbMTQ1ODA5OTc1OSwtODc5NzIzNjUzLC0xNz
+Q0NjA0ODUyLC0zNDEzMTk1NjgsLTQ1NjM1NDU3MiwtNDk4NTI0
+MTAzLC0xOTM3NjQ1OTA1XX0=
 -->
