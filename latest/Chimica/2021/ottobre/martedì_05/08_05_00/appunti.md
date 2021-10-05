@@ -30,6 +30,9 @@ Reazine favorita:
 > equilibrio spostato verso ai prodotti
 
 
+Principio che regola questo: Le Chatellier,
+una reazione risponde in maniera uguale ma contraria in modo da annullare l'effetto prodotto
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ5MTkwNzJdfQ==
+eyJoaXN0b3J5IjpbLTE5Mzc2NDU5MDVdfQ==
 -->
