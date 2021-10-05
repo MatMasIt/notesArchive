@@ -104,7 +104,7 @@ $${}^6C\\
 $$
 ==Azoto==
 $${}^7N\\
-\begin{equation} \begin{cases} 
+\Huge\uparrow\small\begin{equation} \begin{cases} 
 1s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}} E_{+}\\
 2s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}}\text{\textcircled{\tiny$\uparrow\downarrow$}}\\
 2p^3 \text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{\tiny$\uparrow$}}E_{-}\end{cases} \end{equation}\\
@@ -114,7 +114,7 @@ $$
 $$
 ==Ossigeno==
 $${}^8O\\
-\begin{equation} \begin{cases} 
+\Huge\uparrow\small\begin{equation} \begin{cases} 
 1s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}} E_{+}\\
 2s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}}\text{\textcircled{\tiny$\uparrow\downarrow$}}\\
 2p^4 \text{\textcircled{\tiny$\uparrow\downarrow$}}\text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{\tiny$\uparrow$}}E_{-}\end{cases} \end{equation}\\
@@ -145,7 +145,7 @@ $H$: distanza di $0,74 \text{\AA}$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjQ3Mzk4NiwtMTE5ODAxMjUwNiwtOD
+eyJoaXN0b3J5IjpbMTQ4NzQ4MDY0NiwtMTE5ODAxMjUwNiwtOD
 c5NzIzNjUzLC0xNzQ0NjA0ODUyLC0zNDEzMTk1NjgsLTQ1NjM1
 NDU3MiwtNDk4NTI0MTAzLC0xOTM3NjQ1OTA1XX0=
 -->
