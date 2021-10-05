@@ -38,8 +38,12 @@ Daffodils flash on the inwasrd eye (gift of the poet)
 
 
 Interior eye allows the poet to see beyond what people do and to recover previous emotions
+
+Emotion he can recall is even stringer than the original one
+
+he can feel and create while he is
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTYzOTE0OCwtMTg4MzU0MTc2MCwtNj
+eyJoaXN0b3J5IjpbMjA1NTUxMDMxMCwtMTg4MzU0MTc2MCwtNj
 Q1MjIzMzA0LDMyNDE2MTM1Miw0NTE4Mzc2NjIsLTE3MzA0NDE4
 ODhdfQ==
 -->
