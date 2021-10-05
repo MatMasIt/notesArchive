@@ -51,11 +51,15 @@ $n_{mol}=\frac{m_{g}}{MM_{\frac{g}{mol}}}=0,15mol$
 
 $HCL$
 
-$n_{mol}=\frac62n_{mol}0,45mol$
+$n_{mol}=\frac62n_{mol}=0,45mol$
 
 
 $V_{ml}=\frac{n_{mol}}{M_{\frac{mol}{L}}}=\frac{0,45 mol}{2\frac{mol}{L}}=225 ml$
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTY2MTcwLC00OTg1MjQxMDMsLTE5Mz
-c2NDU5MDVdfQ==
+eyJoaXN0b3J5IjpbMTIxMzc1OTQxMSwtNDk4NTI0MTAzLC0xOT
+M3NjQ1OTA1XX0=
 -->
