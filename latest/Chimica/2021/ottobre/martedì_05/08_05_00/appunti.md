@@ -91,13 +91,16 @@ $$
 
 
 $${}^6C\\
-\begin{equation} \begin{cases} Here \end{cases} \end{equation}
-1s^2 \text{\textcircled{$\uparrow\downarrow$}}\\
+\begin{equation} \begin{cases} 
+1s^2 \text{\textcircled{$\uparrow\downarrow$}} E_{+}\\
 2s^2 \text{\textcircled{$\uparrow\downarrow$}}\text{\textcircled{$\uparrow\downarrow$}}\\
-2p^2 \text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{}}
+2p^2 \text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{}}E_{-}\end{cases} \end{equation}
 $$
+
+
+cap 13
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4NDc3MDY3LC04Nzk3MjM2NTMsLTE3ND
-Q2MDQ4NTIsLTM0MTMxOTU2OCwtNDU2MzU0NTcyLC00OTg1MjQx
-MDMsLTE5Mzc2NDU5MDVdfQ==
+eyJoaXN0b3J5IjpbLTMzNTI3MjQ4OSwtODc5NzIzNjUzLC0xNz
+Q0NjA0ODUyLC0zNDEzMTk1NjgsLTQ1NjM1NDU3MiwtNDk4NTI0
+MTAzLC0xOTM3NjQ1OTA1XX0=
 -->
