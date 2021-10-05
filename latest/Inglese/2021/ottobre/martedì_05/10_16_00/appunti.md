@@ -7,7 +7,12 @@ $v.4$ golden: sight
 
 Startig point of romantic poetr: sensory experience
 
+Both daffodils and stars shine and wiknle
+In fact daffodils are golden 
 
+
+Comparing daffodils to the sky: Wordsworth's belief that they are linked together in the sa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA0NDE4ODhdfQ==
+eyJoaXN0b3J5IjpbLTE5NjU3MDMzODQsLTE3MzA0NDE4ODhdfQ
+==
 -->
