@@ -18,6 +18,10 @@ endless, infinite, shining: similatiries
 waves of the lake
 
 Sight of the daffodils made the poet much more happy than the dancing waves of the lake
+
+A poet could not but be gay (happy)
+He refers to himself as happy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxODM3NjYyLC0xNzMwNDQxODg4XX0=
+eyJoaXN0b3J5IjpbMzI0MTYxMzUyLDQ1MTgzNzY2MiwtMTczMD
+Q0MTg4OF19
 -->
