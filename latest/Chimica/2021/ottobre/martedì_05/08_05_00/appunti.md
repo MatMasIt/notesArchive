@@ -100,6 +100,7 @@ $${}^6C\\
 2s^2 \text{\textcircled{$\uparrow\downarrow$}}\text{\textcircled{$\uparrow\downarrow$}}\\
 2p^2 \text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{}}E_{-}\end{cases} \end{equation}
 $$
+==Azoto==
 $${}^7N\\
 \begin{equation} \begin{cases} 
 1s^2 \text{\textcircled{$\uparrow\downarrow$}} E_{+}\\
@@ -109,10 +110,10 @@ $$
 $$
 \dot{\underset{\small\cdot}{\cdot \space \space N \text{\textcircled{$\cdot$}} }}
 $$
-
+==Ossigeno==
 $${}^8O\\
 \begin{equation} \begin{cases} 
-1s^2 \text{\textcircled{$\uparrow\downarrow$}} E_{+}\\
+1s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}} E_{+}\\
 2s^2 \text{\textcircled{$\uparrow\downarrow$}}\text{\textcircled{$\uparrow\downarrow$}}\\
 2p^4 \text{\textcircled{$\uparrow\downarrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}E_{-}\end{cases} \end{equation}\\
 $$
@@ -132,10 +133,12 @@ Tutti gli altri elementi faranno legami per raggiungere l'ottetto
 
 Legami covalenti: condivisione di elettroni
 > $\Delta \delta ^{-}$: differenza di elettronegatività
-* puro $\Delta \delta^{-} < 1,04$
+* puro $\Delta \delta^{-} < 1,04$ (per definizione apolari, miscibili)
 * polare
+
+Diversa distribuzione carica: legame polare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDA5ODA3OSwtODc5NzIzNjUzLC0xNz
-Q0NjA0ODUyLC0zNDEzMTk1NjgsLTQ1NjM1NDU3MiwtNDk4NTI0
-MTAzLC0xOTM3NjQ1OTA1XX0=
+eyJoaXN0b3J5IjpbLTIxMTM1MTgwNTQsLTg3OTcyMzY1MywtMT
+c0NDYwNDg1MiwtMzQxMzE5NTY4LC00NTYzNTQ1NzIsLTQ5ODUy
+NDEwMywtMTkzNzY0NTkwNV19
 -->
