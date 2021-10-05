@@ -29,7 +29,13 @@ He gazed and gazed
 
 
 He did not think so much at that moment to the pleasure that that view was bringing him 
+
+
+Inner eye: blessing of soliture
+
+
+Daffodils flash on the inwasrd eye (gift of the poet)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTIyMzMwNCwzMjQxNjEzNTIsNDUxOD
-M3NjYyLC0xNzMwNDQxODg4XX0=
+eyJoaXN0b3J5IjpbLTE4ODM1NDE3NjAsLTY0NTIyMzMwNCwzMj
+QxNjEzNTIsNDUxODM3NjYyLC0xNzMwNDQxODg4XX0=
 -->
