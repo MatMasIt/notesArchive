@@ -145,10 +145,15 @@ Lavoro di una adiabatica
 
 $\Delta U = \frac 32 NR\Delta T$
 
-$\Delta U = Q-T$
-$Q=0$
-
-$
+$$
+\begin{equation} \begin{cases}
+\Delta U = Q-W\\
+Q=0
+\end{cases} \end{equation}
+$$
+$$
+W=\Delta U
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDMzNzc2XX0=
+eyJoaXN0b3J5IjpbLTEzMjQwNjY1NjRdfQ==
 -->
