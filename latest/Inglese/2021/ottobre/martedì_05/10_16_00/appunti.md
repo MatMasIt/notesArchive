@@ -26,7 +26,10 @@ He refers to himself as happy
 Glee, gay, jocund
 
 He gazed and gazed
+
+
+He did not think so much at that moment to the pleasure that that view was bringing him 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY4Njk1MzEsMzI0MTYxMzUyLDQ1MT
-gzNzY2MiwtMTczMDQ0MTg4OF19
+eyJoaXN0b3J5IjpbLTY0NTIyMzMwNCwzMjQxNjEzNTIsNDUxOD
+M3NjYyLC0xNzMwNDQxODg4XX0=
 -->
