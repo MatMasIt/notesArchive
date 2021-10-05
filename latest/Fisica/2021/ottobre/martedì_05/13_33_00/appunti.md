@@ -133,12 +133,22 @@ $$
 $$
 
 $$
-\Huge \frac{P_f}{P_i}=\left( \frac{T_i}{T_f} \right) ^{\frac{\gamma}{1-\gamma}}
+\frac{P_f}{P_i}=\left( \frac{T_i}{T_f} \right) ^{\frac{\gamma}{1-\gamma}}
 $$
 
 $$
 P=\left( P_i{T_i}^{\frac{\gamma}{1-\gamma}}\right)\frac1{T^\frac{\gamma}{1-\gamma}} 
 $$
+
+
+Lavoro di una adiabatica
+
+$\Delta U = \frac 32 NR\Delta T$
+
+$\Delta U = Q-T$
+$Q=0$
+
+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc1Mzc4NzddfQ==
+eyJoaXN0b3J5IjpbMTU1MDMzNzc2XX0=
 -->
