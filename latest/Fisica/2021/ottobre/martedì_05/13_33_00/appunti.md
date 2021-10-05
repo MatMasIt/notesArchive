@@ -126,7 +126,11 @@ $$
 
 
 $$
-
+\left( \frac{P_f}{P_i}\right) ^{1-\gamma}=\left( \frac{T_i}{T_f}\right) ^{\gamma}
+$$
+$$
+\left[\left( \frac{P_f}{P_i}\right) ^{1-\gamma}\right]^{\frac1{1-\gamma}}=x\left( \frac{T_i}{T_f}\right) ^{\gamma}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTM3NDE4MV19
+eyJoaXN0b3J5IjpbNjM4MDAwODc2XX0=
 -->
