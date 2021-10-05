@@ -103,7 +103,7 @@ $${}^7N\\
 2p^3 \text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}E_{-}\end{cases} \end{equation}\\
 $$
 $$
-\dot{\underset{\cdot}{\cdot N \text{\textcircled{$\cdot$}} }}
+\dot{\underset{\small\cdot}{\cdot \space \spa N \text{\textcircled{$\cdot$}} }}
 $$
 
 $${}^8O\\
@@ -113,7 +113,7 @@ $${}^8O\\
 2p^4 \text{\textcircled{$\uparrow\downarrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}E_{-}\end{cases} \end{equation}\\
 $$
 $$
-\dot{\underset{ \text{\textcircled{..}} }{ \cdot \space \space \space O \text{\textcircled{:}} }}
+\dot{\underset{ \small\text{\textcircled{..}} }{ \cdot \space \space \space O \text{\textcircled{:}} }}
 $$
 
 cap 13
@@ -125,7 +125,7 @@ Tutti gli altri elementi faranno legami per raggiungere l'ottetto
 > Elettronegatività: 
 > Capacità di addensare su di sè un doppietto elettronico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzk4NTA5OCwtODc5NzIzNjUzLC0xNz
+eyJoaXN0b3J5IjpbMTMwMTg2MTEyNCwtODc5NzIzNjUzLC0xNz
 Q0NjA0ODUyLC0zNDEzMTk1NjgsLTQ1NjM1NDU3MiwtNDk4NTI0
 MTAzLC0xOTM3NjQ1OTA1XX0=
 -->
