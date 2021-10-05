@@ -20,8 +20,8 @@ $\Delta H = \Delta H - T \Delta S$
 
 $\Delta G < 0$: reazione spontanea
 
-Endotermiche $E_{reagenti} > E_{prodotti}$
-
+==Endotermiche== $E_{reagenti} > E_{prodotti}$
+$\Delta H > 0$
 legami contengono energia
 legami formati da elettroni
 
@@ -34,5 +34,5 @@ Principio che regola questo: Le Chatellier,
 una reazione risponde in maniera uguale ma contraria in modo da annullare l'effetto prodotto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc2NDU5MDVdfQ==
+eyJoaXN0b3J5IjpbLTQ5ODUyNDEwMywtMTkzNzY0NTkwNV19
 -->
