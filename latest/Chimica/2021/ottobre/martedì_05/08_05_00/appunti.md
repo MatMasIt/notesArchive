@@ -100,13 +100,15 @@ $${}^7N\\
 \begin{equation} \begin{cases} 
 1s^2 \text{\textcircled{$\uparrow\downarrow$}} E_{+}\\
 2s^2 \text{\textcircled{$\uparrow\downarrow$}}\text{\textcircled{$\uparrow\downarrow$}}\\
-2p^3 \text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}E_{-}\end{cases} \end{equation}
+2p^3 \text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}\text{\textcircled{$\uparrow$}}E_{-}\end{cases} \end{equation}\\
+$$
+$$
+\dot{\underset{\cdot}{\cdot N \cdot }}
 $$
 
-$
 cap 13
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzQ2ODQ0MywtODc5NzIzNjUzLC0xNz
+eyJoaXN0b3J5IjpbLTQ0NjUwNTE3NCwtODc5NzIzNjUzLC0xNz
 Q0NjA0ODUyLC0zNDEzMTk1NjgsLTQ1NjM1NDU3MiwtNDk4NTI0
 MTAzLC0xOTM3NjQ1OTA1XX0=
 -->
