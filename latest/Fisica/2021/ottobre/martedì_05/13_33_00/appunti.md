@@ -114,7 +114,19 @@ $$
 V_f=\frac{nRT}{P_f}
 $$
 
-$$\frac{V_i}{V_f}
+$$
+\frac{V_i}{V_f}=\frac{P_f}{P_i}\cdot\frac{T_i}{T_f}
+$$
+
+---
+
+$$
+\frac{P_f}{P_i}=\left( \frac{P_f}{P_i}\right)^\gamma \cdot \left( \frac{TI}{T_f}\right) ^\gamma 
+$$
+
+
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjA0NDgxOThdfQ==
+eyJoaXN0b3J5IjpbMTIxMTM3NDE4MV19
 -->
