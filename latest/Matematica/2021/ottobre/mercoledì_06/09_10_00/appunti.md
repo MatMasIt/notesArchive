@@ -39,9 +39,16 @@ y=\ln\left|\sin x \right|
 $$
 
 $$
-y^{'}=\frac{1}{\left|\sin x \right|}\cdot \frac{\sin x }{\left| \sin x \right|}\cdot \cos x=
+y^{'}=\frac{1}{\left|\sin x \right|}\cdot \frac{\sin x }{\left| \sin x \right|}\cdot \cos x=\\\frac{\sin x}{\sin^2 x}\cos x
+$$
+
+
+$$
+abcdefghijklmnopqrstuvwxyz\\ABCDEFGHIJKLMNOPQRSTUVWXYZ\\
+1234567890\\
+|!"£\$%%%%&&&//(((()=
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQ0MDYxODYsLTEzODE2ODkxMjAsMj
-A4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
+eyJoaXN0b3J5IjpbMTc3NDI0NDE5MiwtMTM4MTY4OTEyMCwyMD
+g2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
 -->
