@@ -36,8 +36,13 @@ coronavirus riconosce antigene delle nostre cellule e entra all'interno
 
 Allergia: polline viene riconociuto come non self e parte una risposta immunitaria
 
+Determinanti antigenici
 
+Linfociti T e B hanno recettori specifici
+
+noi abbiamo quasi $10'000'000$ di risposte specifiche
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTIwMDcyODUsLTEzNDgxNTIxN119
+eyJoaXN0b3J5IjpbODc2MDEzMzY0LC0xNTUyMDA3Mjg1LC0xMz
+Q4MTUyMTddfQ==
 -->
