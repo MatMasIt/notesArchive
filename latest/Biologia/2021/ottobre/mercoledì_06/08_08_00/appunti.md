@@ -57,8 +57,10 @@ risposta immunitaria
 p.490
 
 1. Antigene viene a contatto con i linfociti B, i linfociti con il recettore corrispondente all'antigene si attivano
-2. Selezioen clonale, i linfo
+2. Selezione clonale, i linfociti B proliferano  e producono 
+	* plasmacellule 
+	* cellule della memoria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc0NTUzNzksLTQ5NzM5MjExNSwzNT
-E3MTI3OTIsLTE1NTIwMDcyODUsLTEzNDgxNTIxN119
+eyJoaXN0b3J5IjpbMTc3NzY4ODQwOSwtNDk3MzkyMTE1LDM1MT
+cxMjc5MiwtMTU1MjAwNzI4NSwtMTM0ODE1MjE3XX0=
 -->
