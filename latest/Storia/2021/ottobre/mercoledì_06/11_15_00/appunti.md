@@ -26,6 +26,16 @@ Eccezione in Italia, regno di Sardegna  ha una costituzione
 Marzo $1848$, Statuto Albertino, concesso da Carlo Alberto
 
 Costituzione moderata, voleva evitare conseguenze più gravi, come la proclamazione di una repubblica
+
+p.2 Scheda
+
+presidente del consiglio Massimo d'Azeglio
+Legge Siccardi aboliva tribunali ecclesiastici
+aboliva la censura dei libri
+
+Regno che tende ad ammodernarsi, trasferimento di nuovi borghesi
+
+Aspetto economico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDk2MDY4OF19
+eyJoaXN0b3J5IjpbMjQ5NzMwNDU3LDEzOTQ5NjA2ODhdfQ==
 -->
