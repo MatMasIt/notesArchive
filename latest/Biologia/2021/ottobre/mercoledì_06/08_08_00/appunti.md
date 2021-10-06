@@ -34,6 +34,10 @@ malattie autoimmuni
 
 coronavirus riconosce antigene delle nostre cellule e entra all'interno
 
+Allergia: polline viene riconociuto come non self e parte una risposta immunitaria
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODUwODIyNzcsLTEzNDgxNTIxN119
+eyJoaXN0b3J5IjpbLTE1NTIwMDcyODUsLTEzNDgxNTIxN119
 -->
