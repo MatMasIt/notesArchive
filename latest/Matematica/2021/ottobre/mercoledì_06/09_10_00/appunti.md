@@ -14,9 +14,10 @@ $$
 
 
 $$
-
+C.E. x=k\pi\\
+k \in \Z
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDEyNDU2MSwxODQ4NjI5MDE2XX0=
+eyJoaXN0b3J5IjpbOTI2ODQ0MjE2LDE4NDg2MjkwMTZdfQ==
 -->
