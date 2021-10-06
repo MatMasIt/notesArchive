@@ -74,11 +74,11 @@ Esame sierologico
 |Classi anticorpi|Tipo|Diagnosi|
 |---|---|---|
 |$igG$|Monomero|per capire se si ha avuto una infezione in passato|
-|$igM$xlr > |Pentamero|per capire se la malattia è in corso|
+|$igM$|Pentamero|per capire se la malattia è in corso|
 
-
+ c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTE2OTY1NywyMDM2MzgzODM3LC00OT
+eyJoaXN0b3J5IjpbMTc1MDE2MDg1OCwyMDM2MzgzODM3LC00OT
 czOTIxMTUsMzUxNzEyNzkyLC0xNTUyMDA3Mjg1LC0xMzQ4MTUy
 MTddfQ==
 -->
