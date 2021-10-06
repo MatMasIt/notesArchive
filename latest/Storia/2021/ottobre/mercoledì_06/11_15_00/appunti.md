@@ -53,7 +53,13 @@ anni '50-'70  liberismo diffuso in Europa
 
 poi variazioni che portano al protezionismo
 
-Verso gli anni '50 buona situazione economica
+Verso gli anni '50 buona situazione economica, crescita solida
+
+Regno di Sardegna in buone condizioni per coquistare Italia
+
+Monarchia Sabada voleva espandersi verso est, lombardia, pianura padana
+
+Problema impero asburgico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgwMTY0OTAsMTM5NDk2MDY4OF19
+eyJoaXN0b3J5IjpbLTE4MjAzODM0NzEsMTM5NDk2MDY4OF19
 -->
