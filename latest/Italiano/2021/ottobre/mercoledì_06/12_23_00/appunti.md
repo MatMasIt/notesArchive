@@ -28,6 +28,15 @@ anni 30
 Ossi di Seppia, anni 20
 
 Oggetti evocativi
+
+---
+Meriggiare, da _Meriggio_ poema di D'annunzio
+
+muro a secco ligure, paesaggio Ligure, tra Genova e 
+
+pruni (rovi)
+
+inferno XIII (selva sei suicidi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTczNTA3M119
+eyJoaXN0b3J5IjpbLTE4MzA2MDAzNzFdfQ==
 -->
