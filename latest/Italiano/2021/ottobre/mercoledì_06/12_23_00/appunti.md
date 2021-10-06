@@ -114,6 +114,11 @@ Edoardo Sanguineti, altro genovese che ha studiato a torino
 
 Giovanni Giudici, nato a La Spezia
 p. 568 divina commedia, purgatorio XXX
+
+Anni '90 adattamento teatrale
+Sanguineti|Inferno|
+|Luzi|Purgatorio|
+|Giudici|Paradiso|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjYxMzM5MiwxNDE2Mjc3NDg2XX0=
+eyJoaXN0b3J5IjpbLTExOTA1NDg2MzksMTQxNjI3NzQ4Nl19
 -->
