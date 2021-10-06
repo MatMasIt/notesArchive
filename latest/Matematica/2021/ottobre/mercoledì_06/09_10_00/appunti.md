@@ -129,15 +129,15 @@ Limite: non viene valutato nell'insieme $\R$ ma nell'insieme $\R^*$
 ### p. 30 libro limiti es 50
 
 $$
-A=(-1;2]\cup[2,+\infin)
+A=(-1;0]\cup[2,+\infin)
 $$
 Analisi intervallo
 |Domanda|Risposta|
 |---|---|
-|Inferiormente minitato|Sì|
-|Estremo inferiore|-1|
--1 è il minim
+|Inferiormente limitato?|$Sì$|
+|Estremo inferiore?|$-1$|
+|$-1$ è il minimo?|$No$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk2MDE0MjMsNzgyNTc1ODIyLC0xMz
-gxNjg5MTIwLDIwODY0OTQ2NzksMTg0ODYyOTAxNl19
+eyJoaXN0b3J5IjpbMTIzODgxMTkyNCw3ODI1NzU4MjIsLTEzOD
+E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
 -->
