@@ -13,7 +13,7 @@ Conosce _Irma Brandells_ che è venuta a Firenze per studiare Dante
 
 Indicata con senhal (Clizia)
 
-Dante: 
+Dante: concretezza lessicale, plurilinguismo per rinnovare tradizione lirica petrarchesca ripetitiva, incentrata sull'io lirico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTkyMTgxN119
+eyJoaXN0b3J5IjpbNjYxMjEzNjAzXX0=
 -->
