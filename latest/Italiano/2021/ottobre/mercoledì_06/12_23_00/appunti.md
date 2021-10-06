@@ -143,6 +143,13 @@ Si iscrive a medicina, cambia in lettere e si laurea in lettere
 1945, lavora a Torino, spesso ad Ivrea con Adriano Olivelli
 
 fucina di menti, fornire assistenza sociale ai dipendenti e avere entourage di intellettuali come pubblicitari
+
+Ingegneri letterati
+
+Guidici pubblicitario per olivelli poi va a Milano
+
+annni '70, scrive  "La vita in versi"
+'72 "O Beatrice"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTYwOTgzMCwxNDE2Mjc3NDg2XX0=
+eyJoaXN0b3J5IjpbLTYzNjg4MjksMTQxNjI3NzQ4Nl19
 -->
