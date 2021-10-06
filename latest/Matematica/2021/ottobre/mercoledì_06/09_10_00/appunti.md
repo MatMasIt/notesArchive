@@ -213,7 +213,16 @@ $$
 
           -1    0    1 
 		---@----O----@-----
+		 - | +  |  + | -
+		 - | -  |  + | +
+		 __________________
+		 + |(-)|  +  |  (-)
+
+$$
+A=[-1,0) \cup [1,+\infin)
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDY2NzUyOCw3ODI1NzU4MjIsLTEzOD
-E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
+eyJoaXN0b3J5IjpbNDMxODYxOTU4LDc4MjU3NTgyMiwtMTM4MT
+Y4OTEyMCwyMDg2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
 -->
