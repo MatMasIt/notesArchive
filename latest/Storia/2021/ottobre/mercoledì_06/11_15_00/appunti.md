@@ -66,6 +66,13 @@ Giuseppe Mazzini (Genova, 1805 - Roma, 1872)
 
 Apparteneva a famiglia borghese medio-alta
 aveva aderito alla carboneria
+
+Sostiene 
+*Unità d' Italia
+* Orientamento repubblicano
+* Critica liberalismo
+* Nazionalismo
+* Tensione Relogioasa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTMzOTA1NSwxMzk0OTYwNjg4XX0=
+eyJoaXN0b3J5IjpbLTg4Mjg4MTcyNCwxMzk0OTYwNjg4XX0=
 -->
