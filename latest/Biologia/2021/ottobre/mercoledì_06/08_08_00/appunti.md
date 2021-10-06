@@ -27,8 +27,11 @@ meccaniso antigene-anticorpo
 
 antigeni: non-self
 
-antigeni self 
+antigeni self e antigeni non-self
+
+Può capitare che gli antigeni self vengano riconosciuti come non-self
+malattie autoimmuni
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3NTA1NDI0LC0xMzQ4MTUyMTddfQ==
+eyJoaXN0b3J5IjpbLTE1NzE1NzE1MDksLTEzNDgxNTIxN119
 -->
