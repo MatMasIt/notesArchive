@@ -52,8 +52,10 @@ I linfociti quando vengono in contatto con l'antigene, si dividono in cellule ef
 
 risposta immunitaria
 * umorale (linfociti B): produrre anticorpi
-* cllulare (Linfociti T)
+* cllulare (Linfociti T) direttamente contro il corpo estraneo
+
+p.4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDMxOTQxOSwtNDk3MzkyMTE1LDM1MT
+eyJoaXN0b3J5IjpbMTYzMjYzMTI0MSwtNDk3MzkyMTE1LDM1MT
 cxMjc5MiwtMTU1MjAwNzI4NSwtMTM0ODE1MjE3XX0=
 -->
