@@ -3,8 +3,12 @@
 
 Risorgimento: il processo che ha portato all'unità di italia (dopo l'era degli stati regionali)
 
+Restaruazione (impossibile)
+Borghesia chiede costituzioni e parlamenti
 Sentimento nazionale che si diffonde nella borgesia:
-ogiìni popolo dovrebbe autogovern
+ogni popolo dovrebbe autogovernarsi, sentmento
+Lotte per indipendenza
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzYyNzUyOF19
+eyJoaXN0b3J5IjpbLTE1MTY4NzIzOTRdfQ==
 -->
