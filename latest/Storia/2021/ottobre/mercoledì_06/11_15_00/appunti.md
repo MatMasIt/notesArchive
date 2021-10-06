@@ -76,7 +76,9 @@ Sostiene
 
 1) Mazzini sostiene unità complessiva della penisola come obiettivo
 
-1831 fonda la 
+1831 fonda la "Giovine Italia" che adotta come simbolo il tricolore ma a bande orizzontali
+Tricolore era compraso nella repibblica cispadana (1796)
+Propaganda apertamente per l'unificazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5MDM4NTA2LDEzOTQ5NjA2ODhdfQ==
+eyJoaXN0b3J5IjpbMTAwNDkxNTc4MCwxMzk0OTYwNjg4XX0=
 -->
