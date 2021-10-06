@@ -97,7 +97,12 @@ calvi picchi: rocce brulle
 Ultima strofa: riflessiva
 
 vita è una muraglia che ha in cima occi aguzzi di bottiglia
-mare 
+male di esistere
+consapevoleza dei limiti dati da ntaura, società, ruoli
+condizione limitata, spesso senza varchi e aperture
+
+
+il muro, il limite, il limes, la muraglia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzkzMTQyNV19
+eyJoaXN0b3J5IjpbMTQxNjI3NzQ4Nl19
 -->
