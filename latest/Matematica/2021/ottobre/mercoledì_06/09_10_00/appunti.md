@@ -57,8 +57,10 @@ $$
 \text{D}\left[(1+\ln|x|)^2\right]=2(1+\ln|x|)\cdot \frac{1}{|x|}\cdot \frac{x}{|x|}
 $$
 
-$
+$$
+\frac{x}{|x|}\begin{equation} \begin{cases} \frac{x}{x}=1 \space se \end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNTEyMDEyLC0xMzgxNjg5MTIwLDIwOD
+eyJoaXN0b3J5IjpbMjIwNTExNzc4LC0xMzgxNjg5MTIwLDIwOD
 Y0OTQ2NzksMTg0ODYyOTAxNl19
 -->
