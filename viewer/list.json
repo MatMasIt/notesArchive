@@ -539,6 +539,13 @@
                 }
             },
             "2021": {
+                "ottobre": {
+                    "mercoled\u00ec_06": {
+                        "11_15_00": [
+                            "appunti.md"
+                        ]
+                    }
+                },
                 "settembre": {
                     "mercoled\u00ec_15": {
                         "08_05_00": [
@@ -1920,6 +1927,13 @@
             "humanDay": "marted\u00ec 21 settembre 2021"
         },
         {
+            "path": "latest\/Storia\/2021\/ottobre\/mercoled\u00ec_06\/11_15_00\/appunti.md",
+            "size": 313,
+            "subject": "Storia",
+            "extract": "Sentimento nazionale che si diffonde nella borgesia  ogi\u00ecni popolo dovrebbe autogovern  ",
+            "humanDay": "mercoled\u00ec 06 ottobre 2021"
+        },
+        {
             "path": "latest\/Storia\/2021\/marzo\/venerd\u00ec_26\/10_00_25\/appunti.md",
             "size": 13940,
             "subject": "Storia",
@@ -2037,18 +2051,11 @@
             "subject": "Storia",
             "extract": "  filsospagnola    consiglieri italiani        danno abolizione vendita cariche pubbliche    Intendenti    borghesia  nobilt\u00e0 di toga    esito ugonotti  Olanda Inghilterra    smascherare falsi nobili    ridurre corruzione    intendenti e giustizia    flotta inglese non olandese    giansenismo opere ",
             "humanDay": "mercoled\u00ec 16 dicembre 2020"
-        },
-        {
-            "path": "latest\/Storia\/2020\/dicembre\/mercoled\u00ec_09\/13_17_28\/appunti.md",
-            "size": 2148,
-            "subject": "Storia",
-            "extract": "  Henry Ireton legato a Cromwell    Rainborough  sostiene suffragio universale    potere dal basso    alla fine vince Ireton suffragio censitario per avere diritto al voto  ricchezza  why      r 18 Rainborough    Ireton 27 e 49  giustificazione solo chi ha interesse permanente fisso nel paese ha dir",
-            "humanDay": "mercoled\u00ec 09 dicembre 2020"
         }
     ],
     "lastUpdate": {
-        "unix": 1633509791,
-        "human": "06\/10\/2021 08:43:11",
+        "unix": 1633511982,
+        "human": "06\/10\/2021 09:19:42",
         "timezone": "UTC"
     }
 }
