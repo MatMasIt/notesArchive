@@ -5,6 +5,8 @@ Raffreddore
 Risposta immunitaria (secrezioni nasale) infiammazione
 
 Antistaminico (ex. _Actigrip_)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjEyNTEzNzIsLTEzNDgxNTIxN119
+eyJoaXN0b3J5IjpbMTUyNTQ5OTU2OCwtMTM0ODE1MjE3XX0=
 -->
