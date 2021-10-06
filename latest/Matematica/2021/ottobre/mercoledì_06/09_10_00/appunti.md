@@ -66,10 +66,17 @@ $$
 $$
 
 $$
-D=1+\ln
+D=1+\ln^2|x|+2\ln|x|+\cancel x\cdot \frac{2}{\cancel{x}}(1+\ln|x|)
 $$
 
+$$
+=1+\ln^2|x|+2\ln|x|+2+2\ln|x|
+$$
+
+$$
+=\ln^2|x|+4\ln |x|+3
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzU4MjA2MiwtMTM4MTY4OTEyMCwyMD
-g2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
+eyJoaXN0b3J5IjpbOTA5Njg2ODUzLC0xMzgxNjg5MTIwLDIwOD
+Y0OTQ2NzksMTg0ODYyOTAxNl19
 -->
