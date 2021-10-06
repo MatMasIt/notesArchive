@@ -71,10 +71,13 @@ Azione:
 * agglutinazione: legano più corpi estranei insieme, per permettere ai fagociti di fagoticare il complesso
 
 Esame sierologico
-|Classi antic
-$igG$: per capire se si ha avuto una infezione in passato
-$igM$: per capire se la malattia è in corso
+|Classi anticorpi|Diagnosi|
+|---|---|
+|$igG$|per capire se si ha avuto una infezione in passato|
+|$igM$| per capire se la malattia è in corso|
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODE1NTYwNSwtNDk3MzkyMTE1LDM1MT
+eyJoaXN0b3J5IjpbMjAzNjM4MzgzNywtNDk3MzkyMTE1LDM1MT
 cxMjc5MiwtMTU1MjAwNzI4NSwtMTM0ODE1MjE3XX0=
 -->
