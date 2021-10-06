@@ -23,7 +23,9 @@ Fallimento $'48$
 
 Eccezione in Italia, regno di Sardegna  ha una costituzione
 
-Marzo $1848$, Statuto Albertino, concesso da Carlo
+Marzo $1848$, Statuto Albertino, concesso da Carlo Alberto
+
+Costituzione moderata, voleva evitare conseguenze più gravi, come la proclamazione di una repubblica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExOTY3MTY5XX0=
+eyJoaXN0b3J5IjpbMTM5NDk2MDY4OF19
 -->
