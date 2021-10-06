@@ -87,7 +87,11 @@ Limitato inferiormente
  
 Limitato superiormente
 > se si trovano maggioranti di un insieme è superiormente limitato
+
+Limitato
+> se l'insieme è limitato inferiormente e superiormente è limitato
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDU3ODYyMSw3ODI1NzU4MjIsLTEzOD
+eyJoaXN0b3J5IjpbMTg2ODE0MjM2NSw3ODI1NzU4MjIsLTEzOD
 E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
 -->
