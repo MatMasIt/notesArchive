@@ -1,4 +1,4 @@
-#  Lezione di Scienze (4° ora)
+#  Lezione di Biologia (4° ora)
 ## Venerdì 1 ottobre 2021, 11:20:00
 
 Pressione selettiva evoluzione per non rimuovere gene di hungtington 
@@ -67,5 +67,5 @@ Circolazioni:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxMTM0NzkzXX0=
+eyJoaXN0b3J5IjpbLTE2NzA4MjcyOF19
 -->
