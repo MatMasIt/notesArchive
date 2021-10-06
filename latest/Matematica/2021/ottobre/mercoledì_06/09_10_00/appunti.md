@@ -9,9 +9,14 @@ $$
 Metodo 1
 
 $$
-y=\ln\left|\sin x\right| = \begin{equation*} \begin{cases} Here \end{cases} \end{equation}
+y=\ln\left|\sin x\right| = \begin{equation*} \begin{cases} \ln(\sin x) \space se\space \sin x \geq 0\\\ln(-\sin x) \space se\space \sin x \leq 0 \end{cases} \end{equation*}
+$$
+
+
+$$
+
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzgyMDY1OSwxODQ4NjI5MDE2XX0=
+eyJoaXN0b3J5IjpbMTMzMDEyNDU2MSwxODQ4NjI5MDE2XX0=
 -->
