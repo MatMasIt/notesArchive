@@ -32,6 +32,8 @@ antigeni self e antigeni non-self
 Può capitare che gli antigeni self vengano riconosciuti come non-self
 malattie autoimmuni
 
+coronavirus riconosce antigene delle nostre cellule e entra all'interno
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE1NzE1MDksLTEzNDgxNTIxN119
+eyJoaXN0b3J5IjpbLTIwODUwODIyNzcsLTEzNDgxNTIxN119
 -->
