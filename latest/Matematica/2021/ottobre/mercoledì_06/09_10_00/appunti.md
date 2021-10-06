@@ -82,8 +82,12 @@ $$
 
 Intervalli
 
-
+Limitato inferiormente
+> Se si  trovano minoranti di un insieme è inferiormente limitato
+ 
+Limitato superiormente
+> se si trovano maggioranti di un insieme è superiormente limitato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyNTc1ODIyLC0xMzgxNjg5MTIwLDIwOD
-Y0OTQ2NzksMTg0ODYyOTAxNl19
+eyJoaXN0b3J5IjpbMTgwNDU3ODYyMSw3ODI1NzU4MjIsLTEzOD
+E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
 -->
