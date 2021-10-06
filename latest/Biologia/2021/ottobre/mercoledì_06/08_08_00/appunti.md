@@ -64,12 +64,12 @@ p.490
 4. Cellule della memoria
 
 ---
-Aticorpi: imunoglobuile
+Aticorpi: imunoglobuilne
 
 Azione:
 * neutralizzazione: si legano a corpo e impediscono a loro di agire
-* agglutinazione: legano più corpi estranei insieme, per permettere ai fagociti di fs
+* agglutinazione: legano più corpi estranei insieme, per permettere ai fagociti di fagoticare il complesso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc4NDI3NDQsLTQ5NzM5MjExNSwzNT
-E3MTI3OTIsLTE1NTIwMDcyODUsLTEzNDgxNTIxN119
+eyJoaXN0b3J5IjpbODcxNzQzNTE4LC00OTczOTIxMTUsMzUxNz
+EyNzkyLC0xNTUyMDA3Mjg1LC0xMzQ4MTUyMTddfQ==
 -->
