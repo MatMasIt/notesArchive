@@ -60,6 +60,20 @@ muro a secco ligure, paesaggio Ligure, tra Genova e
 pruni (rovi)
 
 inferno XIII (selva sei suicidi)
+
+
+intrecciano
+
+veccia/intreccia
+
+rima con la sdrucciola, imperetra
+
+
+scaglie di mare
+
+tremoli scricchi
+
+calvi picchi: rocce brulle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NzM1NTgwXX0=
+eyJoaXN0b3J5IjpbMTg4NTA1MjU2Nl19
 -->
