@@ -26,6 +26,8 @@ anni 30
 
 
 Ossi di Seppia, anni 20
+
+Oggetti evocativi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTI2NDgwMl19
+eyJoaXN0b3J5IjpbLTQ5NTczNTA3M119
 -->
