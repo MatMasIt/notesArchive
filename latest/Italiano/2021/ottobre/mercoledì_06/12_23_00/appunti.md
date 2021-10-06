@@ -14,6 +14,18 @@ Conosce _Irma Brandells_ che è venuta a Firenze per studiare Dante
 Indicata con senhal (Clizia)
 
 Dante: concretezza lessicale, plurilinguismo per rinnovare tradizione lirica petrarchesca ripetitiva, incentrata sull'io lirico
+
+Rendere l'astratto attraverso la concretezza
+
+
+Thomas Stern Elliot
+
+Correlativo oggettivo
+
+anni 30
+
+
+Ossi di Seppia, anni 20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxMjEzNjAzXX0=
+eyJoaXN0b3J5IjpbMTI4NTI2NDgwMl19
 -->
