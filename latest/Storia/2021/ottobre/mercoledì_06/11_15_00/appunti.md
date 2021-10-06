@@ -96,6 +96,8 @@ Propaganda apertamente per l'unificazione
 Senza questo compito di Dio mancherebbe il movente per le rivoluzioni
 
 Rivoluzionario: strumento disegno divino
+
+Esiliato prima in Francia e poi in Inghilterra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTcyMjAwOSwxMzk0OTYwNjg4XX0=
+eyJoaXN0b3J5IjpbLTIyMDcyMDE5MiwxMzk0OTYwNjg4XX0=
 -->
