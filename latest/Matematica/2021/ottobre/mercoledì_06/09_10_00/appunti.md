@@ -44,8 +44,15 @@ y^{'}=\frac{1}{\left|\sin x \right|}\cdot \frac{\sin x }{\left| \sin x \right|}\
 $$
 
 
+### 271
 
+$$
+f(c)=x\left(1+\ln \left|x\right|\right)^2
+$$
+$$
+f^{'}(x)=(1+\ln |x|)^2+x\text{D}\left[(1+\ln|x|)^2\right]
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDcyOTc1MTksLTEzODE2ODkxMjAsMj
-A4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
+eyJoaXN0b3J5IjpbMTUzNzczMTQxOCwtMTM4MTY4OTEyMCwyMD
+g2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
 -->
