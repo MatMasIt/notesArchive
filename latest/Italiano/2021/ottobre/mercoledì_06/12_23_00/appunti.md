@@ -74,6 +74,30 @@ scaglie di mare
 tremoli scricchi
 
 calvi picchi: rocce brulle
+
+* presso 
+* rosse
+* osservare
+
+
+(rime aspre e chiocce)
+
+
+* orto 
+* tremoli
+* sentire
+
+
+* travaglio
+* frusci
+* frondi
+* sentire
+
+
+Ultima strofa: riflessiva
+
+vita è una muraglia che ha in cima occi aguzzi di bottiglia
+mare 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTA1MjU2Nl19
+eyJoaXN0b3J5IjpbMTQ4MzkzMTQyNV19
 -->
