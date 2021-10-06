@@ -61,8 +61,11 @@ p.490
 	* plasmacellule 
 	* cellule della memoria
 3. Plasmacellule producono un grande numero di anticorpi
-4. Cellule
+4. Cellule della memoria
+
+---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzQwMzI3MSwtNDk3MzkyMTE1LDM1MT
+eyJoaXN0b3J5IjpbLTEzMzE1NDE5MiwtNDk3MzkyMTE1LDM1MT
 cxMjc5MiwtMTU1MjAwNzI4NSwtMTM0ODE1MjE3XX0=
 -->
