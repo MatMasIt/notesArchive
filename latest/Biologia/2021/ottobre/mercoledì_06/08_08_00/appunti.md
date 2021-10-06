@@ -47,7 +47,13 @@ Non abbiamo tutti gli stessi recettori antigenici dipende dal DNA
 
 
 I linfociti quando vengono in contatto con l'antigene, si dividono in cellule effettrici (plasmacellule, attaco diretto, risposta immunitaria primaria), cellule della memoria si dividono lentamente e permangono
+
+
+
+risposta immunitaria
+* umorale (linfociti B): produrre anticorpi
+* cllulare (Linfociti T)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzM5MjExNSwzNTE3MTI3OTIsLTE1NT
-IwMDcyODUsLTEzNDgxNTIxN119
+eyJoaXN0b3J5IjpbLTgyMDMxOTQxOSwtNDk3MzkyMTE1LDM1MT
+cxMjc5MiwtMTU1MjAwNzI4NSwtMTM0ODE1MjE3XX0=
 -->
