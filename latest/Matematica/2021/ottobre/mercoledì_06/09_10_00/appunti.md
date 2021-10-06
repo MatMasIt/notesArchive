@@ -52,7 +52,13 @@ $$
 $$
 f^{'}(x)=(1+\ln |x|)^2+x\text{D}\left[(1+\ln|x|)^2\right]
 $$
+
+$$
+\text{D}\left[(1+\ln|x|)^2\right]=2(1+\ln|x|)\cdot \frac{1}{|x|}\cdot \frac{x}{|x|}
+$$
+
+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzczMTQxOCwtMTM4MTY4OTEyMCwyMD
-g2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
+eyJoaXN0b3J5IjpbMzExNTEyMDEyLC0xMzgxNjg5MTIwLDIwOD
+Y0OTQ2NzksMTg0ODYyOTAxNl19
 -->
