@@ -9,6 +9,21 @@ Sentimento nazionale che si diffonde nella borgesia:
 ogni popolo dovrebbe autogovernarsi, sentmento
 Lotte per indipendenza
 
+Solo in Inghilterra costituzioni e parlamento
+
+Borghesia:
+* moti
+* insurrezioni
+* società segrete
+
+Vuole cambiare assetto società
+
+Fallimento $'48$
+
+
+Eccezione in Italia, regno di Sardegna  ha una costituzione
+
+Marzo $1848$, Statuto Albertino, concesso da Carlo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY4NzIzOTRdfQ==
+eyJoaXN0b3J5IjpbNDExOTY3MTY5XX0=
 -->
