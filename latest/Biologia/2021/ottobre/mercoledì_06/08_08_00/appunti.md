@@ -12,7 +12,19 @@ antistaminici fanno venire sonno
 
 ---
 p.487
-## Immunità ada
+## Immunità adattiva
+
+Linfociti $B$ e $T$
+
+* riconoscere
+* difendere
+* memorizzare
+
+
+antigene: scatena risposta immunitaria
+
+meccaniso
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0ODI2MjI1LC0xMzQ4MTUyMTddfQ==
+eyJoaXN0b3J5IjpbMjg5MDE0NDE1LC0xMzQ4MTUyMTddfQ==
 -->
