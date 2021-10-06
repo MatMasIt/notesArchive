@@ -42,7 +42,10 @@ Linfociti T e B hanno recettori specifici
 
 noi abbiamo quasi $10'000'000$ di risposte specifiche
 
+
+Non abbiamo tutti gli stessi recettori antigenici dipende dal DNA
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2MDEzMzY0LC0xNTUyMDA3Mjg1LC0xMz
+eyJoaXN0b3J5IjpbMzUxNzEyNzkyLC0xNTUyMDA3Mjg1LC0xMz
 Q4MTUyMTddfQ==
 -->
