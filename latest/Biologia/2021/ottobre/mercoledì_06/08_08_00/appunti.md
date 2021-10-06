@@ -6,7 +6,9 @@ Risposta immunitaria (secrezioni nasale) infiammazione
 
 Antistaminico (ex. _Actigrip_)
 
+Mal d'auto: antistaminico
 
+antistaminici fanno venire sonno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTQ5OTU2OCwtMTM0ODE1MjE3XX0=
+eyJoaXN0b3J5IjpbMzk5MTgxNTk4LC0xMzQ4MTUyMTddfQ==
 -->
