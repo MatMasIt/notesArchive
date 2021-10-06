@@ -134,10 +134,17 @@ $$
 Analisi intervallo
 |Domanda|Risposta|
 |---|---|
-|Inferiormente limitato?|$Sì$|
+|Inferiormente limitato?|Sì|
 |Estremo inferiore?|$-1$|
-|$-1$ è il minimo?|$No$|
+|$-1$ è il minimo?|No|
+
+
+$inf(A)=-1$
+
+$-1$ è ==il più grande== di tutti i minoranti
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODgxMTkyNCw3ODI1NzU4MjIsLTEzOD
-E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
+eyJoaXN0b3J5IjpbNjM1MTg4MzM3LDc4MjU3NTgyMiwtMTM4MT
+Y4OTEyMCwyMDg2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
 -->
