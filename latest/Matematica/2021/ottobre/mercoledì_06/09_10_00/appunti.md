@@ -11,7 +11,7 @@ $$
 y=\ln\left|\sin x\right| = \begin{equation*} \begin{cases} \ln(\sin x) \space se\space \sin x \geq 0\\\ln(-\sin x) \space se\space \sin x \leq 0 \end{cases} \end{equation*}
 $$
 
-
+![](https://i.imgur.com/ljzE2R8.jpg)
 $$
 C.E. \forall x\neq k\pi\\
 k \in \Z
@@ -28,5 +28,5 @@ $$
 C.E.\space |X| \implies \R=(-\infin;+\infin)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDI2ODg4NDUsMTg0ODYyOTAxNl19
+eyJoaXN0b3J5IjpbMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
 -->
