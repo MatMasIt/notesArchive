@@ -1,8 +1,10 @@
 #  Lezione di Biologia (1° ora)
-## Venerdì 1 ottobre 2021, 11:20:00
+## Mercoledì 6 ottobre 2021, 08:12:00
 
 Raffreddore
 Risposta immunitaria (secrezioni nasale) infiammazione
+
+Antistaminico (ex. _Actigrip_)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDgxNTIxN119
+eyJoaXN0b3J5IjpbLTE5MjEyNTEzNzIsLTEzNDgxNTIxN119
 -->
