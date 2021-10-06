@@ -187,8 +187,15 @@ $$
 A=\left\{x \in \R:e^{\frac1{x}}\leq e^x \right\}
 $$
 
+$$
+e^{\frac{1}{x}}\leq e^x
+$$
 
+
+$$
+\frac{1}{x}\leq
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODQ2NzUzNSw3ODI1NzU4MjIsLTEzOD
+eyJoaXN0b3J5IjpbMTgyMjYxNDk5OSw3ODI1NzU4MjIsLTEzOD
 E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
 -->
