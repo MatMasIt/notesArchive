@@ -193,9 +193,19 @@ $$
 
 
 $$
-\frac{1}{x}\leq
+\frac{1}{x}\leq x
+$$
+
+$$
+\frac{1}{x}-x \leq 0
+$$
+
+
+
+$$
+\frac{1-x^2}{x}\leq 0
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjYxNDk5OSw3ODI1NzU4MjIsLTEzOD
-E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
+eyJoaXN0b3J5IjpbMTg1OTI1MzQxLDc4MjU3NTgyMiwtMTM4MT
+Y4OTEyMCwyMDg2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
 -->
