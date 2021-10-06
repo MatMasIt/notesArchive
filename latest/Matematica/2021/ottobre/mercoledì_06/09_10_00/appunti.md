@@ -205,7 +205,15 @@ $$
 $$
 \frac{1-x^2}{x}\leq 0
 $$
+
+$$
+N. 1-x^2 \geq 0\space\space\space\space\space x^2-1 \leq p
+D x > 0
+$$
+
+          -1    0    1 
+		---@----O----@-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTI1MzQxLDc4MjU3NTgyMiwtMTM4MT
-Y4OTEyMCwyMDg2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
+eyJoaXN0b3J5IjpbLTk0MDY2NzUyOCw3ODI1NzU4MjIsLTEzOD
+E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
 -->
