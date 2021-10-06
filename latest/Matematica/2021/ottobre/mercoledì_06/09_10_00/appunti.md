@@ -27,6 +27,14 @@ $$
 $$
 C.E.\space |X| \implies \R=(-\infin;+\infin)
 $$
+
+
+$\dot y$ non eiste in $(0,0)$
+
+![](https://i.imgur.com/72iCDVV.jpg)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
+eyJoaXN0b3J5IjpbLTEzODE2ODkxMjAsMjA4NjQ5NDY3OSwxOD
+Q4NjI5MDE2XX0=
 -->
