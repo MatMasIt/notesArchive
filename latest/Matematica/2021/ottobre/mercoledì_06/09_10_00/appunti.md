@@ -158,12 +158,14 @@ $$
 A=(-\infin,-1)\cup (4,8]\cup \{10\}
 $$
 
-		             -1      
-		A: - - - -----O------O----@----@---- - - -
+		             -1      4    8    10
+		A: - - - -----O------O----@     @
 
 
-L'insieme è inferiormente limitato? 
+L'insieme è inferiormente limitato? **No**
+L'insieme è superiorente limitato? **Sì**
+Esiste un estremo inferioredi un insieme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjY4ODAxMyw3ODI1NzU4MjIsLTEzOD
+eyJoaXN0b3J5IjpbLTEzNzU1MzgwMyw3ODI1NzU4MjIsLTEzOD
 E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
 -->
