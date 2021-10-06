@@ -23,8 +23,12 @@ Linfociti $B$ e $T$
 
 antigene: scatena risposta immunitaria
 
-meccaniso
+meccaniso antigene-anticorpo
+
+antigeni: non-self
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5MDE0NDE1LC0xMzQ4MTUyMTddfQ==
+eyJoaXN0b3J5IjpbMzQ4Njk1NDU1LC0xMzQ4MTUyMTddfQ==
 -->
