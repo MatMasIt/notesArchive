@@ -131,6 +131,15 @@ Giudici, giornalista, che conosce Montale
 poesia molto autobiografica
 
 poesia prosaica
+
+nasce negli anni '20, orfano di Madre
+
+Padre si risposa
+
+Si reca presso istituto religioso per studiare
+
+Si iscrive a medicina, cambia in lettere e si laurea in lettere
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTk0NTE1OSwxNDE2Mjc3NDg2XX0=
+eyJoaXN0b3J5IjpbLTE5MjY0NDc4MzQsMTQxNjI3NzQ4Nl19
 -->
