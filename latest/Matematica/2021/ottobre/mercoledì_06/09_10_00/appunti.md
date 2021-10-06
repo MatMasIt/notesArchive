@@ -147,12 +147,19 @@ $-1$ è ==il più grande== di tutti i minoranti
 |---|---|
 |Superiormente limitato?|No|
 |Estremo superiore?|$+\infin$|
-|$+\infin$ è il massimo?|No|
+|$+\infin$ è il massimo?|No ($+\infin \notin \R$)|
 
 $sup(A)=+\infin$
 
+## 53
+
+
+$$
+A=(-\infin
+$$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE0MjU3MTcsNzgyNTc1ODIyLC0xMz
+eyJoaXN0b3J5IjpbLTE1MjQ5NDg1NzQsNzgyNTc1ODIyLC0xMz
 gxNjg5MTIwLDIwODY0OTQ2NzksMTg0ODYyOTAxNl19
 -->
