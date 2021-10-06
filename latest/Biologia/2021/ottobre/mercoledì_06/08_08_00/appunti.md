@@ -9,6 +9,10 @@ Antistaminico (ex. _Actigrip_)
 Mal d'auto: antistaminico
 
 antistaminici fanno venire sonno
+
+---
+p.487
+## Immunità ada
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5MTgxNTk4LC0xMzQ4MTUyMTddfQ==
+eyJoaXN0b3J5IjpbMjU0ODI2MjI1LC0xMzQ4MTUyMTddfQ==
 -->
