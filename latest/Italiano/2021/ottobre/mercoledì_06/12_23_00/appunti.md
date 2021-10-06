@@ -103,6 +103,17 @@ condizione limitata, spesso senza varchi e aperture
 
 
 il muro, il limite, il limes, la muraglia
+
+
+Mario Luzi, ermetico, si avvicina a Dante
+
+Giorgio Caproni, livornese trapiantato a Genova
+
+
+Edoardo Sanguineti, altro genovese che ha studiato a torino
+
+Giovanni Giudici, nato a La Spezia
+p. 568 divina commedia, purgatorio XXX
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjI3NzQ4Nl19
+eyJoaXN0b3J5IjpbLTI0NjYxMzM5MiwxNDE2Mjc3NDg2XX0=
 -->
