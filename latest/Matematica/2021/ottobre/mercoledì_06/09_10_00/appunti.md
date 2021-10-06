@@ -112,11 +112,16 @@ B=\{x \in R || x >  2 \}\\
 $$
 
 $$
-inf(V)=2\\
-aup(B)=+2
+inf(B)=2\\
+aup(B)=+\infin
+$$
+
+Ricorda:
+$$
+\Huge \R^{*}=\R\cup\left\{\pm \infin \right\}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg1NDU4MzYsNzgyNTc1ODIyLC0xMz
-gxNjg5MTIwLDIwODY0OTQ2NzksMTg0ODYyOTAxNl19
+eyJoaXN0b3J5IjpbMTgxOTY4MzUxNCw3ODI1NzU4MjIsLTEzOD
+E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
 -->
