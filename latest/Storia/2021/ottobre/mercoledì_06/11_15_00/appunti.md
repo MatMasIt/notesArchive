@@ -36,6 +36,10 @@ aboliva la censura dei libri
 Regno che tende ad ammodernarsi, trasferimento di nuovi borghesi
 
 Aspetto economico
+
+Cavour, aspetto economico
+
+Idee liberali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5NzMwNDU3LDEzOTQ5NjA2ODhdfQ==
+eyJoaXN0b3J5IjpbLTE2NDc1Njk2NjIsMTM5NDk2MDY4OF19
 -->
