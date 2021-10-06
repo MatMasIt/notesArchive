@@ -155,11 +155,15 @@ $sup(A)=+\infin$
 
 
 $$
-A=(-\infin
+A=(-\infin,-1)\cup (4,8]\cup \{10\}
 $$
 
+		             -1      
+		A: - - - -----O------O----@----@---- - - -
 
+
+L'insieme è inferiormente limitato? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ5NDg1NzQsNzgyNTc1ODIyLC0xMz
-gxNjg5MTIwLDIwODY0OTQ2NzksMTg0ODYyOTAxNl19
+eyJoaXN0b3J5IjpbLTYxNjY4ODAxMyw3ODI1NzU4MjIsLTEzOD
+E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
 -->
