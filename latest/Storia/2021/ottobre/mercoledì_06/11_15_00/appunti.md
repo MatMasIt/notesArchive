@@ -86,6 +86,8 @@ Propaganda apertamente per l'unificazione
 3) 
 * suffragio universale
 * lotta per il miglioreamento delle condizione di vita di _tutto_ il popolo, non crede nella lotta di classe
+
+4) La collet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDkzNjU5MiwxMzk0OTYwNjg4XX0=
+eyJoaXN0b3J5IjpbLTQ2MTg2NzM1LDEzOTQ5NjA2ODhdfQ==
 -->
