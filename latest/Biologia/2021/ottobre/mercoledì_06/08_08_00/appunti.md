@@ -65,11 +65,16 @@ p.490
 
 ---
 Aticorpi: imunoglobuilne
-
+Quattro catene polipeptidiche a forma di $Y$
 Azione:
 * neutralizzazione: si legano a corpo e impediscono a loro di agire
 * agglutinazione: legano più corpi estranei insieme, per permettere ai fagociti di fagoticare il complesso
+
+Esame sierologico
+|Classi antic
+$igG$: per capire se si ha avuto una infezione in passato
+$igM$: per capire se la malattia è in corso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxNzQzNTE4LC00OTczOTIxMTUsMzUxNz
-EyNzkyLC0xNTUyMDA3Mjg1LC0xMzQ4MTUyMTddfQ==
+eyJoaXN0b3J5IjpbMjA4ODE1NTYwNSwtNDk3MzkyMTE1LDM1MT
+cxMjc5MiwtMTU1MjAwNzI4NSwtMTM0ODE1MjE3XX0=
 -->
