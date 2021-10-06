@@ -150,6 +150,8 @@ Guidici pubblicitario per olivelli poi va a Milano
 
 annni '70, scrive  "La vita in versi"
 '72 "O Beatrice"
+
+2000, Meridiano Mondadori (Opera Onmia) I versi della vita
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjg4MjksMTQxNjI3NzQ4Nl19
+eyJoaXN0b3J5IjpbMTM2Nzg3Nzk4NCwxNDE2Mjc3NDg2XX0=
 -->
