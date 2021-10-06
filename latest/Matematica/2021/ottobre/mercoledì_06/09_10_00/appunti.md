@@ -126,8 +126,18 @@ $$
 Limite: non viene valutato nell'insieme $\R$ ma nell'insieme $\R^*$
 
 ---
-p. 30 libro limiti
+### p. 30 libro limiti es 50
+
+$$
+A=(-1;2]\cup[2,+\infin)
+$$
+Analisi intervallo
+|Domanda|Risposta|
+|---|---|
+|Inferiormente minitato|Sì|
+|Estremo inferiore|-1|
+-1 è il minim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzNjQyNTUwLDc4MjU3NTgyMiwtMTM4MT
-Y4OTEyMCwyMDg2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyMTk2MDE0MjMsNzgyNTc1ODIyLC0xMz
+gxNjg5MTIwLDIwODY0OTQ2NzksMTg0ODYyOTAxNl19
 -->
