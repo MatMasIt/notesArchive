@@ -73,7 +73,7 @@ Sostiene
 3. Orientamento democratico
 4. Critica liberalismo
 5. Nazionalismo
-6.  Tensione Relogiosa
+6. Attenzione Relogiosa
 
 1) Mazzini sostiene unità complessiva della penisola come obiettivo
 
@@ -89,7 +89,13 @@ Propaganda apertamente per l'unificazione
 
 4) La collettività occupa i posto principale, verso cui l'individuo ha dei doveri
 
-5
+5) tutti i popoli hanno pari dignità e diritto di autogovernarsi
+
+6) Secondo Mazzini Dio ha dato al'uomo il compito di lottare per pace e giustizia
+
+Senza questo compito di Dio mancherebbe il movente per le rivoluzioni
+
+Rivoluzionario: strumento disegno divino
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ5NzkxNDAsMTM5NDk2MDY4OF19
+eyJoaXN0b3J5IjpbMTA2OTcyMjAwOSwxMzk0OTYwNjg4XX0=
 -->
