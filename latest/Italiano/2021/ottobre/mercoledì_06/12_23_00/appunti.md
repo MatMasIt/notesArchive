@@ -140,6 +140,9 @@ Si reca presso istituto religioso per studiare
 
 Si iscrive a medicina, cambia in lettere e si laurea in lettere
 
+1945, lavora a Torino, spesso ad Ivrea con Adriano Olivelli
+
+fucina di menti, fornire assistenza sociale ai dipendenti e avere entourage di intellettuali come pubblicitari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY0NDc4MzQsMTQxNjI3NzQ4Nl19
+eyJoaXN0b3J5IjpbMjExNTYwOTgzMCwxNDE2Mjc3NDg2XX0=
 -->
