@@ -11,7 +11,9 @@
         MathJax.Hub.Config({
           showProcessingMessages: false,
           tex2jax: { inlineMath: [['$','$'],['\\(','\\)']] },
-          TeX: { equationNumbers: {autoNumber: "AMS"} }
+          TeX: { equationNumbers: {autoNumber: "AMS"} },
+	  loader: {load: ['[tex]/ams']},
+  tex:    {packages: {'[+]': ['ams']}}
         });
       </script>
     <script type="text/javascript"
