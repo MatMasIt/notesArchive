@@ -30,6 +30,29 @@ Ossi di Seppia, anni 20
 Oggetti evocativi
 
 ---
+> Meriggiare pallido e assorto  
+presso un rovente muro d’orto,  
+ascoltare tra i pruni e gli sterpi  
+schiocchi di merli, frusci di serpi.  
+  
+  > Nelle crepe del suolo o su la veccia  
+spiar le file di rosse formiche  
+ch’ora si rompono ed ora s’intrecciano  
+a sommo di minuscole biche.  
+  
+> Osservare tra frondi il palpitare  
+lontano di scaglie di mare  
+m entre si levano tremuli scricchi  
+di cicale dai calvi picchi.  
+  
+> E andando nel sole che abbaglia  
+sentire con triste meraviglia  
+com’è tutta la vita e il suo travaglio  
+in questo seguitare una muraglia  
+che ha in cima cocci aguzzi di bottiglia.
+
+> > Da E.Montale, _Ossi di seppia. Tutte le poesie_, a cura di G. Zampa, Milano, Mondadori, 1990
+
 Meriggiare, da _Meriggio_ poema di D'annunzio
 
 muro a secco ligure, paesaggio Ligure, tra Genova e 
@@ -38,5 +61,5 @@ pruni (rovi)
 
 inferno XIII (selva sei suicidi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA2MDAzNzFdfQ==
+eyJoaXN0b3J5IjpbMjU3NzM1NTgwXX0=
 -->
