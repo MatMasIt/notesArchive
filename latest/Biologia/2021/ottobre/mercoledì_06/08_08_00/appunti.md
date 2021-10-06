@@ -45,7 +45,9 @@ noi abbiamo quasi $10'000'000$ di risposte specifiche
 
 Non abbiamo tutti gli stessi recettori antigenici dipende dal DNA
 
+
+I linfociti quando vengono in contatto con l'antigene, si dividono in cellule effettrici (plasmacellule, attaco diretto, risposta immunitaria primaria), cellule della memoria si dividono l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxNzEyNzkyLC0xNTUyMDA3Mjg1LC0xMz
-Q4MTUyMTddfQ==
+eyJoaXN0b3J5IjpbLTE2MzA5NjI2MjcsMzUxNzEyNzkyLC0xNT
+UyMDA3Mjg1LC0xMzQ4MTUyMTddfQ==
 -->
