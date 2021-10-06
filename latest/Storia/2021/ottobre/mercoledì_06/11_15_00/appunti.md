@@ -40,6 +40,12 @@ Aspetto economico
 Cavour, aspetto economico
 
 Idee liberali
+
+pensa che il suffragio vada assegnato con moderazione
+
+Infrastrutture, ferrovie
+
+Agricoltura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDc1Njk2NjIsMTM5NDk2MDY4OF19
+eyJoaXN0b3J5IjpbNDIxNzg2MjQ1LDEzOTQ5NjA2ODhdfQ==
 -->
