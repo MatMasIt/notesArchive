@@ -81,7 +81,7 @@ $$
 ---
 
 ## Intervalli
-
+![](https://i.imgur.com/VBPJOYm.jpg)
 Limitato inferiormente
 > Se si  trovano minoranti di un insieme è inferiormente limitato
  
@@ -94,7 +94,17 @@ Limitato
 
 
 Estremo inferiore: maggiore dei minoranti
+
+		-2                            5
+	A:	@-----------------------------O
+$$
+A: [-2,5]\\
+inf(A)=-2\\
+sup(A)=5
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2NTkyMzk3LDc4MjU3NTgyMiwtMTM4MT
+eyJoaXN0b3J5IjpbOTIwMzM1NDI4LDc4MjU3NTgyMiwtMTM4MT
 Y4OTEyMCwyMDg2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
 -->
