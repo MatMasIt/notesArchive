@@ -80,7 +80,7 @@ $$
 
 ---
 
-Intervalli
+## Intervalli
 
 Limitato inferiormente
 > Se si  trovano minoranti di un insieme è inferiormente limitato
@@ -91,7 +91,10 @@ Limitato superiormente
 Limitato
 > se l'insieme è limitato inferiormente e superiormente è limitato
 
+
+
+Estremo inferiore: maggiore dei minoranti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODE0MjM2NSw3ODI1NzU4MjIsLTEzOD
-E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
+eyJoaXN0b3J5IjpbNzQ2NTkyMzk3LDc4MjU3NTgyMiwtMTM4MT
+Y4OTEyMCwyMDg2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
 -->
