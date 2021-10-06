@@ -18,10 +18,11 @@
 	<script>
 	window.MathJax = {
        tex: {
-         inlineMath: [['$', '$'], ['\\(', '\\)']]
+	  loader: {load: ['[tex]/ams']},
+         inlineMath: [['$', '$'], ['\\(', '\\)']],
+	 packages: {'[+]': ['ams']}
        },
-		loader: {load: ['[tex]/ams']},
-  tex: {packages: {'[+]': ['ams']}}
+		
     };
 </script>
     <style>
