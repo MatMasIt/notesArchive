@@ -178,9 +178,15 @@ $sup(A)=10$
 
 è un massimo? **Sì**
 
-Esiste sempre un estremo inferiore e superio
+Esiste sempre un estremo inferiore e superiore, siano valori o $\pm \infin$
 ---
+
+### 60
+
+$$
+A=\left\{x \in \R:e^{\frac1{x}}\leq e^x \right\}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTEwMjgxNiw3ODI1NzU4MjIsLTEzOD
-E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
+eyJoaXN0b3J5IjpbMjY1OTk2NzgsNzgyNTc1ODIyLC0xMzgxNj
+g5MTIwLDIwODY0OTQ2NzksMTg0ODYyOTAxNl19
 -->
