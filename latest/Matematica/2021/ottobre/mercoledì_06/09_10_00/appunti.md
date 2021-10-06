@@ -80,8 +80,10 @@ $$
 
 ---
 
+Intervalli
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTgyNDk0MCwtMTM4MTY4OTEyMCwyMD
-g2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
+eyJoaXN0b3J5IjpbNzgyNTc1ODIyLC0xMzgxNjg5MTIwLDIwOD
+Y0OTQ2NzksMTg0ODYyOTAxNl19
 -->
