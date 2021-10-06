@@ -50,6 +50,10 @@ Agricoltura
 Rimozione dei dazi reciproca
 
 anni '50-'70  liberismo diffuso in Europa
+
+poi variazioni che portano al protezionismo
+
+Verso gli anni '50 buona situazione economica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDYxOTczOTksMTM5NDk2MDY4OF19
+eyJoaXN0b3J5IjpbLTEyMDgwMTY0OTAsMTM5NDk2MDY4OF19
 -->
