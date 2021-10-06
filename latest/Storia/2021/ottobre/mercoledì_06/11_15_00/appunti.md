@@ -70,15 +70,22 @@ aveva aderito alla carboneria
 Sostiene 
 1. Unità d' Italia
 2. Orientamento repubblicano
-3. Critica liberalismo
-4. Nazionalismo
-5.  Tensione Relogiosa
+3. Orientamento democratico
+4. Critica liberalismo
+5. Nazionalismo
+6.  Tensione Relogiosa
 
 1) Mazzini sostiene unità complessiva della penisola come obiettivo
 
 1831 fonda la "Giovine Italia" che adotta come simbolo il tricolore ma a bande orizzontali
 Tricolore era compraso nella repibblica cispadana (1796)
 Propaganda apertamente per l'unificazione
+
+2) Italia deve essere una repubblica
+
+3) 
+* suffragio universale
+* lotta per il miglioreamento delle condizione di vita di _tutto_ il popolo, non crede nella lotta di classe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDkxNTc4MCwxMzk0OTYwNjg4XX0=
+eyJoaXN0b3J5IjpbLTYzMDkzNjU5MiwxMzk0OTYwNjg4XX0=
 -->
