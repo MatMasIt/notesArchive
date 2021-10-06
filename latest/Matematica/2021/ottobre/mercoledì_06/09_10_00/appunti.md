@@ -170,10 +170,17 @@ $$
 inf(A)=-\infin
 $$
 
+è un minimo ? **No**
+
 Esiste un estremo superiore? **Sì**
 
 $sup(A)=10$
+
+è un massimo? **Sì**
+
+Esiste sempre un estremo inferiore e superio
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ1MjE1NjUsNzgyNTc1ODIyLC0xMz
-gxNjg5MTIwLDIwODY0OTQ2NzksMTg0ODYyOTAxNl19
+eyJoaXN0b3J5IjpbMTUxNTEwMjgxNiw3ODI1NzU4MjIsLTEzOD
+E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
 -->
