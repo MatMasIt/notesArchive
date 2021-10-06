@@ -76,7 +76,12 @@ $$
 $$
 =\ln^2|x|+4\ln |x|+3
 $$
+
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5Njg2ODUzLC0xMzgxNjg5MTIwLDIwOD
-Y0OTQ2NzksMTg0ODYyOTAxNl19
+eyJoaXN0b3J5IjpbLTI2NTgyNDk0MCwtMTM4MTY4OTEyMCwyMD
+g2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
 -->
