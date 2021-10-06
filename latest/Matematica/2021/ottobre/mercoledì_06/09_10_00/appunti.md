@@ -103,8 +103,20 @@ inf(A)=-2\\
 sup(A)=5
 $$
 
+---
+		   2
+		B: @-------------------- - - -
+$$
+B=\{x \in R || x >  2 \}\\
+(2,+\infin)
+$$
+
+$$
+inf(V)=2\\
+aup(B)=+2
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMzM1NDI4LDc4MjU3NTgyMiwtMTM4MT
-Y4OTEyMCwyMDg2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0MDg1NDU4MzYsNzgyNTc1ODIyLC0xMz
+gxNjg5MTIwLDIwODY0OTQ2NzksMTg0ODYyOTAxNl19
 -->
