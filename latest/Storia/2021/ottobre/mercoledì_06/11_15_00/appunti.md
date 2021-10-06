@@ -68,11 +68,15 @@ Apparteneva a famiglia borghese medio-alta
 aveva aderito alla carboneria
 
 Sostiene 
-*Unità d' Italia
-* Orientamento repubblicano
-* Critica liberalismo
-* Nazionalismo
-* Tensione Relogioasa
+1. Unità d' Italia
+2. Orientamento repubblicano
+3. Critica liberalismo
+4. Nazionalismo
+5.  Tensione Relogiosa
+
+1) Mazzini sostiene unità complessiva della penisola come obiettivo
+
+1831 fonda la 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Mjg4MTcyNCwxMzk0OTYwNjg4XX0=
+eyJoaXN0b3J5IjpbNDI5MDM4NTA2LDEzOTQ5NjA2ODhdfQ==
 -->
