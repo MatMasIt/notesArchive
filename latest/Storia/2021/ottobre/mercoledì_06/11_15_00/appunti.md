@@ -60,6 +60,12 @@ Regno di Sardegna in buone condizioni per coquistare Italia
 Monarchia Sabada voleva espandersi verso est, lombardia, pianura padana
 
 Problema impero asburgico
+
+
+Giuseppe Mazzini (Genova, 1805 - Roma, 1872)
+
+Apparteneva a famiglia borghese medio-alta
+aveva aderito alla carboneria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjAzODM0NzEsMTM5NDk2MDY4OF19
+eyJoaXN0b3J5IjpbMTUwNTMzOTA1NSwxMzk0OTYwNjg4XX0=
 -->
