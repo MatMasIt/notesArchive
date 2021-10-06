@@ -7,17 +7,10 @@
     <title>Appunti di Mattia</title>
 
     <link href="web fonts/cmuserif_roman_macroman/stylesheet.css" rel="stylesheet">
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-          showProcessingMessages: false,
-          tex2jax: { inlineMath: [['$','$'],['\\(','\\)']] },
-          TeX: { equationNumbers: {autoNumber: "AMS"} },
-	  loader: {load: ['[tex]/ams']},
-  tex:    {packages: {'[+]': ['ams']}}
-        });
-      </script>
-    <script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js">
+  </script>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/styles/default.min.css">
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/highlight.min.js"></script>
