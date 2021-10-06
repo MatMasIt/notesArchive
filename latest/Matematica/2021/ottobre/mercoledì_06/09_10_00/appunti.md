@@ -58,9 +58,18 @@ $$
 $$
 
 $$
-\frac{x}{|x|}\begin{equation} \begin{cases} \frac{x}{x}=1 \space se \end{cases} \end{equation}
+\boxed{\frac{x}{|x|}=\frac{|x|}{x}}
 $$
+
+$$
+\text{D}\left[(1+\ln|x|)^2\right]=2(1+\ln|x|)\cdot \frac{1}{\cancel{|x|}}\cdot \frac{\cancel{|x|}}{x}
+$$
+
+$$
+D=1+\ln
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNTExNzc4LC0xMzgxNjg5MTIwLDIwOD
-Y0OTQ2NzksMTg0ODYyOTAxNl19
+eyJoaXN0b3J5IjpbLTQ4MzU4MjA2MiwtMTM4MTY4OTEyMCwyMD
+g2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
 -->
