@@ -33,8 +33,15 @@ $\dot y$ non eiste in $(0,0)$
 
 ![](https://i.imgur.com/72iCDVV.jpg)
 
+---
+$$
+y=\ln\left|\sin x \right|
+$$
 
+$$
+y^{'}=\frac{1}{\left|\sin x \right|}\cdot \frac{\sin x }{\left| \sin x \right|}\cdot \cos x=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE2ODkxMjAsMjA4NjQ5NDY3OSwxOD
-Q4NjI5MDE2XX0=
+eyJoaXN0b3J5IjpbLTIxMTQ0MDYxODYsLTEzODE2ODkxMjAsMj
+A4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
 -->
