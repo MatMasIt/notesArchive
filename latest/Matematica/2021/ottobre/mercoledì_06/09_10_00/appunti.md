@@ -19,8 +19,14 @@ $$
 
 
 $$
-D\left(\left|x\right|\right)=\frac{x}{\left|x\right|}=\begin{equation} \begin{cases} Here \end{cases} \end{equation}
+D\left(\left|x\right|\right)=\frac{x}{\left|x\right|}=\begin{equation*} \begin{cases} 1 \space se \space x > 0\\
+-1 \space se \space x < 0
+\end{cases} \end{equation*}
+$$
+
+$$
+C.E.\space |X| \implies \R=(-\infin;+\infin)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODk3OTM3MCwxODQ4NjI5MDE2XX0=
+eyJoaXN0b3J5IjpbLTE1MDI2ODg4NDUsMTg0ODYyOTAxNl19
 -->
