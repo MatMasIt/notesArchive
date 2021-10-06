@@ -123,8 +123,11 @@ $$
 
 ---
 
+Limite: non viene valutato nell'insieme $\R$ ma nell'insieme $\R^*$
 
+---
+p. 30 libro limiti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTMxNTkyNjAsNzgyNTc1ODIyLC0xMz
-gxNjg5MTIwLDIwODY0OTQ2NzksMTg0ODYyOTAxNl19
+eyJoaXN0b3J5IjpbMjgzNjQyNTUwLDc4MjU3NTgyMiwtMTM4MT
+Y4OTEyMCwyMDg2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
 -->
