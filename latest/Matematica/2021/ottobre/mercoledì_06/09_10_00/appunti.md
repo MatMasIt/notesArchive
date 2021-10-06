@@ -29,7 +29,7 @@ C.E.\space |X| \implies \R=(-\infin;+\infin)
 $$
 
 
-$\dot y$ non eiste in $(0,0)$
+$\dot y$ non esiste in $(0,0)$
 
 ![](https://i.imgur.com/72iCDVV.jpg)
 
@@ -186,7 +186,9 @@ Esiste sempre un estremo inferiore e superiore, siano valori o $\pm \infin$
 $$
 A=\left\{x \in \R:e^{\frac1{x}}\leq e^x \right\}
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1OTk2NzgsNzgyNTc1ODIyLC0xMzgxNj
-g5MTIwLDIwODY0OTQ2NzksMTg0ODYyOTAxNl19
+eyJoaXN0b3J5IjpbMTMwODQ2NzUzNSw3ODI1NzU4MjIsLTEzOD
+E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
 -->
