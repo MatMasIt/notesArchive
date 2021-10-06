@@ -143,8 +143,16 @@ $inf(A)=-1$
 
 $-1$ è ==il più grande== di tutti i minoranti
 
+|Domanda|Risposta|
+|---|---|
+|Superiormente limitato?|No|
+|Estremo superiore?|$+\infin$|
+|$+\infin$ è il massimo?|No|
+
+$sup(A)=+\infin$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1MTg4MzM3LDc4MjU3NTgyMiwtMTM4MT
-Y4OTEyMCwyMDg2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
+eyJoaXN0b3J5IjpbLTIxMzE0MjU3MTcsNzgyNTc1ODIyLC0xMz
+gxNjg5MTIwLDIwODY0OTQ2NzksMTg0ODYyOTAxNl19
 -->
