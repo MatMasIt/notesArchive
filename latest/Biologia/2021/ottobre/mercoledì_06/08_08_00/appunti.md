@@ -27,8 +27,8 @@ meccaniso antigene-anticorpo
 
 antigeni: non-self
 
-
+antigeni self 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4Njk1NDU1LC0xMzQ4MTUyMTddfQ==
+eyJoaXN0b3J5IjpbNTA3NTA1NDI0LC0xMzQ4MTUyMTddfQ==
 -->
