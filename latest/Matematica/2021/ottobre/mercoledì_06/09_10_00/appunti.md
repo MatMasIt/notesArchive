@@ -164,8 +164,16 @@ $$
 
 L'insieme è inferiormente limitato? **No**
 L'insieme è superiorente limitato? **Sì**
-Esiste un estremo inferioredi un insieme
+Esiste un estremo inferiore di un insieme? **Sì**
+
+$$
+inf(A)=-\infin
+$$
+
+Esiste un estremo superiore? **Sì**
+
+$sup(A)=10$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU1MzgwMyw3ODI1NzU4MjIsLTEzOD
-E2ODkxMjAsMjA4NjQ5NDY3OSwxODQ4NjI5MDE2XX0=
+eyJoaXN0b3J5IjpbLTIwNTQ1MjE1NjUsNzgyNTc1ODIyLC0xMz
+gxNjg5MTIwLDIwODY0OTQ2NzksMTg0ODYyOTAxNl19
 -->
