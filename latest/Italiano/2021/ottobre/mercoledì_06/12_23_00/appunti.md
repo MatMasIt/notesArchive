@@ -152,6 +152,16 @@ annni '70, scrive  "La vita in versi"
 '72 "O Beatrice"
 
 2000, Meridiano Mondadori (Opera Onmia) I versi della vita
+
+
+Anni '60
+Sabotaggio della lingua, eversione
+
+
+sii scopre che la lingua "vive di vita propria"
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Nzg3Nzk4NCwxNDE2Mjc3NDg2XX0=
+eyJoaXN0b3J5IjpbMTAzODgxOTcwOSwxNDE2Mjc3NDg2XX0=
 -->
