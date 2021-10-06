@@ -87,7 +87,9 @@ Propaganda apertamente per l'unificazione
 * suffragio universale
 * lotta per il miglioreamento delle condizione di vita di _tutto_ il popolo, non crede nella lotta di classe
 
-4) La collet
+4) La collettività occupa i posto principale, verso cui l'individuo ha dei doveri
+
+5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTg2NzM1LDEzOTQ5NjA2ODhdfQ==
+eyJoaXN0b3J5IjpbLTEwNzQ5NzkxNDAsMTM5NDk2MDY4OF19
 -->
