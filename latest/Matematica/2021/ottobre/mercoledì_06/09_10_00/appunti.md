@@ -207,7 +207,7 @@ $$
 $$
 
 $$
-N. 1-x^2 \geq 0\space\space\space\space\space x^2-1 \leq p
+N. 1-x^2 \geq 0\space\space\space\space\space x^2-1 \leq 0\\
 D x > 0
 $$
 
@@ -218,11 +218,13 @@ $$
 		 __________________
 		 + |(-)|  +  |  (-)
 
+
 $$
 A=[-1,0) \cup [1,+\infin)
 $$
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxODYxOTU4LDc4MjU3NTgyMiwtMTM4MT
-Y4OTEyMCwyMDg2NDk0Njc5LDE4NDg2MjkwMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MTg2NjgzNDYsNzgyNTc1ODIyLC0xMz
+gxNjg5MTIwLDIwODY0OTQ2NzksMTg0ODYyOTAxNl19
 -->
