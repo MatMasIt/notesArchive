@@ -115,10 +115,22 @@ Edoardo Sanguineti, altro genovese che ha studiato a torino
 Giovanni Giudici, nato a La Spezia
 p. 568 divina commedia, purgatorio XXX
 
-Anni '90 adattamento teatrale
-Sanguineti|Inferno|
+Andrea Zandotto
+
+Anni '90 adattamento teatrale Divina Commedia
+|Poeta|Parte assegnata|
+|---|---|
+|Sanguineti|Inferno|
 |Luzi|Purgatorio|
 |Giudici|Paradiso|
+
+
+
+Giudici, giornalista, che conosce Montale
+
+poesia molto autobiografica
+
+poesia prosaica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA1NDg2MzksMTQxNjI3NzQ4Nl19
+eyJoaXN0b3J5IjpbMTc5OTk0NTE1OSwxNDE2Mjc3NDg2XX0=
 -->
