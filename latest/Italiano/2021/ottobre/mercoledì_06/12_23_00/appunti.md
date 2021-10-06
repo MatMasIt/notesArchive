@@ -165,6 +165,8 @@ sii scopre che la lingua "vive di vita propria"
 Giudici: prosaicità dell'esistenza rappresentata con ironia
 
 Mediocrità parole logorate dal consumismo, riavilitare le parole nella loro conccreteza, coloritura, durezza, usare _rime aspre e chioce_
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTc3NzAyMzksMTQxNjI3NzQ4Nl19
+eyJoaXN0b3J5IjpbMTU5ODIxMDAzMSwtMTExNzc3MDIzOSwxND
+E2Mjc3NDg2XX0=
 -->
