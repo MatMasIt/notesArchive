@@ -6,6 +6,12 @@
 $$
 A=\left\{x \in \R:\frac{x+2}{x^2-3x} \geq 0\right\}
 $$
+
+
+$$
+N \geq 0 \Large |\small  x+2\geq 0\to x\geq-2\\
+N \geq 0 \Large |\small  x+2\geq 0\to x\geq-2
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDU5NTMwMywxMTEyMDE2NTRdfQ==
+eyJoaXN0b3J5IjpbNTI4NDA1MzQzLDExMTIwMTY1NF19
 -->
