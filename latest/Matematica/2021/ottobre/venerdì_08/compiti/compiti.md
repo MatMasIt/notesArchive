@@ -18,8 +18,14 @@ $$
 F_1: x>0\\
 F_2: x-3 >0 \to x >3
 $$
+```
 
-\
+    ----0------3------
+F1   -  |   +  |   +
+F2   -  |   -  |   +
+-----------------------
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc3NjM1ODcsMTExMjAxNjU0XX0=
+eyJoaXN0b3J5IjpbMTQ1MzU5NjE3MCwxMTEyMDE2NTRdfQ==
 -->
