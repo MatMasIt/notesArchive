@@ -1850,18 +1850,6 @@
                         ]
                     }
                 },
-                "ottobre": {
-                    "venerd\u00ec_01": {
-                        "08_19_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_05": {
-                        "13_33_00": [
-                            "appunti.md"
-                        ]
-                    }
-                },
                 "aprile": {
                     "venerd\u00ec_30": {
                         "12_14_00": [
@@ -1890,6 +1878,21 @@
                     ],
                     "venerd\u00ec_24": {
                         "10_00_00": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "ottobre": {
+                    "gioved\u00ec_07": [
+                        "appunti.md"
+                    ],
+                    "venerd\u00ec_01": {
+                        "08_19_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_05": {
+                        "13_33_00": [
                             "appunti.md"
                         ]
                     }
@@ -2067,8 +2070,8 @@
         }
     ],
     "lastUpdate": {
-        "unix": 1633642758,
-        "human": "07\/10\/2021 21:39:18",
+        "unix": 1633645192,
+        "human": "07\/10\/2021 22:19:52",
         "timezone": "UTC"
     }
 }
