@@ -20,12 +20,16 @@ F_2: x-3 >0 \to x >3
 $$
 ```
 
-    ----0------3------
+--------0------3------
 F1   -  |   +  |   +
 F2   -  |   -  |   +
 -----------------------
-
+R    (+)    -     (+)
 ```
+
+
+Calcolo N/D
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzU5NjE3MCwxMTEyMDE2NTRdfQ==
+eyJoaXN0b3J5IjpbOTU5NzcyNDI3LDExMTIwMTY1NF19
 -->
