@@ -2,16 +2,16 @@
     "all": {
         "Disegno": {
             "2020": {
-                "dicembre": {
-                    "gioved\u00ec_03": {
-                        "13_01_33": [
+                "novembre": {
+                    "gioved\u00ec_26": {
+                        "13_00_04": [
                             "appunti.md"
                         ]
                     }
                 },
-                "novembre": {
-                    "gioved\u00ec_26": {
-                        "13_00_04": [
+                "dicembre": {
+                    "gioved\u00ec_03": {
+                        "13_01_33": [
                             "appunti.md"
                         ]
                     }
@@ -32,32 +32,32 @@
         },
         "Scienze_Motorie": {
             "2020": {
-                "dicembre": {
-                    "luned\u00ec_21": {
-                        "08_14_00": [
-                            "appunti.md"
-                        ]
-                    }
-                },
                 "novembre": {
                     "domenica_29": {
                         "02_10_10": [
                             "appunti.md"
                         ]
                     }
+                },
+                "dicembre": {
+                    "luned\u00ec_21": {
+                        "08_14_00": [
+                            "appunti.md"
+                        ]
+                    }
                 }
             },
             "2021": {
-                "aprile": {
-                    "luned\u00ec_12": {
-                        "08_21_19": [
+                "gennaio": {
+                    "luned\u00ec_11": {
+                        "08_15_32": [
                             "appunti.md"
                         ]
                     }
                 },
-                "gennaio": {
-                    "luned\u00ec_11": {
-                        "08_15_32": [
+                "aprile": {
+                    "luned\u00ec_12": {
+                        "08_21_19": [
                             "appunti.md"
                         ]
                     }
@@ -69,6 +69,20 @@
                         ]
                     }
                 },
+                "febbraio": {
+                    "luned\u00ec_22": {
+                        "08_01_09": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_01": {
+                        "08_08_09": [
+                            "CONI - simulazione di prova.md",
+                            "appunti.md",
+                            "coni.docx"
+                        ]
+                    }
+                },
                 "marzo": {
                     "luned\u00ec_29": {
                         "08_25_07": [
@@ -77,20 +91,6 @@
                     },
                     "luned\u00ec_08": {
                         "08_03_43": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "febbraio": {
-                    "luned\u00ec_01": {
-                        "08_08_09": [
-                            "CONI - simulazione di prova.md",
-                            "appunti.md",
-                            "coni.docx"
-                        ]
-                    },
-                    "luned\u00ec_22": {
-                        "08_01_09": [
                             "appunti.md"
                         ]
                     }
@@ -107,13 +107,13 @@
                     }
                 },
                 "dicembre": {
-                    "mercoled\u00ec_09": {
-                        "08_03_41": [
+                    "mercoled\u00ec_02": {
+                        "08_00_40": [
                             "appunti.md"
                         ]
                     },
-                    "mercoled\u00ec_02": {
-                        "08_00_40": [
+                    "mercoled\u00ec_09": {
+                        "08_03_41": [
                             "appunti.md"
                         ]
                     }
@@ -201,13 +201,13 @@
                     }
                 },
                 "novembre": {
-                    "venerd\u00ec_27": {
-                        "11_00_22": [
+                    "luned\u00ec_23": {
+                        "10_00_20": [
                             "appunti.md"
                         ]
                     },
-                    "luned\u00ec_23": {
-                        "10_00_20": [
+                    "venerd\u00ec_27": {
+                        "11_00_22": [
                             "appunti.md"
                         ]
                     },
@@ -224,16 +224,16 @@
                 }
             },
             "2021": {
-                "settembre": {
-                    "gioved\u00ec_23": {
-                        "09_05_00": [
+                "febbraio": {
+                    "luned\u00ec_01": {
+                        "10_00_31": [
                             "appunti.md"
                         ]
                     }
                 },
-                "febbraio": {
-                    "luned\u00ec_01": {
-                        "10_00_31": [
+                "settembre": {
+                    "gioved\u00ec_23": {
+                        "09_05_00": [
                             "appunti.md"
                         ]
                     }
@@ -251,18 +251,13 @@
                     }
                 },
                 "marzo": {
-                    "marted\u00ec_09": {
-                        "13_06_40": [
-                            "appunti.md"
-                        ]
-                    },
                     "marted\u00ec_23": {
                         "13_06_51": [
                             "appunti.md"
                         ]
                     },
-                    "gioved\u00ec_11": {
-                        "12_00_23": [
+                    "marted\u00ec_16": {
+                        "13_07_52": [
                             "appunti.md"
                         ]
                     },
@@ -271,16 +266,21 @@
                             "appunti.md"
                         ]
                     },
-                    "marted\u00ec_16": {
-                        "13_07_52": [
+                    "gioved\u00ec_11": {
+                        "12_00_23": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_09": {
+                        "13_06_40": [
                             "appunti.md"
                         ]
                     }
                 },
                 "maggio": {
-                    "marted\u00ec_04": {
-                        "13_00_00": [
-                            "appunti.md"
+                    "venerd\u00ec_21": {
+                        "11_19_00": [
+                            "apppunti.md"
                         ]
                     },
                     "marted\u00ec_25": {
@@ -288,13 +288,18 @@
                             "appunti.md"
                         ]
                     },
-                    "venerd\u00ec_21": {
-                        "11_19_00": [
-                            "apppunti.md"
-                        ]
-                    },
                     "marted\u00ec_18": {
                         "13_07_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_06": {
+                        "12_12_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_04": {
+                        "13_00_00": [
                             "appunti.md"
                         ]
                     },
@@ -302,9 +307,146 @@
                         "11_12_00": [
                             "appunti.md"
                         ]
+                    }
+                }
+            }
+        },
+        "Arte": {
+            "2020": {
+                "novembre": {
+                    "luned\u00ec_23": {
+                        "14_40_00": [
+                            "schema_ripasso.md"
+                        ]
                     },
-                    "gioved\u00ec_06": {
-                        "12_12_00": [
+                    "marted\u00ec_24": {
+                        "08_00_37": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "dicembre": {
+                    "marted\u00ec_15": {
+                        "08_27_30": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_01": {
+                        "08_00_37": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_22": {
+                        "08_02_17": [
+                            "appunti.md"
+                        ]
+                    }
+                }
+            },
+            "2021": {
+                "gennaio": {
+                    "marted\u00ec_12": {
+                        "08_26_31": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "ottobre": {
+                    "luned\u00ec_04": {
+                        "08_05_00": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "giugno": {
+                    "marted\u00ec_01": {
+                        "08_12_00": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "maggio": {
+                    "marted\u00ec_25": {
+                        "08_02_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_13": {
+                        "13_40_00": [
+                            "appunti.md"
+                        ],
+                        "0": "ripasso.md"
+                    }
+                },
+                "febbraio": {
+                    "gioved\u00ec_04": {
+                        "13_02_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_23": {
+                        "08_03_38": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_02": {
+                        "08_01_00": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "settembre": {
+                    "marted\u00ec_14": {
+                        "10_12_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_23": {
+                        "12_11_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_24": {
+                        "08_03_00": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "marzo": {
+                    "marted\u00ec_16": {
+                        "08_43_45": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_23": {
+                        "08_42_58": [
+                            "appunti.md"
+                        ]
+                    },
+                    "sabato_27": {
+                        "15_12_03": [
+                            "ripasso.md"
+                        ]
+                    }
+                },
+                "aprile": {
+                    "marted\u00ec_20": {
+                        "08_31_08": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_13": {
+                        "08_06_19": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_27": {
+                        "08_00_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_29": {
+                        "13_00_00": [
                             "appunti.md"
                         ]
                     }
@@ -314,18 +456,38 @@
         "Chimica": {
             "2020": {
                 "novembre": {
-                    "gioved\u00ec_26": {
-                        "12_00_47": [
+                    "mercoled\u00ec_25": {
+                        "11_00_20": [
                             "appunti.md"
                         ]
                     },
-                    "mercoled\u00ec_25": {
-                        "11_00_20": [
+                    "gioved\u00ec_26": {
+                        "12_00_47": [
                             "appunti.md"
                         ]
                     }
                 },
                 "dicembre": {
+                    "luned\u00ec_21": {
+                        "10_00_23": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_01": {
+                        "13_00_32": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_16": {
+                        "09_24_19": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_18": {
+                        "11_00_09": [
+                            "appunti.md"
+                        ]
+                    },
                     "venerd\u00ec_04": {
                         "11_01_29": [
                             "appunti.md"
@@ -335,26 +497,6 @@
                         "12_02_04": [
                             "appunti.md"
                         ]
-                    },
-                    "venerd\u00ec_18": {
-                        "11_00_09": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_01": {
-                        "13_00_32": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_21": {
-                        "10_00_23": [
-                            "appunti.md"
-                        ]
-                    },
-                    "mercoled\u00ec_16": {
-                        "09_24_19": [
-                            "appunti.md"
-                        ]
                     }
                 }
             },
@@ -362,6 +504,18 @@
                 "ottobre": {
                     "marted\u00ec_05": {
                         "08_05_00": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "gennaio": {
+                    "gioved\u00ec_07": {
+                        "12_00_59": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_21": {
+                        "12_02_41": [
                             "appunti.md"
                         ]
                     }
@@ -378,33 +532,21 @@
                         ]
                     }
                 },
-                "gennaio": {
-                    "gioved\u00ec_07": {
-                        "12_00_59": [
-                            "appunti.md"
-                        ]
-                    },
-                    "gioved\u00ec_21": {
-                        "12_02_41": [
-                            "appunti.md"
-                        ]
-                    }
-                },
                 "settembre": {
-                    "luned\u00ec_20": {
-                        "08_02_00": [
-                            "appunti.md"
-                        ]
-                    },
                     "marted\u00ec_14": {
                         "12_00_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_20": {
+                        "08_02_00": [
                             "appunti.md"
                         ]
                     }
                 },
                 "marzo": {
-                    "luned\u00ec_15": {
-                        "10_06_36": [
+                    "luned\u00ec_22": {
+                        "10_02_36": [
                             "appunti.md"
                         ]
                     },
@@ -413,26 +555,26 @@
                             "appunti.md"
                         ]
                     },
-                    "luned\u00ec_22": {
-                        "10_02_36": [
+                    "luned\u00ec_15": {
+                        "10_06_36": [
                             "appunti.md"
                         ]
                     }
                 },
                 "giugno": {
-                    "gioved\u00ec_10": {
-                        "12_16_00": [
-                            "appunti.md"
-                        ]
-                    },
+                    "luned\u00ec_08": [
+                        "esperienzaLaboratorio.md"
+                    ],
                     "marted\u00ec_01": {
                         "13_08_00": [
                             "appunti.md"
                         ]
                     },
-                    "luned\u00ec_08": [
-                        "esperienzaLaboratorio.md"
-                    ]
+                    "gioved\u00ec_10": {
+                        "12_16_00": [
+                            "appunti.md"
+                        ]
+                    }
                 },
                 "aprile": {
                     "venerd\u00ec_16": {
@@ -460,21 +602,21 @@
                     }
                 },
                 "maggio": {
-                    "marted\u00ec_11": {
-                        "13_06_00": [
-                            "appunti.md"
-                        ]
-                    },
+                    "luned\u00ec_24": [
+                        "laboratorio.md"
+                    ],
                     "gioved\u00ec_27": {
                         "11_09_00": [
                             "appunti.md"
                         ]
                     },
-                    "luned\u00ec_24": [
-                        "laboratorio.md"
-                    ],
-                    "luned\u00ec_31": {
-                        "10_00_00": [
+                    "marted\u00ec_11": {
+                        "13_06_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_20": {
+                        "12_15_00": [
                             "appunti.md"
                         ]
                     },
@@ -483,318 +625,14 @@
                             "appunti.md"
                         ]
                     },
+                    "luned\u00ec_31": {
+                        "10_00_00": [
+                            "appunti.md"
+                        ]
+                    },
                     "luned\u00ec_03": {
                         "10_00_00": [
                             "appunti.md.md"
-                        ]
-                    },
-                    "gioved\u00ec_20": {
-                        "12_15_00": [
-                            "appunti.md"
-                        ]
-                    }
-                }
-            }
-        },
-        "Storia": {
-            "2020": {
-                "novembre": {
-                    "venerd\u00ec_27": {
-                        "10_00_12": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_24": {
-                        "15_59_00": [
-                            "schema_ripasso.md"
-                        ]
-                    }
-                },
-                "dicembre": {
-                    "marted\u00ec_22": {
-                        "11_08_52": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_01": {
-                        "11_00_32": [
-                            "appunti.md"
-                        ]
-                    },
-                    "mercoled\u00ec_16": {
-                        "13_04_22": [
-                            "appunti.md"
-                        ]
-                    },
-                    "mercoled\u00ec_09": {
-                        "13_17_28": [
-                            "appunti.md"
-                        ]
-                    },
-                    "mercoled\u00ec_02": {
-                        "13_25_08": [
-                            "appunti.md"
-                        ]
-                    }
-                }
-            },
-            "2021": {
-                "ottobre": {
-                    "mercoled\u00ec_06": {
-                        "11_15_00": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "settembre": {
-                    "mercoled\u00ec_15": {
-                        "08_05_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_21": {
-                        "10_00_00": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "febbraio": {
-                    "marted\u00ec_23": {
-                        "11_08_46": [
-                            "appunti.md"
-                        ]
-                    },
-                    "mercoled\u00ec_24": {
-                        "12_12_40": [
-                            "appunti.md"
-                        ]
-                    },
-                    "mercoled\u00ec_03": {
-                        "13_14_38": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "gennaio": {
-                    "mercoled\u00ec_13": {
-                        "12_05_33": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_12": {
-                        "11_03_44": [
-                            "appunti.md"
-                        ]
-                    },
-                    "mercoled\u00ec_20": {
-                        "13_02_07": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_15": {
-                        "10_03_31": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "maggio": {
-                    "marted\u00ec_25": {
-                        "11_45_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_18": {
-                        "11_41_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "mercoled\u00ec_19": {
-                        "13_04_00": [
-                            "appunti.md",
-                            "prima riv ind.drawio.xml",
-                            "prima riv ind.svg"
-                        ]
-                    },
-                    "mercoled\u00ec_26": {
-                        "13_08_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "gioved\u00ec_20": {
-                        "19_03_00": [
-                            "ripasso_rivoluzione_francese.md"
-                        ]
-                    }
-                },
-                "marzo": {
-                    "mercoled\u00ec_24": {
-                        "12_13_58": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_09": [
-                        "Conclusioni sugli stati Uniti d'America - 1700.md"
-                    ],
-                    "venerd\u00ec_26": {
-                        "10_00_25": [
-                            "appunti.md"
-                        ]
-                    },
-                    "mercoled\u00ec_17": {
-                        "13_07_27": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_16": {
-                        "11_03_55": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_22": {
-                        "08_00_00": [
-                            "Ripasso Interrogazione Marted\u00ec.md"
-                        ]
-                    }
-                }
-            }
-        },
-        "Arte": {
-            "2020": {
-                "novembre": {
-                    "marted\u00ec_24": {
-                        "08_00_37": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_23": {
-                        "14_40_00": [
-                            "schema_ripasso.md"
-                        ]
-                    }
-                },
-                "dicembre": {
-                    "marted\u00ec_22": {
-                        "08_02_17": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_15": {
-                        "08_27_30": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_01": {
-                        "08_00_37": [
-                            "appunti.md"
-                        ]
-                    }
-                }
-            },
-            "2021": {
-                "giugno": {
-                    "marted\u00ec_01": {
-                        "08_12_00": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "ottobre": {
-                    "luned\u00ec_04": {
-                        "08_05_00": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "gennaio": {
-                    "marted\u00ec_12": {
-                        "08_26_31": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "maggio": {
-                    "marted\u00ec_25": {
-                        "08_02_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "gioved\u00ec_13": {
-                        "13_40_00": [
-                            "appunti.md"
-                        ],
-                        "0": "ripasso.md"
-                    }
-                },
-                "marzo": {
-                    "sabato_27": {
-                        "15_12_03": [
-                            "ripasso.md"
-                        ]
-                    },
-                    "marted\u00ec_23": {
-                        "08_42_58": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_16": {
-                        "08_43_45": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "febbraio": {
-                    "marted\u00ec_02": {
-                        "08_01_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "gioved\u00ec_04": {
-                        "13_02_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_23": {
-                        "08_03_38": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "settembre": {
-                    "venerd\u00ec_24": {
-                        "08_03_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "gioved\u00ec_23": {
-                        "12_11_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_14": {
-                        "10_12_00": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "aprile": {
-                    "marted\u00ec_27": {
-                        "08_00_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_13": {
-                        "08_06_19": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_20": {
-                        "08_31_08": [
-                            "appunti.md"
-                        ]
-                    },
-                    "gioved\u00ec_29": {
-                        "13_00_00": [
-                            "appunti.md"
                         ]
                     }
                 }
@@ -820,26 +658,19 @@
                             "appunti.md"
                         ]
                     },
-                    "venerd\u00ec_04": {
-                        "12_00_09": [
+                    "mercoled\u00ec_02": {
+                        "10_00_25": [
                             "appunti.md"
                         ]
                     },
-                    "mercoled\u00ec_02": {
-                        "10_00_25": [
+                    "venerd\u00ec_04": {
+                        "12_00_09": [
                             "appunti.md"
                         ]
                     }
                 }
             },
             "2021": {
-                "ottobre": {
-                    "mercoled\u00ec_06": {
-                        "09_10_00": [
-                            "appunti.md"
-                        ]
-                    }
-                },
                 "gennaio": {
                     "gioved\u00ec_21": {
                         "10_00_28": [
@@ -854,15 +685,22 @@
                         ]
                     }
                 },
-                "aprile": {
-                    "venerd\u00ec_30": {
-                        "00_06_00": [
-                            "compiti.md"
+                "ottobre": {
+                    "mercoled\u00ec_06": {
+                        "09_10_00": [
+                            "appunti.md"
                         ]
-                    },
+                    }
+                },
+                "aprile": {
                     "mercoled\u00ec_28": {
                         "10_00_00": [
                             "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_30": {
+                        "00_06_00": [
+                            "compiti.md"
                         ]
                     },
                     "venerd\u00ec_23": {
@@ -872,8 +710,13 @@
                     }
                 },
                 "giugno": {
-                    "venerd\u00ec_04": {
-                        "08_02_00": [
+                    "marted\u00ec_01": {
+                        "08_56_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_10": {
+                        "10_07_00": [
                             "appunti.md"
                         ]
                     },
@@ -882,13 +725,8 @@
                             "appunti.md"
                         ]
                     },
-                    "marted\u00ec_01": {
-                        "08_56_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "gioved\u00ec_10": {
-                        "10_07_00": [
+                    "venerd\u00ec_04": {
+                        "08_02_00": [
                             "appunti.md"
                         ]
                     },
@@ -902,6 +740,19 @@
                     }
                 },
                 "settembre": {
+                    "marted\u00ec_28": {
+                        "12_29_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_27": [
+                        "compiti.md"
+                    ],
+                    "marted\u00ec_14": {
+                        "08_32_00": [
+                            "appunti.md"
+                        ]
+                    },
                     "venerd\u00ec_24": {
                         "12_37_00": [
                             "appunti.md"
@@ -912,19 +763,6 @@
                             "appunti.md"
                         ]
                     },
-                    "marted\u00ec_14": {
-                        "08_32_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_28": {
-                        "12_29_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_27": [
-                        "compiti.md"
-                    ],
                     "gioved\u00ec_16": {
                         "compiti": [
                             "appunti.md"
@@ -944,14 +782,171 @@
                 }
             }
         },
+        "Storia": {
+            "2020": {
+                "novembre": {
+                    "marted\u00ec_24": {
+                        "15_59_00": [
+                            "schema_ripasso.md"
+                        ]
+                    },
+                    "venerd\u00ec_27": {
+                        "10_00_12": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "dicembre": {
+                    "marted\u00ec_01": {
+                        "11_00_32": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_02": {
+                        "13_25_08": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_22": {
+                        "11_08_52": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_16": {
+                        "13_04_22": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_09": {
+                        "13_17_28": [
+                            "appunti.md"
+                        ]
+                    }
+                }
+            },
+            "2021": {
+                "ottobre": {
+                    "mercoled\u00ec_06": {
+                        "11_15_00": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "settembre": {
+                    "mercoled\u00ec_15": {
+                        "08_05_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_21": {
+                        "10_00_00": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "febbraio": {
+                    "mercoled\u00ec_24": {
+                        "12_12_40": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_23": {
+                        "11_08_46": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_03": {
+                        "13_14_38": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "gennaio": {
+                    "mercoled\u00ec_13": {
+                        "12_05_33": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_20": {
+                        "13_02_07": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_15": {
+                        "10_03_31": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_12": {
+                        "11_03_44": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "maggio": {
+                    "marted\u00ec_25": {
+                        "11_45_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_19": {
+                        "13_04_00": [
+                            "appunti.md",
+                            "prima riv ind.drawio.xml",
+                            "prima riv ind.svg"
+                        ]
+                    },
+                    "marted\u00ec_18": {
+                        "11_41_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_26": {
+                        "13_08_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_20": {
+                        "19_03_00": [
+                            "ripasso_rivoluzione_francese.md"
+                        ]
+                    }
+                },
+                "marzo": {
+                    "marted\u00ec_16": {
+                        "11_03_55": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_26": {
+                        "10_00_25": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_22": {
+                        "08_00_00": [
+                            "Ripasso Interrogazione Marted\u00ec.md"
+                        ]
+                    },
+                    "mercoled\u00ec_24": {
+                        "12_13_58": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_17": {
+                        "13_07_27": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_09": [
+                        "Conclusioni sugli stati Uniti d'America - 1700.md"
+                    ]
+                }
+            }
+        },
         "Filosofia": {
             "2020": {
                 "novembre": {
-                    "marted\u00ec_17": {
-                        "15_34_12": [
-                            "Mappa_concettuale_per_interrogazione.svg"
-                        ]
-                    },
                     "marted\u00ec_24": {
                         "11_00_24": [
                             "appunti.md"
@@ -961,16 +956,16 @@
                         "13_00_02": [
                             "appunti.md"
                         ]
+                    },
+                    "marted\u00ec_17": {
+                        "15_34_12": [
+                            "Mappa_concettuale_per_interrogazione.svg"
+                        ]
                     }
                 },
                 "dicembre": {
-                    "venerd\u00ec_04": {
-                        "10_00_17": [
-                            "appunti.md"
-                        ]
-                    },
-                    "mercoled\u00ec_09": {
-                        "12_00_07": [
+                    "mercoled\u00ec_02": {
+                        "12_00_12": [
                             "appunti.md"
                         ]
                     },
@@ -979,40 +974,27 @@
                             "appunti.md"
                         ]
                     },
-                    "mercoled\u00ec_02": {
-                        "12_00_12": [
+                    "mercoled\u00ec_09": {
+                        "12_00_07": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_04": {
+                        "10_00_17": [
                             "appunti.md"
                         ]
                     }
                 }
             },
             "2021": {
-                "giugno": {
-                    "venerd\u00ec_11": {
-                        "10_09_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_08": {
-                        "11_32_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "mercoled\u00ec_09": {
-                        "12_38_00": [
-                            "appunti.md",
-                            "testo_kant.md"
-                        ]
-                    }
-                },
                 "febbraio": {
-                    "venerd\u00ec_26": {
-                        "10_04_44": [
-                            "appunti.md"
-                        ]
-                    },
                     "mercoled\u00ec_24": {
                         "13_10_14": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_26": {
+                        "10_04_44": [
                             "appunti.md"
                         ]
                     },
@@ -1023,6 +1005,11 @@
                     }
                 },
                 "gennaio": {
+                    "mercoled\u00ec_20": {
+                        "12_03_06": [
+                            "appunti.md"
+                        ]
+                    },
                     "mercoled\u00ec_13": {
                         "13_20_40": [
                             "appunti.md"
@@ -1032,26 +1019,34 @@
                         "10_07_39": [
                             "appunti.md"
                         ]
+                    }
+                },
+                "giugno": {
+                    "mercoled\u00ec_09": {
+                        "12_38_00": [
+                            "appunti.md",
+                            "testo_kant.md"
+                        ]
                     },
-                    "mercoled\u00ec_20": {
-                        "12_03_06": [
+                    "marted\u00ec_08": {
+                        "11_32_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_11": {
+                        "10_09_00": [
                             "appunti.md"
                         ]
                     }
                 },
                 "maggio": {
-                    "marted\u00ec_04": {
-                        "11_10_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_28": {
-                        "09_55_00": [
-                            "appunti.md"
-                        ]
-                    },
                     "mercoled\u00ec_26": {
                         "12_13_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_04": {
+                        "11_10_00": [
                             "appunti.md"
                         ]
                     },
@@ -1059,36 +1054,24 @@
                         "12_09_00": [
                             "apunti.md"
                         ]
-                    }
-                },
-                "marzo": {
-                    "mercoled\u00ec_10": {
-                        "13_28_42": [
-                            "appunti.md"
-                        ]
                     },
-                    "venerd\u00ec_19": {
-                        "10_10_40": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_30": {
-                        "11_34_57": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_12": {
-                        "10_06_34": [
-                            "appunti.md"
-                        ]
-                    },
-                    "nercoled\u00ec_17": {
-                        "12_31_07": [
+                    "venerd\u00ec_28": {
+                        "09_55_00": [
                             "appunti.md"
                         ]
                     }
                 },
                 "settembre": {
+                    "luned\u00ec_27": {
+                        "10_14_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_28": {
+                        "11_02_00": [
+                            "appunti.md"
+                        ]
+                    },
                     "venerd\u00ec_17": {
                         "12_36_00": [
                             "appunti.md"
@@ -1099,30 +1082,42 @@
                             "appunti.md"
                         ]
                     },
-                    "marted\u00ec_28": {
-                        "11_02_00": [
-                            "appunti.md"
-                        ]
-                    },
                     "luned\u00ec_20": {
                         "13_04_00": [
                             "appunti.md"
                         ]
+                    }
+                },
+                "marzo": {
+                    "venerd\u00ec_12": {
+                        "10_06_34": [
+                            "appunti.md"
+                        ]
                     },
-                    "luned\u00ec_27": {
-                        "10_14_00": [
+                    "nercoled\u00ec_17": {
+                        "12_31_07": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_30": {
+                        "11_34_57": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_19": {
+                        "10_10_40": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_10": {
+                        "13_28_42": [
                             "appunti.md"
                         ]
                     }
                 },
                 "aprile": {
-                    "mercoled\u00ec_21": {
-                        "12_13_23": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_27": {
-                        "11_09_00": [
+                    "marted\u00ec_13": {
+                        "11_07_02": [
                             "appunti.md"
                         ]
                     },
@@ -1131,8 +1126,8 @@
                             "appunti.md"
                         ]
                     },
-                    "mercoled\u00ec_07": {
-                        "12_15_05": [
+                    "marted\u00ec_27": {
+                        "11_09_00": [
                             "appunti.md"
                         ]
                     },
@@ -1141,13 +1136,18 @@
                             "appunti.md"
                         ]
                     },
-                    "marted\u00ec_13": {
-                        "11_07_02": [
+                    "mercoled\u00ec_21": {
+                        "12_13_23": [
                             "appunti.md"
                         ]
                     },
                     "venerd\u00ec_23": {
                         "10_00_35": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_07": {
+                        "12_15_05": [
                             "appunti.md"
                         ]
                     },
@@ -1167,283 +1167,14 @@
                 }
             }
         },
-        "Inglese": {
-            "2020": {
-                "novembre": {
-                    "venerd\u00ec_27": {
-                        "09_00_24": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_23": {
-                        "12_00_15": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_24": {
-                        "10_00_22": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_30": {
-                        "12_00_18": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "dicembre": {
-                    "venerd\u00ec_04": {
-                        "09_05_16": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_11": {
-                        "09_00_14": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_14": {
-                        "12_02_03": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_18": {
-                        "09_00_48": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_21": {
-                        "12_02_24": [
-                            "appunti.md"
-                        ]
-                    }
-                }
-            },
-            "2021": {
-                "giugno": {
-                    "venerd\u00ec_04": {
-                        "09_08_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_08": [
-                        "compiti.md"
-                    ],
-                    "marted\u00ec_01": {
-                        "09_55_00": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "ottobre": {
-                    "marted\u00ec_05": {
-                        "10_16_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_04": {
-                        "13_03_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_01": {
-                        "10_20_00": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "febbraio": {
-                    "luned\u00ec_01": {
-                        "12_13_35": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_22": {
-                        "12_01_36": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_02": {
-                        "10_00_07": [
-                            "appunti.md"
-                        ],
-                        "16_31_30": [
-                            "compito_per_venerd\u00ec.md"
-                        ]
-                    }
-                },
-                "gennaio": {
-                    "venerd\u00ec_08": {
-                        "09_00_49": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_11": {
-                        "12_22_03": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_12": {
-                        "10_17_37": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "settembre": {
-                    "mercoled\u00ec_29": {
-                        "11_15_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "mercoled\u00ec_15": {
-                        "08_57_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_17": {
-                        "11_08_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_13": {
-                        "07_07_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "0": "MarkheimJekyllGray.md.md"
-                },
-                "marzo": {
-                    "venerd\u00ec_12": {
-                        "09_02_24": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_09": {
-                        "10_01_31": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_26": {
-                        "09_36_24": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_15": [
-                        "Compiti di Inglese 15 03 2021.md"
-                    ],
-                    "marted\u00ec_30": {
-                        "10_03_13": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_08": {
-                        "12_01_49": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_22": {
-                        "12_00_31": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "aprile": {
-                    "gioved\u00ec_08": {
-                        "12_00_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_12": {
-                        "00_24_00": [
-                            "restmon.pdf"
-                        ]
-                    },
-                    "marted\u00ec_27": {
-                        "09_50_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_19": {
-                        "12_00_05": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_20": {
-                        "10_00_38": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_30": {
-                        "08_54_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_13": {
-                        "10_05_25": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_09": {
-                        "09_06_50": [
-                            "appunti.md"
-                        ]
-                    }
-                },
-                "maggio": {
-                    "marted\u00ec_04": {
-                        "09_51_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_25": {
-                        "09_52_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_17": {
-                        "12_07_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_18": {
-                        "10_00_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_28": {
-                        "09_00_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_21": {
-                        "09_00_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_03": {
-                        "12_00_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "luned\u00ec_31": {
-                        "12_08_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "sabato_22": {
-                        "10_11_34": [
-                            "ripasso.md"
-                        ]
-                    },
-                    "luned\u00ec_10": [
-                        "ripassomix.md"
-                    ]
-                }
-            }
-        },
         "Italiano": {
             "2020": {
                 "novembre": {
+                    "mercoled\u00ec_25": {
+                        "10_11_20": [
+                            "appunti.md"
+                        ]
+                    },
                     "venerd\u00ec_27": {
                         "08_00_19": [
                             "appunti.md"
@@ -1458,36 +1189,21 @@
                         "09_04_52": [
                             "appunti.md"
                         ]
-                    },
-                    "mercoled\u00ec_25": {
-                        "10_11_20": [
-                            "appunti.md"
-                        ]
                     }
                 },
                 "dicembre": {
+                    "marted\u00ec_01": {
+                        "12_00_31": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_16": {
+                        "08_06_36": [
+                            "appunti.md"
+                        ]
+                    },
                     "marted\u00ec_15": {
                         "12_10_03": [
-                            "appunti.md"
-                        ]
-                    },
-                    "gioved\u00ec_17": {
-                        "08_02_51": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_11": {
-                        "08_21_56": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_18": {
-                        "08_00_49": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_22": {
-                        "12_00_15": [
                             "appunti.md"
                         ]
                     },
@@ -1496,13 +1212,23 @@
                             "appunti.md"
                         ]
                     },
-                    "marted\u00ec_01": {
-                        "12_00_31": [
+                    "marted\u00ec_22": {
+                        "12_00_15": [
                             "appunti.md"
                         ]
                     },
-                    "mercoled\u00ec_16": {
-                        "08_06_36": [
+                    "venerd\u00ec_18": {
+                        "08_00_49": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_11": {
+                        "08_21_56": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_17": {
+                        "08_02_51": [
                             "appunti.md"
                         ]
                     }
@@ -1522,8 +1248,8 @@
                     }
                 },
                 "giugno": {
-                    "gioved\u00ec_03": {
-                        "08_02_00": [
+                    "marted\u00ec_01": {
+                        "12_11_00": [
                             "appunti.md"
                         ]
                     },
@@ -1532,18 +1258,13 @@
                             "appunti.md"
                         ]
                     },
-                    "marted\u00ec_01": {
-                        "12_11_00": [
+                    "gioved\u00ec_03": {
+                        "08_02_00": [
                             "appunti.md"
                         ]
                     }
                 },
                 "settembre": {
-                    "mercoled\u00ec_29": {
-                        "08_03_00": [
-                            "appunti.md"
-                        ]
-                    },
                     "marted\u00ec_21": {
                         "12_00_00": [
                             "appunti.md"
@@ -1551,6 +1272,11 @@
                     },
                     "gioved\u00ec_16": {
                         "12_13_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_29": {
+                        "08_03_00": [
                             "appunti.md"
                         ]
                     },
@@ -1572,8 +1298,8 @@
                             "appunti.md"
                         ]
                     },
-                    "venerd\u00ec_08": {
-                        "08_00_06": [
+                    "venerd\u00ec_15": {
+                        "08_09_38": [
                             "appunti.md"
                         ]
                     },
@@ -1587,25 +1313,20 @@
                             "appunti.md"
                         ]
                     },
-                    "venerd\u00ec_15": {
-                        "08_09_38": [
+                    "venerd\u00ec_08": {
+                        "08_00_06": [
                             "appunti.md"
                         ]
                     }
                 },
                 "febbraio": {
-                    "gioved\u00ec_25": {
-                        "08_07_39": [
+                    "venerd\u00ec_26": {
+                        "08_02_42": [
                             "appunti.md"
                         ]
                     },
-                    "gioved\u00ec_18": {
-                        "08_06_12": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_05": {
-                        "08_06_55": [
+                    "marted\u00ec_23": {
+                        "12_10_36": [
                             "appunti.md"
                         ]
                     },
@@ -1614,45 +1335,30 @@
                             "appunti.md"
                         ]
                     },
-                    "venerd\u00ec_26": {
-                        "08_02_42": [
-                            "appunti.md"
-                        ]
-                    },
                     "marted\u00ec_02": {
                         "12_06_28": [
                             "appunti.md"
                         ]
                     },
-                    "marted\u00ec_23": {
-                        "12_10_36": [
+                    "venerd\u00ec_05": {
+                        "08_06_55": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_18": {
+                        "08_06_12": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_25": {
+                        "08_07_39": [
                             "appunti.md"
                         ]
                     }
                 },
                 "maggio": {
-                    "marted\u00ec_25": {
-                        "12_07_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_04": {
-                        "12_10_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_18": {
-                        "12_11_00": [
-                            "appunti.md"
-                        ]
-                    },
                     "venerd\u00ec_21": {
                         "08_27_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_28": {
-                        "08_00_00": [
                             "appunti.md"
                         ]
                     },
@@ -1661,8 +1367,13 @@
                             "appunti.md"
                         ]
                     },
-                    "gioved\u00ec_20": {
-                        "07_56_00": [
+                    "marted\u00ec_18": {
+                        "12_11_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_25": {
+                        "12_07_00": [
                             "appunti.md"
                         ]
                     },
@@ -1671,67 +1382,30 @@
                             "appunti.md"
                         ]
                     },
+                    "gioved\u00ec_20": {
+                        "07_56_00": [
+                            "appunti.md"
+                        ]
+                    },
                     "gioved\u00ec_13": {
                         "compito": [
                             "tipologiaB.md.md"
                         ]
-                    }
-                },
-                "marzo": {
-                    "gioved\u00ec_18": {
-                        "08_00_31": [
+                    },
+                    "marted\u00ec_04": {
+                        "12_10_00": [
                             "appunti.md"
                         ]
                     },
-                    "marted\u00ec_09": {
-                        "12_02_52": [
-                            "appunti.md"
-                        ]
-                    },
-                    "gioved\u00ec_25": {
-                        "08_04_34": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_12": {
-                        "08_03_40": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_19": {
-                        "08_00_43": [
-                            "appunti.md"
-                        ]
-                    },
-                    "venerd\u00ec_26": {
-                        "08_05_53": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_23": {
-                        "12_09_23": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_30": {
-                        "12_13_02": [
-                            "appunti.md"
-                        ]
-                    },
-                    "gioved\u00ec_11": {
-                        "08_04_50": [
-                            "appunti.md"
-                        ]
-                    },
-                    "marted\u00ec_16": {
-                        "12_06_06": [
+                    "venerd\u00ec_28": {
+                        "08_00_00": [
                             "appunti.md"
                         ]
                     }
                 },
                 "aprile": {
-                    "gioved\u00ec_22": {
-                        "08_05_58": [
+                    "marted\u00ec_20": {
+                        "12_13_32": [
                             "appunti.md"
                         ]
                     },
@@ -1740,15 +1414,14 @@
                             "appunti.md"
                         ]
                     },
-                    "marted\u00ec_20": {
-                        "12_13_32": [
+                    "gioved\u00ec_22": {
+                        "08_05_58": [
                             "appunti.md"
                         ]
                     },
-                    "sabato_25": {
-                        "10_30_22": [
-                            "Italiano per Marted\u00ec 27 ripasso.md",
-                            "Italiano per Marted\u00ec 27 ripasso.pdf"
+                    "venerd\u00ec_16": {
+                        "08_02_33": [
+                            "appunti.md"
                         ]
                     },
                     "marted\u00ec_13": {
@@ -1761,9 +1434,15 @@
                             "appunti.md"
                         ]
                     },
-                    "venerd\u00ec_16": {
-                        "08_02_33": [
+                    "gioved\u00ec_29": {
+                        "08_00_00": [
                             "appunti.md"
+                        ]
+                    },
+                    "sabato_25": {
+                        "10_30_22": [
+                            "Italiano per Marted\u00ec 27 ripasso.md",
+                            "Italiano per Marted\u00ec 27 ripasso.pdf"
                         ]
                     },
                     "venerd\u00ec_09": {
@@ -1771,16 +1450,337 @@
                             "appunti.md"
                         ]
                     },
-                    "gioved\u00ec_29": {
-                        "08_00_00": [
+                    "gioved\u00ec_08": {
+                        "09_19_03": [
+                            "appunti.md"
+                        ],
+                        "09_19_23": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "marzo": {
+                    "venerd\u00ec_12": {
+                        "08_03_40": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_16": {
+                        "12_06_06": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_23": {
+                        "12_09_23": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_26": {
+                        "08_05_53": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_11": {
+                        "08_04_50": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_19": {
+                        "08_00_43": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_30": {
+                        "12_13_02": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_09": {
+                        "12_02_52": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_18": {
+                        "08_00_31": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_25": {
+                        "08_04_34": [
+                            "appunti.md"
+                        ]
+                    }
+                }
+            }
+        },
+        "Inglese": {
+            "2020": {
+                "novembre": {
+                    "luned\u00ec_23": {
+                        "12_00_15": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_27": {
+                        "09_00_24": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_24": {
+                        "10_00_22": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_30": {
+                        "12_00_18": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "dicembre": {
+                    "luned\u00ec_14": {
+                        "12_02_03": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_21": {
+                        "12_02_24": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_04": {
+                        "09_05_16": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_18": {
+                        "09_00_48": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_11": {
+                        "09_00_14": [
+                            "appunti.md"
+                        ]
+                    }
+                }
+            },
+            "2021": {
+                "gennaio": {
+                    "marted\u00ec_12": {
+                        "10_17_37": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_11": {
+                        "12_22_03": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_08": {
+                        "09_00_49": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "febbraio": {
+                    "luned\u00ec_22": {
+                        "12_01_36": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_01": {
+                        "12_13_35": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_02": {
+                        "10_00_07": [
+                            "appunti.md"
+                        ],
+                        "16_31_30": [
+                            "compito_per_venerd\u00ec.md"
+                        ]
+                    }
+                },
+                "ottobre": {
+                    "luned\u00ec_04": {
+                        "13_03_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_01": {
+                        "10_20_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_05": {
+                        "10_16_00": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "giugno": {
+                    "marted\u00ec_01": {
+                        "09_55_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_08": [
+                        "compiti.md"
+                    ],
+                    "venerd\u00ec_04": {
+                        "09_08_00": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "settembre": {
+                    "mercoled\u00ec_15": {
+                        "08_57_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_13": {
+                        "07_07_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_17": {
+                        "11_08_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_29": {
+                        "11_15_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "0": "MarkheimJekyllGray.md.md"
+                },
+                "marzo": {
+                    "venerd\u00ec_26": {
+                        "09_36_24": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_12": {
+                        "09_02_24": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_22": {
+                        "12_00_31": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_15": [
+                        "Compiti di Inglese 15 03 2021.md"
+                    ],
+                    "luned\u00ec_08": {
+                        "12_01_49": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_30": {
+                        "10_03_13": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_09": {
+                        "10_01_31": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "aprile": {
+                    "marted\u00ec_20": {
+                        "10_00_38": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_13": {
+                        "10_05_25": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_27": {
+                        "09_50_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_30": {
+                        "08_54_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_19": {
+                        "12_00_05": [
                             "appunti.md"
                         ]
                     },
                     "gioved\u00ec_08": {
-                        "09_19_23": [
+                        "12_00_00": [
                             "appunti.md"
-                        ],
-                        "09_19_03": [
+                        ]
+                    },
+                    "venerd\u00ec_09": {
+                        "09_06_50": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_12": {
+                        "00_24_00": [
+                            "restmon.pdf"
+                        ]
+                    }
+                },
+                "maggio": {
+                    "luned\u00ec_31": {
+                        "12_08_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_03": {
+                        "12_00_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_21": {
+                        "09_00_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "sabato_22": {
+                        "10_11_34": [
+                            "ripasso.md"
+                        ]
+                    },
+                    "marted\u00ec_25": {
+                        "09_52_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_10": [
+                        "ripassomix.md"
+                    ],
+                    "marted\u00ec_18": {
+                        "10_00_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "marted\u00ec_04": {
+                        "09_51_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "venerd\u00ec_28": {
+                        "09_00_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "luned\u00ec_17": {
+                        "12_07_00": [
                             "appunti.md"
                         ]
                     }
@@ -1798,23 +1798,18 @@
                     }
                 },
                 "dicembre": {
-                    "gioved\u00ec_03": {
-                        "10_25_11": [
+                    "marted\u00ec_01": {
+                        "09_03_19": [
                             "appunti.md"
                         ]
                     },
-                    "marted\u00ec_01": {
-                        "09_03_19": [
+                    "gioved\u00ec_03": {
+                        "10_25_11": [
                             "appunti.md"
                         ]
                     }
                 },
                 "novembre": {
-                    "gioved\u00ec_26": {
-                        "11_16_25": [
-                            "appunti.md"
-                        ]
-                    },
                     "venerd\u00ec_27": {
                         "12_00_31": [
                             "appunti.md"
@@ -1822,6 +1817,11 @@
                     },
                     "marted\u00ec_24": {
                         "09_00_29": [
+                            "appunti.md"
+                        ]
+                    },
+                    "gioved\u00ec_26": {
+                        "11_16_25": [
                             "appunti.md"
                         ]
                     }
@@ -1843,13 +1843,13 @@
                     }
                 },
                 "ottobre": {
-                    "marted\u00ec_05": {
-                        "13_33_00": [
+                    "venerd\u00ec_01": {
+                        "08_19_00": [
                             "appunti.md"
                         ]
                     },
-                    "venerd\u00ec_01": {
-                        "08_19_00": [
+                    "marted\u00ec_05": {
+                        "13_33_00": [
                             "appunti.md"
                         ]
                     }
@@ -1872,11 +1872,6 @@
                     }
                 },
                 "settembre": {
-                    "venerd\u00ec_24": {
-                        "10_00_00": [
-                            "appunti.md"
-                        ]
-                    },
                     "mercoled\u00ec_15": {
                         "10_05_00": [
                             "appunti.md"
@@ -1884,21 +1879,16 @@
                     },
                     "luned\u00ec_27": [
                         "compiti.md"
-                    ]
+                    ],
+                    "venerd\u00ec_24": {
+                        "10_00_00": [
+                            "appunti.md"
+                        ]
+                    }
                 },
                 "maggio": {
-                    "marted\u00ec_04": {
-                        "08_58_00": [
-                            "appunti.md"
-                        ]
-                    },
                     "marted\u00ec_11": {
                         "08_56_00": [
-                            "appunti.md"
-                        ]
-                    },
-                    "mercoled\u00ec_12": {
-                        "09_59_00": [
                             "appunti.md"
                         ]
                     },
@@ -1907,8 +1897,18 @@
                             "appunti.md"
                         ]
                     },
+                    "marted\u00ec_04": {
+                        "08_58_00": [
+                            "appunti.md"
+                        ]
+                    },
                     "gioved\u00ec_06": {
                         "09_56_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_12": {
+                        "09_59_00": [
                             "appunti.md"
                         ]
                     }
@@ -2059,8 +2059,8 @@
         }
     ],
     "lastUpdate": {
-        "unix": 1633589269,
-        "human": "07\/10\/2021 06:47:49",
+        "unix": 1633591160,
+        "human": "07\/10\/2021 07:19:20",
         "timezone": "UTC"
     }
 }
