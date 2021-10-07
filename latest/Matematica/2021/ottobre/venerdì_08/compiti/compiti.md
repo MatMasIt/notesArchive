@@ -116,8 +116,17 @@ $$
 A=\left\{x\in \R:x=(-1)^n\left(\frac{1}{n}+2\right), n\in \N-\{0\}\right\}
 $$
 
-$min(A)=-3
+$min(A)=-3$
+
+$max(A)=2$
+
+
+#### es. 65
+
+$$
+A=\left{z\in \R:x=xy, [1,3]\cap\ri
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTUxMzgyMCwtMTIzMzI3NzYzMywtOT
-cwMTcwNjI3LDExMTIwMTY1NF19
+eyJoaXN0b3J5IjpbLTE1NjkyMjYxMjYsLTEyMzMyNzc2MzMsLT
+k3MDE3MDYyNywxMTEyMDE2NTRdfQ==
 -->
