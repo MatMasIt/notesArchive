@@ -77,7 +77,20 @@ $min(A)=-1$
 $sup(A)=+\infin$
 
 #### es. 61
+
+$$
+A=\left\{x\in\R:e^{x^2}\geq e^x \right\}
+$$
+
+
+$$
+x^2\geq x
+$$
+
+$$
+x(x-1) \geq 0
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTUxNzI0MTksLTEyMzMyNzc2MzMsLT
-k3MDE3MDYyNywxMTEyMDE2NTRdfQ==
+eyJoaXN0b3J5IjpbMTEzODcwOTYzNywtMTIzMzI3NzYzMywtOT
+cwMTcwNjI3LDExMTIwMTY1NF19
 -->
