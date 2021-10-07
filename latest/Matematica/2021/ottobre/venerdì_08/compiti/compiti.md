@@ -113,9 +113,11 @@ $\Huge max(A)=\frac14$
 #### es. 64
 
 $$
-A=\left\{x\in \R:x=(-1)^n\left(\frac{1}{n}+2\right), con n\in \\right\}
+A=\left\{x\in \R:x=(-1)^n\left(\frac{1}{n}+2\right), n\in \N-\{0\}\right\}
 $$
+
+$min(A)=-3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxMjI4MTQsLTEyMzMyNzc2MzMsLTk3MD
-E3MDYyNywxMTEyMDE2NTRdfQ==
+eyJoaXN0b3J5IjpbLTc3OTUxMzgyMCwtMTIzMzI3NzYzMywtOT
+cwMTcwNjI3LDExMTIwMTY1NF19
 -->
