@@ -97,7 +97,11 @@ $$
 $$
 \huge(-\infin,0]\cup[1,+\infin)
 $$
+
+#### es. 63
+
+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTU0NTUyMTEsLTEyMzMyNzc2MzMsLT
-k3MDE3MDYyNywxMTEyMDE2NTRdfQ==
+eyJoaXN0b3J5IjpbOTg5MDA2MzgyLC0xMjMzMjc3NjMzLC05Nz
+AxNzA2MjcsMTExMjAxNjU0XX0=
 -->
