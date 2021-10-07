@@ -1,5 +1,7 @@
-# Compiti di Matematica ## Giovedì 16 settembre 2021, 10:10:00
+# Compiti di Matematica 
+## Venerdì 8 settembre 2021
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTcxOTc3OF19
+eyJoaXN0b3J5IjpbLTE4NzU2NDczXX0=
 -->
