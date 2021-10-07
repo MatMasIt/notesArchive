@@ -7,16 +7,6 @@
     <title>Appunti di Mattia</title>
 
     <link href="web fonts/cmuserif_roman_macroman/stylesheet.css" rel="stylesheet">
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-      <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-          showProcessingMessages: false,
-          tex2jax: { inlineMath: [['$','$'],['\\(','\\)']] },
-          TeX: { equationNumbers: {autoNumber: "AMS"} }
-        });
-      </script>
-    <script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/styles/default.min.css">
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/highlight.min.js"></script>
     <script src="delegate.js"></script>
@@ -102,6 +92,20 @@
                         var d = new Date();
                         var dat= pad(d.getDay(),2)+"/"+pad(d.getMonth(),2)+"/"+d.getFullYear()+" "+pad(d.getHours(),2)+":"+pad(d.getMinutes(),2)+":"+pad(d.getSeconds(),2);
                         document.getElementById("headerH").innerHTML="<p>Archivio degli appunti di Mattia Mascarello</p><br /><table><tr><th>Path</th><th>md5</th><th>Data</th><th>UUID</th></tr><tr><td>"+c+"</td><td>"+MD5(unescape(encodeURIComponent(text)))+"</td><td>"+dat+"</td><td>"+uuidv4()+"</td></tr></table>";
+			    (function () {
+			  var head = document.getElementsByTagName("head")[0], script;
+			  script = document.createElement("script");
+			  script.type = "text/x-mathjax-config";
+			  script[(window.opera ? "innerHTML" : "text")] =
+			    "MathJax.Hub.Config({\n" +
+			    "  tex2jax: { inlineMath: [['$','$'], ['\\\\(','\\\\)']] }\n" +
+			    "});";
+			  head.appendChild(script);
+			  script = document.createElement("script");
+			  script.type = "text/javascript";
+			  script.src  = "https://example.com/MathJax.js?config=TeX-AMS-MML_CHTML";
+			  head.appendChild(script);
+			})();
                     })
                 }
             });
