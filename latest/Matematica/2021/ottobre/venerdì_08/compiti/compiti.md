@@ -4,8 +4,8 @@
 ### p. 30
 #### es. 59
 $$
-A=\left\{\right}
+A=\left\{\right\}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjAxNjU0XX0=
+eyJoaXN0b3J5IjpbMjg3Njk4NDg2LDExMTIwMTY1NF19
 -->
