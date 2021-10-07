@@ -46,8 +46,9 @@ $$
 [-2,0]\cup(3,+\infin)
 $$
 
-Estremo inferiore: -2
+Minimo: $-2$
+Massimo: $+\infin$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzM5NzU3NCwxMTEyMDE2NTRdfQ==
+eyJoaXN0b3J5IjpbLTk3MDE3MDYyNywxMTEyMDE2NTRdfQ==
 -->
