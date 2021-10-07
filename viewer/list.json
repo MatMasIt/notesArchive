@@ -690,6 +690,11 @@
                         "09_10_00": [
                             "appunti.md"
                         ]
+                    },
+                    "venerd\u00ec_08": {
+                        "compiti": [
+                            "compiti.md"
+                        ]
                     }
                 },
                 "aprile": {
@@ -2059,8 +2064,8 @@
         }
     ],
     "lastUpdate": {
-        "unix": 1633635477,
-        "human": "07\/10\/2021 19:37:57",
+        "unix": 1633637982,
+        "human": "07\/10\/2021 20:19:42",
         "timezone": "UTC"
     }
 }
