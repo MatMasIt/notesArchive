@@ -100,8 +100,10 @@ $$
 
 #### es. 63
 
-$
+$$
+A=\left\{x\in \R; x=\frac{(-1)^n}{n+4},n\in \N\right\}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5MDA2MzgyLC0xMjMzMjc3NjMzLC05Nz
-AxNzA2MjcsMTExMjAxNjU0XX0=
+eyJoaXN0b3J5IjpbMjA0Njg4MzkzNSwtMTIzMzI3NzYzMywtOT
+cwMTcwNjI3LDExMTIwMTY1NF19
 -->
