@@ -72,7 +72,12 @@ $$
 $$
 1<x<0\quad \lor \quad x>1
 $$
+
+$min(A)=-1$
+$sup(A)=+\infin$
+
+#### es. 61
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzMyNzc2MzMsLTk3MDE3MDYyNywxMT
-EyMDE2NTRdfQ==
+eyJoaXN0b3J5IjpbLTE3NTUxNzI0MTksLTEyMzMyNzc2MzMsLT
+k3MDE3MDYyNywxMTEyMDE2NTRdfQ==
 -->
