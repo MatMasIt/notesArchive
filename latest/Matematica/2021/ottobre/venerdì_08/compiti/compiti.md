@@ -124,9 +124,9 @@ $max(A)=2$
 #### es. 65
 
 $$
-A=\left{z\in \R:x=xy, [1,3]\cap\ri
+A=\left\{z\in \R:x=xy, x\to[1,3]\cap y\to(-4,-2]\right \}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjkyMjYxMjYsLTEyMzMyNzc2MzMsLT
-k3MDE3MDYyNywxMTEyMDE2NTRdfQ==
+eyJoaXN0b3J5IjpbMTE2OTMxMTY0NiwtMTIzMzI3NzYzMywtOT
+cwMTcwNjI3LDExMTIwMTY1NF19
 -->
