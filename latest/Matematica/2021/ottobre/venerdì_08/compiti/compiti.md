@@ -111,7 +111,11 @@ $\Huge n=1, x=-\frac{1}{5}$
 $\Huge max(A)=\frac14$
 
 #### es. 64
+
+$$
+A=\left\{x\in \R:x=(-1)^n\left(\frac{1}{n}+2\right), con n\in \\right\}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzY2NTUxLC0xMjMzMjc3NjMzLC05Nz
-AxNzA2MjcsMTExMjAxNjU0XX0=
+eyJoaXN0b3J5IjpbMjMxMjI4MTQsLTEyMzMyNzc2MzMsLTk3MD
+E3MDYyNywxMTEyMDE2NTRdfQ==
 -->
