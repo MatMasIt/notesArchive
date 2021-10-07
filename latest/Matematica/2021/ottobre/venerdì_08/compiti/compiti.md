@@ -10,8 +10,16 @@ $$
 
 $$
 N \geq 0 \Large |\small  x+2\geq 0\to x\geq-2\\
-D > 0 \Large |\small  x^2-3x>0 \to x(x-3)>0 \to
+D > 0 \Large |\small  x^2-3x>0 \to x(x-3)>0 
 $$
+
+Calcolo D
+$$
+F_1: x>0\\
+F_2: x-3 >0 \to x >3
+$$
+
+\
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc5NzQwOTgsMTExMjAxNjU0XX0=
+eyJoaXN0b3J5IjpbLTE4ODc3NjM1ODcsMTExMjAxNjU0XX0=
 -->
