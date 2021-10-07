@@ -10,8 +10,8 @@ $$
 
 $$
 N \geq 0 \Large |\small  x+2\geq 0\to x\geq-2\\
-N \geq 0 \Large |\small  x+2\geq 0\to x\geq-2
+D > 0 \Large |\small  x^2-3x>0 \to x(x-3)>0 \to
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4NDA1MzQzLDExMTIwMTY1NF19
+eyJoaXN0b3J5IjpbLTE5Mzc5NzQwOTgsMTExMjAxNjU0XX0=
 -->
