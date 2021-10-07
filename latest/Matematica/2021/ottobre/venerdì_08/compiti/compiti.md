@@ -9,8 +9,8 @@ $$
 
 
 $$
-N \geq 0 \Large |\small  x+2\geq 0\to x\geq-2\\
-D > 0 \Large |\small  x^2-3x>0 \to x(x-3)>0 
+N \geq 0 \quad \Large |\small \quad x+2\geq 0\to x\geq-2\\
+D > 0 \quad \Large |\small \quad  x^2-3x>0 \to x(x-3)>0 
 $$
 
 Calcolo D
@@ -58,9 +58,21 @@ A=\left\{x\in\R:e^{\frac{1}{x}}\leq e^x \right\}
 $$
 
 $$
-\frac1{x}<x\ \frac{1-x^2}{x}<0
+\frac1{x}<x
+$$
+$$
+ \frac{1-x^2}{x}<0
+$$
+$$
+\frac{-\left(x+1\right)\left(x-1\right)}{x}<0
+$$
+$$
+\frac{-\left(x+1\right)\left(x-1\right)}{x}<0
+$$
+$$
+1<x<0\quad \lor \quad x>1
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxMTY3MTIsLTk3MDE3MDYyNywxMTEyMD
-E2NTRdfQ==
+eyJoaXN0b3J5IjpbLTEyMzMyNzc2MzMsLTk3MDE3MDYyNywxMT
+EyMDE2NTRdfQ==
 -->
