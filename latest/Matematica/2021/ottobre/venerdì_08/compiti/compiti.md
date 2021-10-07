@@ -49,6 +49,14 @@ $$
 Minimo: $-2$
 Massimo: $+\infin$
 
+---
+
+#### es. 60
+
+$$
+A=\left\{x\in\R:e^{\frac{1}{x}}\leq \right\}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDE3MDYyNywxMTEyMDE2NTRdfQ==
+eyJoaXN0b3J5IjpbNjQ3MTk0ODY0LC05NzAxNzA2MjcsMTExMj
+AxNjU0XX0=
 -->
