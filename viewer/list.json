@@ -830,13 +830,6 @@
                 }
             },
             "2021": {
-                "ottobre": {
-                    "mercoled\u00ec_06": {
-                        "11_15_00": [
-                            "appunti.md"
-                        ]
-                    }
-                },
                 "settembre": {
                     "mercoled\u00ec_15": {
                         "08_05_00": [
@@ -845,6 +838,16 @@
                     },
                     "marted\u00ec_21": {
                         "10_00_00": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "ottobre": {
+                    "gioved\u00ec_07": [
+                        "appunti.md.md"
+                    ],
+                    "mercoled\u00ec_06": {
+                        "11_15_00": [
                             "appunti.md"
                         ]
                     }
@@ -1944,6 +1947,13 @@
             "humanDay": "mercoled\u00ec 06 ottobre 2021"
         },
         {
+            "path": "latest\/Storia\/2021\/ottobre\/gioved\u00ec_07\/appunti.md.md",
+            "size": 289,
+            "subject": "Storia",
+            "extract": "httpsiimgurcomwNhmOXSjpg  httpsiimgurcomhuhOJSdjpg  ",
+            "humanDay": "gioved\u00ec 07 ottobre 2021"
+        },
+        {
             "path": "latest\/Storia\/2021\/marzo\/venerd\u00ec_26\/10_00_25\/appunti.md",
             "size": 13940,
             "subject": "Storia",
@@ -2054,18 +2064,11 @@
             "subject": "Storia",
             "extract": "      In Inghilterra dopo Elisabetta prima giunge Giacomo I    essere a capo della Chiesa  vantaggio non irrilevante    affermare potere assolutistico    Inghilterra  punto di vista religioso plurale    agguerrita e crescente quota di aderenti al puritanesimo calvinismo inglese    puritani  bisogna ",
             "humanDay": "venerd\u00ec 27 novembre 2020"
-        },
-        {
-            "path": "latest\/Storia\/2020\/dicembre\/mercoled\u00ec_16\/13_04_22\/appunti.md",
-            "size": 1207,
-            "subject": "Storia",
-            "extract": "  filsospagnola    consiglieri italiani        danno abolizione vendita cariche pubbliche    Intendenti    borghesia  nobilt\u00e0 di toga    esito ugonotti  Olanda Inghilterra    smascherare falsi nobili    ridurre corruzione    intendenti e giustizia    flotta inglese non olandese    giansenismo opere ",
-            "humanDay": "mercoled\u00ec 16 dicembre 2020"
         }
     ],
     "lastUpdate": {
-        "unix": 1633641421,
-        "human": "07\/10\/2021 21:17:01",
+        "unix": 1633642758,
+        "human": "07\/10\/2021 21:39:18",
         "timezone": "UTC"
     }
 }
