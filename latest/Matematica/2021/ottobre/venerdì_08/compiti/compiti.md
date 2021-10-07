@@ -24,7 +24,7 @@ $$
 F1   -  |   +  |   +
 F2   -  |   -  |   +
 -----------------------
-R    (+)    -     (+)
+R   (+) |   -  |  (+)
 ```
 
 
@@ -33,11 +33,11 @@ Calcolo N/D
 ```
 
 --------[-2]--------[0]--------[3]------
-N    -   |   +    |   +
-D    -  |   -  |   +
+N    -   |     +     |     +    |    +
+D    +   |     -     |     -    |    +
 -----------------------
-R    (+)    -     (+)
+R   (+) |   -  |  (+)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTkzODgyNzksMTExMjAxNjU0XX0=
+eyJoaXN0b3J5IjpbLTk1MDMyNzM4OSwxMTEyMDE2NTRdfQ==
 -->
