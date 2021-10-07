@@ -34,10 +34,13 @@ Calcolo N/D
 
 --------[-2]--------[0]--------[3]------
 N    -   |     +     |     +    |    +
-D    +   |     -     |     -    |    +
------------------------
-R   (+) |   -  |  (+)
+D    +   |     +     |     -    |    +
+----------------------------------------
+R   -    |    (+)    |     -    |   (+) 
 ```
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDMyNzM4OSwxMTEyMDE2NTRdfQ==
+eyJoaXN0b3J5IjpbLTE4Mjk3MjcwODksMTExMjAxNjU0XX0=
 -->
