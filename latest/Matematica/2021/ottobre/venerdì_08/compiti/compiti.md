@@ -103,7 +103,11 @@ $$
 $$
 A=\left\{x\in \R; x=\frac{(-1)^n}{n+4},n\in \N\right\}
 $$
+
+min
+
+$n=1, x=-\frac{1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Njg4MzkzNSwtMTIzMzI3NzYzMywtOT
-cwMTcwNjI3LDExMTIwMTY1NF19
+eyJoaXN0b3J5IjpbNzUyMjczMDE1LC0xMjMzMjc3NjMzLC05Nz
+AxNzA2MjcsMTExMjAxNjU0XX0=
 -->
