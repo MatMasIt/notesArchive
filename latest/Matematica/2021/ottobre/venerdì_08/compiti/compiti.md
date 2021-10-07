@@ -106,8 +106,12 @@ $$
 
 min
 
-$n=1, x=-\frac{1
+$\Huge n=1, x=-\frac{1}{5}$
+
+$\Huge max(A)=\frac14$
+
+#### es. 64
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyMjczMDE1LC0xMjMzMjc3NjMzLC05Nz
+eyJoaXN0b3J5IjpbMjA0NzY2NTUxLC0xMjMzMjc3NjMzLC05Nz
 AxNzA2MjcsMTExMjAxNjU0XX0=
 -->
