@@ -54,9 +54,13 @@ Massimo: $+\infin$
 #### es. 60
 
 $$
-A=\left\{x\in\R:e^{\frac{1}{x}}\leq \right\}
+A=\left\{x\in\R:e^{\frac{1}{x}}\leq e^x \right\}
+$$
+
+$$
+\frac1{x}<x\ \frac{1-x^2}{x}<0
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3MTk0ODY0LC05NzAxNzA2MjcsMTExMj
-AxNjU0XX0=
+eyJoaXN0b3J5IjpbNjUxMTY3MTIsLTk3MDE3MDYyNywxMTEyMD
+E2NTRdfQ==
 -->
