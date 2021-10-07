@@ -43,7 +43,7 @@ R   -    |    (+)    |     -    |   (+)
 Intervallo:
 
 $$
-[-2,0]\cup(3,+\infin)
+\huge [-2,0]\cup(3,+\infin)
 $$
 
 Minimo: $-2$
@@ -72,6 +72,9 @@ $$
 $$
 1<x<0\quad \lor \quad x>1
 $$
+$$
+\Huge (1,0)\cup(1,+\infin)
+$$
 
 $min(A)=-1$
 $sup(A)=+\infin$
@@ -90,7 +93,11 @@ $$
 $$
 x(x-1) \geq 0
 $$
+
+$$
+\huge(-\infin,0]\cup[1,+\infin)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODcwOTYzNywtMTIzMzI3NzYzMywtOT
-cwMTcwNjI3LDExMTIwMTY1NF19
+eyJoaXN0b3J5IjpbLTExMTU0NTUyMTEsLTEyMzMyNzc2MzMsLT
+k3MDE3MDYyNywxMTEyMDE2NTRdfQ==
 -->
