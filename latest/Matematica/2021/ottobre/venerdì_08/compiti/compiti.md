@@ -40,7 +40,14 @@ R   -    |    (+)    |     -    |   (+)
 ```
 
 
+Intervallo:
+
+$$
+[-2,0]\cup(3,+\infin)
+$$
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjk3MjcwODksMTExMjAxNjU0XX0=
+eyJoaXN0b3J5IjpbMjA5MTk2ODU0MSwxMTEyMDE2NTRdfQ==
 -->
