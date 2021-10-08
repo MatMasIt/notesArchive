@@ -62,8 +62,8 @@ De saussure: francese
 
 parole: segni linguistici convenzionali
 
-
+Zanotto: Oltranza, andare oltre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTAwNTc4NiwxNDQ1NzM4NDIwLC01MD
-Q2OTUzMTMsMjEwMzgwNzI0Ml19
+eyJoaXN0b3J5IjpbNDI0NjkyMzIzLDEyMzUwMDU3ODYsMTQ0NT
+czODQyMCwtNTA0Njk1MzEzLDIxMDM4MDcyNDJdfQ==
 -->
