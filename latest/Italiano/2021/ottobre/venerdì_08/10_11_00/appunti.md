@@ -3,15 +3,19 @@
 
 # 1900
 
-		             1925               '50                       '68         
-		--------------@-------|-----------|--------|--------------|-----------['89-'91]-------
+		             1925               '50                      '68       '72      
+		--------------@-------|-----------|--------|--------------|---------|--------------['89-'91]-------
 		Avan-    E.Montale    |         Pier       |
-		guardie            Ermetismo    Paolo      Gruppo '63     Zanotto           Rappresentazione
-		storiche           Anni '39     Pasolini   Sanguineti           teatrale Divina
+		guardie            Ermetismo    Paolo      Gruppo '63    Zanotto  Giudici           Rappresentazione
+		storiche           Anni '39     Pasolini   Sanguineti                               teatrale Divina
 		                                           Neoavanguardie       Commedia
 		                                                                  Sanguineti: Inferno
 		                                                                  Purgatorio: Luzzi
 		                                                                  Paradiso: Giudici
+
+
+
+Guidici si sposta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU0NTYzMDRdfQ==
+eyJoaXN0b3J5IjpbMjA0NDI5NTc4XX0=
 -->
