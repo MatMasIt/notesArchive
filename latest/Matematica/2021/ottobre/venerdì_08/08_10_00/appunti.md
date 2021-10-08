@@ -81,7 +81,11 @@ $max,min=-3$
 Intorno di un punto di raggio $r > 0$
 
 Intorno **aperto** e chiuso
+
+Aperto $(x_o-r,x_o+r)$
+Aperto a sx $(x_0-r,x_o+r]$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzYwMzUwMSwtMTg5NjYyNjAzNiwxNT
-Q0MzYwMDQwLC03MTkyODc4NSwtOTc4NDQxODE0XX0=
+eyJoaXN0b3J5IjpbMzMyMDg3NDY0LC0xODk2NjI2MDM2LDE1ND
+QzNjAwNDAsLTcxOTI4Nzg1LC05Nzg0NDE4MTRdfQ==
 -->
