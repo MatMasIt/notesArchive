@@ -23,6 +23,10 @@ Giudici: istruzione cattolica ma propensione socialista
 
 2008, _Quanto sper di campar Giovanni__
 autobiografia del quitidiano, vita prosastica, prosaica
+
+
+Ironia
+impiegatuccio intellettuale me
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg1MDkwOF19
+eyJoaXN0b3J5IjpbOTY0NzM4NTkzXX0=
 -->
