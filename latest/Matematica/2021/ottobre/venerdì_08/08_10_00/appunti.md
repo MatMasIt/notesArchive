@@ -10,6 +10,8 @@ $$
 $$
 y=3-2^{-x}=3-\left(\frac12\right)^x
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODQ0MTgxNF19
+eyJoaXN0b3J5IjpbMTE2Mjk3MDk0LC05Nzg0NDE4MTRdfQ==
 -->
