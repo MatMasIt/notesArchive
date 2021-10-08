@@ -36,10 +36,12 @@ $$
 
 Ciclo rocce
 * magmatiche
+	* Intrusive (granito)
+	* effusive (basalto)
 * sedimetnarie
 * metamorfiche
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0NDcxMTM2LDE1NjM4NjQxMiwtMTM5Mz
-Q4NjYzOV19
+eyJoaXN0b3J5IjpbMTg5ODczMDQyNCwxNTYzODY0MTIsLTEzOT
+M0ODY2MzldfQ==
 -->
