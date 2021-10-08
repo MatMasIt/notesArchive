@@ -35,8 +35,13 @@ p.568 Divina Commedia
 
 
 
-con
+condizioni del conoscere anni '70 del 1900
+
+*Strutturalismo*
+Studi di linguistica
+
+Il linguaggio fa le
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NDM0OTU1LC01MDQ2OTUzMTMsMjEwMz
-gwNzI0Ml19
+eyJoaXN0b3J5IjpbMjEwNDYxNzM3OSwtNTA0Njk1MzEzLDIxMD
+M4MDcyNDJdfQ==
 -->
