@@ -15,8 +15,12 @@ proteine: complesso di maggiore istocompatibilità
 
 tolleranza sistema immunitario contro cellule organismo
 
-> Il sistema immunitario riconosce le proprie cellule in ase alle proteine esposte sulla superficie della membre
+> ==Il sistema immunitario riconosce le proprie cellule in ase alle proteine esposte sulla superficie della membrana plasmatica==
+
+$self$: _glicoproteine_ **MHC**
+
+Insieme di geni **MHC** *Major Histocompatibility Complex*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDA5MDg2MSw2MjM0NDE1NzEsLTc2ND
-E1NDMxNV19
+eyJoaXN0b3J5IjpbLTExNTgxNTEyNzksNjIzNDQxNTcxLC03Nj
+QxNTQzMTVdfQ==
 -->
