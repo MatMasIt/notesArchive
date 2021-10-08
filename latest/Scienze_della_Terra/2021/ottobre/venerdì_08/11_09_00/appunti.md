@@ -8,6 +8,12 @@ Minerali:
 Anione $SiO_4^{4-}$ da $H_4SiO_4$
 Tetraedrici, disposiziobe tetraedri classifica i silicati
 * non-silicatici
+
+
+
+---
+$KAlSi_3O_8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Mzg2NDEyLC0xMzkzNDg2NjM5XX0=
+eyJoaXN0b3J5IjpbMjk4OTYzNjA3LDE1NjM4NjQxMiwtMTM5Mz
+Q4NjYzOV19
 -->
