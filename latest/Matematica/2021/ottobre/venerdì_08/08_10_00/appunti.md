@@ -79,7 +79,9 @@ $max,min=-3$
 
 
 Intorno di un punto di raggio $r > 0$
+
+Intorno **aperto** e chiuso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzUwODEzNSwtMTg5NjYyNjAzNiwxNT
+eyJoaXN0b3J5IjpbMTE4NzYwMzUwMSwtMTg5NjYyNjAzNiwxNT
 Q0MzYwMDQwLC03MTkyODc4NSwtOTc4NDQxODE0XX0=
 -->
