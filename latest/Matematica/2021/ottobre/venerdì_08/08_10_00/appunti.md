@@ -40,9 +40,7 @@ $$
 x=\sin n
 $$
 
-$$
-\looparrowright\looparrowleft
-\$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MzA4MTQ2LC05Nzg0NDE4MTRdfQ==
+eyJoaXN0b3J5IjpbLTcwOTUwMDg5NSwtOTc4NDQxODE0XX0=
 -->
