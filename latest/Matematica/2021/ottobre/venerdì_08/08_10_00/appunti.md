@@ -71,7 +71,10 @@ $$
 $$
 A=A^{+}\cup A^{-}
 $$
+
+$inf/max=\frac52$
+$max,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY2MjYwMzYsMTU0NDM2MDA0MCwtNz
-E5Mjg3ODUsLTk3ODQ0MTgxNF19
+eyJoaXN0b3J5IjpbMTk5NzY4MTc5MiwtMTg5NjYyNjAzNiwxNT
+Q0MzYwMDQwLC03MTkyODc4NSwtOTc4NDQxODE0XX0=
 -->
