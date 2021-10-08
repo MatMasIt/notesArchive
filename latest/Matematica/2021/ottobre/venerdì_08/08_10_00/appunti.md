@@ -139,17 +139,23 @@ $[0,2]\cup[4,+\infin]$
 ### 88
 
 $$
-A=[0,1)
+A=[0,1)\cup\{5\}
 $$
 
 	0          1          5
 	@----------O          @
 
 $$
-[0,1]
+A'=[0,1]
+$
+
+### 95
+
+$$
+A=\left\{x\in\R : x=(-1)^n\frac{n+1}{n+2}\right\}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxMjUxNzY5LDg5MDQ4NTMwMSwtMTA2OT
+eyJoaXN0b3J5IjpbNDE1MzgxNzQzLDg5MDQ4NTMwMSwtMTA2OT
 IwMDI0OCwxOTc0MTMyNDkzLDE1NzQxMTcwNzgsLTE4OTY2MjYw
 MzYsMTU0NDM2MDA0MCwtNzE5Mjg3ODUsLTk3ODQ0MTgxNF19
 -->
