@@ -7,8 +7,8 @@ Risposta immunitaria umorale e cellulare
 
 Linfociti T effettori:
 * helper
-* citotossici
-
+* citotossici $(T_C)$ riconoscono le cellule infettate o mutate e le eliminano inducendone la lisi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzNDQxNTcxLC03NjQxNTQzMTVdfQ==
+eyJoaXN0b3J5IjpbLTE5MjYyMDk5MzQsNjIzNDQxNTcxLC03Nj
+QxNTQzMTVdfQ==
 -->
