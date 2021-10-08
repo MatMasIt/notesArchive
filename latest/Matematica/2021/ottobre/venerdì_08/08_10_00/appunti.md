@@ -30,8 +30,19 @@ y=y(x)
 $$
 
 $$
-y=\sin 
+y=\sin kx
 $$
+$$
+T=\frac{2\pi}{k}
+$$
+
+$$
+x=\sin n
+$$
+
+$$
+\looparrowright\looparrowleft
+\$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxMzQ5NDg0LC05Nzg0NDE4MTRdfQ==
+eyJoaXN0b3J5IjpbODg0MzA4MTQ2LC05Nzg0NDE4MTRdfQ==
 -->
