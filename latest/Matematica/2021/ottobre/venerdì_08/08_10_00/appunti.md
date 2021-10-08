@@ -18,6 +18,13 @@ $$
 Estremo inferiore: 0, che è anche il minimo
 estrem superiroe? sì 3
 non è il massimo
+
+### 67
+
+$$
+A=\left\{x \in \R
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM2MjA3NjAsLTk3ODQ0MTgxNF19
+eyJoaXN0b3J5IjpbMTgwNDI4MDcxMywtOTc4NDQxODE0XX0=
 -->
