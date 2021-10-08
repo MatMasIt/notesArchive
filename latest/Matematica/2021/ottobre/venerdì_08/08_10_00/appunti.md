@@ -72,9 +72,11 @@ $$
 A=A^{+}\cup A^{-}
 $$
 
-$inf/max=\frac52$
-$max,
+$inf,max=\frac52$
+$max,min=-3$
+
+# Punto di accumulazione di un insieme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzY4MTc5MiwtMTg5NjYyNjAzNiwxNT
-Q0MzYwMDQwLC03MTkyODc4NSwtOTc4NDQxODE0XX0=
+eyJoaXN0b3J5IjpbLTExNDA5ODIzNjgsLTE4OTY2MjYwMzYsMT
+U0NDM2MDA0MCwtNzE5Mjg3ODUsLTk3ODQ0MTgxNF19
 -->
