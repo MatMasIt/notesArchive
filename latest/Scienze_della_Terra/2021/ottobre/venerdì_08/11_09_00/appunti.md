@@ -12,8 +12,15 @@ Tetraedrici, disposiziobe tetraedri classifica i silicati
 
 
 ---
-$KAlSi_3O_8
+$KAlSi_3O_8$ Ortoclasio
+
+Anfiboli, pirosseni
+
+
+più una roccia è ricca di quarzo, più è acida
+
+magma acido: viscoso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4OTYzNjA3LDE1NjM4NjQxMiwtMTM5Mz
-Q4NjYzOV19
+eyJoaXN0b3J5IjpbLTE0NDQ3ODQ1MDMsMTU2Mzg2NDEyLC0xMz
+kzNDg2NjM5XX0=
 -->
