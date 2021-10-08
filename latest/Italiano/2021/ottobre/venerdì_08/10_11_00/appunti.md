@@ -9,8 +9,9 @@
 		guardie            Ermetismo    Paolo      Gruppo '63           Rappresentazione
 		storiche           Anni '39     Pasolini   Sanguineti           teatrale Divina
 		                                           Neoavanguardie       Commedia
-		                                           Sanguineti: Inferno
-		                                           
+		                                                                  Sanguineti: Inferno
+		                                                                  Purgatorio: Luzzi
+		                                                            Paradiso: Giudici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1OTE5Njg5XX0=
+eyJoaXN0b3J5IjpbLTY0NTE1OTAyNF19
 -->
