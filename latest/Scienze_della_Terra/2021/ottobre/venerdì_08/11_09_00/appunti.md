@@ -41,7 +41,8 @@ Ciclo rocce
 * sedimetnarie
 * metamorfiche
 
+p. 284, la dinamica della litosfera
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODczMDQyNCwxNTYzODY0MTIsLTEzOT
-M0ODY2MzldfQ==
+eyJoaXN0b3J5IjpbLTEyNzgzMjMwNjQsMTg5ODczMDQyNCwxNT
+YzODY0MTIsLTEzOTM0ODY2MzldfQ==
 -->
