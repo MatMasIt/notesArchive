@@ -20,12 +20,12 @@ tolleranza sistema immunitario contro cellule organismo
 $self$: _glicoproteine_ **MHC**
 
 Insieme di geni **MHC** *Major Histocompatibility Complex*
-Classi 
+Classi $MHC$
 * $I$
 * $II$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODk3NzU3OSw2MjM0NDE1NzEsLTc2ND
+eyJoaXN0b3J5IjpbLTgwNzg3NzM0MSw2MjM0NDE1NzEsLTc2ND
 E1NDMxNV19
 -->
