@@ -44,12 +44,19 @@ Il linguaggio fa le persone
 
 
 
-Beatrice nen salvifica
+Beatrice non salvifica
 
 salvezza terrena
 
+---
 
+9 ecloghe
+
+La Beltà, 1968
+
+
+petel: linguaggio infantile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzYzMDA2NCwxNDQ1NzM4NDIwLC01MD
+eyJoaXN0b3J5IjpbLTE3NDc1OTU5MywxNDQ1NzM4NDIwLC01MD
 Q2OTUzMTMsMjEwMzgwNzI0Ml19
 -->
