@@ -40,7 +40,8 @@ $$
 x=\sin n
 $$
 
+![](https://i.imgur.com/8Bq6LW6.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTUwMDg5NSwtOTc4NDQxODE0XX0=
+eyJoaXN0b3J5IjpbLTEyODkzOTUzOTIsLTk3ODQ0MTgxNF19
 -->
