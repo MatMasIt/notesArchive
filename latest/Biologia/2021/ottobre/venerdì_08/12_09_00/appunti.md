@@ -5,7 +5,10 @@ Risposta immunitaria umorale e cellulare
 
 
 
+Linfociti T effettori:
+* helper
+* citotossici
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDE1NDMxNV19
+eyJoaXN0b3J5IjpbNjIzNDQxNTcxLC03NjQxNTQzMTVdfQ==
 -->
