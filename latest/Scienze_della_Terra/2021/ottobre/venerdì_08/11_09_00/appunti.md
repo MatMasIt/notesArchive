@@ -29,7 +29,11 @@ $$
 CaCO_3
 $$
 insolubile
+
+$$
+Ca(HCO_3)_2
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwODUxMzA2LDE1NjM4NjQxMiwtMTM5Mz
-Q4NjYzOV19
+eyJoaXN0b3J5IjpbLTE0NTgxODE1ODQsMTU2Mzg2NDEyLC0xMz
+kzNDg2NjM5XX0=
 -->
