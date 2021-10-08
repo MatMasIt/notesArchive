@@ -95,13 +95,23 @@ A=\{1,2,3,4\}
 $$
 
 ---
+$A'\to$ insieme derivato di $A$
 $$
 A=(0,3]\\
 A'=[0,3]
 $$
 
+---
+$$
+A=(2,+\infin)\\
+A'=[2,+\infin]
+$$
+
+
+p. 32 es 82
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjkyMDAyNDgsMTk3NDEzMjQ5MywxNT
-c0MTE3MDc4LC0xODk2NjI2MDM2LDE1NDQzNjAwNDAsLTcxOTI4
-Nzg1LC05Nzg0NDE4MTRdfQ==
+eyJoaXN0b3J5IjpbLTIwNzEyNzg3ODUsLTEwNjkyMDAyNDgsMT
+k3NDEzMjQ5MywxNTc0MTE3MDc4LC0xODk2NjI2MDM2LDE1NDQz
+NjAwNDAsLTcxOTI4Nzg1LC05Nzg0NDE4MTRdfQ==
 -->
