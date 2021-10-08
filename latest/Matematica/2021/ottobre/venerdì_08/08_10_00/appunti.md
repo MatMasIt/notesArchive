@@ -42,6 +42,8 @@ $$
 
 ![](https://i.imgur.com/8Bq6LW6.jpg)
 
+Va poi contratta per $T=6$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODkzOTUzOTIsLTk3ODQ0MTgxNF19
+eyJoaXN0b3J5IjpbLTcxOTI4Nzg1LC05Nzg0NDE4MTRdfQ==
 -->
