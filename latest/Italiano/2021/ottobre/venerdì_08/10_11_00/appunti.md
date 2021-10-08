@@ -9,13 +9,16 @@
 		guardie            Ermetismo    Paolo      Gruppo '63    Zanotto  Giudici           Rappresentazione
 		storiche           Anni '39     Pasolini   Sanguineti                               teatrale Divina
 		                                           Neoavanguardie       Commedia
-		                                                                  Sanguineti: Inferno
-		                                                                  Purgatorio: Luzzi
-		                                                                  Paradiso: Giudici
+		                                                                                      Sanguineti: Inferno
+		                                                                                      Purgatorio: Luzzi
+		                                                                                      Paradiso: Giudici
 
 
 
-Guidici si sposta 
+Guidici si sposta a Milano da La Spezia
+Franco Fortini: impegno civile, politico
+
+Giudici: istruzione cattolica ma propensione socialista
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDI5NTc4XX0=
+eyJoaXN0b3J5IjpbLTEwODI3MzU3MjVdfQ==
 -->
