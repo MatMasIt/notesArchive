@@ -121,8 +121,19 @@ $$
 $$
 r=0,2\to(0,8;1,2)
 $$
+
+---
+
+86
+
+$$
+A=[0;2)\cup[4,+\infin)
+$$
+
+	0              
+	O-----|-----@    @-------- - - -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNDg1MzAxLC0xMDY5MjAwMjQ4LDE5Nz
-QxMzI0OTMsMTU3NDExNzA3OCwtMTg5NjYyNjAzNiwxNTQ0MzYw
-MDQwLC03MTkyODc4NSwtOTc4NDQxODE0XX0=
+eyJoaXN0b3J5IjpbNjkwMDc3MTk2LDg5MDQ4NTMwMSwtMTA2OT
+IwMDI0OCwxOTc0MTMyNDkzLDE1NzQxMTcwNzgsLTE4OTY2MjYw
+MzYsMTU0NDM2MDA0MCwtNzE5Mjg3ODUsLTk3ODQ0MTgxNF19
 -->
