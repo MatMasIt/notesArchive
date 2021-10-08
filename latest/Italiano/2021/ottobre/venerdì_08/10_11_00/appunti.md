@@ -56,7 +56,14 @@ La Beltà, 1968
 
 
 petel: linguaggio infantile
+
+
+De saussure: francese
+
+parole: segni linguistici convenzionali
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc1OTU5MywxNDQ1NzM4NDIwLC01MD
+eyJoaXN0b3J5IjpbMTIzNTAwNTc4NiwxNDQ1NzM4NDIwLC01MD
 Q2OTUzMTMsMjEwMzgwNzI0Ml19
 -->
