@@ -83,9 +83,11 @@ Intorno di un punto di raggio $r > 0$
 Intorno **aperto** e chiuso
 
 Aperto $(x_o-r,x_o+r)$
-Aperto a sx $(x_0-r,x_o+r]$
+Aperto a sx $(x_0-r,x_o+r]$ e chiuso a dx
+Aperto a dx $[x_0-r,x_0+r)$ e chiuso a sx
+Chiuso $[x_0-r,x_0+r]$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMDg3NDY0LC0xODk2NjI2MDM2LDE1ND
-QzNjAwNDAsLTcxOTI4Nzg1LC05Nzg0NDE4MTRdfQ==
+eyJoaXN0b3J5IjpbMTU3NDExNzA3OCwtMTg5NjYyNjAzNiwxNT
+Q0MzYwMDQwLC03MTkyODc4NSwtOTc4NDQxODE0XX0=
 -->
