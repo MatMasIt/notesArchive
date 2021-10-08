@@ -25,8 +25,13 @@ $$
 A=\left\{x \in \R: x= \sin\left(n\frac\pi3\right), n \in \N \right\}
 $$
 $$
-\sqcup
+x=x(n)\\
+y=y(x)
+$$
+
+$$
+y=\sin 
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDI5MDM2MDYsLTk3ODQ0MTgxNF19
+eyJoaXN0b3J5IjpbODAxMzQ5NDg0LC05Nzg0NDE4MTRdfQ==
 -->
