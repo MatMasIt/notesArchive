@@ -64,8 +64,14 @@ $$
 $$
 A^{+}=\left\{\frac52;\quad\frac94;\quad\frac{13}{6};\quad ...\right\}
 $$
+$$
+A^{-}=\left\{-3;\quad -\frac73;\quad-\frac{11}{5};\quad ...\right\}
+$$
 
+$$
+A=A^{+}\cup A^{-}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTI2MzU5MSwxNTQ0MzYwMDQwLC03MT
-kyODc4NSwtOTc4NDQxODE0XX0=
+eyJoaXN0b3J5IjpbLTE4OTY2MjYwMzYsMTU0NDM2MDA0MCwtNz
+E5Mjg3ODUsLTk3ODQ0MTgxNF19
 -->
