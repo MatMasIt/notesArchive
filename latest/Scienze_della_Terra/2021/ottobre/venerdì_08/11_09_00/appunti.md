@@ -31,9 +31,15 @@ $$
 insolubile
 
 $$
-Ca(HCO_3)_2
+Ca(HCO_3)_2\xrightarrow{CO_2}CaCO_3
 $$
+
+Ciclo rocce
+* magmatiche
+* sedimetnarie
+* metamorfiche
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgxODE1ODQsMTU2Mzg2NDEyLC0xMz
-kzNDg2NjM5XX0=
+eyJoaXN0b3J5IjpbODE0NDcxMTM2LDE1NjM4NjQxMiwtMTM5Mz
+Q4NjYzOV19
 -->
