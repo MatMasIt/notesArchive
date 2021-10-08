@@ -6,9 +6,11 @@
 		             1925               '50             
 		--------------@-------|-----------|--------|-----------------['89-'91]-------
 		Avan-    E.Montale    |         Pier       |
-		guardie            Ermetismo    Paolo      Gruppo '63          h
-		storiche           Anni '39     Pasolini   Sanguineti
-		                                           Neoavanguardie
+		guardie            Ermetismo    Paolo      Gruppo '63           Rappresentazione
+		storiche           Anni '39     Pasolini   Sanguineti           teatrale Divina
+		                                           Neoavanguardie       Commedia
+		                                           Sanguineti: Inferno
+		                                           
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjczNjQ4ODddfQ==
+eyJoaXN0b3J5IjpbODI1OTE5Njg5XX0=
 -->
