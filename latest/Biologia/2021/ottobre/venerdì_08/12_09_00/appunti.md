@@ -11,8 +11,12 @@ Linfociti T effettori:
 
 Linfociti diventano immunocompetenti nel timo
 
-proteine: comp
+proteine: complesso di maggiore istocompatibilità
+
+tolleranza sistema immunitario contro cellule organismo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjU2ODE3MCw2MjM0NDE1NzEsLTc2ND
+eyJoaXN0b3J5IjpbMTg2OTk1NTQ2MCw2MjM0NDE1NzEsLTc2ND
 E1NDMxNV19
 -->
