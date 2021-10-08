@@ -43,7 +43,8 @@ $$
 ![](https://i.imgur.com/8Bq6LW6.jpg)
 
 Va poi contratta per $T=6$
-
+![](https://i.imgur.com/389mEXp.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTI4Nzg1LC05Nzg0NDE4MTRdfQ==
+eyJoaXN0b3J5IjpbMTU0NDM2MDA0MCwtNzE5Mjg3ODUsLTk3OD
+Q0MTgxNF19
 -->
