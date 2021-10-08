@@ -110,8 +110,19 @@ $$
 
 p. 32 es 82
 
+
+
+$$
+A=\N\\
+\N=\{0,1,2,3\}
+$$
+
+
+$$
+r=0,2\to(0
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzEyNzg3ODUsLTEwNjkyMDAyNDgsMT
+eyJoaXN0b3J5IjpbLTE1NTg4MDQ2NDYsLTEwNjkyMDAyNDgsMT
 k3NDEzMjQ5MywxNTc0MTE3MDc4LC0xODk2NjI2MDM2LDE1NDQz
 NjAwNDAsLTcxOTI4Nzg1LC05Nzg0NDE4MTRdfQ==
 -->
