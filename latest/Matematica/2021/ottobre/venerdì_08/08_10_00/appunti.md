@@ -88,9 +88,13 @@ Aperto a dx $[x_0-r,x_0+r)$ e chiuso a sx
 Chiuso $[x_0-r,x_0+r]$
 
 
+punti isolati
 
+$$
+A=\{1,2,3,4\}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTc0NTk3MCwxNTc0MTE3MDc4LC0xOD
+eyJoaXN0b3J5IjpbMTk3NDEzMjQ5MywxNTc0MTE3MDc4LC0xOD
 k2NjI2MDM2LDE1NDQzNjAwNDAsLTcxOTI4Nzg1LC05Nzg0NDE4
 MTRdfQ==
 -->
