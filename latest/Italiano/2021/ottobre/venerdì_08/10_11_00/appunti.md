@@ -26,7 +26,9 @@ autobiografia del quitidiano, vita prosastica, prosaica
 
 
 Ironia
-impiegatuccio intellettuale me
+impiegatuccio intellettuale medio-borghese
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0NzM4NTkzXX0=
+eyJoaXN0b3J5IjpbLTE3MzcxMDg5MTldfQ==
 -->
