@@ -58,10 +58,14 @@ $$
 
 
 $$
-A=\left\{x \n R: x=(-1)^n\left(\frac1{n}+2\right),n\in \N-\{0\}\right\}
+A=\left\{x \in R: x=(-1)^n\left(\frac1{n}+2\right),n\in \N-\{0\}\right\}
+$$
+
+$$
+A^{+}=\left\{\frac52;\quad\frac94;\quad\frac{13}{6};\quad ...\right\}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE5MDIwMzAsMTU0NDM2MDA0MCwtNz
-E5Mjg3ODUsLTk3ODQ0MTgxNF19
+eyJoaXN0b3J5IjpbMTkyMTI2MzU5MSwxNTQ0MzYwMDQwLC03MT
+kyODc4NSwtOTc4NDQxODE0XX0=
 -->
