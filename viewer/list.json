@@ -1,5 +1,16 @@
 {
     "all": {
+        "Scienze_della_Terra": {
+            "2021": {
+                "ottobre": {
+                    "venerd\u00ec_08": {
+                        "11_09_00": [
+                            "appunti.md"
+                        ]
+                    }
+                }
+            }
+        },
         "Disegno": {
             "2020": {
                 "novembre": {
@@ -2078,8 +2089,8 @@
         }
     ],
     "lastUpdate": {
-        "unix": 1633682608,
-        "human": "08\/10\/2021 08:43:28",
+        "unix": 1633684773,
+        "human": "08\/10\/2021 09:19:33",
         "timezone": "UTC"
     }
 }
