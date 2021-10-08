@@ -76,7 +76,10 @@ $inf,max=\frac52$
 $max,min=-3$
 
 # Punto di accumulazione di un insieme
+
+
+Intorno di un punto di raggio $r > 0$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDA5ODIzNjgsLTE4OTY2MjYwMzYsMT
-U0NDM2MDA0MCwtNzE5Mjg3ODUsLTk3ODQ0MTgxNF19
+eyJoaXN0b3J5IjpbMTExNzUwODEzNSwtMTg5NjYyNjAzNiwxNT
+Q0MzYwMDQwLC03MTkyODc4NSwtOTc4NDQxODE0XX0=
 -->
