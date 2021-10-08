@@ -130,10 +130,13 @@ $$
 A=[0;2)\cup[4,+\infin)
 $$
 
-	0              
+	0           2    4
 	O-----|-----@    @-------- - - -
+
+$[0,2]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwMDc3MTk2LDg5MDQ4NTMwMSwtMTA2OT
-IwMDI0OCwxOTc0MTMyNDkzLDE1NzQxMTcwNzgsLTE4OTY2MjYw
-MzYsMTU0NDM2MDA0MCwtNzE5Mjg3ODUsLTk3ODQ0MTgxNF19
+eyJoaXN0b3J5IjpbLTIxMTgwNjY0MjAsODkwNDg1MzAxLC0xMD
+Y5MjAwMjQ4LDE5NzQxMzI0OTMsMTU3NDExNzA3OCwtMTg5NjYy
+NjAzNiwxNTQ0MzYwMDQwLC03MTkyODc4NSwtOTc4NDQxODE0XX
+0=
 -->
