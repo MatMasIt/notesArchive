@@ -22,9 +22,11 @@ non è il massimo
 ### 67
 
 $$
-A=\left\{x \in \R
+A=\left\{x \in \R: x= \sin\left(n\frac\pi3\right), n \in \N \right\}
 $$
-
+$$
+\sqcup
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDI4MDcxMywtOTc4NDQxODE0XX0=
+eyJoaXN0b3J5IjpbLTEwNDI5MDM2MDYsLTk3ODQ0MTgxNF19
 -->
