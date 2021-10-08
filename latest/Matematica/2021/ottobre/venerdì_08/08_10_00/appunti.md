@@ -87,7 +87,10 @@ Aperto a sx $(x_0-r,x_o+r]$ e chiuso a dx
 Aperto a dx $[x_0-r,x_0+r)$ e chiuso a sx
 Chiuso $[x_0-r,x_0+r]$
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDExNzA3OCwtMTg5NjYyNjAzNiwxNT
-Q0MzYwMDQwLC03MTkyODc4NSwtOTc4NDQxODE0XX0=
+eyJoaXN0b3J5IjpbMTgxMTc0NTk3MCwxNTc0MTE3MDc4LC0xOD
+k2NjI2MDM2LDE1NDQzNjAwNDAsLTcxOTI4Nzg1LC05Nzg0NDE4
+MTRdfQ==
 -->
