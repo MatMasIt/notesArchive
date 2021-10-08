@@ -20,7 +20,16 @@ Anfiboli, pirosseni
 più una roccia è ricca di quarzo, più è acida
 
 magma acido: viscoso
+
+$$
+CO^{-2}_3
+$$
+
+$$
+CaCO_3
+$$
+insolubile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ3ODQ1MDMsMTU2Mzg2NDEyLC0xMz
-kzNDg2NjM5XX0=
+eyJoaXN0b3J5IjpbNDkwODUxMzA2LDE1NjM4NjQxMiwtMTM5Mz
+Q4NjYzOV19
 -->
