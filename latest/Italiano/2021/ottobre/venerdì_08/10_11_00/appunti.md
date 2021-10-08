@@ -28,7 +28,7 @@ autobiografia del quitidiano, vita prosastica, prosaica
 Ironia
 impiegatuccio intellettuale medio-borghese
 
-
+Lingua: sperimentata dal gruppo '63
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcxMDg5MTldfQ==
+eyJoaXN0b3J5IjpbMjEwMzgwNzI0Ml19
 -->
