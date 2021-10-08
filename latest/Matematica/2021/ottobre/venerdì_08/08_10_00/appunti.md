@@ -53,7 +53,15 @@ $$
 $$
 A=\left\{-\frac{\sqrt{3}}{2},0,\frac{\sqrt{3}}{2}\right\}
 $$
+
+---
+
+
+$$
+A=\left\{x \n R: x=(-1)^n\left(\frac1{n}+2\right),n\in \N-\{0\}\right\}
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzM2NTA2LDE1NDQzNjAwNDAsLTcxOT
-I4Nzg1LC05Nzg0NDE4MTRdfQ==
+eyJoaXN0b3J5IjpbLTIwMjE5MDIwMzAsMTU0NDM2MDA0MCwtNz
+E5Mjg3ODUsLTk3ODQ0MTgxNF19
 -->
