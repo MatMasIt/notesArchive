@@ -15,8 +15,8 @@ proteine: complesso di maggiore istocompatibilità
 
 tolleranza sistema immunitario contro cellule organismo
 
-
+> Il sistema immunitario riconosce le proprie cellule in ase alle proteine esposte sulla superficie della membre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTk1NTQ2MCw2MjM0NDE1NzEsLTc2ND
+eyJoaXN0b3J5IjpbMTU3NDA5MDg2MSw2MjM0NDE1NzEsLTc2ND
 E1NDMxNV19
 -->
