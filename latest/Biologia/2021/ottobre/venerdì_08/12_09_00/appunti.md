@@ -6,9 +6,13 @@ Risposta immunitaria umorale e cellulare
 
 
 Linfociti T effettori:
-* helper
+* helper $(T_H)$ sono coinvolti nella risposta cellulare e umorale, le coordinano
 * citotossici $(T_C)$ riconoscono le cellule infettate o mutate e le eliminano inducendone la lisi
+
+Linfociti diventano immunocompetenti nel timo
+
+proteine: comp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjYyMDk5MzQsNjIzNDQxNTcxLC03Nj
-QxNTQzMTVdfQ==
+eyJoaXN0b3J5IjpbMTk5NjU2ODE3MCw2MjM0NDE1NzEsLTc2ND
+E1NDMxNV19
 -->
