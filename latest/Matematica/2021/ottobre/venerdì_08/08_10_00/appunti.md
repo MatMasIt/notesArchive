@@ -44,7 +44,16 @@ $$
 
 Va poi contratta per $T=6$
 ![](https://i.imgur.com/389mEXp.jpg)
+
+
+$$
+x_{min}=\frac43\pi
+$$
+
+$$
+A=\left\{-\frac{\sqrt{3}}{2},0,\frac{\sqrt{3}}{2}\right\}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDM2MDA0MCwtNzE5Mjg3ODUsLTk3OD
-Q0MTgxNF19
+eyJoaXN0b3J5IjpbMTkwNzM2NTA2LDE1NDQzNjAwNDAsLTcxOT
+I4Nzg1LC05Nzg0NDE4MTRdfQ==
 -->
