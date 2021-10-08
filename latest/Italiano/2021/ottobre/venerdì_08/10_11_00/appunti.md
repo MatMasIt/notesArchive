@@ -40,8 +40,8 @@ condizioni del conoscere anni '70 del 1900
 *Strutturalismo*
 Studi di linguistica
 
-Il linguaggio fa le
+Il linguaggio fa le persone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDYxNzM3OSwtNTA0Njk1MzEzLDIxMD
+eyJoaXN0b3J5IjpbMTIyMTU1MzkzOSwtNTA0Njk1MzEzLDIxMD
 M4MDcyNDJdfQ==
 -->
