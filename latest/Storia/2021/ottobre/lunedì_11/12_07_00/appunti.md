@@ -10,7 +10,9 @@ Garibaldi è la persona giusta per guidare la spedizione
 
 necessità armamenti
 
-piemonte non ostacola piani d
+piemonte non ostacola piani democratici ma non sostiene il processo
+
+Aprile '60 scoppia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk1NjY3MTQsLTczNDM0MTQzNV19
+eyJoaXN0b3J5IjpbLTEzODU1Njk5NTksLTczNDM0MTQzNV19
 -->
