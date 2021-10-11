@@ -73,7 +73,15 @@ il padre è un po' geloso, non lo lascia andare
 
 Grande autoditatta, letture e osservazioni astronomiche
 
-disprezzo contro 
+disprezzo contro Recanati, l'asfissiante stato pontificio
+
+Arriva un filosofo al castello
+
+nel'17 annota pensieri, che daranno orgine allo _Zibaldone_
+
+quaderno di appunti di varia natura, più di 4000 fogli che dona
+
+Domestichen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTYwODc5OCw3MjQ5ODQyNTZdfQ==
+eyJoaXN0b3J5IjpbLTE4MzMzMjM4ODgsNzI0OTg0MjU2XX0=
 -->
