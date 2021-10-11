@@ -209,8 +209,9 @@ L'animo umano [...] mira al piacere.
 Il piacere è sinonimo della felicità dell'uomo[...]
 La felicità è tutt'uno col piacere[..]Questa aspirazione non ha limiti perchè è congenita coon l'esperienza
 
-finitudine vs limitatezzza
+finitudine vs limitatezza
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0MTQ1MDM0LDY1NzI3MTM5Niw3MjQ5OD
-QyNTZdfQ==
+eyJoaXN0b3J5IjpbLTk4MDcxNzEwNCw2NTcyNzEzOTYsNzI0OT
+g0MjU2XX0=
 -->
