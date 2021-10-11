@@ -72,6 +72,8 @@ il padre è un po' geloso, non lo lascia andare
 
 
 Grande autoditatta, letture e osservazioni astronomiche
+
+disprezzo contro 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY5NjE5NDEsNzI0OTg0MjU2XX0=
+eyJoaXN0b3J5IjpbLTIxOTYwODc5OCw3MjQ5ODQyNTZdfQ==
 -->
