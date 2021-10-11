@@ -80,9 +80,17 @@ percezione del colore
 
 --
 
-Vincent Van Gog
+Vincent Van Gogh
+
+pittura terapeutica, dipingeva emozioni
+
+instancabile
+
+fino a 30 anni ha studiato per fare pastore
+
+poi si interessa a pittura, ma all'inizio si sente incapaace
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjU0NjI2MCwtMjAxNTg0NDM3NiwtMT
-A2MDE5MDc0N119
+eyJoaXN0b3J5IjpbLTE5NzU3MjUxNDksLTIwMTU4NDQzNzYsLT
+EwNjAxOTA3NDddfQ==
 -->
