@@ -257,8 +257,22 @@ Natura indifferente all'individuo
 
 Ragione: strumento per smascherare le illusioni
 
-scoperta dell'artido 
+scoperta dell'arido vero:
+* infelicità
+* malessere
+* male di vivere
+* inappagamento
+
+Società umana: luogo dell'affermazione individuale
+
+Ha letto
+* Locke
+* Hobbes
+* Machiavelli
+
+
+p.21-22
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDA2ODA2NiwtOTk4MTUxMTQ3LDY1Nz
-I3MTM5Niw3MjQ5ODQyNTZdfQ==
+eyJoaXN0b3J5IjpbLTkxMDg4NzAwLC05OTgxNTExNDcsNjU3Mj
+cxMzk2LDcyNDk4NDI1Nl19
 -->
