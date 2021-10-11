@@ -31,8 +31,10 @@ he creates the passions and volitions when he does not find them
 
 He can be influenced by absent things as they were present
 
-The passion is not the same of the time but it resembles the oe 
+The passion is not the same of the time but it resembles the one caused by current events
+
+similar but not equal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTYxOTkwNTYsMTE1MTI2MzU0MCwtMT
+eyJoaXN0b3J5IjpbLTE0MzA2MjcyODcsMTE1MTI2MzU0MCwtMT
 I0OTY4NDg5MV19
 -->
