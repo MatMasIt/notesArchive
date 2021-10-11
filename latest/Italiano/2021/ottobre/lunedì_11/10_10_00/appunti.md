@@ -246,7 +246,19 @@ p. 24, zibalsone 4288
 
 Meccanicismo materialistico, radicale
 
+
+natura come organismo meccanicistico orientato solo al suo mantenimento
+
+natura beingna -> maligna
+pessimismo storico -> cosmico
+
+
+Natura indifferente all'individuo
+
+Ragione: strumento per smascherare le illusioni
+
+scoperta dell'artido 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODE1MTE0Nyw2NTcyNzEzOTYsNzI0OT
-g0MjU2XX0=
+eyJoaXN0b3J5IjpbMTA2NDA2ODA2NiwtOTk4MTUxMTQ3LDY1Nz
+I3MTM5Niw3MjQ5ODQyNTZdfQ==
 -->
