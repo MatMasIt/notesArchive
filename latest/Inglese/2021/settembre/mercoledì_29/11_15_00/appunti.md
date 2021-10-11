@@ -36,7 +36,7 @@ countryside landscape and makes me feel calm
 * calm
 William Wordswoth, poet analogies with Constable's paintings
 ==The traveller==
-* ==@Fascination@==
+* ==@Fascination@== <span style="background-color:red">ddd</span>
 * Contemplation
 * Helplessness
 Main subject: nature and its manifestation in all 3
@@ -58,6 +58,7 @@ Sublime: colleridge (Samuel Taylor)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTIyNzM1OCwtMTkwOTAxOTI3NCwtMT
-U2NjQ0ODg5MCwtMjIzNzAxNjUwLC04NDg4MDA0OTJdfQ==
+eyJoaXN0b3J5IjpbMTQ1Mzc3MDY2OCwxMTAxMjI3MzU4LC0xOT
+A5MDE5Mjc0LC0xNTY2NDQ4ODkwLC0yMjM3MDE2NTAsLTg0ODgw
+MDQ5Ml19
 -->
