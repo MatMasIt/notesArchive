@@ -22,6 +22,8 @@ Poetry is nothing but emotion, feeling
 spontaneous overflow of feelings
 
 Poet: is a man speaking to other men
+
+He is a man, can evoke passions similar to a real thing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyMzQwMTY4XX0=
+eyJoaXN0b3J5IjpbLTEyNDk2ODQ4OTFdfQ==
 -->
