@@ -48,7 +48,9 @@ dal 1860
 da sviluppo grandi cittàù
 
 Monet scappa in campagna
-
+Vive in una villetta fuori Parigi
+studi luce, riflessi sull'acqua, vegetali
+250 dipnti di Ninfee, di Claude Monet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTMwMTAzNCwtMTA2MDE5MDc0N119
+eyJoaXN0b3J5IjpbLTI1NjQwMjY0MiwtMTA2MDE5MDc0N119
 -->
