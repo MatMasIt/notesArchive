@@ -10,8 +10,10 @@ graph TD
 
 A[1. Sensory experience of object] --> B[2. Emotion conveyed by reality]
 B --> C[3. Memory and recollection of previous emotions in a state of solitude and tranquility]
-C --> D[d]
-
+C --> D[4. Contemplation of the emotion]
+D --> E(l.21 Daffodils) 
+D --> F[5. Production of a new, similar, deeper emotion]
+F --> G[ 
 ```
 1. Sensory experience
 Wordswoth:
@@ -21,5 +23,5 @@ spontaneous overflow of feelings
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMzU3NjE0XX0=
+eyJoaXN0b3J5IjpbLTE4NTMzMTY4MTJdfQ==
 -->
