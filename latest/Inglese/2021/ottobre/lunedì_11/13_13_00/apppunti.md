@@ -12,6 +12,9 @@ A --> C(Round Rect)
 B --> D{Rhombus} C --> D 
 ```
 1. Sensory experience
+Wordswoth:
+
+Poetry is nothing but emotion, feeling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE3OTcyNDFdfQ==
+eyJoaXN0b3J5IjpbMTAwNDUwNTUzOF19
 -->
