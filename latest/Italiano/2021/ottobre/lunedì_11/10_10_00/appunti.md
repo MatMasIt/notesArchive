@@ -197,8 +197,11 @@ tabella riassuntiva
 
 ---
 
-La conversio
+La conversione letterario
+
+Teoria del Piacere
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTYyNTIzOCw2NTcyNzEzOTYsNzI0OT
+eyJoaXN0b3J5IjpbMTY5MDE2MDc1MCw2NTcyNzEzOTYsNzI0OT
 g0MjU2XX0=
 -->
