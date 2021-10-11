@@ -79,9 +79,14 @@ Arriva un filosofo al castello
 
 nel'17 annota pensieri, che daranno orgine allo _Zibaldone_
 
-quaderno di appunti di varia natura, più di 4000 fogli che dona
+quaderno di appunti di varia natura, più di 4000 fogli che dona a Ranieri
 
-Domestichen
+Domestiche lo danno poi alla Biblioteca Nazionale del Regno di Napoli
+
+Verrà poi pubblicato dopo unità d'Italia da Giosuè Carducci
+
+
+_Studio matto e disperatissimo_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzMzMjM4ODgsNzI0OTg0MjU2XX0=
+eyJoaXN0b3J5IjpbNjAwMTMxOTQ0LDcyNDk4NDI1Nl19
 -->
