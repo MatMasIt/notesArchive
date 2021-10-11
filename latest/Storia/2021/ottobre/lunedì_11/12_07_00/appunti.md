@@ -16,7 +16,9 @@ Aprile '60 scoppia rivolta sud italia
 
 cavour non interviene a causa di possibili conflitti internazionali
 
-per cavour: risc
+per cavour: rischio di instaurazione di una repubblica al sud con suffragio universale
+
+Misssione mal equipaggiata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2OTkxOTA0LC03MzQzNDE0MzVdfQ==
+eyJoaXN0b3J5IjpbMzcwNDc3MDgwLC03MzQzNDE0MzVdfQ==
 -->
