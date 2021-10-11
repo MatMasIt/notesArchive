@@ -120,7 +120,21 @@ ambiente intellettuale salottiero, frivolo, vago
 
 malamente impressionato, non trova nes suno al suo llivello
 
-h
+ha già scritto poesie civili (_Gli idilli_, ha già composto l'infinito)
+
+
+Torna a Recanti
+
+taglio filosofico in prosa
+
+
+Operette Morali
+
+p. 9
+
+p. 10 
+
+Spostamento per Milano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjkwNDk4NSw3MjQ5ODQyNTZdfQ==
+eyJoaXN0b3J5IjpbMTAyMDMxNTA3MSw3MjQ5ODQyNTZdfQ==
 -->
