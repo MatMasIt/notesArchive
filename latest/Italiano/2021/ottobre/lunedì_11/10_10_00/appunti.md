@@ -216,7 +216,11 @@ Gan Battista Vico, cicli delle età
 
 
 Leopardi pensava che antichi potevano evadere da condizione di potenziale infelicità con ricorso alle belle favole (illusioni), ai miti
+
+
+
+logos greco -> ragione illumiisst
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg4OTIwOTYsNjU3MjcxMzk2LDcyND
-k4NDI1Nl19
+eyJoaXN0b3J5IjpbMjgxNTY3MzkzLDY1NzI3MTM5Niw3MjQ5OD
+QyNTZdfQ==
 -->
