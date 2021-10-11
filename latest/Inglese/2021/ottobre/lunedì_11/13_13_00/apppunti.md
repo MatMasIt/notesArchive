@@ -4,7 +4,7 @@
 Thanks to immagination the poet can shade a new light to a real object or to an emotion provoked by it (inner eye)
 
 Poetic creation:
-```mermaid
+```mermaid sequenceDiagram
 graph LR
 
 A[Square Rect] -- Link text --> B((Circle))
@@ -13,5 +13,5 @@ B --> D{Rhombus} C --> D
 ```
 1. Sensory experience
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQwOTQ5ODNdfQ==
+eyJoaXN0b3J5IjpbLTE5MjE3OTcyNDFdfQ==
 -->
