@@ -211,7 +211,12 @@ La felicità è tutt'uno col piacere[..]Questa aspirazione non ha limiti perchè
 
 finitudine vs limitatezza
 
+
+Gan Battista Vico, cicli delle età
+
+
+Leopardi pensava che antichi potevano evadere da condizione di potenziale infelicità con ricorso alle belle favole (illusioni), ai miti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDcxNzEwNCw2NTcyNzEzOTYsNzI0OT
-g0MjU2XX0=
+eyJoaXN0b3J5IjpbLTIxMTg4OTIwOTYsNjU3MjcxMzk2LDcyND
+k4NDI1Nl19
 -->
