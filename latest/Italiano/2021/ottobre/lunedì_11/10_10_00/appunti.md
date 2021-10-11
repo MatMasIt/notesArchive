@@ -152,7 +152,13 @@ Incontro con Manzoni
 
 p.11
 
-criticat
+criticato per gli scritti
+
+A pisa, scrive alla sorella Paolina, che ha ripreso a comporre versi ==all'antica==, idilli
+
+Canti pisano-recanatesi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4NjA1NjYwLDcyNDk4NDI1Nl19
+eyJoaXN0b3J5IjpbMTI4NDY0NTA5OCw3MjQ5ODQyNTZdfQ==
 -->
