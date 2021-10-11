@@ -21,7 +21,7 @@ Wordswoth:
 Poetry is nothing but emotion, feeling
 spontaneous overflow of feelings
 
-
+Poet: is a man speaking to other men
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODMwMDk0ODZdfQ==
+eyJoaXN0b3J5IjpbMzgyMzQwMTY4XX0=
 -->
