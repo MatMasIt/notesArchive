@@ -68,8 +68,11 @@ Ottenuto assenso Napoleone III dopo aver promesso di non conquistare Lazio
 Occorreva legittimare Garibaldi
 
 Truppe Sabaude attraversano Umbia e Marche per raggiungere Garibaldi
+
+
+Plebisciti a suffragio  universale masc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDc0MDk3NDYsLTk2MTY4ODM5LDEyNz
+eyJoaXN0b3J5IjpbLTE5MzMxMDAwMTksLTk2MTY4ODM5LDEyNz
 EyMDQ2MCwxNjcyMjA1ODg4LDIxNDI4NTc2NTQsNTgyNDA4MDQ0
 LC03MzQzNDE0MzVdfQ==
 -->
