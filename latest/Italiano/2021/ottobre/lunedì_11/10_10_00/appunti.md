@@ -194,6 +194,11 @@ dice a Ranieri "Io non ti veggo più" e muore
 p.44, 43
 
 tabella riassuntiva
+
+---
+
+La conversio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3MjcxMzk2LDcyNDk4NDI1Nl19
+eyJoaXN0b3J5IjpbMTQwMTYyNTIzOCw2NTcyNzEzOTYsNzI0OT
+g0MjU2XX0=
 -->
