@@ -22,7 +22,18 @@ Leopardi rinnova metrica e contenuti (progresso, modernismo, cambiamenti sociali
 
 Aspetti del vivere sociale e del contesto storico che sono spesso anticipatrici
 
-svilu
+sviluppa delle tecniche nuove 
+* Canzone leopardiana (Forma metrica Canzone)
+
+Rifessioni tematiche
+* scritti satirici
+* scritti dialogici
+
+profezie estremamente attuale
+
+si guarda agli sviluppi del mondo, della tecnologia, dell'industrializzazione
+
+quasi preveggenza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzE3NTc0NV19
+eyJoaXN0b3J5IjpbLTE5OTYxMDcyMl19
 -->
