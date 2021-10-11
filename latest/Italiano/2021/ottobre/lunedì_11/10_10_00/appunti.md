@@ -87,6 +87,12 @@ Verrà poi pubblicato dopo unità d'Italia da Giosuè Carducci
 
 
 _Studio matto e disperatissimo_
+
+
+tubercolosi ossea, doppio gibbo, camminare male, deforme
+
+pag.7 "Mi sono rovinato con 7 anni di studio matto e disperatissimo"
+Aspetto fisico, uomo inteligentissimo, sensibilissimo, grandi innamoramenti, si arrabbia furiosamente, ma anche nel gabinetto Viesseux, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMTMxOTQ0LDcyNDk4NDI1Nl19
+eyJoaXN0b3J5IjpbMjAwNTEzMTU5Myw3MjQ5ODQyNTZdfQ==
 -->
