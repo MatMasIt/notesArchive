@@ -39,7 +39,7 @@ for the rest of his  life
 nature is so 
 * peaceful
 * quite
-* relazxing
+* relaxing
 * joyful
 beacuse it is the manifestation of God on Earth
 
@@ -117,5 +117,6 @@ But he is detached with nature
 Crowd: personification of daffodils, pantheism
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxMTU3MzMsMTA2Njc3MDAzMF19
+eyJoaXN0b3J5IjpbNTU4MTAxNTk3LDY0MTE1NzMzLDEwNjY3Nz
+AwMzBdfQ==
 -->
