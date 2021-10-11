@@ -242,9 +242,11 @@ la vita è
 * sofferenza
 * male
 
-p. 
+p. 24, zibalsone 4288
+
+Meccanicismo materialistico, radicale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0MjAzODA0LDY1NzI3MTM5Niw3MjQ5OD
-QyNTZdfQ==
+eyJoaXN0b3J5IjpbLTk5ODE1MTE0Nyw2NTcyNzEzOTYsNzI0OT
+g0MjU2XX0=
 -->
