@@ -289,8 +289,12 @@ No nichilismo
 Uomo: solidal catena della ginestra
 
 Resistere come il fiore giallo di ginestra resiste alla lava
+
+
+
+Operetta morale: _Il Dialogo della Natura e di un Islandese_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzI0MTYwODgsLTk2MTY1MzUwMSwtMj
-IzODc3OTU1LC05OTgxNTExNDcsNjU3MjcxMzk2LDcyNDk4NDI1
-Nl19
+eyJoaXN0b3J5IjpbMzAwMDIwNTQwLC05NjE2NTM1MDEsLTIyMz
+g3Nzk1NSwtOTk4MTUxMTQ3LDY1NzI3MTM5Niw3MjQ5ODQyNTZd
+fQ==
 -->
