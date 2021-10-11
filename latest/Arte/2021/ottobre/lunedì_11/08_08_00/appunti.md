@@ -94,9 +94,9 @@ poi dipinge molto in manicomio
 
 Gauguin vive in polinesia e dipinge quadri
 
-Ogni tanto torna 
+Ogni tanto torna in Francia per venderli ma nessuno vuole comprarle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTcxNTUzMiwtMTk3NTcyNTE0OSwtMj
+eyJoaXN0b3J5IjpbLTgxNTQ1NzU0NiwtMTk3NTcyNTE0OSwtMj
 AxNTg0NDM3NiwtMTA2MDE5MDc0N119
 -->
