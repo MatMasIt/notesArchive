@@ -34,8 +34,14 @@ Appena i Garibaldini arrivano a Palermo, la città insorge
 
 Garibaldi proclama la caduta della Monarchia borbonica
 
-Francesco crispi 
+Francesco Crispi guida in sicilia governo temporaneo (aveva pianificato impresa)
+
+riforme sociali:
+* riduzione tasse
+* assegnazione terre a chi aveva combattuto con volontari Garibaldini
+
+consenso popolazione locale aumentato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjcxMzA1Myw1ODI0MDgwNDQsLTczND
-M0MTQzNV19
+eyJoaXN0b3J5IjpbLTE1OTU5Mzk2MTgsNTgyNDA4MDQ0LC03Mz
+QzNDE0MzVdfQ==
 -->
