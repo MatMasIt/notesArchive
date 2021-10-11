@@ -3,7 +3,9 @@
 
 Cavour e Re soddisfatti
 Democratici vogliono unificare penisola
+regno due sicilie
+pensano di intervenire in Sicilia
 Garibaldi è la persona giusta per guidare la spedizione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3MjI4OTUsLTczNDM0MTQzNV19
+eyJoaXN0b3J5IjpbMTg4MjkyNzEyMSwtNzM0MzQxNDM1XX0=
 -->
