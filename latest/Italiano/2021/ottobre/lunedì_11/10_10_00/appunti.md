@@ -180,10 +180,16 @@ A Napoli gusta Confetti alle amndorle, Gelati
 
 
 versi polemici verso spiritualisti e progressisti ottimisti
-Canti notturni, La ginestra
+Canti notturni, La ginestra, Il tramonto della luna
 
 
-padr
+padre preoccupato per la salute
+
+Colera si diffonde a Napoli
+
+Villa sulle pendici del Vesuvio di Ranieri, soggiorna lì e invia ulitma lettera al padre
+
+dice a Ranieri "Io non ti veggo pi+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg0MDQxNzcsNzI0OTg0MjU2XX0=
+eyJoaXN0b3J5IjpbMTc1OTE2NTIwLDcyNDk4NDI1Nl19
 -->
