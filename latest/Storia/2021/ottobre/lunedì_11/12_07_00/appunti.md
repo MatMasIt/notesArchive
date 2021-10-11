@@ -76,9 +76,9 @@ Legittimazione la più ampia possibile
 
 17 Marzo 1861 Vittorio Emanuele II Re d'Italia per Grazia di Dio e volontà della Nazione
 
-Vittorio Emuanuele II mantiene nome: 
+Vittorio Emuanuele II mantiene nome: annessione a regno precedente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjM0MjQ1MSwtOTYxNjg4MzksMTI3MT
+eyJoaXN0b3J5IjpbMjA0MTMwOTM0OSwtOTYxNjg4MzksMTI3MT
 IwNDYwLDE2NzIyMDU4ODgsMjE0Mjg1NzY1NCw1ODI0MDgwNDQs
 LTczNDM0MTQzNV19
 -->
