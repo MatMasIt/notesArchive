@@ -70,6 +70,8 @@ il padre è un po' geloso, non lo lascia andare
 
 900 lettere, epistolario di Leopardi
 
+
+Grande autoditatta, letture e osservazioni astronomiche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzE4MzA0MTAsNzI0OTg0MjU2XX0=
+eyJoaXN0b3J5IjpbLTEyODY5NjE5NDEsNzI0OTg0MjU2XX0=
 -->
