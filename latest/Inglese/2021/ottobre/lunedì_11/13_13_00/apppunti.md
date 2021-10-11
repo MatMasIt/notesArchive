@@ -5,12 +5,13 @@ Thanks to immagination the poet can shade a new light to a real object or to an 
 
 Poetic creation:
 ```mermaid
-graph LR 
-A[Square Rect] -- Link text --> B((Circle)) 
+graph LR
+
+A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect) 
 B --> D{Rhombus} C --> D 
 ```
 1. Sensory experience
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTI0NTc4M119
+eyJoaXN0b3J5IjpbLTE3MTQwOTQ5ODNdfQ==
 -->
