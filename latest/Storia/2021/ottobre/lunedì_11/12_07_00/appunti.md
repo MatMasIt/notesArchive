@@ -22,7 +22,11 @@ Misssione mal equipaggiata
 
 si impadroniscono di due navi a Vapore, partono da Quarto (E) e sbarcano a Marsala eludendo la marina del regno di Napoli
 
-non sfuggono alla flotta inglese, ma che non interviene
+non sfuggono alla flotta inglese, ma che non interviene 
+
+sbarcano a Marsala, Garibaldi luogotenente
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjU2MDA2NywtNzM0MzQxNDM1XX0=
+eyJoaXN0b3J5IjpbNTgyNDA4MDQ0LC03MzQzNDE0MzVdfQ==
 -->
