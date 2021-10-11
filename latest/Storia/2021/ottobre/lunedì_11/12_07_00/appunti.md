@@ -19,6 +19,10 @@ cavour non interviene a causa di possibili conflitti internazionali
 per cavour: rischio di instaurazione di una repubblica al sud con suffragio universale
 
 Misssione mal equipaggiata
+
+si impadroniscono di due navi a Vapore, partono da Quarto (E) e sbarcano a Marsala eludendo la marina del regno di Napoli
+
+non sfuggono alla flotta inglese, ma che non interviene
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNDc3MDgwLC03MzQzNDE0MzVdfQ==
+eyJoaXN0b3J5IjpbMTk2NjU2MDA2NywtNzM0MzQxNDM1XX0=
 -->
