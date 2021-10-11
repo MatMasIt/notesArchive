@@ -52,9 +52,15 @@ popolazione locale pensa che i garibaldini li liberino dai latifondisti, ma i ga
 Gattopardo:
 > _Bisogna che tutto cambi, perchè non cambi nulla_ 
 
+Fatti di Bronte, agosto '60
+
+Contadini vennero fucilati a causa di aver ucciso dei notai
+
+classe dirigente vuole accellerare annessione per vitare un assetto democratico-socialista
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjYzNTk5NywxMjcxMjA0NjAsMTY3Mj
-IwNTg4OCwyMTQyODU3NjU0LDU4MjQwODA0NCwtNzM0MzQxNDM1
-XX0=
+eyJoaXN0b3J5IjpbLTk2MTY4ODM5LDEyNzEyMDQ2MCwxNjcyMj
+A1ODg4LDIxNDI4NTc2NTQsNTgyNDA4MDQ0LC03MzQzNDE0MzVd
+fQ==
 -->
