@@ -45,12 +45,21 @@ Faccia donna molto simile a quello di una famosa prostituta
 
 ## Impressionismo
 dal 1860
-da sviluppo grandi cittàù
+da sviluppo grandi città
 
 Monet scappa in campagna
 Vive in una villetta fuori Parigi
 studi luce, riflessi sull'acqua, vegetali
 250 dipnti di Ninfee, di Claude Monet
+
+Auguste Renoir, studia la vita parigina
+
+Bal au Moulin de la Galette
+
+ritrovo domenicale di famiglie
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjQwMjY0MiwtMTA2MDE5MDc0N119
+eyJoaXN0b3J5IjpbLTYzNTMzMjA0MiwtMTA2MDE5MDc0N119
 -->
