@@ -173,6 +173,17 @@ rapporti con nobildonne sposate
 Ciclo di _Aspasia_
 
 brusca fine di intesa 
+
+Napoletani lo chiamano Ramarrottolo
+
+A Napoli gusta Confetti alle amndorle, Gelati
+
+
+versi polemici verso spiritualisti e progressisti ottimisti
+Canti notturni, La ginestra
+
+
+padr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODg4NDA5OSw3MjQ5ODQyNTZdfQ==
+eyJoaXN0b3J5IjpbLTE5OTg0MDQxNzcsNzI0OTg0MjU2XX0=
 -->
