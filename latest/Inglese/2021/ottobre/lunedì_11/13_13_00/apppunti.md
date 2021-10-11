@@ -4,17 +4,26 @@
 Thanks to immagination the poet can shade a new light to a real object or to an emotion provoked by it (inner eye)
 
 Poetic creation:
-```mermaid sequenceDiagram
+```mermaid
+
 graph LR
 
 A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect) 
-B --> D{Rhombus} C --> D 
+
+A --> C(Round Rect)
+
+B --> D{Rhombus}
+
+C --> D
+
 ```
 1. Sensory experience
 Wordswoth:
 
 Poetry is nothing but emotion, feeling
+spontaneous overflow of feelings
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDUwNTUzOF19
+eyJoaXN0b3J5IjpbLTEyMzQ1OTM1M119
 -->
