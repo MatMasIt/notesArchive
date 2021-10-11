@@ -104,14 +104,15 @@ pag. 8 quartultima e terzultima riga, definizione di illusioni
 
 Viaggi
 
-* recanati
-* roma
-* recanati
-* bologna
-* firenze
-* pisa
-* recanati
-* napoli
+* Recanati
+* Roma
+* Recanati
+* Milano
+* Bologna
+* Firenze
+* Pisa
+* Recanati
+* Napoli
 
 
 Nel'22 si reca a Roma da parente
@@ -135,6 +136,14 @@ p. 9
 p. 10 
 
 Spostamento per Milano
+
+Editore Stella a Milano, fa curare edizione critica al Canzoniere di Petrarca
+
+Bologna, frequentazioni amorose-intellettuale
+
+Firenze, Pietro Giordani
+
+Gabinetto Viesseuc+x,++ùù
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDMxNTA3MSw3MjQ5ODQyNTZdfQ==
+eyJoaXN0b3J5IjpbLTY3NTk0NzMzNyw3MjQ5ODQyNTZdfQ==
 -->
