@@ -9,6 +9,11 @@ Gustave Courbet voleva diventare famoso
 
 _L'atelier del pittore_
 
+Quadro scandaloso;
+enorme, tantissimi personaggi
+
+
+Slides sul classroom
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzY4ODQ2Nl19
+eyJoaXN0b3J5IjpbLTEwNjAxOTA3NDddfQ==
 -->
