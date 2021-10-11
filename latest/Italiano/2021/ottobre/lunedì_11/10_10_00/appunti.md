@@ -275,8 +275,9 @@ p.21-22
 
 infelicità / noia / tedio
 
-maggi
+maggio '28 Zibaldone 4306
+La noia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzM0MzExOCwtOTk4MTUxMTQ3LDY1Nz
+eyJoaXN0b3J5IjpbLTIyMzg3Nzk1NSwtOTk4MTUxMTQ3LDY1Nz
 I3MTM5Niw3MjQ5ODQyNTZdfQ==
 -->
