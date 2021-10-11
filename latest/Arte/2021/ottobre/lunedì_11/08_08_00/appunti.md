@@ -22,7 +22,17 @@ non un nobile/aristocratico
 
 
 
+---
+
+pitture en plein air
+
+Verismo
+
+scuola di Barizon
+
+
+---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzU2MTE0OCwtMTA2MDE5MDc0N119
+eyJoaXN0b3J5IjpbMTMwMTA2MTc0NCwtMTA2MDE5MDc0N119
 -->
