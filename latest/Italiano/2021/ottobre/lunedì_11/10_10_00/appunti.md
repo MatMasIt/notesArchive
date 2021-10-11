@@ -34,6 +34,18 @@ profezie estremamente attuale
 si guarda agli sviluppi del mondo, della tecnologia, dell'industrializzazione
 
 quasi preveggenza
+
+recanati, p.4
+
+Stato pontificio
+* indice libri proibiti
+* censura
+* conservatorismo
+
+famiglia in difficoltà economica
+Padre conte monaldo non amministra bene i beni, ci pensa la madre Adelaide
+
+Organizza patrimonio tra 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTYxMDcyMl19
+eyJoaXN0b3J5IjpbLTExNzUyNTg3NTZdfQ==
 -->
