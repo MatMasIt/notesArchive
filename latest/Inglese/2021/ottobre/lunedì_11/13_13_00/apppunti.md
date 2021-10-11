@@ -24,6 +24,11 @@ spontaneous overflow of feelings
 Poet: is a man speaking to other men
 
 He is a man, can evoke passions similar to a real thing
+
+Plesased with passions and volitions of the whole universe, not only his passions
+
+he creates the passions and volitions when he does not find them
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk2ODQ4OTFdfQ==
+eyJoaXN0b3J5IjpbLTIxMjcxNDk0MjAsLTEyNDk2ODQ4OTFdfQ
+==
 -->
