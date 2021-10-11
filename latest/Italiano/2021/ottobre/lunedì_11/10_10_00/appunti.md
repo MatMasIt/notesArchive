@@ -189,7 +189,11 @@ Colera si diffonde a Napoli
 
 Villa sulle pendici del Vesuvio di Ranieri, soggiorna lì e invia ulitma lettera al padre
 
-dice a Ranieri "Io non ti veggo pi+
+dice a Ranieri "Io non ti veggo più" e muore
+
+p.44, 43
+
+tabella riassuntiva
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTE2NTIwLDcyNDk4NDI1Nl19
+eyJoaXN0b3J5IjpbNjU3MjcxMzk2LDcyNDk4NDI1Nl19
 -->
