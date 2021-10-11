@@ -92,7 +92,19 @@ _Studio matto e disperatissimo_
 tubercolosi ossea, doppio gibbo, camminare male, deforme
 
 pag.7 "Mi sono rovinato con 7 anni di studio matto e disperatissimo"
-Aspetto fisico, uomo inteligentissimo, sensibilissimo, grandi innamoramenti, si arrabbia furiosamente, ma anche nel gabinetto Viesseux, 
+
+Aspetto fisico, uomo inteligentissimo, sensibilissimo, grandi innamoramenti, si arrabbia furiosamente, ma anche nel gabinetto Viesseux
+
+> _Non dite che ciò che scrivo è pessimistico e anticristiano solo per la disgrazia che mi affligge, ragionate con me seguendo un ragionamento logico. Il mio aspetto miserale non è un'argomento valido_
+
+Nel '19 nottetemp viene bloccato e intercettato dal padre mentre cerca di fuggire
+
+
+pag. 8 quartultima e terzultima riga, definizione di illusioni
+
+recanati
+roma
+recanat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTEzMTU5Myw3MjQ5ODQyNTZdfQ==
+eyJoaXN0b3J5IjpbLTEzODA1Njk3OTksNzI0OTg0MjU2XX0=
 -->
