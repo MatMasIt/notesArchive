@@ -868,16 +868,6 @@
                         ]
                     }
                 },
-                "ottobre": {
-                    "gioved\u00ec_07": [
-                        "appunti.md.md"
-                    ],
-                    "mercoled\u00ec_06": {
-                        "11_15_00": [
-                            "appunti.md"
-                        ]
-                    }
-                },
                 "febbraio": {
                     "mercoled\u00ec_24": {
                         "12_12_40": [
@@ -891,6 +881,21 @@
                     },
                     "mercoled\u00ec_03": {
                         "13_14_38": [
+                            "appunti.md"
+                        ]
+                    }
+                },
+                "ottobre": {
+                    "gioved\u00ec_07": [
+                        "appunti.md.md"
+                    ],
+                    "luned\u00ec_11": {
+                        "12_07_00": [
+                            "appunti.md"
+                        ]
+                    },
+                    "mercoled\u00ec_06": {
+                        "11_15_00": [
                             "appunti.md"
                         ]
                     }
@@ -1986,6 +1991,13 @@
             "humanDay": "mercoled\u00ec 06 ottobre 2021"
         },
         {
+            "path": "latest\/Storia\/2021\/ottobre\/luned\u00ec_11\/12_07_00\/appunti.md",
+            "size": 808,
+            "subject": "Storia",
+            "extract": "regno due sicilie  pensano di intervenire in Sicilia  Garibaldi \u00e8 la persona giusta per guidare la spedizione      necessit\u00e0 armamenti    piemonte non ostacola piani democratici ma non sostiene il processo    Aprile 60 scoppia rivolta sud italia    cavour non interviene a causa di possibili conflitt",
+            "humanDay": "luned\u00ec 11 ottobre 2021"
+        },
+        {
             "path": "latest\/Storia\/2021\/ottobre\/gioved\u00ec_07\/appunti.md.md",
             "size": 289,
             "subject": "Storia",
@@ -2096,18 +2108,11 @@
             "subject": "Storia",
             "extract": "  1765 Stamp act    differenze con compatrioti  e  i coloni organizzano proteste che giungono a conoscenza del parlamento    boicottaggio merci inglesi    contrabbando con francesi e spagnoli    azione concreta    1766 parlamento ritira lo Stamp Act    ma il parlamento ripete che si sente legittimat",
             "humanDay": "marted\u00ec 23 febbraio 2021"
-        },
-        {
-            "path": "latest\/Storia\/2020\/novembre\/venerd\u00ec_27\/10_00_12\/appunti.md",
-            "size": 4035,
-            "subject": "Storia",
-            "extract": "      In Inghilterra dopo Elisabetta prima giunge Giacomo I    essere a capo della Chiesa  vantaggio non irrilevante    affermare potere assolutistico    Inghilterra  punto di vista religioso plurale    agguerrita e crescente quota di aderenti al puritanesimo calvinismo inglese    puritani  bisogna ",
-            "humanDay": "venerd\u00ec 27 novembre 2020"
         }
     ],
     "lastUpdate": {
-        "unix": 1633945274,
-        "human": "11\/10\/2021 09:41:14",
+        "unix": 1633947784,
+        "human": "11\/10\/2021 10:23:04",
         "timezone": "UTC"
     }
 }
