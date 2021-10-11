@@ -165,7 +165,14 @@ una volta chiamati "Grandi Idilli" (Francesco de Santis)
 * La quiete dopo la tempesta
 * Il sabato del villaggio
 
-Colletta di amici  consente di essere nuovamente a 
+Colletta di amici  consente di essere nuovamente a Firenze
+
+rapporti con nobildonne sposate
+
+
+Ciclo di _Aspasia_
+
+brusca fine di intesa 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjk1NzQwNiw3MjQ5ODQyNTZdfQ==
+eyJoaXN0b3J5IjpbMTU2ODg4NDA5OSw3MjQ5ODQyNTZdfQ==
 -->
