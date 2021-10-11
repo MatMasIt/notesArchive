@@ -59,7 +59,17 @@ Bal au Moulin de la Galette
 ritrovo domenicale di famiglie
 
 
+Degas
+interesse per vita contemporanea
 
+Movimento, giochi di luce
+
+Ballerine, teatro, cavallo
+
+Mai durante opera, sempre prima o dopo
+
+
+Cèzanne, va a vivere in provenza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTMzMjA0MiwtMTA2MDE5MDc0N119
+eyJoaXN0b3J5IjpbLTMwMjQ2MzczMiwtMTA2MDE5MDc0N119
 -->
