@@ -6,7 +6,7 @@ Industial revolution
 Mushroom towns near factories
 * no hygene
 * overcrowding
-* workers explorati
+* workers exploitation
 
 
 steam power:
@@ -58,6 +58,6 @@ Sublime: colleridge (Samuel Taylor)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkwMTkyNzQsLTE1NjY0NDg4OTAsLT
-IyMzcwMTY1MCwtODQ4ODAwNDkyXX0=
+eyJoaXN0b3J5IjpbMTEwMTIyNzM1OCwtMTkwOTAxOTI3NCwtMT
+U2NjQ0ODg5MCwtMjIzNzAxNjUwLC04NDg4MDA0OTJdfQ==
 -->
