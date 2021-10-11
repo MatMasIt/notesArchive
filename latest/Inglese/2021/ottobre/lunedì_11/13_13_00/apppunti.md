@@ -8,9 +8,8 @@ Poetic creation:
 
 graph LR
 
-A[Square Rect] -- Link text --> B((Circle))
-
-A --> C(Round Rect)
+A[1. Sensory experience of object] --> B[2. Emotion conveyed by reality]
+B --> C[3. Memory ]
 
 B --> D{Rhombus}
 
@@ -25,5 +24,5 @@ spontaneous overflow of feelings
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ1OTM1M119
+eyJoaXN0b3J5IjpbLTY1NTQzNDg3NF19
 -->
