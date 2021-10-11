@@ -112,7 +112,7 @@ Viaggi
 * Firenze
 * Pisa
 * Recanati
-* Napoli
+* Napoli ( torre del Greco )
 
 
 Nel'22 si reca a Roma da parente
@@ -162,7 +162,10 @@ Canti pisano-recanatesi
 
 una volta chiamati "Grandi Idilli" (Francesco de Santis)
 * Le ricordanze
-* La quiete dopo la tem
+* La quiete dopo la tempesta
+* Il sabato del villaggio
+
+Colletta di amici  consente di essere nuovamente a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTAwNjg2Myw3MjQ5ODQyNTZdfQ==
+eyJoaXN0b3J5IjpbLTgxMjk1NzQwNiw3MjQ5ODQyNTZdfQ==
 -->
