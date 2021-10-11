@@ -13,9 +13,9 @@ B --> C[3. Memory and recollection of previous emotions in a state of solitude a
 C --> D[4. Contemplation of the emotion]
 D --> E(l.21 Daffodils) 
 D --> F[5. Production of a new, similar, deeper emotion]
-F --> G[ 
+F --> G[6. poetry] 
 ```
-1. Sensory experience
+
 Wordswoth:
 
 Poetry is nothing but emotion, feeling
@@ -23,5 +23,5 @@ spontaneous overflow of feelings
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTMzMTY4MTJdfQ==
+eyJoaXN0b3J5IjpbLTEzODMwMDk0ODZdfQ==
 -->
