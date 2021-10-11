@@ -219,8 +219,14 @@ Leopardi pensava che antichi potevano evadere da condizione di potenziale infeli
 
 
 
-logos greco -> ragione illumiisst
+logos greco -> ragione illumiistica, che ha disilluso l'uomo
+
+
+
+infelicità umana come fenomeno storico
+
+i moderni non possono più trovare riparo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxNTY3MzkzLDY1NzI3MTM5Niw3MjQ5OD
-QyNTZdfQ==
+eyJoaXN0b3J5IjpbLTgwOTE3ODIyOSw2NTcyNzEzOTYsNzI0OT
+g0MjU2XX0=
 -->
