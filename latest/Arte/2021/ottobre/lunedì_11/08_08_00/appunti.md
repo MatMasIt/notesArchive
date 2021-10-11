@@ -33,6 +33,18 @@ scuola di Barizon
 
 ---
 
+Manet Eduoard
+
+Quadro impressionista e scandaloso
+
+
+Due uomini amici con due donne spogliate (no muse dell'arte, donna nuda)
+
+Faccia donna molto simile a quello di una famosa prostituta
+
+
+## Impressionismo
+dal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTA2MTc0NCwtMTA2MDE5MDc0N119
+eyJoaXN0b3J5IjpbNjMzMDE4MDQ0LC0xMDYwMTkwNzQ3XX0=
 -->
