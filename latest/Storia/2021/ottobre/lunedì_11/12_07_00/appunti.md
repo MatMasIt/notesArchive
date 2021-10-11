@@ -70,9 +70,15 @@ Occorreva legittimare Garibaldi
 Truppe Sabaude attraversano Umbia e Marche per raggiungere Garibaldi
 
 
-Plebisciti a suffragio  universale masc
+Plebisciti a suffragio  universale maschile nei territori meridionali
+
+Legittimazione la più ampia possibile
+
+17 Marzo 1861 Vittorio Emanuele II Re d'Italia per Grazia di Dio e volontà della Nazione
+
+Vittorio Emuanuele II mantiene nome: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzMxMDAwMTksLTk2MTY4ODM5LDEyNz
-EyMDQ2MCwxNjcyMjA1ODg4LDIxNDI4NTc2NTQsNTgyNDA4MDQ0
-LC03MzQzNDE0MzVdfQ==
+eyJoaXN0b3J5IjpbLTY1NjM0MjQ1MSwtOTYxNjg4MzksMTI3MT
+IwNDYwLDE2NzIyMDU4ODgsMjE0Mjg1NzY1NCw1ODI0MDgwNDQs
+LTczNDM0MTQzNV19
 -->
