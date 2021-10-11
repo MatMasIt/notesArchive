@@ -102,9 +102,25 @@ Nel '19 nottetemp viene bloccato e intercettato dal padre mentre cerca di fuggir
 
 pag. 8 quartultima e terzultima riga, definizione di illusioni
 
-recanati
-roma
-recanat
+Viaggi
+
+* recanati
+* roma
+* recanati
+* bologna
+* firenze
+* pisa
+* recanati
+* napoli
+
+
+Nel'22 si reca a Roma da parente
+
+ambiente intellettuale salottiero, frivolo, vago
+
+malamente impressionato, non trova nes suno al suo llivello
+
+h
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA1Njk3OTksNzI0OTg0MjU2XX0=
+eyJoaXN0b3J5IjpbMTczNjkwNDk4NSw3MjQ5ODQyNTZdfQ==
 -->
