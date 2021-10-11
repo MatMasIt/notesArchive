@@ -201,7 +201,14 @@ La conversione letterario
 
 Teoria del Piacere
 
+tutti i piaceri sono pieni di dispiaceri perchè anima cerca infinità di piacere mai raggiungibile
+
+Zib. 165 p.19
+
+L'animo umano [...] mira al piacere.
+Il piacere è sinonimo della felicità dell'uomo[...]
+La felicità è tutt'uno col piacere[..]Questa aspirazione non ha limiti perchè è congenita coon l'esperienza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDE2MDc1MCw2NTcyNzEzOTYsNzI0OT
-g0MjU2XX0=
+eyJoaXN0b3J5IjpbLTE3NDc0MjM3MDIsNjU3MjcxMzk2LDcyND
+k4NDI1Nl19
 -->
