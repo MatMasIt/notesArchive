@@ -6,14 +6,11 @@ Thanks to immagination the poet can shade a new light to a real object or to an 
 Poetic creation:
 ```mermaid
 
-graph LR
+graph TD
 
 A[1. Sensory experience of object] --> B[2. Emotion conveyed by reality]
-B --> C[3. Memory ]
-
-B --> D{Rhombus}
-
-C --> D
+B --> C[3. Memory and recollection of previous emotions in a state of solitude and tranquility]
+C --> D[d]
 
 ```
 1. Sensory experience
@@ -24,5 +21,5 @@ spontaneous overflow of feelings
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTQzNDg3NF19
+eyJoaXN0b3J5IjpbLTIzMzU3NjE0XX0=
 -->
