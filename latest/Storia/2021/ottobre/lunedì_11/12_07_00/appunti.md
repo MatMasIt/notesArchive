@@ -1,5 +1,5 @@
 #  Lezione di Storia (5° ora)
-## Lunedì 11 ottobre 2021, 12:08:
+## Lunedì 11 ottobre 2021, 12:08:00
 
 Cavour e Re soddisfatti
 Democratici vogliono unificare penisola
@@ -78,7 +78,7 @@ Legittimazione la più ampia possibile
 
 Vittorio Emuanuele II mantiene nome: annessione a regno precedente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTMwOTM0OSwtOTYxNjg4MzksMTI3MT
-IwNDYwLDE2NzIyMDU4ODgsMjE0Mjg1NzY1NCw1ODI0MDgwNDQs
-LTczNDM0MTQzNV19
+eyJoaXN0b3J5IjpbLTkzNzg3MTg5OSwyMDQxMzA5MzQ5LC05Nj
+E2ODgzOSwxMjcxMjA0NjAsMTY3MjIwNTg4OCwyMTQyODU3NjU0
+LDU4MjQwODA0NCwtNzM0MzQxNDM1XX0=
 -->
