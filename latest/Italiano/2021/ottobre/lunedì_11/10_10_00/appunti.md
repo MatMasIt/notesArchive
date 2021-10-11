@@ -45,7 +45,20 @@ Stato pontificio
 famiglia in difficoltà economica
 Padre conte monaldo non amministra bene i beni, ci pensa la madre Adelaide
 
-Organizza patrimonio tra 
+Organizza patrimonio tra $13'000-15'000$ volumi che contengono sotto chiave i testi dell'illuminismo francese, ai quali Giacomo ha accesso
+
+testi rari, in Ebraico, sanscrito, greco e latino
+
+
+padre olot, che cura edcazione
+* Giacomo
+* Paolina
+* Carlo
+
+10 figli, 3sopravviviono
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUyNTg3NTZdfQ==
+eyJoaXN0b3J5IjpbMTI2MDkwMDIyNF19
 -->
