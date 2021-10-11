@@ -47,8 +47,8 @@ milazzo, borbonici sconfitti di nuovo e si ritirano in calabria
 
 occorre ingraziarsi classe dirigente locale
 
-popolazion
+popolazione locale pensa che i garibaldini li liberino dai latifondisti, ma i garibaldini devono ingraziarsi la classe locale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTY1NzQ2NjEsMTY3MjIwNTg4OCwyMT
-QyODU3NjU0LDU4MjQwODA0NCwtNzM0MzQxNDM1XX0=
+eyJoaXN0b3J5IjpbMTI3MTIwNDYwLDE2NzIyMDU4ODgsMjE0Mj
+g1NzY1NCw1ODI0MDgwNDQsLTczNDM0MTQzNV19
 -->
