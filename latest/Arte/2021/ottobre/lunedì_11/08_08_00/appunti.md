@@ -78,7 +78,11 @@ mai ombra nera, solo colore più scuro
 Seurat: puntillismo/puntinismo
 percezione del colore
 
+--
+
+Vincent Van Gog
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MDQ3MjMxLC0yMDE1ODQ0Mzc2LC0xMD
-YwMTkwNzQ3XX0=
+eyJoaXN0b3J5IjpbMTYyMjU0NjI2MCwtMjAxNTg0NDM3NiwtMT
+A2MDE5MDc0N119
 -->
