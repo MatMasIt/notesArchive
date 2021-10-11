@@ -26,7 +26,16 @@ non sfuggono alla flotta inglese, ma che non interviene
 
 sbarcano a Marsala, Garibaldi luogotenente
 
+Garibaldini vs borbonici
 
+truppe borboniche poco preparate e motivate
+
+Appena i Garibaldini arrivano a Palermo, la città insorge
+
+Garibaldi proclama la caduta della Monarchia borbonica
+
+Francesco crispi 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNDA4MDQ0LC03MzQzNDE0MzVdfQ==
+eyJoaXN0b3J5IjpbMTU4MjcxMzA1Myw1ODI0MDgwNDQsLTczND
+M0MTQzNV19
 -->
