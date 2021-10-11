@@ -231,9 +231,20 @@ Legge epipteto, Jean Jacque Barthélemy
 
 
 
-Leopardi si avvicnia al meccanicismo deterministico
+Leopardi si avvicnia al meccanicismo deterministico e si allontana dal cattolicesimo
+
+Si accorge che anche antichi soffrivano di infelicità
+ripensa la teoria del piacere, infelicità dell'uomo è un suo dato ontologico
+
+
+la vita è
+* infelicità
+* sofferenza
+* male
+
+p. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzODA5MzU1LDY1NzI3MTM5Niw3MjQ5OD
+eyJoaXN0b3J5IjpbOTc0MjAzODA0LDY1NzI3MTM5Niw3MjQ5OD
 QyNTZdfQ==
 -->
