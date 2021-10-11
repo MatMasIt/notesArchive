@@ -60,8 +60,16 @@ padre olot, che cura edcazione
 
 p. 27 T.1
 
+Rapporto intenso padre-figlio
 
+il padre si accorge che ha un figlio miracoloso, lo vorrebbe religioso
+
+Giacomo Leopardi, talento di filofogia
+
+il padre è un po' geloso, non lo lascia andare
+
+900 lettere, epistolario di Leopardi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0OTg0MjU2XX0=
+eyJoaXN0b3J5IjpbLTE5NzE4MzA0MTAsNzI0OTg0MjU2XX0=
 -->
