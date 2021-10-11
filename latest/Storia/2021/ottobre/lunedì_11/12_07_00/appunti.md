@@ -40,8 +40,10 @@ riforme sociali:
 * riduzione tasse
 * assegnazione terre a chi aveva combattuto con volontari Garibaldini
 
-consenso popolazione locale aumentato
+consenso popolazione locale aumenta
+
+milazzo, borbonici sconfitti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU5Mzk2MTgsNTgyNDA4MDQ0LC03Mz
-QzNDE0MzVdfQ==
+eyJoaXN0b3J5IjpbMTQ0NDA0OTE0OSw1ODI0MDgwNDQsLTczND
+M0MTQzNV19
 -->
