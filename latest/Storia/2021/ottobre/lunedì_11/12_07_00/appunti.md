@@ -22,7 +22,7 @@ Misssione mal equipaggiata
 
 si impadroniscono di due navi a Vapore, partono da Quarto (E) e sbarcano a Marsala eludendo la marina del regno di Napoli
 
-non sfuggono alla flotta inglese, ma che non interviene 
+non sfuggono alla flotta inglese, ma che non interviene perchè unità italiana indebolisce Francia 
 
 sbarcano a Marsala, Garibaldi luogotenente
 
@@ -42,8 +42,8 @@ riforme sociali:
 
 consenso popolazione locale aumenta
 
-milazzo, borbonici sconfitti
+milazzo, borbonici sconfitti di nuovo e si ritirano in calabria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDA0OTE0OSw1ODI0MDgwNDQsLTczND
+eyJoaXN0b3J5IjpbMjE0Mjg1NzY1NCw1ODI0MDgwNDQsLTczND
 M0MTQzNV19
 -->
