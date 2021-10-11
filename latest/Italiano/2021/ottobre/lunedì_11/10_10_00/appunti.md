@@ -226,7 +226,14 @@ logos greco -> ragione illumiistica, che ha disilluso l'uomo
 infelicità umana come fenomeno storico
 
 i moderni non possono più trovare riparo
+
+Legge epipteto, Jean Jacque Barthélemy
+
+
+
+Leopardi si avvicnia al meccanicismo deterministico
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTE3ODIyOSw2NTcyNzEzOTYsNzI0OT
-g0MjU2XX0=
+eyJoaXN0b3J5IjpbNDIzODA5MzU1LDY1NzI3MTM5Niw3MjQ5OD
+QyNTZdfQ==
 -->
