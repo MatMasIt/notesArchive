@@ -43,7 +43,10 @@ riforme sociali:
 consenso popolazione locale aumenta
 
 milazzo, borbonici sconfitti di nuovo e si ritirano in calabria
+
+
+occorre ingraziarsi classe dirigente locale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0Mjg1NzY1NCw1ODI0MDgwNDQsLTczND
-M0MTQzNV19
+eyJoaXN0b3J5IjpbMTY3MjIwNTg4OCwyMTQyODU3NjU0LDU4Mj
+QwODA0NCwtNzM0MzQxNDM1XX0=
 -->
