@@ -44,7 +44,11 @@ Faccia donna molto simile a quello di una famosa prostituta
 
 
 ## Impressionismo
-dal
+dal 1860
+da sviluppo grandi cittàù
+
+Monet scappa in campagna
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzMDE4MDQ0LC0xMDYwMTkwNzQ3XX0=
+eyJoaXN0b3J5IjpbMTcyOTMwMTAzNCwtMTA2MDE5MDc0N119
 -->
