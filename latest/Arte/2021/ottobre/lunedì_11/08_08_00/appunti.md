@@ -90,7 +90,13 @@ fino a 30 anni ha studiato per fare pastore
 
 poi si interessa a pittura, ma all'inizio si sente incapaace
 
+poi dipinge molto in manicomio
+
+Gauguin vive in polinesia e dipinge quadri
+
+Ogni tanto torna 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU3MjUxNDksLTIwMTU4NDQzNzYsLT
-EwNjAxOTA3NDddfQ==
+eyJoaXN0b3J5IjpbLTE3OTcxNTUzMiwtMTk3NTcyNTE0OSwtMj
+AxNTg0NDM3NiwtMTA2MDE5MDc0N119
 -->
