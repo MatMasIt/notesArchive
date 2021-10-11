@@ -272,7 +272,11 @@ Ha letto
 
 
 p.21-22
+
+infelicità / noia / tedio
+
+maggi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDg4NzAwLC05OTgxNTExNDcsNjU3Mj
-cxMzk2LDcyNDk4NDI1Nl19
+eyJoaXN0b3J5IjpbMTM1NzM0MzExOCwtOTk4MTUxMTQ3LDY1Nz
+I3MTM5Niw3MjQ5ODQyNTZdfQ==
 -->
