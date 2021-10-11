@@ -143,7 +143,16 @@ Bologna, frequentazioni amorose-intellettuale
 
 Firenze, Pietro Giordani
 
-Gabinetto Viesseuc+x,++ùù
+Gabinetto Viesseux, che edita la rivista _Antologia_
+
+un circolo
+
+
+Incontro con Manzoni
+
+p.11
+
+criticat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTk0NzMzNyw3MjQ5ODQyNTZdfQ==
+eyJoaXN0b3J5IjpbNjY4NjA1NjYwLDcyNDk4NDI1Nl19
 -->
