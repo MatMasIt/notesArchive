@@ -71,8 +71,14 @@ Mai durante opera, sempre prima o dopo
 
 Cèzanne, va a vivere in provenza
 
+In impressionismo:
+mai ombra nera, solo colore più scuro
+
+
+Seurat: puntillismo/puntinismo
+percezione del colore
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU4NDQzNzYsLTEwNjAxOTA3NDddfQ
-==
+eyJoaXN0b3J5IjpbMzQ2MDQ3MjMxLC0yMDE1ODQ0Mzc2LC0xMD
+YwMTkwNzQ3XX0=
 -->
