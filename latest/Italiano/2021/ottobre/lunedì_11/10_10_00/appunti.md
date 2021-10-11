@@ -123,6 +123,8 @@ malamente impressionato, non trova nes suno al suo llivello
 
 ha già scritto poesie civili (_Gli idilli_, ha già composto l'infinito)
 
+Una volta chiamati "Piccoli idilli"
+
 
 Torna a Recanti
 
@@ -158,7 +160,9 @@ A pisa, scrive alla sorella Paolina, che ha ripreso a comporre versi ==all'antic
 
 Canti pisano-recanatesi
 
-
+una volta chiamati "Grandi Idilli" (Francesco de Santis)
+* Le ricordanze
+* La quiete dopo la tem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDY0NTA5OCw3MjQ5ODQyNTZdfQ==
+eyJoaXN0b3J5IjpbMjA4OTAwNjg2Myw3MjQ5ODQyNTZdfQ==
 -->
