@@ -277,7 +277,9 @@ infelicità / noia / tedio
 
 maggio '28 Zibaldone 4306
 La noia
+
+Poesia costretta ad esprimere l'arido vero ma che può ripescare l'infanzia e sopperire alla condizione di felicità umana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzg3Nzk1NSwtOTk4MTUxMTQ3LDY1Nz
-I3MTM5Niw3MjQ5ODQyNTZdfQ==
+eyJoaXN0b3J5IjpbLTk2MTY1MzUwMSwtMjIzODc3OTU1LC05OT
+gxNTExNDcsNjU3MjcxMzk2LDcyNDk4NDI1Nl19
 -->
