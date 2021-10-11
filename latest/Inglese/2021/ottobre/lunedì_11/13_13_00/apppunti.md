@@ -1,4 +1,4 @@
-#  Lezione di Storia (6° ora)
+#  Lezione di Inglese (6° ora)
 ## Lunedì 11 ottobre 2021, 13:13:00
 
 Thanks to immagination the poet can shade a new light to a real object or to an emotion provoked by it (inner eye)
@@ -35,6 +35,6 @@ The passion is not the same of the time but it resembles the one caused by curre
 
 similar but not equal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzA2MjcyODcsMTE1MTI2MzU0MCwtMT
-I0OTY4NDg5MV19
+eyJoaXN0b3J5IjpbNjk2MDAxNDkwLC0xNDMwNjI3Mjg3LDExNT
+EyNjM1NDAsLTEyNDk2ODQ4OTFdfQ==
 -->
