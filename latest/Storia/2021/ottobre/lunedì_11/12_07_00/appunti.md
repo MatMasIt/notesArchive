@@ -58,9 +58,16 @@ Contadini vennero fucilati a causa di aver ucciso dei notai
 
 classe dirigente vuole accellerare annessione per vitare un assetto democratico-socialista
 
+7 ottobre, Garibaldi arriva a Napoli
+Mazzini e Cattaneo li raggiungono
+
+
+Cavour teme tentativo conquista stato pontificio
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTY4ODM5LDEyNzEyMDQ2MCwxNjcyMj
-A1ODg4LDIxNDI4NTc2NTQsNTgyNDA4MDQ0LC03MzQzNDE0MzVd
-fQ==
+eyJoaXN0b3J5IjpbLTE1NzQ4NDg5ODUsLTk2MTY4ODM5LDEyNz
+EyMDQ2MCwxNjcyMjA1ODg4LDIxNDI4NTc2NTQsNTgyNDA4MDQ0
+LC03MzQzNDE0MzVdfQ==
 -->
