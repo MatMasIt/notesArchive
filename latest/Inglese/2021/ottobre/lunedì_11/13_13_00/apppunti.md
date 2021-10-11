@@ -28,7 +28,8 @@ He is a man, can evoke passions similar to a real thing
 Plesased with passions and volitions of the whole universe, not only his passions
 
 he creates the passions and volitions when he does not find them
+
+He can be influenced by absent things as they were present
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjcxNDk0MjAsLTEyNDk2ODQ4OTFdfQ
-==
+eyJoaXN0b3J5IjpbMTE1MTI2MzU0MCwtMTI0OTY4NDg5MV19
 -->
