@@ -30,6 +30,9 @@ Plesased with passions and volitions of the whole universe, not only his passion
 he creates the passions and volitions when he does not find them
 
 He can be influenced by absent things as they were present
+
+The passion is not the same of the time but it resembles the oe 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTI2MzU0MCwtMTI0OTY4NDg5MV19
+eyJoaXN0b3J5IjpbLTE0MTYxOTkwNTYsMTE1MTI2MzU0MCwtMT
+I0OTY4NDg5MV19
 -->
