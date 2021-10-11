@@ -285,8 +285,12 @@ Ottimisti cattolici mistificano il vero
 
 No nichilismo
 
+
+Uomo: solidal catena della ginestra
+
+Resistere come il fiore giallo di ginestra resiste alla lava
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODU2NjgzNCwtOTYxNjUzNTAxLC0yMj
-M4Nzc5NTUsLTk5ODE1MTE0Nyw2NTcyNzEzOTYsNzI0OTg0MjU2
-XX0=
+eyJoaXN0b3J5IjpbLTE2NzI0MTYwODgsLTk2MTY1MzUwMSwtMj
+IzODc3OTU1LC05OTgxNTExNDcsNjU3MjcxMzk2LDcyNDk4NDI1
+Nl19
 -->
