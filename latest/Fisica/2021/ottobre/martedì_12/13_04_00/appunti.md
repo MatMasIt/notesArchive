@@ -123,8 +123,11 @@ $$
 V_D=(0,07)^{\frac1{\gamma-1}}=(0,07)^{\frac1{\frac{5-3}{3}}}=0,0185m^3
 $$
 
+$$
+P_D=\frac{2894 J}{0,018}=156\text{kPa}
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTAzMDk2ODQsMTc2NTkzNDkyNCwtMj
-I2NDEzMDQwXX0=
+eyJoaXN0b3J5IjpbNzQ5NjczODM2LDE3NjU5MzQ5MjQsLTIyNj
+QxMzA0MF19
 -->
