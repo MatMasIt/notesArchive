@@ -1,8 +1,9 @@
 #  Lezione di Fisica (6° ora)
 ## Martedì 12 ottobre 2021, 13:04:00
+### es 80 scheda
 > **Dati**
-> $T_{C_1}=600K$
-> $T_{F_1}=300K$
+> $T_{C_1}=600 \text K$
+> $T_{F_1}=300 \text K$
 
 
 $$
@@ -16,12 +17,12 @@ $$
 
 
 $$
-W_1=Q_C\cdot \eta=4188J\cdot 0,5=209J
+W_1=Q_C\cdot \eta=4188\text J\cdot 0,5=209\text J
 $$
 
 ---
 $$
-\eta_2=1-\frac{T_{F_2}}{T_{C_2}}=1-\frac{260 \cancel{\text{K}}{310\cancel K}=0,16
+\eta_2=1-\frac{T_{F_2}}{T_{C_2}}=1-\frac{260 \cancel{\text{K}}}{310\cancel{\text{K}}}=0,16
 $$
 $$
 Q_{C_2}=\frac{W_2}{\eta_2}=\frac{209 \text J}{0,16}
@@ -35,6 +36,11 @@ $$
 $$
 Q_{F_2}=Q_{C_2}=(1306,25-209)J=1,1\text{kJ}
 $$
+
+
+---
+### es 81 sheda
+> Dat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODM3MjgxMiwtMjI2NDEzMDQwXX0=
+eyJoaXN0b3J5IjpbLTkwOTU1NTk0LC0yMjY0MTMwNDBdfQ==
 -->
