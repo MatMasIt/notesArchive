@@ -46,8 +46,14 @@ $$
 		  |
 
 $sp^3$: ibridazione
+
+Alcani
+
+Gruppo funzionale:
+caratterizza una intera famiglia
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjI4MzU1MiwtMjA1OTk0NzY2NCwxND
+eyJoaXN0b3J5IjpbMjEyMDQ4OTc4MSwtMjA1OTk0NzY2NCwxND
 IzNzM1NTMxLC0xOTkyNDUwNTczLC0xMTEzNjE2OTIxLDEzODEz
 MDM1XX0=
 -->
