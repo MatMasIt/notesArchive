@@ -45,8 +45,9 @@ $$
 		 -C-
 		  |
 
-$sp^3$
+$sp^3$: ibridazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTk5NDc2NjQsMTQyMzczNTUzMSwtMT
-k5MjQ1MDU3MywtMTExMzYxNjkyMSwxMzgxMzAzNV19
+eyJoaXN0b3J5IjpbLTI2NjI4MzU1MiwtMjA1OTk0NzY2NCwxND
+IzNzM1NTMxLC0xOTkyNDUwNTczLC0xMTEzNjE2OTIxLDEzODEz
+MDM1XX0=
 -->
