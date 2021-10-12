@@ -58,7 +58,13 @@ $$
 
 
 $$
+\eta=1-\frac{200\cancel{\text{K}}}{300 \cancel{\text{K}}}=0,33
+$$
+
+
+$$
+A_{AB}=\text{nRT}\ln\left(\frac{V_B}{V_A}\right)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODcwOTIzNTksLTIyNjQxMzA0MF19
+eyJoaXN0b3J5IjpbMTg1NzQ0NjY5MCwtMjI2NDEzMDQwXX0=
 -->
