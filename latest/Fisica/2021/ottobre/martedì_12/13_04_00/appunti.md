@@ -21,16 +21,20 @@ $$
 
 ---
 $$
-\eta_2=1-\frac{T_{F_2}}{T_{C_2}}=1-\frac{260 \cancel K}{310\cancel K}=0,16
+\eta_2=1-\frac{T_{F_2}}{T_{C_2}}=1-\frac{260 \cancel{\text{K}}{310\cancel K}=0,16
 $$
 $$
-Q_{C_2}=\frac{W_2}{\eta_2}=\frac{209 J}{0,16}
+Q_{C_2}=\frac{W_2}{\eta_2}=\frac{209 \text J}{0,16}
 $$
 
 
 $$
 \boxed{W_1=W_2}
 $$
+
+$$
+Q_{F_2}=Q_{C_2}=(1306,25-209)J=1,1\text{kJ}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTYyMTUzLC0yMjY0MTMwNDBdfQ==
+eyJoaXN0b3J5IjpbMTgyODM3MjgxMiwtMjI2NDEzMDQwXX0=
 -->
