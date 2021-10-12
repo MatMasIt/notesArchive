@@ -38,7 +38,14 @@ $${}^6C\\
 2s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}}\text{\textcircled{\tiny$\uparrow\downarrow$}}\\
 2p^2 \text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{}}E_{-}\end{cases} \end{equation}
 $$
+
+
+	      |
+		 -C-
+		  |
+
+$sp^3$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0ODk4MTA4OSwxNDIzNzM1NTMxLC0xOT
+eyJoaXN0b3J5IjpbMTM2ODM4MTgyMCwxNDIzNzM1NTMxLC0xOT
 kyNDUwNTczLC0xMTEzNjE2OTIxLDEzODEzMDM1XX0=
 -->
