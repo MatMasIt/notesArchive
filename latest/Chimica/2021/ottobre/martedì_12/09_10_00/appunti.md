@@ -52,8 +52,18 @@ Alcani
 Gruppo funzionale:
 caratterizza una intera famiglia
 
+
+idrocarburi (Alifatici)
+Alcani:
+$C$ ibridato $sp^3$
+4 legami covalenti
+
+
+---
+$C_2H_6$
+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDQ4OTc4MSwtMjA1OTk0NzY2NCwxND
-IzNzM1NTMxLC0xOTkyNDUwNTczLC0xMTEzNjE2OTIxLDEzODEz
-MDM1XX0=
+eyJoaXN0b3J5IjpbNjA4NDA1NzUzLC0yMDU5OTQ3NjY0LDE0Mj
+M3MzU1MzEsLTE5OTI0NTA1NzMsLTExMTM2MTY5MjEsMTM4MTMw
+MzVdfQ==
 -->
