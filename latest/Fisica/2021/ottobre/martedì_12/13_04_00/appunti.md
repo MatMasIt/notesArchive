@@ -127,7 +127,11 @@ $$
 P_D=\frac{2894 J}{0,018}=156\text{kPa}
 $$
 
+
+$$
+L_{CD}=nRT\n\left(\frac{18,5}{35}\right)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5NjczODM2LDE3NjU5MzQ5MjQsLTIyNj
-QxMzA0MF19
+eyJoaXN0b3J5IjpbMTg2OTA1NzM0MSwxNzY1OTM0OTI0LC0yMj
+Y0MTMwNDBdfQ==
 -->
