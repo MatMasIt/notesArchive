@@ -129,9 +129,17 @@ $$
 
 
 $$
-L_{CD}=nRT\n\left(\frac{18,5}{35}\right)
+L_{CD}=nRT\ln\left(\frac{18,5}{35}\right)=
 $$
+$$=2mol\cdot 8,31\frac{J}{molK}200K\ln\left(\frac{18,5}{35}\right)=2119J
+$$
+
+
+$$
+L_{TOT}=L_{AB}+L_{CD}
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTA1NzM0MSwxNzY1OTM0OTI0LC0yMj
+eyJoaXN0b3J5IjpbMTQ4Njg1MjkzMywxNzY1OTM0OTI0LC0yMj
 Y0MTMwNDBdfQ==
 -->
