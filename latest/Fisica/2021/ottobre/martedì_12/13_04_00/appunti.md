@@ -19,7 +19,13 @@ $$
 W_1=Q_C\cdot \eta=4188J\cdot 0,5=209J
 $$
 
-
+---
+$$
+\eta_2=1-\frac{T_{F_2}}{T_{C_2}}=1-\frac{260}{
+$$
+$$
+Q_{C_2}=\frac{W_2}{\eta_2}=\frac{209 J}{0,16}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODIwODg5NDEsLTIyNjQxMzA0MF19
+eyJoaXN0b3J5IjpbMTA3ODQ0NTY5NiwtMjI2NDEzMDQwXX0=
 -->
