@@ -29,8 +29,8 @@ Coppie:
 * condivise (legame)
 * libere
 
-M
+Maggiore distanza possibile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTc3MTYwNSwxNDIzNzM1NTMxLC0xOT
+eyJoaXN0b3J5IjpbMTk5MjY5ODg0OSwxNDIzNzM1NTMxLC0xOT
 kyNDUwNTczLC0xMTEzNjE2OTIxLDEzODEzMDM1XX0=
 -->
