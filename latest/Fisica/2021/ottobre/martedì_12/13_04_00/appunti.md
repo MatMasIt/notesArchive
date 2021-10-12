@@ -41,12 +41,24 @@ $$
 ---
 ### es 81 sheda
 > **Dati**
+> 
 > $\text{AB, CD}\to\text{Isoterma}$
-> $\text{BC}\to\text{Adiabatica} $
+> $\text{BC}\to\text{Adiabatica Irreversibilee}$
 > $\text{DA}\to\text{Adiabatica}$
 > 
 > ---
-> $P_A=
+> $P_A=6\text{atm}$
+> $T_A=300\text{K}$
+> $P_B=6\text{atm}$
+> 
+> ---
+> $V_C=35\text L$
+> $T_C=200K$
+
+
+
+$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjY1NDkzOCwtMjI2NDEzMDQwXX0=
+eyJoaXN0b3J5IjpbLTE5ODcwOTIzNTksLTIyNjQxMzA0MF19
 -->
