@@ -34,7 +34,11 @@ He can be influenced by absent things as they were present
 The passion is not the same of the time but it resembles the one caused by current events
 
 similar but not equal
+
+low, rustic life of humble people of the english countryside
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2MDAxNDkwLC0xNDMwNjI3Mjg3LDExNT
-EyNjM1NDAsLTEyNDk2ODQ4OTFdfQ==
+eyJoaXN0b3J5IjpbNTA2NjA2MDIsNjk2MDAxNDkwLC0xNDMwNj
+I3Mjg3LDExNTEyNjM1NDAsLTEyNDk2ODQ4OTFdfQ==
 -->
