@@ -30,7 +30,10 @@ Coppie:
 * libere
 
 Maggiore distanza possibile
+
+---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjY5ODg0OSwxNDIzNzM1NTMxLC0xOT
-kyNDUwNTczLC0xMTEzNjE2OTIxLDEzODEzMDM1XX0=
+eyJoaXN0b3J5IjpbMTMzODMxMDk2LDE0MjM3MzU1MzEsLTE5OT
+I0NTA1NzMsLTExMTM2MTY5MjEsMTM4MTMwMzVdfQ==
 -->
