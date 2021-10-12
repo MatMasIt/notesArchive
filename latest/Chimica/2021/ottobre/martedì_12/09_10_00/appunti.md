@@ -32,8 +32,13 @@ Coppie:
 Maggiore distanza possibile
 
 ---
-
+$${}^6C\\
+\Huge\uparrow\small\begin{equation} \begin{cases} 
+1s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}} E_{+}\\
+2s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}}\text{\textcircled{\tiny$\uparrow\downarrow$}}\\
+2p^2 \text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{}}E_{-}\end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODMxMDk2LDE0MjM3MzU1MzEsLTE5OT
-I0NTA1NzMsLTExMTM2MTY5MjEsMTM4MTMwMzVdfQ==
+eyJoaXN0b3J5IjpbMTQ0ODk4MTA4OSwxNDIzNzM1NTMxLC0xOT
+kyNDUwNTczLC0xMTEzNjE2OTIxLDEzODEzMDM1XX0=
 -->
