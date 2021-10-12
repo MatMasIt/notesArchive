@@ -54,6 +54,9 @@ $$
 > ---
 > $V_C=35\text L$
 > $T_C=200K$
+> 
+> ---
+> $n=2mol$
 
 
 
@@ -65,6 +68,12 @@ $$
 $$
 A_{AB}=\text{nRT}\ln\left(\frac{V_B}{V_A}\right)
 $$
+
+
+
+$$
+P_A\cdot V_A =P_B \cdot V_B
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzQ0NjY5MCwtMjI2NDEzMDQwXX0=
+eyJoaXN0b3J5IjpbLTI0MDMxNjQxOSwtMjI2NDEzMDQwXX0=
 -->
