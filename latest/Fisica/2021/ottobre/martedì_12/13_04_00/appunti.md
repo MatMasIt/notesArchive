@@ -41,7 +41,9 @@ $$
 ---
 ### es 81 sheda
 > **Dati**
+> ![](https://i.imgur.com/PF18ljC.jpg)
 > 
+> ---
 > $\text{AB, CD}\to\text{Isoterma}$
 > $\text{BC}\to\text{Adiabatica Irreversibilee}$
 > $\text{DA}\to\text{Adiabatica}$
@@ -94,6 +96,13 @@ $$
 $$
 =\frac322mol\cdot 8,31\frac{J}{mol K}100K=2493J
 $$
+
+---
+
+$$
+\Delta U=0 \imolies \Delta U
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTkzNDkyNCwtMjI2NDEzMDQwXX0=
+eyJoaXN0b3J5IjpbOTkzNjg5MTkwLDE3NjU5MzQ5MjQsLTIyNj
+QxMzA0MF19
 -->
