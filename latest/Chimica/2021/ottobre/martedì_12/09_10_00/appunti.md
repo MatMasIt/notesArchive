@@ -69,9 +69,14 @@ $CH_4$ Alcano
 $C_nH_{2n+2}$
 
 
-<u>$-ano$</u> 
+<u>-ano</u> 
+
+$C_1$ met-  $C_1H_4$
+$C_2$ et-     $C_2H_6$
+$C_3$ prop- $C_3H_8$
+$C_4$ but-   $C_4H_{10}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODcxODA4MiwtMjA1OTk0NzY2NCwxND
-IzNzM1NTMxLC0xOTkyNDUwNTczLC0xMTEzNjE2OTIxLDEzODEz
-MDM1XX0=
+eyJoaXN0b3J5IjpbMTk5NTA1NjM2LC0yMDU5OTQ3NjY0LDE0Mj
+M3MzU1MzEsLTE5OTI0NTA1NzMsLTExMTM2MTY5MjEsMTM4MTMw
+MzVdfQ==
 -->
