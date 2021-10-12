@@ -105,14 +105,14 @@ $$
 
 
 $$
-P_A\cdot V_A^\gamma=P_DV_D^\gamma
+P_A\cdot V_A^\gamma=P_DV_D^\gamma=P_DV_DV_D^{gamma-1}
 $$
 
 $$
-P_DV_D=P_CV_C=82,7Kj\cdot 35\cdot 10^{-3}m^3\\
-=2848\teJ
+P_DV_D=P_CV_C=82,7\text{KJ}\cdot 35\cdot 10^{-3}\text{m}^3\\
+=2848\text J
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcxOTI1NTYsMTc2NTkzNDkyNCwtMj
-I2NDEzMDQwXX0=
+eyJoaXN0b3J5IjpbNDU0NzUyNzU3LDE3NjU5MzQ5MjQsLTIyNj
+QxMzA0MF19
 -->
