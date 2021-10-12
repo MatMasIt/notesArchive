@@ -33,10 +33,11 @@ Maggiore distanza possibile
 
 ---
 $${}^6C\\
-\Huge\uparrow\small\begin{equation} \begin{cases} 
+\Huge\downarrow\small\begin{equation*} \begin{cases} 
 1s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}} E_{+}\\
+\frac{\quad\quad\quad\quad\quad}{}\\
 2s^2 \text{\textcircled{\tiny$\uparrow\downarrow$}}\text{\textcircled{\tiny$\uparrow\downarrow$}}\\
-2p^2 \text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{}}E_{-}\end{cases} \end{equation}
+2p^2 \text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{\tiny$\uparrow$}}\text{\textcircled{}}E_{+}\end{cases} \end{equation*}
 $$
 
 
@@ -46,6 +47,6 @@ $$
 
 $sp^3$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODM4MTgyMCwxNDIzNzM1NTMxLC0xOT
-kyNDUwNTczLC0xMTEzNjE2OTIxLDEzODEzMDM1XX0=
+eyJoaXN0b3J5IjpbLTIwNTk5NDc2NjQsMTQyMzczNTUzMSwtMT
+k5MjQ1MDU3MywtMTExMzYxNjkyMSwxMzgxMzAzNV19
 -->
