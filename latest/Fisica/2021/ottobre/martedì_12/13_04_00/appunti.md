@@ -40,7 +40,13 @@ $$
 
 ---
 ### es 81 sheda
-> Dat
+> **Dati**
+> $\text{AB, CD}\to\text{Isoterma}$
+> $\text{BC}\to\text{Adiabatica} $
+> $\text{DA}\to\text{Adiabatica}$
+> 
+> ---
+> $P_A=
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTU1NTk0LC0yMjY0MTMwNDBdfQ==
+eyJoaXN0b3J5IjpbLTQzMjY1NDkzOCwtMjI2NDEzMDQwXX0=
 -->
