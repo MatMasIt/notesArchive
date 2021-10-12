@@ -5,9 +5,10 @@
 > $T_{F_1}=300K$
 
 
-$\mu=
+$\mu=1-\frac{T_{F_1}}{T_{C_1}}=1-\frac{300\cancel K}{600\cancel K}=0,5$
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2MTY4MTA3LC0yMjY0MTMwNDBdfQ==
+eyJoaXN0b3J5IjpbNDM4NTIyNzk4LC0yMjY0MTMwNDBdfQ==
 -->
