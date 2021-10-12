@@ -10,8 +10,9 @@ Cristallo: struttura ordinata, a bassa entropia, stato energetico più basso
 
 $CO_2$: Molecola polare: struttura lineare
 
-$H_2O$: 
+$H_2O$: polare
+i dipoli non si cancellano, angolo di equilibrio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzkyNDkzMDcsLTExMTM2MTY5MjEsMT
+eyJoaXN0b3J5IjpbLTE5OTI0NTA1NzMsLTExMTM2MTY5MjEsMT
 M4MTMwMzVdfQ==
 -->
