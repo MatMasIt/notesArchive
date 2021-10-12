@@ -61,9 +61,17 @@ $C$ ibridato $sp^3$
 
 ---
 $C_2H_6$
-$
+$C_2H_5OH$
+$CH_3COOH$
+
+$CH_4$ Alcano
+
+$C_nH_{2n+2}$
+
+
+<u>$-ano$</u> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4NDA1NzUzLC0yMDU5OTQ3NjY0LDE0Mj
-M3MzU1MzEsLTE5OTI0NTA1NzMsLTExMTM2MTY5MjEsMTM4MTMw
-MzVdfQ==
+eyJoaXN0b3J5IjpbLTgzODcxODA4MiwtMjA1OTk0NzY2NCwxND
+IzNzM1NTMxLC0xOTkyNDUwNTczLC0xMTEzNjE2OTIxLDEzODEz
+MDM1XX0=
 -->
