@@ -4,6 +4,8 @@
 
 ### Legame ionico
 Legame di natura elettrostatica tra elementi aventi carica diversa
+
+Cristallo: struttura ordinata, a bassa entropia, stato energetico più basso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTMwMzVdfQ==
+eyJoaXN0b3J5IjpbLTExMTM2MTY5MjEsMTM4MTMwMzVdfQ==
 -->
