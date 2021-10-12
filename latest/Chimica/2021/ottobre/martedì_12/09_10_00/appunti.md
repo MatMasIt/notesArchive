@@ -20,7 +20,17 @@ Gas Nobili: hanno una configurazione elettronica stabile
 elio: duetto
 
 tutti raggiungono l'ottetto, stabilità elettronia
+
+VSEPR: _Valence shell electon pair repulsion_
+
+> Teoria di repulsione delle coppie di elettroni del guscio di valenza
+
+Coppie:
+* condivise (legame)
+* libere
+
+M
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzczNTUzMSwtMTk5MjQ1MDU3MywtMT
-ExMzYxNjkyMSwxMzgxMzAzNV19
+eyJoaXN0b3J5IjpbLTg3NTc3MTYwNSwxNDIzNzM1NTMxLC0xOT
+kyNDUwNTczLC0xMTEzNjE2OTIxLDEzODEzMDM1XX0=
 -->
