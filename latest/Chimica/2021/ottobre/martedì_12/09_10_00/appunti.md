@@ -8,8 +8,10 @@ Legame di natura elettrostatica tra elementi aventi carica diversa
 Cristallo: struttura ordinata, a bassa entropia, stato energetico più basso
 
 
-Molecola polare: struttura lineare
+$CO_2$: Molecola polare: struttura lineare
+
+$H_2O$: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjc3OTA3NCwtMTExMzYxNjkyMSwxMz
-gxMzAzNV19
+eyJoaXN0b3J5IjpbLTIwNzkyNDkzMDcsLTExMTM2MTY5MjEsMT
+M4MTMwMzVdfQ==
 -->
