@@ -16,10 +16,10 @@ $$
 
 
 $$
-W_1=
+W_1=Q_C\cdot \eta=4188J\cdot 0,5=209J
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDQwMDcwMSwtMjI2NDEzMDQwXX0=
+eyJoaXN0b3J5IjpbLTExODIwODg5NDEsLTIyNjQxMzA0MF19
 -->
