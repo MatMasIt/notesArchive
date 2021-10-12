@@ -112,7 +112,17 @@ $$
 P_DV_D=P_CV_C=82,7\text{KJ}\cdot 35\cdot 10^{-3}\text{m}^3\\
 =2848\text J
 $$
+
+
+$$
+609,7kPa(8,18\cdot 10^3m^3)^3=2893J\cdot V_D^{\gamma-1}
+$$
+
+
+$$
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0NzUyNzU3LDE3NjU5MzQ5MjQsLTIyNj
-QxMzA0MF19
+eyJoaXN0b3J5IjpbMTQ3ODQ1NjkzOSwxNzY1OTM0OTI0LC0yMj
+Y0MTMwNDBdfQ==
 -->
