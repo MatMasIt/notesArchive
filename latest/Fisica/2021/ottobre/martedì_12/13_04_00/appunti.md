@@ -64,16 +64,27 @@ $$
 \eta=1-\frac{200\cancel{\text{K}}}{300 \cancel{\text{K}}}=0,33
 $$
 
-
-$$
-A_{AB}=\text{nRT}\ln\left(\frac{V_B}{V_A}\right)
-$$
+---
 
 
 
 $$
-P_A\cdot V_A =P_B \cdot V_B
+P_A\cdot V_A =P_B \cdot V_B\\
+$$
+$$
+\cancel{P_A}\cdot V_A=\frac12\cancel{P_A}\cdot V_B\\
+$$
+$$
+V_B=2V_A
+$$
+
+---
+$$
+W_{AB}=\text{nRT}\ln\left(\frac{V_B}{V_A}\right)=
+$$
+$$
+2\cancel\t
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDMxNjQxOSwtMjI2NDEzMDQwXX0=
+eyJoaXN0b3J5IjpbLTI5Nzg2MjI4OSwtMjI2NDEzMDQwXX0=
 -->
