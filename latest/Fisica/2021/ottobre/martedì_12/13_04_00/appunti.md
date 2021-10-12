@@ -102,7 +102,12 @@ $$
 $$
 \Delta U=0 \implies \Delta U_{AB}+\Delta U_{BC}+\Delta U_{CD}+\Delta U_{AD}=0
 $$
+
+
+$$
+P_A\cdot 
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDQ4ODI0NiwxNzY1OTM0OTI0LC0yMj
-Y0MTMwNDBdfQ==
+eyJoaXN0b3J5IjpbLTIwNjM2NDM1MDAsMTc2NTkzNDkyNCwtMj
+I2NDEzMDQwXX0=
 -->
