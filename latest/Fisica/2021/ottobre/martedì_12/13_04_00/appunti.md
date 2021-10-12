@@ -120,9 +120,11 @@ $$
 
 
 $$
-
+V_D=(0,07)^{\frac1{\gamma-1}}=(0,07)^{\frac1{\frac{5-3}{3}}}=0,0185m^3
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODQ1NjkzOSwxNzY1OTM0OTI0LC0yMj
-Y0MTMwNDBdfQ==
+eyJoaXN0b3J5IjpbLTEzMTAzMDk2ODQsMTc2NTkzNDkyNCwtMj
+I2NDEzMDQwXX0=
 -->
