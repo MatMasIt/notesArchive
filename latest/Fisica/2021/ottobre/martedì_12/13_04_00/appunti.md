@@ -83,8 +83,8 @@ $$
 W_{AB}=\text{nRT}\ln\left(\frac{V_B}{V_A}\right)=
 $$
 $$
-2\cancel\t
+2\cancel{\text{mol}}\cdot 8,31 \frac{\text J}{\cancel{\text{mol K}}}\cdot 300\text K\ln\left( \frac{2\cancel{V_A}}{V_A}\right)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Nzg2MjI4OSwtMjI2NDEzMDQwXX0=
+eyJoaXN0b3J5IjpbLTE4NTEyMjI4NjQsLTIyNjQxMzA0MF19
 -->
