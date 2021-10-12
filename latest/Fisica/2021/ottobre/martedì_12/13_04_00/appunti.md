@@ -100,9 +100,9 @@ $$
 ---
 
 $$
-\Delta U=0 \imolies \Delta U
+\Delta U=0 \implies \Delta U_{AB}+\Delta U_{BC}+\Delta U_{CD}+\Delta U_{AD}=0
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNjg5MTkwLDE3NjU5MzQ5MjQsLTIyNj
-QxMzA0MF19
+eyJoaXN0b3J5IjpbMTg4NDQ4ODI0NiwxNzY1OTM0OTI0LC0yMj
+Y0MTMwNDBdfQ==
 -->
