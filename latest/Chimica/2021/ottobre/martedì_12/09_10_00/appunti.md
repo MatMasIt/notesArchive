@@ -2,7 +2,8 @@
 ## Martedì 12 ottobre 2021, 09:10:00
 
 
-Legame  
+### Legame ionico
+Legame di natura elettrostatica tra elementi aventi carica diversa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjIwNzg0MF19
+eyJoaXN0b3J5IjpbMTM4MTMwMzVdfQ==
 -->
