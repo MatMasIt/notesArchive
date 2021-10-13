@@ -35,6 +35,8 @@ Morale del dovere e delle intenzioni
 kant: non conta la felicità
 
 Kant appartiene al pietismo, corrente del luteranesimo, molto incentrata sulla corretta morale
+
+Il cristiano segue il comando di Dio perchè teme la condanna di Dio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzEzNDI2NjhdfQ==
+eyJoaXN0b3J5IjpbLTE2MjU2MTA3OTZdfQ==
 -->
