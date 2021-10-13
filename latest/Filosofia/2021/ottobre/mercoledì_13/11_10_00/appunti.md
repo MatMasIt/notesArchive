@@ -47,6 +47,13 @@ Autonomia morale dalla religione viene sancita
 moralità diversa dalla autorità divina
 
 
+
+
+Critica della ragione pratica
+
+
+Nella ragione pratica rispetto a quella pura, poss
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTExNzg2NywtMzU4MTQ5MTI3XX0=
+eyJoaXN0b3J5IjpbNTM2MTI5NDYyLC03MDkxMTc4NjcsLTM1OD
+E0OTEyN119
 -->
