@@ -68,8 +68,13 @@ eroico
 studi del 1904 su Leopardi, Bonaventura Zimbini
 
 
-p 15 Zibaldone, scartafaccio,
+p 15 Zibaldone, scartafaccio, brogliaccio
+
+Citazioni, riflessioni, commenti linguistici e filologici
+
+
+indici tematici, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3ODQ5NTMzLDE0MzI5MTc0MzcsLTEyMD
-I3NTQyOTMsLTE2MjYyNDczNzQsLTE0MDc0NzgzNTVdfQ==
+eyJoaXN0b3J5IjpbLTE5OTkxODA5MjIsMTQzMjkxNzQzNywtMT
+IwMjc1NDI5MywtMTYyNjI0NzM3NCwtMTQwNzQ3ODM1NV19
 -->
