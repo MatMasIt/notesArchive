@@ -76,8 +76,10 @@ Citazioni, riflessioni, commenti linguistici e filologici
 indici tematici, poi ad un certo punto ha smesso
 
 
-Pensieri di varia filosofia e di bella natura
+Pensieri di varia filosofia e di bella natura chiamato all'inixio
+
+poi Zibaldone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjA0NDQ1MCwxNDMyOTE3NDM3LC0xMj
+eyJoaXN0b3J5IjpbMTYyNTUzMjE5NiwxNDMyOTE3NDM3LC0xMj
 AyNzU0MjkzLC0xNjI2MjQ3Mzc0LC0xNDA3NDc4MzU1XX0=
 -->
