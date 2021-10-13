@@ -37,8 +37,12 @@ Utrè: oltranza
 esagrato, smodato
 
 
-Identifico te tra i no
+Ti dis-identifico
+
+immite (non mite)
+
+frigida: tu femminile, che sfugge, che deve muoversi tra i _sic_ e i _sig_ che deve comunicare il significato vero ma non riesce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE2ODIzMDIsLTE2MjYyNDczNzQsLT
+eyJoaXN0b3J5IjpbLTEyMDI3NTQyOTMsLTE2MjYyNDczNzQsLT
 E0MDc0NzgzNTVdfQ==
 -->
