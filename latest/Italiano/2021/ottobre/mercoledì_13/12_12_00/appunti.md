@@ -55,8 +55,11 @@ Leopardi: leggerezza
 * luna
 
 
+Leopardi svuota linguaggio
 
+
+Le Operette Morali di leopardi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzEzMjI1LDE0MzI5MTc0MzcsLTEyMD
-I3NTQyOTMsLTE2MjYyNDczNzQsLTE0MDc0NzgzNTVdfQ==
+eyJoaXN0b3J5IjpbMTIwNTcxMDY4OSwxNDMyOTE3NDM3LC0xMj
+AyNzU0MjkzLC0xNjI2MjQ3Mzc0LC0xNDA3NDc4MzU1XX0=
 -->
