@@ -1,5 +1,5 @@
-# Titl
-  
+# Lezione di Filsofia (3° ora) 
+## Mercoledì 13 ottobre 2021, 11:10:00
 
 Kant, oltre a critica ragion pratica (1788)  
 altre opere di tipo morale:  
@@ -33,6 +33,8 @@ Filosofia morale incentrata sul concetto di **dovere**
 Morale del dovere e delle intenzioni
 
 kant: non conta la felicità
+
+Kant appartiene al pietismo, corrente del luteranesimo, molto incentrata sulla corretta morale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjAzODcyOV19
+eyJoaXN0b3J5IjpbLTEwMzEzNDI2NjhdfQ==
 -->
