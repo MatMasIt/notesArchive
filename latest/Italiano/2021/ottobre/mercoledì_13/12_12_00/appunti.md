@@ -79,7 +79,13 @@ indici tematici, poi ad un certo punto ha smesso
 Pensieri di varia filosofia e di bella natura chiamato all'inixio
 
 poi Zibaldone
+
+
+operette:
+* dialoghi
+* elogi
+* narrazioni storiche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTUzMjE5NiwxNDMyOTE3NDM3LC0xMj
-AyNzU0MjkzLC0xNjI2MjQ3Mzc0LC0xNDA3NDc4MzU1XX0=
+eyJoaXN0b3J5IjpbMzgxNzI4ODA1LDE0MzI5MTc0MzcsLTEyMD
+I3NTQyOTMsLTE2MjYyNDczNzQsLTE0MDc0NzgzNTVdfQ==
 -->
