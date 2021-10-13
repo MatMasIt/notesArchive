@@ -59,7 +59,17 @@ Leopardi svuota linguaggio
 
 
 Le Operette Morali di leopardi
+
+pessimismo
+cosmico 
+storico
+eroico
+
+studi del 1904 su Leopardi, Bonaventura Zimbini
+
+
+p 15 Zibaldone, scartafaccio,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTcxMDY4OSwxNDMyOTE3NDM3LC0xMj
-AyNzU0MjkzLC0xNjI2MjQ3Mzc0LC0xNDA3NDc4MzU1XX0=
+eyJoaXN0b3J5IjpbNTI3ODQ5NTMzLDE0MzI5MTc0MzcsLTEyMD
+I3NTQyOTMsLTE2MjYyNDczNzQsLTE0MDc0NzgzNTVdfQ==
 -->
