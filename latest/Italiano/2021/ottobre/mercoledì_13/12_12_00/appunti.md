@@ -73,8 +73,11 @@ p 15 Zibaldone, scartafaccio, brogliaccio
 Citazioni, riflessioni, commenti linguistici e filologici
 
 
-indici tematici, 
+indici tematici, poi ad un certo punto ha smesso
+
+
+Pensieri di varia filosofia e di bella natura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTkxODA5MjIsMTQzMjkxNzQzNywtMT
-IwMjc1NDI5MywtMTYyNjI0NzM3NCwtMTQwNzQ3ODM1NV19
+eyJoaXN0b3J5IjpbLTc5MjA0NDQ1MCwxNDMyOTE3NDM3LC0xMj
+AyNzU0MjkzLC0xNjI2MjQ3Mzc0LC0xNDA3NDc4MzU1XX0=
 -->
