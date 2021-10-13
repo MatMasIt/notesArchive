@@ -45,6 +45,8 @@ Autonomia morale dalla religione viene sancita
 
 
 moralità diversa dalla autorità divina
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODE0OTEyN119
+eyJoaXN0b3J5IjpbLTcwOTExNzg2NywtMzU4MTQ5MTI3XX0=
 -->
