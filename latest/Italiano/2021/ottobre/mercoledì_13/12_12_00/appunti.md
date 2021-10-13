@@ -94,7 +94,10 @@ Dialoghi in passato scritti da
 Ma modello di Leopardi: luciano di Samosata
 
 p.122 ultimo capoverso
+
+p.124
+Molti personaggi classici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDg4NzQxMiwxNDMyOTE3NDM3LC0xMj
+eyJoaXN0b3J5IjpbMTY0MTU2NDE1OCwxNDMyOTE3NDM3LC0xMj
 AyNzU0MjkzLC0xNjI2MjQ3Mzc0LC0xNDA3NDc4MzU1XX0=
 -->
