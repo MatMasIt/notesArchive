@@ -3,8 +3,11 @@
 
 Oltranza oltraggio, Zanzotto
 
-Neavangyu
+Ripudiare linguaggio società industriale
+
+
+liguaggio alternativo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjM2OTQ2OSwtMTYyNjI0NzM3NCwtMT
-QwNzQ3ODM1NV19
+eyJoaXN0b3J5IjpbNzkyMDMxNDU2LC0xNjI2MjQ3Mzc0LC0xND
+A3NDc4MzU1XX0=
 -->
