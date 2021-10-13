@@ -1,8 +1,10 @@
 # Lezione di Italiano (4° ora) 
 ## Mercoledì 13 ottobre 2021, 12:12:00
 
-Oltranza oltraggio
+Oltranza oltraggio, Zanzotto
+
+Neavangyu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjYyNDczNzQsLTE0MDc0NzgzNTVdfQ
-==
+eyJoaXN0b3J5IjpbLTgwMjM2OTQ2OSwtMTYyNjI0NzM3NCwtMT
+QwNzQ3ODM1NV19
 -->
