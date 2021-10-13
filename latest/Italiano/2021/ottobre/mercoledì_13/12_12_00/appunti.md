@@ -23,7 +23,10 @@ significante si svuota, uso vuoto
 
 
 saper di nuovo uasre la parla con significato pieno e autentico
+
+
+Testi letterari classici nostrani o stranieri, ricerca significato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQ1NjU1MTAsLTE2MjYyNDczNzQsLT
-E0MDc0NzgzNTVdfQ==
+eyJoaXN0b3J5IjpbMTMwMTAwMzQ0NywtMTYyNjI0NzM3NCwtMT
+QwNzQ3ODM1NV19
 -->
