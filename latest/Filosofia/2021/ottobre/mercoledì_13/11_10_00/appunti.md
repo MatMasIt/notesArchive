@@ -37,6 +37,14 @@ kant: non conta la felicità
 Kant appartiene al pietismo, corrente del luteranesimo, molto incentrata sulla corretta morale
 
 Il cristiano segue il comando di Dio perchè teme la condanna di Dio
+
+Allora il modello morale del cristianesimo è immorale 
+
+
+Autonomia morale dalla religione viene sancita
+
+
+moralità diversa dalla autorità divina
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU2MTA3OTZdfQ==
+eyJoaXN0b3J5IjpbLTM1ODE0OTEyN119
 -->
