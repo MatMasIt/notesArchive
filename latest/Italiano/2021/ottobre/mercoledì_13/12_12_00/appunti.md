@@ -85,7 +85,16 @@ operette:
 * dialoghi
 * elogi
 * narrazioni storiche
+
+Dialoghi in passato scritti da 
+* Tasso
+* Galileo
+* Platone
+
+Ma modello di Leopardi: luciano di Samosata
+
+p.122 ultimo capoverso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxNzI4ODA1LDE0MzI5MTc0MzcsLTEyMD
-I3NTQyOTMsLTE2MjYyNDczNzQsLTE0MDc0NzgzNTVdfQ==
+eyJoaXN0b3J5IjpbMjE0MDg4NzQxMiwxNDMyOTE3NDM3LC0xMj
+AyNzU0MjkzLC0xNjI2MjQ3Mzc0LC0xNDA3NDc4MzU1XX0=
 -->
