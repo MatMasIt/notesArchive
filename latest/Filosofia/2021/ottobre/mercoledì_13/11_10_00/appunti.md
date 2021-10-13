@@ -57,8 +57,8 @@ Nella ragione pratica rispetto a quella pura, possiamo prescindere dalla esperie
 doversoso in base a quello che la ragione ci dice
 
 
-
+Etica del dovere, intenzione e dell'autonomia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NjIyOTUwLC03MDkxMTc4NjcsLTM1OD
-E0OTEyN119
+eyJoaXN0b3J5IjpbNDEwODAxMjksLTcwOTExNzg2NywtMzU4MT
+Q5MTI3XX0=
 -->
