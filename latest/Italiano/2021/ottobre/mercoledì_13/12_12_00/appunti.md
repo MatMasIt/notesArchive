@@ -48,8 +48,15 @@ termini strampalati
 
 ---
 
+Leopardi: leggerezza
+* Uccelli che volano
+* Donne che cantano
+* acqua
+* luna
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDAwMjI1NjQsMTQzMjkxNzQzNywtMT
-IwMjc1NDI5MywtMTYyNjI0NzM3NCwtMTQwNzQ3ODM1NV19
+eyJoaXN0b3J5IjpbMTE3NzEzMjI1LDE0MzI5MTc0MzcsLTEyMD
+I3NTQyOTMsLTE2MjYyNDczNzQsLTE0MDc0NzgzNTVdfQ==
 -->
