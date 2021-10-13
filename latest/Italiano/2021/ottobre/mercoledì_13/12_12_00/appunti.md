@@ -7,7 +7,10 @@ Ripudiare linguaggio società industriale
 
 
 liguaggio alternativo
+
+
+svuotamento di senso nell'uso della lingua, mercificazione della lingua, svuotamento di significato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMDMxNDU2LC0xNjI2MjQ3Mzc0LC0xND
+eyJoaXN0b3J5IjpbODkyMTY3Njk1LC0xNjI2MjQ3Mzc0LC0xND
 A3NDc4MzU1XX0=
 -->
