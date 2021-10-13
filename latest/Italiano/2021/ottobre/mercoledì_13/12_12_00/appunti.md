@@ -44,7 +44,12 @@ immite (non mite)
 frigida: tu femminile, che sfugge, che deve muoversi tra i _sic_ e i _sig_ che deve comunicare il significato vero ma non riesce
 
 termini strampalati
+
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjkxNzQzNywtMTIwMjc1NDI5MywtMT
-YyNjI0NzM3NCwtMTQwNzQ3ODM1NV19
+eyJoaXN0b3J5IjpbLTE5NDAwMjI1NjQsMTQzMjkxNzQzNywtMT
+IwMjc1NDI5MywtMTYyNjI0NzM3NCwtMTQwNzQ3ODM1NV19
 -->
