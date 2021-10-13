@@ -26,7 +26,15 @@ saper di nuovo uasre la parla con significato pieno e autentico
 
 
 Testi letterari classici nostrani o stranieri, ricerca significato
+
+
+tu montaliano
+
+
+Vuoto spinto?
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTAwMzQ0NywtMTYyNjI0NzM3NCwtMT
-QwNzQ3ODM1NV19
+eyJoaXN0b3J5IjpbLTUyNTA2MzksLTE2MjYyNDczNzQsLTE0MD
+c0NzgzNTVdfQ==
 -->
