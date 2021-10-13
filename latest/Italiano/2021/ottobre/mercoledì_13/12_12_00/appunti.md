@@ -11,8 +11,14 @@ liguaggio alternativo
 
 svuotamento di senso nell'uso della lingua, mercificazione della lingua, svuotamento di significato
 
-							
+				     referente
+					/\
+				   /  \
+				  /    \
+	significante -------- significato
+
+Modello linguistico di Jacobson
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNjE1MTA3LC0xNjI2MjQ3Mzc0LC0xND
-A3NDc4MzU1XX0=
+eyJoaXN0b3J5IjpbMjA2MDg5OTgxNCwtMTYyNjI0NzM3NCwtMT
+QwNzQ3ODM1NV19
 -->
