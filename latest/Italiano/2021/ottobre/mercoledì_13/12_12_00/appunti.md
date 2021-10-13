@@ -20,7 +20,10 @@ svuotamento di senso nell'uso della lingua, mercificazione della lingua, svuotam
 Modello linguistico di Jacobson
 
 significante si svuota, uso vuoto
+
+
+saper di nuovo uasre la parla con significato pieno e autentico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ1NjUzOTIsLTE2MjYyNDczNzQsLT
+eyJoaXN0b3J5IjpbLTE2MTQ1NjU1MTAsLTE2MjYyNDczNzQsLT
 E0MDc0NzgzNTVdfQ==
 -->
