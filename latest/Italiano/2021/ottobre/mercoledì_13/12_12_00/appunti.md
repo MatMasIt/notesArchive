@@ -42,7 +42,9 @@ Ti dis-identifico
 immite (non mite)
 
 frigida: tu femminile, che sfugge, che deve muoversi tra i _sic_ e i _sig_ che deve comunicare il significato vero ma non riesce
+
+termini strampalati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI3NTQyOTMsLTE2MjYyNDczNzQsLT
-E0MDc0NzgzNTVdfQ==
+eyJoaXN0b3J5IjpbMTQzMjkxNzQzNywtMTIwMjc1NDI5MywtMT
+YyNjI0NzM3NCwtMTQwNzQ3ODM1NV19
 -->
