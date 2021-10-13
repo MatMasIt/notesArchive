@@ -54,8 +54,11 @@ Critica della ragione pratica
 
 Nella ragione pratica rispetto a quella pura, possiamo prescindere dalla esperienza empirica dei nostri desideri
 
-doversoso in base a quello che la ragione dìc
+doversoso in base a quello che la ragione ci dice
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTk2ODQ4MiwtNzA5MTE3ODY3LC0zNT
-gxNDkxMjddfQ==
+eyJoaXN0b3J5IjpbOTQ4NjIyOTUwLC03MDkxMTc4NjcsLTM1OD
+E0OTEyN119
 -->
