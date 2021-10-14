@@ -217,7 +217,7 @@ $$
 ---
 
 $$
-y=\ln x$
+y=\ln x
 $$
 $$
 y'=\frac{x}1=x^{-1}
@@ -234,12 +234,12 @@ $$
 
 
 
-Logaritmo ha semrpe concavità negativa
+Logaritmo ha sempre concavità negativa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE2MzU5NTEsMzczNTk1MzkwLDEzNT
-MzMTU2NTksMTQ4NzA1NDMyMywtNDk2NDM4MzI0LDE3NTQ1NTc3
-MjcsLTE2Mzc0Mjk1NzAsMTA5NDIwMDAxNSwtMTY5MzQ1NTU4Nl
-19
+eyJoaXN0b3J5IjpbMjUyMjk3ODk5LC0xMjUxNjM1OTUxLDM3Mz
+U5NTM5MCwxMzUzMzE1NjU5LDE0ODcwNTQzMjMsLTQ5NjQzODMy
+NCwxNzU0NTU3NzI3LC0xNjM3NDI5NTcwLDEwOTQyMDAwMTUsLT
+E2OTM0NTU1ODZdfQ==
 -->
