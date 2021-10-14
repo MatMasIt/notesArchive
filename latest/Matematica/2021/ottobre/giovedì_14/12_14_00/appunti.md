@@ -185,7 +185,8 @@ $$
 (A)
 x^2-3x-5=0\\
 x=\frac{2\pm\sqrt{4+5}}{1}\\
-x
+x=5\\
+x=-1
 $$
 
 
@@ -202,10 +203,15 @@ $$
  \begin{equation*} \begin{cases} 
 x < -1 \lor x > 5\\
 x < 0 \lor x > 5
-\end{cases} \end{equation*}
+\end{cases} \end{equation*}=(-\infin ,-1)\cup (5,+\infin)
 $$
+     -1        5
+		- - - ---------O       O-------------- - - -
+
+
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxMzg2MzY1LDEzNTMzMTU2NTksMTQ4Nz
+eyJoaXN0b3J5IjpbOTE1NDIxMjEyLDEzNTMzMTU2NTksMTQ4Nz
 A1NDMyMywtNDk2NDM4MzI0LDE3NTQ1NTc3MjcsLTE2Mzc0Mjk1
 NzAsMTA5NDIwMDAxNSwtMTY5MzQ1NTU4Nl19
 -->
