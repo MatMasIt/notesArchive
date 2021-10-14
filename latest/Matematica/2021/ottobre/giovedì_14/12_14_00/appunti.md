@@ -77,8 +77,9 @@ $$
 $$
 
 $$
-=\fra
+=\frac{x(x^2+a^2-2x^2+2a^2)}{(x^2+a^2)^2\sqrt{x^2-a^2}}=\frac{x(3a^2-x^2)}{(x^2+a^2)^2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjMxMjkxOCwtMTY5MzQ1NTU4Nl19
+eyJoaXN0b3J5IjpbLTE2NzYwNDU3NDgsLTE2OTM0NTU1ODZdfQ
+==
 -->
