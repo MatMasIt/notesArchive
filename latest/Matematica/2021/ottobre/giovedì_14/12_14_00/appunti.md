@@ -213,8 +213,24 @@ $$
 
 
 	
+
+---
+
+$$
+y=\ln x$
+$$
+$$
+y'=\frac{x}1=x^{-1}
+$$
+$$
+y''=-\frac1{x^2}
+$$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczNTk1MzkwLDEzNTMzMTU2NTksMTQ4Nz
-A1NDMyMywtNDk2NDM4MzI0LDE3NTQ1NTc3MjcsLTE2Mzc0Mjk1
-NzAsMTA5NDIwMDAxNSwtMTY5MzQ1NTU4Nl19
+eyJoaXN0b3J5IjpbOTc3Mjg1MzE0LDM3MzU5NTM5MCwxMzUzMz
+E1NjU5LDE0ODcwNTQzMjMsLTQ5NjQzODMyNCwxNzU0NTU3NzI3
+LC0xNjM3NDI5NTcwLDEwOTQyMDAwMTUsLTE2OTM0NTU1ODZdfQ
+==
 -->
