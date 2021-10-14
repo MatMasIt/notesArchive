@@ -11,10 +11,13 @@ Cosa ci potrebbe essere in verifica?
 * Massimo e minimo
 * Punto di accumulazione
 * Insieme derivato
+* Calcolo differenziale 
+* Metodo di newton
 
 ---
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA3MjY3OTBdfQ==
+eyJoaXN0b3J5IjpbMTk0MTg4MzYzOV19
 -->
