@@ -130,7 +130,22 @@ Punto di accumulazione: $3$
 $$
 A'=\{3\}
 $$
+
+
+
+
+---
+$$
+A=\left\{x\in \R: x=\cos n\pi, n \in \N\right\}
+$$
+
+$$
+y=\cos\pi x
+$$
+$$
+T=\frac{2\pi}{\pi}=2
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDU1NzcyNywtMTYzNzQyOTU3MCwxMD
-k0MjAwMDE1LC0xNjkzNDU1NTg2XX0=
+eyJoaXN0b3J5IjpbLTQ5NjQzODMyNCwxNzU0NTU3NzI3LC0xNj
+M3NDI5NTcwLDEwOTQyMDAwMTUsLTE2OTM0NTU1ODZdfQ==
 -->
