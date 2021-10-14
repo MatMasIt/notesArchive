@@ -166,10 +166,13 @@ $$
 
 ---
 $$
-A=\left\{x\\right\}
+A=\left\{x\in \R \Big | \small \begin{equation*} \begin{cases} 
+x^2-4x-5 > 0\\
+5x^2-x^2 < 0
+\end{cases} \end{equation*}\right\}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNjg0MzExLDEzNTMzMTU2NTksMTQ4Nz
-A1NDMyMywtNDk2NDM4MzI0LDE3NTQ1NTc3MjcsLTE2Mzc0Mjk1
-NzAsMTA5NDIwMDAxNSwtMTY5MzQ1NTU4Nl19
+eyJoaXN0b3J5IjpbLTM1Njk5Mzc0NCwxMzUzMzE1NjU5LDE0OD
+cwNTQzMjMsLTQ5NjQzODMyNCwxNzU0NTU3NzI3LC0xNjM3NDI5
+NTcwLDEwOTQyMDAwMTUsLTE2OTM0NTU1ODZdfQ==
 -->
