@@ -36,10 +36,12 @@ Ma non è l'unico tipo di principio pratico, ce ne sono diversi
 principi:
 * massime: non razionali e soggettivi
 * imperativi: razionali e validi per tutti
-	* 
+	* imperativi ipotetici
+	> Io devo lavorare e guadagnare in gioventù per non stentare nella vecchiaia
+	* imperativi categorici
 Massime: devo mangiare bene
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTM4NzU2NjY0MCwt
-ODg2NTA4MjkyXX0=
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbNDU0ODUxMzUzLC04
+ODY1MDgyOTJdfQ==
 -->
