@@ -38,10 +38,12 @@ principi:
 * imperativi: razionali e validi per tutti
 	* imperativi ipotetici
 	> Io devo lavorare e guadagnare in gioventù per non stentare nella vecchiaia
+	
+	Vale solo se ti poni lo stesso obiettivo, in quel caso la ragione per tutti
 	* imperativi categorici
 Massime: devo mangiare bene
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbNDU0ODUxMzUzLC04
-ODY1MDgyOTJdfQ==
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTEyMjQ1MjQyNzUs
+LTg4NjUwODI5Ml19
 -->
