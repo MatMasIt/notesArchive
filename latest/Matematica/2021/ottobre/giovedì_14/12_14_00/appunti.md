@@ -26,12 +26,13 @@ $$
 $$
 y'=\frac{1}{\left|\frac{kx+1}{k^2x^2+1}\right|}=
 $$
+Derivata
 $$
 \frac{1}{\left|\frac{kx+1}{k^2x^2+1}\right|}\frac{\frac{kx+1}{k^2x^2+1}}{\left|\frac{kx+1}{k^2x^2+1}\right|}
 $$
 $$
-\boxed{}{}
+\left(f(x)=|x|\implies f'(x)=\frac{x}{|x|}=\frac{|x|}{x}\right)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzQ5MDU0OSwtMTY5MzQ1NTU4Nl19
+eyJoaXN0b3J5IjpbLTY1NjU4NzA3OCwtMTY5MzQ1NTU4Nl19
 -->
