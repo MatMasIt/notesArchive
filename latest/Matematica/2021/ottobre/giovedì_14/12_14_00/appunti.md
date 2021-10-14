@@ -44,8 +44,12 @@ $$
 $$
 
 $$
-=\frac{\cancel{k^2x^2+1}}{kx+1}\cdot\frac{-k^3x^2-2k^2x+k}{(k^2x^2+1)^{\cancel 2}}=\frac{k(1-2
+=\frac{\cancel{k^2x^2+1}}{kx+1}\cdot\frac{-k^3x^2-2k^2x+k}{(k^2x^2+1)^{\cancel 2}}=
+$$
+$$
+\boxed{\frac{k(1-2kx-k^2x^2)}{(kx+1)(k^2x^2+1)}}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxODI5Nzc2LC0xNjkzNDU1NTg2XX0=
+eyJoaXN0b3J5IjpbLTEwNTE1OTMyNjEsLTE2OTM0NTU1ODZdfQ
+==
 -->
