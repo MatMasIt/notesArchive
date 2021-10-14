@@ -61,6 +61,8 @@ $$
 y=\frac{\sqrt{x^2-a^2}}{x^2+a^2}=\frac{(x^2-a^2)^{\frac12}}{x^2+a^2}
 $$
 
+---
+
 $$
 y'=\frac{\frac1{\cancel 2}(x^2-a^2){\cancel 2 } x(x^2+a^2)-2x\sqrt{x^2-a^2}}{(x^2+a^2)^2}
 $$
@@ -68,6 +70,15 @@ $$
 $$
 =\frac{\frac{x(x^2+a^2)}{\sqrt{x^2-a^2}}-2x\sqrt{x^2-a^2}}{(x^2+a^2)^2}
 $$
+
+
+$$
+=\frac{x(x^2+a^2)-2x(x^2-a^2)}{(x^2+a^2)^2\sqrt{x^2-a^2}}
+$$
+
+$$
+=\fra
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODk2NDIzNCwtMTY5MzQ1NTU4Nl19
+eyJoaXN0b3J5IjpbLTM0MjMxMjkxOCwtMTY5MzQ1NTU4Nl19
 -->
