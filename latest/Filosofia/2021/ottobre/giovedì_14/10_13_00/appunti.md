@@ -31,8 +31,13 @@ emanciparsi, libertà che ci rende indipendeti dalla natura
 
 ---
 Il dovere è un principio pratico (guida le azioni umane)
+Ma non è l'unico tipo di principio pratico, ce ne sono diversi
+
+principi:
+* massime: non razionali
+* imperativi
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTYzOTkxMTM0Niwt
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTg5OTcyOTI4Mywt
 ODg2NTA4MjkyXX0=
 -->
