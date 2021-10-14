@@ -91,6 +91,13 @@ es 94 p33
 $$
 A=\left\{x \in \R: x=\frac{3n+1}{n},n\in \N-\{0\}\right\}
 $$
+
+Se voglio vederlo graficamente devo usare $y=\frac{3x+1}{x}$
+
+omografica
+asindoti:
+* $D=0\implies x=0$
+* $\frac{3x}{x}\implies x=3$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDc4MzkxMSwtMTY5MzQ1NTU4Nl19
+eyJoaXN0b3J5IjpbMTA5NDIwMDAxNSwtMTY5MzQ1NTU4Nl19
 -->
