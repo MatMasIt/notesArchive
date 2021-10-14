@@ -24,9 +24,12 @@ $$
 
 
 $$
-y'=\frac{1}{}
+y'=\frac{1}{\left|\frac{kx+1}{k^2x^2+1}\right|}=
+$$
+$$
+\left|\frac{k^2x^2+1}{kx+1}\right|\frac{\left|\frac{k^2x^2+1}{kx+1}\}{}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2NTQ2OTEyLC0xNjkzNDU1NTg2XX0=
+eyJoaXN0b3J5IjpbMTg3NzI4MjMwMCwtMTY5MzQ1NTU4Nl19
 -->
