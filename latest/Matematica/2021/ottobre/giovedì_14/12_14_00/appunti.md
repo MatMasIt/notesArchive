@@ -171,8 +171,22 @@ x^2-4x-5 > 0\\
 5x^2-x^2 < 0
 \end{cases} \end{equation*}\right\}
 $$
+
+$$
+ \begin{equation*} \begin{cases} 
+(A)x^2-4x-5 > 0\\
+(B) 5x^2-x^2 < 0
+\end{cases} \end{equation*}
+$$
+
+$$
+ \begin{equation*} \begin{cases} 
+x < -1 \lor x > 5\\
+x < 0 \lor x > 5
+\end{cases} \end{equation*}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Njk5Mzc0NCwxMzUzMzE1NjU5LDE0OD
-cwNTQzMjMsLTQ5NjQzODMyNCwxNzU0NTU3NzI3LC0xNjM3NDI5
-NTcwLDEwOTQyMDAwMTUsLTE2OTM0NTU1ODZdfQ==
+eyJoaXN0b3J5IjpbLTkwMzQyMDc4LDEzNTMzMTU2NTksMTQ4Nz
+A1NDMyMywtNDk2NDM4MzI0LDE3NTQ1NTc3MjcsLTE2Mzc0Mjk1
+NzAsMTA5NDIwMDAxNSwtMTY5MzQ1NTU4Nl19
 -->
