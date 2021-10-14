@@ -45,8 +45,10 @@ principi:
 Massime: devo mangiare bene
 
 > _"Agisci come se la massima della tua azione dovesse essere elevata dalla tua volontà a legge universale della natura"_
+> 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTQyMjYzMjg0OCwx
-OTYxNTMzMTcyLC0xMjI0NTI0Mjc1LC04ODY1MDgyOTJdfQ==
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTE2OTE2ODg2NDQs
+LTQyMjYzMjg0OCwxOTYxNTMzMTcyLC0xMjI0NTI0Mjc1LC04OD
+Y1MDgyOTJdfQ==
 -->
