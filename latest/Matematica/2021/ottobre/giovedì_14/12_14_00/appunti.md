@@ -19,10 +19,14 @@ Cosa ci potrebbe essere in verifica?
 Calcoliamo una derivata 
 
 $$
-\ln\left|\frac{kx+1}{k^2x^2+1}\right|
+y=\ln\left|\frac{kx+1}{k^2x^2+1}\right|
 $$
 
 
+$$
+y'=\frac{1}{}
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3MTkyMDgwLC0xNjkzNDU1NTg2XX0=
+eyJoaXN0b3J5IjpbNDM2NTQ2OTEyLC0xNjkzNDU1NTg2XX0=
 -->
