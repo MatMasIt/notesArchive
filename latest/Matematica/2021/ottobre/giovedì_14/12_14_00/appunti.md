@@ -146,7 +146,7 @@ $$
 T=\frac{2\pi}{\pi}=2
 $$
 
-![](https://i.imgur.com/0SHysEc.jpg)
+![](https://i.imgur.com/BaQZ62Q.jpg,)
 
 
 $$
@@ -163,8 +163,9 @@ $$
 $$
 A'=\{\}= \empty
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzA1NDMyMywtNDk2NDM4MzI0LDE3NT
-Q1NTc3MjcsLTE2Mzc0Mjk1NzAsMTA5NDIwMDAxNSwtMTY5MzQ1
-NTU4Nl19
+eyJoaXN0b3J5IjpbMTM1MzMxNTY1OSwxNDg3MDU0MzIzLC00OT
+Y0MzgzMjQsMTc1NDU1NzcyNywtMTYzNzQyOTU3MCwxMDk0MjAw
+MDE1LC0xNjkzNDU1NTg2XX0=
 -->
