@@ -111,9 +111,10 @@ $$
 L'insieme è discreto
 
 $$
-\inf(A)=
+\inf(A)=3
 $$
+i valori diventano sempre più piccoli ma non arrivano mai al valore $3$, che è l'estremo inferiore (giacchè è l'asindoto)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjExOTQ3NiwxMDk0MjAwMDE1LC0xNj
-kzNDU1NTg2XX0=
+eyJoaXN0b3J5IjpbLTE2Mzc0Mjk1NzAsMTA5NDIwMDAxNSwtMT
+Y5MzQ1NTU4Nl19
 -->
