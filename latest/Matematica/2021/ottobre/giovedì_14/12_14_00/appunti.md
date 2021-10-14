@@ -179,6 +179,25 @@ $$
 \end{cases} \end{equation*}
 $$
 
+---
+
+$$
+(A)
+x^2-3x-5=0\\
+x=\frac{2\pm\sqrt{4+5}}{1}\\
+x
+$$
+
+
+$$
+(B) x^2-5x=0\\
+x(x-5)=0\\
+x=0\\
+x=5
+$$
+
+---
+
 $$
  \begin{equation*} \begin{cases} 
 x < -1 \lor x > 5\\
@@ -186,7 +205,7 @@ x < 0 \lor x > 5
 \end{cases} \end{equation*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzQyMDc4LDEzNTMzMTU2NTksMTQ4Nz
+eyJoaXN0b3J5IjpbMjkxMzg2MzY1LDEzNTMzMTU2NTksMTQ4Nz
 A1NDMyMywtNDk2NDM4MzI0LDE3NTQ1NTc3MjcsLTE2Mzc0Mjk1
 NzAsMTA5NDIwMDAxNSwtMTY5MzQ1NTU4Nl19
 -->
