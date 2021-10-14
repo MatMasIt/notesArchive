@@ -45,10 +45,10 @@ principi:
 Massime: devo mangiare bene
 
 > _"Agisci come se la massima della tua azione dovesse essere elevata dalla tua volontà a legge universale della natura"_
-> _"Agisci in modo da trattare l'umanità,, sia nella tua persona sia in quella d'ogni altro uomo, dempre anche come fine e mai semplicemente come mezzo"_((
+> _"Agisci in modo da trattare l'umanità,, sia nella tua persona sia in quella d'ogni altro uomo, dempre anche come fine e mai semplicemente come mezzo"_
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTE4NzI1NjUzMzgs
-LTQyMjYzMjg0OCwxOTYxNTMzMTcyLC0xMjI0NTI0Mjc1LC04OD
-Y1MDgyOTJdfQ==
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTkyMTUzNzk1OCwt
+MTg3MjU2NTMzOCwtNDIyNjMyODQ4LDE5NjE1MzMxNzIsLTEyMj
+Q1MjQyNzUsLTg4NjUwODI5Ml19
 -->
