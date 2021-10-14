@@ -17,7 +17,9 @@ Cosa ci potrebbe essere in verifica?
 ---
 
 
-
+$$
+\ln\left|\frac{kx+1}{k^2x^2+1}\right|
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTg4MzYzOV19
+eyJoaXN0b3J5IjpbLTE2OTM0NTU1ODZdfQ==
 -->
