@@ -8,7 +8,13 @@ Cosa ci potrebbe essere in verifica?
 * derivate seconde e concavità della funzione
 * Estremo superiore
 * Estremo inferiore
-* Massimo e mini
+* Massimo e minimo
+* Punto di accumulazione
+* Insieme derivato
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3Mzk4Mjc0XX0=
+eyJoaXN0b3J5IjpbLTEwMDA3MjY3OTBdfQ==
 -->
