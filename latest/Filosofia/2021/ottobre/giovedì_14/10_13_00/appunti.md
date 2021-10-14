@@ -34,10 +34,10 @@ Il dovere è un principio pratico (guida le azioni umane)
 Ma non è l'unico tipo di principio pratico, ce ne sono diversi
 
 principi:
-* massime: non razionali
-* imperativi
+* massime: non razionali e soggettivi
+* imperativi: razionali e validi per tutti
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTg5OTcyOTI4Mywt
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTUyMTMwOTUyOSwt
 ODg2NTA4MjkyXX0=
 -->
