@@ -30,11 +30,20 @@ Derivata del logaritmo x derivata del valore assoluto per derivata del quoziente
 $$
 \frac{1}{\left|\frac{kx+1}{k^2x^2+1}\right|}\frac{\frac{kx+1}{k^2x^2+1}}{\left|\frac{kx+1}{k^2x^2+1}\right|}\cdot \frac{k(k^2x^2)-2k^2x(kx+1)}{(k^2x^2+1)^2}
 $$
+
+---
+
 $$
 \left(f(x)=|x|\implies f'(x)=\frac{x}{|x|}=\frac{|x|}{x}\right)
 $$
 
+---
+
 $$
+=\frac1{\frac{kx+1}{k^2x^2+1}}\cdot\frac{k^3x^2+k-2k^3x^2-2k^2x}{(k^2x^2+1)^2}
+$$
+
+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2MTk2OTg4LC0xNjkzNDU1NTg2XX0=
+eyJoaXN0b3J5IjpbNzU4NTg3MzcxLC0xNjkzNDU1NTg2XX0=
 -->
