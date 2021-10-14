@@ -161,10 +161,10 @@ $$
 
 
 $$
-A'=\{\}=\cancelO
+A'=\{\}= \empty
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTgxODIzNSwtNDk2NDM4MzI0LDE3NT
+eyJoaXN0b3J5IjpbMTQ4NzA1NDMyMywtNDk2NDM4MzI0LDE3NT
 Q1NTc3MjcsLTE2Mzc0Mjk1NzAsMTA5NDIwMDAxNSwtMTY5MzQ1
 NTU4Nl19
 -->
