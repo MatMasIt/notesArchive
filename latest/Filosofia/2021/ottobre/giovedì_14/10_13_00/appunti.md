@@ -27,8 +27,12 @@ Uomo privo di pulsioni non vivrebbe una esperienza morale
 
 L'uomo è sottoposto dalla natura (corpo) ma la può trascendere con la ragione
 emanciparsi, libertà che ci rende indipendeti dalla natura
+
+
+---
+Il dovere è un principio pratico (guida le azioni umane)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTc0MTA0MDQzMSwt
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTYzOTkxMTM0Niwt
 ODg2NTA4MjkyXX0=
 -->
