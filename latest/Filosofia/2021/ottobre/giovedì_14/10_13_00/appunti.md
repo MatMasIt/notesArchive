@@ -19,9 +19,12 @@ non si tratta di ua cosa semplice
 Conflitto tra ragione e spinte della materia: la volontà diventa veramente buona
 
 Kant: essenza dell'uomo che lo rende diverso tra tutti gli animali è la ragione
+esperienza morale è solo umana
 
+
+Uomo privo di pulsioni non vivrebbe una esperienza morale
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbNDU5NzgyNTE0XX0=
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTI1NjMwMjkxN119
 
 -->
