@@ -98,6 +98,22 @@ omografica
 asindoti:
 * $D=0\implies x=0$
 * $\frac{3x}{x}\implies x=3$
+
+Graficamente
+![](https://i.imgur.com/JScaX7B.jpg)
+
+Per elencazione
+
+$$
+A=\left\{4,\frac72,\frac{10}3,...\right\}
+$$
+
+L'insieme è discreto
+
+$$
+\inf(A)=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDIwMDAxNSwtMTY5MzQ1NTU4Nl19
+eyJoaXN0b3J5IjpbMTg1MjExOTQ3NiwxMDk0MjAwMDE1LC0xNj
+kzNDU1NTg2XX0=
 -->
