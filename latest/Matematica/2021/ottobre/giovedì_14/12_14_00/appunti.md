@@ -119,7 +119,18 @@ i valori diventano sempre più piccoli ma non arrivano mai al valore $3$, che è
 $$
 \sup(A)=4
 $$
+e
+$$
+\max(A)=4
+$$
+
+
+Punto di accumulazione: $3$
+
+$$
+A'=\{3\}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY1MTM1MDksLTE2Mzc0Mjk1NzAsMT
-A5NDIwMDAxNSwtMTY5MzQ1NTU4Nl19
+eyJoaXN0b3J5IjpbMTc1NDU1NzcyNywtMTYzNzQyOTU3MCwxMD
+k0MjAwMDE1LC0xNjkzNDU1NTg2XX0=
 -->
