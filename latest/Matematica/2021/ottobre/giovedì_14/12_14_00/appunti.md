@@ -16,10 +16,13 @@ Cosa ci potrebbe essere in verifica?
 
 ---
 
+Calcoliamo una derivata 
 
 $$
 \ln\left|\frac{kx+1}{k^2x^2+1}\right|
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM0NTU1ODZdfQ==
+eyJoaXN0b3J5IjpbNzA3MTkyMDgwLC0xNjkzNDU1NTg2XX0=
 -->
