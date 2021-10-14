@@ -27,9 +27,11 @@ $$
 y'=\frac{1}{\left|\frac{kx+1}{k^2x^2+1}\right|}=
 $$
 $$
-\left|\frac{k^2x^2+1}{kx+1}\right|\frac{\frac{kx+1}{k^2x^2+1}}{}
+\frac{1}{\left|\frac{kx+1}{k^2x^2+1}\right|}\frac{\frac{kx+1}{k^2x^2+1}}{\left|\frac{kx+1}{k^2x^2+1}\right|}
 $$
-
+$$
+\boxed{}{}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MjU2MTI3LC0xNjkzNDU1NTg2XX0=
+eyJoaXN0b3J5IjpbMjA3NzQ5MDU0OSwtMTY5MzQ1NTU4Nl19
 -->
