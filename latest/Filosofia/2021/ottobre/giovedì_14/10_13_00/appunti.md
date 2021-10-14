@@ -44,8 +44,9 @@ principi:
 	Assoluti, non si possono evadere se si segue la ragione
 Massime: devo mangiare bene
 
+> _"Agisci come se la massima della tua azione dovesse essere elevata dalla tua volontà a legge universale della natura"_
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTk2MTUzMzE3Miwt
-MTIyNDUyNDI3NSwtODg2NTA4MjkyXX0=
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTQyMjYzMjg0OCwx
+OTYxNTMzMTcyLC0xMjI0NTI0Mjc1LC04ODY1MDgyOTJdfQ==
 -->
