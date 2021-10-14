@@ -91,6 +91,7 @@ es 94 p33
 $$
 A=\left\{x \in \R: x=\frac{3n+1}{n},n\in \N-\{0\}\right\}
 $$
+> La funzione è per $x$
 
 Se voglio vederlo graficamente devo usare $y=\frac{3x+1}{x}$
 
@@ -114,7 +115,11 @@ $$
 \inf(A)=3
 $$
 i valori diventano sempre più piccoli ma non arrivano mai al valore $3$, che è l'estremo inferiore (giacchè è l'asindoto)
+
+$$
+\sup(A)=4
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzc0Mjk1NzAsMTA5NDIwMDAxNSwtMT
-Y5MzQ1NTU4Nl19
+eyJoaXN0b3J5IjpbLTEyODY1MTM1MDksLTE2Mzc0Mjk1NzAsMT
+A5NDIwMDAxNSwtMTY5MzQ1NTU4Nl19
 -->
