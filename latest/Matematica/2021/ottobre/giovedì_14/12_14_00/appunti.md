@@ -77,9 +77,17 @@ $$
 $$
 
 $$
-=\frac{x(x^2+a^2-2x^2+2a^2)}{(x^2+a^2)^2\sqrt{x^2-a^2}}=\frac{x(3a^2-x^2)}{(x^2+a^2)^2}
+=\frac{x(x^2+a^2-2x^2+2a^2)}{(x^2+a^2)^2\sqrt{x^2-a^2}}
 $$
+$$
+\frac{x(3a^2-x^2)}{(x^2+a^2)^2\sqrt{x^2-a^2}}
+$$
+
+---
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzYwNDU3NDgsLTE2OTM0NTU1ODZdfQ
+eyJoaXN0b3J5IjpbLTIwMzMxMjU5NTQsLTE2OTM0NTU1ODZdfQ
 ==
 -->
