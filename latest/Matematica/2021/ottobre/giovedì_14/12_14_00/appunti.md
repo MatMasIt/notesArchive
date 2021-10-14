@@ -49,7 +49,17 @@ $$
 $$
 \boxed{\frac{k(1-2kx-k^2x^2)}{(kx+1)(k^2x^2+1)}}
 $$
+
+
+---
+
+
+es 408 p 52 
+
+
+$$
+y=\frac{\sqrt{x^2-a^2}}{x^2+a^2}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE1OTMyNjEsLTE2OTM0NTU1ODZdfQ
-==
+eyJoaXN0b3J5IjpbMTA0NjA4OTY5MywtMTY5MzQ1NTU4Nl19
 -->
