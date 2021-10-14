@@ -86,8 +86,11 @@ $$
 ---
 
 
+es 94 p33
 
+$$
+A=\left\{x \in \R: x=\frac{3n+1}{n},n\in \N-\{0\}\right\}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzMxMjU5NTQsLTE2OTM0NTU1ODZdfQ
-==
+eyJoaXN0b3J5IjpbMTM5MDc4MzkxMSwtMTY5MzQ1NTU4Nl19
 -->
