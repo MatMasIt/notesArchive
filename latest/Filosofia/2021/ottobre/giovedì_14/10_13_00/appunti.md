@@ -25,10 +25,10 @@ esperienza morale è solo umana
 Uomo privo di pulsioni non vivrebbe una esperienza morale
 
 
-L'uom è sottoposto dalla natura (corpo) ma la può trascendere con la ragione
+L'uomo è sottoposto dalla natura (corpo) ma la può trascendere con la ragione
 emanciparsi, libertà che ci rende indipendeti dalla natura
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTg4NjUwODI5Ml19
-
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTc0MTA0MDQzMSwt
+ODg2NTA4MjkyXX0=
 -->
