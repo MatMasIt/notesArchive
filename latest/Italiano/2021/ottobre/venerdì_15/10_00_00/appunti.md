@@ -1,5 +1,5 @@
-# Lezione di Italiano (5° ora) 
-## Giovedì 15 ottobre 2021, 12:00:00
+# Lezione di Italiano (3° ora) 
+## Giovedì 15 ottobre 2021, 10:00:00
 
 Operette morali: sottoposte a censura ma premiata da accademia della crusca
 
@@ -41,5 +41,5 @@ schema p 128
 
 Natura sistemica e meccanica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzQ0MjYxNl19
+eyJoaXN0b3J5IjpbMTkzOTIzMDM0NF19
 -->
