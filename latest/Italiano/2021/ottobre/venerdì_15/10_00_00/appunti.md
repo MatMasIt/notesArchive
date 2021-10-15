@@ -54,6 +54,13 @@ umani esistono solo perchè fanno parte di un meccanismo ciclico
 ---
 138
 T 15
+
+Dialogo della Natura e di Islandese
+
+
+Terra inospitale
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzA0MTkzNjddfQ==
+eyJoaXN0b3J5IjpbMTQ1MDE2Njc1OV19
 -->
