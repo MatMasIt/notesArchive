@@ -39,6 +39,8 @@ anche se limitato nella popolazione
 
 max 20% popolazione
 
+
+Veneto, trentino  alto-adige e friuli sono rimasti nelle mani dell'impero asburgico per effetto del voltafaccia francese nell'armistizio di villafranca che ha interrotto la Seconda guerra di indipend
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNTI0NjldfQ==
+eyJoaXN0b3J5IjpbLTE0NjEwODIzMDddfQ==
 -->
