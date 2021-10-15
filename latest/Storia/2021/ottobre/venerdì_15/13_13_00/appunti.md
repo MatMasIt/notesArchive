@@ -87,7 +87,9 @@ Torino: troppo periferica
 
 1865-1871 Firenze capitale
 
-1866, per effetto della vicenda dell'unificazione
+1866, per effetto della vicenda dell'unificazione Tedesca, l'Italia ottiene il Veneto dall'Austria alleandosi con la prussia 
+
+18
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNTYxMzM2XX0=
+eyJoaXN0b3J5IjpbLTIxMjg0NDM3Nl19
 -->
