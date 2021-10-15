@@ -72,7 +72,11 @@ Napoleone III rimane molto allarmato per il tentativo
 
 Cavour muore a 50 anni nel '61
 
-Per evitare attriti con la Francia, il presidente del consiglio, Minghetti organizza
+Per evitare attriti con la Francia, il presidente del consiglio, Minghetti organizza la "Convenzione di settembre" (settembre del '62)
+
+Accordo ufficiale con la Francia in cui il regno di Italia si impegnava a rispettare i confini del Lazio
+
+In cambio le truppe francesi si ritirano da Roma
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTg0NzQxMl19
+eyJoaXN0b3J5IjpbNjEwMDg5ODE5XX0=
 -->
