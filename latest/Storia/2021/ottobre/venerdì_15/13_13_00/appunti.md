@@ -13,6 +13,11 @@ Risorgimento: 4 grandi fattori
 * Spinta esercitata dal ceto borghese
 	* Liberale-moderato
 	* Democratico
+	
+	Nazionalismo 
+* Politica estera di Napoleone III
+* Politica estera dell'Inghilterra
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjY3OTI5NV19
+eyJoaXN0b3J5IjpbMTQ1NDczNTUwNV19
 -->
