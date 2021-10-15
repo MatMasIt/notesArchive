@@ -56,6 +56,14 @@ Nel'62 Garibaldi raccoglie volontari per conquistare lo stato pontificio (Lazio)
 Raccolta volontari eseguita in Sicilia, territorio dove il mito di Garibaldi si è consolidato 
 
 Iniziativa preoccupa Napoleone III che vuole difendere Roma, il suo consenso in Francia è legato al clero Francese
+
+Vittorio Emanuele II preoccupato, costretto a bloccare risalita volontari Garibaldi
+
+in aspromonte, agosto 1862, scontro a fuoco tra forze del regno di Italia e volontari
+
+Garibaldi ferito, arrestato, in galera per qualche settimana
+
+Garibaldi viene a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzAzODA3OV19
+eyJoaXN0b3J5IjpbLTMxNjQ0NjkxNV19
 -->
