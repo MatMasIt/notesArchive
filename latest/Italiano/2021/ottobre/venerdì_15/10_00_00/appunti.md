@@ -1,5 +1,5 @@
-# Lezione di Matematica (5° ora) 
-## Giovedì 14 ottobre 2021, 12:15:00
+# Lezione di Italiano (5° ora) 
+## Giovedì 15 ottobre 2021, 12:00:00
 
 Operette morali: sottoposte a censura ma premiata da accademia della crusca
 
@@ -33,9 +33,13 @@ Diavoli infernali, elementi mitologia ebraica
 * Colombo
 * Copernico
 * Tasso
-* Plotino
+* Plotino (neoplatonico)
+ argomenta sulla negatività del suicidio
+
+schema p 128
 
 
+Natura sistemica e meccanica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjQ1OTQyNF19
+eyJoaXN0b3J5IjpbLTQ4MzQ0MjYxNl19
 -->
