@@ -49,6 +49,13 @@ Veneto, trentino  alto-adige e friuli sono rimasti nelle mani dell'impero asburg
 Giuseppino Garibaldi ha anche fondato in italia ha fondato la "Società per la protezione degli animali"
 
 Garibaldi
+
+
+Nel'62 Garibaldi raccoglie volontari per conquistare lo stato pontificio (Lazio)
+
+Raccolta volontari eseguita in Sicilia, territorio dove il mito di Garibaldi si è consolidato 
+
+Iniziativa preoccupa Napoleone III che vuole difendere Roma, il suo consenso in Francia è legato al clero Francese
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MjM0MDgxXX0=
+eyJoaXN0b3J5IjpbMTIxNzAzODA3OV19
 -->
