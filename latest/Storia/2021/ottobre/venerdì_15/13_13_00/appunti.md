@@ -104,6 +104,12 @@ La prussia sconfigge La Francia
 Napoleone III catturato, muore in Galera
 
 Battaglia di Sedan
+
+A questo punto il Regno d'Italia avvia trattative con il Papa per la conquista
+
+Pio IX rifiuta mediazione
+
+Regno d' Italia, 20 settembre 1870 attraverso alla Breccia di Porta pia 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzNzU5Njg5XX0=
+eyJoaXN0b3J5IjpbLTE4NDUxNTc2M119
 -->
