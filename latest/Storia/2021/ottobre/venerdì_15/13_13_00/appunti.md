@@ -25,7 +25,17 @@ e
 
 
 Per l'italia repubblicana la resistenza  un fatto molto importante
-l'italia ha cambiato fino
+l'italia ha cambiato fisionomia non solo prechè è stata sconfitta da potenze estere
+Il popolo italaino ad un certo punto ha voluto riscattarsi dal fascismo
+Fondamento del processo repubblicano
+
+
+unificazione: processo anche popolare
+anche se limitato nella popolazione
+
+max 20% popolazione
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA4NDk3OV19
+eyJoaXN0b3J5IjpbLTk1MjE0OTMwXX0=
 -->
