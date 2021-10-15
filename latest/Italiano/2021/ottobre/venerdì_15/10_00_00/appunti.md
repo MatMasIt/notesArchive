@@ -44,6 +44,8 @@ Natura sistemica e meccanica
 
 Analisi di Leopardi:
 pessimismo vivere umano
+
+Infelicità è una cosa costitutiva
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzE3NDg0NzhdfQ==
+eyJoaXN0b3J5IjpbLTc1MTU5NDI3MF19
 -->
