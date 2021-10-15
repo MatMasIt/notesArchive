@@ -98,6 +98,12 @@ ottobre '67 I primi volontari Garibaldini cominciano ad entrare nello stato pont
 3 novembre '67 Garialdini sconfitti nella città di Mentana
 
 
+settembre 1870
+La prussia sconfigge La Francia
+
+Napoleone III catturato, muore in Galera
+
+Battaglia di Sedan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2MTY5MDYxXX0=
+eyJoaXN0b3J5IjpbNTYzNzU5Njg5XX0=
 -->
