@@ -109,7 +109,14 @@ A questo punto il Regno d'Italia avvia trattative con il Papa per la conquista
 
 Pio IX rifiuta mediazione
 
-Regno d' Italia, 20 settembre 1870 attraverso alla Breccia di Porta pia 
+Regno d' Italia, 20 settembre 1870 attraverso alla Breccia di Porta Pia (bersaglieri)  entra in Roma  e pone tutto il Lazio e Roma sotto il suo Dominio
+
+Estate '71, capitale trasferita a Roma
+
+
+maggio '71: regno d'Italia promulga la legge delle Guarentigie (Garanzie), per garantire il Papa
+
+* Il papa avrebbe avuto piena li
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDUxNTc2M119
+eyJoaXN0b3J5IjpbMTU4MDkzNjIxMF19
 -->
