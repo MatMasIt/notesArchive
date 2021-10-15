@@ -40,7 +40,15 @@ anche se limitato nella popolazione
 max 20% popolazione
 
 
-Veneto, trentino  alto-adige e friuli sono rimasti nelle mani dell'impero asburgico per effetto del voltafaccia francese nell'armistizio di villafranca che ha interrotto la Seconda guerra di indipend
+Veneto, trentino  alto-adige e friuli sono rimasti nelle mani dell'impero asburgico per effetto del voltafaccia francese nell'armistizio di villafranca che ha interrotto la Seconda guerra di indipendenza
+
+
+17 marzo 1861 il parlamento a Torino proclama Vittorio Emanuele II Re d'Italia
+
+
+Giuseppino Garibaldi ha anche fondato in italia ha fondato la "Società per la protezione degli animali"
+
+Garibaldi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjEwODIzMDddfQ==
+eyJoaXN0b3J5IjpbNjI5MjM0MDgxXX0=
 -->
