@@ -121,6 +121,13 @@ maggio '71: regno d'Italia promulga la legge delle Guarentigie (Garanzie), per g
 * Extraterritorialità dei palazzi del Vaticano e del Laterano
 * Segretezza postale e telegrafica
 * Offerta donazione annua di denaro per mantenere coorte e chiesa
+
+
+Legge rifiutata dal papa, non accetta donazioni
+
+'74 il papa emana il _Non expedit_ (non è opportuno)
+
+Tutti i cattolici non dovevano partecipare alla vita politica del regno d'Italia, che considera un usurpatore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzc2NzAxXX0=
+eyJoaXN0b3J5IjpbLTc3NTgyNjMxN119
 -->
