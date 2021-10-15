@@ -63,7 +63,16 @@ in aspromonte, agosto 1862, scontro a fuoco tra forze del regno di Italia e volo
 
 Garibaldi ferito, arrestato, in galera per qualche settimana
 
-Garibaldi viene a
+Garibaldi viene amnistiato il 5 ottobre del '62
+
+
+
+Napoleone III rimane molto allarmato per il tentativo
+
+
+Cavour muore a 50 anni nel '61
+
+Per evitare attriti con la Francia, il presidente del consiglio, Minghetti organizza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjQ0NjkxNV19
+eyJoaXN0b3J5IjpbMTA3OTg0NzQxMl19
 -->
