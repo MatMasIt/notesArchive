@@ -77,6 +77,13 @@ Per evitare attriti con la Francia, il presidente del consiglio, Minghetti organ
 Accordo ufficiale con la Francia in cui il regno di Italia si impegnava a rispettare i confini del Lazio
 
 In cambio le truppe francesi si ritirano da Roma
+
+Il regno d' Italia sposta la capitale a Firenze
+
+Torino: troppo periferica
+
+
+(Roma era necessaria per la posizione centrale)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwMDg5ODE5XX0=
+eyJoaXN0b3J5IjpbOTYwNjM5NjUxXX0=
 -->
