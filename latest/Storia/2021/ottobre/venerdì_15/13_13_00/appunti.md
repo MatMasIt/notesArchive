@@ -89,7 +89,15 @@ Torino: troppo periferica
 
 1866, per effetto della vicenda dell'unificazione Tedesca, l'Italia ottiene il Veneto dall'Austria alleandosi con la prussia 
 
-18
+1867 Garibaldi sta organizzando una nuova spedizione per conquistare il Lazio e Roma
+
+Francesi di nuovo preoccupati
+
+ottobre '67 I primi volontari Garibaldini cominciano ad entrare nello stato pontificio e aggredirlo, la Francia manda i suoi soldati
+
+3 novembre '67 Garialdini sconfitti nella città di Mentana
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg0NDM3Nl19
+eyJoaXN0b3J5IjpbNjA2MTY5MDYxXX0=
 -->
