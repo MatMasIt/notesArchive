@@ -66,6 +66,8 @@ natura non è incentrata sull'uomo
 insensatezza, male del vivere
 
 Tutto è male
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTE0NDkxOCwxNDUwMTY2NzU5XX0=
+eyJoaXN0b3J5IjpbMTQxNzkxNDYyOCwxOTIxMTQ0OTE4LDE0NT
+AxNjY3NTldfQ==
 -->
