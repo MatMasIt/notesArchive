@@ -116,7 +116,11 @@ Estate '71, capitale trasferita a Roma
 
 maggio '71: regno d'Italia promulga la legge delle Guarentigie (Garanzie), per garantire il Papa
 
-* Il papa avrebbe avuto piena li
+* Il papa avrebbe avuto piena libertà nel suo magistero spirituale
+* Al papa sarebbero stati riconosciuti onorig, guardie, rappresentanze come altri sovrani
+* Extraterritorialità dei palazzi del Vaticano e del Laterano
+* Segretezza postale e telegrafica
+* Offerta donazione annua di denaro per mantenere coorte e chiesa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDkzNjIxMF19
+eyJoaXN0b3J5IjpbMTYxMzc2NzAxXX0=
 -->
