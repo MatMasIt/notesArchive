@@ -21,6 +21,21 @@ tentativo di costruire una lingua unitaria alta, flessibile e adattabile alle es
 
 
 Tentativo poi strategicamente perseguito da Manzoni, che vive molto più a lungo di Leopardi
+
+Varietà di generi, temi personaggi
+
+Mitologia, fiabe, personificazioni astrali, uomini comuni e universalizzati
+
+sineddoche intera umanità
+
+Diavoli infernali, elementi mitologia ebraica
+
+* Colombo
+* Copernico
+* Tasso
+* Plotino
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzU5MjU1MV19
+eyJoaXN0b3J5IjpbMTY2NjQ1OTQyNF19
 -->
