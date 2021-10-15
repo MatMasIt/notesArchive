@@ -18,6 +18,14 @@ Risorgimento: 4 grandi fattori
 * Politica estera di Napoleone III
 * Politica estera dell'Inghilterra
 
+Unificazione italiana: spinta dall'alto _e_ dal basso
+* monarchia
+e
+* popolo
+
+
+Per l'italia repubblicana la resistenza  un fatto molto importante
+l'italia ha cambiato fino
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDczNTUwNV19
+eyJoaXN0b3J5IjpbLTE5NTA4NDk3OV19
 -->
