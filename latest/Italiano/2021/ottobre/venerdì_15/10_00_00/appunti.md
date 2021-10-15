@@ -50,6 +50,10 @@ Infelicità è una cosa costitutiva degli uomini
 Natura persecutrice, aliena all'essere umano
 
 umani esistono solo perchè fanno parte di un meccanismo ciclico 
+
+---
+138
+T 15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjg1MTc2Nl19
+eyJoaXN0b3J5IjpbLTE5NzA0MTkzNjddfQ==
 -->
