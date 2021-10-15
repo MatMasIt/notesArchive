@@ -60,7 +60,10 @@ Dialogo della Natura e di Islandese
 
 Terra inospitale
 
+natura non è incentrata sull'uomo
 
+
+insensatezza, male del vivere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDE2Njc1OV19
+eyJoaXN0b3J5IjpbLTE4Nzk0OTM4NzEsMTQ1MDE2Njc1OV19
 -->
