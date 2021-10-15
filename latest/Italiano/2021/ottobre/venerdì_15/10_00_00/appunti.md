@@ -1,5 +1,5 @@
 # Lezione di Italiano (3° ora) 
-## Giovedì 15 ottobre 2021, 10:00:00
+## Venerdì 15 ottobre 2021, 10:00:00
 
 Operette morali: sottoposte a censura ma premiata da accademia della crusca
 
@@ -68,6 +68,6 @@ insensatezza, male del vivere
 Tutto è male
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzkxNDYyOCwxOTIxMTQ0OTE4LDE0NT
-AxNjY3NTldfQ==
+eyJoaXN0b3J5IjpbNTA2MjY5MjY4LDE0MTc5MTQ2MjgsMTkyMT
+E0NDkxOCwxNDUwMTY2NzU5XX0=
 -->
