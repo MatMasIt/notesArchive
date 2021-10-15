@@ -45,7 +45,11 @@ Natura sistemica e meccanica
 Analisi di Leopardi:
 pessimismo vivere umano
 
-Infelicità è una cosa costitutiva
+Infelicità è una cosa costitutiva degli uomini
+
+Natura persecutrice, aliena all'essere umano
+
+umani esistono solo perchè fanno parte di un meccanismo ciclico 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTU5NDI3MF19
+eyJoaXN0b3J5IjpbMTcwNjg1MTc2Nl19
 -->
