@@ -84,6 +84,10 @@ Torino: troppo periferica
 
 
 (Roma era necessaria per la posizione centrale)
+
+1865-1871 Firenze capitale
+
+1866, per effetto della vicenda dell'unificazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwNjM5NjUxXX0=
+eyJoaXN0b3J5IjpbMzgzNTYxMzM2XX0=
 -->
