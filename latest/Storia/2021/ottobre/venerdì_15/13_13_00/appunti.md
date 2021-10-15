@@ -11,7 +11,8 @@ Risorgimento: 4 grandi fattori
 
 * Ambizioni espansionistiche di una casa regnante
 * Spinta esercitata dal ceto borghese
-	* 
+	* Liberale-moderato
+	* Democratico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDE3OTAwN119
+eyJoaXN0b3J5IjpbLTk0NjY3OTI5NV19
 -->
