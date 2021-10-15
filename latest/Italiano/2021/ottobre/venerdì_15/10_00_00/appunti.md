@@ -15,7 +15,12 @@ p.123
 
 p.127
 
+modello di lingua illustre, alta
 
+tentativo di costruire una lingua unitaria alta, flessibile e adattabile alle esigenze
+
+
+Tentativo poi strategicamente perseguito da Manzoni, che vive molto più a lungo di Leopardi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODg3NTgwNl19
+eyJoaXN0b3J5IjpbMTY4NzU5MjU1MV19
 -->
