@@ -40,6 +40,10 @@ schema p 128
 
 
 Natura sistemica e meccanica
+
+
+Analisi di Leopardi:
+pessimismo vivere umano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTIzMDM0NF19
+eyJoaXN0b3J5IjpbLTE5NzE3NDg0NzhdfQ==
 -->
