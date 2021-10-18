@@ -128,6 +128,9 @@ Percezione di un infinito spaziale
 Autoosservazione
 
 Agire della facoltà immaginativa
+
+uso deittici (agettivi dimostrativi, pronominali)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA1MDA2NjJdfQ==
+eyJoaXN0b3J5IjpbLTE3NDcwMjg3MjksLTE3MDA1MDA2NjJdfQ
+==
 -->
