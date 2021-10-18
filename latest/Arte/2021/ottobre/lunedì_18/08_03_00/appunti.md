@@ -30,6 +30,10 @@ Da romanzo di Cletto Arrighi ( nome cambiato)
 > La qualità di un libro dipende dal lettore
 > 
 Emilio Praga
+
+Una vita vissuta placidamente per valori e religione per loro non è vissuta
+
+Critica società industriale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTIzODkwNywtMzcyMzIzMTNdfQ==
+eyJoaXN0b3J5IjpbMTgxODk0OTY0OSwtMzcyMzIzMTNdfQ==
 -->
