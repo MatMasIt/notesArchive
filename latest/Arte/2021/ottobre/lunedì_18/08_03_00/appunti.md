@@ -45,7 +45,14 @@ Relazioni tra amanti dipinte dai macchiaioli
 
 
 Figura Bohemien
+
+
+---
+
+Gallerie umberto I
+
+strutture a traliccio di ferro per scaricare pesi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMwNjE2OTEsMTgxODk0OTY0OSwtMz
-cyMzIzMTNdfQ==
+eyJoaXN0b3J5IjpbMTUzNzE5MTQxNSwtMTY5MzA2MTY5MSwxOD
+E4OTQ5NjQ5LC0zNzIzMjMxM119
 -->
