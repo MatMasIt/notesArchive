@@ -57,7 +57,10 @@ strutture a traliccio di ferro per scaricare pesi
 ---
 
 Macchiaioli: macchie di colore
+
+---
+Borgo del valntino creato con finto castello del valentino, per esposizione univresale delle arti plastiche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTIxNDQ0MiwtMTY5MzA2MTY5MSwxOD
-E4OTQ5NjQ5LC0zNzIzMjMxM119
+eyJoaXN0b3J5IjpbLTg3MTU5MzcwMiwxMjExMjE0NDQyLC0xNj
+kzMDYxNjkxLDE4MTg5NDk2NDksLTM3MjMyMzEzXX0=
 -->
