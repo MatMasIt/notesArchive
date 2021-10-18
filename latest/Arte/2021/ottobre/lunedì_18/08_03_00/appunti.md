@@ -16,6 +16,16 @@ Cezanne 1907, sala dei Fauves
 Esposizione di Nadar, fotgrafo
 
 accetta opere pittoriche nel suo studio fotografico
+
+
+Scapigliati odiano Manzoni lol
+
+loro sono per
+
+* divertiento sfrenato
+* vita libera
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjMyMzEzXX0=
+eyJoaXN0b3J5IjpbMTE3ODA0Nzc5MCwtMzcyMzIzMTNdfQ==
 -->
