@@ -109,6 +109,17 @@ si esprime in parole, on termini
 ---
 
 L' infinito, p.53
+
+Io lirico seduto su un colle (Monte Tabor, presso recanati)
+
+da quella visione limitata imamgina dalla sua mente spazi infiniti, sovraumani silenzi
+
+quasi si soaurisce
+ma quando sente il vento stormire tra le piante
+
+associa infinità al suono naturale che avverte
+
+compara suonoo a eternità della staz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQwNzM1MjNdfQ==
+eyJoaXN0b3J5IjpbNjQyNjYwNzg3XX0=
 -->
