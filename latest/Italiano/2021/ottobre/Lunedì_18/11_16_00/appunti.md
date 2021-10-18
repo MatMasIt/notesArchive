@@ -68,6 +68,14 @@ il mondo è fango
 nichilismo
 
 Leopardi: genere lirico espressione migliore della soggettività, del sentire
+
+
+Parole non solo musicali e ritmiche ma anche cantabili
+
+
+parole che si gustano e si percepiscono come parole cantate , pronunciate
+
+significante delle parole
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjI0MTc3OV19
+eyJoaXN0b3J5IjpbNDA0MTE3NzEwXX0=
 -->
