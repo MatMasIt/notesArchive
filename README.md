@@ -2,7 +2,9 @@
 
 ## An archive of all my school notes
 
-### View my notes at my [Notes Browser](https://matmasit.github.io/notesArchive/) !
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/MatMasIt/notesArchive)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MatMasIt/notesArchive)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/MatMasIt/notesArchive)
 
 My home server keeps a copy of these notes, too.
 
