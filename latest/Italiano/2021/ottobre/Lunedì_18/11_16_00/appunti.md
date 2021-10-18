@@ -122,6 +122,12 @@ associa infinità al suono naturale che avverte
 compara suonoo a eternità dele stagioni dell''umoe quella corrente
 
 senso di smarrimento piacevole dei sensi
+
+
+Percezione di un infinito spaziale
+Autoosservazione
+
+Agire della facoltà immaginativa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODEwNzc2MF19
+eyJoaXN0b3J5IjpbLTE3MDA1MDA2NjJdfQ==
 -->
