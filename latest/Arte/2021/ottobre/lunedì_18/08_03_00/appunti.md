@@ -1,4 +1,19 @@
-# Title
+# Lezione di Storia (3° ora) 
+## Venerdì 15 ottobre 2021, 13:13:00
+
+
+Saloni infrancia, Accademie in Italia
+
+Salone alternativo di Courbet, per le opere non acccettate al Salo
+
+Salon des refusèes, itituito da Napoleone III per le opere rifiutate
+
+
+Salòn indipendenti, salòn dell'autonno
+
+Cezanne 1907, sala dei Fauves
+
+Esposizione di Nadar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDQwODkxNV19
+eyJoaXN0b3J5IjpbLTIwNjIzNTUxMDFdfQ==
 -->
