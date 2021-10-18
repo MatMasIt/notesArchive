@@ -6,6 +6,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MatMasIt/notesArchive)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/MatMasIt/notesArchive)
 ![GitHub repo size](https://img.shields.io/github/repo-size/MatMasIt/notesArchive)
+![GitHub last commit](https://img.shields.io/github/last-commit/MatMasIt/notesArchive)
 ![GitHub](https://img.shields.io/github/license/MatMasIt/notesArchive)
 
 
