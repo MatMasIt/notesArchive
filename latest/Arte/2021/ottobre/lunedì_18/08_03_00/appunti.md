@@ -42,7 +42,10 @@ Giovanni Carnovali (detto il Piccio)
 
 
 Relazioni tra amanti dipinte dai macchiaioli
+
+
+Figura Bohemien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjgzMzcwLDE4MTg5NDk2NDksLTM3Mj
-MyMzEzXX0=
+eyJoaXN0b3J5IjpbLTE2OTMwNjE2OTEsMTgxODk0OTY0OSwtMz
+cyMzIzMTNdfQ==
 -->
