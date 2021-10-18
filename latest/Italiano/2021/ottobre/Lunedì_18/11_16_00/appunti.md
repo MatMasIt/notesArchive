@@ -82,7 +82,17 @@ Idilli, componementi di origine Greca
 Autori tradotti da leopardi
 
 
-La canzone, che all'inizio è il modello che preferisce, ma dopo lemoperette 
+La canzone, che all'inizio è il modello che preferisce, ma dopo lemoperette morali diventa canzione libera, leopardiana
+
+
+A Silvia
+
+
+svecchia la forma metrica tradizionali
+
+non più 5 stanze/congedo+ endecasillabi, rime fisse
+
+canzone libera con versi sciolte, no congedo, numero di strofe variabili
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzcwNzk1NV19
+eyJoaXN0b3J5IjpbMzc5OTA5MjE1XX0=
 -->
