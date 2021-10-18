@@ -15,7 +15,7 @@ Cezanne 1907, sala dei Fauves
 
 Esposizione di Nadar, fotgrafo
 
-accetta operen
+accetta opere pittoriche nel suo studio fotografico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDA4NzYxM119
+eyJoaXN0b3J5IjpbLTM3MjMyMzEzXX0=
 -->
