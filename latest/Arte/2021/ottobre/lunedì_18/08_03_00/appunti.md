@@ -25,7 +25,11 @@ loro sono per
 * divertiento sfrenato
 * vita libera
 
+Da romanzo di Cletto Arrighi ( nome cambiato)
 
+> La qualità di un libro dipende dal lettore
+> 
+Emilio Praga
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODA0Nzc5MCwtMzcyMzIzMTNdfQ==
+eyJoaXN0b3J5IjpbMTMwMTIzODkwNywtMzcyMzIzMTNdfQ==
 -->
