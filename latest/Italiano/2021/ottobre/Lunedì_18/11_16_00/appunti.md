@@ -13,6 +13,11 @@ _Canti_, la raccolta
 I Canti leopardiani, paragrafo 2 pag 36
 
 Informazioni imprescindibili
+
+
+Canti (1816-1837)
+41 testi nella edizione
+p.37 Firenze
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzgxNjY2NF19
+eyJoaXN0b3J5IjpbNjM5ODE2NTM2XX0=
 -->
