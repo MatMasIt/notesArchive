@@ -130,7 +130,16 @@ Autoosservazione
 Agire della facoltà immaginativa
 
 uso deittici (agettivi dimostrativi, pronominali)
+
+
+Scelta di parole, senso dell'infinito, vago
+
+
+sovraumani, profondissima, immensità
+
+parole a molte sillabe (significante proteso) + significato
+
+senso indeterminatezza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDcwMjg3MjksLTE3MDA1MDA2NjJdfQ
-==
+eyJoaXN0b3J5IjpbMTQwNjA5OTkzMCwtMTcwMDUwMDY2Ml19
 -->
