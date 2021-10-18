@@ -119,7 +119,9 @@ ma quando sente il vento stormire tra le piante
 
 associa infinità al suono naturale che avverte
 
-compara suonoo a eternità della staz
+compara suonoo a eternità dele stagioni dell''umoe quella corrente
+
+senso di smarrimento piacevole dei sensi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyNjYwNzg3XX0=
+eyJoaXN0b3J5IjpbMjAxODEwNzc2MF19
 -->
