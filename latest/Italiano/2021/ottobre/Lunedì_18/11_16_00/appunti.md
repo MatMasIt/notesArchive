@@ -31,6 +31,24 @@ Canti
 
 
 Organizzazone dei componimenti non solo cronologica
+
+
+blocco 1: Canzoni civili e idilli
+
+
+p. 39
+
+Canzoni civili o idilli
+
+anche di impianto classicheggiante
+
+
+p.40 cinque idilli
+* Infinito
+* Festa
+* Luna
+* Sonno
+* *** Solitar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5NzQ0MTM5XX0=
+eyJoaXN0b3J5IjpbLTQ0OTc4NDAxMV19
 -->
