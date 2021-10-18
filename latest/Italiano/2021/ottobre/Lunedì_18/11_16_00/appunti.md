@@ -1,9 +1,14 @@
 # Lezione di Italiano (3° ora) 
-## Venerdì 15 ottobre 2021, 11:1
+## Lunedì 18 ottobre 2021, 11:17:00
 
 Lopardi: zibaldone, operette morali
 
 Italiano illustre
+
+produzione in versi leopardiana
+
+
+_Canti_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU3ODE3NDJdfQ==
+eyJoaXN0b3J5IjpbMzQ4OTg4MDJdfQ==
 -->
