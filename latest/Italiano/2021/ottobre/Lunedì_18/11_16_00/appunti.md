@@ -48,7 +48,15 @@ p.40 cinque idilli
 * Festa
 * Luna
 * Sonno
-* *** Solitar
+* *** Solitaria
+
+
+passaggio al **bello**
+
+
+p. 41
+
+Nuovo blocco: canti pisano-recanatesi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTc4NDAxMV19
+eyJoaXN0b3J5IjpbLTk3OTk4MjA5OV19
 -->
