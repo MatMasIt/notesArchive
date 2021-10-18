@@ -52,7 +52,12 @@ Figura Bohemien
 Gallerie umberto I
 
 strutture a traliccio di ferro per scaricare pesi
+
+
+---
+
+Macchiaioli: macchie di colore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzE5MTQxNSwtMTY5MzA2MTY5MSwxOD
+eyJoaXN0b3J5IjpbMTIxMTIxNDQ0MiwtMTY5MzA2MTY5MSwxOD
 E4OTQ5NjQ5LC0zNzIzMjMxM119
 -->
