@@ -17,7 +17,16 @@ Informazioni imprescindibili
 
 Canti (1816-1837)
 41 testi nella edizione
-p.37 Firenze
+p.37 Firenze, Le Monnier, 1845
+Edizione Odierna
+Agiunto per mano di Ranieri de La Ginestra e il tramonto della luna 
+
+tempi di composizione
+
+componimenti da 13 a 300 versi (la ginestra)
+
+
+Canti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5ODE2NTM2XX0=
+eyJoaXN0b3J5IjpbMTUwMzM0NjIyMl19
 -->
