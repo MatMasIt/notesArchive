@@ -8,7 +8,11 @@ Italiano illustre
 produzione in versi leopardiana
 
 
-_Canti_
+_Canti_, la raccolta
+
+I Canti leopardiani, paragrafo 2 pag 36
+
+Informazioni imprescindibili
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4OTg4MDJdfQ==
+eyJoaXN0b3J5IjpbMTU3MzgxNjY2NF19
 -->
