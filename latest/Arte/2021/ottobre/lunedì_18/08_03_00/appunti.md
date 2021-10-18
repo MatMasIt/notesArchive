@@ -13,7 +13,9 @@ Salòn indipendenti, salòn dell'autonno
 
 Cezanne 1907, sala dei Fauves
 
-Esposizione di Nadar
+Esposizione di Nadar, fotgrafo
+
+accetta operen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjIzNTUxMDFdfQ==
+eyJoaXN0b3J5IjpbMTk1NDA4NzYxM119
 -->
