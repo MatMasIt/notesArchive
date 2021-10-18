@@ -66,6 +66,8 @@ il mondo è fango
 
 
 nichilismo
+
+Leopardi: genere lirico espressione migliore della soggettività, del sentire
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjQ1NTAzM119
+eyJoaXN0b3J5IjpbMTc4NjI0MTc3OV19
 -->
