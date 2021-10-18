@@ -103,6 +103,12 @@ novità leopardiana
 Canti vivi, materici
 
 si esprime in parole, on termini
+
+
+
+---
+
+L' infinito, p.53
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzgyMzYxMzddfQ==
+eyJoaXN0b3J5IjpbLTE2NTQwNzM1MjNdfQ==
 -->
