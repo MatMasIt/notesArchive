@@ -80,6 +80,9 @@ significante delle parole
 
 Idilli, componementi di origine Greca
 Autori tradotti da leopardi
+
+
+La canzone, che all'inizio è il modello che preferisce, ma dopo lemoperette 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjAyMjY2MV19
+eyJoaXN0b3J5IjpbLTYyMzcwNzk1NV19
 -->
