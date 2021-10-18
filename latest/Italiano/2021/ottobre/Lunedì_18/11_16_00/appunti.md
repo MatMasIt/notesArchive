@@ -57,6 +57,15 @@ passaggio al **bello**
 p. 41
 
 Nuovo blocco: canti pisano-recanatesi
+
+
+Enuit: male di vivere
+
+vita è amara e noia
+il mondo è fango
+
+
+nichilismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTk4MjA5OV19
+eyJoaXN0b3J5IjpbMTU1MjQ1NTAzM119
 -->
