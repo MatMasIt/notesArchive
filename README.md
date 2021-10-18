@@ -5,8 +5,8 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/MatMasIt/notesArchive)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MatMasIt/notesArchive)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/MatMasIt/notesArchive)
+![GitHub repo size](https://img.shields.io/github/repo-size/MatMasIt/notesArchive)
 
-My home server keeps a copy of these notes, too.
 
 The notes are mostly in Italian (I am italian and attending an Italian school)
 
