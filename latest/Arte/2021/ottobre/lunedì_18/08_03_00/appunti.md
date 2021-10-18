@@ -38,7 +38,11 @@ Critica società industriale
 
 Tranquillo Cremona 
 Giovanni Carnovali (detto il Piccio)
+
+
+
+Relazioni tra amanti dipinte dai macchiaioli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMwNjEwMDYsMTgxODk0OTY0OSwtMz
-cyMzIzMTNdfQ==
+eyJoaXN0b3J5IjpbLTM5MjgzMzcwLDE4MTg5NDk2NDksLTM3Mj
+MyMzEzXX0=
 -->
