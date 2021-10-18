@@ -1,6 +1,5 @@
-# Lezione di Storia (3° ora) 
-## Venerdì 15 ottobre 2021, 13:13:00
-
+# Lezione di Arte (1° ora) 
+## Lunedì 18 ottobre 2021, 08:00:00
 
 Saloni infrancia, Accademie in Italia
 
@@ -61,6 +60,7 @@ Macchiaioli: macchie di colore
 ---
 Borgo del valntino creato con finto castello del valentino, per esposizione univresale delle arti plastiche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTU5MzcwMiwxMjExMjE0NDQyLC0xNj
-kzMDYxNjkxLDE4MTg5NDk2NDksLTM3MjMyMzEzXX0=
+eyJoaXN0b3J5IjpbMTE1NTA3NzA2OSwtODcxNTkzNzAyLDEyMT
+EyMTQ0NDIsLTE2OTMwNjE2OTEsMTgxODk0OTY0OSwtMzcyMzIz
+MTNdfQ==
 -->
