@@ -93,6 +93,16 @@ svecchia la forma metrica tradizionali
 non più 5 stanze/congedo+ endecasillabi, rime fisse
 
 canzone libera con versi sciolte, no congedo, numero di strofe variabili
+
+Io asettico, artificioso, artificiale
+
+Io poetante autobiografico, denso di sensibilità
+
+novità leopardiana
+
+Canti vivi, materici
+
+si esprime in parole, on termini
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5OTA5MjE1XX0=
+eyJoaXN0b3J5IjpbLTExNzgyMzYxMzddfQ==
 -->
