@@ -35,7 +35,10 @@ Una vita vissuta placidamente per valori e religione per loro non è vissuta
 
 Critica società industriale
 
+
+Tranquillo Cremona 
+Giovanni Carnovali (detto il Piccio)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjUwODkyNywxODE4OTQ5NjQ5LC0zNz
-IzMjMxM119
+eyJoaXN0b3J5IjpbLTIwODMwNjEwMDYsMTgxODk0OTY0OSwtMz
+cyMzIzMTNdfQ==
 -->
