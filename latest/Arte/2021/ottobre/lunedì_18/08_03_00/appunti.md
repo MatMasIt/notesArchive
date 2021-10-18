@@ -34,6 +34,8 @@ Emilio Praga
 Una vita vissuta placidamente per valori e religione per loro non è vissuta
 
 Critica società industriale
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODk0OTY0OSwtMzcyMzIzMTNdfQ==
+eyJoaXN0b3J5IjpbMTk5MjUwODkyNywxODE4OTQ5NjQ5LC0zNz
+IzMjMxM119
 -->
