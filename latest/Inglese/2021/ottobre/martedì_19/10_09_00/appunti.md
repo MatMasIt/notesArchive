@@ -70,8 +70,8 @@ but also
 * frightening
 * energetic
 
-Songs of innocence 
+Songs of innocence was influenced by the ideals of the french revolution, that is why it is so optimistic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjcxMTA0LDIzNDgzNzEyNSwtMjAxNz
+eyJoaXN0b3J5IjpbMjg2NTA2NDIwLDIzNDgzNzEyNSwtMjAxNz
 Q0MTA1NF19
 -->
