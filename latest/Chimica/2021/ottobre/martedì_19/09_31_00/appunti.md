@@ -168,9 +168,16 @@ $$
 
 metano $\to$ metile
 
-		  C
-		  |
-		H3C-CH-C-C
+		     CH3 CH3
+		     |  |
+		H3C-CH-CH-CH3
+due metili
+4 carboni
+
+2,3-dimetil butano
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2NDAyMDIzXX0=
+eyJoaXN0b3J5IjpbMTMzNjE1Mzk0NF19
 -->
