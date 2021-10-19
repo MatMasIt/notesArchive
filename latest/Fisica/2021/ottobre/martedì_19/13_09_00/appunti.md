@@ -20,6 +20,11 @@ $$
 $$
 v_X=600dm^3=60\cdot 10^{-3}m^3
 $$
+
+
+biatomico
+
+$n=2mol$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk1NDUxODIsLTU0NDQwODkxNV19
+eyJoaXN0b3J5IjpbLTEwMjg4NTQwMDIsLTU0NDQwODkxNV19
 -->
