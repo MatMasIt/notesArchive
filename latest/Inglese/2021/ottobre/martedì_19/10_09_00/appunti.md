@@ -58,7 +58,18 @@ p-266
 Simultaneos states
 
 Tension between opposites leads to progress
+
+
+God can be 
+* generous 
+* kinf
+* mite
+
+but also
+
+* frighrning
+* energeti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzgzMDQ1MiwyMzQ4MzcxMjUsLTIwMT
-c0NDEwNTRdfQ==
+eyJoaXN0b3J5IjpbLTEyMjQ2MzI3MjEsMjM0ODM3MTI1LC0yMD
+E3NDQxMDU0XX0=
 -->
