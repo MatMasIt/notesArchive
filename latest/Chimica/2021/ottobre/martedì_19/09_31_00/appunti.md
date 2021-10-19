@@ -144,6 +144,15 @@ $C_nH_{2n+2}$
 $-ano$ suffiso
 
 $CH_4,X_2H_6$
+
+
+p.28 del libro
+
+Seguriemo la nomenclatura **iupac**
+
+$-ano$ + prefisso in base a lunghezza catena di carbonio più lunga
+
+pent-ano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTQ2MjY5Ml19
+eyJoaXN0b3J5IjpbLTEyNDg3NzE4MzhdfQ==
 -->
