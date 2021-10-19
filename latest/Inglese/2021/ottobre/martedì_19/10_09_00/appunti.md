@@ -67,9 +67,11 @@ God can be
 
 but also
 
-* frighrning
-* energeti
+* frightening
+* energetic
+
+Songs of innocence 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQ2MzI3MjEsMjM0ODM3MTI1LC0yMD
-E3NDQxMDU0XX0=
+eyJoaXN0b3J5IjpbMTYwNjcxMTA0LDIzNDgzNzEyNSwtMjAxNz
+Q0MTA1NF19
 -->
