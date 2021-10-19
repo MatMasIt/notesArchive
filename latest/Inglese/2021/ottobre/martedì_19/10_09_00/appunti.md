@@ -35,6 +35,9 @@ He moves in Italy and Venice
 
 
 After Shelley's death he became devoted to the cause of Greek indipendence from Turkey
+
+
+William Blake
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTIxNzMyNzhdfQ==
+eyJoaXN0b3J5IjpbLTMxMTYzNTY5Ml19
 -->
