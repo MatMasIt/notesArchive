@@ -23,6 +23,12 @@ He was rich and handsome
 but he had a deformed foot
 
 he tried to excel at sport, he felt guilty
+
+
+travelled a lot, always looking for exotic settings
+
+
+he lived in Geneva, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTYyNzIwMjhdfQ==
+eyJoaXN0b3J5IjpbMTMyMjkwNjk4NV19
 -->
