@@ -163,8 +163,14 @@ Ramificazioni: $R$: _radicali_
 
 
 $$
-CH_4\to \i\cdot CH_3
+CH_4\to \Large \cdot\small CH_3
 $$
+
+metano $\to$ metile
+
+		  C
+		  |
+		H3C-CH-C-C
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjUxMjgyNF19
+eyJoaXN0b3J5IjpbNDE2NDAyMDIzXX0=
 -->
