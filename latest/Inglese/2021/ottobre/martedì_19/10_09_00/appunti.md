@@ -50,6 +50,10 @@ Always two opposite and complementary states
 Songs of innocence Images related to childooh, peace, happiness, joy, ==optimism==
 
 Songs of Experience: Adulthood, City, Civilitzation, corruption of society, ==pessimism==
+
+
+
+p-266
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc0NDEwNTRdfQ==
+eyJoaXN0b3J5IjpbMjM0ODM3MTI1LC0yMDE3NDQxMDU0XX0=
 -->
