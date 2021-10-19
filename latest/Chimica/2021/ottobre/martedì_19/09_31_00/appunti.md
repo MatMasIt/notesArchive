@@ -156,7 +156,15 @@ pent-ano
 
 
 
+![](https://i.imgur.com/UXn0tPM.jpg)
 
+
+Ramificazioni: $R$: _radicali_
+
+
+$$
+CH_4\to \i\cdot CH_3
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Njc0ODM0Ml19
+eyJoaXN0b3J5IjpbMTYxMjUxMjgyNF19
 -->
