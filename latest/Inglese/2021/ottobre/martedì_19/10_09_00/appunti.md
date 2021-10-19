@@ -75,7 +75,10 @@ Songs of innocence was influenced by the ideals of the french revolution, that i
 p.266
 
 language is simple and musical
+
+
+Songs of experience: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTgwMTY1OSwyODY1MDY0MjAsMjM0OD
-M3MTI1LC0yMDE3NDQxMDU0XX0=
+eyJoaXN0b3J5IjpbNzM4NzA0NzgsMjg2NTA2NDIwLDIzNDgzNz
+EyNSwtMjAxNzQ0MTA1NF19
 -->
