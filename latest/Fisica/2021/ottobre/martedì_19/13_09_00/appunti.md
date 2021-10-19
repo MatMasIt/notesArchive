@@ -25,6 +25,12 @@ $$
 biatomico
 
 $n=2mol$
+$$
+P_EV_E^\gamma=P_CV_C^\gamma$$
+$$
+P_E=\frac{nRT_E}{V_E}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTk3NjM4OCwtNTQ0NDA4OTE1XX0=
+eyJoaXN0b3J5IjpbLTEyNjgzOTY1NTAsLTQ1NTk3NjM4OCwtNT
+Q0NDA4OTE1XX0=
 -->
