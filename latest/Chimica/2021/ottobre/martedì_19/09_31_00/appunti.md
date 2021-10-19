@@ -150,9 +150,13 @@ p.28 del libro
 
 Seguriemo la nomenclatura **iupac**
 
-$-ano$ + prefisso in base a lunghezza catena di carbonio più lunga
+$-ano$ + prefisso in base a lunghezza catena di carbonio (se + di una, quella che contiene più atomi di carbonio))
 
 pent-ano
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg3NzE4MzhdfQ==
+eyJoaXN0b3J5IjpbLTI4Njc0ODM0Ml19
 -->
