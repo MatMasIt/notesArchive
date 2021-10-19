@@ -12,6 +12,8 @@ Restless
 
 p.297, Manfred, a Tragedy by Lord Byron
 
+
+solitary, driven by a sense of guilt, darkly handsome, tyrannical, kind, passionate and intelle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODk4ODYzOV19
+eyJoaXN0b3J5IjpbMzcyNzkzMzA2XX0=
 -->
