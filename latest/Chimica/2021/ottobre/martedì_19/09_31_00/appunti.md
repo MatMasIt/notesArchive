@@ -198,9 +198,12 @@ secondiari, terziari, etc
 
 C: primari
 c: sedondari
-
-
-		C
+				
+		          
+		       /
+		C-c-c'
+		       \
+		        C
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5MTk4MjEzXX0=
+eyJoaXN0b3J5IjpbMTYxNTYzMzYxNl19
 -->
