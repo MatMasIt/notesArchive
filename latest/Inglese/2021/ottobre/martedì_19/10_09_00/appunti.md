@@ -54,6 +54,11 @@ Songs of Experience: Adulthood, City, Civilitzation, corruption of society, ==pe
 
 
 p-266
+
+Simultaneos states
+
+Tension between opposites leads to progress
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0ODM3MTI1LC0yMDE3NDQxMDU0XX0=
+eyJoaXN0b3J5IjpbMTgwNzgzMDQ1MiwyMzQ4MzcxMjUsLTIwMT
+c0NDEwNTRdfQ==
 -->
