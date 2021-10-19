@@ -25,16 +25,27 @@ $$
 biatomico
 
 $n=2mol$
+
 $$
 P_EV_E^\gamma=P_CV_C^\gamma$$
+
 $$
 P_E=\frac{nRT_E}{V_E}
 $$
+
 $$
 \frac{nR_E}{V_E}V_E^\gamma=P_CV_C^\gamma
 $$
-4
+
+$$
+\frac{\cancel{nR}T_E}{V_E}V_E^\gamma=\frac{\cancel{nR}T_C}{V_C}\cdot V_C^\gamma
+$$
+
+
+$$
+T_E\cdot V_E^{\gamma-1}=T_C\cdot V_C^{\gamma -1}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI0MjI3ODEsLTQ1NTk3NjM4OCwtNT
-Q0NDA4OTE1XX0=
+eyJoaXN0b3J5IjpbMTE1Mjg1OTMyMSwtNDU1OTc2Mzg4LC01ND
+Q0MDg5MTVdfQ==
 -->
