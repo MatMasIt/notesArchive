@@ -45,6 +45,11 @@ p.266
 Childhood and adult age complete each other
 
 Always two opposite and complementary states
+
+
+Songs of innocence Images related to childooh, peace, happiness, joy, ==optimism==
+
+Songs of Experience: Adulthood, City, Civilitzation, corruption of society, ==pessimism==
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTg3MTU1XX0=
+eyJoaXN0b3J5IjpbLTIwMTc0NDEwNTRdfQ==
 -->
