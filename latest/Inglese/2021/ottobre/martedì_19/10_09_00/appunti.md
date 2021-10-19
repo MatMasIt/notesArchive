@@ -28,7 +28,13 @@ he tried to excel at sport, he felt guilty
 travelled a lot, always looking for exotic settings
 
 
-he lived in Geneva, 
+he lived in Geneva, befriended Percy Shelley (Mary Shelley's husband)
+
+
+He moves in Italy and Venice
+
+
+After Shelley's death he became devoted to the cause of Greek indipendence from Turkey
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjkwNjk4NV19
+eyJoaXN0b3J5IjpbLTEyOTIxNzMyNzhdfQ==
 -->
