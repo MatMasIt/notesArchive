@@ -2,8 +2,8 @@
 ## Martedì 19 ottobre 2021, 13:09:00
 
 $$
-T_1=300K\\
-T_2=400K
+T_D=T_F=T_C=300K\\
+T_E=T_B=T_A=400K
 $$
 
 
@@ -26,5 +26,5 @@ biatomico
 
 $n=2mol$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjg4NTQwMDIsLTU0NDQwODkxNV19
+eyJoaXN0b3J5IjpbLTQ1NTk3NjM4OCwtNTQ0NDA4OTE1XX0=
 -->
