@@ -189,6 +189,18 @@ radicali diversi in ordine alfabetico
 per seprarare numero e lettera metto un trattino
 
 p.27
+
+primari: legati a  atomo di C
+secondiari, terziari, etc
+
+
+	C-c-c-c-c-C
+
+C: primari
+c: sedondari
+
+
+		C
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzA3MzQ4XX0=
+eyJoaXN0b3J5IjpbODU5MTk4MjEzXX0=
 -->
