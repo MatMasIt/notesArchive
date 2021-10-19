@@ -183,7 +183,12 @@ due metili
 
 radicali diversi in ordine alfabetico
 
-4-etil
+4-etil-3,3-dimetil ottano
+
+
+per seprarare numero e lettera metto un trattino
+
+p.27
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5NjM1MjYxXX0=
+eyJoaXN0b3J5IjpbLTY0NzA3MzQ4XX0=
 -->
