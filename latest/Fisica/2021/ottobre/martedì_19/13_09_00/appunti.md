@@ -13,6 +13,13 @@ $$
 
 
 
+$$
+v_A=20dm^3=20\cdot10^{-3}m^3
+$$
+
+$$
+v_X=600dm^3=60\cdot 10^{-3}m^3
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU0MTk0MzEsLTU0NDQwODkxNV19
+eyJoaXN0b3J5IjpbLTE0NDk1NDUxODIsLTU0NDQwODkxNV19
 -->
