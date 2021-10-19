@@ -1,4 +1,17 @@
-# Title
+# Title Lezione di Fisica (6° ora)
+## Martedì 19 ottobre 2021, 13:09:00
+
+$$
+T_1=300K\\
+T_2=400K
+$$
+
+
+$$
+PV=nRT
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDQwODkxNV19
+eyJoaXN0b3J5IjpbLTM1OTkzODEsLTU0NDQwODkxNV19
 -->
