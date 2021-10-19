@@ -5,6 +5,13 @@
 Byronic Hero p.296
 
 Characteristics
+
+Fascinating and isolated man
+
+Restless
+
+p.297, Manfred, a Tragedy by Lord Byron
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzQwMjUwMV19
+eyJoaXN0b3J5IjpbLTY1ODk4ODYzOV19
 -->
