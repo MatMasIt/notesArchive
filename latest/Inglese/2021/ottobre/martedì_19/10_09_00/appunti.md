@@ -71,7 +71,11 @@ but also
 * energetic
 
 Songs of innocence was influenced by the ideals of the french revolution, that is why it is so optimistic
+
+p.266
+
+language is simple and musical
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NTA2NDIwLDIzNDgzNzEyNSwtMjAxNz
-Q0MTA1NF19
+eyJoaXN0b3J5IjpbLTc3NTgwMTY1OSwyODY1MDY0MjAsMjM0OD
+M3MTI1LC0yMDE3NDQxMDU0XX0=
 -->
