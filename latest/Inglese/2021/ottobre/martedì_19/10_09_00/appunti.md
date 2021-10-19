@@ -13,7 +13,16 @@ Restless
 p.297, Manfred, a Tragedy by Lord Byron
 
 
-solitary, driven by a sense of guilt, darkly handsome, tyrannical, kind, passionate and intelle
+solitary, driven by a sense of guilt, darkly handsome, tyrannical, kind, passionate and intellectual
+
+
+Lord Byron:
+
+He was rich and handsome
+
+but he had a deformed foot
+
+he tried to excel at sport, he felt guilty
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyNzkzMzA2XX0=
+eyJoaXN0b3J5IjpbLTIwMTYyNzIwMjhdfQ==
 -->
