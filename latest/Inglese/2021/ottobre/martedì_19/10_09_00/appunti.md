@@ -37,7 +37,12 @@ He moves in Italy and Venice
 After Shelley's death he became devoted to the cause of Greek indipendence from Turkey
 
 
-William Blake
+William Blake: Childhood and adulthood are not a timeline but they coexist together
+
+
+p.266
+
+Childhoo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTYzNTY5Ml19
+eyJoaXN0b3J5IjpbLTc3MjkwMjQxMl19
 -->
