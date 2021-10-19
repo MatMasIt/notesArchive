@@ -33,8 +33,8 @@ $$
 $$
 \frac{nR_E}{V_E}V_E^\gamma=P_CV_C^\gamma
 $$
-
+4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUzMTAyNzUsLTQ1NTk3NjM4OCwtNT
+eyJoaXN0b3J5IjpbLTE1MzI0MjI3ODEsLTQ1NTk3NjM4OCwtNT
 Q0NDA4OTE1XX0=
 -->
