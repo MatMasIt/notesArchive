@@ -43,6 +43,8 @@ William Blake: Childhood and adulthood are not a timeline but they coexist toget
 p.266
 
 Childhood and adult age complete each other
+
+Always two opposite and complementary states
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2MTczODc2XX0=
+eyJoaXN0b3J5IjpbMTkwMTg3MTU1XX0=
 -->
