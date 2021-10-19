@@ -77,8 +77,8 @@ p.266
 language is simple and musical
 
 
-Songs of experience: 
+Songs of experience: apperared during the _reign of terror_ in france
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NzA0NzgsMjg2NTA2NDIwLDIzNDgzNz
-EyNSwtMjAxNzQ0MTA1NF19
+eyJoaXN0b3J5IjpbODQzNTY0MDAwLDI4NjUwNjQyMCwyMzQ4Mz
+cxMjUsLTIwMTc0NDEwNTRdfQ==
 -->
