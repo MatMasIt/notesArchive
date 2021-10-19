@@ -177,7 +177,13 @@ due metili
 2,3-dimetil butano
 
 
+--
+2,2,4-trimetil esano
 
+
+radicali diversi in ordine alfabetico
+
+4-etil
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjE1Mzk0NF19
+eyJoaXN0b3J5IjpbNTg5NjM1MjYxXX0=
 -->
