@@ -45,7 +45,15 @@ $$
 $$
 T_E\cdot V_E^{\gamma-1}=T_C\cdot V_C^{\gamma -1}
 $$
+
+$$
+V_E^{\gamma-1}=\frac{T_CV_C^{\gamma-1}}{T_E}
+$$
+
+$$
+V_E=\left(\frac{T_C}{T_E}\right)^{\frac1{\gamma-1}}V_C=\left(\frac{300K}{400K}\right)^{\frac52}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Mjg1OTMyMSwtNDU1OTc2Mzg4LC01ND
+eyJoaXN0b3J5IjpbLTQ3NDMzMzI0MiwtNDU1OTc2Mzg4LC01ND
 Q0MDg5MTVdfQ==
 -->
