@@ -81,7 +81,9 @@ Songs of experience: apperared during the _reign of terror_ in france
 
 
 Blake: Humble horigins
+
+poetry and arts are inner visions of the human souls, they do not originate from a sensory experience
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTcxNjA0MSwyODY1MDY0MjAsMjM0OD
-M3MTI1LC0yMDE3NDQxMDU0XX0=
+eyJoaXN0b3J5IjpbLTk5NzUwMjQ4MSwtNDY5NzE2MDQxLDI4Nj
+UwNjQyMCwyMzQ4MzcxMjUsLTIwMTc0NDEwNTRdfQ==
 -->
