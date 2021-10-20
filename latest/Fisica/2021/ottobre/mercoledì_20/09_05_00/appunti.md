@@ -38,7 +38,12 @@ Anni '70 autobus ad aria calda, Philips lo presenta ad un salone di esposizione
 
 Caratteristica: rigenerazione
 
-Rigeneratore: una matassa di fili arrotolati
+Rigeneratore: una matassa di fili arrotolati che cattura calore del gas caldomentre si sposta dal punto caldo al punto freddo
+
+rigeneratore cattura una parte del calore
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUyMzU4MzRdfQ==
+eyJoaXN0b3J5IjpbLTY2MDg1MTQ5M119
 -->
