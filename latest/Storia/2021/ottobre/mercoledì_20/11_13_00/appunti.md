@@ -12,6 +12,8 @@ Mussolini era stato vicino a Francia e Inghilterra, che vedeva bene l'eliminazio
 1936, Germania e Italia si avvicinano
 
 Pci: scissione del psi, dopo la rivoluzione russa del '17
+
+Italia conquista Etiopia violando accordi internazionali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2MjU1NTY5LC0xMzgwNTA1NTYxXX0=
+eyJoaXN0b3J5IjpbLTIxMzE0NTY2NSwtMTM4MDUwNTU2MV19
 -->
