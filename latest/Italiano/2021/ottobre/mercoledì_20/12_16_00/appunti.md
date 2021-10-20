@@ -33,7 +33,16 @@ Anche passione amorosa va disattesa, infranta
 
 Canti - linea dl tempo
 
-* canzoni c
+* canzoni cilili
+* l'infinito - Idili
+* 1°programmatico
+* A silvia
+* Canto Pastore
+* A se stesso - ciclo di aspasia
+
+Pastore chirghiso
+
+pastore di un altro mondo, universo umano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzk5NjIxXX0=
+eyJoaXN0b3J5IjpbLTg1ODUyMTY2OV19
 -->
