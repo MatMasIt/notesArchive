@@ -30,7 +30,9 @@ Motore a combustione esterna
 
 Più sicuro, motori a combustione interna esplodevano spesso
 
-1950
+1950: costruite ricetrasmittenti a petrolio con motore di stirling dalla philips, per postazioni remote
+
+Anni '70 autobus ad aria calda, Philips
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxNzQ1Nzk5XX0=
+eyJoaXN0b3J5IjpbMTY1MTUxMjkwMV19
 -->
