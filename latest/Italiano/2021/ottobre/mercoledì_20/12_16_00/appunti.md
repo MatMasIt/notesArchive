@@ -54,6 +54,10 @@ t6, A silvia, due piani temporali
 tu/tu/tu, io
 
 quarta strofa: raccordo tra presenze
+
+
+
+arido vero
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5ODk2NTk4XX0=
+eyJoaXN0b3J5IjpbNTczNjUxMzY1LDkwOTg5NjU5OF19
 -->
