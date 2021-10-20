@@ -82,7 +82,22 @@ sempre, estremo ,eterno, tutto, morire
 campo semantico
 
 condizone inesorabile
+
+
+---
+
+p.87 t 10
+
+canto notturno pastore
+
+
+legge da rivista francese recensione diario di viaggio di turista tedesco che vede pastori asia centrale
+
+
+condizione universale umana
+
+Pastore Kirgizo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTk4MTk1NCw1NzM2NTEzNjUsOTA5OD
-k2NTk4XX0=
+eyJoaXN0b3J5IjpbLTEzMjA2ODI1MTYsMjA3OTk4MTk1NCw1Nz
+M2NTEzNjUsOTA5ODk2NTk4XX0=
 -->
