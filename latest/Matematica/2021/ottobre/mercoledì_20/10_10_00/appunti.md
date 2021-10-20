@@ -28,7 +28,24 @@ $$
 
 
 
+---
+
+$$
+D=[a,b]
+$$
+
+$$
+Immagine=[d,e)\cup\{f\}
+$$
+
+$$
+\inf(A)=d\\
+\sup(A)=f
+$$
+
+Intervallo limitato: funzione limitata
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTMyMjI0OThdfQ==
+eyJoaXN0b3J5IjpbNzg2MTg2NDFdfQ==
 -->
