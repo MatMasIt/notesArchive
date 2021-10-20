@@ -136,11 +136,13 @@ y=f(x)+g(x)\to T=?
 $$
 
 $$
-f\quad t_
+f\quad T_1\\
+g\quad T_2
 $$
 
 $$
+
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTE3NzU5OSw3ODYxODY0MV19
+eyJoaXN0b3J5IjpbMzU0NzU1MDM3LDc4NjE4NjQxXX0=
 -->
