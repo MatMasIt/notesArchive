@@ -43,7 +43,11 @@ Rigeneratore: una matassa di fili arrotolati che cattura calore del gas caldomen
 rigeneratore cattura una parte del calore
 
 
+Una parte viene sottratta
 
+Nel ritono, il generatore è ancora calda
+
+Aria torna ad n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDg1MTQ5M119
+eyJoaXN0b3J5IjpbLTkwMTM1MDEzMl19
 -->
