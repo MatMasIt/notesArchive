@@ -76,8 +76,13 @@ Assai, ahi o mai
 quasi gridi 
 
 
-Destino impera a nostro
+Destino impera a nostro danno
+
+sempre, estremo ,eterno, tutto, morire
+campo semantico
+
+condizone inesorabile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczNTY1NDcxLDU3MzY1MTM2NSw5MDk4OT
-Y1OThdfQ==
+eyJoaXN0b3J5IjpbMjA3OTk4MTk1NCw1NzM2NTEzNjUsOTA5OD
+k2NTk4XX0=
 -->
