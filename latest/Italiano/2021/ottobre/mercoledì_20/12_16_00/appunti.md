@@ -15,6 +15,15 @@ rime isolate, versi sciolti
 
 
 Passioni come speranze su base consapevolezza 
+
+
+A Silva, non dedica amorosa, testo esemplare, allegorico Arido vero
+
+
+Silvia lavora per famiglia leopardi e muore di tisi
+ 
+ disilussione, disinganno
+Innamoarmento 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDg3ODIyMF19
+eyJoaXN0b3J5IjpbMTM5MzkwMDM1Nl19
 -->
