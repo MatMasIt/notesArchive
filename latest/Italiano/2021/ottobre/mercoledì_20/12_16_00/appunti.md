@@ -58,6 +58,10 @@ quarta strofa: raccordo tra presenze
 
 
 arido vero
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNjUxMzY1LDkwOTg5NjU5OF19
+eyJoaXN0b3J5IjpbLTIwMTAxNzA4OTcsNTczNjUxMzY1LDkwOT
+g5NjU5OF19
 -->
