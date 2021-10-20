@@ -52,6 +52,7 @@ Intervallo limitato: funzione limitata
 
 Crescente
 
+![](https://i.imgur.com/XBnHWhX.jpg)
 
 $$
 x_1 < x_2 \implies f(x_2) < f(x_2)
@@ -110,5 +111,5 @@ Nè pari nè dispari
 $\cancel \exist$ Simmetrie evidenti
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTM4MzAsNzg2MTg2NDFdfQ==
+eyJoaXN0b3J5IjpbMjQ0MDY4ODk2LDc4NjE4NjQxXX0=
 -->
