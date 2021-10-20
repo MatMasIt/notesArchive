@@ -172,8 +172,20 @@ $$
 
 
 $$
-y=\sin 2x + \cos
+y=\sin 2x + \cos (4\pi x)
+$$
+
+$$
+T_1=\pi
+$$
+
+$$
+T_2=\frac12
+$$
+
+$$
+\frac{T_1}{T_2}=2\pi
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzUzMzQ5Nyw3ODYxODY0MV19
+eyJoaXN0b3J5IjpbMTEwNzQ3MzEyNSw3ODYxODY0MV19
 -->
