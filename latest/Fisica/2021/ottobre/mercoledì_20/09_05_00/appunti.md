@@ -18,7 +18,12 @@ Diesel:
 * isocora
 
 
+molto simili
+
+---
+
+Motore di Stirling (1816, da Rober Stirling)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODQyNzUwM119
+eyJoaXN0b3J5IjpbLTE3MjMyNTY4OTFdfQ==
 -->
