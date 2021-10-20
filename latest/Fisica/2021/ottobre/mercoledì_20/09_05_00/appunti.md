@@ -45,9 +45,9 @@ rigeneratore cattura una parte del calore
 
 Una parte viene sottratta
 
-Nel ritono, il generatore è ancora calda
+Nel ritono, il rigeneratore è ancora caldo
 
-Aria torna ad n
+Aria torna alla camera iniziale ancora più calda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTM1MDEzMl19
+eyJoaXN0b3J5IjpbNjk4MzQ5ODM5XX0=
 -->
