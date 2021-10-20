@@ -159,8 +159,21 @@ $$
 
 $$
 T_1=\pi\\
-T_
+T_2=\frac23\pi
+$$
+
+$$
+\frac{T_2}{T_1}=\frac23
+$$
+
+$$
+mcm=2\pi
+$$
+
+
+$$
+y=\sin 2x + \cos
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2MTYwOTQ2LDc4NjE4NjQxXX0=
+eyJoaXN0b3J5IjpbMTE1MzUzMzQ5Nyw3ODYxODY0MV19
 -->
