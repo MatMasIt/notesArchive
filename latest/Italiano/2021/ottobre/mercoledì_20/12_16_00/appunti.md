@@ -39,10 +39,16 @@ Canti - linea dl tempo
 * A silvia
 * Canto Pastore
 * A se stesso - ciclo di aspasia
+* La ginestra
 
 Pastore chirghiso
 
 pastore di un altro mondo, universo umano
+
+condizione di malessere universale
+
+
+l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODUyMTY2OV19
+eyJoaXN0b3J5IjpbLTIwODcxMzgxMTNdfQ==
 -->
