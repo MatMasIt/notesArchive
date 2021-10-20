@@ -186,6 +186,17 @@ $$
 $$
 \frac{T_1}{T_2}=2\pi
 $$
+
+
+### Funzione inversa
+
+$$
+y=f(x)
+$$
+
+$$
+g:y=f^{-1}(x)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzQ3MzEyNSw3ODYxODY0MV19
+eyJoaXN0b3J5IjpbLTIwODE5MDgyMjcsNzg2MTg2NDFdfQ==
 -->
