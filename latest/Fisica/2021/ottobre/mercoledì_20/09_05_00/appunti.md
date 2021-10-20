@@ -5,11 +5,17 @@ Ciclo otto: motore a 4 tempi
 
 punto morto superiore e inferiore (PMS, PMI)
 
-Ciclo:
+Ciclo Otto:
 * Aspirazione a pressione ambiente dal PMS al PMI
 * Una compressione adiabatica a PMI a PMS
 * combusione causata da una scintilla
 * una espansione adiabatica da PMS a PMI
+* ...
+Diesel:
+* adiabatica
+* isobara
+* adiabatica
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk3MTUzMjBdfQ==
+eyJoaXN0b3J5IjpbNDYyMTUxMDg3XX0=
 -->
