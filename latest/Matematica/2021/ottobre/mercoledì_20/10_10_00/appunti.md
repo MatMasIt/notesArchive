@@ -121,10 +121,26 @@ $$
 f(x+T)=f(x)
 $$
 
+$$
+y=kf(x)\to T=T_1
+$$
 
 $$
-t=(f
+y=f(kx)\to T_1=\frac{T}{k}
+$$
+
+---
+
+$$
+y=f(x)+g(x)\to T=?
+$$
+
+$$
+f\quad t_
+$$
+
+$$
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDIzOTM5OSw3ODYxODY0MV19
+eyJoaXN0b3J5IjpbLTYyNTE3NzU5OSw3ODYxODY0MV19
 -->
