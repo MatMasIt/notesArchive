@@ -1,4 +1,4 @@
-# Title Lezione di Fisica (6° ora)
+# Lezione di Fisica (6° ora)
 ## Martedì 19 ottobre 2021, 13:09:00
 
 $$
@@ -54,6 +54,6 @@ $$
 V_E=\left(\frac{T_C}{T_E}\right)^{\frac1{\gamma-1}}V_C=\left(\frac{300K}{400K}\right)^{\frac52}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDMzMzI0MiwtNDU1OTc2Mzg4LC01ND
-Q0MDg5MTVdfQ==
+eyJoaXN0b3J5IjpbLTM4NTI2NTgxMCwtNDc0MzMzMjQyLC00NT
+U5NzYzODgsLTU0NDQwODkxNV19
 -->
