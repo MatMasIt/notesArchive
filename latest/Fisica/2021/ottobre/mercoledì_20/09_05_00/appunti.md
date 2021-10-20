@@ -20,10 +20,15 @@ Diesel:
 
 molto simili
 
+Motori a combustione interna
+
 ---
 
 Motore di Stirling (1816, da Rober Stirling)
 
+Motore a combustione esterna
+
+Più sicuro, motori a combustione interna esplodevano spesso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjMyNTY4OTFdfQ==
+eyJoaXN0b3J5IjpbLTkxNTg3MDgzNF19
 -->
