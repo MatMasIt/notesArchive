@@ -16,6 +16,9 @@ Diesel:
 * isobara
 * adiabatica
 * isocora
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTQ5MjgyN119
+eyJoaXN0b3J5IjpbMjEwODQyNzUwM119
 -->
