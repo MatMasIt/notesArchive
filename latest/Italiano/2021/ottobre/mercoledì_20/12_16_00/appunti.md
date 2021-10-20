@@ -64,8 +64,13 @@ arido vero
 La morte solleva dalle illusioni
 
 
+A se stesso: quiete dopo la tempesta
 
+grande disinganno
+fine dolore
+
+felicità dopo grande dolore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3NjI1OTY1LDU3MzY1MTM2NSw5MDk4OT
-Y1OThdfQ==
+eyJoaXN0b3J5IjpbMTY1NjM1OTQ2Niw1NzM2NTEzNjUsOTA5OD
+k2NTk4XX0=
 -->
