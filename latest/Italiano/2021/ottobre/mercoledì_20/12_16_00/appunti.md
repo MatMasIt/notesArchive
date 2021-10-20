@@ -12,6 +12,9 @@ primo esperimento di Canzone Libera leopardiana
 Versi canonici, endecasillabo e settenario
 
 rime isolate, versi sciolti
+
+
+Passioni come speranze su base consapevolezza 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTY2MDAxNjFdfQ==
+eyJoaXN0b3J5IjpbLTk4MDg3ODIyMF19
 -->
