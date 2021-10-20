@@ -48,7 +48,12 @@ pastore di un altro mondo, universo umano
 condizione di malessere universale
 
 
-l
+
+t6, A silvia, due piani temporali
+
+tu/tu/tu, io
+
+quarta strofa: raccordo tra presenze
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODcxMzgxMTNdfQ==
+eyJoaXN0b3J5IjpbOTA5ODk2NTk4XX0=
 -->
