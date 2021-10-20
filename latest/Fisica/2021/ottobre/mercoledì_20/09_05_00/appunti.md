@@ -32,7 +32,13 @@ Più sicuro, motori a combustione interna esplodevano spesso
 
 1950: costruite ricetrasmittenti a petrolio con motore di stirling dalla philips, per postazioni remote
 
-Anni '70 autobus ad aria calda, Philips
+Anni '70 autobus ad aria calda, Philips lo presenta ad un salone di esposizione
+
+---
+
+Caratteristica: rigenerazione
+
+Rigeneratore: una matassa di fili arrotolati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTUxMjkwMV19
+eyJoaXN0b3J5IjpbLTE0NDUyMzU4MzRdfQ==
 -->
