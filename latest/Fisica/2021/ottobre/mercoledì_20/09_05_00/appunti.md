@@ -7,7 +7,9 @@ punto morto superiore e inferiore (PMS, PMI)
 
 Ciclo:
 * Aspirazione a pressione ambiente dal PMS al PMI
-* Una compressione asiabad
+* Una compressione adiabatica a PMI a PMS
+* combusione causata da una scintilla
+* una espansione adiabati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDAwMTI3MF19
+eyJoaXN0b3J5IjpbLTk1ODkwNDI3OF19
 -->
