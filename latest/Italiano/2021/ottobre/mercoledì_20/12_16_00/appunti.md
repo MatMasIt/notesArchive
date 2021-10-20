@@ -70,7 +70,14 @@ grande disinganno
 fine dolore
 
 felicità dopo grande dolore
+
+
+Assai, ahi o mai 
+quasi gridi 
+
+
+Destino impera a nostro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjM1OTQ2Niw1NzM2NTEzNjUsOTA5OD
-k2NTk4XX0=
+eyJoaXN0b3J5IjpbNjczNTY1NDcxLDU3MzY1MTM2NSw5MDk4OT
+Y1OThdfQ==
 -->
