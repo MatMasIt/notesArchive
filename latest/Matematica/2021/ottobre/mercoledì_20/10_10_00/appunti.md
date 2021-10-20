@@ -40,7 +40,9 @@ $$
 
 $$
 \inf(A)=d\\
-\sup(A)=f
+\min(A)=d\\
+\sup(A)=f\\
+\max(A)=f
 $$
 
 Intervallo limitato: funzione limitata
@@ -93,7 +95,7 @@ $$
 y=2x^2-5x^4
 $$
 
-Se tutti gli esponenti sono dispari è sempre dispari
+Se tutti gli esponenti sono pari è sempre pari
 
 Simmetria rispetto all'asse y
 
@@ -103,7 +105,10 @@ $$
 y=x^3-5x^2
 $$
 
+Nè pari nè dispari
+
+$\cancel \exist$ Simmetrie evidenti
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU1OTUwOTAsNzg2MTg2NDFdfQ==
+eyJoaXN0b3J5IjpbLTEyMTM4MzAsNzg2MTg2NDFdfQ==
 -->
