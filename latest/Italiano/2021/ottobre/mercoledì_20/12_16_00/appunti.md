@@ -7,6 +7,11 @@ canzone breve in settenari
 
 A Silvia: esemplare
 primo esperimento di Canzone Libera leopardiana
+
+
+Versi canonici, endecasillabo e settenario
+
+rime isolate, versi sciolti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDgyMDI0MV19
+eyJoaXN0b3J5IjpbLTE1OTY2MDAxNjFdfQ==
 -->
