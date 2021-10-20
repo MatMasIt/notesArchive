@@ -29,6 +29,8 @@ Motore di Stirling (1816, da Rober Stirling)
 Motore a combustione esterna
 
 Più sicuro, motori a combustione interna esplodevano spesso
+
+1950
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTg3MDgzNF19
+eyJoaXN0b3J5IjpbODYxNzQ1Nzk5XX0=
 -->
