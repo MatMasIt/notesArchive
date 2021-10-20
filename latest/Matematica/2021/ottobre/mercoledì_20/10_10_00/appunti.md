@@ -16,13 +16,19 @@ $$
 
 Punto $x_0$
 
-Intorno di $x_0$ di raggio $\delta$	
-	           x0
-	-----------|------------
+Intorno di $x_0$ di raggio $\delta$           
+   
+	
+			     x0-d  x0   x0+d
+			------|-----|----|--------
 
 $$
 (x_0-\delta,x_0+\delta)
 $$
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjEzOTI2XX0=
+eyJoaXN0b3J5IjpbLTEyNTMyMjI0OThdfQ==
 -->
