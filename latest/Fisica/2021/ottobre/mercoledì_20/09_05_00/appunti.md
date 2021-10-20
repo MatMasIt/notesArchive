@@ -48,6 +48,9 @@ Una parte viene sottratta
 Nel ritono, il rigeneratore è ancora caldo
 
 Aria torna alla camera iniziale ancora più calda
+
+
+Stirling: più ingombrante, avviamento lento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4MzQ5ODM5XX0=
+eyJoaXN0b3J5IjpbMjEwMDQ2NTg3OSw2OTgzNDk4MzldfQ==
 -->
