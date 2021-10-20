@@ -69,9 +69,12 @@ $$
 
 ex.
 $$
-y=x^3+^5
+y=x^3+x^5
 $$
 
+Se tutti gli esponenti sono dispari è sempre dispari
+
+Simmetria rispetto all'origine 
 
 ---
 
@@ -82,17 +85,25 @@ $$
 f(-x)=f(x)
 $$
 
+Simmetria rispetto as asse y
+
 ex.
 
 $$
 y=2x^2-5x^4
 $$
 
+Se tutti gli esponenti sono dispari è sempre dispari
+
+Simmetria rispetto all'asse y
+
 ---
 
 $$
-y=x^3-
+y=x^3-5x^2
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTIyNDM4OSw3ODYxODY0MV19
+eyJoaXN0b3J5IjpbLTExNzU1OTUwOTAsNzg2MTg2NDFdfQ==
 -->
