@@ -23,7 +23,17 @@ A Silva, non dedica amorosa, testo esemplare, allegorico Arido vero
 Silvia lavora per famiglia leopardi e muore di tisi
  
  disilussione, disinganno
-Innamoarmento 
+Innamoarmento a dispetto fisicità
+
+
+A se stesso, esperienza musicale 
+
+Anche passione amorosa va disattesa, infranta
+
+
+Canti - linea dl tempo
+
+* canzoni c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzkwMDM1Nl19
+eyJoaXN0b3J5IjpbMjEzMzk5NjIxXX0=
 -->
