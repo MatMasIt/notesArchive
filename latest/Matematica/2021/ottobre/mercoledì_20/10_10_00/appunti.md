@@ -1,7 +1,9 @@
 # Lezione di Matematica (23 ora)
 ## Mercoledì 20 ottobre 2021, 10:10:00
 
+## Ripasso sulle funzioni
 
+### Intorno
 $$
 \delta \in \R
 $$
@@ -30,6 +32,8 @@ $$
 
 ---
 
+![](https://i.imgur.com/KfSKXLI.jpg)
+
 $$
 D=[a,b]
 $$
@@ -50,7 +54,7 @@ Intervallo limitato: funzione limitata
 ---
 
 
-Crescente
+### Crescente
 
 ![](https://i.imgur.com/XBnHWhX.jpg)
 
@@ -58,13 +62,13 @@ $$
 x_1 < x_2 \implies f(x_2) < f(x_2)
 $$
 
-Decrescente
+### Decrescente
 $$
 x_1 < x_2 \implies f(x_1) > f(x_1)
 $$
 
 
-Dispari
+### Dispari
 
 $$
 f(-x)=-f(x)
@@ -81,7 +85,7 @@ Simmetria rispetto all'origine
 
 ---
 
-Pari
+### Pari
 
 
 $$
@@ -110,6 +114,17 @@ Nè pari nè dispari
 
 $\cancel \exist$ Simmetrie evidenti
 
+
+### Funzione periodica:
+
+$$
+f(x+T)=f(x)
+$$
+
+
+$$
+t=(f
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0MDY4ODk2LDc4NjE4NjQxXX0=
+eyJoaXN0b3J5IjpbLTMxMDIzOTM5OSw3ODYxODY0MV19
 -->
