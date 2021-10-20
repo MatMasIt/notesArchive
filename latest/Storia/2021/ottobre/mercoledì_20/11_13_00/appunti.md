@@ -10,6 +10,8 @@ PCI, PSI, Partito popolare Italiano costretti alla clandestinità
 Mussolini era stato vicino a Francia e Inghilterra, che vedeva bene l'eliminazione in italia del pericolo socialista e comunista
 
 1936, Germania e Italia si avvicinano
+
+Pci: scissione del psi, dopo la rivoluzione russa del '17
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA1MDU1NjFdfQ==
+eyJoaXN0b3J5IjpbODQ2MjU1NTY5LC0xMzgwNTA1NTYxXX0=
 -->
