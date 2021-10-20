@@ -45,7 +45,24 @@ $$
 
 Intervallo limitato: funzione limitata
 
+---
 
+
+Crescente
+
+
+$$
+x_1 < x_2 \implies f(x_2) < f(x_2)
+$$
+
+Decrescente
+$$
+x_1 < x_2 \implies f(x_1) > f(x_1)
+$$
+
+
+$$
+f(-x)=-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2MTg2NDFdfQ==
+eyJoaXN0b3J5IjpbMzE3MjE5ODcsNzg2MTg2NDFdfQ==
 -->
