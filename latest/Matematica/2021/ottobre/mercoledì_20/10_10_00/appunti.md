@@ -197,6 +197,12 @@ $$
 $$
 g:y=f^{-1}(x)
 $$
+
+
+$$
+f^{-1}\circ f(x)=\text I
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE5MDgyMjcsNzg2MTg2NDFdfQ==
+eyJoaXN0b3J5IjpbMTg0NjQyOTA3OCwtMjA4MTkwODIyNyw3OD
+YxODY0MV19
 -->
