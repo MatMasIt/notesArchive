@@ -141,8 +141,26 @@ g\quad T_2
 $$
 
 $$
+T=mcm(T_1,T_2)
+$$
+
+tuttavia se
 
 $$
+\frac{T_1}{T_2} \notin Q
+$$
+
+non è periodica
+
+
+$$
+y=\sin 2x + \cos 3x
+$$
+
+$$
+T_1=\pi\\
+T_
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0NzU1MDM3LDc4NjE4NjQxXX0=
+eyJoaXN0b3J5IjpbNDA2MTYwOTQ2LDc4NjE4NjQxXX0=
 -->
