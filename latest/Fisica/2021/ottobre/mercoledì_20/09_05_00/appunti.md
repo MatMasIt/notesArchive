@@ -9,7 +9,7 @@ Ciclo:
 * Aspirazione a pressione ambiente dal PMS al PMI
 * Una compressione adiabatica a PMI a PMS
 * combusione causata da una scintilla
-* una espansione adiabati
+* una espansione adiabatica da PMS a PMI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODkwNDI3OF19
+eyJoaXN0b3J5IjpbLTE0MTk3MTUzMjBdfQ==
 -->
