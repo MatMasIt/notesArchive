@@ -82,7 +82,9 @@ Due gruppi si dedicano a determinare il potere calorifico, uno lavora con il mot
 un'altro di cui abbiamo misurato la massa di alcool viene poi usato
 
 massa residua: calcolata massa residua
+
+Occorreun crono
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3OTk3OTU3LC05ODM2MzY5MzksLTc0OT
-I2ODc0NiwxNjE4OTcwNzYwXX0=
+eyJoaXN0b3J5IjpbMTA3MzI3NzU4OCwtOTgzNjM2OTM5LC03ND
+kyNjg3NDYsMTYxODk3MDc2MF19
 -->
