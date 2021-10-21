@@ -56,7 +56,12 @@ ciclo di Stirling è chiusto
 * 2 adiabatiche
 
 ciclo non ideale ma reale 
+
+Curva formata dalle due curve sinusoidali dei valori forniti all'oscilloscopio nel tempo
+
+
+Maa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc5NDcyNDksLTk4MzYzNjkzOSwtNz
-Q5MjY4NzQ2LDE2MTg5NzA3NjBdfQ==
+eyJoaXN0b3J5IjpbOTk2MjE1MDEyLC05ODM2MzY5MzksLTc0OT
+I2ODc0NiwxNjE4OTcwNzYwXX0=
 -->
