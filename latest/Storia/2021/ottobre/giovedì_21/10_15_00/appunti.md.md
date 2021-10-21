@@ -84,6 +84,12 @@ due linee di resistenza
 All'iinizio: Linea Gustav (Gaeta-Pescara)
 
 Nel maggio '44 cade
+
+Ottobre '44: linea Gotica
+
+regge  fino alla Primavera del '45
+
+25 aprile 1945, liberazione Milano da parte dei Partigiani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzE0MjUwMF19
+eyJoaXN0b3J5IjpbMzQxOTkyMjA2XX0=
 -->
