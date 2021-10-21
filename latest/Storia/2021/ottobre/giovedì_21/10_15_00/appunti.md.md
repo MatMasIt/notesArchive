@@ -39,6 +39,8 @@ molti militari hanno cercato di tornare a casa, fine impegno militare
 altri, rimasti, molti catturati dall'esercito tedesco
 
 1 milione di soldati
+
+Italia dventa una minaccia per la germania, si tratta di arginare alleati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTg5MTk2NzBdfQ==
+eyJoaXN0b3J5IjpbMTc4NDEwNDk1XX0=
 -->
