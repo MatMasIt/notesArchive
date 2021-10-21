@@ -41,6 +41,13 @@ altri, rimasti, molti catturati dall'esercito tedesco
 1 milione di soldati
 
 Italia dventa una minaccia per la germania, si tratta di arginare alleati
+
+italiani disarmati e internati
+
+
+Alcuni italiani non hanno accettato e hanno reagito militarmente, quasi sempre perdendo
+
+ex. Cefalonia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDEwNDk1XX0=
+eyJoaXN0b3J5IjpbMTM0OTU4MTU5MV19
 -->
