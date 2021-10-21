@@ -34,7 +34,11 @@ il governo italiano ha abbandonato il suo esercito
 
 nessuna misura per evitare ritorsioni dei tedeschi
 
+molti militari hanno cercato di tornare a casa, fine impegno militare
 
+altri, rimasti, molti catturati dall'esercito tedesco
+
+1 milione di soldati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU2MTE5ODddfQ==
+eyJoaXN0b3J5IjpbLTEyOTg5MTk2NzBdfQ==
 -->
