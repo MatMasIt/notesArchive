@@ -15,6 +15,12 @@ Cavi versi
 
 $T_1$: calda
 $T_2$: fredda
+
+calcola anche $\Delta T$ se si vuole
+
+Misuratore di giri ($min^{-1}$)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzcwMzAxOTYsMTYxODk3MDc2MF19
+eyJoaXN0b3J5IjpbMTYwMjY3NjM5LDE2MTg5NzA3NjBdfQ==
 -->
