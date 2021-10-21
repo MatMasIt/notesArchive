@@ -88,7 +88,11 @@ Occorreun cronometro
 Misurare T calda e t fredda
 
 
+
+---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjM4MDM4MSwtMTg3MzAyMzk5OSwtOT
-gzNjM2OTM5LC03NDkyNjg3NDYsMTYxODk3MDc2MF19
+eyJoaXN0b3J5IjpbLTE0MDM5MzI4NCwxNzA2MzgwMzgxLC0xOD
+czMDIzOTk5LC05ODM2MzY5MzksLTc0OTI2ODc0NiwxNjE4OTcw
+NzYwXX0=
 -->
