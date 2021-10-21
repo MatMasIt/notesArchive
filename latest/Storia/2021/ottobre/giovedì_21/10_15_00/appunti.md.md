@@ -113,6 +113,15 @@ Per esempio Fenoglio era Monarchico
 Problema del CLN: ha difficoltà a riconoscere il governo di Badoglio
 
 è pur sempre legato alla monarchia, Badoglio non aveva opposto il fascismo
+
+Guerra alla Germania dichiarata dal Governo Badoglio
+
+Co-belligerante
+
+Alleati lo vedevano legittimato
+
+
+Palmiro Togliatti (lea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5NjU0MzYxXX0=
+eyJoaXN0b3J5IjpbMTk1NjM4OTA3N119
 -->
