@@ -53,7 +53,12 @@ ex. Cefalonia
 formazioni partigiane sorte in Europa
 
 
-partigiani legati ai partiti politici che fu
+partigiani legati ai partiti politici che furono dichiarati illegali
+
+
+mussolini liberato dai Tedeschi (pracadutisti) nella _Operazione Quercia_
+
+nuovo governo fascista repubblicano con sede del Centro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDU1OTIzMzJdfQ==
+eyJoaXN0b3J5IjpbLTE0NzEyODU0NDldfQ==
 -->
