@@ -31,7 +31,16 @@ $$
 x^1+y^2=r^2
 $$
 
+
+$$
+\begin{equation} \begin{cases} x^2=R^2\cos^2t\\y^2=R^2\sin^2t \end{cases} \end{equation}
+$$
+
+
+$$
+x^2+y^2=R^2(
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzYzNjkzOSwtNzQ5MjY4NzQ2LDE2MT
-g5NzA3NjBdfQ==
+eyJoaXN0b3J5IjpbLTk2NDMxNzQxNCwtOTgzNjM2OTM5LC03ND
+kyNjg3NDYsMTYxODk3MDc2MF19
 -->
