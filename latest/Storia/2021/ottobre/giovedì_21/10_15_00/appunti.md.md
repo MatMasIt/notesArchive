@@ -15,7 +15,9 @@ Presidente del consiglio dei ministri: gen. Pietro Badoglio
 
 Trattarive con inglesi e americani, armistizio il 3 di settembre
 
-reso noto l'8 di settembr
+reso noto l'8 di settembre
+
+firmato a Cassibile, vicino a Siracusa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDI2OTUxNF19
+eyJoaXN0b3J5IjpbMTMxODc4NzA0OV19
 -->
