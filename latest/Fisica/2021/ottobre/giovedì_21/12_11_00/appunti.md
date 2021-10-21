@@ -75,8 +75,14 @@ Q=m\cdot C_s\cdot \Delta T
 $$
 
 
-Due gruppi si dedicano a determinare il 
+Due gruppi si dedicano a determinare il potere calorifico, uno lavora con il motore
+
+2 fornelletti: 1 per riscaldare la camera
+
+un'altro di cui abbiamo misurato la massa di alcool viene poi usato
+
+massa residua: calcolata massa residua
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDUzMzcxMCwtOTgzNjM2OTM5LC03ND
-kyNjg3NDYsMTYxODk3MDc2MF19
+eyJoaXN0b3J5IjpbODQ3OTk3OTU3LC05ODM2MzY5MzksLTc0OT
+I2ODc0NiwxNjE4OTcwNzYwXX0=
 -->
