@@ -18,6 +18,16 @@ Trattarive con inglesi e americani, armistizio il 3 di settembre
 reso noto l'8 di settembre
 
 firmato a Cassibile, vicino a Siracusa
+
+cessazione ostilità con americani
+
+
+atti ostili con altre potenze?
+
+reagire
+
+
+tedeschi ve
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODc4NzA0OV19
+eyJoaXN0b3J5IjpbMTE5NTg4NDAwM119
 -->
