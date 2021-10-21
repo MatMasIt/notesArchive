@@ -91,8 +91,11 @@ Misurare T calda e t fredda
 
 ---
 
+si segue protocollo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM5MzI4NCwxNzA2MzgwMzgxLC0xOD
+eyJoaXN0b3J5IjpbLTgzOTE5MDY1MCwxNzA2MzgwMzgxLC0xOD
 czMDIzOTk5LC05ODM2MzY5MzksLTc0OTI2ODc0NiwxNjE4OTcw
 NzYwXX0=
 -->
