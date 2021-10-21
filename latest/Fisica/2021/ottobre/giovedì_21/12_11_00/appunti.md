@@ -60,8 +60,14 @@ ciclo non ideale ma reale
 Curva formata dalle due curve sinusoidali dei valori forniti all'oscilloscopio nel tempo
 
 
-Maa
+Macchina termica
+
+Valutare:
+* Quanto calore caldo entra?
+
+Potere calorifico dell'alcool [fornello ad alcool è in uso]
+Si
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2MjE1MDEyLC05ODM2MzY5MzksLTc0OT
-I2ODc0NiwxNjE4OTcwNzYwXX0=
+eyJoaXN0b3J5IjpbMTIxNjEwMTA5MCwtOTgzNjM2OTM5LC03ND
+kyNjg3NDYsMTYxODk3MDc2MF19
 -->
