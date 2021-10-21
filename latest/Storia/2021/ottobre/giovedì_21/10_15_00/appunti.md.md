@@ -48,6 +48,12 @@ italiani disarmati e internati
 Alcuni italiani non hanno accettato e hanno reagito militarmente, quasi sempre perdendo
 
 ex. Cefalonia
+
+
+formazioni partigiane sorte in Europa
+
+
+partigiani legati ai partiti politici che fu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTU4MTU5MV19
+eyJoaXN0b3J5IjpbLTE5MDU1OTIzMzJdfQ==
 -->
