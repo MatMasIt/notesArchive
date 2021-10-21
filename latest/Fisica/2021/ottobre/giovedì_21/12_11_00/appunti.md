@@ -4,10 +4,17 @@
 
 Sorgente Calda, Sorgente fredda, rigeneratore in mezzo
 
-Passag
+Motore a combustione esterna
 
 
 
+
+Misuratore
+
+Cavi versi
+
+$T_1$: calda
+$T_2$: fredda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI5NDQyMzksMTYxODk3MDc2MF19
+eyJoaXN0b3J5IjpbLTE5MzcwMzAxOTYsMTYxODk3MDc2MF19
 -->
