@@ -96,10 +96,14 @@ Comitato di Liberazione Nazionale, cln
 
 ha come braccio armato la resistenza
 
+(Matteotti assassinato nel '24)
 
 |Partito|Bande Partigiane|
 |---|---|
 |Socialista|Brigate Matteotti|
+|Comunisti|Garibaldi|
+|Cattolici Partito Poplare Italiano (sta diventando Democrazia Cristiana)||
+|Autonomi (monarchici, liberali o ritenevano il fascismo e il nazis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjc1MjU2Nl19
+eyJoaXN0b3J5IjpbLTkxNTY3MTczMF19
 -->
