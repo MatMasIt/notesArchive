@@ -103,7 +103,12 @@ ha come braccio armato la resistenza
 |Socialista|Brigate Matteotti|
 |Comunisti|Garibaldi|
 |Cattolici Partito Poplare Italiano (sta diventando Democrazia Cristiana)||
-|Autonomi (monarchici, liberali o ritenevano il fascismo e il nazis
+|Autonomi (monarchici, liberali o ritenevano il fascismo e il nazismo come nemici)||
+|Partito d'Azione (nuovo partito politico, socialismo+liberalismo)|Giustizia e Libertà|
+
+
+Per esempio Fenoglio era Monarchico
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTY3MTczMF19
+eyJoaXN0b3J5IjpbMTMyODkwODcxMF19
 -->
