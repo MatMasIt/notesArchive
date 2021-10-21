@@ -124,6 +124,8 @@ Alleati lo vedevano legittimato
 Palmiro Togliatti (leader comunista) decide che prima si libera il paese, poi si fanno i conti con la monarchia
 
 12 Aprile '44 Vittorio Emanuele III abdica per il Figlio Umberto II
+
+'44 ministri badoglioappartengono al CLN (governo Badoglio II)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzMjM1NjI4XX0=
+eyJoaXN0b3J5IjpbLTIwNDQwOTMyNjVdfQ==
 -->
