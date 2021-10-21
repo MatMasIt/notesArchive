@@ -20,7 +20,7 @@ calcola anche $\Delta T$ se si vuole
 
 Misuratore di giri ($min^{-1}$)
 
-
+Uscita P/V per oscilloscopio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjY3NjM5LDE2MTg5NzA3NjBdfQ==
+eyJoaXN0b3J5IjpbLTc0OTI2ODc0NiwxNjE4OTcwNzYwXX0=
 -->
