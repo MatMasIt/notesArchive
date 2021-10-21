@@ -49,7 +49,14 @@ $$
 $$
 
 
+
+ciclo di Stirling è chiusto
+
+* 2 isocore
+* 2 adiabatiche
+
+ciclo non ideale ma reale 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgyOTA3MjIsLTk4MzYzNjkzOSwtNz
+eyJoaXN0b3J5IjpbLTE1NTc5NDcyNDksLTk4MzYzNjkzOSwtNz
 Q5MjY4NzQ2LDE2MTg5NzA3NjBdfQ==
 -->
