@@ -68,6 +68,9 @@ Repubblichini
 
 Armistizio ritenuto dai fascisti come un tradimento
 
+fascismo ha sempre avuto consenso
+
+In Italia è caduto solo perchè la guerra è finita
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjExMzYzOTBdfQ==
+eyJoaXN0b3J5IjpbMTMxMDM2MjE2M119
 -->
