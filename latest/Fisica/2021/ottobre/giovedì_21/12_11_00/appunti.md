@@ -86,7 +86,9 @@ massa residua: calcolata massa residua
 Occorreun cronometro
 
 Misurare T calda e t fredda
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMwMjM5OTksLTk4MzYzNjkzOSwtNz
-Q5MjY4NzQ2LDE2MTg5NzA3NjBdfQ==
+eyJoaXN0b3J5IjpbMTcwNjM4MDM4MSwtMTg3MzAyMzk5OSwtOT
+gzNjM2OTM5LC03NDkyNjg3NDYsMTYxODk3MDc2MF19
 -->
