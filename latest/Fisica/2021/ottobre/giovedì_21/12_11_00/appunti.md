@@ -25,8 +25,13 @@ Uscita P/V per oscilloscopio
 
 
 
-Equazion
+Equazione Parametrica della circonferenza
+
+$$
+x^1+y^2=r^2
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTQwOTM4LC03NDkyNjg3NDYsMTYxOD
-k3MDc2MF19
+eyJoaXN0b3J5IjpbLTk4MzYzNjkzOSwtNzQ5MjY4NzQ2LDE2MT
+g5NzA3NjBdfQ==
 -->
