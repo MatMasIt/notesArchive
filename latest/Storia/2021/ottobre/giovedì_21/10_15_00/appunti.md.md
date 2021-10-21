@@ -121,7 +121,9 @@ Co-belligerante
 Alleati lo vedevano legittimato
 
 
-Palmiro Togliatti (lea
+Palmiro Togliatti (leader comunista) decide che prima si libera il paese, poi si fanno i conti con la monarchia
+
+12 Aprile '44 Vittorio Emanuele III abdica per il Figlio Umberto II
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjM4OTA3N119
+eyJoaXN0b3J5IjpbMzQzMjM1NjI4XX0=
 -->
