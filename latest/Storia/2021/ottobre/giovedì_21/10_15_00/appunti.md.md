@@ -71,6 +71,19 @@ Armistizio ritenuto dai fascisti come un tradimento
 fascismo ha sempre avuto consenso
 
 In Italia è caduto solo perchè la guerra è finita
+
+
+sopratutto in montagna e sulle colline nascono partigiani, vari movimenti politici avversi al fascismo
+
+guerra '43-'45 in Italia
+
+
+due linee di resistenza
+
+
+All'iinizio: Linea Gustav (Gaeta-Pescara)
+
+Nel maggio '44 cade
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDM2MjE2M119
+eyJoaXN0b3J5IjpbMTQ4NzE0MjUwMF19
 -->
