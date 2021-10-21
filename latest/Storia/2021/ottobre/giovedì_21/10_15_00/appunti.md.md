@@ -58,7 +58,15 @@ partigiani legati ai partiti politici che furono dichiarati illegali
 
 mussolini liberato dai Tedeschi (pracadutisti) nella _Operazione Quercia_
 
-nuovo governo fascista repubblicano con sede del Centro
+nuovo governo fascista repubblicano con sede del Centro-Nord del paese
+
+
+La Repubblica Sociale Italiana
+
+Repubblichini
+
+
+Armistizio ritenuto dai fascisti come un tradimento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzEyODU0NDldfQ==
+eyJoaXN0b3J5IjpbLTg2Njc4ODE0OF19
 -->
