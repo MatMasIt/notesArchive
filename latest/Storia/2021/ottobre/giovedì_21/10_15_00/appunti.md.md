@@ -90,6 +90,16 @@ Ottobre '44: linea Gotica
 regge  fino alla Primavera del '45
 
 25 aprile 1945, liberazione Milano da parte dei Partigiani
+
+
+Comitato di Liberazione Nazionale, cln
+
+ha come braccio armato la resistenza
+
+
+|Partito|Bande Partigiane|
+|---|---|
+|Socialista|Brigate Matteotti|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxOTkyMjA2XX0=
+eyJoaXN0b3J5IjpbMTkzNjc1MjU2Nl19
 -->
