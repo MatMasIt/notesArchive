@@ -66,8 +66,17 @@ Valutare:
 * Quanto calore caldo entra?
 
 Potere calorifico dell'alcool [fornello ad alcool è in uso]
-Si
+> LIMITE: Si assume che tutto il calore generato venga usato
+
+Vedremo come il bruciatore riscalda una massa di acqua
+
+$$
+Q=m\cdot C_s\cdot \Delta T
+$$
+
+
+Due gruppi si dedicano a determinare il 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjEwMTA5MCwtOTgzNjM2OTM5LC03ND
+eyJoaXN0b3J5IjpbMTQ1NDUzMzcxMCwtOTgzNjM2OTM5LC03ND
 kyNjg3NDYsMTYxODk3MDc2MF19
 -->
