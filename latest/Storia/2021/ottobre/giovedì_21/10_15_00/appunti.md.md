@@ -27,7 +27,14 @@ atti ostili con altre potenze?
 reagire
 
 
-tedeschi ve
+tedeschi vedono Italiani come nemici
+
+
+il governo italiano ha abbandonato il suo esercito
+
+nessuna misura per evitare ritorsioni dei tedeschi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTg4NDAwM119
+eyJoaXN0b3J5IjpbLTIwNDU2MTE5ODddfQ==
 -->
