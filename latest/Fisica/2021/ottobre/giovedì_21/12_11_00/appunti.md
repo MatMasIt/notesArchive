@@ -38,9 +38,18 @@ $$
 
 
 $$
-x^2+y^2=R^2(
+x^2+y^2=R^2(\cos^2t+\sin^2t)
 $$
+
+In ellisse
+
+
+$$
+\begin{equation*} \begin{cases} x=a\cos t\\ y=b \sin t \end{cases} \end{equation}
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDMxNzQxNCwtOTgzNjM2OTM5LC03ND
+eyJoaXN0b3J5IjpbLTgyODg0NjYxNiwtOTgzNjM2OTM5LC03ND
 kyNjg3NDYsMTYxODk3MDc2MF19
 -->
