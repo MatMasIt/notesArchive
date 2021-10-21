@@ -109,6 +109,10 @@ ha come braccio armato la resistenza
 
 Per esempio Fenoglio era Monarchico
 
+
+Problema del CLN: ha difficoltà a riconoscere il governo di Badoglio
+
+è pur sempre legato alla monarchia, Badoglio non aveva opposto il fascismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODkwODcxMF19
+eyJoaXN0b3J5IjpbNDM5NjU0MzYxXX0=
 -->
