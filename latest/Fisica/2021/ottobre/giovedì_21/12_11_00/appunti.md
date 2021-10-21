@@ -33,7 +33,7 @@ $$
 
 
 $$
-\begin{equation} \begin{cases} x^2=R^2\cos^2t\\y^2=R^2\sin^2t \end{cases} \end{equation}
+\begin{equation*} \begin{cases} x^2=R^2\cos^2t\\y^2=R^2\sin^2t \end{cases} \end{equation*}
 $$
 
 
@@ -45,11 +45,11 @@ In ellisse
 
 
 $$
-\begin{equation*} \begin{cases} x=a\cos t\\ y=b \sin t \end{cases} \end{equation}
+\begin{equation*} \begin{cases} x=a\cos t\\ y=b \sin t \end{cases} \end{equation*}
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODg0NjYxNiwtOTgzNjM2OTM5LC03ND
-kyNjg3NDYsMTYxODk3MDc2MF19
+eyJoaXN0b3J5IjpbLTEzNjgyOTA3MjIsLTk4MzYzNjkzOSwtNz
+Q5MjY4NzQ2LDE2MTg5NzA3NjBdfQ==
 -->
