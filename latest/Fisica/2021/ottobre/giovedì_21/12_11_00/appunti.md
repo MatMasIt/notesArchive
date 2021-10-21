@@ -83,8 +83,10 @@ un'altro di cui abbiamo misurato la massa di alcool viene poi usato
 
 massa residua: calcolata massa residua
 
-Occorreun crono
+Occorreun cronometro
+
+Misurare T calda e t fredda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzI3NzU4OCwtOTgzNjM2OTM5LC03ND
-kyNjg3NDYsMTYxODk3MDc2MF19
+eyJoaXN0b3J5IjpbLTE4NzMwMjM5OTksLTk4MzYzNjkzOSwtNz
+Q5MjY4NzQ2LDE2MTg5NzA3NjBdfQ==
 -->
