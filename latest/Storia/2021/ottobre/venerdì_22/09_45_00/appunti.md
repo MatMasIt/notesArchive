@@ -42,9 +42,11 @@ Nascono zone libere
 
 podestà fascista rimane al suo posto
 
-Val maira 
+Val maira, zona libera
+
+Soppressa dai tedeschi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA5NjY5NjIsOTU1MzY5NzUzLDE2OT
-A2NTUxNzcsMTQwMzIyMTgyMiwtODk4MjQ4NDgyLDE5MjY0ODE0
-MDUsLTE4MjIzMjkwMjBdfQ==
+eyJoaXN0b3J5IjpbNjgyODU5NDc0LDk1NTM2OTc1MywxNjkwNj
+U1MTc3LDE0MDMyMjE4MjIsLTg5ODI0ODQ4MiwxOTI2NDgxNDA1
+LC0xODIyMzI5MDIwXX0=
 -->
