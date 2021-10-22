@@ -19,8 +19,14 @@ x\xrightarrow{f}f(x)\xrightarrow{f^{-1}}f^{-1}\circ f(x)
 $$
 
 $$
-x\xrightarrow{}\frac{23-x}{5-x}\xrightarrow{f^{-1}}\frac{5\frac{2x-3}{5-x}+3}{\frac{2x-3}{5-x}+2}=\frac{\frac{10x-\cancel{15}+\cancel{15}-3x}{5-x}
+x\xrightarrow{}\frac{23-x}{5-x}\xrightarrow{f^{-1}}\frac{5\frac{2x-3}{5-x}+3}{\frac{2x-3}{5-x}+2}=\frac{\frac{10x-\cancel{15}+\cancel{15}-3x}{5-x}}{\frac{\cancel{2x}-3+10-\cancel{2x}}{5-x}}
+$$
+
+
+
+$$
+y=\frac{\frac{7x}{5-x}}{\frac{7}{5-x}}=\frac{7x}{5-x}\cdot{5x
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTI1MTA4OTBdfQ==
+eyJoaXN0b3J5IjpbLTExNTc2ODk1NDJdfQ==
 -->
