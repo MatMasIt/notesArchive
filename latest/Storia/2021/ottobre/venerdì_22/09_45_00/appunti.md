@@ -37,8 +37,10 @@ attraverso quale passaggio
 Dal prima al dopo
 
 aumericani arrivano, partigiani aumentano
+
+Nascono zone libere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDYyMDkxLDE2OTA2NTUxNzcsMTQwMz
+eyJoaXN0b3J5IjpbOTU1MzY5NzUzLDE2OTA2NTUxNzcsMTQwMz
 IyMTgyMiwtODk4MjQ4NDgyLDE5MjY0ODE0MDUsLTE4MjIzMjkw
 MjBdfQ==
 -->
