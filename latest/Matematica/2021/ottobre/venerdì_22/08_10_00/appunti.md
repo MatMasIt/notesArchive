@@ -73,9 +73,9 @@ f\circ g:y=2(\sin x)^2-3
 $$
 
 $$
-g\circ f=
+g\circ : y=\sin(2x^2-3)
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzI2Mzc2Miw2MzEyMDEzNTJdfQ==
+eyJoaXN0b3J5IjpbNzU0OTMwNzQwLDYzMTIwMTM1Ml19
 -->
