@@ -97,9 +97,17 @@ $$
 ### Parabola
 
 $$
-xe
+\begin{equation*} \begin{cases} 
+x=x_0+at\\
+y=bt^2+ct+d\end{cases} \end{equation*}
+$$
+
+In fisica
+
+$$
+s=
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMzMDAyMTksLTUwNzU4MTE1LDYzMT
-IwMTM1Ml19
+eyJoaXN0b3J5IjpbNDg2OTM3NTAzLC01MDc1ODExNSw2MzEyMD
+EzNTJdfQ==
 -->
