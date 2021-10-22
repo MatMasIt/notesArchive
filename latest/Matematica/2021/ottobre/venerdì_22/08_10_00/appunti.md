@@ -94,8 +94,12 @@ z=z_P+lt
 \end{equation*}
 $$
 
+### Parabola
 
+$$
+xe
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzI3ODk2OSwtNTA3NTgxMTUsNjMxMj
-AxMzUyXX0=
+eyJoaXN0b3J5IjpbLTE5NzMzMDAyMTksLTUwNzU4MTE1LDYzMT
+IwMTM1Ml19
 -->
