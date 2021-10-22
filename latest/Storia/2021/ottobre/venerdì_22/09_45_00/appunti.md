@@ -1,8 +1,17 @@
-#  Lezione di Storia (5° ora)
-## Lunedì 11 ottobre 2021, 12:08:00
+#  Lezione di Storia (3° ora)
+## Venerdì 2021, 12:08:00
 
 
-Recentemente affluenza < 50 
+Recentemente affluenza < 50 %
+
+
+Origini storiche democrazia
+Italiana
+
+
+Zone libere e repubbliche partigiane
+
+Italia democratica muove i suoi 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTY3MTc4NV19
+eyJoaXN0b3J5IjpbNDgzNjE0NjQ1XX0=
 -->
