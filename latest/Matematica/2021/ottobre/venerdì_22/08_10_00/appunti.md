@@ -82,13 +82,14 @@ $$
 
 ### Retta
 
+
 $$
 \begin{equation*}
 \begin{cases} 
-
+x=x_0+mt
 \end{cases}
 \end{equation*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ2MDA4MDUsNjMxMjAxMzUyXX0=
+eyJoaXN0b3J5IjpbLTg2NDkyMzA0MSw2MzEyMDEzNTJdfQ==
 -->
