@@ -25,8 +25,12 @@ $$
 
 
 $$
-y=\frac{\frac{7x}{5-x}}{\frac{7}{5-x}}=\frac{7x}{5-x}\cdot{5x
+y=\frac{\frac{7x}{5-x}}{\frac{7}{5-x}}=\frac{\cancel 7x}{\cancel{5-x}}\cdot\frac{\cancel{5-x}}{\cancel 7}=x
 $$
+
+
+
+Iniettivo $\implies$ monotono (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc2ODk1NDJdfQ==
+eyJoaXN0b3J5IjpbLTM0MzA0MDM2OV19
 -->
