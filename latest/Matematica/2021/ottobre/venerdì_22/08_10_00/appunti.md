@@ -132,7 +132,11 @@ $$
 \begin{equation*} \begin{cases} 
 x=R\cos t\\y=R \sin t \end{cases} \end{equation*}
 $$
+
+Asse radicale: circonferenza degenere
+
+Una circonferenza del fascio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4NDA5NjM5LDE3Nzk5NzcwLC01MDc1OD
-ExNSw2MzEyMDEzNTJdfQ==
+eyJoaXN0b3J5IjpbMTAyNzk5NjY1OSw2OTg0MDk2MzksMTc3OT
+k3NzAsLTUwNzU4MTE1LDYzMTIwMTM1Ml19
 -->
