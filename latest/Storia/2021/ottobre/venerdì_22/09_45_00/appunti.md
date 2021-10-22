@@ -21,7 +21,9 @@ primo presidente coorte costituzionale fuidava tribunale della razza
 
 
 studia, rifletti perchè bisogna capire
+
+Passaggi che hanno segnato "prima" e "dopo"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODI0ODQ4MiwxOTI2NDgxNDA1LC0xOD
-IyMzI5MDIwXX0=
+eyJoaXN0b3J5IjpbLTE1NTc5NDM2NTgsLTg5ODI0ODQ4MiwxOT
+I2NDgxNDA1LC0xODIyMzI5MDIwXX0=
 -->
