@@ -125,8 +125,8 @@ $$
 t=\frac{3-x}{2}
 $$
 
-
+## Circonferenza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDA4NTU3OCwxNzc5OTc3MCwtNTA3NT
+eyJoaXN0b3J5IjpbMTY0NDc4MzI0MSwxNzc5OTc3MCwtNTA3NT
 gxMTUsNjMxMjAxMzUyXX0=
 -->
