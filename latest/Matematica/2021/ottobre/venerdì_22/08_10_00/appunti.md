@@ -76,6 +76,16 @@ $$
 g\circ f : y=\sin(2x^2-3)
 $$
 
+---
+
+## Equazioni parametriche
+
+### Retta
+
+$$
+\begin{equation*} \begin{cases} 
+ \end{cases} \end{equation*}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzQ4NTI1OSw2MzEyMDEzNTJdfQ==
+eyJoaXN0b3J5IjpbMTA4NzU5NDg0MSw2MzEyMDEzNTJdfQ==
 -->
