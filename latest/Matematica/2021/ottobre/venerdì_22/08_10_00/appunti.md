@@ -126,7 +126,13 @@ t=\frac{3-x}{2}
 $$
 
 ## Circonferenza
+
+
+$$
+\begin{equation*} \begin{cases} 
+x=R\cos t\\y=R \sin t \end{cases} \end{equation*}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDc4MzI0MSwxNzc5OTc3MCwtNTA3NT
-gxMTUsNjMxMjAxMzUyXX0=
+eyJoaXN0b3J5IjpbNjk4NDA5NjM5LDE3Nzk5NzcwLC01MDc1OD
+ExNSw2MzEyMDEzNTJdfQ==
 -->
