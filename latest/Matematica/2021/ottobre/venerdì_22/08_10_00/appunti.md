@@ -69,13 +69,13 @@ g:y=\sin x
 $$
 
 $$
-f\circ g:y=2(\sin x)^2-3
+f\circ g:y=2(\sin x)^2-3=2\sin^2x-3
 $$
 
 $$
-g\circ : y=\sin(2x^2-3)
+g\circ f : y=\sin(2x^2-3)
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0OTMwNzQwLDYzMTIwMTM1Ml19
+eyJoaXN0b3J5IjpbLTI1MzQ4NTI1OSw2MzEyMDEzNTJdfQ==
 -->
