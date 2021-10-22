@@ -3,10 +3,16 @@
 
 
 $$
-
+f':y=\frac{5x}{x+2}
+$$
+$$
+f:y=\frac{2x-3}{5-x}
 $$
 
 
+$$
+f'\circ f(x)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxMTUyNDU2XX0=
+eyJoaXN0b3J5IjpbNTEzMjMwODE4XX0=
 -->
