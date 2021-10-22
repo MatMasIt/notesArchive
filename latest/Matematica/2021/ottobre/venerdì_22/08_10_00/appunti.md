@@ -97,17 +97,30 @@ $$
 ### Parabola
 
 $$
+P(x_0,y_0)
+$$
+
+$$
 \begin{equation*} \begin{cases} 
 x=x_0+at\\
-y=bt^2+ct+d\end{cases} \end{equation*}
+y=bt^2+ct+x_0\end{cases} \end{equation*}
 $$
 
 In fisica
 
 $$
-s=
+s=s_0+v_0t+\frac12at^2
+$$
+$$
+b=\frac12a
+$$
+$$
+c=v_0
+$$
+$$
+x_0=s_0
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2OTM3NTAzLC01MDc1ODExNSw2MzEyMD
-EzNTJdfQ==
+eyJoaXN0b3J5IjpbMTg1OTgzMTI2OSwtNTA3NTgxMTUsNjMxMj
+AxMzUyXX0=
 -->
