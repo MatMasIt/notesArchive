@@ -68,6 +68,14 @@ $$
 g:y=\sin x
 $$
 
+$$
+f\circ g:y=2(\sin x)^2-3
+$$
+
+$$
+g\circ f=
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Njc2OTgyMiw2MzEyMDEzNTJdfQ==
+eyJoaXN0b3J5IjpbMjA0NzI2Mzc2Miw2MzEyMDEzNTJdfQ==
 -->
