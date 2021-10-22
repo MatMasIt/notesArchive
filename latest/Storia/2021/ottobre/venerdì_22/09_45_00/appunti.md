@@ -19,7 +19,9 @@ fatti che si allontanano nonostante fosse solo 70 ani fa
 
 primo presidente coorte costituzionale fuidava tribunale della razza
 
+
+studia, rifletti perchè bisogna capire
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI2MDk2MjAsMTkyNjQ4MTQwNSwtMT
-gyMjMyOTAyMF19
+eyJoaXN0b3J5IjpbLTg5ODI0ODQ4MiwxOTI2NDgxNDA1LC0xOD
+IyMzI5MDIwXX0=
 -->
