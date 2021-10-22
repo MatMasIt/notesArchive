@@ -42,9 +42,9 @@ Nascono zone libere
 
 podestà fascista rimane al suo posto
 
-
+Val maira 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQyMzk0NzksOTU1MzY5NzUzLDE2OT
+eyJoaXN0b3J5IjpbLTE2MDA5NjY5NjIsOTU1MzY5NzUzLDE2OT
 A2NTUxNzcsMTQwMzIyMTgyMiwtODk4MjQ4NDgyLDE5MjY0ODE0
 MDUsLTE4MjIzMjkwMjBdfQ==
 -->
