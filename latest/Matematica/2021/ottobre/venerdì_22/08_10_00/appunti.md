@@ -120,7 +120,11 @@ $$
 $$
 x_0=s_0
 $$
+
+$$
+t=\frac{3-x}{2}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTgzMTI2OSwtNTA3NTgxMTUsNjMxMj
-AxMzUyXX0=
+eyJoaXN0b3J5IjpbMTc3OTk3NzAsLTUwNzU4MTE1LDYzMTIwMT
+M1Ml19
 -->
