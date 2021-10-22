@@ -83,9 +83,12 @@ $$
 ### Retta
 
 $$
-\begin{equation*} \begin{cases} 
- \end{cases} \end{equation*}
+\begin{equation*}
+\begin{cases} 
+
+\end{cases}
+\end{equation*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzU5NDg0MSw2MzEyMDEzNTJdfQ==
+eyJoaXN0b3J5IjpbLTExODQ2MDA4MDUsNjMxMjAxMzUyXX0=
 -->
