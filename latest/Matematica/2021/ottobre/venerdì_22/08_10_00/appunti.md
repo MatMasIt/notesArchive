@@ -145,8 +145,17 @@ x=a\cos t\\y=b \sin t \end{cases} \end{equation*}
 $$
 
 $a,b\implies$ Intersezioni degli assi
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTA0OTA2NywxMDI3OTk2NjU5LDY5OD
-QwOTYzOSwxNzc5OTc3MCwtNTA3NTgxMTUsNjMxMjAxMzUyXX0=
 
+
+## Traslazione
+
+$$
+\begin{equation*} \begin{cases} 
+x'=x+x_C\\
+y''=y+y_C \end{cases} \end{equation*}
+$$
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzExNTg0MTYzLC0zMTkwNDkwNjcsMTAyNz
+k5NjY1OSw2OTg0MDk2MzksMTc3OTk3NzAsLTUwNzU4MTE1LDYz
+MTIwMTM1Ml19
 -->
