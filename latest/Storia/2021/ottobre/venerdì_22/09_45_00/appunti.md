@@ -40,9 +40,11 @@ aumericani arrivano, partigiani aumentano
 
 Nascono zone libere
 
-podest
+podestà fascista rimane al suo posto
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkyNDgxMiw5NTUzNjk3NTMsMTY5MD
-Y1NTE3NywxNDAzMjIxODIyLC04OTgyNDg0ODIsMTkyNjQ4MTQw
-NSwtMTgyMjMyOTAyMF19
+eyJoaXN0b3J5IjpbLTIxMzQyMzk0NzksOTU1MzY5NzUzLDE2OT
+A2NTUxNzcsMTQwMzIyMTgyMiwtODk4MjQ4NDgyLDE5MjY0ODE0
+MDUsLTE4MjIzMjkwMjBdfQ==
 -->
