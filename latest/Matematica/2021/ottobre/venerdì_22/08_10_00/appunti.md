@@ -30,7 +30,9 @@ $$
 
 
 
-Iniettivo $\implies$ monotono (
+> Iniettivo $\implies$ monotono ( crescente o decrescente)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzA0MDM2OV19
+eyJoaXN0b3J5IjpbNjMxMjAxMzUyXX0=
 -->
