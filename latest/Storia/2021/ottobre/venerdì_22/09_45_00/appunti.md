@@ -34,8 +34,8 @@ attraverso quale passaggio
 
 
 
-Dal pri
+Dal prima al dopo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxMjM2ODAsMTQwMzIyMTgyMiwtODk4Mj
-Q4NDgyLDE5MjY0ODE0MDUsLTE4MjIzMjkwMjBdfQ==
+eyJoaXN0b3J5IjpbLTExNDA2MTczNjMsMTQwMzIyMTgyMiwtOD
+k4MjQ4NDgyLDE5MjY0ODE0MDUsLTE4MjIzMjkwMjBdfQ==
 -->
