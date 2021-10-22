@@ -23,7 +23,15 @@ primo presidente coorte costituzionale fuidava tribunale della razza
 studia, rifletti perchè bisogna capire
 
 Passaggi che hanno segnato "prima" e "dopo"
+
+25 aprile
+
+Prima, dopo
+
+attraverso quale passaggio
+
+20 anni di regime fascista
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc5NDM2NTgsLTg5ODI0ODQ4MiwxOT
+eyJoaXN0b3J5IjpbLTExNDA4NzY5MjIsLTg5ODI0ODQ4MiwxOT
 I2NDgxNDA1LC0xODIyMzI5MDIwXX0=
 -->
