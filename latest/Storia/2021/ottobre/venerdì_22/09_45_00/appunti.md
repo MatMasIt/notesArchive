@@ -12,6 +12,9 @@ Italiana
 Zone libere e repubbliche partigiane
 
 Italia democratica muove i suoi primi passi
+
+
+fatti che si allontanano nonostante fosse solo 70 ani fa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjIzMjkwMjBdfQ==
+eyJoaXN0b3J5IjpbMTkyNjQ4MTQwNSwtMTgyMjMyOTAyMF19
 -->
