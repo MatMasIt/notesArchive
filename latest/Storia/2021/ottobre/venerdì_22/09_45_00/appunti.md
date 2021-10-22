@@ -11,7 +11,7 @@ Italiana
 
 Zone libere e repubbliche partigiane
 
-Italia democratica muove i suoi 
+Italia democratica muove i suoi primi passi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzNjE0NjQ1XX0=
+eyJoaXN0b3J5IjpbLTE4MjIzMjkwMjBdfQ==
 -->
