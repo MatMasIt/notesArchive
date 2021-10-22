@@ -82,14 +82,17 @@ $$
 
 ### Retta
 
+Dati $P(x_p,y_p.z_p)$ e $\vec u =(m\quad n \quad l)$
 
 $$
 \begin{equation*}
 \begin{cases} 
-x=x_0+mt
+x=x_P+mt\\
+y=y_P+nt\\
+z=z_P+lt
 \end{cases}
 \end{equation*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDkyMzA0MSw2MzEyMDEzNTJdfQ==
+eyJoaXN0b3J5IjpbLTUwNzU4MTE1LDYzMTIwMTM1Ml19
 -->
