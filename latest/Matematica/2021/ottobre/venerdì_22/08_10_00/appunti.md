@@ -44,10 +44,30 @@ D \arcsin = [-1,1]
 $$
 
 
+Guardo a casa
 
 $$
-y=\arcsin(\sin 
+\boxed{
+y=\arcsin(\sin(x))
+}
+\boxed{
+y=\sin(\arcsin(x))
+}
 $$
+
+
+---
+
+
+
+$$
+f=y=2x^2-3
+$$
+
+$$
+g:y=\sin x
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzMxNDYzNCw2MzEyMDEzNTJdfQ==
+eyJoaXN0b3J5IjpbMTI4Njc2OTgyMiw2MzEyMDEzNTJdfQ==
 -->
