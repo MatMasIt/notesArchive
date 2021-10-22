@@ -136,7 +136,17 @@ $$
 Asse radicale: circonferenza degenere
 
 Una circonferenza del fascio
+
+## Ellisse
+
+$$
+\begin{equation*} \begin{cases} 
+x=a\cos t\\y=b \sin t \end{cases} \end{equation*}
+$$
+
+$a,b\implies$ Intersezioni degli assi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzk5NjY1OSw2OTg0MDk2MzksMTc3OT
-k3NzAsLTUwNzU4MTE1LDYzMTIwMTM1Ml19
+eyJoaXN0b3J5IjpbLTMxOTA0OTA2NywxMDI3OTk2NjU5LDY5OD
+QwOTYzOSwxNzc5OTc3MCwtNTA3NTgxMTUsNjMxMjAxMzUyXX0=
+
 -->
