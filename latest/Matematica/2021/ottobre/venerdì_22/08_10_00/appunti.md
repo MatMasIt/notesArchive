@@ -33,6 +33,21 @@ $$
 > Iniettivo $\implies$ monotono ( crescente o decrescente)
 
 
+
+$$
+D_x \to D_y
+$$
+
+
+$$
+D \arcsin = [-1,1]
+$$
+
+
+
+$$
+y=\arcsin(\sin 
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxMjAxMzUyXX0=
+eyJoaXN0b3J5IjpbMTgyNzMxNDYzNCw2MzEyMDEzNTJdfQ==
 -->
