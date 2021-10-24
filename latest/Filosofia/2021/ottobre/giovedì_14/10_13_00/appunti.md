@@ -47,6 +47,9 @@ Massime: devo mangiare bene
 > _"Agisci come se la massima della tua azione dovesse essere elevata dalla tua volontà a legge universale della natura"_
 
 > _"Agisci in modo da trattare l'umanità, sia nella tua persona sia in quella d'ogni altro uomo, dempre anche come fine e mai semplicemente come mezzo"_
+
+### Appunti di Adamo
+![](https://i.imgur.com/WWDl7da.png)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTIwNDM0OTcyLC0x
