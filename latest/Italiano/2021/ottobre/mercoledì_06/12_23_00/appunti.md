@@ -1,4 +1,4 @@
-#  Lezione di Storia (4° ora)
+#  Lezione di Italiano (4° ora)
 ## Mercoledì 6 ottobre 2021, 11:15:00
 
 Contini a firenze pubblica Studi su ime di Dante negl anni '30
