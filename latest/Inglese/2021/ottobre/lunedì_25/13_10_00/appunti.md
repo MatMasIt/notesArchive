@@ -15,11 +15,14 @@ Yellow: addressee
 I: poet's voide
 violet: questions
 grey: description
-
+Blue: He: lam's creator
 
 1. Calm  sounds, they are more suited to the lamb
 2. Two sentences,  six repeated
-3. 
+3. Both are good
+4. God, Jesus
+5. k
+6. f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjE4NDUwOF19
+eyJoaXN0b3J5IjpbMjE0NzE4NTAwNV19
 -->
