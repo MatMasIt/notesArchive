@@ -18,6 +18,7 @@ grey: description
 Blue: He: lam's creator
 
 1. Calm  sounds, they are more suited to the lamb
+Alliterations of m, l
 2. Two sentences,  six repeated
 3. Both are good
 4. God, Jesus
@@ -40,7 +41,10 @@ Rhyming couplet
 Rima  baciata
 
 distico
+
+
+Soft vowel sounds
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTA5NjIzNyw5ODUyNTc5NzQsMjE0Nz
-E4NTAwNV19
+eyJoaXN0b3J5IjpbMjI0NDU4MDU3LDE5OTkwOTYyMzcsOTg1Mj
+U3OTc0LDIxNDcxODUwMDVdfQ==
 -->
