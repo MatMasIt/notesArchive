@@ -24,7 +24,12 @@ libero arbitrio
 non sono determinato, libertà, che nel mondo (insieme dei fenomeni) non c'è, perchè natura è dettata dal determinismo
 
 tutto lo è tranne uomo
+
+
+Assioma: realtà intuitiva
+
+mentre il postulato è una credenza che si deve per forza dare per vera perchè delle certezze che abbiamo non sarebbero giustificate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjQ3MDg5NiwyMDM3ODY3NDk4LC0zOT
-Y5MzY4MTldfQ==
+eyJoaXN0b3J5IjpbLTE1MzMzMDk3NjksMjAzNzg2NzQ5OCwtMz
+k2OTM2ODE5XX0=
 -->
