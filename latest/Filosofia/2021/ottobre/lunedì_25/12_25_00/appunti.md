@@ -40,8 +40,10 @@ postulati ragion pratica:
 virtù: scegliere ciò che la ragione comanda
 Concetto del sommo bene: virtù + felicità
 
+Che senso ha essere virtuosi e una vita morale per non essere poi felici
 
+in qualche modo serve Dio che darà il premio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTA2ODUwLDIwMzc4Njc0OTgsLTM5Nj
-kzNjgxOV19
+eyJoaXN0b3J5IjpbLTQ2NDM2Mzc4MywyMDM3ODY3NDk4LC0zOT
+Y5MzY4MTldfQ==
 -->
