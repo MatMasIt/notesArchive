@@ -52,8 +52,10 @@ sweer xonsonant sounds:  softness, mildness, tenderness
 Little lamb, I tell thee ( i know)
 
 creator: lamb $\to$ same qualities
+
+God: came on earth as a lamb ( Jesus)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0NTQ3NjM3LDEyOTU5NTkwODEsLTEyOT
-QzNTcyNiwyMjQ0NTgwNTcsMTk5OTA5NjIzNyw5ODUyNTc5NzQs
-MjE0NzE4NTAwNV19
+eyJoaXN0b3J5IjpbMTU4MjczNDUyOCwxMjk1OTU5MDgxLC0xMj
+k0MzU3MjYsMjI0NDU4MDU3LDE5OTkwOTYyMzcsOTg1MjU3OTc0
+LDIxNDcxODUwMDVdfQ==
 -->
