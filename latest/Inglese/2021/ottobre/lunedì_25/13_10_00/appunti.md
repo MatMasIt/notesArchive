@@ -44,7 +44,10 @@ distico
 
 
 Soft vowel sounds
+
+
+sweer xonsonant sounds:  softness, mildness, tenderness
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0NDU4MDU3LDE5OTkwOTYyMzcsOTg1Mj
-U3OTc0LDIxNDcxODUwMDVdfQ==
+eyJoaXN0b3J5IjpbLTEyOTQzNTcyNiwyMjQ0NTgwNTcsMTk5OT
+A5NjIzNyw5ODUyNTc5NzQsMjE0NzE4NTAwNV19
 -->
