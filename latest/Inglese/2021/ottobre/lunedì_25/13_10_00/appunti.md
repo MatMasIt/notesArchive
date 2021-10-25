@@ -14,7 +14,12 @@ Complementary opposites
 Yellow: addressee
 I: poet's voide
 violet: questions
-grey: descript
+grey: description
+
+
+1. Calm  sounds, they are more suited to the lamb
+2. Two sentences,  six repeated
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAyNDY3MThdfQ==
+eyJoaXN0b3J5IjpbMTYwMjE4NDUwOF19
 -->
