@@ -1,4 +1,4 @@
-# Lezione di Matematica (4° ora)
+# Lezione di Storia (4° ora)
 ## Mercoledì 20 ottobre 2021, 11:15:00
 
 Mussolini presidente del consiglio sotto il re
