@@ -45,8 +45,10 @@ podestà fascista rimane al suo posto
 Val maira, zona libera
 
 Soppressa dai tedeschi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyODU5NDc0LDk1NTM2OTc1MywxNjkwNj
-U1MTc3LDE0MDMyMjE4MjIsLTg5ODI0ODQ4MiwxOTI2NDgxNDA1
-LC0xODIyMzI5MDIwXX0=
+eyJoaXN0b3J5IjpbLTE0NzQzODQ5NzgsNjgyODU5NDc0LDk1NT
+M2OTc1MywxNjkwNjU1MTc3LDE0MDMyMjE4MjIsLTg5ODI0ODQ4
+MiwxOTI2NDgxNDA1LC0xODIyMzI5MDIwXX0=
 -->
