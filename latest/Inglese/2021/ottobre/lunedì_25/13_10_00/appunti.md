@@ -1,8 +1,15 @@
-#  Lezione di Arte (1° ora)
-## Lunedì 2021, 08:20:00
+#  Lezione di Inglese (5° ora)
+## Lunedì 15 ottobre 2021, 13:11:00
 
+p.270
 
+The lamb, Blake, songs of innocence
 Two stanzas: 
+
+* questions
+* answers
+
+Complementary opposites
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MDMwNTYzXX0=
+eyJoaXN0b3J5IjpbNDU2NzM1NTk1XX0=
 -->
