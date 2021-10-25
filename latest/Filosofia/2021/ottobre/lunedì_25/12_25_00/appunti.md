@@ -9,7 +9,8 @@ Se si perde la ragione si perde la dignità?
 * che fare con gli animali? e nei condfronti della natura?
 
 
-For
+Forse rispetto a chi può soffrire?
+impostazione utilitaristica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMzczMjUwLC0zOTY5MzY4MTldfQ==
+eyJoaXN0b3J5IjpbMjAzNzg2NzQ5OCwtMzk2OTM2ODE5XX0=
 -->
