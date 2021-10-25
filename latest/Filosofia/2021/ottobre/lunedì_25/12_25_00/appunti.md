@@ -11,6 +11,18 @@ Se si perde la ragione si perde la dignità?
 
 Forse rispetto a chi può soffrire?
 impostazione utilitaristica
+
+
+---
+
+Le inclinazioni mi spingono a fare cose
+ma io attraverso alla libertà facio cosa la ragione mi indica
+
+potrei non ascoltarla
+
+libero arbitrio
+non sono determinato, libertà, che nel mondo (insieme dei fenomeni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzg2NzQ5OCwtMzk2OTM2ODE5XX0=
+eyJoaXN0b3J5IjpbODE4OTQyMTc0LDIwMzc4Njc0OTgsLTM5Nj
+kzNjgxOV19
 -->
