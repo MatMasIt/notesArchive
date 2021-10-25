@@ -53,9 +53,12 @@ Little lamb, I tell thee ( i know)
 
 creator: lamb $\to$ same qualities
 
-God: came on earth as a lamb ( Jesus)
+God: came on earth as a lamb ( Jesus )
+
+
+Line 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjczNDUyOCwxMjk1OTU5MDgxLC0xMj
-k0MzU3MjYsMjI0NDU4MDU3LDE5OTkwOTYyMzcsOTg1MjU3OTc0
-LDIxNDcxODUwMDVdfQ==
+eyJoaXN0b3J5IjpbLTE1NjI0MjUzNTMsMTI5NTk1OTA4MSwtMT
+I5NDM1NzI2LDIyNDQ1ODA1NywxOTk5MDk2MjM3LDk4NTI1Nzk3
+NCwyMTQ3MTg1MDA1XX0=
 -->
