@@ -1,5 +1,5 @@
-#  Lezione di Arte (1° ora)
-## Lunedì 2021, 08:20:00
+#  Lezione di Filosofia (1° ora)
+## Lunedì 15 ottobre 2021, 08:20:00
 
 Kant : Ragione da la dignità
 
@@ -44,6 +44,6 @@ Che senso ha essere virtuosi e una vita morale per non essere poi felici
 
 in qualche modo serve Dio che darà il premio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDM2Mzc4MywyMDM3ODY3NDk4LC0zOT
-Y5MzY4MTldfQ==
+eyJoaXN0b3J5IjpbMTY4MTczNDI0LC00NjQzNjM3ODMsMjAzNz
+g2NzQ5OCwtMzk2OTM2ODE5XX0=
 -->
