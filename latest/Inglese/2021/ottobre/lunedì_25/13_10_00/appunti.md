@@ -21,8 +21,13 @@ Blue: He: lam's creator
 2. Two sentences,  six repeated
 3. Both are good
 4. God, Jesus
-5. 
+5. d
 6. f
+
+
+lamb: softnes, tenderness, beauty
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMzM1MDM2LDIxNDcxODUwMDVdfQ==
+eyJoaXN0b3J5IjpbNDgxMTAzMDUsMjE0NzE4NTAwNV19
 -->
