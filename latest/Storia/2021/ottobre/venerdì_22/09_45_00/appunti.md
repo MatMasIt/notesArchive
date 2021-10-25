@@ -1,5 +1,5 @@
 #  Lezione di Storia (3° ora)
-## Venerdì 2021, 12:08:00
+## Venerdì 22 ottobre 2021, 12:08:00
 
 
 Recentemente affluenza < 50 %
