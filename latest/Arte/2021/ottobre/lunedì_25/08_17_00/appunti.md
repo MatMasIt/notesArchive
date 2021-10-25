@@ -37,6 +37,15 @@ Salon ogni due anni
 25 aprile 1874, studio di Nadar 
 
 165 opere, 30 artisti che si sottraggono alle regle dell'accademia
+
+Pissaro e Sisley
+
+Cezanne: stile suo
+
+
+Renoir, Monet e Degas
+
+Manet non partecipa alle mostre degli impressionisti, non acetta di far parte di un gruppo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTI2NDA3Ml19
+eyJoaXN0b3J5IjpbNTU3NDgwNzJdfQ==
 -->
