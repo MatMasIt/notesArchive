@@ -32,6 +32,15 @@ beauty, softness, tenderness
 
 First stanza:Psitive qualities
 freedom, beauty, softness, tenderness purity, meek,mild
+
+Rhyme scheme:
+AABBCCDDAA
+
+Rhyming couplet
+Rima  baciata
+
+distico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1MjU3OTc0LDIxNDcxODUwMDVdfQ==
+eyJoaXN0b3J5IjpbMTk5OTA5NjIzNyw5ODUyNTc5NzQsMjE0Nz
+E4NTAwNV19
 -->
