@@ -10,6 +10,11 @@ Two stanzas:
 * answers
 
 Complementary opposites
+
+Yellow: addressee
+I: poet's voide
+violet: questions
+grey: descript
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2NzM1NTk1XX0=
+eyJoaXN0b3J5IjpbLTE2MjAyNDY3MThdfQ==
 -->
