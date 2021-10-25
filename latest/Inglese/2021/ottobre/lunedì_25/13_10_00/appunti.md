@@ -21,8 +21,8 @@ Blue: He: lam's creator
 2. Two sentences,  six repeated
 3. Both are good
 4. God, Jesus
-5. k
+5. 
 6. f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzE4NTAwNV19
+eyJoaXN0b3J5IjpbNDIxMzM1MDM2LDIxNDcxODUwMDVdfQ==
 -->
