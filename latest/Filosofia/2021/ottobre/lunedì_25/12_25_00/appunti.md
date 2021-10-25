@@ -29,7 +29,17 @@ tutto lo è tranne uomo
 Assioma: realtà intuitiva
 
 mentre il postulato è una credenza che si deve per forza dare per vera perchè delle certezze che abbiamo non sarebbero giustificate
+
+postulati ragion pratica:
+* libertà
+* immoartalità anima
+* esistenza di Dio
+
+
+
+virtù: scegliere ciò che la ragione comanda
+Concetto del sommo bene: virtù + felicità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMzMDk3NjksMjAzNzg2NzQ5OCwtMz
+eyJoaXN0b3J5IjpbLTEzNzAyNjgwMzAsMjAzNzg2NzQ5OCwtMz
 k2OTM2ODE5XX0=
 -->
