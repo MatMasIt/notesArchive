@@ -27,7 +27,11 @@ Blue: He: lam's creator
 
 lamb: softnes, tenderness, beauty
 
+beauty, softness, tenderness
 
+
+First stanza:Psitive qualities
+freedom, beauty, softness, tenderness purity, meek,mild
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxMTAzMDUsMjE0NzE4NTAwNV19
+eyJoaXN0b3J5IjpbOTg1MjU3OTc0LDIxNDcxODUwMDVdfQ==
 -->
