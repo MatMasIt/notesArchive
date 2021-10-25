@@ -50,8 +50,10 @@ sweer xonsonant sounds:  softness, mildness, tenderness
 
 
 Little lamb, I tell thee ( i know)
+
+creator: lamb $\to$ same qualities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTk1OTA4MSwtMTI5NDM1NzI2LDIyND
-Q1ODA1NywxOTk5MDk2MjM3LDk4NTI1Nzk3NCwyMTQ3MTg1MDA1
-XX0=
+eyJoaXN0b3J5IjpbODI0NTQ3NjM3LDEyOTU5NTkwODEsLTEyOT
+QzNTcyNiwyMjQ0NTgwNTcsMTk5OTA5NjIzNyw5ODUyNTc5NzQs
+MjE0NzE4NTAwNV19
 -->
