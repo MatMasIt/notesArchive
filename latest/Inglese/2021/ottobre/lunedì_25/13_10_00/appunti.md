@@ -47,7 +47,11 @@ Soft vowel sounds
 
 
 sweer xonsonant sounds:  softness, mildness, tenderness
+
+
+Little lamb, I tell thee ( i know)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQzNTcyNiwyMjQ0NTgwNTcsMTk5OT
-A5NjIzNyw5ODUyNTc5NzQsMjE0NzE4NTAwNV19
+eyJoaXN0b3J5IjpbMTI5NTk1OTA4MSwtMTI5NDM1NzI2LDIyND
+Q1ODA1NywxOTk5MDk2MjM3LDk4NTI1Nzk3NCwyMTQ3MTg1MDA1
+XX0=
 -->
