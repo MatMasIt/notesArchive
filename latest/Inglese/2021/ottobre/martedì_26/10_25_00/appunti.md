@@ -61,7 +61,9 @@ sound "d"
 
 
 first stanza: interrogative form
+
+Forset of t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg4MjA5MjIsLTE2MDk1ODQ0MjldfQ
-==
+eyJoaXN0b3J5IjpbLTE4MzY3MTAzNjgsLTEzMzg4MjA5MjIsLT
+E2MDk1ODQ0MjldfQ==
 -->
