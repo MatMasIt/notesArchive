@@ -38,6 +38,9 @@ Counterpartt of the Lamb
 
 Tygeer: strength/ power
 Fierceness/ Violence
+
+
+S
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODEyMTkxMF19
+eyJoaXN0b3J5IjpbNTY0Njc1MzYxXX0=
 -->
