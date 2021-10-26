@@ -21,6 +21,12 @@ both the poet and the child are in touch with nature and have the imagination (t
 poet and creators are :
 Innocent, pure
 have creative power
+
+
+Poet: different attitude
+
+
+Ac
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTM1MDc3MzldfQ==
+eyJoaXN0b3J5IjpbLTE1NzY0NTUzMTBdfQ==
 -->
