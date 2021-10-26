@@ -35,6 +35,9 @@ According to Blake the poet is superior, he is a prophet
 The Tyger
 
 Counterpartt of the Lamb
+
+Tygeer: strength/ power
+Fierceness/ Violence
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzNTQzNjZdfQ==
+eyJoaXN0b3J5IjpbMTgyODEyMTkxMF19
 -->
