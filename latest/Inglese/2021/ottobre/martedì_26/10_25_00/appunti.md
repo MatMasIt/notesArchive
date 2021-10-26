@@ -27,6 +27,14 @@ Poet: different attitude
 
 
 According to Blake the poet is superior, he is a prophet
+
+
+
+---
+
+The Tyger
+
+Counterpartt of the Lamb
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDU1MjY3Ml19
+eyJoaXN0b3J5IjpbNzUzNTQzNjZdfQ==
 -->
