@@ -79,9 +79,9 @@ we are called with the same name as his name (creator)
 
 Creative power
 
-Poet and 
+Poet and god share creative power
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwNTg5NTIsMTI5NTk1OTA4MSwtMTI5ND
-M1NzI2LDIyNDQ1ODA1NywxOTk5MDk2MjM3LDk4NTI1Nzk3NCwy
-MTQ3MTg1MDA1XX0=
+eyJoaXN0b3J5IjpbLTkxNzEzODczNywxMjk1OTU5MDgxLC0xMj
+k0MzU3MjYsMjI0NDU4MDU3LDE5OTkwOTYyMzcsOTg1MjU3OTc0
+LDIxNDcxODUwMDVdfQ==
 -->
