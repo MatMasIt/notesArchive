@@ -26,7 +26,7 @@ have creative power
 Poet: different attitude
 
 
-Ac
+According to Blake the poet is superior, he is a prophet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzY0NTUzMTBdfQ==
+eyJoaXN0b3J5IjpbMjA2MDU1MjY3Ml19
 -->
