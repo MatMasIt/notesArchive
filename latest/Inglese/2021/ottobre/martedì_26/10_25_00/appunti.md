@@ -40,7 +40,7 @@ Tygeer: strength/ power
 Fierceness/ Violence
 
 
-Symmetry: /zimmetra
+Symmetry: /'zimmetra:i/  in this case to rhyme 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI1MDQzOTBdfQ==
+eyJoaXN0b3J5IjpbNzc5OTQ4MjUwXX0=
 -->
