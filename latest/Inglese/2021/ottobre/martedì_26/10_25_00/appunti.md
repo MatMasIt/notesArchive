@@ -48,6 +48,8 @@ rhytm is fast, representing the tyger
 AABBCCDDEEFFGGHHJJAABB
 
 Rhyming couplet
+
+Repetition of the same sund
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjI0NjA1NDhdfQ==
+eyJoaXN0b3J5IjpbLTE2MDk1ODQ0MjldfQ==
 -->
