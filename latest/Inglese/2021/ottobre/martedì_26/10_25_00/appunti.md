@@ -18,7 +18,9 @@ both poet and lamb are associated to the creator
 
 both the poet and the child are in touch with nature and have the imagination (two qualities)
 
-poetry and 
+poet and creators are :
+Innocent, pure
+have creative power
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDMwOTczXX0=
+eyJoaXN0b3J5IjpbLTEzNTM1MDc3MzldfQ==
 -->
