@@ -14,7 +14,9 @@ line 17
 poet: child
 lamb: lamb
 
-both poet and lamb are associated to t
+both poet and lamb are associated to the creator
+
+both the poet and the child are in touch with nature and have the imagination (two qualities)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDc2ODY5XX0=
+eyJoaXN0b3J5IjpbNDY5NjAyNjYzXX0=
 -->
