@@ -62,8 +62,8 @@ sound "d"
 
 first stanza: interrogative form
 
-Forset of t
+Forset of the night: chaos before creation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzY3MTAzNjgsLTEzMzg4MjA5MjIsLT
-E2MDk1ODQ0MjldfQ==
+eyJoaXN0b3J5IjpbLTM0NDQxOTI0OSwtMTMzODgyMDkyMiwtMT
+YwOTU4NDQyOV19
 -->
