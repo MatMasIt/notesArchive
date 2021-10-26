@@ -4,7 +4,8 @@
 
 ||Gravitazione|Elettrostatica|Magnetismo|
 |---|---|---|---|
-|Oggetto|Massa|V
+|Oggetto|Massa|Carica|Filo percorso da corrente|
+|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3NDUyODE0XX0=
+eyJoaXN0b3J5IjpbLTE1MzA2NzMwODVdfQ==
 -->
