@@ -49,7 +49,19 @@ AABBCCDDEEFFGGHHJJAABB
 
 Rhyming couplet
 
-Repetition of the same sund
+Repetition of the same sound
+
+
+dread, grasp
+
+dread
+
+sound "d"
+
+
+
+first stanza: interrogative form
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk1ODQ0MjldfQ==
+eyJoaXN0b3J5IjpbLTEzMzg4MjA5MjIsLTE2MDk1ODQ0MjldfQ
+==
 -->
