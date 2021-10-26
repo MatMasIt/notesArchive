@@ -41,6 +41,9 @@ Fierceness/ Violence
 
 
 Symmetry: /'zimmetra:i/  in this case to rhyme 
+
+
+rhytm is fast, representing the tyger
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5OTQ4MjUwXX0=
+eyJoaXN0b3J5IjpbMTY4NjUwODAyMF19
 -->
