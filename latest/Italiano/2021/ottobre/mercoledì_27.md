@@ -16,7 +16,14 @@ cant pensante
 
 pastore esotico, ma emblematico, generalizzato di tutta l'umanità
 
+no autobiografismo
 
+
+Posizione umana, allegoria di un Vecchierello, uomo stanco che va
+
+v.35 verso un abisso orrido (la morte)
+
+Condizioni proprie dell'umano stato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDg1Nzg1MCwyMTMwMjAwNjk2XX0=
+eyJoaXN0b3J5IjpbODI0MjE4Mzc5LDIxMzAyMDA2OTZdfQ==
 -->
