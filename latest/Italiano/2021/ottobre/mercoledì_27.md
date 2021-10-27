@@ -103,8 +103,9 @@ dolore del suicidio
 perire: venire meno alle amate compagnie
 
 
-
+Miro: 85 
+in cielo le stelle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3Nzg3ODQyLDEwNjM2MzE3OTMsNzYyMj
-I3MjIxLDIxMzAyMDA2OTZdfQ==
+eyJoaXN0b3J5IjpbMTE3NTg2NjI4NSwxMDYzNjMxNzkzLDc2Mj
+IyNzIyMSwyMTMwMjAwNjk2XX0=
 -->
