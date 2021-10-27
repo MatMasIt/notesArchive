@@ -38,6 +38,28 @@ Gregge: NON significanza dell'esistere
 il gregge non soffre di questa mancanza di significato?
 
 Si interroga sugli animali
+
+
+esperimento con la canzone libera, varia lunghezza da 11 a 44 versi
+
+endecasillabi e settenari
+
+rime in posizione varia
+
+12 vede
+13 erte
+
+assonanze
+
+15 ispera
+
+14 sera
+
+
+tende 18
+19 breve
+
+paga
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDYwOTc4MSwyMTMwMjAwNjk2XX0=
+eyJoaXN0b3J5IjpbNTE3Mzg0MjQ0LDIxMzAyMDA2OTZdfQ==
 -->
