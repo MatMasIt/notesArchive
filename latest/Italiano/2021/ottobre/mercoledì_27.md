@@ -96,7 +96,15 @@ pastore: alter ego io lirico autobiografico
 
 
 v. 54 se la vita è sventura perchè dve essere sopportata
+
+dolore del suicidio
+
+
+perire: venire meno alle amate compagnie
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzYzMTc5Myw3NjIyMjcyMjEsMjEzMD
-IwMDY5Nl19
+eyJoaXN0b3J5IjpbODc3Nzg3ODQyLDEwNjM2MzE3OTMsNzYyMj
+I3MjIxLDIxMzAyMDA2OTZdfQ==
 -->
