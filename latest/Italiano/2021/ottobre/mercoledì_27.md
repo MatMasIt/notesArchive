@@ -86,6 +86,9 @@ Vecchierella petrarchesca che corre
 Vecchierella petrarchesca trova pace dopo la giornata
 
 Il vechierello Leopardiano no
+
+Esper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMjI3MjIxLDIxMzAyMDA2OTZdfQ==
+eyJoaXN0b3J5IjpbMjQ3MjU5NDc2LDc2MjIyNzIyMSwyMTMwMj
+AwNjk2XX0=
 -->
