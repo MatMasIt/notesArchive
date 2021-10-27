@@ -4,9 +4,16 @@
 
 Ripasso sintesi proteica
 
+trascrizione in RNA
+
+sequenza di codoni
+
+
+
+RER (reticolo endoplasmatico ruvido), con ribosomi
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTkyODYwNF19
+eyJoaXN0b3J5IjpbNTQ5MDkwMDAzXX0=
 -->
