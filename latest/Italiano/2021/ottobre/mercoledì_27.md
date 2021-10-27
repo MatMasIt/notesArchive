@@ -94,7 +94,9 @@ Esperience ripetitive del pastore
 luna
 pastore: alter ego io lirico autobiografico
 
+
+v. 54 se la vita è sventura perchè dve essere sopportata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTg5NTk0Niw3NjIyMjcyMjEsMjEzMD
+eyJoaXN0b3J5IjpbMTA2MzYzMTc5Myw3NjIyMjcyMjEsMjEzMD
 IwMDY5Nl19
 -->
