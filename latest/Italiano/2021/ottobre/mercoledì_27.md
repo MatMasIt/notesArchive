@@ -82,6 +82,10 @@ Vecchierel, v.50 rif a Canzoniere di Petrarca
 
 _Nella stagion che 'l ciel rapido Inclina_
 Vecchierella petrarchesca che corre
+
+Vecchierella petrarchesca trova pace dopo la giornata
+
+Il vechierello Leopardiano no
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTc4MjQxMCwyMTMwMjAwNjk2XX0=
+eyJoaXN0b3J5IjpbNzYyMjI3MjIxLDIxMzAyMDA2OTZdfQ==
 -->
