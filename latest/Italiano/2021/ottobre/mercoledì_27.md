@@ -68,7 +68,13 @@ In tutte le stofe, rime
 rime in -ale alla fine di ogni strofa
 
 
-strofe con sintassi piana e strode con forte concitazione, condizione umana, quasi del
+strofe con sintassi piana e strode con forte concitazione, condizione umana, quasi del subire il vivere
+
+r.28 corre, anela, varca,cade senza foga ristoro
+
+lacero sanguinoso
+
+Paratassi insistita
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODUxNjc3MTIsMjEzMDIwMDY5Nl19
+eyJoaXN0b3J5IjpbLTQ5NTMxMzg2OCwyMTMwMjAwNjk2XX0=
 -->
