@@ -110,7 +110,9 @@ in cielo le stelle
 animali privi del sentimento del male di esistere
 
 
+
+sofferenza, inappagamento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTgwMjU4MTAsMTA2MzYzMTc5Myw3Nj
-IyMjcyMjEsMjEzMDIwMDY5Nl19
+eyJoaXN0b3J5IjpbLTUzNTIwODgyNywxMDYzNjMxNzkzLDc2Mj
+IyNzIyMSwyMTMwMjAwNjk2XX0=
 -->
