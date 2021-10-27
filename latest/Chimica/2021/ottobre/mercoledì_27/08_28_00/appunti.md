@@ -14,7 +14,8 @@ RER (reticolo endoplasmatico ruvido), con ribosomi
 
 
 Adenosin: adenina + ribosio
-trifosfato: legai - energia
+trifosfato: legami - energia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzQ0Mzg5NSw1NDkwOTAwMDNdfQ==
+eyJoaXN0b3J5IjpbLTE2MTcwOTQzNDIsLTcyMzQ0Mzg5NSw1ND
+kwOTAwMDNdfQ==
 -->
