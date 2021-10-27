@@ -75,6 +75,8 @@ r.28 corre, anela, varca,cade senza foga ristoro
 lacero sanguinoso
 
 Paratassi insistita
+
+v.104  La vita è male
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTMxMzg2OCwyMTMwMjAwNjk2XX0=
+eyJoaXN0b3J5IjpbMTA1OTQ4NDIwNSwyMTMwMjAwNjk2XX0=
 -->
