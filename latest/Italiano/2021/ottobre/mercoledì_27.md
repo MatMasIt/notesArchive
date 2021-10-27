@@ -28,9 +28,16 @@ Condizioni proprie dell'umano stato
 Perchè dare la vita se è così faticoso
 
 
-Sapienza astrale lu
+Sapienza astrale lunare come potesse dare senso alla vita
 
 gregge: 113, 128
+
+
+Gregge: NON significanza dell'esistere
+
+il gregge non soffre di questa mancanza di significato?
+
+Si interroga sugli animali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTE5OTcxNywyMTMwMjAwNjk2XX0=
+eyJoaXN0b3J5IjpbMTA3NDYwOTc4MSwyMTMwMjAwNjk2XX0=
 -->
