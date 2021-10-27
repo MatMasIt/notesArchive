@@ -59,7 +59,16 @@ assonanze
 tende 18
 19 breve
 
-paga
+paga 6
+5 vaga
+
+In tutte le stofe, rime
+
+
+rime in -ale alla fine di ogni strofa
+
+
+strofe con sintassi piana e strode con forte concitazione, condizione umana, quasi del
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3Mzg0MjQ0LDIxMzAyMDA2OTZdfQ==
+eyJoaXN0b3J5IjpbLTExODUxNjc3MTIsMjEzMDIwMDY5Nl19
 -->
