@@ -112,7 +112,10 @@ animali privi del sentimento del male di esistere
 
 
 sofferenza, inappagamento
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTIwODgyNywxMDYzNjMxNzkzLDc2Mj
-IyNzIyMSwyMTMwMjAwNjk2XX0=
+eyJoaXN0b3J5IjpbMzU5MjQ5MTAzLC01MzUyMDg4MjcsMTA2Mz
+YzMTc5Myw3NjIyMjcyMjEsMjEzMDIwMDY5Nl19
 -->
