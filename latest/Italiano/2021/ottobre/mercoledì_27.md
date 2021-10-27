@@ -77,6 +77,11 @@ lacero sanguinoso
 Paratassi insistita
 
 v.104  La vita è male
+
+Vecchierel, v.50 rif a Canzoniere di Petrarca
+
+_Nella stagion che 'l ciel rapido Inclina_
+Vecchierella petrarchesca che corre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTQ4NDIwNSwyMTMwMjAwNjk2XX0=
+eyJoaXN0b3J5IjpbLTE0MTc4MjQxMCwyMTMwMjAwNjk2XX0=
 -->
