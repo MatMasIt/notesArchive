@@ -13,7 +13,8 @@ sequenza di codoni
 RER (reticolo endoplasmatico ruvido), con ribosomi
 
 
-
+Adenosin: adenina + ribosio
+trifosfato: legai - energia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5MDkwMDAzXX0=
+eyJoaXN0b3J5IjpbLTcyMzQ0Mzg5NSw1NDkwOTAwMDNdfQ==
 -->
