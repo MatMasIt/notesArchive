@@ -105,7 +105,12 @@ perire: venire meno alle amate compagnie
 
 Miro: 85 
 in cielo le stelle
+
+
+animali privi del sentimento del male di esistere
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTg2NjI4NSwxMDYzNjMxNzkzLDc2Mj
-IyNzIyMSwyMTMwMjAwNjk2XX0=
+eyJoaXN0b3J5IjpbLTE5NTgwMjU4MTAsMTA2MzYzMTc5Myw3Nj
+IyMjcyMjEsMjEzMDIwMDY5Nl19
 -->
