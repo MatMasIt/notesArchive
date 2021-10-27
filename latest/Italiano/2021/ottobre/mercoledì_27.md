@@ -5,7 +5,7 @@ Canto della di un pastore errante dell'Asia, operette Morali, Giacomo Leopardi
 
 t.10
 
-Iterlocutori: luna, *
+Iterlocutori: luna, gregge
 
 Ultima canzone scritta prima di lasciare Recanati
 
@@ -24,6 +24,13 @@ Posizione umana, allegoria di un Vecchierello, uomo stanco che va
 v.35 verso un abisso orrido (la morte)
 
 Condizioni proprie dell'umano stato
+
+Perchè dare la vita se è così faticoso
+
+
+Sapienza astrale lu
+
+gregge: 113, 128
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0MjE4Mzc5LDIxMzAyMDA2OTZdfQ==
+eyJoaXN0b3J5IjpbMTY1OTE5OTcxNywyMTMwMjAwNjk2XX0=
 -->
