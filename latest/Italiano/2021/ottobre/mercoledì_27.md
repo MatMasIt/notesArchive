@@ -13,6 +13,10 @@ dopo il sabato del villaggio, ma messa al centro edizione cantri pisano-recanate
 
 importanza, specificità
 cant pensante
+
+pastore esotico, ma emblematico, generalizzato di tutta l'umanità
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTc3MDQ1OSwyMTMwMjAwNjk2XX0=
+eyJoaXN0b3J5IjpbMTA4MDg1Nzg1MCwyMTMwMjAwNjk2XX0=
 -->
