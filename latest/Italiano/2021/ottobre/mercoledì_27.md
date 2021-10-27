@@ -87,8 +87,14 @@ Vecchierella petrarchesca trova pace dopo la giornata
 
 Il vechierello Leopardiano no
 
-Esper
+Esperience ripetitive del pastore
+
+2 interlocutori 
+
+luna
+pastore: alter ego io lirico autobiografico
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3MjU5NDc2LDc2MjIyNzIyMSwyMTMwMj
-AwNjk2XX0=
+eyJoaXN0b3J5IjpbLTk0NTg5NTk0Niw3NjIyMjcyMjEsMjEzMD
+IwMDY5Nl19
 -->
