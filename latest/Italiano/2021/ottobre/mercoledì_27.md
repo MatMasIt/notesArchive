@@ -5,7 +5,14 @@ Canto della di un pastore errante dell'Asia, operette Morali, Giacomo Leopardi
 
 t.10
 
+Iterlocutori: luna, *
 
+Ultima canzone scritta prima di lasciare Recanati
+
+dopo il sabato del villaggio, ma messa al centro edizione cantri pisano-recanatesi
+
+importanza, specificità
+cant pensante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg3OTIzNjQsMjEzMDIwMDY5Nl19
+eyJoaXN0b3J5IjpbLTY2MTc3MDQ1OSwyMTMwMjAwNjk2XX0=
 -->
