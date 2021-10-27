@@ -1,7 +1,9 @@
 #  Lezione di Italiano (5° ora)
 ## Mercoledì 27 ottobre 2021, 12:06:00
 
-Canto della luna e di un pasroe 
+Canto della luna e di un pastore errante operette Morali, Giacomo Leopardi
+
+t.10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxNDMyNjI2XX0=
+eyJoaXN0b3J5IjpbMjAyMzk3MzQ3N119
 -->
