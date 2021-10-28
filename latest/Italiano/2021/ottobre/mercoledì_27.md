@@ -1,6 +1,6 @@
 #  Lezione di Italiano (5° ora)
 ## Mercoledì 27 ottobre 2021, 12:06:00
-
+ 
 Canto della di un pastore errante dell'Asia, operette Morali, Giacomo Leopardi
 
 t.10
@@ -117,7 +117,7 @@ sofferenza, inappagamento
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDM3NzI4MywzNTkyNDkxMDMsLTUzNT
-IwODgyNywxMDYzNjMxNzkzLDc2MjIyNzIyMSwyMTMwMjAwNjk2
-XX0=
+eyJoaXN0b3J5IjpbNTA3OTYxNTY5LC02MjAzNzcyODMsMzU5Mj
+Q5MTAzLC01MzUyMDg4MjcsMTA2MzYzMTc5Myw3NjIyMjcyMjEs
+MjEzMDIwMDY5Nl19
 -->
