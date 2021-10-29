@@ -46,6 +46,15 @@ $$
 $$
 \tan \phi = -\left(2+\sqrt3\right)\phi=-\frac{5}{12}\pi
 $$
+
+
+Moto armonico
+|x|s|
+|---|---|
+|$x=3\cos 4t$|$s=A\cos \omega t$|
+|$v=\frac{dx}{dt}=\dot x = -12 \sin 4t$|
+|$a=\frac{d^2x}{dt}=\ddot x = -12 \sin 4t$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3MzE2NjkxLC0yMTE1MDY3NTE3XX0=
+eyJoaXN0b3J5IjpbLTE2NDg3MTc0MjIsNjI3MzE2NjkxLC0yMT
+E1MDY3NTE3XX0=
 -->
