@@ -96,7 +96,19 @@ $$
 $$
 
 
+$$
+\cos 2x=\cos^2x-\sin^2x
+$$
+
+$$
+=2cos^2x-1
+$$
+
+
+$$
+1-2\sin^2x
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQzMzczMjEsLTY3NjExNDUxOSw2Mj
+eyJoaXN0b3J5IjpbLTEwNDY4NDM2NzcsLTY3NjExNDUxOSw2Mj
 czMTY2OTEsLTIxMTUwNjc1MTddfQ==
 -->
