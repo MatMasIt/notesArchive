@@ -125,8 +125,23 @@ y=E_{mecc}=sin^{\boxed 2}x-\cos^{\boxed{2}}x
 $$
 $$\frac{\cancel 1-\cos 2x- \cos 2x - \cancel 1}2
 $$
+$$
+=-\frac{\cancel 2\cos2x}{\cancel 2}
+$$
+
+
+
+$$
+\boxed{y=-\cos 2x}
+$$
+
+$$
+\cos x \quad \to \quad T=2\pi\\
+\cos 2x \quad \to \quad T_1=\pi
+$$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzNDI4Njc2LC02NzYxMTQ1MTksNjI3Mz
-E2NjkxLC0yMTE1MDY3NTE3XX0=
+eyJoaXN0b3J5IjpbMTI1MzI3Nzg1NSwtNjc2MTE0NTE5LDYyNz
+MxNjY5MSwtMjExNTA2NzUxN119
 -->
