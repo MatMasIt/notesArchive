@@ -78,7 +78,25 @@ $$
 E_{mecc}=U_{elastica}+K_{cin}=\frac92k\cos^24t+72\sin^24t}
 $$
 
+
+
+
+---
+
+
+$$
+y= E_{mecc}=\sin^2x-\cos^2x
+$$
+
+
+
+
+$$
+\sin 2x= 2\sin x\cos x
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjExNDUxOSw2MjczMTY2OTEsLTIxMT
-UwNjc1MTddfQ==
+eyJoaXN0b3J5IjpbLTEyNTQzMzczMjEsLTY3NjExNDUxOSw2Mj
+czMTY2OTEsLTIxMTUwNjc1MTddfQ==
 -->
