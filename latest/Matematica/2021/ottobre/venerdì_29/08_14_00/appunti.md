@@ -62,9 +62,16 @@ Moto armonico
 $$
 U_{elastica}=\frac12kx^2
 $$
+$$
+=\frac12k9\cos^4t=\frac92\boxed{\cos^24t}
+$$
 
+
+$$
+K_{cin}=\frac12mv^2
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMjIzOTEzLDYyNzMxNjY5MSwtMjExNT
+eyJoaXN0b3J5IjpbNDczNzQ2Mjk2LDYyNzMxNjY5MSwtMjExNT
 A2NzUxN119
 -->
