@@ -44,8 +44,8 @@ $$
 $$
 
 $$
-\tan \phi = -\left(2
+\tan \phi = -\left(2+\sqrt3\right)\phi=-\frac{5}{12}\pi
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5MjE3NjU0LC0yMTE1MDY3NTE3XX0=
+eyJoaXN0b3J5IjpbNjI3MzE2NjkxLC0yMTE1MDY3NTE3XX0=
 -->
