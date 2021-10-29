@@ -22,7 +22,13 @@ $$
 Radicale doppio radice del primo termien al quadrato meno la radice del secondo temine al quadrato deve dare un quadrato perfetto
 
 
-$s=\sqrt{
+$s=\sqrt{4-3}=1$
+
+---
+
+$$
+\sqrt{\frac{2+1}{2}}+\sqrt{\frac{2-1}{2}}=\frac{\sqrt 3}{\sqrt 2}+\frac1{\sqrt{2}}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjA4MjgyNl19
+eyJoaXN0b3J5IjpbLTE2ODkxMjQwNTFdfQ==
 -->
