@@ -147,9 +147,9 @@ $$
 ## Dominio di una funzione
 |Funzione|Esempio|Dominio|
 |---|---|---
-|Algebrica intera (polinomiale)|$y=ax^n+bx^{n-1}+c$|$
-|Algebrica frazionaria (fratta|
+|Algebrica intera (polinomiale)|$y=ax^n+bx^{n-1}+c$|$\R$
+|Algebrica frazionaria (fratta)|$y=\frac{ax^n+b}{cx^{n+2}-dx^{n+1}}$|$Denominatore \neq 0$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzY5MTQyNywxMjUzMjc3ODU1LC02Nz
-YxMTQ1MTksNjI3MzE2NjkxLC0yMTE1MDY3NTE3XX0=
+eyJoaXN0b3J5IjpbMjQ0MjcwOTY2LDEyNTMyNzc4NTUsLTY3Nj
+ExNDUxOSw2MjczMTY2OTEsLTIxMTUwNjc1MTddfQ==
 -->
