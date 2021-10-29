@@ -16,7 +16,7 @@ $$
 A= \sqrt{1+\left(2+\sqrt3\right)^2}=\sqrt{1+4+4\sqrt 3 +4 }=
 $$
 $$
-\sqrt{4\left(2+\sqrt 3\right)}=2\sqrt{2+\sqrt 3}
+\sqrt{4\left(2+\sqrt 3\right)}=2\sqrt{2\boxed+\sqrt 3}
 $$
 
 Radicale doppio radice del primo termien al quadrato meno la radice del secondo temine al quadrato deve dare un quadrato perfetto
@@ -27,8 +27,8 @@ $s=\sqrt{4-3}=1$
 ---
 
 $$
-\sqrt{\frac{2+1}{2}}+\sqrt{\frac{2-1}{2}}=\frac{\sqrt 3}{\sqrt 2}+\frac1{\sqrt{2}}
+\sqrt{\frac{2+1}{2}}\boxed+\sqrt{\frac{2-1}{2}}=\frac{\sqrt 3}{\sqrt 2}+\frac1{\sqrt{2}}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODkxMjQwNTFdfQ==
+eyJoaXN0b3J5IjpbLTIxMTUwNjc1MTddfQ==
 -->
