@@ -29,6 +29,23 @@ $s=\sqrt{4-3}=1$
 $$
 \sqrt{\frac{2+1}{2}}\boxed+\sqrt{\frac{2-1}{2}}=\frac{\sqrt 3}{\sqrt 2}+\frac1{\sqrt{2}}
 $$
+
+
+$$
+A= \sqrt 6 + \sqrt 2
+$$
+
+
+$$
+\begin{equation*} \begin{cases} 
+\cos \phi = \frac{1}{\sqrt 6 + \sqrt 2}\\
+\sin \phi= \frac{-\left(2+\sqrt 3\right)}{\sqrt 6 + \sqrt 2}
+\end{cases} \end{equation*}
+$$
+
+$$
+\tan \phi = -\left(2
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUwNjc1MTddfQ==
+eyJoaXN0b3J5IjpbOTc5MjE3NjU0LC0yMTE1MDY3NTE3XX0=
 -->
