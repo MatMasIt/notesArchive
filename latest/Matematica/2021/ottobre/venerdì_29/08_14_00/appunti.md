@@ -68,10 +68,15 @@ $$
 
 
 $$
-K_{cin}=\frac12mv^2
+K_{cin}=\frac12mv^2=\frac1{\cancel 2}m \space \cancel{144}\space 72\boxed{ \sin^2 4t}
+$$
+
+
+$$
+E_{,mecc}=U_éelastica}+K_{c
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNzQ2Mjk2LDYyNzMxNjY5MSwtMjExNT
-A2NzUxN119
+eyJoaXN0b3J5IjpbLTY1NjE5MjAxMyw2MjczMTY2OTEsLTIxMT
+UwNjc1MTddfQ==
 -->
