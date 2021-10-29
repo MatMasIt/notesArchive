@@ -53,8 +53,18 @@ Moto armonico
 |---|---|
 |$x=3\cos 4t$|$s=A\cos \omega t$|
 |$v=\frac{dx}{dt}=\dot x = -12 \sin 4t$|
-|$a=\frac{d^2x}{dt}=\ddot x = -12 \sin 4t$|
+|$a=\frac{d^2x}{dt}=\ddot x = -48 \cos 4t$|
+|$v=\frac{d''v}{dt}\quad a= -16 (3\cos 4t)$|
+|$\boxed{a=kx}$
+
+
+
+$$
+U_{elastica}=\frac12kx^2
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg3MTc0MjIsNjI3MzE2NjkxLC0yMT
-E1MDY3NTE3XX0=
+eyJoaXN0b3J5IjpbNzkzMjIzOTEzLDYyNzMxNjY5MSwtMjExNT
+A2NzUxN119
 -->
