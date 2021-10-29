@@ -108,7 +108,25 @@ $$
 $$
 1-2\sin^2x
 $$
+
+
+$$
+\cos^2x=\frac{\cos 2x+1}{2}
+$$
+
+$$
+\sin^2x=\frac{1-\cos 2x}{2}
+$$
+
+
+
+$$
+y=E_{mecc}=sin^{\boxed 2}x-\cos^{\boxed{2}}x
+$$
+$$\frac{\cancel 1-\cos 2x- \cos 2x - \cancel 1}2
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDY4NDM2NzcsLTY3NjExNDUxOSw2Mj
-czMTY2OTEsLTIxMTUwNjc1MTddfQ==
+eyJoaXN0b3J5IjpbNTUzNDI4Njc2LC02NzYxMTQ1MTksNjI3Mz
+E2NjkxLC0yMTE1MDY3NTE3XX0=
 -->
