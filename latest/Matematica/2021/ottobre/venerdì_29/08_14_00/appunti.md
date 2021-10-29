@@ -141,7 +141,14 @@ $$
 $$
 
 
+
+---
+
+## Dominio di una funzione
+|Funzione|Esempio|Dominio|
+|---|---|---
+|Algebrica intera (polinomiale)|$y=ax^
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzI3Nzg1NSwtNjc2MTE0NTE5LDYyNz
-MxNjY5MSwtMjExNTA2NzUxN119
+eyJoaXN0b3J5IjpbMTk1MzY4MTg4NCwxMjUzMjc3ODU1LC02Nz
+YxMTQ1MTksNjI3MzE2NjkxLC0yMTE1MDY3NTE3XX0=
 -->
