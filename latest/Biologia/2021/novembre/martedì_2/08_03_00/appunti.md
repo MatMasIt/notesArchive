@@ -31,6 +31,13 @@ pipetta, mettiamo soluzione salina
 capsule petri sterile
 
 segnare sulla parte bassa cosa viene seminato
+
+si usa terreno PCA
+e poi IST per la conta di muffe e li
+quindi scriviamo  sulla capsula petri
+
+Su 2:
+PCA 1:1 Distriburore automatico 5E
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTk4Nzk2NiwyMTQ0NzgxMjUxXX0=
+eyJoaXN0b3J5IjpbLTE2MDExNjgxMDksMjE0NDc4MTI1MV19
 -->
