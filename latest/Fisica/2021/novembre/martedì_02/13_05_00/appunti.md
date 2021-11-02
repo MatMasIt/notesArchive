@@ -9,7 +9,7 @@ $$
 $$
 ### campo
 $$
-\vec{H}\frac{\vec{F}}{m_2}=G\frac{m_1}{\vec{r}^2}
+\vec{H}\frac{\vec{F}}{m_2}=G\frac{m_1}{\vec{r}^2}\quad in \space \frac{N}{Kg} \space o \space \frac{m}{s^2}
 $$
 
 $$
@@ -44,5 +44,5 @@ $$
 \vec E= \frac{\vec{F_e}}{q_2} \quad in \space \frac{N}{C}\space o \space \frac{V}{m}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwOTMxNDM2XX0=
+eyJoaXN0b3J5IjpbMTIzNjEzODQzMV19
 -->
