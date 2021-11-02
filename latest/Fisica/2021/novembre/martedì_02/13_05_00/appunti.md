@@ -20,9 +20,17 @@ $$
 Caso elettrico
 
 $$
-F_E=k\frac{1
+\vec F_e=k\frac{q_1q_2}{\vec{r}^2}
 $$
 
+
+$$
+k=8,99\cdot 10^9\frac{Nm^2}{C^2}
+$$
+
+$$
+k=\frac{1}{4\pi\epsilon
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTAwNTA2M119
+eyJoaXN0b3J5IjpbMjE0NTY3Mzk1OV19
 -->
