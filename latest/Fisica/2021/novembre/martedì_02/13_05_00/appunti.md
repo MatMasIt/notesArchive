@@ -69,7 +69,16 @@ $$
 $$
 \vec B = \frac{\mu_0}{2\pi}\frac{I_1}{d}
 $$
+
+---
+Ampere: unità di misura della corrente elettrica
+
+> Carica che passa attraverso alla sezione di un conduttore in una unità di tempo
+
+$$
+i=\frac{\Delta Q}{\Delta t}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2MjYzNTgsLTQwODAwNzkwOSwxMjM2MT
-M4NDMxXX0=
+eyJoaXN0b3J5IjpbMTkzNzIwMjcyNiwtNDA4MDA3OTA5LDEyMz
+YxMzg0MzFdfQ==
 -->
