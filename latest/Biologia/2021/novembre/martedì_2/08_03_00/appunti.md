@@ -14,6 +14,9 @@ usando una dima
 tutto materiale sterile
 
 passare tampone, inserirlo nella falcon, spezzarlo e chiuderlo
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU3NTY5NjQsMjE0NDc4MTI1MV19
+eyJoaXN0b3J5IjpbLTIwNzEwNjE3ODYsMjE0NDc4MTI1MV19
 -->
