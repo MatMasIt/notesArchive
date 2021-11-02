@@ -16,7 +16,11 @@ tutto materiale sterile
 passare tampone, inserirlo nella falcon, spezzarlo e chiuderlo
 
 
+inserire soluzione salina $HCl$ $0,9\%$
 
+$1cc$ di soluzione fisiologica
+
+provetta monouso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzEwNjE3ODYsMjE0NDc4MTI1MV19
+eyJoaXN0b3J5IjpbMTEwMTE4NDc2NCwyMTQ0NzgxMjUxXX0=
 -->
