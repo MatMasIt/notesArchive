@@ -1,12 +1,13 @@
 #  Lezione di Fisica (6° ora)
 ## Martedì 2 novembre 2021, 13:05:00
 
-Caso gravitazionale
+## Caso gravitazionale
 
+### forza
 $$
 \vec{F_g}=G\frac{m_1m_2}{\vec{r}^2}
 $$
-
+### campo
 $$
 \vec{H}\frac{\vec{F}}{m_2}=G\frac{m_1}{\vec{r}^2}
 $$
@@ -17,8 +18,9 @@ $$
 
 ---
 
-Caso elettrico
+## Caso elettrico
 
+### forza
 $$
 \vec F_e=k\frac{q_1q_2}{\vec{r}^2}
 $$
@@ -35,6 +37,12 @@ $$
 $$
 \epsilon_0=8,8\cdot 10^{-12}\frac{C^2}{Nm^2}
 $$
+
+### campo 
+
+$$
+\ve E= \frac{\vec{F_e}}{q_2}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA4OTQyMDNdfQ==
+eyJoaXN0b3J5IjpbLTExMTk0NTM2NDBdfQ==
 -->
