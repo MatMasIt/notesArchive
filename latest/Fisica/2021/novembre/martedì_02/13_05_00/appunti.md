@@ -78,7 +78,20 @@ Ampere: unità di misura della corrente elettrica
 $$
 i=\frac{\Delta Q}{\Delta t}
 $$
+
+p.371
+
+Ampère definito attraverso al magnetismo
+
+$1A$
+
+		1|			|1A
+			|			|
+			|			|
+			|			|
+			|			|
+		 filo 1       filo 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzIwMjcyNiwtNDA4MDA3OTA5LDEyMz
+eyJoaXN0b3J5IjpbLTIyMTU5OTUzNiwtNDA4MDA3OTA5LDEyMz
 YxMzg0MzFdfQ==
 -->
