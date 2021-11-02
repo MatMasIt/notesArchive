@@ -37,7 +37,7 @@ e poi YEAST per la conta di muffe e lieviti, terreno selettivo con antibiotico
 quindi scriviamo  sulla capsula petri
 
 
-x2 PCA 1:1 Distriburore automatico 5E
+- [x2 PCA 1:1 Distriburore automatico 5E
 x2 YEAST 1:1 Distributore automatico 5E
 
 x2 PCA 1:10 Distributore automatico 5E
@@ -45,5 +45,6 @@ x2 YEAST 1:10 Distributore automatico 5E
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzEwNzIyNzMsMjE0NDc4MTI1MV19
+eyJoaXN0b3J5IjpbLTQ5OTI3MDQyMywtMTc3MTA3MjI3MywyMT
+Q0NzgxMjUxXX0=
 -->
