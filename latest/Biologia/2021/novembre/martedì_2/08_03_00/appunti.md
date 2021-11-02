@@ -7,7 +7,11 @@ Analisi
 
 superficie $1dm^2$ con un tampone
 
+6 tamponi 6 superfici
 
+usando una dima
+
+tutto materiale sterile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzIyMTE1NF19
+eyJoaXN0b3J5IjpbMjE0NDc4MTI1MV19
 -->
