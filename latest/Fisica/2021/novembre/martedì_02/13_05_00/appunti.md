@@ -57,7 +57,11 @@ legge con $I_2=d$
 $$
 \vec F_m=K_m\frac{I_1l_1I_2}{\vec{d}} \quad (p.371\space vol.2)
 $$
+
+$$
+K_m=2\cdot 10^{-7}\frac{N}{A^2}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Mjc4NzEwMSwtNDA4MDA3OTA5LDEyMz
+eyJoaXN0b3J5IjpbLTQxMTc1NTYwNywtNDA4MDA3OTA5LDEyMz
 YxMzg0MzFdfQ==
 -->
