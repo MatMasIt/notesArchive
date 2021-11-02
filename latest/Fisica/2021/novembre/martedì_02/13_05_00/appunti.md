@@ -8,9 +8,21 @@ $$
 $$
 
 $$
+\vec{H}\frac{\vec{F}}{m_2}=G\frac{m_1}{\vec{r}^2}
 $$
 
+$$
+G=6,67\cdot 10^{-11}\frac{Nm^2}{Kg^2}
+$$
+
+---
+
+Caso elettrico
+
+$$
+F_E=k\frac{1
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNTI5MzY0XX0=
+eyJoaXN0b3J5IjpbLTgyMTAwNTA2M119
 -->
