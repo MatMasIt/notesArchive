@@ -12,6 +12,8 @@ superficie $1dm^2$ con un tampone
 usando una dima
 
 tutto materiale sterile
+
+passare tampone, inserirlo nella falcon, spezzarlo e chiuderlo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDc4MTI1MV19
+eyJoaXN0b3J5IjpbLTIwODU3NTY5NjQsMjE0NDc4MTI1MV19
 -->
