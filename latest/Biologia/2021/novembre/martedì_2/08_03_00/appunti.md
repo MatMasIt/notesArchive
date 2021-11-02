@@ -44,8 +44,9 @@ quindi scriviamo  sulla capsula petri
 
 
 caldo ma non tant o da bruciare
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTQ5NzIxMSwtMTk1NTE0MTE0MywzMT
-MxNjc0ODMsLTI2Mjg2NDAxNSwtOTgyMTAzMTU1LC0xNzcxMDcy
-MjczLDIxNDQ3ODEyNTFdfQ==
+eyJoaXN0b3J5IjpbLTcyNjIyOTAwNSwtMjc1NDk3MjExLC0xOT
+U1MTQxMTQzLDMxMzE2NzQ4MywtMjYyODY0MDE1LC05ODIxMDMx
+NTUsLTE3NzEwNzIyNzMsMjE0NDc4MTI1MV19
 -->
