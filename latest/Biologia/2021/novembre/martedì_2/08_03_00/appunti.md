@@ -1,5 +1,5 @@
-#  Lezione di Matematica (1° ora)
-## Venerdì 29 ottobre 2021, 08:14:00
+#  Lezione di Biologia (1° ora)
+## Martedì 2 novembre 2021, 08:14:00
 ## In laboratorio
 
 Analisi 
@@ -46,8 +46,8 @@ quindi scriviamo  sulla capsula petri
 caldo ma non tanto  da bruciare
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTY0ODQ5LC03MjYyMjkwMDUsLTI3NT
-Q5NzIxMSwtMTk1NTE0MTE0MywzMTMxNjc0ODMsLTI2Mjg2NDAx
-NSwtOTgyMTAzMTU1LC0xNzcxMDcyMjczLDIxNDQ3ODEyNTFdfQ
-==
+eyJoaXN0b3J5IjpbLTkxMjAxNTM0LDEwMDU2NDg0OSwtNzI2Mj
+I5MDA1LC0yNzU0OTcyMTEsLTE5NTUxNDExNDMsMzEzMTY3NDgz
+LC0yNjI4NjQwMTUsLTk4MjEwMzE1NSwtMTc3MTA3MjI3MywyMT
+Q0NzgxMjUxXX0=
 -->
