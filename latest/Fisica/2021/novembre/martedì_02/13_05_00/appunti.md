@@ -85,13 +85,16 @@ Ampère definito attraverso al magnetismo
 
 $1A$
 
-		1|			|1A
-			|			|
-			|			|
-			|			|
+		 1A |			|1A
+			|	 1m   	|
+			|-----------|
+			| 2*10^-7 N	|
 			|			|
 		 filo 1       filo 2
+
+
+Dal 2018 diversi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTU5OTUzNiwtNDA4MDA3OTA5LDEyMz
+eyJoaXN0b3J5IjpbMTYwOTk3ODk4NSwtNDA4MDA3OTA5LDEyMz
 YxMzg0MzFdfQ==
 -->
