@@ -13,7 +13,11 @@ Wordsworth's vision of poetry is evident in the poem "Daffodils" in which he des
 
  In front of my eyes it was lying a barren landscape, yet a bit farther you could see a forest with treesand some buildings on the line of the horizon, which was blurerd by mist and fog.
 
-I was unsettled by the height of the rock I was standing on and the distance i could peer, the contrast of the two landscapes, too, gave me a pecula
+I was unsettled by the height of the rock I was standing on and the distance i could peer, the contrast of the two landscapes, too, gave me a peculiar sensation.
+
+At that very moment I tried to speak and I heard my voice not echoed backm but rather muted and low, in compratison to what I expected.
+
+That moment stayed in my mind
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDkxNDU4ODZdfQ==
+eyJoaXN0b3J5IjpbLTExOTcwMTYxODNdfQ==
 -->
