@@ -43,7 +43,9 @@ quindi scriviamo  sulla capsula petri
 - [x] x2 YEAST 1:10 Distributore automatico 5E
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzMTY3NDgzLC0yNjI4NjQwMTUsLTk4Mj
-EwMzE1NSwtMTc3MTA3MjI3MywyMTQ0NzgxMjUxXX0=
+eyJoaXN0b3J5IjpbLTE5NTUxNDExNDMsMzEzMTY3NDgzLC0yNj
+I4NjQwMTUsLTk4MjEwMzE1NSwtMTc3MTA3MjI3MywyMTQ0Nzgx
+MjUxXX0=
 -->
