@@ -48,9 +48,16 @@ $$
 
 
 $$
-F_m=
+\vec F_m = K_m =\frac{I_1l_1I_2l_2}{\vec d^2}
+$$
+
+legge con $I_2=d$
+
+
+$$
+\vec F_m=K_m\fra{I_1l_
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExODg1MzkzLC00MDgwMDc5MDksMTIzNj
-EzODQzMV19
+eyJoaXN0b3J5IjpbLTI1MjQ1MTExNiwtNDA4MDA3OTA5LDEyMz
+YxMzg0MzFdfQ==
 -->
