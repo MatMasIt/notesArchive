@@ -43,6 +43,8 @@ $$
 $$
 \vec E= \frac{\vec{F_e}}{q_2} \quad in \space \frac{N}{C}\space o \space \frac{V}{m}
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjEzODQzMV19
+eyJoaXN0b3J5IjpbLTQwODAwNzkwOSwxMjM2MTM4NDMxXX0=
 -->
