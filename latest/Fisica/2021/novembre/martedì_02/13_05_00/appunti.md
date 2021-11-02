@@ -29,8 +29,12 @@ k=8,99\cdot 10^9\frac{Nm^2}{C^2}
 $$
 
 $$
-k=\frac{1}{4\pi\epsilon
+k=\frac{1}{4\pi\epsilon_0} \quad \text{o}\quad \frac1{4\pi\epsilon_r}
+$$
+
+$$
+\epsilon_0=8,8\cdot 10^{-12}\frac{C^2}{Nm^2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTY3Mzk1OV19
+eyJoaXN0b3J5IjpbLTEyNjA4OTQyMDNdfQ==
 -->
