@@ -43,10 +43,11 @@ quindi scriviamo  sulla capsula petri
 - [x] x2 YEAST 1:10 Distributore automatico 5E
 
 
-caldo ma non tant o da bruciare
+caldo ma non tanto  da bruciare
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjIyOTAwNSwtMjc1NDk3MjExLC0xOT
-U1MTQxMTQzLDMxMzE2NzQ4MywtMjYyODY0MDE1LC05ODIxMDMx
-NTUsLTE3NzEwNzIyNzMsMjE0NDc4MTI1MV19
+eyJoaXN0b3J5IjpbMTAwNTY0ODQ5LC03MjYyMjkwMDUsLTI3NT
+Q5NzIxMSwtMTk1NTE0MTE0MywzMTMxNjc0ODMsLTI2Mjg2NDAx
+NSwtOTgyMTAzMTU1LC0xNzcxMDcyMjczLDIxNDQ3ODEyNTFdfQ
+==
 -->
