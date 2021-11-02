@@ -44,7 +44,13 @@ $$
 \vec E= \frac{\vec{F_e}}{q_2} \quad in \space \frac{N}{C}\space o \space \frac{V}{m}
 $$
 
+## Caso magnetico
 
+
+$$
+F_m=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODAwNzkwOSwxMjM2MTM4NDMxXX0=
+eyJoaXN0b3J5IjpbNTExODg1MzkzLC00MDgwMDc5MDksMTIzNj
+EzODQzMV19
 -->
