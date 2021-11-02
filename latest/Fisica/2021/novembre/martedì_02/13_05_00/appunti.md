@@ -61,7 +61,15 @@ $$
 $$
 K_m=2\cdot 10^{-7}\frac{N}{A^2}
 $$
+
+$$
+\vec B = \frac{\vec F}{I_2l_2}=k_m\frac{I_2\cancel d}{\cancel d} \implies
+$$
+
+$$
+\vec B = \frac{\mu_0}{2\pi}\frac{I_1}{d}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTc1NTYwNywtNDA4MDA3OTA5LDEyMz
-YxMzg0MzFdfQ==
+eyJoaXN0b3J5IjpbODk2MjYzNTgsLTQwODAwNzkwOSwxMjM2MT
+M4NDMxXX0=
 -->
