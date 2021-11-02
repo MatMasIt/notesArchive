@@ -24,6 +24,9 @@ provetta monouso
 
 
 pipetta, mettiamo soluzione salina
+
+1 cc in 4
+10 cc nelle altre 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODQ0NTgwNSwyMTQ0NzgxMjUxXX0=
+eyJoaXN0b3J5IjpbMTA2MTA4NTEwMiwyMTQ0NzgxMjUxXX0=
 -->
