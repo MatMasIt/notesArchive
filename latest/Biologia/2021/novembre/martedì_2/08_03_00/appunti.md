@@ -27,6 +27,10 @@ pipetta, mettiamo soluzione salina
 
 1 cc in 4
 10 cc nelle altre 2
+
+capsule petri sterile
+
+segnare sulla parte bassa cosa viene seminato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTA4NTEwMiwyMTQ0NzgxMjUxXX0=
+eyJoaXN0b3J5IjpbMTg3OTk4Nzk2NiwyMTQ0NzgxMjUxXX0=
 -->
