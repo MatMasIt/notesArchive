@@ -21,6 +21,9 @@ inserire soluzione salina $HCl$ $0,9\%$
 $1cc$ di soluzione fisiologica
 
 provetta monouso
+
+
+pipetta, mettiamo soluzione salina
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTE4NDc2NCwyMTQ0NzgxMjUxXX0=
+eyJoaXN0b3J5IjpbLTg2ODQ0NTgwNSwyMTQ0NzgxMjUxXX0=
 -->
