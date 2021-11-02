@@ -41,8 +41,8 @@ $$
 ### campo 
 
 $$
-\ve E= \frac{\vec{F_e}}{q_2}
+\vec E= \frac{\vec{F_e}}{q_2} \quad in \space \frac{N}{C}\space o \space \frac{V}{m}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTk0NTM2NDBdfQ==
+eyJoaXN0b3J5IjpbNTUwOTMxNDM2XX0=
 -->
