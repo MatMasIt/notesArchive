@@ -52,6 +52,10 @@ stelle quasi non ci vedono
 
 
 Terra: granello di sabbia
+
+Eruzione del vesuvio di popei, lava
+
+natura non si cura dell'uomo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE4MTQ3Nl19
+eyJoaXN0b3J5IjpbLTIxMTAzOTA2MzhdfQ==
 -->
