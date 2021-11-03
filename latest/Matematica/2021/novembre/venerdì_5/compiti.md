@@ -62,9 +62,10 @@ $$
 |Coseno|$f(x)=\cos(x)$|$\R$||
 |Arcocoseno|$f(x)=\arccos(x)$|$\R$||
 |Tangente|$f(x)=\tan(x)$|$\R$||
+|Arcotangente|$f(x)=\arctan(x)$|$\R$||
 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxOTk3NDQ4LDU3MzY0MjU1NiwtMTc2Mz
-g2MzQzOSwtMTU5ODcxNzQ1MCwtMTkzMzA2NTg3OSw1MTg0MDUy
-NjcsODQ3NjQ4OTk0LDcyNjUxMzcyOSwxNDA1NjcxNjk1XX0=
+eyJoaXN0b3J5IjpbLTY5OTYwMTczNyw1NzM2NDI1NTYsLTE3Nj
+M4NjM0MzksLTE1OTg3MTc0NTAsLTE5MzMwNjU4NzksNTE4NDA1
+MjY3LDg0NzY0ODk5NCw3MjY1MTM3MjksMTQwNTY3MTY5NV19
 -->
