@@ -137,11 +137,16 @@ pentano
 non si scrivono atomi di carbonio
 
 
-					/\
-			       /  \
-			      /    \
-			      \    /
-			        ---
+
+
+
+
+
+![](https://i.imgur.com/QgwTHSJ.jpg)
+
+
+
+1,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODkzNjk1MF19
+eyJoaXN0b3J5IjpbMjE0MzI0MTI4MV19
 -->
