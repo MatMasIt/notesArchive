@@ -46,11 +46,12 @@ $$
 
 ## Funzioni elementari
 
-|Nome|Formula|Dominio|Immagine|
+|Nome|Formula|Dominio|Grafico|
 |---|---|---|---|
 |Costante|$f(x)=k$|$\R$||
-|Polinomiale di 1ç|$f(x)=ax+by+x$
+|Polinomiale di 1° grado|$f(x)=ax+c$|$\R$|
+|Polinomiale di 2° grado|$f(x)=ax^2+bx+c$|$\R$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTczNTkzMDUsNTE4NDA1MjY3LDg0Nz
+eyJoaXN0b3J5IjpbLTE5MzMwNjU4NzksNTE4NDA1MjY3LDg0Nz
 Y0ODk5NCw3MjY1MTM3MjksMTQwNTY3MTY5NV19
 -->
