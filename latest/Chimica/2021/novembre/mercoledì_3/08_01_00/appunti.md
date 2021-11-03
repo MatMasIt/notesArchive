@@ -79,7 +79,10 @@ gruppo funzionale; doppio legame
 
 pent: 5 atomi di carbonio
 
-			C C
+			C C C C C 
+			1 2 3 4 5 
+	
+2,pentene;  il secondo carbonio è interessato dal doppio legame
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjMxNDg1MF19
+eyJoaXN0b3J5IjpbMzU5MDUyMzYzXX0=
 -->
