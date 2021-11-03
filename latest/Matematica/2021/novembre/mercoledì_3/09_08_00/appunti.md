@@ -176,7 +176,11 @@ $-\frac{\pi}{4}=k\pi\quad x=\frac{\pi}{4}+k\pi$
 ---
 A.
 $y=\arcsin \sin x$
+$y=\sin \arcsin x$
+$y=\cos \asrcsin x$
+Fare il dominio
 
+Disegnare tutte le funzioni che conosciamo e fare 
  ---
 p. 53 es 527 limiti e continuità
 
@@ -232,6 +236,7 @@ $y=\log_2|x|$
 $y=-\log_2|x|$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjUxNDc3LC0yMDgyOTk4Mzg4LC03Mj
-Q1NTM5OTgsMjEzNjg5Njk3MSwtMTU3ODY1ODAzOV19
+eyJoaXN0b3J5IjpbODU3NDgyMzkwLC01ODI1MTQ3NywtMjA4Mj
+k5ODM4OCwtNzI0NTUzOTk4LDIxMzY4OTY5NzEsLTE1Nzg2NTgw
+MzldfQ==
 -->
