@@ -66,6 +66,9 @@ propene
 Radicale: $propenil-$
 
 nome ritenuto: $allile$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Njc3MzY2XX0=
+eyJoaXN0b3J5IjpbLTg2ODE3OTUyMF19
 -->
