@@ -152,8 +152,9 @@ t \leq -\sqrt 3\lor t \geq \sqrt 3
 $$
 
 $$
-
+\tan x \leq -\sqrt 3\lor \tan x \geq \sqrt 3
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTc5MTQzMSwyMTM2ODk2OTcxLC0xNT
+eyJoaXN0b3J5IjpbLTcyNDU1Mzk5OCwyMTM2ODk2OTcxLC0xNT
 c4NjU4MDM5XX0=
 -->
