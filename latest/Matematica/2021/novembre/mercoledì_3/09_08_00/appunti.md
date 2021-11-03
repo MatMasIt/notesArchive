@@ -124,8 +124,36 @@ $$
 
 $$B$$
 
-$tan^2-3 
+$$
+\tan^2-3 \leq 0
+$$
+
+$$
+\tan x = t
+$$
+
+
+$$
+t^2-3 \geq 0
+$$
+
+$$
+t^2=3
+$$
+
+$$
+t=\pm \sqrt 3
+$$
+
+
+
+$$
+t \leq -\sqrt 3\lor t \geq \sqrt 3
+$$
+
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY1MjQwNzYsMjEzNjg5Njk3MSwtMT
-U3ODY1ODAzOV19
+eyJoaXN0b3J5IjpbMTExNTc5MTQzMSwyMTM2ODk2OTcxLC0xNT
+c4NjU4MDM5XX0=
 -->
