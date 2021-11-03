@@ -178,6 +178,7 @@ A.
 $y=\arcsin \sin x$
 
  ---
+p. 53 es 527 limiti e continuità
 
 Considera $y=f(x)=\log_2\frac{4}{x^2}+\log_2\frac{2}{x^2}$
 $a)$ Determina il dominio $D$
@@ -204,10 +205,11 @@ D=(-\infin,0)\cup(0,+\infin)
 $$
 
 $b)$
+Log quoziente è la differenza dei logaritmi
 
 
-
+$y=\log
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzE4MzE3NywtNzI0NTUzOTk4LDIxMz
+eyJoaXN0b3J5IjpbLTQ1NDE5NzU0OCwtNzI0NTUzOTk4LDIxMz
 Y4OTY5NzEsLTE1Nzg2NTgwMzldfQ==
 -->
