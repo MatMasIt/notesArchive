@@ -175,8 +175,10 @@ $-\frac{\pi}{4}=k\pi\quad x=\frac{\pi}{4}+k\pi$
 
 ---
 
-
+Considera $y=f(x)=\log_2\frac{4}{x^2}+\log_2\frac{2}{x^2}$
+a) Determina il dominio $D$
+b) traccia gr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTE5MjU3NywtNzI0NTUzOTk4LDIxMz
-Y4OTY5NzEsLTE1Nzg2NTgwMzldfQ==
+eyJoaXN0b3J5IjpbLTIwNzY3NDcyOTIsLTcyNDU1Mzk5OCwyMT
+M2ODk2OTcxLC0xNTc4NjU4MDM5XX0=
 -->
