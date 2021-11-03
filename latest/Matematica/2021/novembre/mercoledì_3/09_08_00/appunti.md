@@ -114,9 +114,18 @@ $$
 $$
 
 $$
-2k\pi < x-\frac{\pi}[4}
+2k\pi < x-\frac{\pi}{4} < \pi + 2l\pi
 $$
+
+$$
+\frac{\pi}{4}+2k\pi < x < \frac54\pi+2k\pi
+$$
+
+
+$$B$$
+
+$tan^2-3 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjI4OTMwMywyMTM2ODk2OTcxLC0xNT
-c4NjU4MDM5XX0=
+eyJoaXN0b3J5IjpbLTEwOTY1MjQwNzYsMjEzNjg5Njk3MSwtMT
+U3ODY1ODAzOV19
 -->
