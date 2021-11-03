@@ -211,9 +211,9 @@ $$
 y=\log_2\frac{4}{x^2}\frac{2}{x^2}=\log_22^3-\log_2x^4
 $$
 $$
-y=3-
+y=-4\log_2|x|+3
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzg4NzEyNiwtNzI0NTUzOTk4LDIxMz
-Y4OTY5NzEsLTE1Nzg2NTgwMzldfQ==
+eyJoaXN0b3J5IjpbLTIwODI5OTgzODgsLTcyNDU1Mzk5OCwyMT
+M2ODk2OTcxLC0xNTc4NjU4MDM5XX0=
 -->
