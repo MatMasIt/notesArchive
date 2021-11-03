@@ -25,6 +25,8 @@ Miti consolatori laici del progresso
 Esortazione collettiva ala fine
 
 Allegoria del malato
+
+Uomo che accetta la sua Condizione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDE0ODAyMl19
+eyJoaXN0b3J5IjpbNDQzMzQ1NjkzXX0=
 -->
