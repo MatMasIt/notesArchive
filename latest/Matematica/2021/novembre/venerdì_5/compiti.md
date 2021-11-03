@@ -55,9 +55,9 @@ $$
 |Radice pari|$f(x)=\sqrt[2n]{x}$|$[0,+\infin)$||
 |Funzione cubica|$f(x)=x^3$|$\R$||
 |Radice cubica|$f(x)=\sqrt[3]x$|$\R$||
-|Esponenziale|$f(x)=$
+|Esponenziale|$f(x)=a^b$|$b>0<br /> \exists a, \exists b$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODk5NTQ0MTIsLTE1OTg3MTc0NTAsLT
+eyJoaXN0b3J5IjpbLTEwMDYzNzI2MjEsLTE1OTg3MTc0NTAsLT
 E5MzMwNjU4NzksNTE4NDA1MjY3LDg0NzY0ODk5NCw3MjY1MTM3
 MjksMTQwNTY3MTY5NV19
 -->
