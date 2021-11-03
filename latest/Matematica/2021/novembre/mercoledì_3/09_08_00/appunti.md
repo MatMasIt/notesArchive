@@ -101,10 +101,22 @@ $$
 $$
 \begin{equation*} \begin{cases} 
 \cos \phi = \frac1{\sqrt{2}}\\
-\sin \phi =
+\sin \phi -\frac{1}{\sqrt{2}}
 \end{cases} \end{equation*}
 $$
+
+$$
+\tan \phi =-1 \implies \phi = -\frac{\pi}{4}
+$$
+
+$$
+\sqrt 2 \sin\left(x-\frac{\pi}{4}\right)> 0
+$$
+
+$$
+2k\pi < x-\frac{\pi}[4}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTE3NjAzOCwyMTM2ODk2OTcxLC0xNT
+eyJoaXN0b3J5IjpbMTUwMjI4OTMwMywyMTM2ODk2OTcxLC0xNT
 c4NjU4MDM5XX0=
 -->
