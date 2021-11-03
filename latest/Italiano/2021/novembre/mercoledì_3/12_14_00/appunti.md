@@ -30,6 +30,8 @@ Uomo che accetta la sua Condizione
 
 
 uomo che non da la colpa ad altri uomini ma riconosce il male della natura
+
+Appello solidarietà, social catena dell'umana compagnia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjE5NzkwMV19
+eyJoaXN0b3J5IjpbMTk5MzA0OTc3Nl19
 -->
