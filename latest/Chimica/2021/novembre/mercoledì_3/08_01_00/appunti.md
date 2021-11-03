@@ -144,9 +144,9 @@ non si scrivono atomi di carbonio
 
 ![](https://i.imgur.com/QgwTHSJ.jpg)
 
+---
 
-
-1,
+1,4cicloesadiene
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzI0MTI4MV19
+eyJoaXN0b3J5IjpbLTExNjI4NzY0ODhdfQ==
 -->
