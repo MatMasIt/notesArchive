@@ -56,9 +56,9 @@ $$
 |Funzione cubica|$f(x)=x^3$|$\R$||
 |Radice cubica|$f(x)=\sqrt[3]x$|$\R$||
 |Esponenziale|$f(x)=a^x$|$b>0 \land \exists a$||
-|Logaritmo|$f(x)=$
+|Logaritmo|$f(x)=,$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU2ODk5MzMsLTE1OTg3MTc0NTAsLT
+eyJoaXN0b3J5IjpbLTE4ODE4MTU5NjMsLTE1OTg3MTc0NTAsLT
 E5MzMwNjU4NzksNTE4NDA1MjY3LDg0NzY0ODk5NCw3MjY1MTM3
 MjksMTQwNTY3MTY5NV19
 -->
