@@ -69,7 +69,7 @@ $$
 y=0^{\sqrt{25-16}}=0^3=0
 $$
 
-Per esempio $0^{-3}=\frac1{0^3}=\frac10$, che non è calco
+Per esempio $0^{-3}=\frac1{0^3}=\frac10$, che non è calcolabile
 
 ---
 
@@ -77,6 +77,7 @@ $$
 \Large-5 \leq x \leq -1 \lor 4 \leq x \leq 5
 $$
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0OTk1Njg4LC0xNTc4NjU4MDM5XX0=
+eyJoaXN0b3J5IjpbMjEzNjg5Njk3MSwtMTU3ODY1ODAzOV19
 -->
