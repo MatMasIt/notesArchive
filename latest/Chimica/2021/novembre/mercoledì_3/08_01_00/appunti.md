@@ -131,7 +131,17 @@ Idrogeni
 			     Cl
 
 --- 
-ciclopente
+ciclo**pentene**
+pentano
+
+non si scrivono atomi di carbonio
+
+
+					/\
+			       /  \
+			      /    \
+			      \    /
+			        ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjA5NTE1M119
+eyJoaXN0b3J5IjpbLTYyODkzNjk1MF19
 -->
