@@ -96,13 +96,19 @@ metil: met-ano
 
 carbonio (massimo 4 legami)
 
-			C-C-=C-C-C 
-			1 |  3 | 5 
+			C-C=C-C-C 
+			1 | 3 | 5 
 	         CH3  CH3
 
 due volte metile in 2 e 4
 
 
+Aggiungo idrogeni
+
+			  H3C-C=CH-CH-CH3 
+			    1 | 3   |  5 
+	            CH3     CH3
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDEyMjU4NDRdfQ==
+eyJoaXN0b3J5IjpbMzY3MDcwMjMxXX0=
 -->
