@@ -15,6 +15,11 @@ Citazione da Inni sacri
 
 Apostrofe al 19esimo secolo, superbo e sciocco
 Critica al pernsiero progressista e spiritualista, che avrebbe ripudiato la stagione illuministica
+
+Pensiero servo della politica, religione, etc
+
+
+Miti consolatori laici del progresso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzE4OTM5MV19
+eyJoaXN0b3J5IjpbOTgzMDM2NjI3XX0=
 -->
