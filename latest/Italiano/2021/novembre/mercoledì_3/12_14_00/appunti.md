@@ -64,7 +64,8 @@ Ginestra muore dignitosamente
 Ginestra non presuntuosa
 
 Si abbandona al destino
+
+Social catena
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk4ODI3MDgsLTIxMTAzOTA2MzhdfQ
-==
+eyJoaXN0b3J5IjpbNzY1MjQ3NDE1LC0yMTEwMzkwNjM4XX0=
 -->
