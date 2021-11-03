@@ -2,7 +2,6 @@
 ## Mercoledì 3 novembre 2021, 09:08:00
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg2NTgwMzldfQ==
+eyJoaXN0b3J5IjpbMjc1MjYwNDMsLTE1Nzg2NTgwMzldfQ==
 -->
