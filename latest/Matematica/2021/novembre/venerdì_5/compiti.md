@@ -55,10 +55,11 @@ $$
 |Radice pari|$f(x)=\sqrt[2n]{x}$|$[0,+\infin)$||
 |Funzione cubica|$f(x)=x^3$|$\R$||
 |Radice cubica|$f(x)=\sqrt[3]x$|$\R$||
-|Esponenziale|$f(x)=a^x$|$b>0 \land \exists a$||
-|Logaritmo|$f(x)=,$
+|Esponenziale|$f(x)=a^x$|$a>0 \land \exists a$||
+|Logaritmo|$f(x)=\log_ax$|$a>0, a \neq 1$||
+|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE4MTU5NjMsLTE1OTg3MTc0NTAsLT
+eyJoaXN0b3J5IjpbLTE3NjM4NjM0MzksLTE1OTg3MTc0NTAsLT
 E5MzMwNjU4NzksNTE4NDA1MjY3LDg0NzY0ODk5NCw3MjY1MTM3
 MjksMTQwNTY3MTY5NV19
 -->
