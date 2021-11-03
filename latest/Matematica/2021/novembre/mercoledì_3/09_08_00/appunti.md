@@ -245,10 +245,17 @@ $y=-1 \quad y=1$
 
 $$
 f(x)=-1\\
+f(x)=1
+$$
 
 $$
+\begin{equation*} \begin{cases} 
+y=-4\log_2|x|+3\\
+y=1
+ \end{cases} \end{equation*}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkxNzYzNTYsLTk2OTU5MTU5MiwtNT
-gyNTE0NzcsLTIwODI5OTgzODgsLTcyNDU1Mzk5OCwyMTM2ODk2
-OTcxLC0xNTc4NjU4MDM5XX0=
+eyJoaXN0b3J5IjpbNzcxNjQ0OTMyLC05Njk1OTE1OTIsLTU4Mj
+UxNDc3LC0yMDgyOTk4Mzg4LC03MjQ1NTM5OTgsMjEzNjg5Njk3
+MSwtMTU3ODY1ODAzOV19
 -->
