@@ -54,10 +54,11 @@ $$
 |Frazonaria|$f(x)=\frac1x$|$\R-\{0\}$||
 |Radice quadrata|$f(x)=\sqrt{x}$|$[0,+\infin)$||
 |Funzione cubica|$f(x)=x^3$|$\R$||
-|Radice cubica|$f(x)=\sqrt[3]
+|Radice cubica|$f(x)=\sqrt[3]x$|$\R$||
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDY2ODk5LC0xOTMzMDY1ODc5LDUxOD
-QwNTI2Nyw4NDc2NDg5OTQsNzI2NTEzNzI5LDE0MDU2NzE2OTVd
-fQ==
+eyJoaXN0b3J5IjpbLTE5Njg2MTk1MzEsLTE5MzMwNjU4NzksNT
+E4NDA1MjY3LDg0NzY0ODk5NCw3MjY1MTM3MjksMTQwNTY3MTY5
+NV19
 -->
