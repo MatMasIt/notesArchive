@@ -27,6 +27,9 @@ Esortazione collettiva ala fine
 Allegoria del malato
 
 Uomo che accetta la sua Condizione
+
+
+uomo che non da la colpa ad altri uomini ma riconosce il male della natura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzMzQ1NjkzXX0=
+eyJoaXN0b3J5IjpbLTIyMjE5NzkwMV19
 -->
