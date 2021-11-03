@@ -1,5 +1,5 @@
 # Compiti
-Dominio di 
+## Dominio di ...
 
 $a) \quad y=\arcsin \sin x$
 $b) \quad y=\sin \arcsin x$
@@ -42,7 +42,10 @@ $$Immagine_{\arcsin} \subset D_{\sin}$$
 $$
 D: \forall x \in \R
 $$
+
+
+## Funzioni elementari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDgwNjE2Niw3MjY1MTM3MjksMTQwNT
-Y3MTY5NV19
+eyJoaXN0b3J5IjpbODQ3NjQ4OTk0LDcyNjUxMzcyOSwxNDA1Nj
+cxNjk1XX0=
 -->
