@@ -77,7 +77,21 @@ $$
 \Large-5 \leq x \leq -1 \lor 4 \leq x \leq 5
 $$
 
+---
 
+
+$$
+y=(\sin x -\cos x)^{\sqrt{tan^2x-3}}
+$$
+
+
+$$
+\begin{equation*} \begin{cases} 
+A)\quad \sin x -\cos x > 0\\
+
+ \end{cases} \end{equation*}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjg5Njk3MSwtMTU3ODY1ODAzOV19
+eyJoaXN0b3J5IjpbMTc3NTg4ODk3MywyMTM2ODk2OTcxLC0xNT
+c4NjU4MDM5XX0=
 -->
