@@ -106,9 +106,14 @@ due volte metile in 2 e 4
 Aggiungo idrogeni
 
 			  H3C-C=CH-CH-CH3 
-			    1 | 3   |  5 
-	            CH3     CH3
+			    1 |  3  |  5 
+	             CH3    CH3
+---
 
+2-cloro-1,3-butadiene
+
+but: 4
+d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3MDcwMjMxXX0=
+eyJoaXN0b3J5IjpbMTE5ODM0MDM3MF19
 -->
