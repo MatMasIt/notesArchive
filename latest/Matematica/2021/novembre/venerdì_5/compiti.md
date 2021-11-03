@@ -48,7 +48,7 @@ $$
 
 |Nome|Formula<br />$f(x)$|Dominio<br />$D$|Grafico|
 |---|---|---|---|
-|Costante|$f(x)=k$|$\R$||
+|Costante|$f(x)=k$|$\R$|![](https://i.imgur.com/dRTeOpr.png)|
 |Polinomiale di 1° grado|$f(x)=ax+c$|$\R$|
 |Polinomiale di 2° grado|$f(x)=ax^2+bx+c$|$\R$|
 |Frazionaria|$f(x)=\frac1x$|$\R-\{0\}$||
@@ -65,7 +65,8 @@ $$
 |Arcotangente|$f(x)=\arctan(x)$|$\R$||
 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTYwMTczNyw1NzM2NDI1NTYsLTE3Nj
-M4NjM0MzksLTE1OTg3MTc0NTAsLTE5MzMwNjU4NzksNTE4NDA1
-MjY3LDg0NzY0ODk5NCw3MjY1MTM3MjksMTQwNTY3MTY5NV19
+eyJoaXN0b3J5IjpbLTE5NjcxMDY4NDAsLTY5OTYwMTczNyw1Nz
+M2NDI1NTYsLTE3NjM4NjM0MzksLTE1OTg3MTc0NTAsLTE5MzMw
+NjU4NzksNTE4NDA1MjY3LDg0NzY0ODk5NCw3MjY1MTM3MjksMT
+QwNTY3MTY5NV19
 -->
