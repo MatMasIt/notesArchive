@@ -6,7 +6,10 @@ La ginestra
 strofe 1, 3, 7
 
 
+p. 105
 v.14 
+
+La profumata ginestra, confronto on il passato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Nzc0NzQ5OF19
+eyJoaXN0b3J5IjpbMTE1NTM2NTkzMl19
 -->
