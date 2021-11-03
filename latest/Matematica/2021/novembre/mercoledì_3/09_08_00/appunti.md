@@ -237,8 +237,12 @@ $y=log_2x$
 $y=\log_2|x|$
 $y=-\log_2|x|$
 
+---
+
+$-1\leq f(x) \leq 1$
+$y=-1 \quad y=1$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTU5MTU5MiwtNTgyNTE0NzcsLTIwOD
-I5OTgzODgsLTcyNDU1Mzk5OCwyMTM2ODk2OTcxLC0xNTc4NjU4
-MDM5XX0=
+eyJoaXN0b3J5IjpbLTE1OTE2MjcxNjMsLTk2OTU5MTU5MiwtNT
+gyNTE0NzcsLTIwODI5OTgzODgsLTcyNDU1Mzk5OCwyMTM2ODk2
+OTcxLC0xNTc4NjU4MDM5XX0=
 -->
