@@ -42,17 +42,16 @@ $$
 
 
 
-                -5     -1     4     5
-			------------------------------
-	 A    -------|-------@    O-----|---------
-	 B           @-------|----|-------@
+                -5      -1    4     5
+			-------------|----|-------|--
+	 A    -------|#######@    O#######|---------
+	 B           @#######|----|#######@
 
 
 
 $$
-X?2
+-5 \leq x \leq -1 \lor 4 \leq x \leq 5
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY1OTYxODcsLTE1Nzg2NTgwMzldfQ
-==
+eyJoaXN0b3J5IjpbNTcwOTk4Nzk2LC0xNTc4NjU4MDM5XX0=
 -->
