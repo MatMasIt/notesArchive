@@ -51,7 +51,9 @@ $$
 |Costante|$f(x)=k$|$\R$||
 |Polinomiale di 1° grado|$f(x)=ax+c$|$\R$|
 |Polinomiale di 2° grado|$f(x)=ax^2+bx+c$|$\R$|
+|Polinomiale di 2° grado|$f(x)=ax^2+bx+c$|$\R$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzMwNjU4NzksNTE4NDA1MjY3LDg0Nz
-Y0ODk5NCw3MjY1MTM3MjksMTQwNTY3MTY5NV19
+eyJoaXN0b3J5IjpbLTEyNDQ3NjczNDYsLTE5MzMwNjU4NzksNT
+E4NDA1MjY3LDg0NzY0ODk5NCw3MjY1MTM3MjksMTQwNTY3MTY5
+NV19
 -->
