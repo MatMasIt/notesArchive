@@ -25,6 +25,26 @@ tutti gli alcheni: almeno un doppio legame
 $$
 -C\equiv^{\pi}_{\pi} \delta C- \to sp
 $$
+
+
+---
+
+Radicali
+
+$\cdot CH_3\quad (-ile)$
+
+---
+Etilete
+
+
+et: 2
+
+ene: alchene
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzOTM5NzU0XX0=
+eyJoaXN0b3J5IjpbLTc3ODQzMzc2MF19
 -->
