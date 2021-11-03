@@ -69,10 +69,17 @@ nome ritenuto: $allile$
 
 ---
 
-$\text{2,4-dimetil-2-pentene}$
+$\text{2,4-dimetil-2-\textbf{pentene}}$
 
 Prato dal fondo
 
+$-ene$:  Alchene
+gruppo funzionale; doppio legame
+
+
+pent: 5 atomi di carbonio
+
+			C C
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTMyMzQ5NV19
+eyJoaXN0b3J5IjpbMTM0NjMxNDg1MF19
 -->
