@@ -177,8 +177,10 @@ $-\frac{\pi}{4}=k\pi\quad x=\frac{\pi}{4}+k\pi$
 
 Considera $y=f(x)=\log_2\frac{4}{x^2}+\log_2\frac{2}{x^2}$
 a) Determina il dominio $D$
-b) traccia gr
+b) traccia grafico funzione dopo averla espressanella forma $f(x)=A\log_2|x|+B$, determinando $A$ e $B$
+c) Determina il dominio di $y=\arcsin f(x)$
+d) Giustifica perchè la funione data non è invertibile in $D'$ ma è invertibile nella sua  restrizione per $x > 0$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY3NDcyOTIsLTcyNDU1Mzk5OCwyMT
-M2ODk2OTcxLC0xNTc4NjU4MDM5XX0=
+eyJoaXN0b3J5IjpbLTMxNzc3OTgxNSwtNzI0NTUzOTk4LDIxMz
+Y4OTY5NzEsLTE1Nzg2NTgwMzldfQ==
 -->
