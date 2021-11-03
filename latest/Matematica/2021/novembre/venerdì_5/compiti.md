@@ -49,7 +49,7 @@ $$
 |Nome|Formula<br />$f(x)$|Dominio<br />$D$|Grafico|
 |---|---|---|---|
 |Costante|$f(x)=k$|$\R$|![](https://i.imgur.com/dRTeOpr.png)|
-|Polinomiale di 1° grado|$f(x)=ax+c$|$\R$|
+|Polinomiale di 1° grado|$f(x)=ax+c$|$\R$|![](https://i.imgur.com/R3k8qqj.png)|
 |Polinomiale di 2° grado|$f(x)=ax^2+bx+c$|$\R$|
 |Frazionaria|$f(x)=\frac1x$|$\R-\{0\}$||
 |Radice pari|$f(x)=\sqrt[2n]{x}$|$[0,+\infin)$||
@@ -65,8 +65,8 @@ $$
 |Arcotangente|$f(x)=\arctan(x)$|$\R$||
 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjcxMDY4NDAsLTY5OTYwMTczNyw1Nz
-M2NDI1NTYsLTE3NjM4NjM0MzksLTE1OTg3MTc0NTAsLTE5MzMw
-NjU4NzksNTE4NDA1MjY3LDg0NzY0ODk5NCw3MjY1MTM3MjksMT
-QwNTY3MTY5NV19
+eyJoaXN0b3J5IjpbMzQ3ODE2MTI5LC0xOTY3MTA2ODQwLC02OT
+k2MDE3MzcsNTczNjQyNTU2LC0xNzYzODYzNDM5LC0xNTk4NzE3
+NDUwLC0xOTMzMDY1ODc5LDUxODQwNTI2Nyw4NDc2NDg5OTQsNz
+I2NTEzNzI5LDE0MDU2NzE2OTVdfQ==
 -->
