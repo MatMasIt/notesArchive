@@ -42,7 +42,17 @@ $$
 
 
 
+                -5     -1     4     5
+			------------------------------
+	 A    -------|-------@    O-----|---------
+	 B           @-------|----|-------@
+
+
+
+$$
+X?2
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTMyOTk2ODksLTE1Nzg2NTgwMzldfQ
+eyJoaXN0b3J5IjpbLTExNjY1OTYxODcsLTE1Nzg2NTgwMzldfQ
 ==
 -->
