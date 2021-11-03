@@ -20,6 +20,11 @@ Pensiero servo della politica, religione, etc
 
 
 Miti consolatori laici del progresso
+
+
+Esortazione collettiva ala fine
+
+Allegoria del malato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMDM2NjI3XX0=
+eyJoaXN0b3J5IjpbMTcxMDE0ODAyMl19
 -->
