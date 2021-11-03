@@ -47,9 +47,9 @@ $$
 ## Funzioni elementari
 
 |Nome|Formula|Dominio|Imamgine|
-|--|--|---|
-|Costante|$f(x)$)
+|---|---|---|---|
+|Costante|$f(x)$|  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk0Mjg0MjksODQ3NjQ4OTk0LDcyNj
-UxMzcyOSwxNDA1NjcxNjk1XX0=
+eyJoaXN0b3J5IjpbODE3MjgyNjY5LDg0NzY0ODk5NCw3MjY1MT
+M3MjksMTQwNTY3MTY5NV19
 -->
