@@ -290,8 +290,10 @@ $$
 $$
 y=2^{\frac{3-x}4}, con \space x > 0
 $$
+
+Disegno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODAwMTEwNiwyMTMyOTAxMTY3LC05Nj
+eyJoaXN0b3J5IjpbMTk0MjkwMjE5NywyMTMyOTAxMTY3LC05Nj
 k1OTE1OTIsLTU4MjUxNDc3LC0yMDgyOTk4Mzg4LC03MjQ1NTM5
 OTgsMjEzNjg5Njk3MSwtMTU3ODY1ODAzOV19
 -->
