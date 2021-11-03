@@ -41,10 +41,16 @@ et: 2
 
 ene: alchene
 
+$CnH_{2n}$
+
+		H       H
+		 \     /
+          C = C
+		 /     \
+		H       H
 
 
-
-
+Etene: radicale è $C_2H_e\cdot$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODQzMzc2MF19
+eyJoaXN0b3J5IjpbMTY2MTM3MDE5MV19
 -->
