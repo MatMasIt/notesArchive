@@ -66,6 +66,13 @@ Ginestra non presuntuosa
 Si abbandona al destino
 
 Social catena
+
+
+---
+
+## Il naturalismo Francese
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1MjQ3NDE1LC0yMTEwMzkwNjM4XX0=
+eyJoaXN0b3J5IjpbMjA2Nzk2MDg0MSwtMjExMDM5MDYzOF19
 -->
