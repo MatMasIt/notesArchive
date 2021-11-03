@@ -150,7 +150,20 @@ non si scrivono atomi di carbonio
 
 
 p.50, benzeni
+
+----
+
+Alogeni danno idracidi
+
+$F,Cl,Br,U,At,Ts$
+
+hanno stato ossidativo -1
+
+
+$$
+:\ddot{Cl
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDIzNzAyMzAsMTI4NzMxNTM0LC0xMT
-YyODc2NDg4XX0=
+eyJoaXN0b3J5IjpbMTE0MTUyNTM5NSwxMjg3MzE1MzQsLTExNj
+I4NzY0ODhdfQ==
 -->
