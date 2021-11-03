@@ -84,11 +84,13 @@ _Madame Bovary_ di Flaubert
 
 e 
 
-_Les fleurs du mal_, Baudelatire
+_Les fleurs du mal_, Baudelaire 
 
 
+prime forme di realismo
 
+
+Narratore he si estra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTY4MzkwNzUsLTIxMTAzOTA2MzhdfQ
-==
+eyJoaXN0b3J5IjpbLTg1MzQ3ODc2NiwtMjExMDM5MDYzOF19
 -->
