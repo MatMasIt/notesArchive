@@ -98,7 +98,9 @@ Nuovo Realismo, r maiuscola
 
 
 rigore s
+
+Baudelaire e la censura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkyODcwNzQsNDM2MDUxMDc5LC0yMT
+eyJoaXN0b3J5IjpbLTE3NTY1NzQ2NTksNDM2MDUxMDc5LC0yMT
 EwMzkwNjM4XX0=
 -->
