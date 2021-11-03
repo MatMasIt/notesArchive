@@ -57,9 +57,11 @@ $$
 |Radice cubica|$f(x)=\sqrt[3]x$|$\R$||
 |Esponenziale|$f(x)=a^x$|$a>0 \land \exists a$||
 |Logaritmo|$f(x)=\log_ax$|$a>0, a \neq 1$||
-|
+|Seno|$f(x)=\sin(x)$|$\R$||
+|Arcoseno|$f(x)=\arcsin(x)$|$[-1,1]$||
+|Coseno|$f(x)=\cos(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjM4NjM0MzksLTE1OTg3MTc0NTAsLT
-E5MzMwNjU4NzksNTE4NDA1MjY3LDg0NzY0ODk5NCw3MjY1MTM3
-MjksMTQwNTY3MTY5NV19
+eyJoaXN0b3J5IjpbMzE1MjY0MDIwLC0xNzYzODYzNDM5LC0xNT
+k4NzE3NDUwLC0xOTMzMDY1ODc5LDUxODQwNTI2Nyw4NDc2NDg5
+OTQsNzI2NTEzNzI5LDE0MDU2NzE2OTVdfQ==
 -->
