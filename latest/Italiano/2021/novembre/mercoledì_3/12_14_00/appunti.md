@@ -76,6 +76,19 @@ seconda metà dell'ottocento
 
 
 Naturalismo e simbolismo
+
+
+1857
+
+_Madame Bovary_ di Flaubert
+
+e 
+
+_Les fleurs du mal_, Baudelatire
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwODE3MzYxLC0yMTEwMzkwNjM4XX0=
+eyJoaXN0b3J5IjpbLTE2MTY4MzkwNzUsLTIxMTAzOTA2MzhdfQ
+==
 -->
