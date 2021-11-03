@@ -23,11 +23,26 @@ b)
 $$
 $\sin x: D= \R$
 $\arcsin x:Immagine = [-\frac\pi2,\frac\pi2]$
-$$Immagine_{\arcsin} \$$
+$$Immagine_{\arcsin} \subset D_{\sin}$$
+(sottoinsieme proprio)
+$$
+D: \forall x \in \R
+$$
+
+
+$$
+c)
+$$
+
+
+$\cos x: D= \R$
+$\arcsin x:Immagine = [-\frac\pi2,\frac\pi2]$
+$$Immagine_{\arcsin} \subset D_{\sin}$$
+(sottoinsieme proprio)
 $$
 D: \forall x \in \R
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwMTMyNDI2LDcyNjUxMzcyOSwxNDA1Nj
-cxNjk1XX0=
+eyJoaXN0b3J5IjpbMTg3NDgwNjE2Niw3MjY1MTM3MjksMTQwNT
+Y3MTY5NV19
 -->
