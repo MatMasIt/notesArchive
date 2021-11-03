@@ -161,7 +161,7 @@ $$
 ![](https://i.imgur.com/MmnAQwV.jpg)
 
 $$
-\frac{\pi}{3}+2k\pi \leq x \leq \frac23\pi +2k\pi \lor x=\frac{\pi}2+2k\pi
+\Large \frac{\pi}{3}+2k\pi \leq x \leq \frac23\pi +2k\pi \lor x=\frac{\pi}2+2k\pi
 $$
 
 
@@ -169,9 +169,9 @@ $$
 **Verifica**
 
 $\sin x- \cos x=0$
-
-
+$\sqrt 2 \sin(x-\frac{\pi}4)=0$
+$-\frac{\pi}{4}=k\pi\quad x=\frac{\pi}{4}+k\pi$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA0NTg1OTMsLTcyNDU1Mzk5OCwyMT
-M2ODk2OTcxLC0xNTc4NjU4MDM5XX0=
+eyJoaXN0b3J5IjpbLTQ1OTQzMzM2MSwtNzI0NTUzOTk4LDIxMz
+Y4OTY5NzEsLTE1Nzg2NTgwMzldfQ==
 -->
