@@ -88,10 +88,23 @@ $$
 $$
 \begin{equation*} \begin{cases} 
 A)\quad \sin x -\cos x > 0\\
-
+B)\quad \tan^2x-3 \geq 0
  \end{cases} \end{equation*}
 $$
+
+
+$$A$$
+$$
+A=\sqrt{1+1}=\sqrt 2
+$$
+
+$$
+\begin{equation*} \begin{cases} 
+\cos \phi = \frac1{\sqrt{2}}\\
+\sin \phi =
+\end{cases} \end{equation*}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTg4ODk3MywyMTM2ODk2OTcxLC0xNT
+eyJoaXN0b3J5IjpbLTY1NTE3NjAzOCwyMTM2ODk2OTcxLC0xNT
 c4NjU4MDM5XX0=
 -->
