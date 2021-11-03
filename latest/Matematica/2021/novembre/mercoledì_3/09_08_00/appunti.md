@@ -1,6 +1,8 @@
 #  Lezione di Matematica (2° ora)
 ## Mercoledì 3 novembre 2021, 09:08:00
 
+## Dominio di un esponenziale
+
 $$
 y=(x^2-3x-4)^{\sqrt{25-x^x}}
 $$
@@ -67,6 +69,8 @@ $$
 y=0^{\sqrt{25-16}}=0^3=0
 $$
 
+Per esempio $0^{-3}=\frac1{0^3}=\frac10$, che non è calco
+
 ---
 
 $$
@@ -74,5 +78,5 @@ $$
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjQ4NjAwNywtMTU3ODY1ODAzOV19
+eyJoaXN0b3J5IjpbMzM0OTk1Njg4LC0xNTc4NjU4MDM5XX0=
 -->
