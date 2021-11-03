@@ -59,6 +59,12 @@ natura non si cura dell'uomo
 
 
 Ginestra muore dignitosamente
+
+
+Ginestra non presuntuosa
+
+Si abbandona al destino
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3Njk0NDI2LC0yMTEwMzkwNjM4XX0=
+eyJoaXN0b3J5IjpbLTE4NDk4ODI3MDgsLTIxMTAzOTA2MzhdfQ
+==
 -->
