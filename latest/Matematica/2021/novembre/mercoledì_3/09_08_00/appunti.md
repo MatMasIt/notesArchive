@@ -174,13 +174,15 @@ $-\frac{\pi}{4}=k\pi\quad x=\frac{\pi}{4}+k\pi$
 
 
 ---
-A.
+
+Per venerdì 
+
 $y=\arcsin \sin x$
 $y=\sin \arcsin x$
 $y=\cos \asrcsin x$
 Fare il dominio
 
-Disegnare tutte le funzioni che conosciamo e fare 
+Disegnare tutte le funzioni che conosciamo e fare il loro dominio
  ---
 p. 53 es 527 limiti e continuità
 
@@ -236,7 +238,7 @@ $y=\log_2|x|$
 $y=-\log_2|x|$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3NDgyMzkwLC01ODI1MTQ3NywtMjA4Mj
-k5ODM4OCwtNzI0NTUzOTk4LDIxMzY4OTY5NzEsLTE1Nzg2NTgw
-MzldfQ==
+eyJoaXN0b3J5IjpbLTk2OTU5MTU5MiwtNTgyNTE0NzcsLTIwOD
+I5OTgzODgsLTcyNDU1Mzk5OCwyMTM2ODk2OTcxLC0xNTc4NjU4
+MDM5XX0=
 -->
