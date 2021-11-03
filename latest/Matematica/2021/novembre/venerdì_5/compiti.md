@@ -8,7 +8,7 @@ $c) \quad y=\cos \arcsin x$
 $$
 a)
 $$
-$\arcsin x:D[-1,1]$
+$\arcsin x:D=[-1,1]$
 $\sin x:Immagine = [-1,1]$
 $Immagine_{\sin}=D_{\arcsin}$
 
@@ -21,10 +21,10 @@ $$
 $$
 b)
 $$
-$$\sin x: D[-1,1]$
-$\arcsin x:Immagine = [-1,1]$
+$$\sin x: D= \R$
+$\arcsin x:Immagine = [\pi,1]$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0OTU3MjY2LDcyNjUxMzcyOSwxNDA1Nj
+eyJoaXN0b3J5IjpbLTk3NjY0Mjg0LDcyNjUxMzcyOSwxNDA1Nj
 cxNjk1XX0=
 -->
