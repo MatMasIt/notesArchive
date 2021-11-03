@@ -73,7 +73,9 @@ Social catena
 ## Il naturalismo Francese
 
 seconda metà dell'ottocento
+
+
+Naturalismo e simbolismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE1MjEzNzUsLTIxMTAzOTA2MzhdfQ
-==
+eyJoaXN0b3J5IjpbNzUwODE3MzYxLC0yMTEwMzkwNjM4XX0=
 -->
