@@ -1,8 +1,13 @@
 # Compiti
 Dominio di 
-$y=\arcsin \sin x$
-$y=\sin \arcsin x$
-$y=\cos \arcsin x$
+
+$a) \quad y=\arcsin \sin x$
+$b) \quad y=\sin \arcsin x$
+$c) \quad y=\cos \arcsin x$
+
+$$
+a)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3MTcwODAxXX0=
+eyJoaXN0b3J5IjpbMTQwNTY3MTY5NV19
 -->
