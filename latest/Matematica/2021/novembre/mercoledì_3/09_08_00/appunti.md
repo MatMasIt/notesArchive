@@ -42,16 +42,31 @@ $$
 
 
 
-                -5      -1    4     5
-			-------------|----|-------|--
+                -5      -1    4       5
+			-----|-------|----|-------|--
 	 A    -------|#######@    O#######|---------
 	 B           @#######|----|#######@
 
+
+**Verofica** _sui valori che annullano la base dell'esponenziale_
+
+$$
+x^2-3x-4=0
+$$
+
+
+$$
+x-1\quad x = 4
+$$
+
+$$
+y=0^\sqrt{25-1}=0^\sqrt{
+$$
 
 
 $$
 -5 \leq x \leq -1 \lor 4 \leq x \leq 5
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwOTk4Nzk2LC0xNTc4NjU4MDM5XX0=
+eyJoaXN0b3J5IjpbOTM5ODIzNDM4LC0xNTc4NjU4MDM5XX0=
 -->
