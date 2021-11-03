@@ -1,5 +1,5 @@
 #  Lezione di Chimica (1° ora)
-## Martedì 2 novembre 2021, 13:05:00
+## Mercoledì 3 novembre 2021, 08:03:00
 
 ### Alcheni
 
@@ -13,6 +13,14 @@ legame sigma e $\pi$: regione di sovrapposizione minore
 
 
 tutti gli alcheni: almeno un doppio legame
+
+
+### Alchini
+
+
+$$
+-C\equiv \delta C- \to sp
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTg4OTg3MF19
+eyJoaXN0b3J5IjpbLTU5NDUyMzMzNF19
 -->
