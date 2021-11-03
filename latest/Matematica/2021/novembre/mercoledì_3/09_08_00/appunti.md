@@ -174,13 +174,20 @@ $-\frac{\pi}{4}=k\pi\quad x=\frac{\pi}{4}+k\pi$
 
 
 ---
+A.
+$y=\arcsin \sin x$
+
+ ---
 
 Considera $y=f(x)=\log_2\frac{4}{x^2}+\log_2\frac{2}{x^2}$
-a) Determina il dominio $D$
-b) traccia grafico funzione dopo averla espressanella forma $f(x)=A\log_2|x|+B$, determinando $A$ e $B$
-c) Determina il dominio di $y=\arcsin f(x)$
-d) Giustifica perchè la funione data non è invertibile in $D'$ ma è invertibile nella sua  restrizione per $x > 0$
+$a)$ Determina il dominio $D$
+$b)$ traccia grafico funzione dopo averla espressanella forma $f(x)=A\log_2|x|+B$, determinando $A$ e $B$
+$c)$ Determina il dominio di $y=\arcsin f(x)$
+$d)$ Giustifica perchè la funione data non è invertibile in $D'$ ma è invertibile nella sua  restrizione per $x > 0$, determina l'inversa della restrizione
+
+
+$a)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzc3OTgxNSwtNzI0NTUzOTk4LDIxMz
-Y4OTY5NzEsLTE1Nzg2NTgwMzldfQ==
+eyJoaXN0b3J5IjpbLTIwMjg0NTE1OTEsLTcyNDU1Mzk5OCwyMT
+M2ODk2OTcxLC0xNTc4NjU4MDM5XX0=
 -->
