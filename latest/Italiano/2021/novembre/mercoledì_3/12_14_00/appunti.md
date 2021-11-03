@@ -49,6 +49,9 @@ Stelle molto grandi ma paiono piccole
 stelle quasi non ci vedono
 
 
+
+
+Terra: granello di sabbia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjE4OTU4OV19
+eyJoaXN0b3J5IjpbLTExNDE4MTQ3Nl19
 -->
