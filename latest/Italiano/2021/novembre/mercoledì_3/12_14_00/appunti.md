@@ -72,7 +72,8 @@ Social catena
 
 ## Il naturalismo Francese
 
-
+seconda metà dell'ottocento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Nzk2MDg0MSwtMjExMDM5MDYzOF19
+eyJoaXN0b3J5IjpbLTE2MTE1MjEzNzUsLTIxMTAzOTA2MzhdfQ
+==
 -->
