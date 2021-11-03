@@ -46,15 +46,18 @@ $$
 
 ## Funzioni elementari
 
-|Nome|Formula|Dominio|Grafico|
+|Nome|Formula<br />$f(x)$|Dominio<br />$D$|Grafico|
 |---|---|---|---|
 |Costante|$f(x)=k$|$\R$||
 |Polinomiale di 1° grado|$f(x)=ax+c$|$\R$|
 |Polinomiale di 2° grado|$f(x)=ax^2+bx+c$|$\R$|
-|Frazonaria|$f(x)=\frac1x$|$\R-\{0\}$|
-|Radice quadrata|$f(x)=\sqrt{x}$|$
+|Frazonaria|$f(x)=\frac1x$|$\R-\{0\}$||
+|Radice quadrata|$f(x)=\sqrt{x}$|$[0,+\infin)$||
+|Funzione cubica|$f(x)=x^3$|$\R$||
+|Radice cubica
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjAwMjQwNywtMTkzMzA2NTg3OSw1MT
-g0MDUyNjcsODQ3NjQ4OTk0LDcyNjUxMzcyOSwxNDA1NjcxNjk1
-XX0=
+eyJoaXN0b3J5IjpbOTI1OTAxOTA0LC0xOTMzMDY1ODc5LDUxOD
+QwNTI2Nyw4NDc2NDg5OTQsNzI2NTEzNzI5LDE0MDU2NzE2OTVd
+fQ==
 -->
