@@ -179,7 +179,7 @@ Per venerdì
 
 $y=\arcsin \sin x$
 $y=\sin \arcsin x$
-$y=\cos \asrcsin x$
+$y=\cos \arcsin x$
 Fare il dominio
 
 Disegnare tutte le funzioni che conosciamo e fare il loro dominio
@@ -293,7 +293,8 @@ $$
 
 Disegno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjkwMjE5NywyMTMyOTAxMTY3LC05Nj
-k1OTE1OTIsLTU4MjUxNDc3LC0yMDgyOTk4Mzg4LC03MjQ1NTM5
-OTgsMjEzNjg5Njk3MSwtMTU3ODY1ODAzOV19
+eyJoaXN0b3J5IjpbODU1MTA5MDcyLDE5NDI5MDIxOTcsMjEzMj
+kwMTE2NywtOTY5NTkxNTkyLC01ODI1MTQ3NywtMjA4Mjk5ODM4
+OCwtNzI0NTUzOTk4LDIxMzY4OTY5NzEsLTE1Nzg2NTgwMzldfQ
+==
 -->
