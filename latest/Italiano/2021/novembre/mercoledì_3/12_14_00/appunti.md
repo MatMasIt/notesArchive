@@ -36,6 +36,12 @@ Appello solidarietà, social catena dell'umana compagnia
 Comune guerra contro natura nemica
 
 Hostis: nemico
+
+
+Marginalità dell'uomo
+
+
+v172
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDIzNzg3NV19
+eyJoaXN0b3J5IjpbMTAxMTUxNDEyNV19
 -->
