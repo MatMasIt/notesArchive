@@ -45,7 +45,10 @@ $$
 
 
 ## Funzioni elementari
+
+|Funzione|Dominio|Imamgine|
+|--|--|---|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3NjQ4OTk0LDcyNjUxMzcyOSwxNDA1Nj
-cxNjk1XX0=
+eyJoaXN0b3J5IjpbODEyODkxOTA1LDg0NzY0ODk5NCw3MjY1MT
+M3MjksMTQwNTY3MTY5NV19
 -->
