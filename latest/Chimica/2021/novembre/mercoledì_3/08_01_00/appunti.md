@@ -83,6 +83,22 @@ pent: 5 atomi di carbonio
 			1 2 3 4 5 
 	
 2,pentene;  il secondo carbonio è interessato dal doppio legame
+
+
+			C-C=C-C-C 
+			1 2 3 4 5 
+	
+	
+in posizione 2 e 4 abbiamo un dimetil
+
+
+metil: met-ano
+
+carbonio
+
+			C-C-=C-C-C 
+			1 | 3  | 5 
+	         CH3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MDUyMzYzXX0=
+eyJoaXN0b3J5IjpbMTU2NzA1Njc5OV19
 -->
