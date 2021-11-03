@@ -272,9 +272,13 @@ $$
 
 d) La funzione per $x > 0$ è _strettamente monotona decrescente_
 
+Funzione inversa
 
+$$
+y=4-4\log_2x\to x=3-4\log_2y
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjkwMTE2NywtOTY5NTkxNTkyLC01OD
-I1MTQ3NywtMjA4Mjk5ODM4OCwtNzI0NTUzOTk4LDIxMzY4OTY5
-NzEsLTE1Nzg2NTgwMzldfQ==
+eyJoaXN0b3J5IjpbLTEzMDUwNjAxNTcsMjEzMjkwMTE2NywtOT
+Y5NTkxNTkyLC01ODI1MTQ3NywtMjA4Mjk5ODM4OCwtNzI0NTUz
+OTk4LDIxMzY4OTY5NzEsLTE1Nzg2NTgwMzldfQ==
 -->
