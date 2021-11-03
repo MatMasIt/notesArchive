@@ -17,9 +17,32 @@ A
 $$
 
 $$
-x=\frac{3\pm\sqrt{9+1}}{2}=\frac{3\pm
+x=\frac{3\pm\sqrt{9+1}}{2}=\frac{3\pm5}{2}=4\lor-1
 $$
 
+
+$$
+B
+$$
+
+$$
+-5 \leq x \leq 5
+$$
+
+
+---
+
+$$
+\begin{equation*} \begin{cases} 
+x <  -1 \lor x > 4\\
+-5 \leq x \leq 5
+ \end{cases} \end{equation*}
+$$
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTMyNjE0OSwtMTU3ODY1ODAzOV19
+eyJoaXN0b3J5IjpbLTE5NTMyOTk2ODksLTE1Nzg2NTgwMzldfQ
+==
 -->
