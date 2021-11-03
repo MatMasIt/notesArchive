@@ -32,6 +32,10 @@ Uomo che accetta la sua Condizione
 uomo che non da la colpa ad altri uomini ma riconosce il male della natura
 
 Appello solidarietà, social catena dell'umana compagnia
+
+Comune guerra contro natura nemica
+
+Hostis: nemico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzA0OTc3Nl19
+eyJoaXN0b3J5IjpbMTEyMDIzNzg3NV19
 -->
