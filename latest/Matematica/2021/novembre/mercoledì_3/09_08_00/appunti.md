@@ -1,7 +1,7 @@
 #  Lezione di Matematica (2° ora)
 ## Mercoledì 3 novembre 2021, 09:08:00
 
-## Dominio di un esponenziale
+## Esercizio sul dominio di un esponenziale
 
 $$
 y=(x^2-3x-4)^{\sqrt{25-x^x}}
@@ -158,6 +158,7 @@ $$
 
 ---
 
+
 ![](https://i.imgur.com/MmnAQwV.jpg)
 
 $$
@@ -171,7 +172,11 @@ $$
 $\sin x- \cos x=0$
 $\sqrt 2 \sin(x-\frac{\pi}4)=0$
 $-\frac{\pi}{4}=k\pi\quad x=\frac{\pi}{4}+k\pi$
+
+
+---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTQzMzM2MSwtNzI0NTUzOTk4LDIxMz
+eyJoaXN0b3J5IjpbMTgwNjU2NDU0NSwtNzI0NTUzOTk4LDIxMz
 Y4OTY5NzEsLTE1Nzg2NTgwMzldfQ==
 -->
