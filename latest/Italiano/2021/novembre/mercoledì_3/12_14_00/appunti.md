@@ -96,6 +96,9 @@ Narratore he si astrae dalla narrazione
 Nuovo Realismo, r maiuscola
 
 
+
+rigore s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2MDUxMDc5LC0yMTEwMzkwNjM4XX0=
+eyJoaXN0b3J5IjpbLTEzNjkyODcwNzQsNDM2MDUxMDc5LC0yMT
+EwMzkwNjM4XX0=
 -->
