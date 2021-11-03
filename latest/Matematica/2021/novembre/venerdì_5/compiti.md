@@ -50,8 +50,8 @@ $$
 |---|---|---|---|
 |Costante|$f(x)=k$|$\R$|![](https://i.imgur.com/dRTeOpr.png)|
 |Polinomiale di 1° grado|$f(x)=ax+c$|$\R$|![](https://i.imgur.com/R3k8qqj.png)|
-|Polinomiale di 2° grado|$f(x)=ax^2+bx+c$|$\R$|
-|Frazionaria|$f(x)=\frac1x$|$\R-\{0\}$||
+|Polinomiale di 2° grado|$f(x)=ax^2+bx+c$|$\R$|![](https://i.imgur.com/7RBzSX0.png)|
+|Frazionaria|$f(x)=\frac1x$|$\R-\{0\}$|![](https://i.imgur.com/jPrSavx.png)|
 |Radice pari|$f(x)=\sqrt[2n]{x}$|$[0,+\infin)$||
 |Funzione cubica|$f(x)=x^3$|$\R$||
 |Radice cubica|$f(x)=\sqrt[3]x$|$\R$||
@@ -65,8 +65,8 @@ $$
 |Arcotangente|$f(x)=\arctan(x)$|$\R$||
 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3ODE2MTI5LC0xOTY3MTA2ODQwLC02OT
-k2MDE3MzcsNTczNjQyNTU2LC0xNzYzODYzNDM5LC0xNTk4NzE3
-NDUwLC0xOTMzMDY1ODc5LDUxODQwNTI2Nyw4NDc2NDg5OTQsNz
-I2NTEzNzI5LDE0MDU2NzE2OTVdfQ==
+eyJoaXN0b3J5IjpbMTgxNTU0MDQyMywtMTk2NzEwNjg0MCwtNj
+k5NjAxNzM3LDU3MzY0MjU1NiwtMTc2Mzg2MzQzOSwtMTU5ODcx
+NzQ1MCwtMTkzMzA2NTg3OSw1MTg0MDUyNjcsODQ3NjQ4OTk0LD
+cyNjUxMzcyOSwxNDA1NjcxNjk1XX0=
 -->
