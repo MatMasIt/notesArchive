@@ -158,7 +158,6 @@ $$
 
 ---
 
-
 ![](https://i.imgur.com/MmnAQwV.jpg)
 
 $$
@@ -176,7 +175,8 @@ $-\frac{\pi}{4}=k\pi\quad x=\frac{\pi}{4}+k\pi$
 
 ---
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjU2NDU0NSwtNzI0NTUzOTk4LDIxMz
+eyJoaXN0b3J5IjpbMTYzNTE5MjU3NywtNzI0NTUzOTk4LDIxMz
 Y4OTY5NzEsLTE1Nzg2NTgwMzldfQ==
 -->
