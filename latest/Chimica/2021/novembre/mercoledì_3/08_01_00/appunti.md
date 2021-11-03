@@ -159,11 +159,10 @@ $F,Cl,Br,U,At,Ts$
 
 hanno stato ossidativo -1
 
-
-$$
-:\ddot{Cl
-$$
+			  ..
+			: Cl .
+			  ..
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTUyNTM5NSwxMjg3MzE1MzQsLTExNj
+eyJoaXN0b3J5IjpbMTI4OTMxOTEyNSwxMjg3MzE1MzQsLTExNj
 I4NzY0ODhdfQ==
 -->
