@@ -238,11 +238,17 @@ $y=\log_2|x|$
 $y=-\log_2|x|$
 
 ---
-
+$y=\arcsin f(x)$
 $-1\leq f(x) \leq 1$
 $y=-1 \quad y=1$
+
+
+$$
+f(x)=-1\\
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE2MjcxNjMsLTk2OTU5MTU5MiwtNT
+eyJoaXN0b3J5IjpbLTEyNTkxNzYzNTYsLTk2OTU5MTU5MiwtNT
 gyNTE0NzcsLTIwODI5OTgzODgsLTcyNDU1Mzk5OCwyMTM2ODk2
 OTcxLC0xNTc4NjU4MDM5XX0=
 -->
