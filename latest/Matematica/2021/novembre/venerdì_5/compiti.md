@@ -46,9 +46,10 @@ $$
 
 ## Funzioni elementari
 
-|Funzione|Dominio|Imamgine|
+|Nome|Formula|Dominio|Imamgine|
 |--|--|---|
+|Costante|$f(x)$)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyODkxOTA1LDg0NzY0ODk5NCw3MjY1MT
-M3MjksMTQwNTY3MTY5NV19
+eyJoaXN0b3J5IjpbLTIwMzk0Mjg0MjksODQ3NjQ4OTk0LDcyNj
+UxMzcyOSwxNDA1NjcxNjk1XX0=
 -->
