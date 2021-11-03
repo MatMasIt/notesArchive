@@ -186,8 +186,15 @@ $c)$ Determina il dominio di $y=\arcsin f(x)$
 $d)$ Giustifica perchè la funione data non è invertibile in $D'$ ma è invertibile nella sua  restrizione per $x > 0$, determina l'inversa della restrizione
 
 
-$a)$
+$a)$ 
+
+$$
+D\begin{equation*} \begin{cases} 
+\frac4{x^2} > 0\\
+\frac{2}{x^2} > 0
+ \end{cases} \end{equation*}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg0NTE1OTEsLTcyNDU1Mzk5OCwyMT
-M2ODk2OTcxLC0xNTc4NjU4MDM5XX0=
+eyJoaXN0b3J5IjpbLTkzNjg4NTQ2OSwtNzI0NTUzOTk4LDIxMz
+Y4OTY5NzEsLTE1Nzg2NTgwMzldfQ==
 -->
