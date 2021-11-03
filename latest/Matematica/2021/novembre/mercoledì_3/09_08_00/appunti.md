@@ -213,7 +213,25 @@ $$
 $$
 y=-4\log_2|x|+3
 $$
+
+
+$$
+D \begin{equation*} \begin{cases} 
+\frac{4}{x^2} > 0\\
+\frac{2}{x^2} > 0
+ \end{cases} \end{equation*}
+$$
+
+
+
+Disegna
+
+
+$y=log_2x$
+$y=\log_2|x|$
+$y=-\log_2|x|$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODI5OTgzODgsLTcyNDU1Mzk5OCwyMT
-M2ODk2OTcxLC0xNTc4NjU4MDM5XX0=
+eyJoaXN0b3J5IjpbLTU4MjUxNDc3LC0yMDgyOTk4Mzg4LC03Mj
+Q1NTM5OTgsMjEzNjg5Njk3MSwtMTU3ODY1ODAzOV19
 -->
