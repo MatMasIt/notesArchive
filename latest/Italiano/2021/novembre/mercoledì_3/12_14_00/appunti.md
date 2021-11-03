@@ -56,6 +56,9 @@ Terra: granello di sabbia
 Eruzione del vesuvio di popei, lava
 
 natura non si cura dell'uomo
+
+
+Ginestra muore dignitosamente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTAzOTA2MzhdfQ==
+eyJoaXN0b3J5IjpbOTc3Njk0NDI2LC0yMTEwMzkwNjM4XX0=
 -->
