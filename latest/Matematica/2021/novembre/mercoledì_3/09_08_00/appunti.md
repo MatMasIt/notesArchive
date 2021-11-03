@@ -269,8 +269,12 @@ $$
 $$
 x^2=2\implies x=\pm \sqrt 2
 $$
+
+d) La funzione per $x > 0$ è _strettamente monotona decrescente_
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTg1NjQzMCwtOTY5NTkxNTkyLC01OD
+eyJoaXN0b3J5IjpbMjEzMjkwMTE2NywtOTY5NTkxNTkyLC01OD
 I1MTQ3NywtMjA4Mjk5ODM4OCwtNzI0NTUzOTk4LDIxMzY4OTY5
 NzEsLTE1Nzg2NTgwMzldfQ==
 -->
