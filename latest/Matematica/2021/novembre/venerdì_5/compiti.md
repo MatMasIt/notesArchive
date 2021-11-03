@@ -61,9 +61,10 @@ $$
 |Arcoseno|$f(x)=\arcsin(x)$|$[-1,1]$||
 |Coseno|$f(x)=\cos(x)$|$\R$||
 |Arcocoseno|$f(x)=\arccos(x)$|$\R$||
-|Tangente|$f(x)=\tan(x)$|
+|Tangente|$f(x)=\tan(x)$|$\R$||
+|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNjQyNTU2LC0xNzYzODYzNDM5LC0xNT
-k4NzE3NDUwLC0xOTMzMDY1ODc5LDUxODQwNTI2Nyw4NDc2NDg5
-OTQsNzI2NTEzNzI5LDE0MDU2NzE2OTVdfQ==
+eyJoaXN0b3J5IjpbMjYxOTk3NDQ4LDU3MzY0MjU1NiwtMTc2Mz
+g2MzQzOSwtMTU5ODcxNzQ1MCwtMTkzMzA2NTg3OSw1MTg0MDUy
+NjcsODQ3NjQ4OTk0LDcyNjUxMzcyOSwxNDA1NjcxNjk1XX0=
 -->
