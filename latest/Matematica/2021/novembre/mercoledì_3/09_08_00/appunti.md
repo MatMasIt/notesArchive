@@ -254,8 +254,18 @@ y=-4\log_2|x|+3\\
 y=1
  \end{cases} \end{equation*}
 $$
+
+
+$$
+\cancel 4 \space {}^{\to 2}\log_2|x|=\cancel 2 {}^{\to 1}
+$$
+
+
+$$
+log_2x^2=\log-2
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxNjQ0OTMyLC05Njk1OTE1OTIsLTU4Mj
-UxNDc3LC0yMDgyOTk4Mzg4LC03MjQ1NTM5OTgsMjEzNjg5Njk3
-MSwtMTU3ODY1ODAzOV19
+eyJoaXN0b3J5IjpbMTUyNjc4NjQ2MiwtOTY5NTkxNTkyLC01OD
+I1MTQ3NywtMjA4Mjk5ODM4OCwtNzI0NTUzOTk4LDIxMzY4OTY5
+NzEsLTE1Nzg2NTgwMzldfQ==
 -->
