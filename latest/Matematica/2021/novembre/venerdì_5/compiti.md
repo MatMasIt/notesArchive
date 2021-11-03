@@ -57,16 +57,16 @@ $$
 |Radice cubica|$f(x)=\sqrt[3]x$|$\R$|![](https://i.imgur.com/ZYHkoA8.png)|
 |Esponenziale|$f(x)=a^x$|$a>0 \land \exists a$|![](https://i.imgur.com/kmOmZyR.png)|
 |Logaritmo|$f(x)=\log_ax$|$a>0, a \neq 1$|![](https://i.imgur.com/dowbWdF.png)|
-|Seno|$f(x)=\sin(x)$|$\R$||
-|Arcoseno|$f(x)=\arcsin(x)$|$[-1,1]$||
-|Coseno|$f(x)=\cos(x)$|$\R$||
+|Seno|$f(x)=\sin(x)$|$\R$|![](https://i.imgur.com/agAEKOy.png)|
+|Arcoseno|$f(x)=\arcsin(x)$|$[-1,1]$|![](https://i.imgur.com/S9KhQmp.png)|
+|Coseno|$f(x)=\cos(x)$|$\R$|![](https://i.imgur.com/PXI6h05.png)|
 |Arcocoseno|$f(x)=\arccos(x)$|$\R$||
 |Tangente|$f(x)=\tan(x)$|$\R$||
 |Arcotangente|$f(x)=\arctan(x)$|$\R$||
 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYxMzgyNDgsMTgxNTU0MDQyMywtMT
-k2NzEwNjg0MCwtNjk5NjAxNzM3LDU3MzY0MjU1NiwtMTc2Mzg2
-MzQzOSwtMTU5ODcxNzQ1MCwtMTkzMzA2NTg3OSw1MTg0MDUyNj
-csODQ3NjQ4OTk0LDcyNjUxMzcyOSwxNDA1NjcxNjk1XX0=
+eyJoaXN0b3J5IjpbMTI2MzI2Mzk3NywxODE1NTQwNDIzLC0xOT
+Y3MTA2ODQwLC02OTk2MDE3MzcsNTczNjQyNTU2LC0xNzYzODYz
+NDM5LC0xNTk4NzE3NDUwLC0xOTMzMDY1ODc5LDUxODQwNTI2Ny
+w4NDc2NDg5OTQsNzI2NTEzNzI5LDE0MDU2NzE2OTVdfQ==
 -->
