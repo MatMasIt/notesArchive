@@ -193,8 +193,21 @@ D\begin{equation*} \begin{cases}
 \frac4{x^2} > 0\\
 \frac{2}{x^2} > 0
  \end{cases} \end{equation*}
+ \begin{equation*} \begin{cases} 
+x^2 > 0\\
+x^2 > 0
+ \end{cases} \end{equation*}
 $$
+
+$$
+D=(-\infin,0)\cup(0,+\infin)
+$$
+
+$b)$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjg4NTQ2OSwtNzI0NTUzOTk4LDIxMz
+eyJoaXN0b3J5IjpbLTM2NzE4MzE3NywtNzI0NTUzOTk4LDIxMz
 Y4OTY5NzEsLTE1Nzg2NTgwMzldfQ==
 -->
