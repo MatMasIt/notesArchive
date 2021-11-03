@@ -94,11 +94,15 @@ in posizione 2 e 4 abbiamo un dimetil
 
 metil: met-ano
 
-carbonio
+carbonio (massimo 4 legami)
 
 			C-C-=C-C-C 
-			1 | 3  | 5 
-	         CH3
+			1 |  3 | 5 
+	         CH3  CH3
+
+due volte metile in 2 e 4
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzA1Njc5OV19
+eyJoaXN0b3J5IjpbLTIxMDEyMjU4NDRdfQ==
 -->
