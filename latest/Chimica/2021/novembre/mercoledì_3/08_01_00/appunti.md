@@ -10,7 +10,7 @@
 		\      /
 		 C = C       sp^2
 		/     \
-
+		120°
 Ibridazione $sp^2$: legame doppio
 
 legame sigma e $\pi$: regione di sovrapposizione minore
@@ -26,5 +26,5 @@ $$
 -C\equiv^{\pi}_{\pi} \delta C- \to sp
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NTkyMTUzXX0=
+eyJoaXN0b3J5IjpbMjQzOTM5NzU0XX0=
 -->
