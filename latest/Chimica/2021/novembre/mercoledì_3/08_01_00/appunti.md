@@ -54,7 +54,7 @@ $CnH_{2n}$
 		H       H
 
 
-Etene: radicale è $C_2H_e\cdot$ che sarebbe $etenile$
+Etene: radicale è $C_2Hn\cdot$ che sarebbe $etenile$
 
 nome ritenuto: $vinile$
 
@@ -151,5 +151,6 @@ non si scrivono atomi di carbonio
 
 p.50, benzeni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzMxNTM0LC0xMTYyODc2NDg4XX0=
+eyJoaXN0b3J5IjpbLTE5MDIzNzAyMzAsMTI4NzMxNTM0LC0xMT
+YyODc2NDg4XX0=
 -->
