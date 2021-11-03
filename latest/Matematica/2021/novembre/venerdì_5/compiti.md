@@ -51,9 +51,10 @@ $$
 |Costante|$f(x)=k$|$\R$||
 |Polinomiale di 1° grado|$f(x)=ax+c$|$\R$|
 |Polinomiale di 2° grado|$f(x)=ax^2+bx+c$|$\R$|
-|Polinomiale di 2° grado|$f(x)=ax^2+bx+c$|$\R$|
+|Frazonaria|$f(x)=\frac1x$|$\R-\{0\}$|
+|Radice quadrata|$f(x)=\sqrt{x}$|$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ3NjczNDYsLTE5MzMwNjU4NzksNT
-E4NDA1MjY3LDg0NzY0ODk5NCw3MjY1MTM3MjksMTQwNTY3MTY5
-NV19
+eyJoaXN0b3J5IjpbLTg2NjAwMjQwNywtMTkzMzA2NTg3OSw1MT
+g0MDUyNjcsODQ3NjQ4OTk0LDcyNjUxMzcyOSwxNDA1NjcxNjk1
+XX0=
 -->
