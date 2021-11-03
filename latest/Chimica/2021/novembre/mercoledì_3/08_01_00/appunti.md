@@ -113,7 +113,22 @@ Aggiungo idrogeni
 2-cloro-1,3-butadiene
 
 but: 4
-d
+di: 2 
+-ene
+
+due doppi legami
+
+			1 2 3 4
+			C=C-C=C
+			  |
+			  Cl
+Idrogeni
+
+
+			1 2 3 4
+			C=C-C=C
+			  |
+			  Cl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODM0MDM3MF19
+eyJoaXN0b3J5IjpbLTIwOTg4Mzc2MDhdfQ==
 -->
