@@ -61,9 +61,9 @@ $$
 |Arcoseno|$f(x)=\arcsin(x)$|$[-1,1]$||
 |Coseno|$f(x)=\cos(x)$|$\R$||
 |Arcocoseno|$f(x)=\arccos(x)$|$\R$||
-|
+|T
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTE4MzE3NCwtMTc2Mzg2MzQzOSwtMT
+eyJoaXN0b3J5IjpbLTI1NDYwMDA3MCwtMTc2Mzg2MzQzOSwtMT
 U5ODcxNzQ1MCwtMTkzMzA2NTg3OSw1MTg0MDUyNjcsODQ3NjQ4
 OTk0LDcyNjUxMzcyOSwxNDA1NjcxNjk1XX0=
 -->
