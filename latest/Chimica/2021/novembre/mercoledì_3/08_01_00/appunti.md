@@ -34,6 +34,10 @@ Radicali
 $\cdot CH_3\quad (-ile)$
 
 ---
+
+Tipici degli alcheni
+
+
 Etilete
 
 
@@ -50,7 +54,18 @@ $CnH_{2n}$
 		H       H
 
 
-Etene: radicale è $C_2H_e\cdot$ 
+Etene: radicale è $C_2H_e\cdot$ che sarebbe $etenile$
+
+nome ritenuto: $vinile$
+
+
+---
+
+$C_2H_6$
+propene
+Radicale: $propenil-$
+
+nome ritenuto: $allile$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTM3MDE5MV19
+eyJoaXN0b3J5IjpbMTY5Njc3MzY2XX0=
 -->
