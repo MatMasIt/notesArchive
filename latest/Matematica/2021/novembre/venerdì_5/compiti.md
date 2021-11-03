@@ -51,13 +51,13 @@ $$
 |Costante|$f(x)=k$|$\R$||
 |Polinomiale di 1° grado|$f(x)=ax+c$|$\R$|
 |Polinomiale di 2° grado|$f(x)=ax^2+bx+c$|$\R$|
-|Frazonaria|$f(x)=\frac1x$|$\R-\{0\}$||
-|Radice quadrata|$f(x)=\sqrt{x}$|$[0,+\infin)$||
+|Frazionaria|$f(x)=\frac1x$|$\R-\{0\}$||
+|Radice pari|$f(x)=\sqrt[2n]{x}$|$[0,+\infin)$||
 |Funzione cubica|$f(x)=x^3$|$\R$||
 |Radice cubica|$f(x)=\sqrt[3]x$|$\R$||
 |Esponenziale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5MzcyMDgwLC0xOTMzMDY1ODc5LDUxOD
-QwNTI2Nyw4NDc2NDg5OTQsNzI2NTEzNzI5LDE0MDU2NzE2OTVd
-fQ==
+eyJoaXN0b3J5IjpbLTE1OTg3MTc0NTAsLTE5MzMwNjU4NzksNT
+E4NDA1MjY3LDg0NzY0ODk5NCw3MjY1MTM3MjksMTQwNTY3MTY5
+NV19
 -->
