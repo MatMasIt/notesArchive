@@ -207,9 +207,13 @@ $$
 $b)$
 Log quoziente è la differenza dei logaritmi
 
-
-$y=\log
+$$
+y=\log_2\frac{4}{x^2}\frac{2}{x^2}=\log_22^3-\log_2x^4
+$$
+$$
+y=3-
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDE5NzU0OCwtNzI0NTUzOTk4LDIxMz
+eyJoaXN0b3J5IjpbLTUzNzg4NzEyNiwtNzI0NTUzOTk4LDIxMz
 Y4OTY5NzEsLTE1Nzg2NTgwMzldfQ==
 -->
