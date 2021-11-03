@@ -275,10 +275,23 @@ d) La funzione per $x > 0$ è _strettamente monotona decrescente_
 Funzione inversa
 
 $$
-y=4-4\log_2x\to x=3-4\log_2y
+y=3-4\log_2x\to x=3-4\log_2y
+$$
+
+$$
+4\log_2y=3-x
+$$
+
+$$
+\log_2y=\frac{3-x}{4}
+$$
+
+
+$$
+y=2^{\frac{3-x}4}, con \space x > 0
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDUwNjAxNTcsMjEzMjkwMTE2NywtOT
-Y5NTkxNTkyLC01ODI1MTQ3NywtMjA4Mjk5ODM4OCwtNzI0NTUz
-OTk4LDIxMzY4OTY5NzEsLTE1Nzg2NTgwMzldfQ==
+eyJoaXN0b3J5IjpbMTgxODAwMTEwNiwyMTMyOTAxMTY3LC05Nj
+k1OTE1OTIsLTU4MjUxNDc3LC0yMDgyOTk4Mzg4LC03MjQ1NTM5
+OTgsMjEzNjg5Njk3MSwtMTU3ODY1ODAzOV19
 -->
