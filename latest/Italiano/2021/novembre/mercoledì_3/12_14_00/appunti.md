@@ -90,7 +90,12 @@ _Les fleurs du mal_, Baudelaire
 prime forme di realismo
 
 
-Narratore he si estra
+Narratore he si astrae dalla narrazione
+
+
+Nuovo Realismo, r maiuscola
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzQ3ODc2NiwtMjExMDM5MDYzOF19
+eyJoaXN0b3J5IjpbNDM2MDUxMDc5LC0yMTEwMzkwNjM4XX0=
 -->
