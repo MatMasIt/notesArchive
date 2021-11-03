@@ -10,6 +10,18 @@ a)
 $$
 $\arcsin x:D[-1,1]$
 $\sin x:Immagine = D[-1,1]$
+$Immagine_{\sin}=D_{\arcsin}$
+
+$$
+D: \forall x \in \R
+$$
+
+---
+
+$$
+b)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2NTEzNzI5LDE0MDU2NzE2OTVdfQ==
+eyJoaXN0b3J5IjpbNzU1Mjg1Nzk0LDcyNjUxMzcyOSwxNDA1Nj
+cxNjk1XX0=
 -->
