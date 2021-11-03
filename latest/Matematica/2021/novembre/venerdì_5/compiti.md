@@ -23,10 +23,11 @@ b)
 $$
 $\sin x: D= \R$
 $\arcsin x:Immagine = [-\frac\pi2,\frac\pi2]$
-
+$$Immagine_{\arcsin} \$$
 $$
+D: \forall x \in \R
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyOTUwMDYzLDcyNjUxMzcyOSwxNDA1Nj
+eyJoaXN0b3J5IjpbMzEwMTMyNDI2LDcyNjUxMzcyOSwxNDA1Nj
 cxNjk1XX0=
 -->
