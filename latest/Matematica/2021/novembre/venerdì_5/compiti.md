@@ -52,8 +52,8 @@ $$
 |Polinomiale di 1° grado|$f(x)=ax+c$|$\R$|![](https://i.imgur.com/R3k8qqj.png)|
 |Polinomiale di 2° grado|$f(x)=ax^2+bx+c$|$\R$|![](https://i.imgur.com/7RBzSX0.png)|
 |Frazionaria|$f(x)=\frac1x$|$\R-\{0\}$|![](https://i.imgur.com/jPrSavx.png)|
-|Radice pari|$f(x)=\sqrt[2n]{x}$|$[0,+\infin)$||
-|Funzione cubica|$f(x)=x^3$|$\R$||
+|Radice pari|$f(x)=\sqrt[2n]{x}$|$[0,+\infin)$|![](https://i.imgur.com/xUXSqLA.png)|
+|Funzione cubica|$f(x)=x^3$|$\R$|![](https://i.imgur.com/g8Gbt0T.png)|
 |Radice cubica|$f(x)=\sqrt[3]x$|$\R$||
 |Esponenziale|$f(x)=a^x$|$a>0 \land \exists a$||
 |Logaritmo|$f(x)=\log_ax$|$a>0, a \neq 1$||
@@ -65,8 +65,8 @@ $$
 |Arcotangente|$f(x)=\arctan(x)$|$\R$||
 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTU0MDQyMywtMTk2NzEwNjg0MCwtNj
-k5NjAxNzM3LDU3MzY0MjU1NiwtMTc2Mzg2MzQzOSwtMTU5ODcx
-NzQ1MCwtMTkzMzA2NTg3OSw1MTg0MDUyNjcsODQ3NjQ4OTk0LD
-cyNjUxMzcyOSwxNDA1NjcxNjk1XX0=
+eyJoaXN0b3J5IjpbLTE5NzMwOTM0OTUsMTgxNTU0MDQyMywtMT
+k2NzEwNjg0MCwtNjk5NjAxNzM3LDU3MzY0MjU1NiwtMTc2Mzg2
+MzQzOSwtMTU5ODcxNzQ1MCwtMTkzMzA2NTg3OSw1MTg0MDUyNj
+csODQ3NjQ4OTk0LDcyNjUxMzcyOSwxNDA1NjcxNjk1XX0=
 -->
