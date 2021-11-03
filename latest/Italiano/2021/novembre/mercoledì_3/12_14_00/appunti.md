@@ -42,6 +42,13 @@ Marginalità dell'uomo
 
 
 v172
+
+
+Stelle molto grandi ma paiono piccole
+
+stelle quasi non ci vedono
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTUxNDEyNV19
+eyJoaXN0b3J5IjpbMTYxMjE4OTU4OV19
 -->
