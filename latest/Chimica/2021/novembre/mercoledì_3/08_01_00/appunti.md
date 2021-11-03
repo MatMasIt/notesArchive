@@ -67,8 +67,12 @@ Radicale: $propenil-$
 
 nome ritenuto: $allile$
 
+---
 
+$\text{2,4-dimetil-2-pentene}$
+
+Prato dal fondo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODE3OTUyMF19
+eyJoaXN0b3J5IjpbMTc4OTMyMzQ5NV19
 -->
