@@ -125,10 +125,13 @@ due doppi legami
 Idrogeni
 
 
-			1 2 3 4
-			C=C-C=C
-			  |
-			  Cl
+			 1   2 3 4
+			CH3=CH-C=CH3
+			     |
+			     Cl
+
+--- 
+ciclopente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg4Mzc2MDhdfQ==
+eyJoaXN0b3J5IjpbLTk5MjA5NTE1M119
 -->
