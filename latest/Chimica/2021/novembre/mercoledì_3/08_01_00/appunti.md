@@ -146,7 +146,10 @@ non si scrivono atomi di carbonio
 
 ---
 
-1,4cicloesadiene
+![](https://i.imgur.com/iciWTD8.jpg)
+
+
+p.50, benzeni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI4NzY0ODhdfQ==
+eyJoaXN0b3J5IjpbMTI4NzMxNTM0LC0xMTYyODc2NDg4XX0=
 -->
