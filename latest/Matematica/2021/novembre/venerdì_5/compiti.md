@@ -49,8 +49,8 @@ $$
 |Nome|Formula|Dominio|Immagine|
 |---|---|---|---|
 |Costante|$f(x)=k$|$\R$||
-|  
+|Polinomiale di 1ç|$f(x)=ax+by+x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4NDA1MjY3LDg0NzY0ODk5NCw3MjY1MT
-M3MjksMTQwNTY3MTY5NV19
+eyJoaXN0b3J5IjpbLTE0NTczNTkzMDUsNTE4NDA1MjY3LDg0Nz
+Y0ODk5NCw3MjY1MTM3MjksMTQwNTY3MTY5NV19
 -->
