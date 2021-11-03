@@ -21,10 +21,12 @@ $$
 $$
 b)
 $$
-$$\sin x: D= \R$
-$\arcsin x:Immagine = [\pi,1]$
+$\sin x: D= \R$
+$\arcsin x:Immagine = [-\frac\pi2,\frac\pi2]$
 
+$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjY0Mjg0LDcyNjUxMzcyOSwxNDA1Nj
+eyJoaXN0b3J5IjpbODEyOTUwMDYzLDcyNjUxMzcyOSwxNDA1Nj
 cxNjk1XX0=
 -->
