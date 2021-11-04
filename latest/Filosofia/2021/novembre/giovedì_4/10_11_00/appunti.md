@@ -39,7 +39,8 @@ Quindi anima deve essere immortale
 
 Kant, p.374
 
-
+Dobbiamo ritenere che eis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Nzc5NDY3MiwtMTU3ODEwNjQzNF19
+eyJoaXN0b3J5IjpbLTU3MDMyMjM2MCwyMDU3Nzk0NjcyLC0xNT
+c4MTA2NDM0XX0=
 -->
