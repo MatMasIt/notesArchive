@@ -64,8 +64,10 @@ all parts of body involved in hard labour of the blacksmith
 In "the lamb" there was an answer, but not in this stanza
 
 The poem is not superior
+
+Duplicity of the poet, he is superior and not in different occasions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjM5MzUzMyw2Njc0ODM1NzEsMjExMj
-g0NjIzMiwxNzAwNDc3NzksLTE3NzIyODI5NDQsLTE5NDQ3OTA2
-NjVdfQ==
+eyJoaXN0b3J5IjpbLTE3NjkzMDY3ODYsNjY3NDgzNTcxLDIxMT
+I4NDYyMzIsMTcwMDQ3Nzc5LC0xNzcyMjgyOTQ0LC0xOTQ0Nzkw
+NjY1XX0=
 -->
