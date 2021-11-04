@@ -50,7 +50,16 @@ no estensione dei limiti della conoscenza
 
 
 Validità pratica ma non teoretica
+
+
+1755, Storia Universale della Natura e teoria del cielo
+
+formazione sistema solare da nube cosmica
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDc0OTc4OSwyMDU3Nzk0NjcyLC0xNT
-c4MTA2NDM0XX0=
+eyJoaXN0b3J5IjpbLTE4MDk0OTI5MjYsMTEzNDc0OTc4OSwyMD
+U3Nzk0NjcyLC0xNTc4MTA2NDM0XX0=
 -->
