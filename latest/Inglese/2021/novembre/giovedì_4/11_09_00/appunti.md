@@ -27,6 +27,10 @@ fire is the instrument through which the tiger was created
 
 
 Prometheus (a Titan) ceated men wih water and Earth because Zeus asked him
+
+Prometeus became so affetcioned to humans
+He stole the holy fire of the gods
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzNDEyOTA2LC0xOTQ0NzkwNjY1XX0=
+eyJoaXN0b3J5IjpbLTE3NzIyODI5NDQsLTE5NDQ3OTA2NjVdfQ
+==
 -->
