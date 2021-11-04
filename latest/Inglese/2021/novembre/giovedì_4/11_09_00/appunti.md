@@ -16,7 +16,10 @@ symmetry: graceful
 fearful: fear
 
 sublime
+
+fire of tiger's eyes
+
+anger, fiercness, violence, power
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjcxNDM0MDIsLTE5NDQ3OTA2NjVdfQ
-==
+eyJoaXN0b3J5IjpbMTk3MDI2ODEwNSwtMTk0NDc5MDY2NV19
 -->
