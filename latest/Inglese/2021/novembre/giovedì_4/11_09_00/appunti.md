@@ -20,6 +20,8 @@ sublime
 fire of tiger's eyes
 
 anger, fiercness, violence, power
+
+How could the creator so daring to create suck a frithenin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDI2ODEwNSwtMTk0NDc5MDY2NV19
+eyJoaXN0b3J5IjpbMjEzMzA5MzMzOSwtMTk0NDc5MDY2NV19
 -->
