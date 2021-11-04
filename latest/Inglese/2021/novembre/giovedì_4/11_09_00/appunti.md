@@ -24,6 +24,9 @@ anger, fiercness, violence, power
 How could the creator so daring to create suck a frithening animal
 
 fire is the instrument through which the tiger was created
+
+
+Prometheus (a Titan) ceated men wih water and Earth because Zeus asked him
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3MTIwMTg5LC0xOTQ0NzkwNjY1XX0=
+eyJoaXN0b3J5IjpbODQzNDEyOTA2LC0xOTQ0NzkwNjY1XX0=
 -->
