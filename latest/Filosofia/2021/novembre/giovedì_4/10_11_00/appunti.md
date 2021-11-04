@@ -39,8 +39,18 @@ Quindi anima deve essere immortale
 
 Kant, p.374
 
-Dobbiamo ritenere che eis
+Dobbiamo ritenere che eista ma non lo conosciamo
+
+
+
+Esigenza, non conoscenza umana
+
+
+no estensione dei limiti della conoscenza
+
+
+Validità pratica ma non teoretica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDMyMjM2MCwyMDU3Nzk0NjcyLC0xNT
+eyJoaXN0b3J5IjpbMTEzNDc0OTc4OSwyMDU3Nzk0NjcyLC0xNT
 c4MTA2NDM0XX0=
 -->
