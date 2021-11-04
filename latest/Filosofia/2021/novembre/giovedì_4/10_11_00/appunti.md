@@ -70,7 +70,11 @@ Il cielo stellato dopra di me, la legge morale in me
 nel mondo sensibile sono un corpo tra gli altri, cosa accidentale
 
 Mondo morale esiste solo nella misura in cui il mio IO esista
+
+sotto questo profilo l'uomo è grandissimo nonostante cosmologicamente sia piccolissimo
+
+forte anti-antropocentrismo vs forte antropocentrismo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDg5NDYwMiwxMTM0NzQ5Nzg5LDIwNT
-c3OTQ2NzIsLTE1NzgxMDY0MzRdfQ==
+eyJoaXN0b3J5IjpbLTE3MzMyODYyMzcsMTY4NDg5NDYwMiwxMT
+M0NzQ5Nzg5LDIwNTc3OTQ2NzIsLTE1NzgxMDY0MzRdfQ==
 -->
