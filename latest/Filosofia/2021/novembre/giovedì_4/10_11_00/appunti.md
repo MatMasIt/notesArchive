@@ -15,7 +15,21 @@ Ci si può fare male psicologicamente se si usa solo il dovere, mai il "piacere"
 Kant: Dio premia chi si è comportato bene
 
 
+Tentativo di adeguare il mio comportamento alla ragione si interrompe quando muoio
+
+
+felicità data da dio limitata allora se non sono riuscito ad un adeguamento perfetto
+
+
+Secondo Kant non ha senso
+
+
+Qui
+
+
 Il sommo bene, sintesi di virtù e felicità
+
+Tenta
 
 Dio premia e giustifica il buon comportamento
 Quindi anima deve essere immortale
@@ -25,5 +39,5 @@ Kant, p.374
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzgxMDY0MzRdfQ==
+eyJoaXN0b3J5IjpbLTIwMDMxMzEyMCwtMTU3ODEwNjQzNF19
 -->
