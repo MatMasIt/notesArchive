@@ -30,7 +30,16 @@ Prometheus (a Titan) ceated men wih water and Earth because Zeus asked him
 
 Prometeus became so affetcioned to humans
 He stole the holy fire of the gods
+
+
+creator of the tiger and prometeus were similar, both brave and deary
+
+Proud, brave, deary
+
+
+
+Creatpr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIyODI5NDQsLTE5NDQ3OTA2NjVdfQ
-==
+eyJoaXN0b3J5IjpbMTY3NDkxNTUwMSwtMTc3MjI4Mjk0NCwtMT
+k0NDc5MDY2NV19
 -->
