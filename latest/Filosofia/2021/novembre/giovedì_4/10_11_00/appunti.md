@@ -15,7 +15,15 @@ Ci si può fare male psicologicamente se si usa solo il dovere, mai il "piacere"
 Kant: Dio premia chi si è comportato bene
 
 
-Il sommo bene, premia e giustifica 
+Il sommo bene, sintesi di virtù e felicità
+
+Dio premia e giustifica il buon comportamento
+Quindi anima deve essere immortale
+
+
+Kant, p.374
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDkyNjM1M119
+eyJoaXN0b3J5IjpbLTE1NzgxMDY0MzRdfQ==
 -->
