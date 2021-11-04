@@ -60,7 +60,12 @@ fire of creation
 you use fire to  shape metals
 
 all parts of body involved in hard labour of the blacksmith
+
+In "the lamb" there was an answer, but not in this stanza
+
+The poem is not superior
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NDgzNTcxLDIxMTI4NDYyMzIsMTcwMD
-Q3Nzc5LC0xNzcyMjgyOTQ0LC0xOTQ0NzkwNjY1XX0=
+eyJoaXN0b3J5IjpbMTI1MjM5MzUzMyw2Njc0ODM1NzEsMjExMj
+g0NjIzMiwxNzAwNDc3NzksLTE3NzIyODI5NDQsLTE5NDQ3OTA2
+NjVdfQ==
 -->
