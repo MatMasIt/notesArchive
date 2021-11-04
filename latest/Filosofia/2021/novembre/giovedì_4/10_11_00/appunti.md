@@ -24,7 +24,9 @@ felicità data da dio limitata allora se non sono riuscito ad un adeguamento per
 Secondo Kant non ha senso
 
 
-Qui
+Quindi anima eve essere immortale e continuare dopo la morte questo cammino di adeguamento immorale
+
+anima iperfetta deve potere fare perscorso di perfezionamento quindi deve essere immortale e continuare il percorso di perfezionamento
 
 
 Il sommo bene, sintesi di virtù e felicità
@@ -39,5 +41,5 @@ Kant, p.374
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMxMzEyMCwtMTU3ODEwNjQzNF19
+eyJoaXN0b3J5IjpbMjA1Nzc5NDY3MiwtMTU3ODEwNjQzNF19
 -->
