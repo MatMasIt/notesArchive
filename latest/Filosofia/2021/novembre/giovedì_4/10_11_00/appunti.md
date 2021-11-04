@@ -64,8 +64,13 @@ Nube cosmica: teoria di Kant-Laplace
 ---
 
 
-Il cielo 
+Il cielo stellato dopra di me, la legge morale in me
+
+
+nel mondo sensibile sono un corpo tra gli altri, cosa accidentale
+
+Mondo morale esiste solo nella misura in cui il mio IO esista
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTI0NTU3MywxMTM0NzQ5Nzg5LDIwNT
+eyJoaXN0b3J5IjpbMTY4NDg5NDYwMiwxMTM0NzQ5Nzg5LDIwNT
 c3OTQ2NzIsLTE1NzgxMDY0MzRdfQ==
 -->
