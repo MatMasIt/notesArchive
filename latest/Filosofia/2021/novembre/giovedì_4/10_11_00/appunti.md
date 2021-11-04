@@ -58,8 +58,14 @@ formazione sistema solare da nube cosmica
 
 
 
+Nube cosmica: teoria di Kant-Laplace
 
+
+---
+
+
+Il cielo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk0OTI5MjYsMTEzNDc0OTc4OSwyMD
-U3Nzk0NjcyLC0xNTc4MTA2NDM0XX0=
+eyJoaXN0b3J5IjpbLTczNTI0NTU3MywxMTM0NzQ5Nzg5LDIwNT
+c3OTQ2NzIsLTE1NzgxMDY0MzRdfQ==
 -->
