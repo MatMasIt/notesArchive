@@ -22,7 +22,8 @@ fire of tiger's eyes
 anger, fiercness, violence, power
 
 How could the creator so daring to create suck a frithening animal
+
+fire is the instrument through which the tiger was created
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzcxOTMxNzgsLTE5NDQ3OTA2NjVdfQ
-==
+eyJoaXN0b3J5IjpbNzE3MTIwMTg5LC0xOTQ0NzkwNjY1XX0=
 -->
