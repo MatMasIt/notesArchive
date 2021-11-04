@@ -58,7 +58,9 @@ fire of creation
 
 
 you use fire to  shape metals
+
+all parts of body involved in hard labour of the blacksmith
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzY1NjM3MywyMTEyODQ2MjMyLDE3MD
-A0Nzc3OSwtMTc3MjI4Mjk0NCwtMTk0NDc5MDY2NV19
+eyJoaXN0b3J5IjpbNjY3NDgzNTcxLDIxMTI4NDYyMzIsMTcwMD
+Q3Nzc5LC0xNzcyMjgyOTQ0LC0xOTQ0NzkwNjY1XX0=
 -->
