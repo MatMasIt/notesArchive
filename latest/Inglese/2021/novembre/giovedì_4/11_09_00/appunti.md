@@ -1,8 +1,13 @@
 #  Lezione di Inglese (4° ora)
-## Giovedì 4novembre 2021, 10:00:00
+## Giovedì 4 ovembre 2021, 11:10:00
 
 
-Creator
+Forest: chaos before creation
+
+
+tiger is sublime
+
+the creator is preceivable as a real man but immortal, complementary opposites
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyMDg0NTk2XX0=
+eyJoaXN0b3J5IjpbLTE5NDQ3OTA2NjVdfQ==
 -->
