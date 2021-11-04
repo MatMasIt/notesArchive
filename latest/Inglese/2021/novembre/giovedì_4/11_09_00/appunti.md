@@ -51,7 +51,14 @@ Guilty of pride, daring and bold
 Creator: scary features
 
 scary hand
+
+blacksmith tools
+
+fire of creation
+
+
+you use fire to  shape metals
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzMTE4NTQyLDIxMTI4NDYyMzIsMTcwMD
-Q3Nzc5LC0xNzcyMjgyOTQ0LC0xOTQ0NzkwNjY1XX0=
+eyJoaXN0b3J5IjpbLTI3NzY1NjM3MywyMTEyODQ2MjMyLDE3MD
+A0Nzc3OSwtMTc3MjI4Mjk0NCwtMTk0NDc5MDY2NV19
 -->
