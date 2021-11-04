@@ -8,6 +8,15 @@ Forest: chaos before creation
 tiger is sublime
 
 the creator is preceivable as a real man but immortal, complementary opposites
+
+
+
+symmetry: graceful
+
+fearful: fear
+
+sublime
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQ3OTA2NjVdfQ==
+eyJoaXN0b3J5IjpbLTE3NjcxNDM0MDIsLTE5NDQ3OTA2NjVdfQ
+==
 -->
