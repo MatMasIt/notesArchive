@@ -38,8 +38,11 @@ sud: su 10 mln 4 mln sono neri
 
 Nelli stati del sud sono di valore importante (costosi)
 
+Cotton Gin: macchina per il cotone
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njc5OTQxMTgsLTEyMTg4ODIzMDEsLT
+eyJoaXN0b3J5IjpbLTEyMjMyODU5NDUsLTEyMTg4ODIzMDEsLT
 E1ODU1MTMyNl19
 -->
