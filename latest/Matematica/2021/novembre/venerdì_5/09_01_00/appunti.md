@@ -75,7 +75,13 @@ $$
 $$
 \lim_{x\to 2}\frac{x}{x-2}=\frac{2^{-}}{0^{-}}=-\infin
 $$
+
+---
+
+Raggio intorno
+
+$\forall \epsilon > 0 \quad \exists \delta > 0 \quad /\quad \forall x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTk2NTMwMSw5NDI4MzcwMTgsLTEyMj
-E4MzMzMTksLTcyMjkwOTUwN119
+eyJoaXN0b3J5IjpbLTY5MjY2ODMxNiwxNzY5OTY1MzAxLDk0Mj
+gzNzAxOCwtMTIyMTgzMzMxOSwtNzIyOTA5NTA3XX0=
 -->
