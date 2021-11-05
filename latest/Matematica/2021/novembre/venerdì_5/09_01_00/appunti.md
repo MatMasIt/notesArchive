@@ -54,8 +54,13 @@ $I)$ $x_0$ può essere $finito$ o $\infin$
 $II)$ $l$ può essere $finito$ o $\infin$
 
 
-$\forall U (
+$$
+\forall U(l)\exists V(x_0)\quad \forall
+$$
+> Qualunque sia un intorno di $l$ deve esistere un intorno di $x_0$ tale che qual
+> Qualune
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjMwMjc0MCwtMTIyMTgzMzMxOSwtNz
-IyOTA5NTA3XX0=
+eyJoaXN0b3J5IjpbLTE1NDQzMjM3NjcsLTEyMjE4MzMzMTksLT
+cyMjkwOTUwN119
 -->
