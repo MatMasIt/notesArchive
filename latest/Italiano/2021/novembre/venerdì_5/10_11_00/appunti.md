@@ -7,6 +7,9 @@ Verismo italiano; anni '80 de ìl'ottocento
 Giovanni Verga, Luigi Capuana ...
 Gruppo di scrittori veristi
 
+
+Honorèe de balzac estende il poetabile anche a situazioni abbiette e crude
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTAzNDMzNDNdfQ==
+eyJoaXN0b3J5IjpbLTE2OTgwNjQ2NjcsLTExNTAzNDMzNDNdfQ
+==
 -->
