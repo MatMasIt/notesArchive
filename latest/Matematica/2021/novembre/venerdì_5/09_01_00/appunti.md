@@ -80,9 +80,9 @@ $$
 
 Raggio intorno
 
-$\forall \epsilon > 0 \quad \exists \delta > 0 \quad /\quad \forall x\quad 0< |x-x_0|< \delta \\ \implies |f(x)-l|< \epsilon$
-> Comunque fissato un $\epsilon$ positivo a piacere deve esistere un $\delta > 0 $ dale che comunque fissato un $x$ appartene
+> $$\Large\forall \epsilon > 0 \quad \exists \delta > 0 \quad /\quad \forall x\quad 0< |x-x_0|< \delta \\ \implies |f(x)-l|< \epsilon$$
+> Comunque fissato un $\epsilon$ positivo a piacere deve esistere un $\delta > 0$ dale che comunque fissato un $x$ appartenente a questo intorno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyNTQ5MDk0LDE3Njk5NjUzMDEsOTQyOD
-M3MDE4LC0xMjIxODMzMzE5LC03MjI5MDk1MDddfQ==
+eyJoaXN0b3J5IjpbLTcwNzI3NDE5MSwxNzY5OTY1MzAxLDk0Mj
+gzNzAxOCwtMTIyMTgzMzMxOSwtNzIyOTA5NTA3XX0=
 -->
