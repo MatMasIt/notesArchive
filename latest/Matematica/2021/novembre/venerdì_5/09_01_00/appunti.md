@@ -55,12 +55,17 @@ $II)$ $l$ può essere $finito$ o $\infin$
 
 
 $$
-\forall U(l)\quad\exists V(x_0)\quad / \quad \
+\forall U(l)\quad\exists V(x_0)\quad / \quad \forall x \in V(x_0)\quad x \neq x_0\\
+\implies f(x)\in U(l)
 $$
-> Comunque fissato  intorno di $l$ deve esistere un intorno di $x_0$ tale che comunque  preso un punto appartenente a questo intorno , 
-> Qualune
+> Comunque fissato  intorno di $l$ deve esistere un intorno di $x_0$ tale che comunque  preso un punto appartenente a questo intorno , $f(x)$ appartiene all'intorno di $l$
+
+---
+
+
+$\lim_{x\to x_0}f(x)=l
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODMwNDMyMSwtMTIyMTgzMzMxOSwtNz
-IyOTA5NTA3XX0=
+eyJoaXN0b3J5IjpbNzg0MjI5OTM4LC0xMjIxODMzMzE5LC03Mj
+I5MDk1MDddfQ==
 -->
