@@ -55,12 +55,12 @@ $II)$ $l$ può essere $finito$ o $\infin$
 
 
 $$
-\forall U(l)\exists V(x_0)\quad \forall
+\forall U(l)\quad\exists V(x_0)\quad / \quad \
 $$
-> Qualunque sia un intorno di $l$ deve esistere un intorno di $x_0$ tale che qual
+> Comunque fissato  intorno di $l$ deve esistere un intorno di $x_0$ tale che comunque  preso un punto appartenente a questo intorno , 
 > Qualune
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQzMjM3NjcsLTEyMjE4MzMzMTksLT
-cyMjkwOTUwN119
+eyJoaXN0b3J5IjpbLTkxODMwNDMyMSwtMTIyMTgzMzMxOSwtNz
+IyOTA5NTA3XX0=
 -->
