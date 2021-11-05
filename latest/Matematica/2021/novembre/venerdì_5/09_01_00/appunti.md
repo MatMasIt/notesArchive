@@ -13,7 +13,29 @@ $$
 
 L'indagine del comportamento della funzione si svolge sui punti di accumulazione
 
-in $D'$ si  indaga in $\{-\infin,3\}$
+in $D'$ si  indaga in $\{-\infin,3,7\}$
+
+
+
+$$
+\lim_{x\to -\infin}f(x)
+$$
+
+$$
+\lim_{x\to 3^{-}}f(x)
+$$
+
+$$
+\lim_{x\to 7^{-}}f(x)
+$$
+
+$$
+\lim_{x\to 7^{+}}f(x)
+$$
+
+$$
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjkwOTUwN119
+eyJoaXN0b3J5IjpbLTE3MzAyOTI3NjcsLTcyMjkwOTUwN119
 -->
