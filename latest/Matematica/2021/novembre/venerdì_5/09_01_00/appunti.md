@@ -34,8 +34,14 @@ $$
 $$
 
 $$
-
+\lim_{x\to \infin}f(x)
 $$
+
+Notazione
+
+$3^{\boxed{-}}$: mi avvicino a $3$ da sinistra
+$7^{\boxed{+}}$: mi avvicino a $7$ da destra
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzAyOTI3NjcsLTcyMjkwOTUwN119
+eyJoaXN0b3J5IjpbLTEyMjE4MzMzMTksLTcyMjkwOTUwN119
 -->
