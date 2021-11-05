@@ -34,6 +34,10 @@ Zola prendeva nota, osservatore
 20 romanzi
 
 5 generazini, caratteri ereditari e luogo in cui si vive
+
+
+funzione sociale dell'autore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNDU5MzYyLC0xMTUwMzQzMzQzXX0=
+eyJoaXN0b3J5IjpbMjAwMTYyNDg0LDIyMDQ1OTM2MiwtMTE1MD
+M0MzM0M119
 -->
