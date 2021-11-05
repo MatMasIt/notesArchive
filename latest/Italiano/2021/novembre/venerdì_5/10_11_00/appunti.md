@@ -18,6 +18,15 @@ Honorèe de balzac estende il poetabile anche a situazioni abbiette e crude
 * Positivo
 
 Studio sperimentale dei fatti (del positivo), scienza
+
+
+Romanzi che suscitano molto scandalo 
+
+
+personggi dominati da nervi e sangue, privi di libero arbitrio
+
+det
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzA4MDc3MCwtMTE1MDM0MzM0M119
+eyJoaXN0b3J5IjpbLTExNjk0OTk3MDAsLTExNTAzNDMzNDNdfQ
+==
 -->
