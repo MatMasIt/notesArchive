@@ -30,6 +30,11 @@ p.445: territoriale
 acquisto luoisiana dalla francia e florida dalla spagna
 
 Guerra aggressiva USA a cui alcuni americani si sono liberati
+
+
+sud: su 10 mln 4 mln sono neri
+
+1808 : inghilterra termina tratta schiavi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU1MTMyNl19
+eyJoaXN0b3J5IjpbLTEyMTg4ODIzMDEsLTE1ODU1MTMyNl19
 -->
