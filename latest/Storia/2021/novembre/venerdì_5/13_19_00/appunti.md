@@ -35,6 +35,11 @@ Guerra aggressiva USA a cui alcuni americani si sono liberati
 sud: su 10 mln 4 mln sono neri
 
 1808 : inghilterra termina tratta schiavi
+
+Nelli stati del sud sono di valore importante (costosi)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg4ODIzMDEsLTE1ODU1MTMyNl19
+eyJoaXN0b3J5IjpbLTE3Njc5OTQxMTgsLTEyMTg4ODIzMDEsLT
+E1ODU1MTMyNl19
 -->
