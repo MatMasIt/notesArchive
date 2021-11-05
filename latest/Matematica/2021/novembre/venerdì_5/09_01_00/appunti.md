@@ -6,7 +6,11 @@ $$
 D=(-\infin,+\infin)
 $$
 
+$$
+D'=(-\infin,3)\cup[5,7)\cup(7,+\infin)
+$$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NzYwMTQ3XX0=
+eyJoaXN0b3J5IjpbLTE4NzYyNTcwMjddfQ==
 -->
