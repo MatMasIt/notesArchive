@@ -13,7 +13,11 @@ Honorèe de balzac estende il poetabile anche a situazioni abbiette e crude
 
 
 3 stadi
+* Teologico
+* Metafisico
+* Positivo
+
+Studio sperimentale dei fatti (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU1NTg3NTMsLTExNTAzNDMzNDNdfQ
-==
+eyJoaXN0b3J5IjpbMTg1MjkyMTI4MiwtMTE1MDM0MzM0M119
 -->
