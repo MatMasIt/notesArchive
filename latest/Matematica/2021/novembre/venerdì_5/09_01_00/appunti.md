@@ -87,11 +87,11 @@ Raggio intorno
 1. $$
 \lim_{x\to x_0}f(x)=l
 $$
-2. $$\lim_{x\to x_0}f(x)=\infin$$ a. $$\lim_{x\ox_0}=l^{-}$$
+2. $$\lim_{x\to x_0}f(x)=\infin$$ a. $$\lim_{x\to x_0^{-}}f(x)=l^{-}$$b.$$\lim_{x\to x_0^{-}}f(x)=l^{+}$$c. $$\lim_{x$$
 3. $$\lim_{x\to\infin}f(x)=l$$
 4. $$\lim_{x\to\infin}f(x)=\infin$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDU3NTEzNSwtNzA3Mjc0MTkxLDE3Nj
-k5NjUzMDEsOTQyODM3MDE4LC0xMjIxODMzMzE5LC03MjI5MDk1
-MDddfQ==
+eyJoaXN0b3J5IjpbMTgxNjgxMDMzLC03MDcyNzQxOTEsMTc2OT
+k2NTMwMSw5NDI4MzcwMTgsLTEyMjE4MzMzMTksLTcyMjkwOTUw
+N119
 -->
