@@ -70,8 +70,12 @@ $$
 
 
 
+---
 
+$$
+\lim_{x\to 2}\frac{x}{x-2}=\frac{2^{-}}{0^{-}}=-\infin
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyODM3MDE4LC0xMjIxODMzMzE5LC03Mj
-I5MDk1MDddfQ==
+eyJoaXN0b3J5IjpbMTc2OTk2NTMwMSw5NDI4MzcwMTgsLTEyMj
+E4MzMzMTksLTcyMjkwOTUwN119
 -->
