@@ -29,7 +29,11 @@ determinati dai loro caratteri
 
 
 
-Zola 
+Zola prendeva nota, osservatore
+
+20 romanzi
+
+5 generazini, caratteri ereditari e luogo in cui si vive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4NjQ4OTQ0LC0xMTUwMzQzMzQzXX0=
+eyJoaXN0b3J5IjpbMjIwNDU5MzYyLC0xMTUwMzQzMzQzXX0=
 -->
