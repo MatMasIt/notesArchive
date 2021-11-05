@@ -42,6 +42,20 @@ Notazione
 $3^{\boxed{-}}$: mi avvicino a $3$ da sinistra
 $7^{\boxed{+}}$: mi avvicino a $7$ da destra
 
+
+---
+
+
+$$
+\Huge{\boxed{\lim_{x\to x_o}f(x)=l}}
+$$
+
+$I)$ $x_0$ può essere $finito$ o $\infin$
+$II)$ $l$ può essere $finito$ o $\infin$
+
+
+$\forall U (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE4MzMzMTksLTcyMjkwOTUwN119
+eyJoaXN0b3J5IjpbLTQ3NjMwMjc0MCwtMTIyMTgzMzMxOSwtNz
+IyOTA5NTA3XX0=
 -->
