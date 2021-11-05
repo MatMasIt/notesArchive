@@ -13,6 +13,10 @@ Destra storica
 ## Guerra civile, Stati Uniti d'America
 
 p.443
+
+Grande crescita economica e demografica
+
+varie iniziative commercaili e industriali 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTQ4NDIyOF19
+eyJoaXN0b3J5IjpbLTc4MjI3NjMwMV19
 -->
