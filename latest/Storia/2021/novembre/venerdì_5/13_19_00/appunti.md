@@ -27,7 +27,9 @@ crescita economica e demografica
 p.445: territoriale
 
 
-acquisto luoisiana dalla francia e florida
+acquisto luoisiana dalla francia e florida dalla spagna
+
+Guerra aggressiva USA a cui alcuni americani si sono liberati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzE4ODMxM119
+eyJoaXN0b3J5IjpbLTE1ODU1MTMyNl19
 -->
