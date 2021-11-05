@@ -25,8 +25,8 @@ Romanzi che suscitano molto scandalo
 
 personggi dominati da nervi e sangue, privi di libero arbitrio
 
-det
+determinati dai loro caratteri
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk0OTk3MDAsLTExNTAzNDMzNDNdfQ
-==
+eyJoaXN0b3J5IjpbMTk4NzkyMTk2LC0xMTUwMzQzMzQzXX0=
 -->
