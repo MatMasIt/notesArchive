@@ -82,7 +82,14 @@ Raggio intorno
 
 > $$\Large\forall \epsilon > 0 \quad \exists \delta > 0 \quad /\quad \forall x\quad 0< |x-x_0|< \delta \\ \implies |f(x)-l|< \epsilon$$
 > Comunque fissato un $\epsilon$ positivo a piacere deve esistere un $\delta > 0$ dale che comunque fissato un $x$ appartenente a questo intorno
+
+4 casi
+1. $$
+\lim_{x\to x_0}f(x)=l
+$$
+2. $$\lim_{x\to x_0}f(x)=\infin$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzI3NDE5MSwxNzY5OTY1MzAxLDk0Mj
-gzNzAxOCwtMTIyMTgzMzMxOSwtNzIyOTA5NTA3XX0=
+eyJoaXN0b3J5IjpbMTgwMzM3ODg0MCwtNzA3Mjc0MTkxLDE3Nj
+k5NjUzMDEsOTQyODM3MDE4LC0xMjIxODMzMzE5LC03MjI5MDk1
+MDddfQ==
 -->
