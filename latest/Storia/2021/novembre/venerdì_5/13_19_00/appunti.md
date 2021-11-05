@@ -18,7 +18,13 @@ Grande crescita economica e demografica
 
 varie iniziative commercaili e industriali 
 
+Conquista ovest
 
+cotone
+
+crescita economica e demografica
+
+p.445: territoriale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjQ4MzA4N119
+eyJoaXN0b3J5IjpbLTU2OTk3NzAyN119
 -->
