@@ -53,6 +53,11 @@ Movimento abolizionista
 
 "Cultura della frontiera"
 
+Crescenti ondate di pionieri
+
+Conquista del midwest
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwNzcxOTg0LDE0NzIwNjExNjJdfQ==
+eyJoaXN0b3J5IjpbMTQ5MzcyMTU3NCwxNDcyMDYxMTYyXX0=
 -->
