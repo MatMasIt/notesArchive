@@ -63,7 +63,13 @@ Vicinanza economica nord-sud diventa vicinanza economica nord-est
 
 no interesse in sistema economico schiavile
 
+Stati del nord: protezionismo verso europa perchè le industrie europee producono prezzi più bassi
+
+
+stati del sud hanno uno scambio molto positivo con europa, che si fanno  arrivare i prodotti europei e vendono agli europei
+
+Prodotto stati nord sempre più costoso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDI5MTQ4NiwxNDkzNzIxNTc0LDE0Nz
+eyJoaXN0b3J5IjpbLTkwOTIxMDUxMiwxNDkzNzIxNTc0LDE0Nz
 IwNjExNjJdfQ==
 -->
