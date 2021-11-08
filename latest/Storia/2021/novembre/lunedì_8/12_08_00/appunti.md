@@ -24,4 +24,9 @@ Diritto di resistenza
 
 Ghandi (1947)
 
-
+```mermaid
+A (Thoreau)
+```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNjAyMzIzNDJdfQ==
+-->
