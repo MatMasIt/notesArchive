@@ -74,3 +74,35 @@ Esclusione: tema
 
 Pentalogia del cuore: Eva
 
+Ballerina (Eva) ed Enrico, Artista siciliano
+
+
+Amore, degradazione, marginalità, fine
+
+Ipotetico lettore uomo e donna della Buona borghesia
+
+Critica alla ipocrisia
+
+Il vero gettato in faccia alla borghesia ipocrita ma senza scopo politico
+
+Attacco alla peccaminosa vita urbana cittadina
+
+p 107,L.5 storia di una raccoglitrice di olive (orfana, esclusa)
+
+Novità: soggetto, ruralità siciliana
+
+studi etnografici
+
+p.107 _Inchiesta sulla questione meridionale_, Fracchetti e Sonnino
+
+**Rosso malpelo, _1878_**
+
+p.108
+
+'78-'89: decennio Verista
+
+**Vita dei campi**: prima raccolta di novelle
+
+Novelle Rusticane
+
+**Per le vie**: ambientazione nella banlieu milanesi
