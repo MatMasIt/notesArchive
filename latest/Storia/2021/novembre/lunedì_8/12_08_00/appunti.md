@@ -75,8 +75,16 @@ accettano comunque, 1816, dazi bassi
 1832, dazi elevati
 
 
-Statisud protestano veementemente
+Stati sud protestano veementemente
+
+
+accettati a maggioranza
+
+
+
+discussione su estensione schiavimo a stati ovest
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDI1OTUwNywxNDkzNzIxNTc0LDE0Nz
-IwNjExNjJdfQ==
+eyJoaXN0b3J5IjpbLTE5NTk2OTM1NjYsMTQ5MzcyMTU3NCwxND
+cyMDYxMTYyXX0=
 -->
