@@ -26,11 +26,16 @@ Ghandi (1947)
 
 ```mermaid
 graph TD;
-    A(Thoreau)-->B(Tolstoj);
-    A-->C(Ghandi);
-    B-->D;
-    C-->D;
+    A(Thoreau)-->B(Tolstoj 1828-1910);
+    A-->C(Ghandi 1947);
+    C-->D(Martin Luther King 1928-1968);
+    D-->E(Nelson Mandela);
 ```
+
+
+---
+
+Paternalismo, ma schiavi con valore E
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTM5Nzg0MF19
+eyJoaXN0b3J5IjpbLTExMzY3MzkyNzhdfQ==
 -->
