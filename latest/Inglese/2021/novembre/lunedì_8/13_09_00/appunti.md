@@ -5,7 +5,9 @@ Creator dares creating such a frightening animal in the same way fallen angels w
 
 shared pride
 
-not image of a benevolent god, but one hta
+not image of a benevolent god, but one htat makes  angels cry 
+
+Dreadful, frightening entity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzUyMTg1LC0xNTY2MjI1NzcwXX0=
+eyJoaXN0b3J5IjpbMTkyMjQyNzU3MSwtMTU2NjIyNTc3MF19
 -->
