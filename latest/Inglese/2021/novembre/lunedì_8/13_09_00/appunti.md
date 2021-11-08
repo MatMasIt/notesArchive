@@ -8,6 +8,15 @@ shared pride
 not image of a benevolent god, but one htat makes  angels cry 
 
 Dreadful, frightening entity
+
+Lamb's creator: abstract entity, generosity and benevolence
+
+
+daring
+
+
+bold
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjQyNzU3MSwtMTU2NjIyNTc3MF19
+eyJoaXN0b3J5IjpbNjkzMjAzNTcwLDE5MjI0Mjc1NzEsLTE1Nj
+YyMjU3NzBdfQ==
 -->
