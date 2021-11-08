@@ -37,4 +37,40 @@ Attenzione al naturalismo francese, anche storie di degrado fisico, umano
 
 Muore suicida, molti morirano per libero uso dell'alcool
 
+## Zolà
+
+Riduzione distanza narrativa con discorso indiretto libero
+
+Verga non ha inventato nulla, ha _preso a prestito_ dai naturalisti
+
+
+coro popolare, voce dei quartieri dei personaggi della storia, coro polifonico
+
+## Verga
+
+Non ha mai scritto poesie
+
+Ciclo dei vinti:
+* I malavoglia (pescatori)
+* Mastro Don Gesualdo (_self made man_)
+* Duchessa di Leira
+* Onorevole Scipioni (uomo di lusso, onorevole)
+
+Crede poco nelle sue capacità narrative
+
+Fiducia nelle sue capacità
+
+Soria di una capinera
+
+
+Tema dell'orfano, dell'escluso, del reietto
+
+Nedda, raccoglitrice di olive
+
+Rosso malpelo
+
+Esclusione: tema
+
+
+Pentalogia del cuore: Eva
 
