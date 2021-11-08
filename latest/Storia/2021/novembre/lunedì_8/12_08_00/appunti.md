@@ -57,7 +57,13 @@ Crescenti ondate di pionieri
 
 Conquista del midwest
 
+Nord: parte del paese maggiormente popolata
+
+Vicinanza economica nord-sud diventa vicinanza economica nord-est
+
+no interesse in sistema economico schiavile
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzcyMTU3NCwxNDcyMDYxMTYyXX0=
+eyJoaXN0b3J5IjpbMTk3MDI5MTQ4NiwxNDkzNzIxNTc0LDE0Nz
+IwNjExNjJdfQ==
 -->
