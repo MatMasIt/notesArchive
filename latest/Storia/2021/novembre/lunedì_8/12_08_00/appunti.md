@@ -35,7 +35,20 @@ graph TD;
 
 ---
 
-Paternalismo, ma schiavi con valore E
+Paternalismo, ma schiavi con valore 
+
+
+Schiavisti sostenevano che 
+
+> Schiavi erano trattati meglio degli operai delle fabbriche del nord
+
+Schiavi sono comunque ritenuti _cose_
+
+---
+
+Nord: cultura progredita, liberale
+
+Movimento abolizionista
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY3MzkyNzhdfQ==
+eyJoaXN0b3J5IjpbMTQ3MjA2MTE2Ml19
 -->
