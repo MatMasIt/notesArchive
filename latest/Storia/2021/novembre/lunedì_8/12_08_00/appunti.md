@@ -84,7 +84,10 @@ accettati a maggioranza
 
 discussione su estensione schiavimo a stati ovest
 
+Opposizione ovest:
+
+Opposizione nord industriale: schiavi sono pessimi consumatori, acquirenti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk2OTM1NjYsMTQ5MzcyMTU3NCwxND
-cyMDYxMTYyXX0=
+eyJoaXN0b3J5IjpbMTUzMDc2MDksMTQ5MzcyMTU3NCwxNDcyMD
+YxMTYyXX0=
 -->
