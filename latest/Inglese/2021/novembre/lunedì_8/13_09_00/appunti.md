@@ -24,8 +24,8 @@ tiger: on the same level
 > Q: _How is the theory of the complementary opposites shown in the two poems?_
 > (phisical appeareance, characteristics, settings)
 > ==write a short passage==
-> A: _In
+> A: _The two poems can be compared in a number of aspects: the tigeer represents adulthood, which is not as pure and as uncorrupted  as childhood (of which the lamb is an allegory), however both states have to coexi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTc4NzgwNCw2OTMyMDM1NzAsMTkyMj
+eyJoaXN0b3J5IjpbLTM4MjQ2MDUyNSw2OTMyMDM1NzAsMTkyMj
 QyNzU3MSwtMTU2NjIyNTc3MF19
 -->
