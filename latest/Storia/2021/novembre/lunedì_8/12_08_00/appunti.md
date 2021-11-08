@@ -87,7 +87,9 @@ discussione su estensione schiavimo a stati ovest
 Opposizione ovest:
 
 Opposizione nord industriale: schiavi sono pessimi consumatori, acquirenti e non offrono manodopera
+
+Ad ovest vogliono piccoli appezamenti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM0NTgwMiwxNDkzNzIxNTc0LDE0Nz
-IwNjExNjJdfQ==
+eyJoaXN0b3J5IjpbLTE3NjkzODkwMTIsLTIxMzM0NTgwMiwxND
+kzNzIxNTc0LDE0NzIwNjExNjJdfQ==
 -->
