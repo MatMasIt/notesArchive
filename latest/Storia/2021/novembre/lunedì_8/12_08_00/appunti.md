@@ -49,6 +49,10 @@ Schiavi sono comunque ritenuti _cose_
 Nord: cultura progredita, liberale
 
 Movimento abolizionista
+
+
+"Cultura della frontiera"
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjA2MTE2Ml19
+eyJoaXN0b3J5IjpbOTUwNzcxOTg0LDE0NzIwNjExNjJdfQ==
 -->
