@@ -69,7 +69,14 @@ Stati del nord: protezionismo verso europa perchè le industrie europee producon
 stati del sud hanno uno scambio molto positivo con europa, che si fanno  arrivare i prodotti europei e vendono agli europei
 
 Prodotto stati nord sempre più costoso
+
+accettano comunque, 1816, dazi bassi
+
+1832, dazi elevati
+
+
+Statisud protestano veementemente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTIxMDUxMiwxNDkzNzIxNTc0LDE0Nz
+eyJoaXN0b3J5IjpbLTg4MDI1OTUwNywxNDkzNzIxNTc0LDE0Nz
 IwNjExNjJdfQ==
 -->
