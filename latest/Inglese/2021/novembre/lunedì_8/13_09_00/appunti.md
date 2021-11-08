@@ -24,7 +24,8 @@ tiger: on the same level
 > Q: _How is the theory of the complementary opposites shown in the two poems?_
 > (phisical appeareance, characteristics, settings)
 > ==write a short passage==
+> A: _In
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjAzMTk0OSw2OTMyMDM1NzAsMTkyMj
+eyJoaXN0b3J5IjpbMTQ5MTc4NzgwNCw2OTMyMDM1NzAsMTkyMj
 QyNzU3MSwtMTU2NjIyNTc3MF19
 -->
