@@ -25,8 +25,12 @@ Diritto di resistenza
 Ghandi (1947)
 
 ```mermaid
-A (Thoreau)
+graph TD;
+    A(Thoreau)-->B(Tolstoj);
+    A-->C(Ghandi);
+    B-->D;
+    C-->D;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjAyMzIzNDJdfQ==
+eyJoaXN0b3J5IjpbLTgwMTM5Nzg0MF19
 -->
