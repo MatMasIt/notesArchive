@@ -43,9 +43,18 @@ $$
 \vec{F_{23}}=-0,124N\vec i=\begin{pmatrix}0,124N\vec i \\0\end{pmatrix}
 $$
 $$
-\vec F_{13} = f_{13}\cos 45 \vec i +F_{13}\sin 45 \vec j
+\vec F_{13} = F_{13}\cos 45 \vec i +F_{13}\sin 45 \vec j = 0,044N\vec i + 0,044N\vec j
+$$
+
+$$
+=\begin{pmatrix}0,044N\\0,044N\end{pmatrix}
+$$
+
+---
+
+$$
+\vec  R = \vec F_{23}+\vec F_{13} 
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjgzMzg3OTEsLTE3NDc0NTAzNTZdfQ
-==
+eyJoaXN0b3J5IjpbMTM1Mzg1MTA3NywtMTc0NzQ1MDM1Nl19
 -->
