@@ -58,8 +58,13 @@ $$
 
 
 $$
-R=\sqrt{(0,168N)^2+(0,044N
+R=\sqrt{(0,168N)^2+(0,044N)^2}=0,174N
 $$
+
+$$
+\theta=\arctan \frac{0,044N}{0,168 N}=14°40'25''
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE4MzQ0LC0xNzQ3NDUwMzU2XX0=
+eyJoaXN0b3J5IjpbLTc4MTY2Njg5MiwtMTc0NzQ1MDM1Nl19
 -->
