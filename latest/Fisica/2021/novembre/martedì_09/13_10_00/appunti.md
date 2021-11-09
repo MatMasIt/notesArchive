@@ -53,8 +53,13 @@ $$
 ---
 
 $$
-\vec  R = \vec F_{23}+\vec F_{13} 
+\vec  R = \vec F_{23}+\vec F_{13} =\begin{pmatrix}0,124N\\0\end{pmatrix}+=\begin{pmatrix}0,044N\\0,044N\end{pmatrix}=\begin{pmatrix}0,168N\\0,044N\end{pmatrix}
+$$
+
+
+$$
+R=\sqrt{(0,168N)^2+(0,044N
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Mzg1MTA3NywtMTc0NzQ1MDM1Nl19
+eyJoaXN0b3J5IjpbLTE4MjE4MzQ0LC0xNzQ3NDUwMzU2XX0=
 -->
