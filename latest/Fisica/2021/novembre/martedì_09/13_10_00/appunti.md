@@ -11,7 +11,7 @@
 > $\theta=?$
 
 $$
-F_{13}=\frac{|q_1|\cdot|q_2|}{(\sqrt 2)^2}
+F_{12}=\frac{|q_1|\cdot|q_2|}{(r\sqrt 2)^2}
 $$
 
 $$
@@ -19,13 +19,13 @@ $$
 $$
 
 $$
-F_{13}=0,062N
+F_{12}=0,062N
 $$
 
 ---
 
 $$
-F_{13}=\frac{|q_1|\cdot|q_3|}{(2\sqrt 2)^2}
+F_{13}=\frac{|q_1|\cdot|q_3|}{r^2}
 $$
 
 $$
@@ -35,5 +35,5 @@ $$
 $$
 F_{13}=0,062N
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3MzEwOTMyLC0xNzQ3NDUwMzU2XX0=
+eyJoaXN0b3J5IjpbLTUxMDIxMzMzLC0xNzQ3NDUwMzU2XX0=
 -->
