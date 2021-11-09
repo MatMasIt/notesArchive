@@ -38,6 +38,14 @@ $$
 
 
 ---
+
+$$
+\vec{F_{23}}=-0,124N\vec i=\begin{pmatrix}0,124N\vec i \\0\end{pmatrix}
+$$
+$$
+\vec F_{13} = f_{13}\cos 45 \vec i +F_{13}\sin 45 \vec j
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczMDk3MjEzLC0xNzQ3NDUwMzU2XX0=
+eyJoaXN0b3J5IjpbLTEyNjgzMzg3OTEsLTE3NDc0NTAzNTZdfQ
+==
 -->
