@@ -2,7 +2,7 @@
 ## Martedì 9 novembre 2021, 09:11:00
 
 
-Biotecnologie, principalmente studia
+Biotecnologie, principalmente studiano e utilizzano batteri (semplici)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc1NjY4MV19
+eyJoaXN0b3J5IjpbLTEwNjQyNTEwNDBdfQ==
 -->
