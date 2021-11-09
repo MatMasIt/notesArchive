@@ -11,9 +11,13 @@
 > $\theta=?$
 
 $$
-F_{13}=\frac{|Q_1|\cdot
+F_{13}=\frac{|q_1|\cdot|q_2|}{(2\sqrt 2)^2}
+$$
+
+$$
+=8,9\cdot 10^9\frac{Nm^2}{C^2}\cdot\frac{2,9\cdot10^{-6}\cdot1,20\cdot10^{-6}}{}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgzMjgwNCwtMTc0NzQ1MDM1Nl19
+eyJoaXN0b3J5IjpbMTk1OTU3NjAzNiwtMTc0NzQ1MDM1Nl19
 -->
