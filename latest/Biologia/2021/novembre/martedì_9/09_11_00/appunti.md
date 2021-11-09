@@ -50,3 +50,16 @@ Campi microbiologia:
 Gli olandesi inventano il microscopio
 Lazzaro Spallanzani dimostra l'infondatezza della generazione spontanea
 Louis Pasteur, padre della microbiologia
+
+Risultati colture
+
+|Terreno|$c$|$n$|
+|---|---|---|
+|PCA|1:10|$59$|
+|PCA|1:10|$2$|
+|PCA|1:10|$2$|
+|PCA|1:1|$0$|
+|YEAST|1:10|$7$|
+|YEAST|1:10|$1$|
+|YWASt|1:10|$0$|
+|YEAST|1:1|$2|
