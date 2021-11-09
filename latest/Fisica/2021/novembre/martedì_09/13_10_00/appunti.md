@@ -2,6 +2,7 @@
 ## Martedì 9 novembre 2021, 13:10:00
 
 
+> ![](https://i.imgur.com/yqcelbM.jpg)
 > **Dati**
 > $q_1=q_2=+2,9\mu C=2,9\cdot 10^{-6}C$
 > $Q=+1,2\mu C=1,2\cdot 10^{-6}C$
@@ -65,6 +66,7 @@ $$
 \theta=\arctan \frac{0,044N}{0,168 N}=14°40'25''
 $$
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTY2Njg5MiwtMTc0NzQ1MDM1Nl19
+eyJoaXN0b3J5IjpbNjY0ODIyOTEyLC0xNzQ3NDUwMzU2XX0=
 -->
