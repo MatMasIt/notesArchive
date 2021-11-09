@@ -7,13 +7,7 @@
 > $Q=+1,2\mu C=1,2\cdot 10^{-6}C$
 > $r=0,5m$
 
-		|
-		|
-		|
-		|
-		|
-		|
-		- - - - - - - - - - - - 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjM1MzIwXX0=
+eyJoaXN0b3J5IjpbLTE3NDc0NTAzNTZdfQ==
 -->
