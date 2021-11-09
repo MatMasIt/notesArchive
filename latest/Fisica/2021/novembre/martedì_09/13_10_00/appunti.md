@@ -6,8 +6,14 @@
 > $q_1=q_2=+2,9\mu C=2,9\cdot 10^{-6}C$
 > $Q=+1,2\mu C=1,2\cdot 10^{-6}C$
 > $r=0,5m$
+> **Richieste**
+> $R=?$
+> $\theta=?$
 
+$$
+F_{13}=\frac{|Q_1|\cdot
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc0NTAzNTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMDgzMjgwNCwtMTc0NzQ1MDM1Nl19
 -->
