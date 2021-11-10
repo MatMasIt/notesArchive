@@ -154,8 +154,18 @@ Acido ossalico
 			  OH
 
 
-Acido carbossilico fince semp
+Acido carbossilico "vince semrpe" (gruppo priore, priorità su altri gruppi funzional
+
+---
+
+				CH3
+				|
+		     H2-C-OH
+		        |
+		        | O
+		        |//
+		        C
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzM1NTU0OSwtODM2MzE0ODY5LDU2Nz
-QzNzQxMSwtMjY2MjAyOTg2LDQxNDE4NjQwNV19
+eyJoaXN0b3J5IjpbNDY2MjEzNjQzLC04MzYzMTQ4NjksNTY3ND
+M3NDExLC0yNjYyMDI5ODYsNDE0MTg2NDA1XX0=
 -->
