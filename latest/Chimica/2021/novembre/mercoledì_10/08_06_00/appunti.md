@@ -114,7 +114,13 @@ formaldeide
 		H-C-H
 
 
+
+2-propanone o _acetone_
+
+            O
+            ||
+		H3C-C-CH3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTA0Nzk1NSwtODM2MzE0ODY5LDU2Nz
+eyJoaXN0b3J5IjpbMTkzMDU3MTE3MCwtODM2MzE0ODY5LDU2Nz
 QzNzQxMSwtMjY2MjAyOTg2LDQxNDE4NjQwNV19
 -->
