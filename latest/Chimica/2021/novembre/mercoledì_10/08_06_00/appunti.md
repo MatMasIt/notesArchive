@@ -131,10 +131,24 @@ Acidi Carbossilici
 			    \
 			     [OH]
 
+Acido etanoico (o acetico)
+			
+				  O
+				 //
+			H3C-C
+			     \
+			      OH
 
+
+Acido ossalico
+
+			C
+			|
+			C
+			
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5MzQyNDQ5LC04MzYzMTQ4NjksNTY3ND
-M3NDExLC0yNjYyMDI5ODYsNDE0MTg2NDA1XX0=
+eyJoaXN0b3J5IjpbLTMxOTk0NDA2NCwtODM2MzE0ODY5LDU2Nz
+QzNzQxMSwtMjY2MjAyOTg2LDQxNDE4NjQwNV19
 -->
