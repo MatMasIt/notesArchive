@@ -165,7 +165,12 @@ Acido carbossilico "vince semrpe" (gruppo priore, priorità su altri gruppi funz
 		        | O
 		        |//
 		        C
+		         \\
+		          OH
+
+Acido 2-diossipropanoico
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2MjEzNjQzLC04MzYzMTQ4NjksNTY3ND
+eyJoaXN0b3J5IjpbNTM4NjcwMTcyLC04MzYzMTQ4NjksNTY3ND
 M3NDExLC0yNjYyMDI5ODYsNDE0MTg2NDA1XX0=
 -->
