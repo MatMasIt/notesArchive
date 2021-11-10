@@ -12,7 +12,7 @@ p. 50 numenclatura derivati del benzene
 
 ---
 
-Alcooli : $R-\boxed{OH}$
+==Alcooli== : $R-\boxed{OH}$
 $-olo$
 **met**anolo
 
@@ -41,9 +41,9 @@ propantriolo (glicerolo)
 
 ---
 
-Etene $R-O-R'$
+==Etene== $R-O-R'$
 
-Tioli $R-S-H$
+==Tioli== $R-S-H$
 
 ---
 Gruppo funzionale
@@ -59,7 +59,7 @@ Carbonile
 
 Composti che ne fanno uso
 
-Aldeidi:
+==Aldeidi:==
 
 		H
 		|
@@ -76,7 +76,7 @@ metanale
 
 ---
 
-Chetoni
+==Chetoni==
 
 
 			R
@@ -123,7 +123,7 @@ formaldeide
 
 
 
-Acidi Carbossilici
+==Acidi Carbossilici==
 				
 				O
 			   //
@@ -172,7 +172,7 @@ Acido 2-diossipropanoico
 
 ---
 
-Esteri: derivati degli acifi carbossilici
+==Esteri==: derivati degli acifi carbossilici
 
 $R-COOR'$
 
@@ -189,11 +189,13 @@ $R-COOR'$
 etanoato di etile
 
 
-Ammidi
+==Ammidi==
 
-			
+			NH2
+			|
+		   -C=O
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzAzMjMwOTcsNTM4NjcwMTcyLC04Mz
+eyJoaXN0b3J5IjpbLTEzMjk0MDA1OTEsNTM4NjcwMTcyLC04Mz
 YzMTQ4NjksNTY3NDM3NDExLC0yNjYyMDI5ODYsNDE0MTg2NDA1
 XX0=
 -->
