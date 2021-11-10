@@ -46,14 +46,25 @@ Etene $R-O-R'$
 Tioli $R-S-H$
 
 ---
-
+Gruppo funzionale
 Carbonile
 
-		\
+		 \
 		  C = O
 		 /
 
+
+
+
+
+Composti che ne fanno uso
+
+Aldeidi:
+
+		H
+		|
+ 	   -C = O
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODI1NTU3MzMsLTgzNjMxNDg2OSw1Nj
-c0Mzc0MTEsLTI2NjIwMjk4Niw0MTQxODY0MDVdfQ==
+eyJoaXN0b3J5IjpbMTk2NjE2NDA1NSwtODM2MzE0ODY5LDU2Nz
+QzNzQxMSwtMjY2MjAyOTg2LDQxNDE4NjQwNV19
 -->
