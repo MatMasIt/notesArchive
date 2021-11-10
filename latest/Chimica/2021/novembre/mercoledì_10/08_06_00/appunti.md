@@ -94,10 +94,17 @@ $-one$
 Pentanale
 
 Aldeide, gruppo funzionale o inizio o fine
-      O
-      \\
-	H-C - C - C - C - C
+
+        O
+        ||
+	H - C - C - C - C - C
+
+2-pentanone
+
+                O
+				||                 
+			H3C-C-CH2-CH2-CH3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxOTk5MTM2LC04MzYzMTQ4NjksNTY3ND
+eyJoaXN0b3J5IjpbNTA4OTg4MzIxLC04MzYzMTQ4NjksNTY3ND
 M3NDExLC0yNjYyMDI5ODYsNDE0MTg2NDA1XX0=
 -->
