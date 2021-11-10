@@ -170,7 +170,23 @@ Acido carbossilico "vince semrpe" (gruppo priore, priorità su altri gruppi funz
 
 Acido 2-diossipropanoico
 
+---
+
+Esteri: derivati degli acifi carbossilici
+
+$R-COOR'$
+
+                O
+                ||
+			CH3-C-O
+
+
+---
+                O
+                ||
+			CH3-C-O-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NjcwMTcyLC04MzYzMTQ4NjksNTY3ND
-M3NDExLC0yNjYyMDI5ODYsNDE0MTg2NDA1XX0=
+eyJoaXN0b3J5IjpbLTEzNzg3MDYyMjAsNTM4NjcwMTcyLC04Mz
+YzMTQ4NjksNTY3NDM3NDExLC0yNjYyMDI5ODYsNDE0MTg2NDA1
+XX0=
 -->
