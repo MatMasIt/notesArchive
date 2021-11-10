@@ -19,7 +19,11 @@ $-olo$
 			CH3OH
 **et**anolo
 
-			
+			CH3CH2OH
+
+
+---
+Se il benzene ha il gruppo funzionale $OH$: $fenolo$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI3MzI4NzcsNDE0MTg2NDA1XX0=
+eyJoaXN0b3J5IjpbLTI2NjIwMjk4Niw0MTQxODY0MDVdfQ==
 -->
