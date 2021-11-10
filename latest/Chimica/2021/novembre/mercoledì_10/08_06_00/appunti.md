@@ -36,10 +36,9 @@ glicoli: + di un gruppo oh
 			 HC-OH
 			 |
 		  H2-C-OH
-propantriolo
-
+propantriolo (glicerolo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTE5ODg3MzIsNTY3NDM3NDExLC0yNj
-YyMDI5ODYsNDE0MTg2NDA1XX0=
+eyJoaXN0b3J5IjpbLTgzNjMxNDg2OSw1Njc0Mzc0MTEsLTI2Nj
+IwMjk4Niw0MTQxODY0MDVdfQ==
 -->
