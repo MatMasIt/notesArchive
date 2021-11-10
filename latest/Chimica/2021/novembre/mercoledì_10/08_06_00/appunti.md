@@ -24,6 +24,12 @@ $-olo$
 
 ---
 Se il benzene ha il gruppo funzionale $OH$: $fenolo$
+
+
+---
+
+glicoli: + di un gruppo oh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjIwMjk4Niw0MTQxODY0MDVdfQ==
+eyJoaXN0b3J5IjpbNTY3NDM3NDExLC0yNjYyMDI5ODYsNDE0MT
+g2NDA1XX0=
 -->
