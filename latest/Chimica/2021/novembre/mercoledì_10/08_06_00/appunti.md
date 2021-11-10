@@ -85,8 +85,19 @@ Chetoni
 			|
 			R
 
-$-on
+$-one$
+
+
+
+---
+
+Pentanale
+
+Aldeide, gruppo funzionale o inizio o fine
+      O
+      \\
+	H-C - C - C - C - C
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTU3NjI5MywtODM2MzE0ODY5LDU2Nz
-QzNzQxMSwtMjY2MjAyOTg2LDQxNDE4NjQwNV19
+eyJoaXN0b3J5IjpbMzkxOTk5MTM2LC04MzYzMTQ4NjksNTY3ND
+M3NDExLC0yNjYyMDI5ODYsNDE0MTg2NDA1XX0=
 -->
