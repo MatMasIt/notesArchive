@@ -142,13 +142,20 @@ Acido etanoico (o acetico)
 
 Acido ossalico
 
+			   O	
+			 //
 			C
-			|
+			|\\
+			|   OH
+			|  O
+			|// 
 			C
-			
+			 \\
+			  OH
 
 
+Acido carbossilico fince semp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTk0NDA2NCwtODM2MzE0ODY5LDU2Nz
+eyJoaXN0b3J5IjpbLTYwNzM1NTU0OSwtODM2MzE0ODY5LDU2Nz
 QzNzQxMSwtMjY2MjAyOTg2LDQxNDE4NjQwNV19
 -->
