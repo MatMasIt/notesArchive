@@ -104,7 +104,17 @@ Aldeide, gruppo funzionale o inizio o fine
                 O
 				||                 
 			H3C-C-CH2-CH2-CH3
+
+
+----
+formaldeide
+
+		  O
+		  ||		  
+		H-C-H
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4OTg4MzIxLC04MzYzMTQ4NjksNTY3ND
-M3NDExLC0yNjYyMDI5ODYsNDE0MTg2NDA1XX0=
+eyJoaXN0b3J5IjpbMTAyMTA0Nzk1NSwtODM2MzE0ODY5LDU2Nz
+QzNzQxMSwtMjY2MjAyOTg2LDQxNDE4NjQwNV19
 -->
