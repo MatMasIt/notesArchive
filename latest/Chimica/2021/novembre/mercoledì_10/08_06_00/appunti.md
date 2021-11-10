@@ -38,7 +38,13 @@ glicoli: + di un gruppo oh
 		  H2-C-OH
 propantriolo (glicerolo)
 
+
+---
+
+Etene $R-O-R'$
+
+Tioli $R-S-H$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjMxNDg2OSw1Njc0Mzc0MTEsLTI2Nj
-IwMjk4Niw0MTQxODY0MDVdfQ==
+eyJoaXN0b3J5IjpbLTM5MjQzNTk3OSwtODM2MzE0ODY5LDU2Nz
+QzNzQxMSwtMjY2MjAyOTg2LDQxNDE4NjQwNV19
 -->
