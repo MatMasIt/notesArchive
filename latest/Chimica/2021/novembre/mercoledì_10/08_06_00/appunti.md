@@ -64,7 +64,29 @@ Aldeidi:
 		H
 		|
  	   -C = O
+$-ale$
+$CHO$
+
+
+metanale
+		   
+		   O 
+		  | | 
+		H- C -H
+
+---
+
+Chetoni
+
+
+			R
+			|
+			C = O
+			|
+			R
+
+$-on
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjE2NDA1NSwtODM2MzE0ODY5LDU2Nz
+eyJoaXN0b3J5IjpbMTQ1MTU3NjI5MywtODM2MzE0ODY5LDU2Nz
 QzNzQxMSwtMjY2MjAyOTg2LDQxNDE4NjQwNV19
 -->
