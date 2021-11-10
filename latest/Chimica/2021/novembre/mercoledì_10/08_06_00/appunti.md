@@ -194,8 +194,13 @@ etanoato di etile
 			NH2
 			|
 		   -C=O
+
+==Ammine==
+
+					NH3
+In base a numero di radicali: primaria, secondaria, terziaria					
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk0MDA1OTEsNTM4NjcwMTcyLC04Mz
+eyJoaXN0b3J5IjpbLTE3ODMwMzc1MDUsNTM4NjcwMTcyLC04Mz
 YzMTQ4NjksNTY3NDM3NDExLC0yNjYyMDI5ODYsNDE0MTg2NDA1
 XX0=
 -->
