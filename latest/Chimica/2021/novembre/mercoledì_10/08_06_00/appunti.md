@@ -184,9 +184,16 @@ $R-COOR'$
 ---
                 O
                 ||
-			CH3-C-O-
+			CH3-C-O
+
+etanoato di etile
+
+
+Ammidi
+
+			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg3MDYyMjAsNTM4NjcwMTcyLC04Mz
+eyJoaXN0b3J5IjpbLTExMzAzMjMwOTcsNTM4NjcwMTcyLC04Mz
 YzMTQ4NjksNTY3NDM3NDExLC0yNjYyMDI5ODYsNDE0MTg2NDA1
 XX0=
 -->
