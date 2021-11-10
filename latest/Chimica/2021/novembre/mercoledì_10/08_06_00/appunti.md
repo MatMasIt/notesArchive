@@ -44,7 +44,16 @@ propantriolo (glicerolo)
 Etene $R-O-R'$
 
 Tioli $R-S-H$
+
+---
+
+Carbonile
+
+		\
+		  C = O
+		 /
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjQzNTk3OSwtODM2MzE0ODY5LDU2Nz
-QzNzQxMSwtMjY2MjAyOTg2LDQxNDE4NjQwNV19
+eyJoaXN0b3J5IjpbLTE5ODI1NTU3MzMsLTgzNjMxNDg2OSw1Nj
+c0Mzc0MTEsLTI2NjIwMjk4Niw0MTQxODY0MDVdfQ==
 -->
