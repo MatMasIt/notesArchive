@@ -106,8 +106,13 @@ $$
 
 $$\vec{H}=\frac{\vec{F_g}}{m}\quad\left(G\frac{M}{\vec{R}^2}\right)$$
 
-$$\vec{E}=\frac{\vec{F_g}}{q}\quad\left(G\frac{M}{\vec{R}^2}\right)$$
+$$\vec{E}=\frac{\vec{F_e}}{q}\quad\left(G\frac{M}{\vec{R}^2}\right)$$
+
+
+$$
+\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjA5MzAxOSwxMzQzNjg3NzczLDE2Mz
-M4MjU4NzgsLTEyMDIzMTM2MzZdfQ==
+eyJoaXN0b3J5IjpbNTczNjc1NTIzLDEzNDM2ODc3NzMsMTYzMz
+gyNTg3OCwtMTIwMjMxMzYzNl19
 -->
