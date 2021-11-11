@@ -41,7 +41,13 @@ $$
 \mu_0=4\pi\cdot 10^{-7}\frac{N}{A^2}
 $$
 
+---
+![](https://i.imgur.com/rOylSIy.jpg)
 
+
+> **Dati**
+> $d=5cm=5\cdot 10^
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzgyNTg3OCwtMTIwMjMxMzYzNl19
+eyJoaXN0b3J5IjpbLTQzNDQ2NTg0NiwxNjMzODI1ODc4LC0xMj
+AyMzEzNjM2XX0=
 -->
