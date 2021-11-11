@@ -35,6 +35,11 @@ $$
 $$
 \epsilon_0=8,85\cdot10^{-12}\frac{C^2}{Nm^2}
 $$
+
+
+$$
+\mu_0=4\pi\cdot 10^{-7}\frac{N}{A^2}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjU5MTg0MSwtMTIwMjMxMzYzNl19
+eyJoaXN0b3J5IjpbLTY4NTM5Mzc5OCwtMTIwMjMxMzYzNl19
 -->
