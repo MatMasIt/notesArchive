@@ -57,7 +57,15 @@ $$
 $$
 =2\cdot 10^{-7}\frac{N}{A^2}\frac{2\cancel A^2}{5\cdot 10^{-2}\sqrt 2 m}
 =1,13\cdot 10^{-2}\frac{N}{m}$$
+
+
+---
+
+
+$$
+\frac{F_2}{l}(x)=\frac{F_1}{l}\cdot \cos 45° =\frac{F_1}{l}y
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzY4Nzc3MywxNjMzODI1ODc4LC0xMj
-AyMzEzNjM2XX0=
+eyJoaXN0b3J5IjpbLTE4MDgwMjk0NywxMzQzNjg3NzczLDE2Mz
+M4MjU4NzgsLTEyMDIzMTM2MzZdfQ==
 -->
