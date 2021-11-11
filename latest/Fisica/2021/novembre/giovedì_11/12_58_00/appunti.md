@@ -15,11 +15,14 @@
 $$
 \vec F_G=G\frac{mM}{\vec{R}^2}
 $$
+
 $$
-\vec F_e=\frac1{4\pi\frac{Q_1Q_2}{\vec{R}^2}
+\vec F_e=\frac1{4\pi\epsilon_0}\frac{Q_1Q_2}{\vec{R}^2}
 $$
 
-
+$$
+\vec F_m=\frac{\mu_0}{2\pi}\frac{4il\cdot i_2 \cancel{\vec{d}}}{\vec d^{\cancel 2}}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDcyMjA3NiwtMTIwMjMxMzYzNl19
+eyJoaXN0b3J5IjpbOTkyOTY4MzcyLC0xMjAyMzEzNjM2XX0=
 -->
