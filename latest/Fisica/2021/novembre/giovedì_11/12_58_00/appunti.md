@@ -46,8 +46,14 @@ $$
 
 
 > **Dati**
-> $d=5cm=5\cdot 10^
+> $d=5cm=5\cdot 10^{-2}m$
+> $i_1=1A$
+> $i_2=2A$
+
+$$
+\frac{F_1}{1m}=\frac{\mu_0
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDQ2NTg0NiwxNjMzODI1ODc4LC0xMj
+eyJoaXN0b3J5IjpbLTU4NjU1OTg5NywxNjMzODI1ODc4LC0xMj
 AyMzEzNjM2XX0=
 -->
