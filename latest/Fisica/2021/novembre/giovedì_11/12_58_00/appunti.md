@@ -80,7 +80,15 @@ $$
 \cdot 10^{-5}\frac{N}m+\begin{pmatrix}0\\1,6\end{pmatrix}
 \cdot 10^{-5}\frac{N}m=\begin{pmatrix}0,4\\1,2\end{pmatrix}
 \cdot 10^{-5}\frac{N}m$$
+
+
+$$
+\frac{R}{l}=\sqrt{(0,4)^2+(1,2)^2}\cdot 10^{-5}\frac{N}{M}
+$$
+$$
+\frac{R}{l}=1,26\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUxNjUyNjMsMTM0MzY4Nzc3MywxNj
-MzODI1ODc4LC0xMjAyMzEzNjM2XX0=
+eyJoaXN0b3J5IjpbMTg2OTkyODk4MCwxMzQzNjg3NzczLDE2Mz
+M4MjU4NzgsLTEyMDIzMTM2MzZdfQ==
 -->
