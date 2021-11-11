@@ -104,15 +104,15 @@ Campo=\frac{Forza}{Unità\space di\space elemento \space che \space genera \spac
 $$
 
 
-$$\vec{H}=\frac{\vec{F_g}}{m}\quad\left(G\frac{M}{\vec{R}^2}\right)$$
+$$\vec{H}=\frac{\vec{F_g}}{m}\quad\left(G\frac{M}{\vec{R}^2}\right)\quad\left(\frac{m}{s^2}\right)$$
 
-$$\vec{E}=\frac{\vec{F_e}}{q}\quad\left(\frac{1}{\pi \vec{r_0}} \frac{Q}{R^2}\right)$$
+$$\vec{E}=\frac{\vec{F_e}}{q}\quad\left(\frac{1}{\pi \vec{r_0}} \frac{Q}{R^2}\right)\quad\left(\frac{N}{C}\right)$$
 
 
 $$
-\vec{B}=\frac{\vec{F_m}}{i_2l}\quad\left(
+\vec{B}=\frac{\vec{F_m}}{i_2l}\quad\left(\frac{\mu_0}{2\pi}{I_1}{d}\right)\quad(
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTQ0MTk1MCwxMzQzNjg3NzczLDE2Mz
+eyJoaXN0b3J5IjpbMTM0NjQwNjczMCwxMzQzNjg3NzczLDE2Mz
 M4MjU4NzgsLTEyMDIzMTM2MzZdfQ==
 -->
