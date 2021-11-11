@@ -86,9 +86,14 @@ $$
 \frac{R}{l}=\sqrt{(0,4)^2+(1,2)^2}\cdot 10^{-5}\frac{N}{M}
 $$
 $$
-\frac{R}{l}=1,26\
+\frac{R}{l}=1,26\cdot 10^{-5}\frac{N}{m}
+$$
+
+
+$$
+\beta=\arctan{\frac{R_x}{R_y}}=71°33'54,18''
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTkyODk4MCwxMzQzNjg3NzczLDE2Mz
+eyJoaXN0b3J5IjpbLTgwODQ1MzQ5MSwxMzQzNjg3NzczLDE2Mz
 M4MjU4NzgsLTEyMDIzMTM2MzZdfQ==
 -->
