@@ -99,7 +99,10 @@ $$
 ## I campi
 
 
+$$
+Campo=\frac{Forza}{Unità\space di\space elemento \space che \space genera \a
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjU4MDExMiwxMzQzNjg3NzczLDE2Mz
+eyJoaXN0b3J5IjpbMTIzMDQ3MjY5NywxMzQzNjg3NzczLDE2Mz
 M4MjU4NzgsLTEyMDIzMTM2MzZdfQ==
 -->
