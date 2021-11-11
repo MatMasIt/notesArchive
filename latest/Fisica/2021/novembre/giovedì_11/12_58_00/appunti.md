@@ -93,7 +93,13 @@ $$
 $$
 \beta=\arctan{\frac{R_x}{R_y}}=71°33'54,18''
 $$
+
+----
+
+## I campi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODQ1MzQ5MSwxMzQzNjg3NzczLDE2Mz
+eyJoaXN0b3J5IjpbMTA2NjU4MDExMiwxMzQzNjg3NzczLDE2Mz
 M4MjU4NzgsLTEyMDIzMTM2MzZdfQ==
 -->
