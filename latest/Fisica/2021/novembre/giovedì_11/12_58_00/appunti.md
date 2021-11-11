@@ -106,13 +106,13 @@ $$
 
 $$\vec{H}=\frac{\vec{F_g}}{m}\quad\left(G\frac{M}{\vec{R}^2}\right)$$
 
-$$\vec{E}=\frac{\vec{F_e}}{q}\quad\left(G\frac{M}{\vec{R}^2}\right)$$
+$$\vec{E}=\frac{\vec{F_e}}{q}\quad\left(\frac{1}{\pi \vec{r_0}} \frac{Q}{R^2}\right)$$
 
 
 $$
-\
+\vec{B}=\frac{\vec{F_m}}{i_2l}\quad\left(
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNjc1NTIzLDEzNDM2ODc3NzMsMTYzMz
-gyNTg3OCwtMTIwMjMxMzYzNl19
+eyJoaXN0b3J5IjpbLTMzNTQ0MTk1MCwxMzQzNjg3NzczLDE2Mz
+M4MjU4NzgsLTEyMDIzMTM2MzZdfQ==
 -->
