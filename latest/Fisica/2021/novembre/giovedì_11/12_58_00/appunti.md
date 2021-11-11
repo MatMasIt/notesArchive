@@ -100,9 +100,14 @@ $$
 
 
 $$
-Campo=\frac{Forza}{Unità\space di\space elemento \space che \space genera \a
+Campo=\frac{Forza}{Unità\space di\space elemento \space che \space genera \space il \space campo}
 $$
+
+
+$$\vec{H}=\frac{\vec{F_g}}{m}\quad\left(G\frac{M}{\vec{R}^2}\right)$$
+
+$$\vec{E}=\frac{\vec{F_g}}{q}\quad\left(G\frac{M}{\vec{R}^2}\right)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDQ3MjY5NywxMzQzNjg3NzczLDE2Mz
+eyJoaXN0b3J5IjpbMTQwNjA5MzAxOSwxMzQzNjg3NzczLDE2Mz
 M4MjU4NzgsLTEyMDIzMTM2MzZdfQ==
 -->
