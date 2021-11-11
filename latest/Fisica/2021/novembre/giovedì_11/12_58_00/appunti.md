@@ -10,6 +10,16 @@
 ![](https://i.imgur.com/KNNMQmH.jpg)
 
 
+---
+
+$$
+\vec F_G=G\frac{mM}{\vec{R}^2}
+$$
+$$
+\vec F_e=\frac1{4\pi\frac{Q_1Q_2}{\vec{R}^2}
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDIzMTM2MzZdfQ==
+eyJoaXN0b3J5IjpbMTg5MDcyMjA3NiwtMTIwMjMxMzYzNl19
 -->
