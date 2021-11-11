@@ -110,9 +110,9 @@ $$\vec{E}=\frac{\vec{F_e}}{q}\quad\left(\frac{1}{\pi \vec{r_0}} \frac{Q}{R^2}\ri
 
 
 $$
-\vec{B}=\frac{\vec{F_m}}{i_2l}\quad\left(\frac{\mu_0}{2\pi}{I_1}{d}\right)\quad(
+\vec{B}=\frac{\vec{F_m}}{i_2l}\quad\left(\frac{\mu_0}{2\pi}{I_1}{d}\right)\quad(T)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjQwNjczMCwxMzQzNjg3NzczLDE2Mz
-M4MjU4NzgsLTEyMDIzMTM2MzZdfQ==
+eyJoaXN0b3J5IjpbMzgzNzkwMTAxLDEzNDM2ODc3NzMsMTYzMz
+gyNTg3OCwtMTIwMjMxMzYzNl19
 -->
