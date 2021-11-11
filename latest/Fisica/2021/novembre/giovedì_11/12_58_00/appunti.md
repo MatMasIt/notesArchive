@@ -75,8 +75,12 @@ $$
 \cdot 10^{-5}\frac{N}m$$
 
 
-
+$$
+\frac{R}{l}=\begin{pmatrix}0,4\\-0,4\end{pmatrix}
+\cdot 10^{-5}\frac{N}m+\begin{pmatrix}0\\1,6\end{pmatrix}
+\cdot 10^{-5}\frac{N}m=\begin{pmatrix}0,4\\1,2\end{pmatrix}
+\cdot 10^{-5}\frac{N}m$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Nzk0MzUzOSwxMzQzNjg3NzczLDE2Mz
-M4MjU4NzgsLTEyMDIzMTM2MzZdfQ==
+eyJoaXN0b3J5IjpbLTEzMTUxNjUyNjMsMTM0MzY4Nzc3MywxNj
+MzODI1ODc4LC0xMjAyMzEzNjM2XX0=
 -->
