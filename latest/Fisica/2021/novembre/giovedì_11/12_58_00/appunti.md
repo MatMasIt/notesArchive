@@ -51,9 +51,13 @@ $$
 > $i_2=2A$
 
 $$
-\frac{F_1}{1m}=\frac{\mu_0
+\frac{F_1}{1m}=\frac{\mu_0}{2\pi}\frac{i_1i_2}{d_1}
+$$
+
+$$
+=2\cdot 10^{-7}\frac{N}{A^2}\frac{2A^2
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjU1OTg5NywxNjMzODI1ODc4LC0xMj
+eyJoaXN0b3J5IjpbLTk3MDYyMjE0OSwxNjMzODI1ODc4LC0xMj
 AyMzEzNjM2XX0=
 -->
