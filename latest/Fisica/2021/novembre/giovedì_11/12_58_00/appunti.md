@@ -12,6 +12,8 @@
 
 ---
 
+Forze
+
 $$
 \vec F_G=G\frac{mM}{\vec{R}^2}
 $$
@@ -23,6 +25,16 @@ $$
 $$
 \vec F_m=\frac{\mu_0}{2\pi}\frac{4il\cdot i_2 \cancel{\vec{d}}}{\vec d^{\cancel 2}}
 $$
+
+Costanti
+
+$$
+G=6,67\cdot 10^{-11}\frac{Nm^2}{Kg^2}
+$$
+
+$$
+\epsilon_0=8,85\cdot10^{-12}\frac{C^2}{Nm^2}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyOTY4MzcyLC0xMjAyMzEzNjM2XX0=
+eyJoaXN0b3J5IjpbMTg0MjU5MTg0MSwtMTIwMjMxMzYzNl19
 -->
