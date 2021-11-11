@@ -65,7 +65,18 @@ $$
 $$
 \frac{F_2}{l}(x)=\frac{F_1}{l}\cdot \cos 45° =\frac{F_1}{l}y
 $$
+
+$$
+\frac{F_1}{l}=\begin{pmatrix}0\\1,6\end{pmatrix}
+\cdot 10^{-5}\frac{N}m$$
+
+$$
+\frac{F_2}{l}=\begin{pmatrix}0,4\\0,4\end{pmatrix}
+\cdot 10^{-5}\frac{N}m$$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDgwMjk0NywxMzQzNjg3NzczLDE2Mz
+eyJoaXN0b3J5IjpbMTI4Nzk0MzUzOSwxMzQzNjg3NzczLDE2Mz
 M4MjU4NzgsLTEyMDIzMTM2MzZdfQ==
 -->
