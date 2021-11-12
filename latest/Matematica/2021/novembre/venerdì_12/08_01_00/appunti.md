@@ -53,8 +53,15 @@ $$
 $$
 \lim_{x\to +\infin}\frac{5}{xe^x}=\frac5{+\infin\cdot+\infin}=0^{+}
 $$
+
+## 148
+
+$$
+\lim_{x\to \frac\pi4}\frac{x^2}{\tan x -1}=\frac{\left(\frac\pi{16}\right)^{-}}{1^{-}-1}=\frac{\left(\frac{\
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU3OTQ1MTgsODQzMzAyMTE5LDM2MD
-YwODA0Myw5NTg2NzM0NTAsNjIxMTY2MjQ1LC05NDE2MDI1NThd
-fQ==
+eyJoaXN0b3J5IjpbMzQ1NzM0Mzk3LC0xODk1Nzk0NTE4LDg0Mz
+MwMjExOSwzNjA2MDgwNDMsOTU4NjczNDUwLDYyMTE2NjI0NSwt
+OTQxNjAyNTU4XX0=
 -->
