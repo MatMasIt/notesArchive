@@ -15,10 +15,10 @@ $$
 (c)\lim_{x \to 2} f(x)= 3^{+}
 $$
 
-> Data $f(x)$ è continua in $x_0$ s
-> $
+> Data $f(x)$ è ==continua== in $x_0$ s
+> $\lim_{x\to 0^{-}}f(x)=\lim_{x \to 0^{+}}=f(x_0)=l$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTY1NjgwMCw2MjExNjYyNDUsLTk0MT
-YwMjU1OF19
+eyJoaXN0b3J5IjpbOTU4NjczNDUwLDYyMTE2NjI0NSwtOTQxNj
+AyNTU4XX0=
 -->
