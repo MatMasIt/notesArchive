@@ -84,19 +84,17 @@ $$
 
 ---
 
-$$
+>  $$
 \frac{0}{\infin}=0\frac1\infin=0\cdot 0=0
 $$
-
-
 $$
 \frac{\infin}{0}=\infin\frac10=\infin\infin=\infin
 $$
 
 
-###
+##  173
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDkzNzQ2MDgsMTczNTYxOTg3MiwtMT
+eyJoaXN0b3J5IjpbLTEyNjY3MTIyNjYsMTczNTYxOTg3MiwtMT
 g5NTc5NDUxOCw4NDMzMDIxMTksMzYwNjA4MDQzLDk1ODY3MzQ1
 MCw2MjExNjYyNDUsLTk0MTYwMjU1OF19
 -->
