@@ -101,10 +101,10 @@ $$
 ## 187
 
 $$
-\lim_{x\to 0}\frac{e^{\fac1x}
+\lim_{x\to 0}\frac{e^{\frac1x}-1}{e^{\frac1x}+2}=\frac{e^{\frac1{0^{-}}}-1}{e^{\frac1{o^-}}+2}=\frac{e^{-\infin}-1}{e^{-\infin}+2}=\frac{0^{+}-1}{
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYzNTMxNTksMTczNTYxOTg3MiwtMT
+eyJoaXN0b3J5IjpbLTE0NzM1OTQ3ODMsMTczNTYxOTg3MiwtMT
 g5NTc5NDUxOCw4NDMzMDIxMTksMzYwNjA4MDQzLDk1ODY3MzQ1
 MCw2MjExNjYyNDUsLTk0MTYwMjU1OF19
 -->
