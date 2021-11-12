@@ -67,10 +67,16 @@ $$
 ## 153
 
 $$
-\lim_{x\to 2^{-}}=\frac{x^2+1}{(x-2)^3}
+\lim_{x\to 2^{-}}=\frac{x^2+1}{(x-2)^3}=\frac{5^{-}}{0^{-}}=-\infin
+$$
+
+### 158
+
+$$
+\lim_{x\to \pi}\frac{\sin x-\cos x}{\tan x + \cos^2 x}=\frac{1}{1}=1
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzkwODI4MzgsLTE4OTU3OTQ1MTgsOD
-QzMzAyMTE5LDM2MDYwODA0Myw5NTg2NzM0NTAsNjIxMTY2MjQ1
-LC05NDE2MDI1NThdfQ==
+eyJoaXN0b3J5IjpbMTczNTYxOTg3MiwtMTg5NTc5NDUxOCw4ND
+MzMDIxMTksMzYwNjA4MDQzLDk1ODY3MzQ1MCw2MjExNjYyNDUs
+LTk0MTYwMjU1OF19
 -->
