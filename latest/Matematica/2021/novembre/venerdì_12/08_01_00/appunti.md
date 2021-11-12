@@ -41,13 +41,20 @@ $$
 
 
 $$
-\boxed {\frac{n}{0^{-}}=-\infin*
+\boxed {\frac{n}{0^{-}}=-\infin}
 $$
 
 $$
+\boxed{\frac{n}{0^{+}}=\infin}
+$$
+
+## 146
+
+$$
+\lim_{x\to +\infin}\frac{5}{xe^x}=\frac5{+\infin\cdot+\infin}=0^{+}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTAzOTc3OSw4NDMzMDIxMTksMzYwNj
-A4MDQzLDk1ODY3MzQ1MCw2MjExNjYyNDUsLTk0MTYwMjU1OF19
-
+eyJoaXN0b3J5IjpbLTE4OTU3OTQ1MTgsODQzMzAyMTE5LDM2MD
+YwODA0Myw5NTg2NzM0NTAsNjIxMTY2MjQ1LC05NDE2MDI1NThd
+fQ==
 -->
