@@ -31,7 +31,15 @@ $$
 $$
 \lim_{x\to 0}\frac{2+\cos^2x}{\log_3(x+27)}=\frac{2+\cos 0}{\log_3(27)}=\frac{2+1}{3}=\frac33=1
 $$
+
+## 145
+
+
+$$
+\lim_{x\to\infin}\frac{5}{x^2}=\frac5{0^{+}}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMzAyMTE5LDM2MDYwODA0Myw5NTg2Nz
-M0NTAsNjIxMTY2MjQ1LC05NDE2MDI1NThdfQ==
+eyJoaXN0b3J5IjpbMTgwNzAwMjE3NSw4NDMzMDIxMTksMzYwNj
+A4MDQzLDk1ODY3MzQ1MCw2MjExNjYyNDUsLTk0MTYwMjU1OF19
+
 -->
