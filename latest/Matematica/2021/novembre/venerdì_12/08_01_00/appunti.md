@@ -63,8 +63,14 @@ $$
 $$
 \lim_{x\to\frac{\pi}{4}^{+}}\frac{x^2}{\tan x-1}=\frac{16}{1^{+}-1}=\frac{\frac{\pi^2}{16}}{1^{+}-1}=\frac{\frac{\pi^2}{16}}{0^{+}}=+\infin
 $$
+
+## 153
+
+$$
+\lim_{x\to 2^{-}}=\frac{x^2+1}{(x-2)^3}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5NDUwOTE0LC0xODk1Nzk0NTE4LDg0Mz
-MwMjExOSwzNjA2MDgwNDMsOTU4NjczNDUwLDYyMTE2NjI0NSwt
-OTQxNjAyNTU4XX0=
+eyJoaXN0b3J5IjpbLTExNzkwODI4MzgsLTE4OTU3OTQ1MTgsOD
+QzMzAyMTE5LDM2MDYwODA0Myw5NTg2NzM0NTAsNjIxMTY2MjQ1
+LC05NDE2MDI1NThdfQ==
 -->
