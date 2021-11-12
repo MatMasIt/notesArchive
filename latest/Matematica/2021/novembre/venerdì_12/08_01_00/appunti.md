@@ -79,10 +79,10 @@ $$
 ## 159
 
 $$
-\min_{x\to 0^{+}}=\frac{\sin x}{\ln x}=\frac{0^{+}}{\infin^{-}}=0^{+}\cdot\frac1{-\infin}=0^{-}\cdot 0^{-}=0^{}
+\min_{x\to 0^{+}}=\frac{\sin x}{\ln x}=\frac{0^{+}}{\infin^{-}}=0^{+}\cdot\frac1{-\infin}=0^{-}\cdot 0^{-}=0^{-}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyNDE2MDE3LDE3MzU2MTk4NzIsLTE4OT
-U3OTQ1MTgsODQzMzAyMTE5LDM2MDYwODA0Myw5NTg2NzM0NTAs
-NjIxMTY2MjQ1LC05NDE2MDI1NThdfQ==
+eyJoaXN0b3J5IjpbLTE2OTc4MTM5MzQsMTczNTYxOTg3MiwtMT
+g5NTc5NDUxOCw4NDMzMDIxMTksMzYwNjA4MDQzLDk1ODY3MzQ1
+MCw2MjExNjYyNDUsLTk0MTYwMjU1OF19
 -->
