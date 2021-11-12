@@ -101,10 +101,16 @@ $$
 ## 187
 
 $$
-\lim_{x\to 0}\frac{e^{\frac1x}-1}{e^{\frac1x}+2}=\frac{e^{\frac1{0^{-}}}-1}{e^{\frac1{o^-}}+2}=\frac{e^{-\infin}-1}{e^{-\infin}+2}=\frac{0^{+}-1}{
+\lim_{x\to 0}\frac{e^{\frac1x}-1}{e^{\frac1x}+2}=\frac{e^{\frac1{0^{-}}}-1}{e^{\frac1{o^-}}+2}=\frac{e^{-\infin}-1}{e^{-\infin}+2}=\frac{0^{+}-1}{0^{+}+2}=-\frac12
+$$
+
+## 190
+
+$$
+\lim_{x\to +\infin}\frac{\arctan x}{x^2+2}=\frac{\frac\pi2}{+\infin}=0^{+}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM1OTQ3ODMsMTczNTYxOTg3MiwtMT
-g5NTc5NDUxOCw4NDMzMDIxMTksMzYwNjA4MDQzLDk1ODY3MzQ1
-MCw2MjExNjYyNDUsLTk0MTYwMjU1OF19
+eyJoaXN0b3J5IjpbLTMyNjk3NDYyOSwxNzM1NjE5ODcyLC0xOD
+k1Nzk0NTE4LDg0MzMwMjExOSwzNjA2MDgwNDMsOTU4NjczNDUw
+LDYyMTE2NjI0NSwtOTQxNjAyNTU4XX0=
 -->
