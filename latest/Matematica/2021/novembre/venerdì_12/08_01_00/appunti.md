@@ -93,8 +93,12 @@ $$
 
 
 ##  173
+
+$$
+\lim_{x\to 2}=3^{\frac1{2-x
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY3MTIyNjYsMTczNTYxOTg3MiwtMT
+eyJoaXN0b3J5IjpbLTIwMzI2MDI5NzYsMTczNTYxOTg3MiwtMT
 g5NTc5NDUxOCw4NDMzMDIxMTksMzYwNjA4MDQzLDk1ODY3MzQ1
 MCw2MjExNjYyNDUsLTk0MTYwMjU1OF19
 -->
