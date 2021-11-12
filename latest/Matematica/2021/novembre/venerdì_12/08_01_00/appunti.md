@@ -97,8 +97,14 @@ $$
 $$
 \lim_{x\to 2}=3^{\frac1{2-x}}=3^{\frac1{2-2^{+}}}=3^{\frac{1}{0^{-}}}=3^{-\infin}=0^{+}
 $$
+
+## 187
+
+$$
+\lim_{x\to 0}\frac{e^{\fac1x}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM0MTA4NzAsMTczNTYxOTg3MiwtMT
+eyJoaXN0b3J5IjpbLTEzMTYzNTMxNTksMTczNTYxOTg3MiwtMT
 g5NTc5NDUxOCw4NDMzMDIxMTksMzYwNjA4MDQzLDk1ODY3MzQ1
 MCw2MjExNjYyNDUsLTk0MTYwMjU1OF19
 -->
