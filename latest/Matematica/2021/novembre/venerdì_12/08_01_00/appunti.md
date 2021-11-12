@@ -95,10 +95,10 @@ $$
 ##  173
 
 $$
-\lim_{x\to 2}=3^{\frac1{2-x
+\lim_{x\to 2}=3^{\frac1{2-x}}=3^{\frac1{2-2^{+}}}=3^{\frac{1}{0^{-}}}=3^{-\infin}=o^{+}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI2MDI5NzYsMTczNTYxOTg3MiwtMT
+eyJoaXN0b3J5IjpbLTEzODA0OTQ4NjksMTczNTYxOTg3MiwtMT
 g5NTc5NDUxOCw4NDMzMDIxMTksMzYwNjA4MDQzLDk1ODY3MzQ1
 MCw2MjExNjYyNDUsLTk0MTYwMjU1OF19
 -->
