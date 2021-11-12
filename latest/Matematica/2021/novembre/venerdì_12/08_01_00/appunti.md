@@ -57,11 +57,14 @@ $$
 ## 148
 
 $$
-\lim_{x\to \frac\pi4}\frac{x^2}{\tan x -1}=\frac{\left(\frac\pi{16}\right)^{-}}{1^{-}-1}=\frac{\left(\frac{\
+\lim_{x\to \frac\pi4^{-}}\frac{x^2}{\tan x -1}=\frac{\left(\frac{\pi^2}{16}\right)^{-}}{1^{-}-1}=\frac{\left(\frac{\pi^2}{16}\right)}{0^{-}}=-\infin
 $$
 
+$$
+\lim_{x\to\frac{\pi}{4}^{+}}\frac{x^2}{\tan x-1}=\frac{16}{1^{+}-1}=\frac{
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1NzM0Mzk3LC0xODk1Nzk0NTE4LDg0Mz
+eyJoaXN0b3J5IjpbNzcwMzc4NTIxLC0xODk1Nzk0NTE4LDg0Mz
 MwMjExOSwzNjA2MDgwNDMsOTU4NjczNDUwLDYyMTE2NjI0NSwt
 OTQxNjAyNTU4XX0=
 -->
