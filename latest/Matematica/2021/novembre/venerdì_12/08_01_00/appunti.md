@@ -15,7 +15,10 @@ $$
 (c)\lim_{x \to 2} f(x)= 3^{+}
 $$
 
+> Data $f(x)$ è continua in $x_0$ s
+> $
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxMTY2MjQ1LC05NDE2MDI1NThdfQ==
+eyJoaXN0b3J5IjpbMTk2NTY1NjgwMCw2MjExNjYyNDUsLTk0MT
+YwMjU1OF19
 -->
