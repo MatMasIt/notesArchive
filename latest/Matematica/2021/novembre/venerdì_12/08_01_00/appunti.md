@@ -22,9 +22,9 @@ $$
 Discontiuità eliminabile
 
 $$
-g\begin{equation} \begin{cases} Here \end{cases} \end{equation}
+g(x)=\begin{equation*} \begin{cases} f(x)\quad x\neq 0\\1\quad x=0 \end{cases} \end{equation*}=e^x
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTcxOTYxODQsOTU4NjczNDUwLDYyMT
-E2NjI0NSwtOTQxNjAyNTU4XX0=
+eyJoaXN0b3J5IjpbMTUzMjgzNzAxLDk1ODY3MzQ1MCw2MjExNj
+YyNDUsLTk0MTYwMjU1OF19
 -->
