@@ -81,8 +81,22 @@ $$
 $$
 \min_{x\to 0^{+}}=\frac{\sin x}{\ln x}=\frac{0^{+}}{\infin^{-}}=0^{+}\cdot\frac1{-\infin}=0^{-}\cdot 0^{-}=0^{-}
 $$
+
+---
+
+$$
+\frac{0}{\infin}=0\frac1\infin=0\cdot 0=0
+$$
+
+
+$$
+\frac{\infin}{0}=\infin\frac10=\infin\infin=\infin
+$$
+
+
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc4MTM5MzQsMTczNTYxOTg3MiwtMT
+eyJoaXN0b3J5IjpbLTE4NDkzNzQ2MDgsMTczNTYxOTg3MiwtMT
 g5NTc5NDUxOCw4NDMzMDIxMTksMzYwNjA4MDQzLDk1ODY3MzQ1
 MCw2MjExNjYyNDUsLTk0MTYwMjU1OF19
 -->
