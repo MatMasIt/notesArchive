@@ -70,13 +70,19 @@ $$
 \lim_{x\to 2^{-}}=\frac{x^2+1}{(x-2)^3}=\frac{5^{-}}{0^{-}}=-\infin
 $$
 
-### 158
+## 158
 
 $$
 \lim_{x\to \pi}\frac{\sin x-\cos x}{\tan x + \cos^2 x}=\frac{1}{1}=1
 $$
+
+## 159
+
+$$
+\min_{x\to 0^{+}}=\frac{\sin x}{\ln x}=\frac{0^{+}}{\infin^{-}}=0^{+}\cdot\frac1{-\infin}=0^{-}\cdot 0^{-}=0^{}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTYxOTg3MiwtMTg5NTc5NDUxOCw4ND
-MzMDIxMTksMzYwNjA4MDQzLDk1ODY3MzQ1MCw2MjExNjYyNDUs
-LTk0MTYwMjU1OF19
+eyJoaXN0b3J5IjpbNTYyNDE2MDE3LDE3MzU2MTk4NzIsLTE4OT
+U3OTQ1MTgsODQzMzAyMTE5LDM2MDYwODA0Myw5NTg2NzM0NTAs
+NjIxMTY2MjQ1LC05NDE2MDI1NThdfQ==
 -->
