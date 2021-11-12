@@ -36,10 +36,18 @@ $$
 
 
 $$
-\lim_{x\to\infin}\frac{5}{x^2}=\frac5{0^{+}}
+\lim_{x\to\infin}\frac{5}{x^2}=\frac5{0^{+}}=+\infin
+$$
+
+
+$$
+\boxed {\frac{n}{0^{-}}=-\infin*
+$$
+
+$$
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzAwMjE3NSw4NDMzMDIxMTksMzYwNj
+eyJoaXN0b3J5IjpbMTEzNTAzOTc3OSw4NDMzMDIxMTksMzYwNj
 A4MDQzLDk1ODY3MzQ1MCw2MjExNjYyNDUsLTk0MTYwMjU1OF19
 
 -->
