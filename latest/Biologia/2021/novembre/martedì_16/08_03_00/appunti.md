@@ -134,7 +134,18 @@ contengono
 * nucleoide
 singolo cromosoma ad anello (plasmide) privo di istoni
 episoni: dna estraneo incorporato
+
+
+alternanza: 2 monosaccaridi 
+NAM NAG
+
+da ogni NAM sporge un tetrapeptidi che grazie a un ponte di pentaglicina si lega a NAG
+
+tutti i batteri hanno mureina in misura diversi
+
+gram +: pareti spessi, 50% mureina e molti ponti
+gram-: b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDQ1NTMwMCwtMzYzMzQ3OTE0LDc4ND
+eyJoaXN0b3J5IjpbLTM5MDIwNDQyNiwtMzYzMzQ3OTE0LDc4ND
 A3MDE0Ml19
 -->
