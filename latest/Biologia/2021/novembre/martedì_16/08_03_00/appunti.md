@@ -29,11 +29,12 @@ Batteri e Miceti
 Funghi:
 miceli organizzati in ife
 
-_decompositori_
+_decompositori_ riciclano materia organica
 
 
 saprofiti, vivono a spese di sostanza organica morta
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3NDA4MzM3XX0=
+eyJoaXN0b3J5IjpbNDg0OTY3Mzk2XX0=
 -->
