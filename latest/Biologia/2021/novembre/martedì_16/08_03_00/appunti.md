@@ -47,6 +47,8 @@ cellulosa e amido in piante e animali vengono idrolizzati durante la decomposizi
 $CO_2$ in ambiente
 
 Proteine: deaminazione
+
+Ammonio: $NH_4^{+}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzAwNjQ3NF19
+eyJoaXN0b3J5IjpbODg0MjI4ODMyXX0=
 -->
