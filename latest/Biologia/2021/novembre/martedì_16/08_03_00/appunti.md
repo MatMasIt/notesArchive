@@ -123,7 +123,12 @@ Biotecnologie: batteri modificati permettono produzione più economica di
 Batteri classificati in base forma
 
 Componenti fondamentali:
-* me
+* membrana
+contengono
+* pareti
+contengono
+* ribosomi
+* nucleoide
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTYxMjg5OCw3ODQwNzAxNDJdfQ==
+eyJoaXN0b3J5IjpbLTM2MzM0NzkxNCw3ODQwNzAxNDJdfQ==
 -->
