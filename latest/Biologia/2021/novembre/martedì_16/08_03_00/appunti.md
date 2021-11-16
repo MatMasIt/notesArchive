@@ -49,6 +49,10 @@ $CO_2$ in ambiente
 Proteine: deaminazione
 
 Ammonio: $NH_4^{+}$
+
+Ammoniaca ⇒ ammonio
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MjI4ODMyXX0=
+eyJoaXN0b3J5IjpbMTI3NTUyMDk5OF19
 -->
