@@ -97,7 +97,12 @@ Trasmissione per aria
 
 Batteri:
 * commensali, si nutrono di sostanze di rifiuto
-* 
+* Simbionti: ci forniscono vitamine
+
+Spesso sono patogeni se organismo non sano
+
+
+endotossine, esotossine dei batteri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDkzMjg5MCw3ODQwNzAxNDJdfQ==
+eyJoaXN0b3J5IjpbLTE5MTI2MjUyNTEsNzg0MDcwMTQyXX0=
 -->
