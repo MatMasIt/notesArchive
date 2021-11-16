@@ -72,13 +72,19 @@ Elimina ione ammonio
 
 
 ---
-Batteri nitrificanti
+Batteri nitrificanti, trasformano azoto in nitriti per le piante
 
 Ione nitrito $NO_2^{-}$
 
 nitrati $NO_3^{-}$
 
 
+e denitrificanti (in acqua)
+
+Trasformano nitriti in Azoto gassoso
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTA0ODg3MF19
+eyJoaXN0b3J5IjpbMTU3MDAxMzIzM119
 -->
