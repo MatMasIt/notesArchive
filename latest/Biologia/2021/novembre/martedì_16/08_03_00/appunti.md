@@ -126,6 +126,8 @@ Componenti fondamentali:
 * membrana
 contengono
 priva di colesterolo
+ospita i citocromi respiratori
+acquistare e cedere elettroni
 * pareti
 contengono
 * ribosomi
@@ -133,6 +135,6 @@ contengono
 singolo cromosoma ad anello (plasmide) privo di istoni
 episoni: dna estraneo incorporato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODgxMDc0MzUsLTM2MzM0NzkxNCw3OD
-QwNzAxNDJdfQ==
+eyJoaXN0b3J5IjpbMTQ4MDQ1NTMwMCwtMzYzMzQ3OTE0LDc4ND
+A3MDE0Ml19
 -->
