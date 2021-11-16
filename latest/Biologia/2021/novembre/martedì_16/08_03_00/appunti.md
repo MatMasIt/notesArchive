@@ -44,6 +44,9 @@ polisaccaridi:
 
 cellulosa e amido in piante e animali vengono idrolizzati durante la decomposizione
          
+$CO_2$ in ambiente
+
+Proteine: deaminazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDk2Mzg3OV19
+eyJoaXN0b3J5IjpbMTEzMzAwNjQ3NF19
 -->
