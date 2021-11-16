@@ -120,7 +120,10 @@ Biotecnologie: batteri modificati permettono produzione più economica di
 * enzimi
 * ormoni
 
+Batteri classificati in base forma
 
+Componenti fondamentali:
+* me
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2MDQxNDA1LDc4NDA3MDE0Ml19
+eyJoaXN0b3J5IjpbLTMxNTYxMjg5OCw3ODQwNzAxNDJdfQ==
 -->
