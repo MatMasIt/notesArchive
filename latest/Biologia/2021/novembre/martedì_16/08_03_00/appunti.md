@@ -2,6 +2,8 @@
 ## Martedì 16 novembre 2021, 08:03:00
 ## Laboratorio
 
+## Introduzione
+
 Viventi:
 * nutrono
 * muovono
@@ -148,7 +150,10 @@ gram-: batteri sottili, si colorano di rosso, non riescono a trattenere il crist
 
 
 
+---
+
+## Colorazione di
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzY3MDg0OCwtMzYzMzQ3OTE0LDc4ND
+eyJoaXN0b3J5IjpbMTAzNDEwODc2NSwtMzYzMzQ3OTE0LDc4ND
 A3MDE0Ml19
 -->
