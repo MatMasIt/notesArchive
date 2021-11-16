@@ -125,12 +125,14 @@ Batteri classificati in base forma
 Componenti fondamentali:
 * membrana
 contengono
+priva di colesterolo
 * pareti
 contengono
 * ribosomi
 * nucleoide
 singolo cromosoma ad anello (plasmide) privo di istoni
+episoni: dna estraneo incorporato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2Mjc2MDkyLC0zNjMzNDc5MTQsNzg0MD
-cwMTQyXX0=
+eyJoaXN0b3J5IjpbLTE5ODgxMDc0MzUsLTM2MzM0NzkxNCw3OD
+QwNzAxNDJdfQ==
 -->
