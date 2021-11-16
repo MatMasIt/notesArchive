@@ -145,15 +145,15 @@ da ogni NAM sporge un tetrapeptidi che grazie a un ponte di pentaglicina si lega
 
 tutti i batteri hanno mureina in misura diversi
 
-gram +: pareti spessi, 50% mureina e molti ponti
-gram-: batteri sottili, si colorano di rosso, non riescono a trattenere il cristalvioletto 
+gram +: pareti spessi, 50% mureina e molti ponti, blu scuro viola
+gram-: batteri sottili, si colorano di rosso, non riescono a trattenere il cristalvioletto, rosa-rosso
 
 
 
 ---
 
-## Colorazione di
+## Colorazione di Gram
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDEwODc2NSwtMzYzMzQ3OTE0LDc4ND
-A3MDE0Ml19
+eyJoaXN0b3J5IjpbLTEwNTMwODI4OTgsLTM2MzM0NzkxNCw3OD
+QwNzAxNDJdfQ==
 -->
