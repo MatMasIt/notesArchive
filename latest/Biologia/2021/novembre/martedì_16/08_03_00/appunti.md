@@ -43,7 +43,7 @@ polisaccaridi:
 * cellulosa
 
 cellulosa e amido in piante e animali vengono idrolizzati durante la decomposizione
-
+         
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzgyMjcxNDFdfQ==
+eyJoaXN0b3J5IjpbLTQ5NDk2Mzg3OV19
 -->
