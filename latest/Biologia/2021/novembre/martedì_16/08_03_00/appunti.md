@@ -20,6 +20,20 @@ Postulati microbiologia:
 2. Il microbo può essere isolato dal malato e coltivato in coltura pura
 3. La coltura pura iniettata in un organismo sano provocherà la malattia (se non impedita dal sistema immunitario)
 4. Il microbo potrà essere riestratto e coltivato
+
+
+Suolo: ricco di microorganismi
+
+Batteri e Miceti
+
+Funghi:
+miceli organizzati in ife
+
+_decompositori_
+
+
+saprofiti, vivono a spese di sostanza organica morta
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzUzMTgzNl19
+eyJoaXN0b3J5IjpbNzI3NDA4MzM3XX0=
 -->
