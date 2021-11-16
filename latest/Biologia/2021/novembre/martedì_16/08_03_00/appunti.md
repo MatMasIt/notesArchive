@@ -34,7 +34,16 @@ _decompositori_ riciclano materia organica
 
 saprofiti, vivono a spese di sostanza organica morta
 
+Zuccheri
+monosaccaridi
+disaccaridi
+polisaccaridi:
+* amido
+* glicogeno
+* cellulosa
+
+cellulosa e amido in piante e animali vengono idrolizzati durante la decomposizione
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0OTY3Mzk2XX0=
+eyJoaXN0b3J5IjpbLTIwMzgyMjcxNDFdfQ==
 -->
