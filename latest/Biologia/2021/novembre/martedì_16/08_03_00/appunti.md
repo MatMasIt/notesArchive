@@ -84,7 +84,13 @@ e denitrificanti (in acqua)
 Trasformano nitriti in Azoto gassoso
 
 
+Mare: ambiente ipertonico
+
+I batteri non si sviluppano
+
+
+(conservazione sotto sale)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDAxMzIzM119
+eyJoaXN0b3J5IjpbNzg0MDcwMTQyXX0=
 -->
