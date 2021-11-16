@@ -103,6 +103,13 @@ Spesso sono patogeni se organismo non sano
 
 
 endotossine, esotossine dei batteri
+
+entrano nell'organismo e se sono sufficientemente invasivi si diffondo
+
+diversi meccanismi
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI2MjUyNTEsNzg0MDcwMTQyXX0=
+eyJoaXN0b3J5IjpbMTk3Mzk4NjYxMiw3ODQwNzAxNDJdfQ==
 -->
