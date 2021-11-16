@@ -129,6 +129,8 @@ contengono
 contengono
 * ribosomi
 * nucleoide
+singolo cromosoma ad anello (plasmide) privo di istoni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzM0NzkxNCw3ODQwNzAxNDJdfQ==
+eyJoaXN0b3J5IjpbNDY2Mjc2MDkyLC0zNjMzNDc5MTQsNzg0MD
+cwMTQyXX0=
 -->
