@@ -153,7 +153,9 @@ gram-: batteri sottili, si colorano di rosso, non riescono a trattenere il crist
 ---
 
 ## Colorazione di Gram
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMwODI4OTgsLTM2MzM0NzkxNCw3OD
-QwNzAxNDJdfQ==
+eyJoaXN0b3J5IjpbMTczMjg2MTEzMCwtMzYzMzQ3OTE0LDc4ND
+A3MDE0Ml19
 -->
