@@ -91,6 +91,13 @@ I batteri non si sviluppano
 
 (conservazione sotto sale)
 
+
+Trasmissione per aria
+
+
+Batteri:
+* commensali, si nutrono di sostanze di rifiuto
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0MDcwMTQyXX0=
+eyJoaXN0b3J5IjpbMTA4MDkzMjg5MCw3ODQwNzAxNDJdfQ==
 -->
