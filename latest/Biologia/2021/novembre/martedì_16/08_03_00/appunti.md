@@ -9,6 +9,14 @@ Viventi:
 * sensibilità
 
 I virus si riproducono solo
+
+
+Limite tecnologico
+
+Antoni Van Leeuwenhoek: inventa il microscopio
+
+Postulati microbiologia:
+1. Una malattia infettiva è sempre causata da un microbi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjMzNTIzOF19
+eyJoaXN0b3J5IjpbLTE1OTkxMDAwMjddfQ==
 -->
