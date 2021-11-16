@@ -57,6 +57,28 @@ Ammoniaca ⇒ ammonio
 		  NH2 - C - C
 				|    \
 				R     OH
+
+
+
+Urea
+
+		NH2
+		|
+		C = O
+		|
+		NH2
+Elimina ione ammonio
+
+
+
+---
+Batteri nitrificanti
+
+Ione nitrito $NO_2^{-}$
+
+nitrati $NO_3^{-}$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTU1MTIxMl19
+eyJoaXN0b3J5IjpbLTY4NTA0ODg3MF19
 -->
