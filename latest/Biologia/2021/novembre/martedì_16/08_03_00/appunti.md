@@ -108,8 +108,19 @@ entrano nell'organismo e se sono sufficientemente invasivi si diffondo
 
 diversi meccanismi
 
+batteri usati anche per 
+* pane
+* birra
+* vino
+* formaggi
+
+Biotecnologie: batteri modificati permettono produzione più economica di
+* farmaci
+* vaccii
+* enzimi
+* ormoni
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mzk4NjYxMiw3ODQwNzAxNDJdfQ==
+eyJoaXN0b3J5IjpbNzA2MDQxNDA1LDc4NDA3MDE0Ml19
 -->
