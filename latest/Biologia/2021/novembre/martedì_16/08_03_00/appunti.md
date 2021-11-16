@@ -147,8 +147,8 @@ gram +: pareti spessi, 50% mureina e molti ponti
 gram-: batteri sottili, si colorano di rosso, non riescono a trattenere il cristalvioletto 
 
 
-$\Huge$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTU2NTk3LC0zNjMzNDc5MTQsNzg0MD
-cwMTQyXX0=
+eyJoaXN0b3J5IjpbMTEzMzY3MDg0OCwtMzYzMzQ3OTE0LDc4ND
+A3MDE0Ml19
 -->
