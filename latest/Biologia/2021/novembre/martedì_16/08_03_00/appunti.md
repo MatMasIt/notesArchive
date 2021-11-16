@@ -52,7 +52,11 @@ Ammonio: $NH_4^{+}$
 
 Ammoniaca ⇒ ammonio
 
-
+				H       O
+				|     //
+		  NH2 - C - C
+				|    \
+				R     OH
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTUyMDk5OF19
+eyJoaXN0b3J5IjpbLTg5OTU1MTIxMl19
 -->
