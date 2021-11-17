@@ -49,7 +49,7 @@ regressione della voce parlante
 discrepanza tra quello che si sente dire dalla voce narrante e l'autore reale
 
 
-Fa fermare la lettura 
+Fa fermare la lettura e riflettere, interpretazione, effetto straniamento 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2MDAzOThdfQ==
+eyJoaXN0b3J5IjpbNjM1MTgxMzMwXX0=
 -->
