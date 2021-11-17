@@ -35,6 +35,16 @@ organico, come crescita organismo
 Tradizioni rivalutate
 
 progresso necessario
+
+
+Popolo, nazione concetto romantico
+
+La storia la fanno i popoli
+
+interpretazione organicista
+
+
+Stato 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg3Njg5MDZdfQ==
+eyJoaXN0b3J5IjpbMzY1MjEzNzE4XX0=
 -->
