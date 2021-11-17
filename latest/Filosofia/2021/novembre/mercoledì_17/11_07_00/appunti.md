@@ -44,7 +44,11 @@ La storia la fanno i popoli
 interpretazione organicista
 
 
-Stato 
+Stato maniestazione del Volkgesit (spirito di un popolo)
+che si incarna nelle strutture delo stato
+
+
+combattere e perdere, imposizione della società
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1MjEzNzE4XX0=
+eyJoaXN0b3J5IjpbLTE4NDM5Mzk2MzBdfQ==
 -->
