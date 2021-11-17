@@ -60,7 +60,11 @@ Non ha senso, emula il narratore popolare
 
 schivato come un can rognoso
 
+persecuzione da parte della comunità
+
+legge di prevaricazione
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTI3NTIxMjMsNjM1MTgxMzMwXX0=
+eyJoaXN0b3J5IjpbLTE5NDg3NTU1NjIsNjM1MTgxMzMwXX0=
 -->
