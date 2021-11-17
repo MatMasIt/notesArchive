@@ -27,7 +27,23 @@ Verga: orientamento più conservatore e reazionario degli anarcosocialisti franc
 
 Darwinismo sociale deterministico
 
-la fiumana dell'acqua che deborda e lascia ai 
+la fiumana dell'acqua che deborda e lascia ai bordi
+
+
+Siciliano illustre con base fiorentina
+
+Vuole farsi leggere in tutto il regno di Italia:
+
+1. Guadagno
+2. Famiglia di Garibaldini
+
+
+
+
+
+eclissi del narratore
+
+re
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0NTc0ODI5XX0=
+eyJoaXN0b3J5IjpbLTExODkyNjUzMTNdfQ==
 -->
