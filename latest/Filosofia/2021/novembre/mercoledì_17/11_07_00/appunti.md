@@ -26,6 +26,15 @@ Per l'illuminismo le epoche del passato sono piene di errori
 rifiuto delle tradizioni
 
 
+Romanticismo:
+
+il passato è stato necessario per la condizione attuale
+
+organico, come crescita organismo
+
+Tradizioni rivalutate
+
+progresso necessario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyNTkzNDY3XX0=
+eyJoaXN0b3J5IjpbLTEzNDg3Njg5MDZdfQ==
 -->
