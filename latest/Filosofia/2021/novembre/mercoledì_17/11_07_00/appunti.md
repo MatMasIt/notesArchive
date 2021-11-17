@@ -1,4 +1,5 @@
-# Lezione di Filosofia (4° OR
+# Lezione di Filosofia (4° ora)
+# Mercoledì 17 novembre, 11:00:00
 
 Romanticismo:
 
@@ -20,7 +21,11 @@ No meccanicismo natura e uomo
 
 Illuminismo non crede nel progresso _necessario_
 
-Per l'illuminismo le epoche del passato sono 
+Per l'illuminismo le epoche del passato sono piene di errori
+
+rifiuto delle tradizioni
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDE3NDE2M119
+eyJoaXN0b3J5IjpbNDYyNTkzNDY3XX0=
 -->
