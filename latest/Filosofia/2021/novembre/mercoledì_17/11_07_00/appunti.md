@@ -63,6 +63,11 @@ critica
 Nuomeno dovrebbe essere al di fuori del nostro pensiero
 
 > Perchè dovrebbe esistere qualcosa fuori dalla nostra attività di pensiero?
+
+
+Concezione immanentistico-idealsitica
+
+dal pensiero non si può uscire
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0ODM2MjQzXX0=
+eyJoaXN0b3J5IjpbMTQwMDAyMjY0MCw1MDQ4MzYyNDNdfQ==
 -->
