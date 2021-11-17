@@ -18,7 +18,14 @@ anche i luoghi e le insegne
 tutto dato per scontato
 
 
+Narrazione corale e impersonale semza pretese, azione indiretta che non emette giudizi di valore
 
+
+No strumento Laboratorio sociologico da consegnare alle autorità
+
+Verga: orientamento più conservatore e reazionario degli anarcosocialisti francesi
+
+Darwi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2ODU5Mjg1XX0=
+eyJoaXN0b3J5IjpbMTE5ODUzNTUyNF19
 -->
