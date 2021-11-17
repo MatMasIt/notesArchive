@@ -64,7 +64,11 @@ persecuzione da parte della comunità
 
 legge di prevaricazione
 
-Conosc
+Conosciuto perchè il padre è morto nella cava
+
+escluso
+
+Giudizio dei p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4NjI0NDczLDYzNTE4MTMzMF19
+eyJoaXN0b3J5IjpbLTU2MDUzNjM4Myw2MzUxODEzMzBdfQ==
 -->
