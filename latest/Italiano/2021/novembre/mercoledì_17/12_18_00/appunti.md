@@ -25,7 +25,9 @@ No strumento Laboratorio sociologico da consegnare alle autorità
 
 Verga: orientamento più conservatore e reazionario degli anarcosocialisti francesi
 
-Darwi
+Darwinismo sociale deterministico
+
+la fiumana dell'acqua che deborda e lascia ai 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODUzNTUyNF19
+eyJoaXN0b3J5IjpbNTk0NTc0ODI5XX0=
 -->
