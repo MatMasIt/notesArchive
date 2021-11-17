@@ -68,7 +68,7 @@ Conosciuto perchè il padre è morto nella cava
 
 escluso
 
-Giudizio dei p
+Giudizio dei popolani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDUzNjM4Myw2MzUxODEzMzBdfQ==
+eyJoaXN0b3J5IjpbMTkxMjczMTcsNjM1MTgxMzMwXX0=
 -->
