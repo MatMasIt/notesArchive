@@ -9,7 +9,16 @@ materialismo, determinismo dei soggetti
 
 Uomo votato alla sopravvivenza
 
+L'uomo è determinato
+
+Personaggi "buttati in mezzo" alle righe del racconto come conosciuti da sempre
+
+anche i luoghi e le insegne
+
+tutto dato per scontato
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzE2NTIxNV19
+eyJoaXN0b3J5IjpbNzQ2ODU5Mjg1XX0=
 -->
