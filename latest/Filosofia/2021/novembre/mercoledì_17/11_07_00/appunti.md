@@ -49,6 +49,15 @@ che si incarna nelle strutture delo stato
 
 
 combattere e perdere, imposizione della società
+
+NUOVO Atteggiamento di essere se stessi e non adattarsi alla società che permane anche oggi
+
+Kant: nomeni: realtà in se stessa, che non possiamo conoscere ma che possiamo pensare
+
+critica
+
+
+> Quando pensiamo a una cosa la stiamo già concependo e quindi conoscendo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM5Mzk2MzBdfQ==
+eyJoaXN0b3J5IjpbMjA1Njk1MDkxNF19
 -->
