@@ -60,7 +60,9 @@ critica
 > Quando pensiamo a una cosa la stiamo già concependo e quindi conoscendo
 
 
-Nuomeno dovrebbe es
+Nuomeno dovrebbe essere al di fuori del nostro pensiero
+
+> Perchè dovrebbe esistere qualcosa fuori dalla nostra attività di pensiero?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzEzODg0OF19
+eyJoaXN0b3J5IjpbNTA0ODM2MjQzXX0=
 -->
