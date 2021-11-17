@@ -58,6 +58,9 @@ critica
 
 
 > Quando pensiamo a una cosa la stiamo già concependo e quindi conoscendo
+
+
+Nuomeno dovrebbe es
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Njk1MDkxNF19
+eyJoaXN0b3J5IjpbLTU5NzEzODg0OF19
 -->
