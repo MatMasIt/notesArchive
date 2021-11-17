@@ -1,4 +1,4 @@
-# Title
+# Lezione di Filosofia (4° OR
 
 Romanticismo:
 
@@ -13,7 +13,14 @@ superare i limiti umani, aspirazione all'infinito
 
 spiritualità della natura, vita e anima
 
-principio vit
+principio vitale e spirituale
+
+No meccanicismo natura e uomo
+
+
+Illuminismo non crede nel progresso _necessario_
+
+Per l'illuminismo le epoche del passato sono 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI5MTU4MDddfQ==
+eyJoaXN0b3J5IjpbLTk5NDE3NDE2M119
 -->
