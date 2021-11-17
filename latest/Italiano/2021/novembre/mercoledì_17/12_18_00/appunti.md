@@ -50,6 +50,17 @@ discrepanza tra quello che si sente dire dalla voce narrante e l'autore reale
 
 
 Fa fermare la lettura e riflettere, interpretazione, effetto straniamento 
+
+
+p 128
+
+> Malpelo cattivo perchè ha i capelli rossi
+
+Non ha senso, emula il narratore popolare
+
+schivato come un can rognoso
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1MTgxMzMwXX0=
+eyJoaXN0b3J5IjpbLTE5NTI3NTIxMjMsNjM1MTgxMzMwXX0=
 -->
