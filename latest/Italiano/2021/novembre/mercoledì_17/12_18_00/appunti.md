@@ -43,7 +43,13 @@ Vuole farsi leggere in tutto il regno di Italia:
 
 eclissi del narratore
 
-re
+regressione della voce parlante
+
+
+discrepanza tra quello che si sente dire dalla voce narrante e l'autore reale
+
+
+Fa fermare la lettura 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODkyNjUzMTNdfQ==
+eyJoaXN0b3J5IjpbODc2MDAzOThdfQ==
 -->
