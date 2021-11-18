@@ -18,6 +18,15 @@ green ice: misterious but attractive
 There was nothing but ice
 
 No creature can live there
+
+
+Scary sounds
+
+
+Albratros: sign of good luck
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3OTc0OTE5LC02NTIwNDk2ODhdfQ==
+eyJoaXN0b3J5IjpbLTE1OTA5MzU0MTMsNTU3OTc0OTE5LC02NT
+IwNDk2ODhdfQ==
 -->
