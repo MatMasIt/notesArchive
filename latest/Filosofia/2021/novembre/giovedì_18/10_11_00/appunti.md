@@ -116,8 +116,10 @@ Ath: comunismo
 Sth: socialdemocrazia
 
 
+Dialettica ripresa poi da Marx
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1MDUwMTM5LDE4MzYyNzI1OTMsODUzNz
-kwMDc3LDE0ODQ0NzE3OTRdfQ==
+eyJoaXN0b3J5IjpbMjA5NDkwNzA3NiwxODM2MjcyNTkzLDg1Mz
+c5MDA3NywxNDg0NDcxNzk0XX0=
 -->
