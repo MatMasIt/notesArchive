@@ -41,10 +41,12 @@ It perched (stood on a perch, trespolo)
 They are leaving, the weather is getting better
 
 
-Through the fog they can 
+Through the fog they can perceive the glimmering of the moonshine
+
+The ancient marine kills the bird
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTMxODMxODcsLTE3MDA4NDYzODgsNT
+eyJoaXN0b3J5IjpbLTIwNjg5ODY4OTIsLTE3MDA4NDYzODgsNT
 U3OTc0OTE5LC02NTIwNDk2ODhdfQ==
 -->
