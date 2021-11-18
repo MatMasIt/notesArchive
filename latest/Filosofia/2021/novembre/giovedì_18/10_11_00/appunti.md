@@ -79,7 +79,18 @@ Momento intellettivo:
 Il nostro intelletto prende in considerazione e isola un singolo elemento della realtà
 
 Sterile, non produce comprensione
+
+
+
+
+Sintesi: si conservano alcuni aspetti testi e antitesi
+
+
+nuova tesi a cui poi di nuovo si opporrà antitesi
+
+
+Dialettica: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjIyNDI2NDEsODUzNzkwMDc3LDE0OD
-Q0NzE3OTRdfQ==
+eyJoaXN0b3J5IjpbMTk4OTUwMDk5OCw4NTM3OTAwNzcsMTQ4ND
+Q3MTc5NF19
 -->
