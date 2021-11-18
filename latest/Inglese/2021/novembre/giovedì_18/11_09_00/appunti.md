@@ -26,7 +26,10 @@ Scary sounds
 Albratros: sign of good luck
 
 Albatros: like a cross, symbol of goss which comes to save the mariners
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA4NDYzODgsNTU3OTc0OTE5LC02NT
-IwNDk2ODhdfQ==
+eyJoaXN0b3J5IjpbLTE1NzE1NTg0NDIsLTE3MDA4NDYzODgsNT
+U3OTc0OTE5LC02NTIwNDk2ODhdfQ==
 -->
