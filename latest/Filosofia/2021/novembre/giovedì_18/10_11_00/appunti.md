@@ -72,8 +72,9 @@ Hegel:
 Momenti chiamati anche
 * momento intellettivo
 * momento negativamente razionale
+* Positivamente razionale
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTIyNTcyOSw4NTM3OTAwNzcsMTQ4ND
-Q3MTc5NF19
+eyJoaXN0b3J5IjpbMTEyMzQ0NzMyLDg1Mzc5MDA3NywxNDg0ND
+cxNzk0XX0=
 -->
