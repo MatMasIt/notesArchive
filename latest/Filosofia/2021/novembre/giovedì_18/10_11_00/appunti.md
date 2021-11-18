@@ -1,5 +1,5 @@
-# Title
-
+# Lezione di Filosofia (3° ora)
+## Giovedì 18 novembre, 10:11:00
 p.470
 
 Hegel (Stocccarda, 1770 - Berlino, 1832)
@@ -15,7 +15,9 @@ Spirito: il pensiero, nel momento in cui, dopo un lungo percorso è giunto alla 
 é come se lo spirito abbia attraversato vicende per arrivare il suo destino
 
 gli esseri umani sono manifestazioni di questo pensiero, come la realtà naturale
-ma non è realmente una rea
+ma non è realmente una realtà materiale e noi non siamo ciò che veramente esiste
+
+Esiste il Pensiero e noi siamo manifestazioni secondarie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg2NzA4NDNdfQ==
+eyJoaXN0b3J5IjpbMTQ4NDQ3MTc5NF19
 -->
