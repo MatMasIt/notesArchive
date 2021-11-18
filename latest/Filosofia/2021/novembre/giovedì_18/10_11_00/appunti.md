@@ -54,8 +54,10 @@ Atteggiamento giustificazionista
 
 > _"Tutto ciò che è razionale è reale, tutto ciò che è reale è razionale"_
 
+Hegel: dimensione della necessità
+Kierkegaard: dimensione della possibilità, critica Hegel (contemporaneo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTc2NTQ1LDg1Mzc5MDA3NywxNDg0ND
-cxNzk0XX0=
+eyJoaXN0b3J5IjpbLTkxMjM2MzQ4Myw4NTM3OTAwNzcsMTQ4ND
+Q3MTc5NF19
 -->
