@@ -34,7 +34,12 @@ polemica nei confronti dei _moralisti_:
 
 > Questo particolare aspetto della storia è da criticare
 
-Secondo hegel
+Secondo Hegel quello che si è realizzato doveva realizzarsi
+
+
+Attraverso la filosofia lo spirito raggiugne il suo compimento
+
+Ottica fina
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0NzI3MzIsMTQ4NDQ3MTc5NF19
+eyJoaXN0b3J5IjpbMjEyMzYxODYxMSwxNDg0NDcxNzk0XX0=
 -->
