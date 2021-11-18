@@ -50,8 +50,9 @@ la storia ha raggiunto il suo compimento
 
 Il questo periodo si cercano le leggi della storia, le logiche della storia
 
-At
+Atteggiamento giustificazionista
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA2MjYxOCw4NTM3OTAwNzcsMTQ4ND
-Q3MTc5NF19
+eyJoaXN0b3J5IjpbLTE4Njk4MTc2OTUsODUzNzkwMDc3LDE0OD
+Q0NzE3OTRdfQ==
 -->
