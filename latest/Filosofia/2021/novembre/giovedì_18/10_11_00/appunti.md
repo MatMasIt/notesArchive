@@ -62,7 +62,18 @@ Concetto di Dialettica:
 In parmenidee Zenone : ragionamento per assurdo
 Socrate: confronto tra posizioni
 Platone: capacità di cogliere rapporti nel mndo delle idee
+
+
+Hegel:
+* Tesi
+* Antitesi
+* Sintesi
+
+Momenti chiamati anche
+* momento intellettivo
+* momento negativamente razionale
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjYxMTU0MSw4NTM3OTAwNzcsMTQ4ND
+eyJoaXN0b3J5IjpbMTE3OTIyNTcyOSw4NTM3OTAwNzcsMTQ4ND
 Q3MTc5NF19
 -->
