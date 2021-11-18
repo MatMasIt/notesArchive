@@ -81,6 +81,10 @@ Il nostro intelletto prende in considerazione e isola un singolo elemento della 
 Sterile, non produce comprensione
 
 
+momento negativamente razionale:
+
+grazie alla ragione si contrappone al primo aspetto il suo negativo e questo smuove l'isolamento iniziale
+
 Antitesi
 
 
@@ -111,6 +115,6 @@ Th: liberalismo
 Ath: comunismo
 Sth: socialdemocrazia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTMyMTc4Miw4NTM3OTAwNzcsMTQ4ND
+eyJoaXN0b3J5IjpbMTgzNjI3MjU5Myw4NTM3OTAwNzcsMTQ4ND
 Q3MTc5NF19
 -->
