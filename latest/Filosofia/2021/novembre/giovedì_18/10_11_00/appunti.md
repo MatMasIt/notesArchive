@@ -18,6 +18,9 @@ gli esseri umani sono manifestazioni di questo pensiero, come la realtà natural
 ma non è realmente una realtà materiale e noi non siamo ciò che veramente esiste
 
 Esiste il Pensiero e noi siamo manifestazioni secondarie
+
+
+Nel 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDQ3MTc5NF19
+eyJoaXN0b3J5IjpbLTc1MTA5Mzk5OSwxNDg0NDcxNzk0XX0=
 -->
