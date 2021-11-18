@@ -57,7 +57,12 @@ Atteggiamento giustificazionista
 Hegel: dimensione della necessità
 Kierkegaard: dimensione della possibilità, critica Hegel (contemporaneo)
 
+
+Concetto di Dialettica:
+In parmenidee Zenone : ragionamento per assurdo
+Socrate: confronto tra posizioni
+Platone: capacità di cogliere rapporti nel mndo delle idee
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjM2MzQ4Myw4NTM3OTAwNzcsMTQ4ND
+eyJoaXN0b3J5IjpbLTkyNjYxMTU0MSw4NTM3OTAwNzcsMTQ4ND
 Q3MTc5NF19
 -->
