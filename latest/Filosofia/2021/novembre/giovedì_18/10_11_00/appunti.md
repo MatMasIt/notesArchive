@@ -46,7 +46,9 @@ Quando arriva la filosofia idealista il Pensiero raggiunge la Piena consapevolez
 
 Successivamente sempre più nitida consapevolezza
 
-la sto
+la storia ha raggiunto il suo compimento
+
+Il questo periodo si cercano le leggi della storia, le logiche della storia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE2ODEwMTMsMTQ4NDQ3MTc5NF19
+eyJoaXN0b3J5IjpbODUzNzkwMDc3LDE0ODQ0NzE3OTRdfQ==
 -->
