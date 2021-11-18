@@ -20,7 +20,7 @@ ma non è realmente una realtà materiale e noi non siamo ciò che veramente esi
 Esiste il Pensiero e noi siamo manifestazioni secondarie
 
 
-Nel 
+La metafisica cercava qualcosa di impermeabile al divenire mentre la metafisica di Hegel ha bisogno del Divenire e si realizza peinamente solo tramite il divenire
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTA5Mzk5OSwxNDg0NDcxNzk0XX0=
+eyJoaXN0b3J5IjpbLTEzODA4MzE2NDEsMTQ4NDQ3MTc5NF19
 -->
