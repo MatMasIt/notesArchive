@@ -38,8 +38,13 @@ both a real and a supernatural creature
 
 It perched (stood on a perch, trespolo)
 
+They are leaving, the weather is getting better
+
+
+Through the fog they can 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDExNTQ0NCwtMTcwMDg0NjM4OCw1NT
-c5NzQ5MTksLTY1MjA0OTY4OF19
+eyJoaXN0b3J5IjpbLTE1OTMxODMxODcsLTE3MDA4NDYzODgsNT
+U3OTc0OTE5LC02NTIwNDk2ODhdfQ==
 -->
