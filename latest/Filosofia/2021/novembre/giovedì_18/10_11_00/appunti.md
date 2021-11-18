@@ -52,7 +52,10 @@ Il questo periodo si cercano le leggi della storia, le logiche della storia
 
 Atteggiamento giustificazionista
 
+> _"Tutto ciò che è razionale è reale, tutto ciò che è reale è razionale"_
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk4MTc2OTUsODUzNzkwMDc3LDE0OD
-Q0NzE3OTRdfQ==
+eyJoaXN0b3J5IjpbMjA0MTc2NTQ1LDg1Mzc5MDA3NywxNDg0ND
+cxNzk0XX0=
 -->
