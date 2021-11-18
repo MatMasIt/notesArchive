@@ -70,11 +70,16 @@ Hegel:
 * Sintesi
 
 Momenti chiamati anche
-* momento intellettivo
+* momento intellettivo 
 * momento negativamente razionale
 * Positivamente razionale
-* 
+
+
+Momento intellettivo:
+Il nostro intelletto prende in considerazione e isola un singolo elemento della realtà
+
+Sterile, non produce comprensione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzQ0NzMyLDg1Mzc5MDA3NywxNDg0ND
-cxNzk0XX0=
+eyJoaXN0b3J5IjpbLTE1MjIyNDI2NDEsODUzNzkwMDc3LDE0OD
+Q0NzE3OTRdfQ==
 -->
