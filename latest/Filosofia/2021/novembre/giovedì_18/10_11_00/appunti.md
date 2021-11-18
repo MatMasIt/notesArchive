@@ -21,6 +21,20 @@ Esiste il Pensiero e noi siamo manifestazioni secondarie
 
 
 La metafisica cercava qualcosa di impermeabile al divenire mentre la metafisica di Hegel ha bisogno del Divenire e si realizza peinamente solo tramite il divenire
+
+
+La storia sarebbe un processo necessario
+
+Autocoscienza, autoconsapevolezza del pensiero
+
+
+Storia ==necessaria==
+
+polemica nei confronti dei _moralisti_:
+
+> Questo particolare aspetto della storia è da criticare
+
+Secondo hegel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA4MzE2NDEsMTQ4NDQ3MTc5NF19
+eyJoaXN0b3J5IjpbNjM0NzI3MzIsMTQ4NDQ3MTc5NF19
 -->
