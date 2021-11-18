@@ -114,7 +114,10 @@ Sth: vita successiva
 Th: liberalismo
 Ath: comunismo
 Sth: socialdemocrazia
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjI3MjU5Myw4NTM3OTAwNzcsMTQ4ND
-Q3MTc5NF19
+eyJoaXN0b3J5IjpbNTY1MDUwMTM5LDE4MzYyNzI1OTMsODUzNz
+kwMDc3LDE0ODQ0NzE3OTRdfQ==
 -->
