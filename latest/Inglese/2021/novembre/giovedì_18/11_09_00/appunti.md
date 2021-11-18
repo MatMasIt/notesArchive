@@ -34,7 +34,12 @@ ship can move again
 
 
 both a real and a supernatural creature
+
+
+It perched (stood on a perch, trespolo)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTIzNzg1NCwtMTcwMDg0NjM4OCw1NT
+eyJoaXN0b3J5IjpbMjAyMDExNTQ0NCwtMTcwMDg0NjM4OCw1NT
 c5NzQ5MTksLTY1MjA0OTY4OF19
 -->
