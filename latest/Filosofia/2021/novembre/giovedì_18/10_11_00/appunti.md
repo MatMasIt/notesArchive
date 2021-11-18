@@ -103,8 +103,14 @@ Sth: Regni romano-barbarici
 
 
 Th: ragazzo  single
-Ath: 
+Ath: matrimonio e relazione stabile
+Sth: vita successiva
+
+
+Th: liberalismo
+Ath: comunismo
+Sth: socialdemocrazia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTI3MTI3ODQsODUzNzkwMDc3LDE0OD
-Q0NzE3OTRdfQ==
+eyJoaXN0b3J5IjpbMTI3OTMyMTc4Miw4NTM3OTAwNzcsMTQ4ND
+Q3MTc5NF19
 -->
