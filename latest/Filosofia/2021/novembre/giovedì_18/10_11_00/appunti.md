@@ -39,7 +39,14 @@ Secondo Hegel quello che si è realizzato doveva realizzarsi
 
 Attraverso la filosofia lo spirito raggiugne il suo compimento
 
-Ottica fina
+Ottica finalistica
+
+Quando arriva la filosofia idealista il Pensiero raggiunge la Piena consapevolezza
+
+
+Successivamente sempre più nitida consapevolezza
+
+la sto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzYxODYxMSwxNDg0NDcxNzk0XX0=
+eyJoaXN0b3J5IjpbLTEzNjE2ODEwMTMsMTQ4NDQ3MTc5NF19
 -->
