@@ -10,6 +10,14 @@ They escaped towards the south
 
 Iceberg floating on the water
 
+sublime landscape 
+Mixture of natural and unnatural
+
+green ice: misterious but attractive
+
+There was nothing but ice
+
+No creature can live there
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTg0MDg3MiwtNjUyMDQ5Njg4XX0=
+eyJoaXN0b3J5IjpbNTU3OTc0OTE5LC02NTIwNDk2ODhdfQ==
 -->
