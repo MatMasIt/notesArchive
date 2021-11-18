@@ -49,6 +49,9 @@ Successivamente sempre più nitida consapevolezza
 la storia ha raggiunto il suo compimento
 
 Il questo periodo si cercano le leggi della storia, le logiche della storia
+
+At
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzNzkwMDc3LDE0ODQ0NzE3OTRdfQ==
+eyJoaXN0b3J5IjpbLTE3NTA2MjYxOCw4NTM3OTAwNzcsMTQ4ND
+Q3MTc5NF19
 -->
