@@ -28,8 +28,13 @@ Albratros: sign of good luck
 Albatros: like a cross, symbol of goss which comes to save the mariners
 
 
+Albatros ahs the power to split the eyes
 
+ship can move again
+
+
+both a real and a supernatural creature
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE1NTg0NDIsLTE3MDA4NDYzODgsNT
-U3OTc0OTE5LC02NTIwNDk2ODhdfQ==
+eyJoaXN0b3J5IjpbMTQxMTIzNzg1NCwtMTcwMDg0NjM4OCw1NT
+c5NzQ5MTksLTY1MjA0OTY4OF19
 -->
