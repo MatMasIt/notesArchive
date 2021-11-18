@@ -81,6 +81,7 @@ Il nostro intelletto prende in considerazione e isola un singolo elemento della 
 Sterile, non produce comprensione
 
 
+Antitesi
 
 
 Sintesi: si conservano alcuni aspetti testi e antitesi
@@ -89,8 +90,21 @@ Sintesi: si conservano alcuni aspetti testi e antitesi
 nuova tesi a cui poi di nuovo si opporrà antitesi
 
 
-Dialettica: 
+Dialettica: processo del pensiero
+
+
+tutto nella storia segue questo processo
+
+ex.
+Th: Impero romano
+Ath: Cristianesimo
+Sth: Regni romano-barbarici
+
+
+
+Th: ragazzo  single
+Ath: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTUwMDk5OCw4NTM3OTAwNzcsMTQ4ND
-Q3MTc5NF19
+eyJoaXN0b3J5IjpbLTExOTI3MTI3ODQsODUzNzkwMDc3LDE0OD
+Q0NzE3OTRdfQ==
 -->
