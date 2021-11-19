@@ -25,9 +25,29 @@ $$
 $$
 
 $$
-\vec{H_}+\vec{H_B}=\vec{R_{AB}}
+\vec{H_A}+\vec{H_B}=\vec{R_{AB}}
 $$
 
+$$
+H_c=H_C
+$$
+
+$$
+H_A=H_B
+$$
+
+
+$$
+R_{AB}=HA\sqrt 2
+$$
+
+
+$$
+R=R_{AB}+R_{DC}=R_{DC}
+$$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjQ1NTA0LDE4MjQ5NTc4NjFdfQ==
+eyJoaXN0b3J5IjpbMTk4MzU5MjQwOSwxODI0OTU3ODYxXX0=
 -->
