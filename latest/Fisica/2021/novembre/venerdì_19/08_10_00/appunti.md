@@ -46,8 +46,12 @@ $$
 R=R_{AB}+R_{DC}=R_{DC}
 $$
 
+$$
+R_{DC}=HC\sqrt 2=G\frac{}{}
+$$
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzU5MjQwOSwxODI0OTU3ODYxXX0=
+eyJoaXN0b3J5IjpbMTcyOTI2NzgwNSwxODI0OTU3ODYxXX0=
 -->
