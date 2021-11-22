@@ -6,6 +6,7 @@ Renoir povero
 Stile pittorico leggero
 
 
+Dipinto colazione dei canottieri, sembra naturale ma fatto in più domeniche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDU3NTY1MF19
+eyJoaXN0b3J5IjpbMTc5ODU3MTAwNCwxMjkwNTc1NjUwXX0=
 -->
