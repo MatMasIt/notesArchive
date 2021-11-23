@@ -39,11 +39,11 @@ $$
 ---
 > **Dati**
 > $I_1=10A$
-> $\overline{AB}=\overline{BC}=\overline{AC}=l$
+> $\overline{AB}=\overline{BC}=\overline{AC}=l=3\cdot 10^{-2}m$
 
 $$
 \overline{AB}=\overline{OB}=\overline{OC}=\frac{l}2\sqrt 3
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDQ0OTQ0XX0=
+eyJoaXN0b3J5IjpbMTU2NjI0NTE5XX0=
 -->
