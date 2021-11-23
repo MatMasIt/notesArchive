@@ -14,7 +14,15 @@ Problema
 	|-----(.)----|----(x)----|-------(x)-------|
 	<------|----->     <-----|
 	   d1     d2         d3
-	       |
+	       |-----------|--------------|<-------> 
+	              l           l           d1
+
+
+> **Dati**
+> $d_1=2cm=2\cdot 10^{-2}m$
+> $d_2=1,5cm=1,5\1cdot10^{-2}m$
+> $l=3cm=3\cdot 10^{-2}m$
+> $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTAxNzI0XX0=
+eyJoaXN0b3J5IjpbMjAyMzQ1NTI2Nl19
 -->
