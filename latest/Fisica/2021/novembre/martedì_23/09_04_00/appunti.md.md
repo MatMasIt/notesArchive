@@ -42,8 +42,12 @@ $$
 > $\overline{AB}=\overline{BC}=\overline{AC}=l=3\cdot 10^{-2}m$
 
 $$
-\overline{AB}=\overline{OB}=\overline{OC}=\frac{l}2\sqrt 3
+\overline{AB}=\overline{OB}=\overline{OC}=\frac{l}3\sqrt 3
+$$
+
+$$
+E_{A}=E_{B}=E_{C}=E=\frac{\mu_0}{2\pi}\frac{I}{\frac{l}{3}\sqrt 3}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjI0NTE5XX0=
+eyJoaXN0b3J5IjpbLTY2MDMzMTY4XX0=
 -->
