@@ -9,12 +9,13 @@ $$_Biot-Savart_
 ---
 
 Problema
-		
-	A      I1    B    I2     C       I3        D
+	
+	| EA2, EA3	
+	|A     I1    B    I2     C       I3        D
 	|------(.)----|----(x)----|-------(x)-------|
 	|<------|----->     <-----|
-	  d1     d2         d3
-	       |-----------|--------------|<-------> 
+	|  d1     d2         d3
+	\/       |-----------|--------------|<-------> 
 	              l           l           d1
 
 
@@ -26,5 +27,5 @@ Problema
 > $d_3=1,5cm=1,5\cdot 10^{-2}cm$
 > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTEzNjI5Nl19
+eyJoaXN0b3J5IjpbMTU5NzQ5NzIyOF19
 -->
