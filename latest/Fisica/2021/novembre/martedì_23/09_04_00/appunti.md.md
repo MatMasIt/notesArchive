@@ -29,8 +29,8 @@ Problema
 > 
 
 $$
-E_A=E_{A_1}+E_{A_2}+
+E_A=E_{A_1}+E_{A_2}+E_{A_3}=\frac{\mu_0}{2\pi}\left(-\frac{1}{d_1}+\frac{1}{d_2}+\frac{1}{d_3}\right)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjMzNzQxOF19
+eyJoaXN0b3J5IjpbMTQ3MDg5NDY0N119
 -->
