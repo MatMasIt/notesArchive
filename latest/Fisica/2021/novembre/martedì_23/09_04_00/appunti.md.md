@@ -2,9 +2,9 @@
 
 $$
 \vec{B}=\frac{\mu_0}{2\pi}\frac{I}{d}
-$$
+$$_Biot-Savart_
 
-_B
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTgzNDRdfQ==
+eyJoaXN0b3J5IjpbLTU0Njk1ODg5N119
 -->
