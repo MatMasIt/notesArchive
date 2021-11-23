@@ -33,8 +33,8 @@ E_A=E_{A_1}+E_{A_2}+E_{A_3}=\frac{\mu_0}{2\pi}\left(-\frac{1}{d_1}+\frac{1}{d_1+
 $$
 
 $$
-=2\cd
+=2\cdot^{-3}\frac{T\cancel m}{\cancel m}\frac1{10^-2}\left(-\frac12+\frac15+\frac18\right)=-7\cdot 10^{-6}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjA3MjU2Ml19
+eyJoaXN0b3J5IjpbLTg2NjEwNTI5OF19
 -->
