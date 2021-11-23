@@ -10,9 +10,11 @@ $$_Biot-Savart_
 
 Problema
 		
-	A      I1    B         C                 D
-	|-----(.)----|---------|-------(x)-------|
-	<----- 
+	A      I1    B    I2     C       I3        D
+	|-----(.)----|----(x)----|-------(x)-------|
+	<------|----->     <-----|
+	   d1     d2         d3
+	       |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDk5MzM2MF19
+eyJoaXN0b3J5IjpbLTQyMTAxNzI0XX0=
 -->
