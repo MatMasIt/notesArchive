@@ -35,6 +35,15 @@ $$
 $$
 =2\cdot^{-3}\frac{T\cancel m}{\cancel m}\frac1{10^-2}\left(-\frac12+\frac15+\frac18\right)=-7\cdot 10^{-6}
 $$
+
+---
+> **Dati**
+> $I_1=10A$
+> $\overline{AB}=\overline{BC}=\overline{AC}=l$
+
+$$
+\overline{AB}=\overline{OB}=\overline{OC}=\frac{l}2\sqrt 3
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjEwNTI5OF19
+eyJoaXN0b3J5IjpbMTU5MDQ0OTQ0XX0=
 -->
