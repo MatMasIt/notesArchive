@@ -10,12 +10,13 @@ $$_Biot-Savart_
 
 Problema
 	
+	^
 	| EA2, EA3	
 	|A     I1    B    I2     C       I3        D
 	|------(.)----|----(x)----|-------(x)-------|
 	|<------|----->     <-----|
 	|  d1     d2         d3
-	\/       |-----------|--------------|<-------> 
+	\/EA1    |-----------|--------------|<-------> 
 	              l           l           d1
 
 
@@ -26,6 +27,10 @@ Problema
 > $l=3cm=3\cdot 10^{-2}m$
 > $d_3=1,5cm=1,5\cdot 10^{-2}cm$
 > 
+
+$$
+E_A=E_{A_1}+E_{A_2}+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzQ5NzIyOF19
+eyJoaXN0b3J5IjpbLTE5NjMzNzQxOF19
 -->
