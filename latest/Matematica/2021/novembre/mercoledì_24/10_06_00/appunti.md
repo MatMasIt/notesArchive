@@ -54,10 +54,10 @@ $$
 \lim_{x\to +\infin}(\ln x-\sqrt x)=\infin-\infin\quad FI \xrightarrow{\ln x=o(\sqrt x)}\lim_{x \to \infin}-\sqrt x=-\infin
 $$
 
-Forme di indecisione dirvese $\frac\infin\infin$ e $\infin- \infin$
+> Forme di indecisione dirvese $\frac\infin\infin$ e $\infin- \infin$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDg5MjgyOSwxMjc4NTE3NTM2LDYwMD
+eyJoaXN0b3J5IjpbMTE3NTg4MzUxNSwxMjc4NTE3NTM2LDYwMD
 IyNTE4Ml19
 -->
