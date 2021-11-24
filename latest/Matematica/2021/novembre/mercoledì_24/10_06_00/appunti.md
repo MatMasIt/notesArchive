@@ -36,8 +36,15 @@ $$
 
 $$
 \lim_{x\to +\infin}\frac{e^x}{x^7}=\frac{+\infin}{+\infin}\quad FI \xrightarrow{x^8=o(e^x)}
-\lim_éx\to +\infin}e^x=+\infin$$
+\lim_{x\to +\infin} e^x=+\infin$$
+
+
+
+
+$$
+\lim_{x \to +\infin}\frac{x+5}{\ln x}=\frac{+\infin}{+\infin}Fi\xrightarrow{5=o(x)}[\ln x=o(x)]
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI2OTQ3NzMsMTI3ODUxNzUzNiw2MD
-AyMjUxODJdfQ==
+eyJoaXN0b3J5IjpbODQwNDgxMzM0LDEyNzg1MTc1MzYsNjAwMj
+I1MTgyXX0=
 -->
