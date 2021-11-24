@@ -10,6 +10,7 @@ $$
 #### Risultati
 ---
 $\boxed n$
+
 $f(x)$ è asintotica a $g(x)$
 $$
 n\quad se\quad f(x)\approx f(x)
@@ -62,6 +63,6 @@ $$
 \lim_{x\to +\infin}\frac{5x^3-4x^2+3}{x^3-1}=\frac{+\infin-\infin}{+\infin}\quad FI \xrightarrow[-1=o(x^{-3})]{-4x^2+3=o(x^3)}\lim_{x \to +\infin}\frac{5\cancel x^3}{\cancel x ^3}=5
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA2MDE3NTgsMTI3ODUxNzUzNiw2MD
-AyMjUxODJdfQ==
+eyJoaXN0b3J5IjpbLTE3MjIwNzkyODAsLTE0NjA2MDE3NTgsMT
+I3ODUxNzUzNiw2MDAyMjUxODJdfQ==
 -->
