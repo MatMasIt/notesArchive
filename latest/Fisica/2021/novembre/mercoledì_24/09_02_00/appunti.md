@@ -55,8 +55,8 @@ $$
 Campo magnetico di una spira o di un solenoide
 
 
-## Spira (in rosso)
-
+## Spira
+![](https://i.imgur.com/0Q2daMg.jpg)
 $$
 V=\frac{\mu_0}{2}\frac{I}{r}
 $$
@@ -64,5 +64,5 @@ r: raggio della spira
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODM0MzY3MF19
+eyJoaXN0b3J5IjpbNjMwNTI5NTE5XX0=
 -->
