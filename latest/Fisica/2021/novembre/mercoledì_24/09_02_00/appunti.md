@@ -44,6 +44,10 @@ $$
 $$
 T_{rot_{terra}}=23\text{h}56\text{m}4,29\text{s}
 $$
+
+$$
+R=\sqrt[3]{\frac{T^2GM_t}{4\pi^2}}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzNzE4NzAxXX0=
+eyJoaXN0b3J5IjpbMTcwOTgzNDU1XX0=
 -->
