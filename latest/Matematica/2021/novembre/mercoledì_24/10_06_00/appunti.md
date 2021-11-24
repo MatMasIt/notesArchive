@@ -27,6 +27,16 @@ $o$ piccolo : trascurabile
 
 Sono $\approx$ le stesse funzioni
 
+---
+
+$$
+lim_{x \to \infin}\frac{x^3+2}{x^4+1}=\frac{+\infin}{+\infin}\quad FI\xrightarrow[1=o(x^4)]{2=o(x^3)}\quad \lim_{x \to +\infin
+$$
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMjI1MTgyXX0=
+eyJoaXN0b3J5IjpbLTUzNjkwMTA1Miw2MDAyMjUxODJdfQ==
 -->
