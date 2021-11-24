@@ -62,7 +62,14 @@ V=\frac{\mu_0}{2}\frac{I}{r}
 $$
 r: raggio della spira
 
+## Solenoide
 
+![](https://i.imgur.com/8IGs5ND.jpg)
+
+$N$: numero di spire
+$$
+B=\mu_0\frac{NI}l
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwNTI5NTE5XX0=
+eyJoaXN0b3J5IjpbMTY1NDIyNDQwNV19
 -->
