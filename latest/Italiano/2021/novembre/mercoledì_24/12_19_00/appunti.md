@@ -15,7 +15,16 @@ Bataglia di Lissa si porta via il giovane Luca
 
 Spazio agreste chiuso, circoscritto, statico
 
-Cris
+Cristianesimo: visione lineare e prospettica
+
+Spazio rurale: a-storico
+
+passano tra generazioni con similtudini, aforismi
+
+mondo autoreferenziale
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODc4NjY4M119
+eyJoaXN0b3J5IjpbMjAzNTA4NTgyNF19
 -->
