@@ -32,6 +32,8 @@ luogo in cui si preservano valori arcaici?
 mondo ambivalente
 
 
+Ideale dello _scoglio_, che viene abbandonato
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTcxNzMwNV19
+eyJoaXN0b3J5IjpbMTMwNDc5OTY1MSwtMTI1NzE3MzA1XX0=
 -->
