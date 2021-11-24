@@ -35,6 +35,11 @@ conservazione momento angolare
 > Il raggio vettore che congiunge il pianeta e il sole spazia _aree uguali_ in _tempi uguali_
 
 $L=\vec r \text{ x } \vec p= \vec r \text{ x } m\vec v$
+
+
+$$
+\frac{
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMDQwOTQyXX0=
+eyJoaXN0b3J5IjpbMTE0MDgxOTg4N119
 -->
