@@ -30,6 +30,11 @@ $$
 $$
 
 Legge di Keplero
+
+conservazione momento angolare 
+> Il raggio vettore che 
+
+$L=\vec r \text{ x } \vec p= \vec r \text{ x } m\vec v$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ5ODY4NThdfQ==
+eyJoaXN0b3J5IjpbLTU0MjczMzI5Nl19
 -->
