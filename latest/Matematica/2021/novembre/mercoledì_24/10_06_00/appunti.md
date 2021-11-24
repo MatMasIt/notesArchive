@@ -46,9 +46,14 @@ $$
 $$
 
 $$
-\lim_{x\to -\infin}\left(e^{-x}+x^3\right)=+\infin-\infinFI
+\lim_{x\to -\infin}\left(e^{-x}+x^3\right)=+\infin-\infin FI \xrightarrow{x^3=o(e^{-x})}\lim_{x\to -\infin}e^{-x}=\infin
+$$
+
+
+$$
+\lim_{x\to +\in
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTQzMDkzOCwxMjc4NTE3NTM2LDYwMD
-IyNTE4Ml19
+eyJoaXN0b3J5IjpbLTE2NzU0NjY5ODgsMTI3ODUxNzUzNiw2MD
+AyMjUxODJdfQ==
 -->
