@@ -59,9 +59,9 @@ $$
 ---
 
 $$
-\lim_{x\to +\infin}\frac{5x^3-4x^2+3}{x^3-1}=\frac{+\infin-\infin}{+\infin}\quad FI \xrightarrow{-4x^2+3=o
+\lim_{x\to +\infin}\frac{5x^3-4x^2+3}{x^3-1}=\frac{+\infin-\infin}{+\infin}\quad FI \xrightarrow{-4x^2+3=o(x^3)}\lim_{x \to +\infin}\frac{5\cancel x^3}{\cancel x ^3}=5
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Mzc5NjU0OCwxMjc4NTE3NTM2LDYwMD
-IyNTE4Ml19
+eyJoaXN0b3J5IjpbLTIwODQ5ODc4NTEsMTI3ODUxNzUzNiw2MD
+AyMjUxODJdfQ==
 -->
