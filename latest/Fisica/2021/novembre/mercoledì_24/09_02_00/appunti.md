@@ -42,8 +42,8 @@ k=\frac{4\pi^2}{GM}=\frac{4\pi^2}{6,674\cdot 10^{-13}\frac{Nm^2}{Kg^2}\cdot5,972
 $$
 
 $$
-T_{rot_{terra}}=23\text{h}56\textm4,29s
+T_{rot_{terra}}=23\text{h}56\text{m}4,29\text{s}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTkxMTYxMDhdfQ==
+eyJoaXN0b3J5IjpbNTQzNzE4NzAxXX0=
 -->
