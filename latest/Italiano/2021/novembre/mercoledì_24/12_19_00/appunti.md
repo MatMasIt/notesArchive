@@ -25,6 +25,13 @@ mondo autoreferenziale
 
 
 
+Etica del dovere e del rispetto compromessa in 'Ntoni
+
+luogo in cui si preservano valori arcaici?
+
+mondo ambivalente
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTA4NTgyNF19
+eyJoaXN0b3J5IjpbLTEyNTcxNzMwNV19
 -->
