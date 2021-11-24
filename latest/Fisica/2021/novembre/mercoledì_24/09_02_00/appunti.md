@@ -32,9 +32,9 @@ $$
 Legge di Keplero
 
 conservazione momento angolare 
-> Il raggio vettore che 
+> Il raggio vettore che congiunge il pianeta e il sole spazia _aree uguali_ in _tempi uguali_
 
 $L=\vec r \text{ x } \vec p= \vec r \text{ x } m\vec v$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjczMzI5Nl19
+eyJoaXN0b3J5IjpbNzYxMDQwOTQyXX0=
 -->
