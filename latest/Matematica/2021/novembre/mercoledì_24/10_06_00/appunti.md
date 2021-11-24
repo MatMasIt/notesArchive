@@ -7,16 +7,17 @@ $$
 \lim_{x\to \infin}\frac{f(x)}{g(x)}=\frac{\infin}{\infin}
 $$
 
+#### Risultati
 ---
-
-$f(x)$ è asintoica a $g(x)$
+$\boxed n$
+$f(x)$ è asintotica a $g(x)$
 $$
 n\quad se\quad f(x)\approx f(x)
 $$
 
 ---
 
-$\infin$
+$\boxed \infin$
 
 $g(x)$ è trascurabile rispetto a $f(x)$
 
@@ -24,7 +25,8 @@ $g(x)=o(f(x))$
 
 $o$ piccolo : trascurabile
 
+Sono $\approx$ le stesse funzioni
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzc3MTc4XX0=
+eyJoaXN0b3J5IjpbNjAwMjI1MTgyXX0=
 -->
