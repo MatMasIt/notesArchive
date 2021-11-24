@@ -34,6 +34,11 @@ mondo ambivalente
 
 Ideale dello _scoglio_, che viene abbandonato
 
+
+---
+
+Siciliano Ideale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDc5OTY1MSwtMTI1NzE3MzA1XX0=
+eyJoaXN0b3J5IjpbLTE2MTU2MzgwNTEsMTMwNDc5OTY1MSwtMT
+I1NzE3MzA1XX0=
 -->
