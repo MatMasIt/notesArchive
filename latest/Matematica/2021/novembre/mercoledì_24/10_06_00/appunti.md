@@ -34,26 +34,30 @@ Sono $\approx$ le stesse funzioni
 $$
 
 
-$$
+* $$
 \lim_{x\to +\infin}\frac{e^x}{x^7}=\frac{+\infin}{+\infin}\quad FI \xrightarrow{x^8=o(e^x)}
 \lim_{x\to +\infin} e^x=+\infin$$
 
 
 
 
-$$
+* $$
 \lim_{x \to +\infin}\frac{x+5}{\ln x}=\frac{+\infin}{+\infin}\quad FI\xrightarrow[\ln x=o(x)]{5=o(x)}\lim_{x\to +\infin}x=+\infin
 $$
 
-$$
+* $$
 \lim_{x\to -\infin}\left(e^{-x}+x^3\right)=+\infin-\infin \quad FI \xrightarrow{x^3=o(e^{-x})}\lim_{x\to -\infin}e^{-x}=\infin
 $$
 
 
-$$
+* $$
 \lim_{x\to +\infin}(\ln x-\sqrt x)=\infin-\infin\quad FI \xrightarrow{\ln x=o(\sqrt x)}\lim_{x \to \infin}-\sqrt x=-\infin
 $$
+
+Forme di indecisione dirvese $\frac\infin\infin$ e $\infin- \infin$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjYwMjU4OTcsMTI3ODUxNzUzNiw2MD
-AyMjUxODJdfQ==
+eyJoaXN0b3J5IjpbMTM4MDg5MjgyOSwxMjc4NTE3NTM2LDYwMD
+IyNTE4Ml19
 -->
