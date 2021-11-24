@@ -48,6 +48,18 @@ $$
 $$
 R=\sqrt[3]{\frac{T^2GM_t}{4\pi^2}}
 $$
+
+
+---
+
+Campo magnetico di una spira o di un solenoide
+
+
+## Spira (in rosso)
+
+$$
+V=\frac{\mu_0
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTgzNDU1XX0=
+eyJoaXN0b3J5IjpbLTMzNDg5NzEzNF19
 -->
