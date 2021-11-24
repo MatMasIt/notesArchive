@@ -1,4 +1,5 @@
-# Title
+# Lezione di Fisica
+## Martedì 24 novembre 2021, 09:08
 
 $$
 F_g=F_c
@@ -30,5 +31,5 @@ $$
 
 Legge di Keplero
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTU4OTA0NV19
+eyJoaXN0b3J5IjpbLTEyOTQ5ODY4NThdfQ==
 -->
