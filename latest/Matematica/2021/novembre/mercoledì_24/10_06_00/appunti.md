@@ -42,9 +42,13 @@ $$
 
 
 $$
-\lim_{x \to +\infin}\frac{x+5}{\ln x}=\frac{+\infin}{+\infin}Fi\xrightarrow{5=o(x)}[\ln x=o(x)]
+\lim_{x \to +\infin}\frac{x+5}{\ln x}=\frac{+\infin}{+\infin}FI\xrightarrow[\ln x=o(x)]{5=o(x)}\lim_{x\to +\infin}x=+\infin
+$$
+
+$$
+\lim_{x\to -\infin}\left(e^{-x}+x^3\right)=+\infin-\infinFI
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwNDgxMzM0LDEyNzg1MTc1MzYsNjAwMj
-I1MTgyXX0=
+eyJoaXN0b3J5IjpbLTIzNTQzMDkzOCwxMjc4NTE3NTM2LDYwMD
+IyNTE4Ml19
 -->
