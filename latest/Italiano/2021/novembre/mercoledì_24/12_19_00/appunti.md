@@ -9,7 +9,9 @@ _Romano Luperini_: critico
 Fiorire di espressione idiomatiche e dialettali
 
 
-t
+temp della storia che irrompe nel romanzo con la chiamata alla leva
+tasse imposte da regno di Italia
+Bataglia di Lissa si porta via il giovane Luca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDk1NjgzNl19
+eyJoaXN0b3J5IjpbMTczMDUxNjM1MV19
 -->
