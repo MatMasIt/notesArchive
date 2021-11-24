@@ -30,7 +30,7 @@ Sono $\approx$ le stesse funzioni
 ---
 
 $$
-lim_{x \to \infin}\frac{x^3+2}{x^4+1}=\frac{+\infin}{+\infin}\quad FI\xrightarrow[1=o(x^4)]{2=o(x^3)}\quad \lim_{x \to +\infin
+lim_{x \to \infin}\frac{x^3+2}{x^4+1}=\frac{+\infin}{+\infin}\quad FI\xrightarrow[1=o(x^4)]{2=o(x^3)}\quad \lim_{x \to +\infin}\frac{x^3}{x^4}\xrightarrow{x^3=o(x^4)} \lim_{x \to \infin}\frac1{x^4}=0^{+}
 $$
 
 
@@ -38,5 +38,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjkwMTA1Miw2MDAyMjUxODJdfQ==
+eyJoaXN0b3J5IjpbMTI3ODUxNzUzNiw2MDAyMjUxODJdfQ==
 -->
