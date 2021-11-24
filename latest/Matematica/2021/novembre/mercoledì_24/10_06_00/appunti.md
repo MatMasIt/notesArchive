@@ -56,8 +56,12 @@ $$
 
 > Forme di indecisione dirvese $\frac\infin\infin$ e $\infin- \infin$
 
+---
 
+$$
+\lim_{x\to +\infin}\frac{5x^3-4x^2+3}{x^3-1}=\frac{+\infin-\infin}{+\infin}\quad FI \xrightarrow{-4x^2+3=o
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTg4MzUxNSwxMjc4NTE3NTM2LDYwMD
+eyJoaXN0b3J5IjpbMTE2Mzc5NjU0OCwxMjc4NTE3NTM2LDYwMD
 IyNTE4Ml19
 -->
