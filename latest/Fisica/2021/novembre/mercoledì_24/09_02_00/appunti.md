@@ -38,8 +38,12 @@ $L=\vec r \text{ x } \vec p= \vec r \text{ x } m\vec v$
 
 
 $$
-k=\frac{4\pi^2}{GM}=\frac{4\pi^2}{6,674\cdot 10^{-13}\frac{Nm^2}{Kg^2}\cdot5,972 \cdot 10^{24}Kg}=
+k=\frac{4\pi^2}{GM}=\frac{4\pi^2}{6,674\cdot 10^{-13}\frac{Nm^2}{Kg^2}\cdot5,972 \cdot 10^{24}Kg}=9,90\cdot 10^{-12}
+$$
+
+$$
+T_{rot_{terra}}=23\text{h}56\textm4,29s
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4NTI1MDRdfQ==
+eyJoaXN0b3J5IjpbLTE1MTkxMTYxMDhdfQ==
 -->
