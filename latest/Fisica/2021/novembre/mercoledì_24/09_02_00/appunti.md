@@ -38,8 +38,8 @@ $L=\vec r \text{ x } \vec p= \vec r \text{ x } m\vec v$
 
 
 $$
-k=\frac{4\pi^2}{GM}=\frac{4\pi^2}{5,972 \cdot 10^{24}}
+k=\frac{4\pi^2}{GM}=\frac{4\pi^2}{6,674\cdot 10^{-13}\frac{Nm^2}{Kg^2}\cdot5,972 \cdot 10^{24}Kg}=
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NzA4NzA3XX0=
+eyJoaXN0b3J5IjpbMjg4NTI1MDRdfQ==
 -->
