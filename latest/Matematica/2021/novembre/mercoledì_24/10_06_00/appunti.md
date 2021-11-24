@@ -4,8 +4,12 @@
 ### forme di indecisione
 
 $$
-\lim_{x\to \infin}\frac{f(x)}{g(x)}=\ffrac{\infin}{\infin}
+\lim_{x\to \infin}\frac{f(x)}{g(x)}=\frac{\infin}{\infin}
+$$
+
+$$
+n\quad se\quad f(x)\approx f(x)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzQxMzM4M119
+eyJoaXN0b3J5IjpbLTc5MTUwMzg1MV19
 -->
