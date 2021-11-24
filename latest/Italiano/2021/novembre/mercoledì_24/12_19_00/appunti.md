@@ -4,6 +4,12 @@
 Tempo dela natura, del villaggio, arcaico vs tempo del progresso vs spazio rurale 
 
 _Romano Luperini_: critico
+
+
+Fiorire di espressione idiomatiche e dialettali
+
+
+t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwMjg0ODExXX0=
+eyJoaXN0b3J5IjpbMTkxNDk1NjgzNl19
 -->
