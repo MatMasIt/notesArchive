@@ -66,6 +66,8 @@ $$
 $$
 I_1=\frac{2\pi \cdot m\cdot g\cdot d}{\mu_0I_2\overline{AB}}
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjMyNDAzMjldfQ==
+eyJoaXN0b3J5IjpbMTM0MDYwMTA0M119
 -->
