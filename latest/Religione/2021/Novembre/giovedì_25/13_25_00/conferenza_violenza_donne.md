@@ -1,4 +1,4 @@
-# _"L'amore non colpisce in faccia mai_
+# _"L'amore non colpisce in faccia mai"_
 ## generazioni in cammino per fare la differenza
 
 > Alba, teatro sociale, giovedì 25 novrembre 2021
@@ -917,11 +917,13 @@ solo il cabiamento può rompere il cerchio perverso
 
 Piccolo discorso di una ragazza su quanto siano svantaggiate le donne
 
+Più proclami che domande, actually
+
 > Vorrei al dott. Borioni quanto e in che modo il linguaggio che viene adottato dai media può impattare la narrazione collettiva e che misure si possono prendere al riguardo?
 > ==non chiesta, non sono riuscito==
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2MDA1MTUwXX0=
+eyJoaXN0b3J5IjpbLTIwMDE0NjExNzBdfQ==
 -->
