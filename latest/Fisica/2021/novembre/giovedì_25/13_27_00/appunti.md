@@ -24,9 +24,15 @@ $$
 
 
 ---
-
-
-		
+      /////////////////////
+      ____________________
+        |           |
+        |    I1     |
+		------------
+		A           B
+		------>-----
+> **Dati**
+> $\overline{AB}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzcxMzk1XX0=
+eyJoaXN0b3J5IjpbMTkxMjU0OTg3OV19
 -->
