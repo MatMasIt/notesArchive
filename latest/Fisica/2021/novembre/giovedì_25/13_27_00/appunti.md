@@ -28,15 +28,21 @@ $$
       ____________________
         |           |
         |    I1     |
-		------------
-		A           B
-		------>-----
+		------^-------
+		A  Fe |   I2  B   
+		---------->---
+		      | P
+		     \ /
 > **Dati**
 > $\overline{AB}=40cm=0,4m$
 > $d=0,8cm$
 > $I_2=30A$
 > $m_2=2g$
 
+
+$$
+F_e=P
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjAxNjIyXX0=
+eyJoaXN0b3J5IjpbLTEwOTEzODEyOTVdfQ==
 -->
