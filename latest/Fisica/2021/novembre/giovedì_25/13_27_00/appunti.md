@@ -32,7 +32,11 @@ $$
 		A           B
 		------>-----
 > **Dati**
-> $\overline{AB}
+> $\overline{AB}=40cm=0,4m$
+> $d=0,8cm$
+> $I_2=30A$
+> $m_2=2g$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjU0OTg3OV19
+eyJoaXN0b3J5IjpbLTk0MjAxNjIyXX0=
 -->
