@@ -43,6 +43,10 @@ $$
 $$
 F_e=P
 $$
+
+Forza elettrica
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTEzODEyOTVdfQ==
+eyJoaXN0b3J5IjpbLTE5MjcyMjUxMjBdfQ==
 -->
