@@ -1,4 +1,4 @@
-# Lezione di storia
+# Lezione di Fisica
 ## Giovedì 07 ottobre 2021
 ![](https://i.imgur.com/VCbJOQr.jpg)
 ![](https://i.imgur.com/00wfVaY.jpg)
