@@ -41,12 +41,16 @@ $$
 
 
 $$
-F_e=P
+\vec
+$$
+
+$$
+F_m=P
 $$
 
 Forza elettrica
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjcyMjUxMjBdfQ==
+eyJoaXN0b3J5IjpbMTQ4MDY0ODg5Ml19
 -->
