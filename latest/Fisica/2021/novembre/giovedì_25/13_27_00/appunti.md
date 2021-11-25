@@ -64,8 +64,8 @@ $$
 $$
 
 $$
-I_1
+I_1=\frac{2\pi \cdot m\cdot g\cdot d}{\mu_0I_2\overline{AB}}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODE3ODczMV19
+eyJoaXN0b3J5IjpbLTEwNjMyNDAzMjldfQ==
 -->
