@@ -19,8 +19,14 @@ $$
 $$
 
 $$
-I=\frac{B_TL}{\mu_0(N_1+N_2)}=\frac{8\cdot 10^{-4}T\cdot 10^{-2}m}{4\pi\cdot }
+I=\frac{B_TL}{\mu_0(N_1+N_2)}=\frac{8\cdot 10^{-4}T\cdot 10^{-2}m}{4\pi\cdot 10^{-7}\frac{TM}{A}\cdot 80}
 $$
+
+
+---
+
+
+		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI5MDk0NjddfQ==
+eyJoaXN0b3J5IjpbLTc4MzcxMzk1XX0=
 -->
