@@ -41,7 +41,7 @@ $$
 
 
 $$
-\vec
+\vec{F_m}=\vec{P}
 $$
 
 $$
@@ -51,6 +51,21 @@ $$
 Forza elettrica
 
 
+$$
+F_m=\frac{\mu_0}{2\pi}\frac{I_1\cdot I_2\cdot \overline{AB}}{d}
+$$
+
+$$
+P=mg
+$$
+
+$$
+\frac{\mu_0}{2\pi}\frac{I_1\cdot I_2\cdot \overline{AB}}{d}=mg
+$$
+
+$$
+I_1
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDY0ODg5Ml19
+eyJoaXN0b3J5IjpbLTQ2ODE3ODczMV19
 -->
