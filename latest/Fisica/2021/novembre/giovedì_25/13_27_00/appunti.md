@@ -7,7 +7,7 @@
 > $L=35cm=35\cdot 10^{-2}m$
 > $I_1=I_2=I=\boxed{?}$
 > $B_TB_1+B_2=8\cdot 10^{-4}T$
-> Concentrici
+> $Concentrici$
 
 
 $$
@@ -69,5 +69,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDYwMTA0M119
+eyJoaXN0b3J5IjpbMTQ1OTE3ODk4OV19
 -->
