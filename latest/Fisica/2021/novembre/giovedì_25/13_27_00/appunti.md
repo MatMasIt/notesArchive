@@ -5,14 +5,18 @@
 > $N_1=20$
 > $N_2=60$
 > $L=35cm=35\cdot 10^{-2}m$
-> $I_1=I_2=I$
-> $B_T=8\cdot 10^{-4}T$
-> 
+> $I_1=I_2=I=\boxed{?}$
+> $B_TB_1+B_2=8\cdot 10^{-4}T$
+> Concentrici
 
-Concentrici
 
-$B_T=B_1+B_2$
+$$
+B_T=B_1+B_2=\mu_0\frac{N_1I}{L}+\mu_0\frac{N_2I}{L}
+$$
 
+$$
+= \mu_0\frac
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzIwODE0Nl19
+eyJoaXN0b3J5IjpbLTExMDgxNDc0OTFdfQ==
 -->
