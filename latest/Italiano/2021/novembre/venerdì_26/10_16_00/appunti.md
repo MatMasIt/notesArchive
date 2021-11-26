@@ -37,8 +37,20 @@ verga: La Roba
 pubblicato su la "Rassegna settimanale"
 
 
-Mazzarò
+Mazzarò: Contadino che diventa un latifondista
+
+Self-Made man
+
+arrampicatore sociale
+
+1950: Il Gattopardo
+
+anni '80-'90  Neoliberismo sfrenato 
+Speculazione
+arrampicatori sfrenati
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQzMzAyMCwtMTY2NzM2ODg1LDEzNz
-AyNTYxODIsLTExODg2Mjg2MjVdfQ==
+eyJoaXN0b3J5IjpbMTY2NjE0MzM0LC0xNjY3MzY4ODUsMTM3MD
+I1NjE4MiwtMTE4ODYyODYyNV19
 -->
