@@ -6,7 +6,14 @@ p.178
 
 Difficoltò di 'Ntoni a lasciare il suo paese di origine, ma _deve_ andarsene
 
-Ostrica legata allo scoglio che deve 
+Ostrica legata allo scoglio che si stacca
+
+bramosia, irrequietudine del progresso
+
+Ormai 'Ntoni è inadeguato alla vita di quella comunità
+
+Il cane abbaia
+le porte delle case si chiudoo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDg5MTk3Ml19
+eyJoaXN0b3J5IjpbLTExODg2Mjg2MjVdfQ==
 -->
