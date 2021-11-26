@@ -65,8 +65,10 @@ tono fiabesco
 
 iperboli
 
+Scoglimento drammatico
 
+Consapevolezza che _la roba_ non può  sostituire l'amore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzNDY0NTI1LC0xNjY3MzY4ODUsMTM3MD
-I1NjE4MiwtMTE4ODYyODYyNV19
+eyJoaXN0b3J5IjpbLTEyOTE4MDU5MTksLTE2NjczNjg4NSwxMz
+cwMjU2MTgyLC0xMTg4NjI4NjI1XX0=
 -->
