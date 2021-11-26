@@ -16,6 +16,12 @@ Il cane abbaia
 le porte delle case si chiudono
 
 Sta a riflettere fino all'Alba
+
+
+Luogo di soprusi
+
+distacco da condizione antropologica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDI1NjE4MiwtMTE4ODYyODYyNV19
+eyJoaXN0b3J5IjpbLTE2NjczNjg4NSwxMzcwMjU2MTgyLC0xMT
+g4NjI4NjI1XX0=
 -->
