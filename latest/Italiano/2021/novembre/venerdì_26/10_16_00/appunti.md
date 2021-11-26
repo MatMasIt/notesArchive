@@ -58,7 +58,10 @@ Si è vietato gli affetti eccetto la madre ma gli è costata 12 tarì per il fun
 
 diffida delle banconote, solo monete
 
+
+
+tono fiabesco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODcwNjAyMjEsLTE2NjczNjg4NSwxMz
-cwMjU2MTgyLC0xMTg4NjI4NjI1XX0=
+eyJoaXN0b3J5IjpbMjAxODU4NTYwNSwtMTY2NzM2ODg1LDEzNz
+AyNTYxODIsLTExODg2Mjg2MjVdfQ==
 -->
