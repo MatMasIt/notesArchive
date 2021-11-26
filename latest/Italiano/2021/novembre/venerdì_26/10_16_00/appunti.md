@@ -68,7 +68,9 @@ iperboli
 Scoglimento drammatico
 
 Consapevolezza che _la roba_ non può  sostituire l'amore
+
+Insensatezza della pura logica del profitto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE4MDU5MTksLTE2NjczNjg4NSwxMz
-cwMjU2MTgyLC0xMTg4NjI4NjI1XX0=
+eyJoaXN0b3J5IjpbLTY1ODkxNjQxOSwtMTY2NzM2ODg1LDEzNz
+AyNTYxODIsLTExODg2Mjg2MjVdfQ==
 -->
