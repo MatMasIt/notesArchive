@@ -56,9 +56,9 @@ Non si è sposato
 
 Si è vietato gli affetti eccetto la madre ma gli è costata 12 tarì per il funerale
 
-diffida
+diffida delle banconote, solo monete
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjYxOTMwMywtMTY2NzM2ODg1LDEzNz
-AyNTYxODIsLTExODg2Mjg2MjVdfQ==
+eyJoaXN0b3J5IjpbLTExODcwNjAyMjEsLTE2NjczNjg4NSwxMz
+cwMjU2MTgyLC0xMTg4NjI4NjI1XX0=
 -->
