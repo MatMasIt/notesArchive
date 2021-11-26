@@ -21,7 +21,15 @@ Sta a riflettere fino all'Alba
 Luogo di soprusi
 
 distacco da condizione antropologica
+
+Romanzi modernisti
+
+protgonista
+
+estraniato, non concluso
+
+inetto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjczNjg4NSwxMzcwMjU2MTgyLC0xMT
-g4NjI4NjI1XX0=
+eyJoaXN0b3J5IjpbLTExODI3MDQ1MTUsLTE2NjczNjg4NSwxMz
+cwMjU2MTgyLC0xMTg4NjI4NjI1XX0=
 -->
