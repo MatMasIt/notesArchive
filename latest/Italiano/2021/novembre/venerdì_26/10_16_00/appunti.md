@@ -50,7 +50,15 @@ Speculazione
 arrampicatori sfrenati
 
 
+mangia solo un po' di pane e un po' di cipolle
+
+Non si è sposato
+
+Si è vietato gli affetti eccetto la madre ma gli è costata 12 tarì per il funerale
+
+diffida
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjE0MzM0LC0xNjY3MzY4ODUsMTM3MD
-I1NjE4MiwtMTE4ODYyODYyNV19
+eyJoaXN0b3J5IjpbMTYxMjYxOTMwMywtMTY2NzM2ODg1LDEzNz
+AyNTYxODIsLTExODg2Mjg2MjVdfQ==
 -->
