@@ -5,6 +5,8 @@
 p.178
 
 Difficoltò di 'Ntoni a lasciare il suo paese di origine, ma _deve_ andarsene
+
+Ostrica legata allo scoglio che deve 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ4ODE4NzNdfQ==
+eyJoaXN0b3J5IjpbLTkwNDg5MTk3Ml19
 -->
