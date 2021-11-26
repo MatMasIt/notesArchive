@@ -13,7 +13,9 @@ bramosia, irrequietudine del progresso
 Ormai 'Ntoni è inadeguato alla vita di quella comunità
 
 Il cane abbaia
-le porte delle case si chiudoo
+le porte delle case si chiudono
+
+Sta a riflettere fino all'Alba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg2Mjg2MjVdfQ==
+eyJoaXN0b3J5IjpbMTM3MDI1NjE4MiwtMTE4ODYyODYyNV19
 -->
