@@ -29,7 +29,16 @@ protgonista
 estraniato, non concluso
 
 inetto
+
+
+p. 188 
+verga: La Roba
+
+pubblicato su la "Rassegna settimanale"
+
+
+Mazzarò
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI3MDQ1MTUsLTE2NjczNjg4NSwxMz
-cwMjU2MTgyLC0xMTg4NjI4NjI1XX0=
+eyJoaXN0b3J5IjpbLTEwNzQzMzAyMCwtMTY2NzM2ODg1LDEzNz
+AyNTYxODIsLTExODg2Mjg2MjVdfQ==
 -->
