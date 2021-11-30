@@ -41,7 +41,7 @@ Senate
 9.  “Impeachment” is what could lead to ………
     removal from office
 10.  The Prime Minister’s removal happens when…….
-    he gets a vote of no confidence from the parliament
+    he gets a vote of no confidence from the house of commons and the elections are called again
 
   
 
@@ -301,5 +301,5 @@ The Congress shall have Power to declare the Punishment of Treason, but no Attai
 
 ![Esposta per la prima volta in Italia la Magna Charta](https://lh3.googleusercontent.com/mOjzkcPJzEJl_rizETGWXSEW5N3UBuPOdm4Wc5i2v1WXKGHb-rJuzwDoY23sY5cwL-1Ws4DPpc1maZ_KN-R1rWxuVMs662ZFuE7jX_UPOyZxgkQBWHD2Pu_tglsGsewRdleElQP9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU4NTc2NzZdfQ==
+eyJoaXN0b3J5IjpbMjgyOTUzNzc3XX0=
 -->
