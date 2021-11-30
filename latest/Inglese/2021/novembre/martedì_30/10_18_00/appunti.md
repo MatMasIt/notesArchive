@@ -23,7 +23,7 @@ The president is elected by great electors, which are assigned to each state pro
 He is the leader of the party which wins the most seats in the general elections
     
 4.  What’s the difference between the British and the US Cabinet?
-    
+  The president of the united states need's the Senate approval for his nominees while the prime minister's appointees ned no approval but need to be currently serving in 
 5.  Who has the power to make and approve laws in USA (legislative + executive power)?
     
 6.  How many Chambers are the British and the American Governments composed of? What are they?
@@ -293,5 +293,5 @@ The Congress shall have Power to declare the Punishment of Treason, but no Attai
 
 ![Esposta per la prima volta in Italia la Magna Charta](https://lh3.googleusercontent.com/mOjzkcPJzEJl_rizETGWXSEW5N3UBuPOdm4Wc5i2v1WXKGHb-rJuzwDoY23sY5cwL-1Ws4DPpc1maZ_KN-R1rWxuVMs662ZFuE7jX_UPOyZxgkQBWHD2Pu_tglsGsewRdleElQP9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODYwODc2MV19
+eyJoaXN0b3J5IjpbLTE0OTc1NTEzOTNdfQ==
 -->
