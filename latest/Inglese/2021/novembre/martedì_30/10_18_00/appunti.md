@@ -300,6 +300,16 @@ The Congress shall have Power to declare the Punishment of Treason, but no Attai
   
 
 ![Esposta per la prima volta in Italia la Magna Charta](https://lh3.googleusercontent.com/mOjzkcPJzEJl_rizETGWXSEW5N3UBuPOdm4Wc5i2v1WXKGHb-rJuzwDoY23sY5cwL-1Ws4DPpc1maZ_KN-R1rWxuVMs662ZFuE7jX_UPOyZxgkQBWHD2Pu_tglsGsewRdleElQP9)
+
+
+
+
+---
+
+Usa electoral College system
+1. **Citizens** vote for **great electors** (in popular elections", 1st tuesday aftere 1st monday of nevember
+2. Great elections: seats for each state are assigned to the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDYzMDkwMiwyODI5NTM3NzddfQ==
+eyJoaXN0b3J5IjpbLTE4MzYxMTA0NjksMTAxMDYzMDkwMiwyOD
+I5NTM3NzddfQ==
 -->
