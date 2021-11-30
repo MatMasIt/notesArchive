@@ -11,8 +11,9 @@ $$
 
 
 $$
-v=\sqrt{}
+v=\sqrt{G\frac{M}{R}}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjc1NTQzNSwtNTQ0NDA4OTE1XX0=
+eyJoaXN0b3J5IjpbMTkyMzE5OTAzNSwxMzI2NzU1NDM1LC01ND
+Q0MDg5MTVdfQ==
 -->
