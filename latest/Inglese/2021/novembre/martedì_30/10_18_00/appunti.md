@@ -23,26 +23,27 @@ The president is elected by great electors, which are assigned to each state pro
 He is the leader of the party which wins the most seats in the general elections
     
 4.  What’s the difference between the British and the US Cabinet?
-  The president of the united states need's the Senate approval for his nominees while the prime minister's appointees ned no approval but need to be currently serving in 
+  The president of the united states needs the Senate approval for his nominees while the prime minister's appointees need no approval but need to be currently serving in the parliament
 5.  Who has the power to make and approve laws in USA (legislative + executive power)?
+The power is shared between the president and thecongress
     
-6.  How many Chambers are the British and the American Governments composed of? What are they?
+7.  How many Chambers are the British and the American Governments composed of? What are they?
     
-7.  Is there the possibility of a “veto” on a bill in the UK?
+8.  Is there the possibility of a “veto” on a bill in the UK?
     
-8.  “Impeachment” is what could lead to ………
+9.  “Impeachment” is what could lead to ………
     
-9.  The Prime Minister’s removal happens when…….
-    
-
-  
-
-10.  VIDEOS: History of the US Constitution (1776 – 1789)
+10.  The Prime Minister’s removal happens when…….
     
 
   
 
-11.  [https://www.youtube.com/watch?v=k55VdRD8DDo](https://www.youtube.com/watch?v=k55VdRD8DDo) (22 minutes):
+11.  VIDEOS: History of the US Constitution (1776 – 1789)
+    
+
+  
+
+12.  [https://www.youtube.com/watch?v=k55VdRD8DDo](https://www.youtube.com/watch?v=k55VdRD8DDo) (22 minutes):
     
 
 Philadelphia Convention (1787) and the birth of the US Constitution
@@ -293,5 +294,5 @@ The Congress shall have Power to declare the Punishment of Treason, but no Attai
 
 ![Esposta per la prima volta in Italia la Magna Charta](https://lh3.googleusercontent.com/mOjzkcPJzEJl_rizETGWXSEW5N3UBuPOdm4Wc5i2v1WXKGHb-rJuzwDoY23sY5cwL-1Ws4DPpc1maZ_KN-R1rWxuVMs662ZFuE7jX_UPOyZxgkQBWHD2Pu_tglsGsewRdleElQP9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTc1NTEzOTNdfQ==
+eyJoaXN0b3J5IjpbLTEwMzk3NTgzODRdfQ==
 -->
