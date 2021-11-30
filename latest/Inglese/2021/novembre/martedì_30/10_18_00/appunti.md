@@ -309,8 +309,12 @@ The Congress shall have Power to declare the Punishment of Treason, but no Attai
 Usa electoral College system
 1. **Citizens** vote for **great electors** (in popular elections", 1st tuesday aftere 1st monday of nevember
 2. Great elections: seats for each state are assigned to the  **winning party** of that State (Democratic/Republican). The number of representatives is proportional to the number of the inhabitants of the State
-3. Great Electors vote for the Presidential candidate of that party (1st monday after 2n Wed 
+3. Great Electors vote for the Presidential candidate of that party (1st monday after 2n Wed of Dec)
+4. President is elected (every 4 years/ 2 terms)
+5. 20th of Jan: president is in charge
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI0MjA2NzUsMTAxMDYzMDkwMiwyOD
-I5NTM3NzddfQ==
+eyJoaXN0b3J5IjpbLTExNjMzOTczLDEwMTA2MzA5MDIsMjgyOT
+UzNzc3XX0=
 -->
