@@ -20,7 +20,7 @@ The president is elected by great electors, which are assigned to each state pro
 2.  538 is the number of great electors (proportional to the populations of the single state), corresponding to the number of Senators (2 for each of the 50 States = 100) + number of House representatives (435)
     
 3.  How is the British Prime Minister elected?
-
+He is the leader of the party which wins the most seats in the general elections
     
 4.  What’s the difference between the British and the US Cabinet?
     
@@ -293,5 +293,5 @@ The Congress shall have Power to declare the Punishment of Treason, but no Attai
 
 ![Esposta per la prima volta in Italia la Magna Charta](https://lh3.googleusercontent.com/mOjzkcPJzEJl_rizETGWXSEW5N3UBuPOdm4Wc5i2v1WXKGHb-rJuzwDoY23sY5cwL-1Ws4DPpc1maZ_KN-R1rWxuVMs662ZFuE7jX_UPOyZxgkQBWHD2Pu_tglsGsewRdleElQP9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxNjY4NjMyXX0=
+eyJoaXN0b3J5IjpbLTE1ODYwODc2MV19
 -->
