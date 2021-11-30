@@ -15,6 +15,7 @@ UK Parliamentary Monarchy VS US Presidential Republic
 
 1.  Who votes for the President of the USA? How does the “Electoral College System” work?
 
+The president is elected by great electors, which are assigned to each state proportionally to their population and vote accordingly to the vote of the population in a majoritarian way.
     
 2.  538 is the number of ……………………………………(proportional to …………………………………..), corresponding to the number of Senators (2 for each of the 50 States = 100) + number of House representatives (435)
     
@@ -291,5 +292,5 @@ The Congress shall have Power to declare the Punishment of Treason, but no Attai
 
 ![Esposta per la prima volta in Italia la Magna Charta](https://lh3.googleusercontent.com/mOjzkcPJzEJl_rizETGWXSEW5N3UBuPOdm4Wc5i2v1WXKGHb-rJuzwDoY23sY5cwL-1Ws4DPpc1maZ_KN-R1rWxuVMs662ZFuE7jX_UPOyZxgkQBWHD2Pu_tglsGsewRdleElQP9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDYzMTMxMV19
+eyJoaXN0b3J5IjpbMTQ5MDAwMDA3MF19
 -->
