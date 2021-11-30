@@ -32,14 +32,14 @@ The power is shared between the president and thecongress
 England parliamente:
 House of commons
 House of lords
-in the us c
+in the us congress:
 House of representatives
 Senate
    
 8.  Is there the possibility of a “veto” on a bill in the UK?
-    
+    Only the queen/king can veto a bil
 9.  “Impeachment” is what could lead to ………
-    
+    ren
 10.  The Prime Minister’s removal happens when…….
     
 
@@ -301,5 +301,5 @@ The Congress shall have Power to declare the Punishment of Treason, but no Attai
 
 ![Esposta per la prima volta in Italia la Magna Charta](https://lh3.googleusercontent.com/mOjzkcPJzEJl_rizETGWXSEW5N3UBuPOdm4Wc5i2v1WXKGHb-rJuzwDoY23sY5cwL-1Ws4DPpc1maZ_KN-R1rWxuVMs662ZFuE7jX_UPOyZxgkQBWHD2Pu_tglsGsewRdleElQP9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjgzNjMwNV19
+eyJoaXN0b3J5IjpbNzkxNDI0MzE0XX0=
 -->
