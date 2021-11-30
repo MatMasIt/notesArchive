@@ -308,8 +308,9 @@ The Congress shall have Power to declare the Punishment of Treason, but no Attai
 
 Usa electoral College system
 1. **Citizens** vote for **great electors** (in popular elections", 1st tuesday aftere 1st monday of nevember
-2. Great elections: seats for each state are assigned to the 
+2. Great elections: seats for each state are assigned to the  **winning party** of that State (Democratic/Republican). The number of representatives is proportional to the number of the inhabitants of the State
+3. Great Electors vote for the Presidential candidate of that party (1st monday after 2n Wed 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzYxMTA0NjksMTAxMDYzMDkwMiwyOD
+eyJoaXN0b3J5IjpbLTE1MTI0MjA2NzUsMTAxMDYzMDkwMiwyOD
 I5NTM3NzddfQ==
 -->
