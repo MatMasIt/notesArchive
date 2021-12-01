@@ -11,7 +11,7 @@ legge osservata come "ingiusta"
 "illegittima"
 
 
-noemw 
+norme ataviche e antropologiche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODA5Mjk5OF19
+eyJoaXN0b3J5IjpbLTIwMTE5NjU4ODldfQ==
 -->
