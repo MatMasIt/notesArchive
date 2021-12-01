@@ -20,8 +20,8 @@ p.256
 
 Operone $lac$
 
-
+Gene blocccato, induttore stacca il repressore dall'operatore e l'rna polimerasi inizia a trascrivere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg4NzgzNTEsOTMzODg2MDI3LC0yMT
-I2NDM3NjIzLC04MzE4Njc1NTFdfQ==
+eyJoaXN0b3J5IjpbMTQzNzM4Njc1OCwtMTU3ODg3ODM1MSw5Mz
+M4ODYwMjcsLTIxMjY0Mzc2MjMsLTgzMTg2NzU1MV19
 -->
