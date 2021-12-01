@@ -6,7 +6,7 @@ trasporto sequenze
 
 Ambiente preme sull'espressione genica
 
-Ogni
+Ogni gene ha un sistema di regolazione genica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjA4MTkzN119
+eyJoaXN0b3J5IjpbLTgzMTg2NzU1MV19
 -->
