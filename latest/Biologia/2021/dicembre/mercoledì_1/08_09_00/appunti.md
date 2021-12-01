@@ -28,9 +28,11 @@ In e.coli il repressore viene infotto a sstaccarsi dal lattorsio e quindi operon
 p.257 operone del triptofano
 
 
+Troppo triptofano? il repressore viene attivato
 
+legame mpedisce all complesso di tradurre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Mjg1ODA4NiwxNDM3Mzg2NzU4LC0xNT
+eyJoaXN0b3J5IjpbLTIwMzQ0NDI5MiwxNDM3Mzg2NzU4LC0xNT
 c4ODc4MzUxLDkzMzg4NjAyNywtMjEyNjQzNzYyMywtODMxODY3
 NTUxXX0=
 -->
