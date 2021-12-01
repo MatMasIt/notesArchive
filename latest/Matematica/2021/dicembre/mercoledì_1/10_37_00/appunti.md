@@ -20,6 +20,8 @@ $$
 $$
 x^3-8=(x-2)(x^2+2x+4)
 $$
+
+292
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1NTQzNjEyXX0=
+eyJoaXN0b3J5IjpbMzEzMTY0MzY5XX0=
 -->
