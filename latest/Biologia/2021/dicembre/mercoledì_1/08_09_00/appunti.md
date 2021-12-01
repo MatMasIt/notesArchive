@@ -21,7 +21,10 @@ p.256
 Operone $lac$
 
 Gene blocccato, induttore stacca il repressore dall'operatore e l'rna polimerasi inizia a trascrivere
+
+In e.coli il repressore viene infotto a sstaccarsi dal lattorsio e quindi operone libero
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzM4Njc1OCwtMTU3ODg3ODM1MSw5Mz
-M4ODYwMjcsLTIxMjY0Mzc2MjMsLTgzMTg2NzU1MV19
+eyJoaXN0b3J5IjpbMzk5NjMzMjg5LDE0MzczODY3NTgsLTE1Nz
+g4NzgzNTEsOTMzODg2MDI3LC0yMTI2NDM3NjIzLC04MzE4Njc1
+NTFdfQ==
 -->
