@@ -6,8 +6,8 @@ $$
 $$
 
 $$
-\lim_{x\to 5}\frac{(x-5)(x+5)}{x(x-5)}
+\lim_{x\to 5}\frac{\cancel{(x-5)}(x+5)}{x\cancel{(x-5)}}=\frac{10}{5}=2
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODMxOTM2XX0=
+eyJoaXN0b3J5IjpbNjcwNDc3MjA2XX0=
 -->
