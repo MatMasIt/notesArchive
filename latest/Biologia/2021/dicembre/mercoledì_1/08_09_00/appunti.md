@@ -12,8 +12,16 @@ Procarioti: geni costantemente attivi (codificano enzimi per la glicolisi)
 glicolisi: unica via metabolica comune a tutti gli esseri viventi sulla terra 
 
 
-Ge
+Gene strutturale: da origine a mmrna
+
+può essere codificato
+
+p.256
+
+Operone $lac$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjc2ODM2MSw5MzM4ODYwMjcsLTIxMj
-Y0Mzc2MjMsLTgzMTg2NzU1MV19
+eyJoaXN0b3J5IjpbLTE1Nzg4NzgzNTEsOTMzODg2MDI3LC0yMT
+I2NDM3NjIzLC04MzE4Njc1NTFdfQ==
 -->
