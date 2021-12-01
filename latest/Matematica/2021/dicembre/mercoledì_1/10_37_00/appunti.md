@@ -15,6 +15,11 @@ $$
 $$
 \lim_{x\to 2}\frac{x^3-8}{(x-2)^3}=\frac{8-8}{(2-2)^3}=\frac00FI
 $$
+
+
+$$
+x^3-8=(x-2)(x^2+2x+4)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzEwMDI0NF19
+eyJoaXN0b3J5IjpbNzg1NTQzNjEyXX0=
 -->
