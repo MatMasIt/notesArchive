@@ -9,7 +9,12 @@ $$
 \lim_{x\to 5}\frac{\cancel{(x-5)}(x+5)}{x\cancel{(x-5)}}=\frac{10}{5}=2
 $$
 
+279
 
+
+$$
+\lim_{x\to 2}\frac{x^3-8}{(x-2)^3}=\frac{8-8}{(2-2)^3}=\frac00FI
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4OTk4NjQyXX0=
+eyJoaXN0b3J5IjpbLTM5NzEwMDI0NF19
 -->
