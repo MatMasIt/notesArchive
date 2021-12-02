@@ -79,9 +79,9 @@ $$
 
 
 $$
-V_E=\frac{U_e}{q}=Ed
+V_E=\frac{U_e}{q}=Ed\quad \left(\frac{J}{C}\to 1 V\right)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE1NzU2NDAsLTU1NTA0NTQyMiwtMT
-IyMDcxMzQ4N119
+eyJoaXN0b3J5IjpbLTE4NTY1NTYwMDQsLTE1MzE1NzU2NDAsLT
+U1NTA0NTQyMiwtMTIyMDcxMzQ4N119
 -->
