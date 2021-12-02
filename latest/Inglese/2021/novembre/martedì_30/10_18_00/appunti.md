@@ -340,8 +340,12 @@ House of commons (650)
 
 House of Lords (800)
 
+---
+
+
+president can impose/put veto on a ill
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2OTcwMTAxLC0xMTYzMzk3MywxMDEwNj
-MwOTAyLDI4Mjk1Mzc3N119
+eyJoaXN0b3J5IjpbMjMxNTk5OTEwLDM1Njk3MDEwMSwtMTE2Mz
+M5NzMsMTAxMDYzMDkwMiwyODI5NTM3NzddfQ==
 -->
