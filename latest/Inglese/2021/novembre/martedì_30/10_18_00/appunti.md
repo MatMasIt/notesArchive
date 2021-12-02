@@ -314,7 +314,15 @@ Usa electoral College system
 5. 20th of Jan: president is in charge
 
 
+
+
+ukk
+
+citizens elect their representatives
+(in uk constituencies)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjMzOTczLDEwMTA2MzA5MDIsMjgyOT
-UzNzc3XX0=
+eyJoaXN0b3J5IjpbLTE0OTYxMDQ2MTYsLTExNjMzOTczLDEwMT
+A2MzA5MDIsMjgyOTUzNzc3XX0=
 -->
