@@ -9,8 +9,8 @@ viene fuori dal concetto di campo gravitazionale
 
 sulla terra
 $$
-\vec g=G\frac{
+\vec g=G\frac{M_T}{R_T}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzMzIyNTcxXX0=
+eyJoaXN0b3J5IjpbLTE3MjIzOTEwMjVdfQ==
 -->
