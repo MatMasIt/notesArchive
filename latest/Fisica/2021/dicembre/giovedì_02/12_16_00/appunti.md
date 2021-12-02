@@ -88,10 +88,18 @@ $$
 $$
 
 
-		--
-	     +     +     +     +    +     +
-		-----------------------------------
+		 -----------------------------------
+	      +     +     +     +    +     +
+		 -----------------------------------
+	50 V
+	40 V
+	30 V
+	20 V 
+	10 V
+	   -------------------------------------
+	v=0	   -     -    -   -   -   -   -   -  
+	   --------------------------------------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzU3ODc5NSwtMTUzMTU3NTY0MCwtNT
+eyJoaXN0b3J5IjpbMTAzMDAxOTczOSwtMTUzMTU3NTY0MCwtNT
 U1MDQ1NDIyLC0xMjIwNzEzNDg3XX0=
 -->
