@@ -42,8 +42,15 @@ da energia potenziale al potenziale
 
 
 $$
-V_g=\frac{U_g}{m}
+V_g=\frac{U_g}{m}=gh
 $$
+
+
+Potenziale: lavoro compiuto da una massa unitaria posta a diverse altezze
+
+
+
+Forze conservative: indipendenti dal percorso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTU0MjQ0NSwtMTIyMDcxMzQ4N119
+eyJoaXN0b3J5IjpbLTk1OTIxODE3NSwtMTIyMDcxMzQ4N119
 -->
