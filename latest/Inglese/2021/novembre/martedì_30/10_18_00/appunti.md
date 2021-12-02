@@ -336,7 +336,12 @@ while in usa cabinet appointed by the president, senate's approval needed
 15 people in the cabinet
 
 
+House of commons (650)
+
+House of Lords (800)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5ODcxMTY0LC0xMTYzMzk3MywxMDEwNj
+eyJoaXN0b3J5IjpbMzU2OTcwMTAxLC0xMTYzMzk3MywxMDEwNj
 MwOTAyLDI4Mjk1Mzc3N119
 -->
