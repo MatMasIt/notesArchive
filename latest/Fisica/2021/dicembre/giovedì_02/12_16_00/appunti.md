@@ -74,8 +74,14 @@ due piano paralleli a distanza d
 
 
 $$
-U_E=F_ed
+U_E=F_ed=qED
+$$
+
+
+$$
+V_E=\frac{U_e}{q}=Ed
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTA0NTQyMiwtMTIyMDcxMzQ4N119
+eyJoaXN0b3J5IjpbLTE1MzE1NzU2NDAsLTU1NTA0NTQyMiwtMT
+IyMDcxMzQ4N119
 -->
