@@ -70,6 +70,12 @@ due piano paralleli a distanza d
 	|+| ---------> |-|
 	|+| ---------> |-|
 	|+| ---------> |-|
+
+
+
+$$
+U_E=F_ed
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQwNjYwMCwtMTIyMDcxMzQ4N119
+eyJoaXN0b3J5IjpbLTU1NTA0NTQyMiwtMTIyMDcxMzQ4N119
 -->
