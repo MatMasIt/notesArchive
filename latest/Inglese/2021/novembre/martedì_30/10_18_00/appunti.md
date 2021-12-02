@@ -321,8 +321,14 @@ ukk
 citizens elect their representatives
 (in uk constituencies)
 
+(geographical areas)
 
+
+650 members in th ehouse of commons
+(lower chamberl, house of lords [unelected] is the upper one)
+labour and conservatives mainly
+Leader of the winning party becomes prime minister
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTYxMDQ2MTYsLTExNjMzOTczLDEwMT
-A2MzA5MDIsMjgyOTUzNzc3XX0=
+eyJoaXN0b3J5IjpbMTU3NTYxNjg0LC0xMTYzMzk3MywxMDEwNj
+MwOTAyLDI4Mjk1Mzc3N119
 -->
