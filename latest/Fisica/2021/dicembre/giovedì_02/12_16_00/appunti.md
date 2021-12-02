@@ -27,6 +27,12 @@ $$
 
 > $U_g=mgh$
 > energia potenziale gravitazionale
+
+
+Spostamento uguale indipendentemente dal percorso
+
+
+tutti i punti orizzontali equidistanti dal terreno hanno la stessa energia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0ODg0NTg1MCwtMTIyMDcxMzQ4N119
+eyJoaXN0b3J5IjpbNjY0ODk0MDMsLTEyMjA3MTM0ODddfQ==
 -->
