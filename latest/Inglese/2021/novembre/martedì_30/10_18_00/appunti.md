@@ -333,8 +333,10 @@ Leader of the winning party becomes prime minister
 
 
 while in usa cabinet appointed by the president, senate's approval needed
+15 people in the cabinet
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY4ODk2MjksLTExNjMzOTczLDEwMT
-A2MzA5MDIsMjgyOTUzNzc3XX0=
+eyJoaXN0b3J5IjpbNjY5ODcxMTY0LC0xMTYzMzk3MywxMDEwNj
+MwOTAyLDI4Mjk1Mzc3N119
 -->
