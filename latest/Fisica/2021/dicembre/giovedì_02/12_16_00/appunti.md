@@ -99,8 +99,16 @@ $$
 	   -------------------------------------
 	v=0	   -     -    -   -   -   -   -   -  
 	   --------------------------------------
+Capacità: $F$ (farad)
 
+$$
+c=\frac{Q}{\Delta V}
+$$
+
+$$
+F=\frac{1 C}{1 V}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDg5MDQ4NywxMDMwMDE5NzM5LC0xNT
+eyJoaXN0b3J5IjpbMTA3NjM5OTcyNCwxMDMwMDE5NzM5LC0xNT
 MxNTc1NjQwLC01NTUwNDU0MjIsLTEyMjA3MTM0ODddfQ==
 -->
