@@ -60,7 +60,16 @@ due piano paralleli a distanza d
 
 
 
-||   ||
+||   || 
+
+
+
+
+	|+| ---------> |-|
+	|+| ---------> |-|
+	|+| ---------> |-|
+	|+| ---------> |-|
+	|+| ---------> |-|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwMjY2NDcsLTEyMjA3MTM0ODddfQ==
+eyJoaXN0b3J5IjpbLTEyNzQwNjYwMCwtMTIyMDcxMzQ4N119
 -->
