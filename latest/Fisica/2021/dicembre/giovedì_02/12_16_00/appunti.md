@@ -81,7 +81,17 @@ $$
 $$
 V_E=\frac{U_e}{q}=Ed\quad \left(\frac{J}{C}\to 1 V\right)
 $$
+
+
+$$
+\vec E = -\frac{\vec{\Delta V}}{\vec d}=\frac{V_b-V_A}{d}
+$$
+
+
+		--
+	     +     +     +     +    +     +
+		-----------------------------------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTY1NTYwMDQsLTE1MzE1NzU2NDAsLT
-U1NTA0NTQyMiwtMTIyMDcxMzQ4N119
+eyJoaXN0b3J5IjpbLTY0MzU3ODc5NSwtMTUzMTU3NTY0MCwtNT
+U1MDQ1NDIyLC0xMjIwNzEzNDg3XX0=
 -->
