@@ -345,7 +345,8 @@ House of Lords (800)
 
 president can impose/put veto on a ill
 
+2/3 of Congress each  champer of
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxNTk5OTEwLDM1Njk3MDEwMSwtMTE2Mz
-M5NzMsMTAxMDYzMDkwMiwyODI5NTM3NzddfQ==
+eyJoaXN0b3J5IjpbLTg2NDMwOTE1MywzNTY5NzAxMDEsLTExNj
+MzOTczLDEwMTA2MzA5MDIsMjgyOTUzNzc3XX0=
 -->
