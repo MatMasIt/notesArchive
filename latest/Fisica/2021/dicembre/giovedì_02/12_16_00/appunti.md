@@ -9,8 +9,15 @@ viene fuori dal concetto di campo gravitazionale
 
 sulla terra
 $$
-\vec g=G\frac{M_T}{R_T}
+\vec g=G\frac{M_T}{R_T^2}
+$$
+
+campo uniforme (direzione e verso)
+
+
+$$
+\vec H =G\frac{M}{R^2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjIzOTEwMjVdfQ==
+eyJoaXN0b3J5IjpbLTEyMjA3MTM0ODddfQ==
 -->
