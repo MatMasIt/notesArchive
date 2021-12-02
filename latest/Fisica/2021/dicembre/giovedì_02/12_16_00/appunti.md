@@ -18,6 +18,12 @@ campo uniforme (direzione e verso)
 $$
 \vec H =G\frac{M}{R^2}
 $$
+
+
+
+$$
+W=\vec F \cdot \vec{\Delta s}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjA3MTM0ODddfQ==
+eyJoaXN0b3J5IjpbLTEyODA1MjEyNCwtMTIyMDcxMzQ4N119
 -->
