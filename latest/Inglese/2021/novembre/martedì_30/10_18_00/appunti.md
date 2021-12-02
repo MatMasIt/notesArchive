@@ -328,7 +328,13 @@ citizens elect their representatives
 (lower chamberl, house of lords [unelected] is the upper one)
 labour and conservatives mainly
 Leader of the winning party becomes prime minister
+
+21 members in the cabinet, appointed by pm
+
+
+while in usa cabinet appointed by the president, senate's approval needed
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTYxNjg0LC0xMTYzMzk3MywxMDEwNj
-MwOTAyLDI4Mjk1Mzc3N119
+eyJoaXN0b3J5IjpbLTE4NjY4ODk2MjksLTExNjMzOTczLDEwMT
+A2MzA5MDIsMjgyOTUzNzc3XX0=
 -->
