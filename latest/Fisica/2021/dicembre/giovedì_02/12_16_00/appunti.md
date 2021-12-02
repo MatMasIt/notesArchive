@@ -99,7 +99,8 @@ $$
 	   -------------------------------------
 	v=0	   -     -    -   -   -   -   -   -  
 	   --------------------------------------
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDAxOTczOSwtMTUzMTU3NTY0MCwtNT
-U1MDQ1NDIyLC0xMjIwNzEzNDg3XX0=
+eyJoaXN0b3J5IjpbLTI1NDg5MDQ4NywxMDMwMDE5NzM5LC0xNT
+MxNTc1NjQwLC01NTUwNDU0MjIsLTEyMjA3MTM0ODddfQ==
 -->
