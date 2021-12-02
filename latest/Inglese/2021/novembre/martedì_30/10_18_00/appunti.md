@@ -345,8 +345,18 @@ House of Lords (800)
 
 president can impose/put veto on a ill
 
-2/3 of Congress each  champer of
+2/3 of Congress each  chmber
+
+
+veto can be override
+
+
+the house of representatives cahn lead 
+
+midterm elections
+
+every two years (the term lasts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDMwOTE1MywzNTY5NzAxMDEsLTExNj
+eyJoaXN0b3J5IjpbLTMxNjUzMTU0NywzNTY5NzAxMDEsLTExNj
 MzOTczLDEwMTA2MzA5MDIsMjgyOTUzNzc3XX0=
 -->
