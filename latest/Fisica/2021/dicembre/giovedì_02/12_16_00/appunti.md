@@ -108,7 +108,27 @@ $$
 $$
 F=\frac{1 C}{1 V}
 $$
+
+---
+
+es
+
+
+
+
+$$
+E=2,4\cdot 10^{-3}\frac{N}{C}
+$$
+
+$$
+\Delta V = 1,4\cdot 10^{-4}V
+$$
+
+$$
+V_e = Ed
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjM5OTcyNCwxMDMwMDE5NzM5LC0xNT
-MxNTc1NjQwLC01NTUwNDU0MjIsLTEyMjA3MTM0ODddfQ==
+eyJoaXN0b3J5IjpbLTExMjMwOTk4NzUsMTA3NjM5OTcyNCwxMD
+MwMDE5NzM5LC0xNTMxNTc1NjQwLC01NTUwNDU0MjIsLTEyMjA3
+MTM0ODddfQ==
 -->
