@@ -51,6 +51,9 @@ Potenziale: lavoro compiuto da una massa unitaria posta a diverse altezze
 
 
 Forze conservative: indipendenti dal percorso
+
+
+Condensatore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTIxODE3NSwtMTIyMDcxMzQ4N119
+eyJoaXN0b3J5IjpbMTg4NDM5NTk3MiwtMTIyMDcxMzQ4N119
 -->
