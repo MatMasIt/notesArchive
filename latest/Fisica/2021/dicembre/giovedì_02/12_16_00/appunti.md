@@ -24,6 +24,9 @@ $$
 $$
 W=\vec F \cdot \vec{\Delta s}
 $$
+
+> $U_g=mgh$
+> energia potenziale gravitazionale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA1MjEyNCwtMTIyMDcxMzQ4N119
+eyJoaXN0b3J5IjpbMTQ0ODg0NTg1MCwtMTIyMDcxMzQ4N119
 -->
