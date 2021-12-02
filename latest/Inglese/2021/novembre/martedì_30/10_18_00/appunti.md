@@ -42,7 +42,7 @@ Senate
     removal from office
 10.  The Prime Minister’s removal happens when…….
     he gets a vote of no confidence from the house of commons and the elections are called again
-
+or a budget is refused
   
 
 11.  VIDEOS: History of the US Constitution (1776 – 1789)
@@ -351,12 +351,14 @@ president can impose/put veto on a ill
 veto can be override
 
 
-the house of representatives cahn lead 
+the house of representatives cahn lead  and impeacment trial 
 
 midterm elections
 
-every two years (the term lasts
+every two years (the term lasts 4 years)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjUzMTU0NywzNTY5NzAxMDEsLTExNj
-MzOTczLDEwMTA2MzA5MDIsMjgyOTUzNzc3XX0=
+eyJoaXN0b3J5IjpbNzM3MDM4OTg5LDM1Njk3MDEwMSwtMTE2Mz
+M5NzMsMTAxMDYzMDkwMiwyODI5NTM3NzddfQ==
 -->
