@@ -33,6 +33,17 @@ Spostamento uguale indipendentemente dal percorso
 
 
 tutti i punti orizzontali equidistanti dal terreno hanno la stessa energia
+
+
+Nuova grandezza: potenziale gravitazionale
+
+
+da energia potenziale al potenziale
+
+
+$$
+V_g=\frac{U_g}{m}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0ODk0MDMsLTEyMjA3MTM0ODddfQ==
+eyJoaXN0b3J5IjpbMTM5NTU0MjQ0NSwtMTIyMDcxMzQ4N119
 -->
