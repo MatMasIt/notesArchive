@@ -52,8 +52,15 @@ Potenziale: lavoro compiuto da una massa unitaria posta a diverse altezze
 
 Forze conservative: indipendenti dal percorso
 
+---
 
-Condensatore
+## Condensatore
+
+due piano paralleli a distanza d
+
+
+
+||   ||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDM5NTk3MiwtMTIyMDcxMzQ4N119
+eyJoaXN0b3J5IjpbMzkwMjY2NDcsLTEyMjA3MTM0ODddfQ==
 -->
