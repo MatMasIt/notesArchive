@@ -6,6 +6,8 @@ due modi
 * sancire diritti inviolabili da chi governa 
 * divisione del potere
 
+
+diritti civili, politici, sociali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzA4MTY2NF19
+eyJoaXN0b3J5IjpbLTQ3MDAwOTQ2OF19
 -->
