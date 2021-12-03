@@ -60,9 +60,9 @@ $$
 
 
 $$
-\
+\lim_{x\to o^{+}}\frac{\cancel{\sqrt x}(\sqrt x +1)}{\sqrt x(\sqrt x-1)}=-1
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjIwMTA4MCwxNzgzNzk3MDAzLC0xNj
-E0Mzg2NDMyLDExMjQyNTY2MzAsLTE2MzA3MDUzNzhdfQ==
+eyJoaXN0b3J5IjpbMzQyNjcwOTkxLDE3ODM3OTcwMDMsLTE2MT
+QzODY0MzIsMTEyNDI1NjYzMCwtMTYzMDcwNTM3OF19
 -->
