@@ -36,6 +36,13 @@ $$
 $$
 \frac{x^\frac12+\sqrt[6]2\cdot x^{\frac16}+2\cdot x^{\frac13}}{2+\sqrt[4]{5}x^{\frac14}-\sqrt[3]{5}x^{\frac13}}
 $$
+
+
+
+$$
+\xrightarrow[x+\sqrt[3]5x^{\frac13}]{}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDI1NjYzMCwtMTYzMDcwNTM3OF19
+eyJoaXN0b3J5IjpbMjY3NDg0OTUyLDExMjQyNTY2MzAsLTE2Mz
+A3MDUzNzhdfQ==
 -->
