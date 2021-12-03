@@ -25,8 +25,11 @@ commissione dei 75 scrive costituzione
 
 1 gennaio 1948, la Constitution entra in vigore
 
-Scritta, votata
+Scritta, votata, rigida 
+
+
+art 138 cost. revisione costituzionale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTYxNzQ5MSwtOTk5NDcyMzM1LC0xMT
-gwMzkwOTNdfQ==
+eyJoaXN0b3J5IjpbOTU5MDQ2MzUyLC05OTk0NzIzMzUsLTExOD
+AzOTA5M119
 -->
