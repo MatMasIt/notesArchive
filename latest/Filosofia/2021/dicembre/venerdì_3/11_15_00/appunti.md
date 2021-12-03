@@ -16,6 +16,7 @@ montesquieu: divisione dei poteri
 
 
 costituzione italiana nata per effetto delle elezioni del 2 giugno 1946
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyNjUzNjM1LC0xMTgwMzkwOTNdfQ==
+eyJoaXN0b3J5IjpbLTk5OTQ3MjMzNSwtMTE4MDM5MDkzXX0=
 -->
