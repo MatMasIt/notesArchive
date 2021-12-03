@@ -137,9 +137,17 @@ y=x-\frac16x^3\\
 y=x-\frac16x^3+\frac{1}{120}x^2
 $$
 
+
+
+
+$$\cos x$$
+$$
+\ln(x+1)$$
+$e^x$
+$\tan x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2NzI3MzI3LC02MTkwNDM2ODIsMTk3ND
-I0MTAyNSwxMzE1MzQ2MzQ5LDg5OTExMjc4NSwtMTI2MjQ3NjEw
-MywxNzgzNzk3MDAzLC0xNjE0Mzg2NDMyLDExMjQyNTY2MzAsLT
-E2MzA3MDUzNzhdfQ==
+eyJoaXN0b3J5IjpbLTIxMDA1NDg2MzcsODU2NzI3MzI3LC02MT
+kwNDM2ODIsMTk3NDI0MTAyNSwxMzE1MzQ2MzQ5LDg5OTExMjc4
+NSwtMTI2MjQ3NjEwMywxNzgzNzk3MDAzLC0xNjE0Mzg2NDMyLD
+ExMjQyNTY2MzAsLTE2MzA3MDUzNzhdfQ==
 -->
