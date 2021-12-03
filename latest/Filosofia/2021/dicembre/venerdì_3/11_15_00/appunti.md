@@ -17,6 +17,16 @@ montesquieu: divisione dei poteri
 
 costituzione italiana nata per effetto delle elezioni del 2 giugno 1946
 
+
+Assemblea costituente
+
+
+commissione dei 75 scrive costituzione
+
+1 gennaio 1948, la Constitution entra in vigore
+
+Scritta, votata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTQ3MjMzNSwtMTE4MDM5MDkzXX0=
+eyJoaXN0b3J5IjpbLTc4MTYxNzQ5MSwtOTk5NDcyMzM1LC0xMT
+gwMzkwOTNdfQ==
 -->
