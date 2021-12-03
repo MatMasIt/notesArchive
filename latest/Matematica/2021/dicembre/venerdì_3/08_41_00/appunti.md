@@ -48,9 +48,9 @@ $$
 $$
 
 $$
-\lim_{x\to 25}\frac{\qrt x -
+\lim_{x\to 25}\frac{\cancel{\sqrt x -5}}{\cancel{(\sqrt x - 5)}(\sqrt x +5)}=\frac1{10}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5MDE5MDAzLC0xNjE0Mzg2NDMyLDExMj
-QyNTY2MzAsLTE2MzA3MDUzNzhdfQ==
+eyJoaXN0b3J5IjpbMTc4Mzc5NzAwMywtMTYxNDM4NjQzMiwxMT
+I0MjU2NjMwLC0xNjMwNzA1Mzc4XX0=
 -->
