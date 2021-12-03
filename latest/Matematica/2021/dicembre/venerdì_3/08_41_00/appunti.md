@@ -90,9 +90,14 @@ $$
 
 
 
+----
 
+
+$$
+\lim_{x\to 0}\frac{\sin x}{x}=1
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUzNTQxMDMsMTMxNTM0NjM0OSw4OT
-kxMTI3ODUsLTEyNjI0NzYxMDMsMTc4Mzc5NzAwMywtMTYxNDM4
-NjQzMiwxMTI0MjU2NjMwLC0xNjMwNzA1Mzc4XX0=
+eyJoaXN0b3J5IjpbMTk3NDI0MTAyNSwxMzE1MzQ2MzQ5LDg5OT
+ExMjc4NSwtMTI2MjQ3NjEwMywxNzgzNzk3MDAzLC0xNjE0Mzg2
+NDMyLDExMjQyNTY2MzAsLTE2MzA3MDUzNzhdfQ==
 -->
