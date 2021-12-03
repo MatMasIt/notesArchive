@@ -96,8 +96,18 @@ $$
 $$
 \lim_{x\to 0}\frac{\sin x}{x}=1
 $$
+
+
+---
+Mac Laurin
+
+
+$$
+f(x)=f(0)+\frac{f'(x)}{1!}+\frac{f'(x)}{1!}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDI0MTAyNSwxMzE1MzQ2MzQ5LDg5OT
-ExMjc4NSwtMTI2MjQ3NjEwMywxNzgzNzk3MDAzLC0xNjE0Mzg2
-NDMyLDExMjQyNTY2MzAsLTE2MzA3MDUzNzhdfQ==
+eyJoaXN0b3J5IjpbMTU3MzQ1Mjg4MSwxOTc0MjQxMDI1LDEzMT
+UzNDYzNDksODk5MTEyNzg1LC0xMjYyNDc2MTAzLDE3ODM3OTcw
+MDMsLTE2MTQzODY0MzIsMTEyNDI1NjYzMCwtMTYzMDcwNTM3OF
+19
 -->
