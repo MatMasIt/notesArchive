@@ -24,6 +24,14 @@ $$
 		                   +4x
 		            -----------
 		                     0
+
+
+---
+
+
+$$
+\lim_{x\to 0^+}\frac{\sqrt x +\sqrt[6] {2x}+2\sqrt[3] x}{x+\sqrt[4]{5x}}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA3MDUzNzhdfQ==
+eyJoaXN0b3J5IjpbNjgyMTU5MTk1LC0xNjMwNzA1Mzc4XX0=
 -->
