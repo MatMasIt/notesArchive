@@ -62,7 +62,16 @@ $$
 $$
 \lim_{x\to o^{+}}\frac{\cancel{\sqrt x}(\sqrt x +1)}{\sqrt x(\sqrt x-1)}=-1
 $$
+
+
+
+
+---
+
+$$
+\lim_{x\to2^{+}]\frac{\sqrt{x^2
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyNjcwOTkxLDE3ODM3OTcwMDMsLTE2MT
+eyJoaXN0b3J5IjpbODY5ODg0OTcxLDE3ODM3OTcwMDMsLTE2MT
 QzODY0MzIsMTEyNDI1NjYzMCwtMTYzMDcwNTM3OF19
 -->
