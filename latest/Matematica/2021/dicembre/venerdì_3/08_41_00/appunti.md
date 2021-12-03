@@ -80,7 +80,15 @@ $$
 $$
 \lim_{x\to 2^{+}}\sqrt{x+2}=2^+
 $$
+
+---
+
+
+$$
+\lim_{x\to 25}\frac{1}{x+5}=\frac1{10}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI0NzYxMDMsMTc4Mzc5NzAwMywtMT
-YxNDM4NjQzMiwxMTI0MjU2NjMwLC0xNjMwNzA1Mzc4XX0=
+eyJoaXN0b3J5IjpbODk5MTEyNzg1LC0xMjYyNDc2MTAzLDE3OD
+M3OTcwMDMsLTE2MTQzODY0MzIsMTEyNDI1NjYzMCwtMTYzMDcw
+NTM3OF19
 -->
