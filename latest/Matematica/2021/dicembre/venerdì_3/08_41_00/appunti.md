@@ -103,10 +103,19 @@ Mac Laurin
 
 
 $$
-f(x)=f(0)+\frac{f'(x)}{1!}+\frac{f'(x)}{1!}
+f(x)=f(0)+\frac{f'(0)}{1!}x+\frac{f''(0)}{2!}x^2+\frac{f''(0)}{3!}x^3...
 $$
+
+
+---
+
+$$
+f(x)=\sin x
+$$
+
+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzQ1Mjg4MSwxOTc0MjQxMDI1LDEzMT
+eyJoaXN0b3J5IjpbMjE0NTMyODkxNSwxOTc0MjQxMDI1LDEzMT
 UzNDYzNDksODk5MTEyNzg1LC0xMjYyNDc2MTAzLDE3ODM3OTcw
 MDMsLTE2MTQzODY0MzIsMTEyNDI1NjYzMCwtMTYzMDcwNTM3OF
 19
