@@ -8,8 +8,8 @@ $$
 ### 294
 
 $$
-\lim_{x \to 
+\lim_{x \to 1}\frac{x^4-5x^2+4}{x^2-2x+1}=\frac{1-5+4}{1-2+1}=\frac00FI
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwMzc5MjExXX0=
+eyJoaXN0b3J5IjpbLTc4ODc0NDUxNl19
 -->
