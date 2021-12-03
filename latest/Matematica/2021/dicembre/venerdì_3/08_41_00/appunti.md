@@ -38,8 +38,19 @@ $$
 $$
 
 
+---
 
+### 298
+
+
+$$
+\lim_{x\to 25}\frac{\sqrt{x}-5}{x-25}=\frac{5-5}{25-25}=\frac00FI
+$$
+
+$$
+\lim_{x\to 25}\frac{\qrt x -
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQzODY0MzIsMTEyNDI1NjYzMCwtMT
-YzMDcwNTM3OF19
+eyJoaXN0b3J5IjpbODE5MDE5MDAzLC0xNjE0Mzg2NDMyLDExMj
+QyNTY2MzAsLTE2MzA3MDUzNzhdfQ==
 -->
