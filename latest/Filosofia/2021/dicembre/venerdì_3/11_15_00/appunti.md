@@ -8,6 +8,9 @@ due modi
 
 
 diritti civili, politici, sociali
+
+
+rousseau, mazzini
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDAwOTQ2OF19
+eyJoaXN0b3J5IjpbLTExODAzOTA5M119
 -->
