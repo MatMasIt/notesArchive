@@ -29,7 +29,12 @@ Scritta, votata, rigida
 
 
 art 138 cost. revisione costituzionale
+
+
+disposizione 12: vietata rifondazione pnf
+
+repubblica parlamentare che si ispira ai principi del costituzionalismo liberal-democa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5MDQ2MzUyLC05OTk0NzIzMzUsLTExOD
-AzOTA5M119
+eyJoaXN0b3J5IjpbLTE4MTg2MTk0MjYsOTU5MDQ2MzUyLC05OT
+k0NzIzMzUsLTExODAzOTA5M119
 -->
