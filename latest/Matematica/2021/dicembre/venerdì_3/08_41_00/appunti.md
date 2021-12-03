@@ -110,18 +110,23 @@ $$
 ---
 
 $$
-f(x)=\sin x
+f(x)=\sin x\quad f(0)=0
 $$
 
 $$
-f'(x)=\cos x
+f'(x)=\cos x \quad f'(0)=1
 $$
 
 $$
-f''(x)=-\sin x
+f''(x)=-\sin x \quad f''(0)=0
 $$
+
+$$
+f'''(x)=-\cos x\quad f'''(0)=-1
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzMzNzQyMiwxOTc0MjQxMDI1LDEzMT
+eyJoaXN0b3J5IjpbLTYxOTA0MzY4MiwxOTc0MjQxMDI1LDEzMT
 UzNDYzNDksODk5MTEyNzg1LC0xMjYyNDc2MTAzLDE3ODM3OTcw
 MDMsLTE2MTQzODY0MzIsMTEyNDI1NjYzMCwtMTYzMDcwNTM3OF
 19
