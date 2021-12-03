@@ -73,9 +73,14 @@ $$
 $$
 
 $$
-\lim_{x\to2^+}\frac{\sqrt{(x-
+\lim_{x\to2^+}\frac{\sqrt{(x-2)(x+2)}}{\sqrt{x-2}}
+$$
+
+
+$$
+\lim_{x\to 2^{+}}\sqrt{x+2}=2^+
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc2NjU0NzcsMTc4Mzc5NzAwMywtMT
+eyJoaXN0b3J5IjpbLTEyNjI0NzYxMDMsMTc4Mzc5NzAwMywtMT
 YxNDM4NjQzMiwxMTI0MjU2NjMwLC0xNjMwNzA1Mzc4XX0=
 -->
