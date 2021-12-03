@@ -125,9 +125,21 @@ $$
 f'''(x)=-\cos x\quad f'''(0)=-1
 $$
 
+
+disegnare
+
+
+
+$$
+y=\sin x\\
+y=x\\
+y=x-\frac16x^3\\
+y=x-\frac16x^3+\frac{1}{120}x^2
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTA0MzY4MiwxOTc0MjQxMDI1LDEzMT
-UzNDYzNDksODk5MTEyNzg1LC0xMjYyNDc2MTAzLDE3ODM3OTcw
-MDMsLTE2MTQzODY0MzIsMTEyNDI1NjYzMCwtMTYzMDcwNTM3OF
-19
+eyJoaXN0b3J5IjpbODU2NzI3MzI3LC02MTkwNDM2ODIsMTk3ND
+I0MTAyNSwxMzE1MzQ2MzQ5LDg5OTExMjc4NSwtMTI2MjQ3NjEw
+MywxNzgzNzk3MDAzLC0xNjE0Mzg2NDMyLDExMjQyNTY2MzAsLT
+E2MzA3MDUzNzhdfQ==
 -->
