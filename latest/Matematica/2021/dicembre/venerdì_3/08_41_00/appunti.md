@@ -57,7 +57,12 @@ $$
 $$
 \lim_{x\to 0^+}\frac{x+\sqrt{x}}{x-\sqrt{x}}=\frac{0^+}{0^-}FI\lim_{x\to 0^{+}}
 $$
+
+
+$$
+\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDIxNTk5ODIsMTc4Mzc5NzAwMywtMT
-YxNDM4NjQzMiwxMTI0MjU2NjMwLC0xNjMwNzA1Mzc4XX0=
+eyJoaXN0b3J5IjpbMTc5MjIwMTA4MCwxNzgzNzk3MDAzLC0xNj
+E0Mzg2NDMyLDExMjQyNTY2MzAsLTE2MzA3MDUzNzhdfQ==
 -->
