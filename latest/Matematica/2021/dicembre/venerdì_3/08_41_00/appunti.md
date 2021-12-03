@@ -69,9 +69,13 @@ $$
 ---
 
 $$
-\lim_{x\to2^{+}]\frac{\sqrt{x^2
+\lim_{x\to2^{+}}\frac{\sqrt{x^2-4}}{\sqrt{x-2}}=\frac{0^+}{0^+}FI
+$$
+
+$$
+\lim_{x\to2^+}\frac{\sqrt{(x-
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5ODg0OTcxLDE3ODM3OTcwMDMsLTE2MT
-QzODY0MzIsMTEyNDI1NjYzMCwtMTYzMDcwNTM3OF19
+eyJoaXN0b3J5IjpbLTE1Njc2NjU0NzcsMTc4Mzc5NzAwMywtMT
+YxNDM4NjQzMiwxMTI0MjU2NjMwLC0xNjMwNzA1Mzc4XX0=
 -->
