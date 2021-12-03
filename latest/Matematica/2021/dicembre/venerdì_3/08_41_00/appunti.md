@@ -39,10 +39,7 @@ $$
 
 
 
-$$
-\xrightarrow[x+\sqrt[3]5x^{\frac13}]{}
-$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3NDg0OTUyLDExMjQyNTY2MzAsLTE2Mz
-A3MDUzNzhdfQ==
+eyJoaXN0b3J5IjpbLTE2MTQzODY0MzIsMTEyNDI1NjYzMCwtMT
+YzMDcwNTM3OF19
 -->
