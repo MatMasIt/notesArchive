@@ -4,7 +4,8 @@
 Costituzioni: limitano esercizi del potere attraverso
 due modi
 * sancire diritti inviolabili da chi governa 
+* divisione del potere
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzk3NTAxNl19
+eyJoaXN0b3J5IjpbMTUyMzA4MTY2NF19
 -->
