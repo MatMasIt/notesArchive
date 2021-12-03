@@ -12,10 +12,18 @@ $$
 $$
 
 			x^4+0x^3-5x^2+4| x-1
-		   -x^4+x^3
-		   --------
-		   //   x^3-5x^2
-		       -
+		   -x^4+x^3        |-----
+		   --------        |x^3+x^2-4x+4
+		   //   x^3 - 5x^2 |
+		       -x^3 + x^2
+		     ------------
+		        \\   -4x^2 +0x
+		             +4x^2 -4x
+		             ----------
+		             \\    -4x
+		                   +4x
+		            -----------
+		                     0
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4MDIzNTU4XX0=
+eyJoaXN0b3J5IjpbLTE2MzA3MDUzNzhdfQ==
 -->
