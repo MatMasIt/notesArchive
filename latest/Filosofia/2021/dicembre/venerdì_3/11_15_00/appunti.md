@@ -36,8 +36,8 @@ disposizione 12: vietata rifondazione pnf
 repubblica parlamentare che si ispira ai principi del costituzionalismo liberal-democratico 
 
 
-Il
+Il governo italiano ha bisogno del consenso del parlamento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDI0OTU1NjIsOTU5MDQ2MzUyLC05OT
-k0NzIzMzUsLTExODAzOTA5M119
+eyJoaXN0b3J5IjpbMTk5NzU5NjIzMCw5NTkwNDYzNTIsLTk5OT
+Q3MjMzNSwtMTE4MDM5MDkzXX0=
 -->
