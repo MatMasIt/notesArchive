@@ -113,9 +113,15 @@ $$
 f(x)=\sin x
 $$
 
-$
+$$
+f'(x)=\cos x
+$$
+
+$$
+f''(x)=-\sin x
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTMyODkxNSwxOTc0MjQxMDI1LDEzMT
+eyJoaXN0b3J5IjpbMTYzNzMzNzQyMiwxOTc0MjQxMDI1LDEzMT
 UzNDYzNDksODk5MTEyNzg1LC0xMjYyNDc2MTAzLDE3ODM3OTcw
 MDMsLTE2MTQzODY0MzIsMTEyNDI1NjYzMCwtMTYzMDcwNTM3OF
 19
