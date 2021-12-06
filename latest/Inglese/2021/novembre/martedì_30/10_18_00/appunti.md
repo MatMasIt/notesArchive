@@ -106,7 +106,7 @@ The 3 branches are: a. legislative b. Executive, c. Judicial
 7.  How many States had to sign the Constitution in order to pass?
    At least nne states 
 8.  What was lacking in the Consitution according to the delegate from Virginia?
-    The bill of rights
+    The bill of rights first 10 amendments to the us consitution
 
 ![Bill of Rights - Texas Student Civic Engagement](https://lh3.googleusercontent.com/OzYHj-ORnc0oImvONDDlHeOjGxc7Txc4C4CGf3ESc-kZ9TXhklWXntMjkndY0SMQGBMdgguKVhlkTdp4ddW2INgcjZjvVickmlyPIWhZuPK-4bAz2rfe-K1uVfMNv38NMcAPFzmE)
 
@@ -372,7 +372,7 @@ Franklin
 Hamilton
 Shermann
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzUwNzg2ODgsNTMyMDMxNzY1LDczNz
-AzODk4OSwzNTY5NzAxMDEsLTExNjMzOTczLDEwMTA2MzA5MDIs
-MjgyOTUzNzc3XX0=
+eyJoaXN0b3J5IjpbLTMzMTAzMDEwMiwtMjA3NTA3ODY4OCw1Mz
+IwMzE3NjUsNzM3MDM4OTg5LDM1Njk3MDEwMSwtMTE2MzM5NzMs
+MTAxMDYzMDkwMiwyODI5NTM3NzddfQ==
 -->
