@@ -360,8 +360,16 @@ midterm elections
 every two years (the term lasts 4 years)
 
 
+
+10 "founding fathers" contributed the most
+
+Washington
+Madison
+Franklin
+Hamilton
+Shermann
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTE3MzUwNCw3MzcwMzg5ODksMzU2OT
-cwMTAxLC0xMTYzMzk3MywxMDEwNjMwOTAyLDI4Mjk1Mzc3N119
+eyJoaXN0b3J5IjpbNTMyMDMxNzY1LDczNzAzODk4OSwzNTY5Nz
+AxMDEsLTExNjMzOTczLDEwMTA2MzA5MDIsMjgyOTUzNzc3XX0=
 
 -->
