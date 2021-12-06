@@ -85,16 +85,16 @@ The national conventon, with 55 union delegates and chaired by George Washington
 5.  The ratification of the new Constitution was achieved by means of some Compromises:
     
 
--   The socalled "" (proposed by Sherman of Conngreat compromiseecticut), leading to the birth of the two bodies of the US Congress: House of the representative And ………………………………..
+-   The socalled "" (proposed by Sherman of Conngreat compromiseecticut), leading to the birth of the two bodies of the US Congress: House of the representative And the Senate
     
--   A compromise dealing with ……………………………….: “Who counts as a person in representation and taxation?” It was agreed that slaves………………………………………………..
+-   A compromise dealing with slavery: “Who counts as a person in representation and taxation?” It was agreed that slaves couted $\frac35^{th}$ of a person
     
--   A compromise in the division of the ……………………………….. and the introduction of what US current system of government is based on: checks and ………………………………
+-   A compromise in the division of the  bramches of governmentand the introduction of what US current system of government is based on: checks and balaces
     
 
 According to this Separation proposed by Madison, each branch of power has the right and the duty to check the power of the other branches, so that a balance is maintained.
 
-The 3 branches are: a. ……………………………….., b. ……………………………………., c. ……………………………….
+The 3 branches are: a. legislative b. ……………………………………., c. ……………………………….
 
   
 
@@ -361,7 +361,7 @@ every two years (the term lasts 4 years)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODUzNzYzNyw3MzcwMzg5ODksMzU2OT
-cwMTAxLC0xMTYzMzk3MywxMDEwNjMwOTAyLDI4Mjk1Mzc3N119
-
+eyJoaXN0b3J5IjpbLTE0MDc3NDE1MjYsNzM3MDM4OTg5LDM1Nj
+k3MDEwMSwtMTE2MzM5NzMsMTAxMDYzMDkwMiwyODI5NTM3Nzdd
+fQ==
 -->
