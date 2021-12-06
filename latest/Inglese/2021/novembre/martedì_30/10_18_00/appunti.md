@@ -98,10 +98,11 @@ The 3 branches are: a. legislative b. Executive, c. Judicial
 
   Legislatives : make laws
   Executive: enforce, impose laws
-  Judicial: 
+  Judicial: Interpret the laws, their respect, punish and check if the laws are constitutional
 
 6.  What did Madison and Hamilton write in order to support the Federalist cause and ratification of the Constitution?
    "The fundamental defect is a want of power in Congress.. The confederation is defetcive and requires to be altered"
+   85 federalist papers 8the
 7.  How many States had to sign the Constitution in order to pass?
    At least nne states 
 8.  What was lacking in the Consitution according to the delegate from Virginia?
@@ -371,7 +372,7 @@ Franklin
 Hamilton
 Shermann
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDg0MDk2Myw1MzIwMzE3NjUsNzM3MD
-M4OTg5LDM1Njk3MDEwMSwtMTE2MzM5NzMsMTAxMDYzMDkwMiwy
-ODI5NTM3NzddfQ==
+eyJoaXN0b3J5IjpbLTE2NjA2MDYxMzksNTMyMDMxNzY1LDczNz
+AzODk4OSwzNTY5NzAxMDEsLTExNjMzOTczLDEwMTA2MzA5MDIs
+MjgyOTUzNzc3XX0=
 -->
