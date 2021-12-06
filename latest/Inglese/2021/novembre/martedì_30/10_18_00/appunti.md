@@ -94,7 +94,7 @@ The national conventon, with 55 union delegates and chaired by George Washington
 
 According to this Separation proposed by Madison, each branch of power has the right and the duty to check the power of the other branches, so that a balance is maintained.
 
-The 3 branches are: a. legislative b. ……………………………………., c. ……………………………….
+The 3 branches are: a. legislative b. Executive, c. Supreme court
 
   
 
@@ -361,7 +361,7 @@ every two years (the term lasts 4 years)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc3NDE1MjYsNzM3MDM4OTg5LDM1Nj
-k3MDEwMSwtMTE2MzM5NzMsMTAxMDYzMDkwMiwyODI5NTM3Nzdd
-fQ==
+eyJoaXN0b3J5IjpbLTIwMDQxMjI5NCw3MzcwMzg5ODksMzU2OT
+cwMTAxLC0xMTYzMzk3MywxMDEwNjMwOTAyLDI4Mjk1Mzc3N119
+
 -->
