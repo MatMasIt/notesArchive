@@ -76,7 +76,7 @@ First congress was provisional
     
 -   Inflation caused by printing of money (they did not have a national currency)
     
--   High taxes on farmers leading to a bloody uprising in 1786 called “Shays rebellion” (
+-   High taxes on farmers leading to a bloody uprising in 1786 called “Shays rebellion” (spread in Massachussets)
     
 
 4.  What took place in Philadelphia in 1787? Who chaired it?
@@ -361,7 +361,7 @@ every two years (the term lasts 4 years)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTEyMjE5OTQsNzM3MDM4OTg5LDM1Nj
-k3MDEwMSwtMTE2MzM5NzMsMTAxMDYzMDkwMiwyODI5NTM3Nzdd
-fQ==
+eyJoaXN0b3J5IjpbMTI0NTE3MzUwNCw3MzcwMzg5ODksMzU2OT
+cwMTAxLC0xMTYzMzk3MywxMDEwNjMwOTAyLDI4Mjk1Mzc3N119
+
 -->
