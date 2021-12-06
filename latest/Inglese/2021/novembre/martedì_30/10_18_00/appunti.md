@@ -72,7 +72,7 @@ First congress was provisional
 3.  Why did it fail?
    
 
--   Weakness of union (prevailing self-interest of the single States – it was a union only in name)
+-   Weakness of central government (prevailing self-interest of the single States – it was a union only in name)
     
 -   Inflation caused by printing of money
     
@@ -85,7 +85,7 @@ The national conventon, with 55 union delegates and chaired by George Washington
 5.  The ratification of the new Constitution was achieved by means of some Compromises:
     
 
--   The socalled "" (proposed by Sherman of Conngreat compromiseecticut), leading to the birth of the two bodies of the US Congress: House of the representative And the Senate
+-   The socalled "Great compromise" (proposed by Sherman of Conngreat compromiseecticut), leading to the birth of the two bodies of the US Congress: House of the representative And the Senate
     
 -   A compromise dealing with slavery: “Who counts as a person in representation and taxation?” It was agreed that slaves couted $\frac35^{th}$ of a person
     
@@ -99,7 +99,7 @@ The 3 branches are: a. legislative b. Executive, c. Supreme court
   
 
 6.  What did Madison and Hamilton write in order to support the Federalist cause and ratification of the Constitution?
-    
+   "The fundamental defect is a want of power in Congress.. The confederation isdefetcive and requires to be altered"
 7.  How many States had to sign the Constitution in order to pass?
     
 8.  What was lacking in the Consitution according to the delegate from Virginia?
@@ -361,7 +361,7 @@ every two years (the term lasts 4 years)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQxMjI5NCw3MzcwMzg5ODksMzU2OT
-cwMTAxLC0xMTYzMzk3MywxMDEwNjMwOTAyLDI4Mjk1Mzc3N119
+eyJoaXN0b3J5IjpbOTM3NDQ4NTEwLDczNzAzODk4OSwzNTY5Nz
+AxMDEsLTExNjMzOTczLDEwMTA2MzA5MDIsMjgyOTUzNzc3XX0=
 
 -->
