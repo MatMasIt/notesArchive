@@ -74,9 +74,9 @@ First congress was provisional
 
 -   Weakness of central government (prevailing self-interest of the single States – it was a union only in name)
     
--   Inflation caused by printing of money
+-   Inflation caused by printing of money (they did not have a national currency)
     
--   High taxes on farmers leading to a bloody uprising in 1786 called “Shays rebellion”
+-   High taxes on farmers leading to a bloody uprising in 1786 called “Shays rebellion” (
     
 
 4.  What took place in Philadelphia in 1787? Who chaired it?
@@ -99,11 +99,11 @@ The 3 branches are: a. legislative b. Executive, c. Supreme court
   
 
 6.  What did Madison and Hamilton write in order to support the Federalist cause and ratification of the Constitution?
-   "The fundamental defect is a want of power in Congress.. The confederation isdefetcive and requires to be altered"
+   "The fundamental defect is a want of power in Congress.. The confederation is defetcive and requires to be altered"
 7.  How many States had to sign the Constitution in order to pass?
-    
+   At least nne states 
 8.  What was lacking in the Consitution according to the delegate from Virginia?
-    
+    The bill of rights
 
 ![Bill of Rights - Texas Student Civic Engagement](https://lh3.googleusercontent.com/OzYHj-ORnc0oImvONDDlHeOjGxc7Txc4C4CGf3ESc-kZ9TXhklWXntMjkndY0SMQGBMdgguKVhlkTdp4ddW2INgcjZjvVickmlyPIWhZuPK-4bAz2rfe-K1uVfMNv38NMcAPFzmE)
 
@@ -361,7 +361,7 @@ every two years (the term lasts 4 years)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3NDQ4NTEwLDczNzAzODk4OSwzNTY5Nz
-AxMDEsLTExNjMzOTczLDEwMTA2MzA5MDIsMjgyOTUzNzc3XX0=
-
+eyJoaXN0b3J5IjpbLTE4NTEyMjE5OTQsNzM3MDM4OTg5LDM1Nj
+k3MDEwMSwtMTE2MzM5NzMsMTAxMDYzMDkwMiwyODI5NTM3Nzdd
+fQ==
 -->
