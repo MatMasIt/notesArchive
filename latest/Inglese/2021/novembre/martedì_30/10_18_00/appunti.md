@@ -65,9 +65,10 @@ From the Declaration of Independence (1776) to the US Constitution (1789) throug
   
 
 1.  What were the principles of the Declaration of Independence ratified by the first Continental Congress and written by T. Jefferson in 1776?
-    life, liberty and the pursuit of happjness
+    life, liberty and the pursuit of happiness, the government could be overthrown, equality
 2.  What served as a first Constitution before the ratification of the official one?
-    Artuckes of confederation
+    Aricles of confederation
+First congress was provisional
 3.  Why did it fail?
    
 
@@ -84,7 +85,7 @@ The national conventon, with 55 union delegates and chaired by George Washington
 5.  The ratification of the new Constitution was achieved by means of some Compromises:
     
 
--   The socalled “………………………………………….” (proposed by Sherman of Connecticut), leading to the birth of the two bodies of the US Congress: ……………………………………. And ………………………………..
+-   The socalled "" (proposed by Sherman of Conngreat compromiseecticut), leading to the birth of the two bodies of the US Congress: House of the representative And ………………………………..
     
 -   A compromise dealing with ……………………………….: “Who counts as a person in representation and taxation?” It was agreed that slaves………………………………………………..
     
@@ -360,7 +361,7 @@ every two years (the term lasts 4 years)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjg0ODg5NSw3MzcwMzg5ODksMzU2OT
+eyJoaXN0b3J5IjpbMTAxODUzNzYzNyw3MzcwMzg5ODksMzU2OT
 cwMTAxLC0xMTYzMzk3MywxMDEwNjMwOTAyLDI4Mjk1Mzc3N119
 
 -->
