@@ -65,11 +65,11 @@ From the Declaration of Independence (1776) to the US Constitution (1789) throug
   
 
 1.  What were the principles of the Declaration of Independence ratified by the first Continental Congress and written by T. Jefferson in 1776?
-    
+    life, liberty and the pursuit of happjness
 2.  What served as a first Constitution before the ratification of the official one?
-    
+    Artuckes of confederation
 3.  Why did it fail?
-    
+   The state were against each other  and there was high inflation and high taxes
 
 -   Weakness of …………………………. (prevailing self-interest of the single States – it was a union only in name)
     
@@ -359,6 +359,7 @@ every two years (the term lasts 4 years)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3MDM4OTg5LDM1Njk3MDEwMSwtMTE2Mz
-M5NzMsMTAxMDYzMDkwMiwyODI5NTM3NzddfQ==
+eyJoaXN0b3J5IjpbODA3Nzg3NTYwLDczNzAzODk4OSwzNTY5Nz
+AxMDEsLTExNjMzOTczLDEwMTA2MzA5MDIsMjgyOTUzNzc3XX0=
+
 -->
