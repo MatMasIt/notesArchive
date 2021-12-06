@@ -89,7 +89,7 @@ The national conventon, with 55 union delegates and chaired by George Washington
     
 -   A compromise dealing with slavery: “Who counts as a person in representation and taxation?” It was agreed that slaves couted $\frac35^{th}$ of a person
     
--   A compromise in the division of the  bramches of governmentand the introduction of what US current system of government is based on: checks and balaces
+-   A compromise in the division of the  branches of governmentand the introduction of what US current system of government is based on: checks and balaces
     
 
 According to this Separation proposed by Madison, each branch of power has the right and the duty to check the power of the other branches, so that a balance is maintained.
@@ -369,7 +369,7 @@ Franklin
 Hamilton
 Shermann
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMDMxNzY1LDczNzAzODk4OSwzNTY5Nz
-AxMDEsLTExNjMzOTczLDEwMTA2MzA5MDIsMjgyOTUzNzc3XX0=
-
+eyJoaXN0b3J5IjpbLTE5NjIzNDE5MDAsNTMyMDMxNzY1LDczNz
+AzODk4OSwzNTY5NzAxMDEsLTExNjMzOTczLDEwMTA2MzA5MDIs
+MjgyOTUzNzc3XX0=
 -->
