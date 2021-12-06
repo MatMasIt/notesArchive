@@ -69,16 +69,17 @@ From the Declaration of Independence (1776) to the US Constitution (1789) throug
 2.  What served as a first Constitution before the ratification of the official one?
     Artuckes of confederation
 3.  Why did it fail?
-   The state were against each other  and there was high inflation and high taxes
+   
 
--   Weakness of …………………………. (prevailing self-interest of the single States – it was a union only in name)
+-   Weakness of union (prevailing self-interest of the single States – it was a union only in name)
     
--   Inflation caused by ……………………………………………..
+-   Inflation caused by printing of money
     
--   High taxes on farmers leading to a bloody uprising in 1786 called “……………………………………………………”
+-   High taxes on farmers leading to a bloody uprising in 1786 called “Shays rebellion”
     
 
 4.  What took place in Philadelphia in 1787? Who chaired it?
+The national conventon, with 55 union delegates and chaired by George Washington
     
 5.  The ratification of the new Constitution was achieved by means of some Compromises:
     
@@ -359,7 +360,7 @@ every two years (the term lasts 4 years)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3Nzg3NTYwLDczNzAzODk4OSwzNTY5Nz
-AxMDEsLTExNjMzOTczLDEwMTA2MzA5MDIsMjgyOTUzNzc3XX0=
+eyJoaXN0b3J5IjpbMjExMjg0ODg5NSw3MzcwMzg5ODksMzU2OT
+cwMTAxLC0xMTYzMzk3MywxMDEwNjMwOTAyLDI4Mjk1Mzc3N119
 
 -->
