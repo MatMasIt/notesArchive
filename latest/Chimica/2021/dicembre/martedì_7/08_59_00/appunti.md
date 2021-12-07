@@ -11,17 +11,23 @@ graph  TD;
 |Nomenclatura|Reazioni e preparazioni|
 |---|---|
 |Alcani[^1] <hr />$$sp^3$$|saturi $\implies$ sostituzione|
-|Alcheni<hr />$$sp^2$$|insaturi $\implies$ addizioe _elettrofila_
+|Alcheni[^2]<hr />$$sp^2$$|insaturi $\implies$ addizioe _elettrofila_
 
 [^1]:Alcani
 ``` 
+Alca
  | |
 -C-C-
  | |
  ``` 
 
+[^2]:Alcheni
 
-$
+``` 
+\        /
+ C  =  C 
+/   pi   \
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDQ5MTYxXX0=
+eyJoaXN0b3J5IjpbOTExMjMwMTMwXX0=
 -->
