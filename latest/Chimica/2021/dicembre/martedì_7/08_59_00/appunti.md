@@ -10,8 +10,11 @@ graph  TD;
 
 |Nomenclatura|Reazioni e preparazioni|
 |---|---|
-|
-Alcani
+|Alcani <hr />$$sp^3$$<hr />
+``` 
+ | |
+-C-C-
+ | |``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI1MDUwODZdfQ==
+eyJoaXN0b3J5IjpbLTEzMTI3NjA5NjVdfQ==
 -->
