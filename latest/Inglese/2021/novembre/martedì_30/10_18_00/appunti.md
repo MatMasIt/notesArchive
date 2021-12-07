@@ -306,6 +306,10 @@ The Congress shall have Power to declare the Punishment of Treason, but no Attai
 
 [https://www.history.com/news/magna-carta-influence-us-constitution-bill-of-rights](https://www.history.com/news/magna-carta-influence-us-constitution-bill-of-rights)
 
+
+art 39-40 Magna Charta
+
+39 No fre man shal be seized, imprisoned, exiled5 or stripped of his rights if he has not been judged by his equals in a legal triale
   
 
 ![Esposta per la prima volta in Italia la Magna Charta](https://lh3.googleusercontent.com/mOjzkcPJzEJl_rizETGWXSEW5N3UBuPOdm4Wc5i2v1WXKGHb-rJuzwDoY23sY5cwL-1Ws4DPpc1maZ_KN-R1rWxuVMs662ZFuE7jX_UPOyZxgkQBWHD2Pu_tglsGsewRdleElQP9)
@@ -376,8 +380,8 @@ Franklin
 Hamilton
 Shermann
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5MDMyMTU4LDE2OTk0NTkzMzAsLTMzMT
-AzMDEwMiwtMjA3NTA3ODY4OCw1MzIwMzE3NjUsNzM3MDM4OTg5
-LDM1Njk3MDEwMSwtMTE2MzM5NzMsMTAxMDYzMDkwMiwyODI5NT
-M3NzddfQ==
+eyJoaXN0b3J5IjpbNTg5NzczMjYsMzg5MDMyMTU4LDE2OTk0NT
+kzMzAsLTMzMTAzMDEwMiwtMjA3NTA3ODY4OCw1MzIwMzE3NjUs
+NzM3MDM4OTg5LDM1Njk3MDEwMSwtMTE2MzM5NzMsMTAxMDYzMD
+kwMiwyODI5NTM3NzddfQ==
 -->
