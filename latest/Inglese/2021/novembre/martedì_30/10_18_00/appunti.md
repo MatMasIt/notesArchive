@@ -383,10 +383,10 @@ Franklin
 Hamilton
 Shermann
 
-impeachment charged by house of representatives and 273 of senate approve th
+impeachment charged by house of representatives and 273 of senate approve the charge
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzYxODcxMiwzODkwMzIxNTgsMTY5OT
-Q1OTMzMCwtMzMxMDMwMTAyLC0yMDc1MDc4Njg4LDUzMjAzMTc2
-NSw3MzcwMzg5ODksMzU2OTcwMTAxLC0xMTYzMzk3MywxMDEwNj
-MwOTAyLDI4Mjk1Mzc3N119
+eyJoaXN0b3J5IjpbNjYwODY5NzUzLDM4OTAzMjE1OCwxNjk5ND
+U5MzMwLC0zMzEwMzAxMDIsLTIwNzUwNzg2ODgsNTMyMDMxNzY1
+LDczNzAzODk4OSwzNTY5NzAxMDEsLTExNjMzOTczLDEwMTA2Mz
+A5MDIsMjgyOTUzNzc3XX0=
 -->
