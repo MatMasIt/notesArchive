@@ -10,15 +10,18 @@ graph  TD;
 
 |Nomenclatura|Reazioni e preparazioni|
 |---|---|
-|Alcani <hr />$$sp^3$$|saturi $\implies$ sostituzione|
-|Alcheni
+|Alcani[^1] <hr />$$sp^3$$|saturi $\implies$ sostituzione|
+|Alcheni<hr />$$sp^2$$|insaturi $\implies$ addizioe _elettrofila_
 
-*[Alcani] :
+[^1]:Alcani
 ``` 
  | |
 -C-C-
  | |
  ``` 
+
+
+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTkyMTMxMTldfQ==
+eyJoaXN0b3J5IjpbMTQ0MDQ5MTYxXX0=
 -->
