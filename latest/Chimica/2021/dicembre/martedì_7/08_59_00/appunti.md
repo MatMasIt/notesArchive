@@ -15,19 +15,27 @@ graph  TD;
 
 [^1]:Alcani
 ``` 
-Alca
+Alcano
  | |
 -C-C-
  | |
  ``` 
 
 [^2]:Alcheni
-
 ``` 
+Alcheno
 \        /
  C  =  C 
 /   pi   \
 ```
+
+---
+Classica reazione di compustione
+
+
+$$
+CH_4+2O_2\to \boxed{CO_2+2H_2O}\quad \Delta E
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExMjMwMTMwXX0=
+eyJoaXN0b3J5IjpbNTc3MTI5NzE5XX0=
 -->
