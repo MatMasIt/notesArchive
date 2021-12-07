@@ -3,9 +3,15 @@
 
 
 ```mermaid
-GRAPH TD
-	A(chimica Organica) --> B(C) 
+graph  TD;  
+ A(Chimica organica)-->B(Nomencluatura);  
+ A-->C(Reazioni e preparazioni);  
 ```
+
+|Nomenclatura|Reazioni e preparazioni|
+|---|---|
+|
+Alcani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzQzMTY2NF19
+eyJoaXN0b3J5IjpbLTEwODI1MDUwODZdfQ==
 -->
