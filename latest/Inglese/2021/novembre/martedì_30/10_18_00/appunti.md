@@ -382,9 +382,11 @@ Madison
 Franklin
 Hamilton
 Shermann
+
+impeachment charged by house of representatives and 273 of senate approve th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDAxNjM4NzQsMzg5MDMyMTU4LDE2OT
-k0NTkzMzAsLTMzMTAzMDEwMiwtMjA3NTA3ODY4OCw1MzIwMzE3
-NjUsNzM3MDM4OTg5LDM1Njk3MDEwMSwtMTE2MzM5NzMsMTAxMD
-YzMDkwMiwyODI5NTM3NzddfQ==
+eyJoaXN0b3J5IjpbLTc1NzYxODcxMiwzODkwMzIxNTgsMTY5OT
+Q1OTMzMCwtMzMxMDMwMTAyLC0yMDc1MDc4Njg4LDUzMjAzMTc2
+NSw3MzcwMzg5ODksMzU2OTcwMTAxLC0xMTYzMzk3MywxMDEwNj
+MwOTAyLDI4Mjk1Mzc3N119
 -->
