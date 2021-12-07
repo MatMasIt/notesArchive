@@ -108,7 +108,7 @@ The 3 branches are: a. legislative b. Executive, c. Judicial
 8.  What was lacking in the Consitution according to the delegate from Virginia?
     The bill of rights first 10 amendments to the us consitution
 
-![Bill of Rights - Texas Student Civic Engagement](https://lh3.googleusercontent.com/OzYHj-ORnc0oImvONDDlHeOjGxc7Txc4C4CGf3ESc-kZ9TXhklWXntMjkndY0SMQGBMdgguKVhlkTdp4ddW2INgcjZjvVickmlyPIWhZuPK-4bAz2rfe-K1uVfMNv38NMcAPFzmE)
+![Bill of Rights - Texas Student Civic Engagement](https://lh3.go                  ogleusercontent.com/OzYHj-ORnc0oImvONDDlHeOjGxc7Txc4C4CGf3ESc-kZ9TXhklWXntMjkndY0SMQGBMdgguKVhlkTdp4ddW2INgcjZjvVickmlyPIWhZuPK-4bAz2rfe-K1uVfMNv38NMcAPFzmE)
 
 Art VIII: A man must be fined in proportion to the crime he has committed
 
@@ -137,10 +137,9 @@ JUDICIAL branch
 WHO?
 
 ____________________
-
-(including 2 Chambers: _____________________
-
-____________________)
+Congress
+(including 2 Chambers:  Senate
+House of representatives)
 
   
   
@@ -375,7 +374,7 @@ Franklin
 Hamilton
 Shermann
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMDk1MzUwLC0zMzEwMzAxMDIsLTIwNz
-UwNzg2ODgsNTMyMDMxNzY1LDczNzAzODk4OSwzNTY5NzAxMDEs
-LTExNjMzOTczLDEwMTA2MzA5MDIsMjgyOTUzNzc3XX0=
+eyJoaXN0b3J5IjpbLTc1NDE3NDE3NiwtMzMxMDMwMTAyLC0yMD
+c1MDc4Njg4LDUzMjAzMTc2NSw3MzcwMzg5ODksMzU2OTcwMTAx
+LC0xMTYzMzk3MywxMDEwNjMwOTAyLDI4Mjk1Mzc3N119
 -->
