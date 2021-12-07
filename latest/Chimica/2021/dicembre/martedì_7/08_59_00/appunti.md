@@ -10,8 +10,8 @@ graph  TD;
 
 |Nomenclatura|Reazioni e preparazioni|
 |---|---|
-|Alcani[^1] <hr />$$sp^3$$|saturi $\implies$ sostituzione|
-|Alcheni[^2]<hr />$$sp^2$$|insaturi $\implies$ addizioe _elettrofila_
+|Alcani[^1] <hr />$$sp^3$$|saturi $\implies$ ==sostituzione== (meccanismo di reazione)[^]|
+|Alcheni[^2]<hr />$$sp^2$$|insaturi $\implies$ addizione _elettrofila_
 
 [^1]:Alcani
 ``` 
@@ -28,7 +28,7 @@ Alcheno
  C  =  C 
 /   pi   \
 ```
-
+[^3]: ogni reazione di un gruppo funzionale ha una serie di passaggi correlati allo stesso
 ---
 Classica reazione di compustione
 
@@ -37,5 +37,5 @@ $$
 CH_4+2O_2\to \boxed{CO_2+2H_2O}\quad \Delta E
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MTI5NzE5XX0=
+eyJoaXN0b3J5IjpbODE4MzU0NDYzXX0=
 -->
