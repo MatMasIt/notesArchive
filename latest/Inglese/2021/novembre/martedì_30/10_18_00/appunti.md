@@ -312,6 +312,7 @@ art 39-40 Magna Charta
 39 No fre man shal be seized, imprisoned, exiled5 or stripped of his rights if he has not been judged by his equals in a legal triale
   
 
+clause 12, no taxation without repr
 ![Esposta per la prima volta in Italia la Magna Charta](https://lh3.googleusercontent.com/mOjzkcPJzEJl_rizETGWXSEW5N3UBuPOdm4Wc5i2v1WXKGHb-rJuzwDoY23sY5cwL-1Ws4DPpc1maZ_KN-R1rWxuVMs662ZFuE7jX_UPOyZxgkQBWHD2Pu_tglsGsewRdleElQP9)
 
 
@@ -380,8 +381,8 @@ Franklin
 Hamilton
 Shermann
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5NzczMjYsMzg5MDMyMTU4LDE2OTk0NT
-kzMzAsLTMzMTAzMDEwMiwtMjA3NTA3ODY4OCw1MzIwMzE3NjUs
-NzM3MDM4OTg5LDM1Njk3MDEwMSwtMTE2MzM5NzMsMTAxMDYzMD
-kwMiwyODI5NTM3NzddfQ==
+eyJoaXN0b3J5IjpbLTU0NTYxMjU3OCwzODkwMzIxNTgsMTY5OT
+Q1OTMzMCwtMzMxMDMwMTAyLC0yMDc1MDc4Njg4LDUzMjAzMTc2
+NSw3MzcwMzg5ODksMzU2OTcwMTAxLC0xMTYzMzk3MywxMDEwNj
+MwOTAyLDI4Mjk1Mzc3N119
 -->
