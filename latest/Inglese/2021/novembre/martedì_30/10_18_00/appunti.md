@@ -169,13 +169,7 @@ MAKES LAWS
 APPROVES JUDGES
 PASSES THE NATIONAL BUDGET
 DECLARES WAR
-1.
 
-2.
-
-3.
-
-4.
 
   
 Executive:  
@@ -192,11 +186,6 @@ punishment, etc
 determines constitutionality
 settles the state disputes
 hears court appeals
-1.
-
-2.
-
-3.
 
 (EXTRA INFO)
 
@@ -387,8 +376,8 @@ Franklin
 Hamilton
 Shermann
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTQyMDkxMCwxNjk5NDU5MzMwLC0zMz
-EwMzAxMDIsLTIwNzUwNzg2ODgsNTMyMDMxNzY1LDczNzAzODk4
-OSwzNTY5NzAxMDEsLTExNjMzOTczLDEwMTA2MzA5MDIsMjgyOT
-UzNzc3XX0=
+eyJoaXN0b3J5IjpbMzg5MDMyMTU4LDE2OTk0NTkzMzAsLTMzMT
+AzMDEwMiwtMjA3NTA3ODY4OCw1MzIwMzE3NjUsNzM3MDM4OTg5
+LDM1Njk3MDEwMSwtMTE2MzM5NzMsMTAxMDYzMDkwMiwyODI5NT
+M3NzddfQ==
 -->
