@@ -313,6 +313,8 @@ art 39-40 Magna Charta
   
 
 clause 12, no taxation without repr
+
+clause 20 influenced art 8 bill of rights
 ![Esposta per la prima volta in Italia la Magna Charta](https://lh3.googleusercontent.com/mOjzkcPJzEJl_rizETGWXSEW5N3UBuPOdm4Wc5i2v1WXKGHb-rJuzwDoY23sY5cwL-1Ws4DPpc1maZ_KN-R1rWxuVMs662ZFuE7jX_UPOyZxgkQBWHD2Pu_tglsGsewRdleElQP9)
 
 
@@ -381,8 +383,8 @@ Franklin
 Hamilton
 Shermann
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTYxMjU3OCwzODkwMzIxNTgsMTY5OT
-Q1OTMzMCwtMzMxMDMwMTAyLC0yMDc1MDc4Njg4LDUzMjAzMTc2
-NSw3MzcwMzg5ODksMzU2OTcwMTAxLC0xMTYzMzk3MywxMDEwNj
-MwOTAyLDI4Mjk1Mzc3N119
+eyJoaXN0b3J5IjpbLTE5MDAxNjM4NzQsMzg5MDMyMTU4LDE2OT
+k0NTkzMzAsLTMzMTAzMDEwMiwtMjA3NTA3ODY4OCw1MzIwMzE3
+NjUsNzM3MDM4OTg5LDM1Njk3MDEwMSwtMTE2MzM5NzMsMTAxMD
+YzMDkwMiwyODI5NTM3NzddfQ==
 -->
