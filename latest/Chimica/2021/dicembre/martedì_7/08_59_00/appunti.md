@@ -3,10 +3,9 @@
 
 
 ```mermaid
-GRAPH LR;
-
-A(chimica Organica)
+GRAPH TD
+	A(chimica Organica) --> B(C) 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Mjk0ODE5N119
+eyJoaXN0b3J5IjpbMTUyNzQzMTY2NF19
 -->
