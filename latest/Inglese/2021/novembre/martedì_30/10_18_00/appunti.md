@@ -137,6 +137,9 @@ JUDICIAL branch
 WHO?
 
 ____________________
+
+Lefislative branch:
+
 Congress
 (including 2 Chambers:  Senate
 House of representatives)
@@ -163,7 +166,8 @@ House of representatives)
 WHAT?
 
 MAKES LAWS
-
+APPROVES JUDGES
+PASSES THE NATIONAL BUDGET
 1.
 
 2.
@@ -374,7 +378,7 @@ Franklin
 Hamilton
 Shermann
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDE3NDE3NiwtMzMxMDMwMTAyLC0yMD
-c1MDc4Njg4LDUzMjAzMTc2NSw3MzcwMzg5ODksMzU2OTcwMTAx
-LC0xMTYzMzk3MywxMDEwNjMwOTAyLDI4Mjk1Mzc3N119
+eyJoaXN0b3J5IjpbLTE2ODYzNzU4OTksLTMzMTAzMDEwMiwtMj
+A3NTA3ODY4OCw1MzIwMzE3NjUsNzM3MDM4OTg5LDM1Njk3MDEw
+MSwtMTE2MzM5NzMsMTAxMDYzMDkwMiwyODI5NTM3NzddfQ==
 -->
