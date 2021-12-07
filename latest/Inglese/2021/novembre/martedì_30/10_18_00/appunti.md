@@ -178,12 +178,16 @@ DECLARES WAR
 4.
 
   
-  
+Executive:  
 
 ENFORCES LAWS
 
-INTERPRETS LAWS + PUNISHES outlaws
 
+Judicial:
+INTERPRETS LAWS + PUNISHES outlaws
+Supreme courts (9 judges)
+\+ all the federal courts
+i
 1.
 
 2.
@@ -379,7 +383,8 @@ Franklin
 Hamilton
 Shermann
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTQ1OTMzMCwtMzMxMDMwMTAyLC0yMD
-c1MDc4Njg4LDUzMjAzMTc2NSw3MzcwMzg5ODksMzU2OTcwMTAx
-LC0xMTYzMzk3MywxMDEwNjMwOTAyLDI4Mjk1Mzc3N119
+eyJoaXN0b3J5IjpbOTU2MzIyMjM5LDE2OTk0NTkzMzAsLTMzMT
+AzMDEwMiwtMjA3NTA3ODY4OCw1MzIwMzE3NjUsNzM3MDM4OTg5
+LDM1Njk3MDEwMSwtMTE2MzM5NzMsMTAxMDYzMDkwMiwyODI5NT
+M3NzddfQ==
 -->
