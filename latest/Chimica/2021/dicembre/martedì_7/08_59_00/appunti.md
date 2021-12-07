@@ -10,11 +10,15 @@ graph  TD;
 
 |Nomenclatura|Reazioni e preparazioni|
 |---|---|
-|Alcani <hr />$$sp^3$$<hr />
+|Alcani <hr />$$sp^3$$|saturi $\implies$ sostituzione|
+|Alcheni
+
+*[Alcani] :
 ``` 
  | |
 -C-C-
- | |``` 
+ | |
+ ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI3NjA5NjVdfQ==
+eyJoaXN0b3J5IjpbLTEyOTkyMTMxMTldfQ==
 -->
