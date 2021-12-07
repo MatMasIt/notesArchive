@@ -110,7 +110,7 @@ The 3 branches are: a. legislative b. Executive, c. Judicial
 
 ![Bill of Rights - Texas Student Civic Engagement](https://lh3.googleusercontent.com/OzYHj-ORnc0oImvONDDlHeOjGxc7Txc4C4CGf3ESc-kZ9TXhklWXntMjkndY0SMQGBMdgguKVhlkTdp4ddW2INgcjZjvVickmlyPIWhZuPK-4bAz2rfe-K1uVfMNv38NMcAPFzmE)
 
-  
+Art IX: A man must be fined in proportion to the crime he has committed  
   
 
 3.  VIDEO: More on the Separation of US powers: Legislative, Executive, Judicial.
@@ -372,7 +372,7 @@ Franklin
 Hamilton
 Shermann
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTAzMDEwMiwtMjA3NTA3ODY4OCw1Mz
-IwMzE3NjUsNzM3MDM4OTg5LDM1Njk3MDEwMSwtMTE2MzM5NzMs
-MTAxMDYzMDkwMiwyODI5NTM3NzddfQ==
+eyJoaXN0b3J5IjpbNjAyNzQyMjE3LC0zMzEwMzAxMDIsLTIwNz
+UwNzg2ODgsNTMyMDMxNzY1LDczNzAzODk4OSwzNTY5NzAxMDEs
+LTExNjMzOTczLDEwMTA2MzA5MDIsMjgyOTUzNzc3XX0=
 -->
