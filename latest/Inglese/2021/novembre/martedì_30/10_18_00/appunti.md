@@ -108,7 +108,7 @@ The 3 branches are: a. legislative b. Executive, c. Judicial
 8.  What was lacking in the Consitution according to the delegate from Virginia?
     The bill of rights first 10 amendments to the us consitution
 
-![Bill of Rights - Texas Student Civic Engagement](https://lh3.go                  ogleusercontent.com/OzYHj-ORnc0oImvONDDlHeOjGxc7Txc4C4CGf3ESc-kZ9TXhklWXntMjkndY0SMQGBMdgguKVhlkTdp4ddW2INgcjZjvVickmlyPIWhZuPK-4bAz2rfe-K1uVfMNv38NMcAPFzmE)
+![Bill of Rights - Texas Student Civic Engagement](https://lh3.googleusercontent.com/OzYHj-ORnc0oImvONDDlHeOjGxc7Txc4C4CGf3ESc-kZ9TXhklWXntMjkndY0SMQGBMdgguKVhlkTdp4ddW2INgcjZjvVickmlyPIWhZuPK-4bAz2rfe-K1uVfMNv38NMcAPFzmE)
 
 Art VIII: A man must be fined in proportion to the crime he has committed
 
