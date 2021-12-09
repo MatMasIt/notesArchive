@@ -126,9 +126,14 @@ $$
 $$
 
 $$
-\lim_{x\to 0}=\frac{
+\lim_{x\to 0}\frac{(x-\cancel 2+\cancel 2)(\sqrt{x+4}+2)}{(x+\cancel 4-\cancel 4)(\sqrt{x+2}+\sqrt{2})}
+$$
+
+
+$$
+=\lim_{x\to 0}\frac{\cancel x (\sqrt{x+4}+2)}{\cancel x(\sqrt{x+2}+\sqrt{2})}=\frac{4
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3NDc3MzAwLDE2NDE5NDI3NzYsMTA5MT
-UwOTQzMV19
+eyJoaXN0b3J5IjpbMTk1ODYxNDA1OSwxNjQxOTQyNzc2LDEwOT
+E1MDk0MzFdfQ==
 -->
