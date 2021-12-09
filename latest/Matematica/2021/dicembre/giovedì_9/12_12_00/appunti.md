@@ -103,6 +103,13 @@ $$
 $$
 \lim_{x\to+\infin}\frac{\cancel x}{\cancel x}=1
 $$
+
+
+### 342
+
+$$
+\lim_{x\to+\infin}\frac{\sqrt{x^2-1}-x}{\sqrt{x^2-1}+x}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzQ5NDE0MSwxMDkxNTA5NDMxXX0=
+eyJoaXN0b3J5IjpbMTY0MTk0Mjc3NiwxMDkxNTA5NDMxXX0=
 -->
