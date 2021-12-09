@@ -259,9 +259,12 @@ $$
 
 
 $$
-\lim_{x\to 0}\frac{\sin x^2}{x}=\frac00\qua
+\lim_{x\to 0}\frac{\sin x^2}{x}=\frac00\quad FI\xrightarrow{\sin x^2\approx x^2}
 $$
+
+### 466
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzM3NDY4Myw1MTM1NTY3NDEsMTY0MT
+eyJoaXN0b3J5IjpbLTIxMzYwNjcwMiw1MTM1NTY3NDEsMTY0MT
 k0Mjc3NiwxMDkxNTA5NDMxXX0=
 -->
