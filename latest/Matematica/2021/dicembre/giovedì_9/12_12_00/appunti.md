@@ -249,8 +249,19 @@ $$
 \lim_{x\to 0}=\frac{\tan x}{x}=\frac00\quad FI \xrightarrow{tan x \approx x}\lim_{x\to 0}\frac{\cancel x}{\cancel x}=1
 $$
 
+---
+$$
+\lim_{x \to 0}\frac{\sin 7x}{x}=\frac00\quad FI\xrightarrow{\sin 7x\approx 7x}\lim_{x\to 0}\frac{7\cancel x}{\cancel x}=7
+$$
 
+
+---
+
+
+$$
+\lim_{x\to 0}\frac{\sin x^2}{x}=\frac00\qua
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDQ3NTI0OSw1MTM1NTY3NDEsMTY0MT
+eyJoaXN0b3J5IjpbLTY0MzM3NDY4Myw1MTM1NTY3NDEsMTY0MT
 k0Mjc3NiwxMDkxNTA5NDMxXX0=
 -->
