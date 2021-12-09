@@ -177,8 +177,17 @@ $$
 
 
 
+---
 
+
+$$
+f(x)=f(0)+\frac{f'(0)}{1!}x^1
++\frac{f''(0)}{2!}x^2+\frac{f'''(0)}{3!}x^3...$$
+
+$$
+...=o(x^3)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNTU2NzQxLDE2NDE5NDI3NzYsMTA5MT
-UwOTQzMV19
+eyJoaXN0b3J5IjpbOTY2MDUzNTMwLDUxMzU1Njc0MSwxNjQxOT
+QyNzc2LDEwOTE1MDk0MzFdfQ==
 -->
