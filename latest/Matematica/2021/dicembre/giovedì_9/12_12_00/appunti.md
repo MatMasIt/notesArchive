@@ -146,7 +146,15 @@ Razionalizzo il denominatore
 $$
 \lim_{x\to 0}\frac{x\left(\sqrt{3-x}+\sqrt{3+x}\right)}{\cancel 3 -x - \cancel 3 -x}
 $$
+
+$$
+=\lim_{x\to 0}\frac{\cancel x(\sqrt{3-x}+\sqrt{3+x})}{-2\cancel x}
+$$
+
+$$
+=\frac{2\sqrt 3}{2}=\sqrt 3
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY4NTYzNTcsMTY0MTk0Mjc3NiwxMD
+eyJoaXN0b3J5IjpbLTExMDcyNDY0ODEsMTY0MTk0Mjc3NiwxMD
 kxNTA5NDMxXX0=
 -->
