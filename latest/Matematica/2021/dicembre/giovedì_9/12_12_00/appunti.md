@@ -34,8 +34,12 @@ $$
 $$
 
 $$
-\xrightarrow{9=o(x^2)}
+\xrightarrow{9=o(x^2)}\lim_{x\to +\infin}\left(\sqrt{x}-\sqrt{x^2}\right)
 $$
+
+
+$$
+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkyNTg4OTJdfQ==
+eyJoaXN0b3J5IjpbMjQ4NDk5NDQ4XX0=
 -->
