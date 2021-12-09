@@ -66,8 +66,12 @@ $$
 $$
 
 $$
-\xrightarrow{1=o(x)}
+\xrightarrow[x+1=o(x^2)]{1=o(x)}\lim_{x\to -\infin}\frac{x}{\sqrt{x^2}-x}=\lim_{x\to \infin}\frac{x}{|x|-x}
+$$
+
+$$
+\xrightarrrow[|x|=-z
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjE2OTEwMCwxMDkxNTA5NDMxXX0=
+eyJoaXN0b3J5IjpbMjAwMzUxMzE2OSwxMDkxNTA5NDMxXX0=
 -->
