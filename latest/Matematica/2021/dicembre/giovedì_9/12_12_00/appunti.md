@@ -217,9 +217,20 @@ f''(x)=2\tan x(1+\tan^2x)=2\tan x +2 \tan^3 x
 $$
 
 $$
-f''
+f'''(x)=2(1+\tan^2x)+2\cdot 3\cdot tan^2x(1+\tan^2)x=2+2\tan^2x+6\tan^2x+6\tan^4x
 $$
+
+
+$$
+\boxed{
+f(0)=0\quad f'(0)=1\quad f''(0)=0\quad f'''(0)=2
+}$$
+
+
+$$
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTM0Nzc4MSw1MTM1NTY3NDEsMTY0MT
-k0Mjc3NiwxMDkxNTA5NDMxXX0=
+eyJoaXN0b3J5IjpbLTY1Mzk2MzY2LDUxMzU1Njc0MSwxNjQxOT
+QyNzc2LDEwOTE1MDk0MzFdfQ==
 -->
