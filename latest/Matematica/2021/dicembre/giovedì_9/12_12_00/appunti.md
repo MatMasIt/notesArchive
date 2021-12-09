@@ -200,7 +200,17 @@ $$
 ---
 
 
+$$
+D(tanx)=D\left(\frac{\sin x}{\cos x}\right)=\frac{\cos^2 x+\sin^2x}{\cos^2 x}=\frac1{\cos^2 x}=1+\tan^2x
+$$
+
+$$
+f(x)=\tan x
+$$
+
+$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU4MDYxNzUsNTEzNTU2NzQxLDE2ND
-E5NDI3NzYsMTA5MTUwOTQzMV19
+eyJoaXN0b3J5IjpbLTg3ODgwMTY4MSw1MTM1NTY3NDEsMTY0MT
+k0Mjc3NiwxMDkxNTA5NDMxXX0=
 -->
