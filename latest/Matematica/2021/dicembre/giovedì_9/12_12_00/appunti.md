@@ -26,6 +26,16 @@ $$
 $$
 \lim_{x\to+\infin}\frac1{x+\sqrt{x+1}}=\frac1{+\infin+\infin}=\frac1{+\infin}=0^+
 $$
+
+### 357
+
+$$
+\lim_{x\to+\infin}\left(\sqrt x-\sqrt{x^2+9}\right)=+\infin-\infin\quad FI
+$$
+
+$$
+\xrightarrow{9=o(x^2)}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDEyNjkwNl19
+eyJoaXN0b3J5IjpbLTE0MzkyNTg4OTJdfQ==
 -->
