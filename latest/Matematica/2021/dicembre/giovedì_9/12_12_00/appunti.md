@@ -19,8 +19,13 @@ $$
 $$
 
 $$
-\lim_{x\to\infin}\frac{x^3-x^2-x^3-1}{x^2-1}
+=\lim_{x\to\infin}\frac{x^3-x^2-x^3-1}{x^2-1}=-1
+$$
+
+### 369
+$$
+\lim_{x\to+\infin}\frac1{x+\sqrt{x+1}}=\frac1{+\infin+\infin}=\frac1{+\infin}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDgzOTE0M119
+eyJoaXN0b3J5IjpbMTMxMzg4MjAxMF19
 -->
