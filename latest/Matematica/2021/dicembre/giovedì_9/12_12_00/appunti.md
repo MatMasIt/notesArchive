@@ -110,6 +110,21 @@ $$
 $$
 \lim_{x\to+\infin}\frac{\sqrt{x^2-1}-x}{\sqrt{x^2-1}+x}
 $$
+
+
+
+### 362
+
+$$
+\lim_{x\to 0}\frac{\sqrt{x+2}-\sqrt{2}}{\sqrt{x+4}-2}=\frac{\sqrt{2}-\sqrt{2}}{2-2}=\frac00\quad FI
+$$
+
+
+
+$$
+\lim_{x\to\inf
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTk0Mjc3NiwxMDkxNTA5NDMxXX0=
+eyJoaXN0b3J5IjpbMjA1NjAxMTc5NCwxNjQxOTQyNzc2LDEwOT
+E1MDk0MzFdfQ==
 -->
