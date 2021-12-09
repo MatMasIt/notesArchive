@@ -24,8 +24,8 @@ $$
 
 ### 369
 $$
-\lim_{x\to+\infin}\frac1{x+\sqrt{x+1}}=\frac1{+\infin+\infin}=\frac1{+\infin}
+\lim_{x\to+\infin}\frac1{x+\sqrt{x+1}}=\frac1{+\infin+\infin}=\frac1{+\infin}=0^+
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzg4MjAxMF19
+eyJoaXN0b3J5IjpbMTAxMDEyNjkwNl19
 -->
