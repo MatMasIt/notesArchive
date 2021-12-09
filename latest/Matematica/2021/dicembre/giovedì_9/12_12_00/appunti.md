@@ -138,9 +138,15 @@ $$
 
 ### 378 
 $$
-\lim{x\to 0}\frac{x}{\sqrt{3-x}-\sqrt{3+x}}
+\lim_{x\to 0}\frac{x}{\sqrt{3-x}-\sqrt{3+x}}=\frac{0}{\sqrt{3}-\sqrt{3}}=\frac00\quad FI
+$$
+
+Razionalizzo il denominatore
+
+$$
+\lim_{x\to 0}\frac{x\left(\sqrt{3-x}+\sqrt{3+x}\right)}{\cancel 3 -x - \cancel 3 -x}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTIwMjA3MSwxNjQxOTQyNzc2LDEwOT
-E1MDk0MzFdfQ==
+eyJoaXN0b3J5IjpbLTIwMDY4NTYzNTcsMTY0MTk0Mjc3NiwxMD
+kxNTA5NDMxXX0=
 -->
