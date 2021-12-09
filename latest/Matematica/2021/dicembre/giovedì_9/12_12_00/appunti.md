@@ -11,8 +11,16 @@ $$
 
 
 $$
-\lim_{x\to+\infin}\left(\frac{x^2}{x+1}-\frac{\cancel{(x+1)}(x^2-x+1)}{(x-1)\cancel{(x+1)} \right)
+\lim_{x\to+\infin}\left(\frac{x^2}{x+1}-\frac{\cancel{(x+1)}(x^2-x+1)}{(x-1)\cancel{(x+1)}} \right)
+$$
+
+$$
+=\lim_{x\to\infin}\frac{x^2(x-1)-(x^3+1)}{(x+1)(x-1)}
+$$
+
+$$
+\lim_{x\to\infin}\frac{x^3-x^2-x^3-1}{x^2-1}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDM5NjE2N119
+eyJoaXN0b3J5IjpbMTY4NDgzOTE0M119
 -->
