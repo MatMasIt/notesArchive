@@ -209,8 +209,17 @@ f(x)=\tan x
 $$
 
 $$
+f'(x)=1+\tan^2x
+$$
+
+$$
+f''(x)=2\tan x(1+\tan^2x)=2\tan x +2 \tan^3 x
+$$
+
+$$
+f''
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODgwMTY4MSw1MTM1NTY3NDEsMTY0MT
+eyJoaXN0b3J5IjpbLTU3MTM0Nzc4MSw1MTM1NTY3NDEsMTY0MT
 k0Mjc3NiwxMDkxNTA5NDMxXX0=
 -->
