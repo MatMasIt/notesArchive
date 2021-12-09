@@ -93,8 +93,16 @@ $$
 
 
 $$
-\lim_{x\to+\infin}=\frac{\sqrt{4x^2}-\sqrt{x^2}}{x}=\lim_{x\to +\infin}\frac{2|x|-|x|}{x}=\lim_{x\to+\infin}\frac{|x|}{
+\lim_{x\to+\infin}=\frac{\sqrt{4x^2}-\sqrt{x^2}}{x}=\lim_{x\to +\infin}\frac{2|x|-|x|}{x}=\lim_{x\to+\infin}\frac{|x|}{x}
+$$
+
+$$
+\xrightarrow[|x|=x\quad x\to+\infin]{}
+$$
+
+$$
+\lim_{x\to+\infin}\frac{\cancel x}{\cancel x}=1
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIxMTY0MDAsMTA5MTUwOTQzMV19
+eyJoaXN0b3J5IjpbMTk2NzQ5NDE0MSwxMDkxNTA5NDMxXX0=
 -->
