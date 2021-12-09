@@ -58,8 +58,16 @@ $$
 
 
 $$
-\lim_{x\to -\infin}\frac{\left(\sqrt{x^2+x+1}\right)\left(\sqrt{x^2\right)}{}
+\lim_{x\to -\infin}\frac{\left(\sqrt{x^2+x+1}\right)\left(\sqrt{x^2+x+1}-x\right)}{\sqrt{x^2+x+1}-1}
+$$
+
+$$
+=\lim_{x\to\infin}\frac{\cancel{x^2}+x+1\cancel{-x^2}}{\sqrt{x^2+x+1}-x}
+$$
+
+$$
+\xrightarrow{1=o(x)}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjQzMzM2NCwxMDkxNTA5NDMxXX0=
+eyJoaXN0b3J5IjpbLTcyMjE2OTEwMCwxMDkxNTA5NDMxXX0=
 -->
