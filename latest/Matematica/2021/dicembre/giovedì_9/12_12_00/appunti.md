@@ -6,8 +6,13 @@ $$
 
 
 $$
-\xrightarrow[1=o(x^2)]{1=o(x)\quad 1=o(x^3)}\lim_{x \to \infin }\left(\frac{\cancel{x^2}}}}{\cancel{x}}
+\cancel{\xrightarrow[1=o(x^2)]{1=o(x)\quad 1=o(x^3)}\lim_{x \to \infin }\left(\frac{x^{\cancel{2}}}{\cancel{x}}-\frac{x^{\cancel 3}}{\cancel{x^2}}\right)=\lim_{x\to \infin}(x-x)}
+$$
+
+
+$$
+\lim_{x\to
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU0ODEyMTNdfQ==
+eyJoaXN0b3J5IjpbMTgyODgwNTcxNl19
 -->
