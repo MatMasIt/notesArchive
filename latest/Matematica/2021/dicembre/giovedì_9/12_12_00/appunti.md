@@ -196,7 +196,11 @@ $$
 $$
 \cos x = 1-\frac12x^2+o(x^2)
 $$
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTE4Mjc4LDUxMzU1Njc0MSwxNjQxOT
-QyNzc2LDEwOTE1MDk0MzFdfQ==
+eyJoaXN0b3J5IjpbLTExMjU4MDYxNzUsNTEzNTU2NzQxLDE2ND
+E5NDI3NzYsMTA5MTUwOTQzMV19
 -->
