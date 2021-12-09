@@ -243,10 +243,14 @@ $$
 
 ---
 
+### 465
 
+$$
+\lim_{x\to 0}=\frac{\tan x}{x}=\frac00\quad FI \xrightarrow{tan x \approx x}
+$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4MTUzNzIyLDUxMzU1Njc0MSwxNjQxOT
-QyNzc2LDEwOTE1MDk0MzFdfQ==
+eyJoaXN0b3J5IjpbLTM4Njg5NDgzMyw1MTM1NTY3NDEsMTY0MT
+k0Mjc3NiwxMDkxNTA5NDMxXX0=
 -->
