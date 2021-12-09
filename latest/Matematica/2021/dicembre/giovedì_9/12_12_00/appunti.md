@@ -122,9 +122,13 @@ $$
 
 
 $$
-\lim_{x\to\inf
+\lim_{x\to 0}\frac{(\sqrt{x+2}-\sqrt{2})(\sqrt{x+2}+\sqrt{2})(\sqrt{x+4}+2)}{(\sqrt{x+4}-2)(\sqrt{x+2}+\sqrt{2})(\sqrt{x+4}+2)}
+$$
+
+$$
+\lim_{x\to 0}=\frac{
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjAxMTc5NCwxNjQxOTQyNzc2LDEwOT
-E1MDk0MzFdfQ==
+eyJoaXN0b3J5IjpbNzE3NDc3MzAwLDE2NDE5NDI3NzYsMTA5MT
+UwOTQzMV19
 -->
