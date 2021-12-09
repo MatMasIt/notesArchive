@@ -49,8 +49,12 @@ $$
 ---
 
 $$
-\lim_{x\t
+\lim_{x\to-\infin}\left(\sqrt{x^2+x+1}+x\right)=\sqrt{\infin-\infin}-\infin\quad FI
+$$
+
+$$
+\xrightarrow{x+1=o(x^2)}\lim_{x\to -\infin}\left(\sqrt{x^2}+x\right)=\lim_{x\to -\infin}\left(|x|+x\right)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjUyNTQ3ODddfQ==
+eyJoaXN0b3J5IjpbLTI4NTc3MjExNl19
 -->
