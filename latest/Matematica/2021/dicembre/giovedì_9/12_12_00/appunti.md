@@ -88,8 +88,13 @@ $$
 $$
 
 $$
-\xrightarrow{1=o(x^2)
+\xrightarrow{1=o(x^2)}
+$$
+
+
+$$
+\lim_{x\to+\infin}=\frac{\sqrt{4x^2}-\sqrt{x^2}}{x}=\lim_{x\to +\infin}\frac{2|x|-|x|}{x}=\lim_{x\to+\infin}\frac{|x|}{
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDg5Nzc1MCwxMDkxNTA5NDMxXX0=
+eyJoaXN0b3J5IjpbLTE0NjIxMTY0MDAsMTA5MTUwOTQzMV19
 -->
