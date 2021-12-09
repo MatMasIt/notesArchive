@@ -187,7 +187,16 @@ f(x)=f(0)+\frac{f'(0)}{1!}x^1
 $$
 ...=o(x^3)
 $$
+
+
+$$
+\sin x = x-\frac16x^3+o(x^3)
+$$
+
+$$
+\cos x = 1-\frac12x^2+o(x^2)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MDUzNTMwLDUxMzU1Njc0MSwxNjQxOT
+eyJoaXN0b3J5IjpbMTY4OTE4Mjc4LDUxMzU1Njc0MSwxNjQxOT
 QyNzc2LDEwOTE1MDk0MzFdfQ==
 -->
