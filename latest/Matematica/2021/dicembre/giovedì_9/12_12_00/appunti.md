@@ -168,17 +168,17 @@ $$
 > $x\to 1 \implies t\to 0$
 
 $$
-\lim_{t\to 0^+}\frac{t^\frac12-t^\frac13}{t^\frac12+t^\frac23}
+\lim_{t\to 0^+}\frac{t^\frac12-t^\frac23}{t^\frac12+t^\frac23}
 $$
 
 $$
-\xrightarrow{t^\frac23=o\left(t^\frac12\right)}\lim_{t\to 0^+}\frac{t^\f
+\xrightarrow{t^\frac23=o\left(t^\frac12\right)}\lim_{t\to 0^+}\frac{t^\frac12}{t^\frac12}=1
 $$
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYzNDYzNTcsMTY0MTk0Mjc3NiwxMD
-kxNTA5NDMxXX0=
+eyJoaXN0b3J5IjpbNTEzNTU2NzQxLDE2NDE5NDI3NzYsMTA5MT
+UwOTQzMV19
 -->
