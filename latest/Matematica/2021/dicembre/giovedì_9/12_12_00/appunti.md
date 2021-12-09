@@ -152,9 +152,25 @@ $$
 $$
 
 $$
-=\frac{2\sqrt 3}{2}=\sqrt 3
+=\frac{2\sqrt 3}{-2}=-\sqrt 3
 $$
+
+
+---
+
+### 314
+
+$$
+\lim_{x\to 1^{+}}\frac{(x-1)^{\frac12}-(x-1)^{\frac23}}{(x-2)^{\frac12}+(x-1)^{\frac23}}=\frac00\quad FI
+$$
+
+> $x-1=t$
+> se $x\to 1$ $t\to 0$
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcyNDY0ODEsMTY0MTk0Mjc3NiwxMD
-kxNTA5NDMxXX0=
+eyJoaXN0b3J5IjpbLTkwNjU1NTE1LDE2NDE5NDI3NzYsMTA5MT
+UwOTQzMV19
 -->
