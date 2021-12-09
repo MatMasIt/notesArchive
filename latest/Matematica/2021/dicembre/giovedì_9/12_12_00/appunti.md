@@ -53,8 +53,8 @@ $$
 $$
 
 $$
-\xrightarrow{x+1=o(x^2)}\lim_{x\to -\infin}\left(\sqrt{x^2}+x\right)=\lim_{x\to -\infin}\left(|x|+x\right)
+\xrightarrow{x+1=o(x^2)}\lim_{x\to -\infin}\left(\sqrt{x^2}+x\right)=\lim_{x\to -\infin}\left(|x|+x\right)=\lim{x\to-\infin}-x+x \quad FI
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTc3MjExNl19
+eyJoaXN0b3J5IjpbMTA5MTUwOTQzMV19
 -->
