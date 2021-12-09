@@ -228,9 +228,18 @@ f(0)=0\quad f'(0)=1\quad f''(0)=0\quad f'''(0)=2
 
 
 $$
+\tan=\frac{1}{1!}x+\frac{2}{3!}x^2+o(x^3)=x+\frac13x^3+o(x^3)
 $$
 
+---
+
+$$
+\lim_{x\t
+$$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Mzk2MzY2LDUxMzU1Njc0MSwxNjQxOT
-QyNzc2LDEwOTE1MDk0MzFdfQ==
+eyJoaXN0b3J5IjpbLTIwMjcxNzQzNDQsNTEzNTU2NzQxLDE2ND
+E5NDI3NzYsMTA5MTUwOTQzMV19
 -->
