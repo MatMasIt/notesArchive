@@ -74,8 +74,22 @@ $$
 $$
 
 $$
-\lim_{x\to-\infin}\frac{x}{-x-x}=\frac{\cancel x}{-2\cancx}-\frac12
+\lim_{x\to-\infin}\frac{x}{-x-x}=\frac{\cancel x}{-2\cancel x}-\frac12
+$$
+
+
+----
+
+
+### 339
+
+$$
+\lim_{x\to +\infin}\frac{\sqrt{4x^2-1}-\sqrt{x^2-1}}{x}=\frac{+\infin-\infin}{+\infin}\quad FI
+$$
+
+$$
+\xrightarrow{1=o(x^2)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkxMDU3NTksMTA5MTUwOTQzMV19
+eyJoaXN0b3J5IjpbLTQwMDg5Nzc1MCwxMDkxNTA5NDMxXX0=
 -->
