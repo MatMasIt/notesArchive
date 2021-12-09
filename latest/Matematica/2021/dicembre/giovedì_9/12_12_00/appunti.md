@@ -131,9 +131,9 @@ $$
 
 
 $$
-=\lim_{x\to 0}\frac{\cancel x (\sqrt{x+4}+2)}{\cancel x(\sqrt{x+2}+\sqrt{2})}=\frac{4
+=\lim_{x\to 0}\frac{\cancel x (\sqrt{x+4}+2)}{\cancel x(\sqrt{x+2}+\sqrt{2})}=\frac{\cancel 4^2}{\cancel 2 \sqrt2}=\sqrt2
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODYxNDA1OSwxNjQxOTQyNzc2LDEwOT
-E1MDk0MzFdfQ==
+eyJoaXN0b3J5IjpbLTIwNjc0NTQ2NzcsMTY0MTk0Mjc3NiwxMD
+kxNTA5NDMxXX0=
 -->
