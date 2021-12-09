@@ -232,14 +232,21 @@ $$
 $$
 
 ---
+$$
+\lim_{x\to 0}\frac{\sin x}{x}=1
+$$
 
 $$
-\lim_{x\t
+\lim_{x\to 0}\frac{1-\cos x}{x^2}=\frac12
 $$
+
+
+---
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjcxNzQzNDQsNTEzNTU2NzQxLDE2ND
-E5NDI3NzYsMTA5MTUwOTQzMV19
+eyJoaXN0b3J5IjpbNTQ4MTUzNzIyLDUxMzU1Njc0MSwxNjQxOT
+QyNzc2LDEwOTE1MDk0MzFdfQ==
 -->
