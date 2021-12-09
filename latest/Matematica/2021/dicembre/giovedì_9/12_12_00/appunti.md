@@ -165,12 +165,20 @@ $$
 $$
 
 > $x-1=t$
-> se $x\to 1$ $t\to 0$
+> $x\to 1 \implies t\to 0$
+
+$$
+\lim_{t\to 0^+}\frac{t^\frac12-t^\frac13}{t^\frac12+t^\frac23}
+$$
+
+$$
+\xrightarrow{t^\frac23=o\left(t^\frac12\right)}\lim_{t\to 0^+}\frac{t^\f
+$$
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjU1NTE1LDE2NDE5NDI3NzYsMTA5MT
-UwOTQzMV19
+eyJoaXN0b3J5IjpbLTEwODYzNDYzNTcsMTY0MTk0Mjc3NiwxMD
+kxNTA5NDMxXX0=
 -->
