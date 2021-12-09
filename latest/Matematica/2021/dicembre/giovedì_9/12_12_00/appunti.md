@@ -39,7 +39,18 @@ $$
 
 
 $$
-$
+Osservazione\quad |x|
+\\
+=x\quad per \quad \lim_{x\to+\infin}\\
+=-x\quad per \quad \lim_{\to -\infin}
+$$
+
+
+---
+
+$$
+\lim_{x\t
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4NDk5NDQ4XX0=
+eyJoaXN0b3J5IjpbLTE2NjUyNTQ3ODddfQ==
 -->
