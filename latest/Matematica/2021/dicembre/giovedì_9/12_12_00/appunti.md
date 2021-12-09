@@ -246,11 +246,11 @@ $$
 ### 465
 
 $$
-\lim_{x\to 0}=\frac{\tan x}{x}=\frac00\quad FI \xrightarrow{tan x \approx x}
+\lim_{x\to 0}=\frac{\tan x}{x}=\frac00\quad FI \xrightarrow{tan x \approx x}\lim_{x\to 0}\frac{\cancel x}{\cancel x}=1
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Njg5NDgzMyw1MTM1NTY3NDEsMTY0MT
+eyJoaXN0b3J5IjpbMTI2MDQ3NTI0OSw1MTM1NTY3NDEsMTY0MT
 k0Mjc3NiwxMDkxNTA5NDMxXX0=
 -->
