@@ -70,8 +70,12 @@ $$
 $$
 
 $$
-\xrightarrrow[|x|=-z
+\xrightarrow[|x|=-x\quad x\to -\infin]{}
+$$
+
+$$
+\lim_{x\to-\infin}\frac{x}{-x-x}=\frac{\cancel x}{-2\cancx}-\frac12
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzUxMzE2OSwxMDkxNTA5NDMxXX0=
+eyJoaXN0b3J5IjpbLTEyMzkxMDU3NTksMTA5MTUwOTQzMV19
 -->
