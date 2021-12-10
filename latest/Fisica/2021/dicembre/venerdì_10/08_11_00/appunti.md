@@ -23,12 +23,13 @@ $$
 
 Per il grafico
 	
-	|          
+  
+	|  V       
 	|           /\
 	|     _____/ | \
 	|    /|    | |  \
-	|   / |    | |   \
-      
+	|   / |    | |   \     x  (10^-6m)
+    --------------------------> 
          2    4 6     8
 		-   +   +   +   -
 		-   -   -   +   -
@@ -36,6 +37,13 @@ Per il grafico
 		-   -   -   +   -
 		-   -   +   +   -
 		-   +   -   +   -
+
+
+
+
+$$
+E=-\frac{\Delta V}{\Delta x}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4OTI0MzI3LDExMzcyNTg3MTNdfQ==
+eyJoaXN0b3J5IjpbLTIxNDYxNzUxNjAsMTEzNzI1ODcxM119
 -->
