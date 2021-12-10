@@ -60,8 +60,13 @@ se ho in grafico del potenziale in funzione della distanza la pendenza in ogni t
 
 Se ho un grafico del campo elettrico in funzione della distanza, l'area con segno sotto la curva è il potenziale
 
+---
 
+
+$$
+\Delta V_{0-5}=-\int_0^5 x^2dx=-\frac{x^3}{3}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzg2ODczMiwtNjM0NzM2NjI4LC0yMT
-Q2MTc1MTYwLDExMzcyNTg3MTNdfQ==
+eyJoaXN0b3J5IjpbLTE5ODQ4MDU5NTksLTIxNzg2ODczMiwtNj
+M0NzM2NjI4LC0yMTQ2MTc1MTYwLDExMzcyNTg3MTNdfQ==
 -->
