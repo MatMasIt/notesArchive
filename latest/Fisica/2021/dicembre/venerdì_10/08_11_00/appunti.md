@@ -58,8 +58,10 @@ $$
 
 se ho in grafico del potenziale in funzione della distanza la pendenza in ogni tratto mi permette di calcolare il campo elettrico (cambiato di segno)
 
-Se ho un grafico del campo elettrico in funzione della distanz
+Se ho un grafico del campo elettrico in funzione della distanza, l'area con segno sotto la curva è il potenziale
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0ODAzNzAsLTYzNDczNjYyOCwtMjE0Nj
-E3NTE2MCwxMTM3MjU4NzEzXX0=
+eyJoaXN0b3J5IjpbLTIxNzg2ODczMiwtNjM0NzM2NjI4LC0yMT
+Q2MTc1MTYwLDExMzcyNTg3MTNdfQ==
 -->
