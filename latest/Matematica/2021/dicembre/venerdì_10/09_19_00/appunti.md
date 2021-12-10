@@ -52,9 +52,13 @@ $$
 
 
 $$
-\lim_{t\to 0}\frac{\sqrt 3 t+\cancel 1-\frac12- \cancel 1}{\sqrt 3\left(1-\frac12t^2\right)-t}
+\lim_{t\to 0}\frac{\sqrt 3 t+\cancel 1-\frac12- \cancel 1}{\sqrt 3\left(1-\frac12t^2\right)-t\sqrt 3}
+$$
+
+$$
+\lim_{x\to 0}\frac{\sqrt 3 t-\frac12t^2}{-\f
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjcxMjMwMV19
+eyJoaXN0b3J5IjpbLTIyNDc4MDIxN119
 -->
