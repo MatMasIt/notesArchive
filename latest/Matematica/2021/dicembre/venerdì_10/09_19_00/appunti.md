@@ -38,8 +38,13 @@ $$
 
 
 $$
-=\lim_{t\to0}\frac{2\left[\sin t\cos\frac\pi6+\cos t \cdot \sin \frac\pi6 \right]-1}{2\left[\cos t \cos \frac\pi6-\sin t+\sin \frac\pi6\right]}
+=\lim_{t\to0}\frac{2\left[\sin t\cos\frac\pi6+\cos t \cdot \sin \frac\pi6 \right]-1}{2\left[\cos t \cos \frac\pi6-\sin t+\sin \frac\pi6\right]-\sqrt 3}
+$$
+
+
+$$
+\lim_{t\to 0}\frac{\cancel 2 \frac\sqrt{3}{\cancel 2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjQ0MDQ5M119
+eyJoaXN0b3J5IjpbLTIxMTUwNTU1NzFdfQ==
 -->
