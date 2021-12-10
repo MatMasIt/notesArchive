@@ -7,13 +7,18 @@
 		_
 	   |-|      d       |+|
 	   |-|------------- |+|
-	   |-|              |+|
+	   |-|          xf  |+|
 
 
 
 $$
-\vec{E}=\boxed{-}\frac{\Delta V}{\Delta\vec{x}
+\vec{E}=\boxed{-}\frac{\Delta V}{\Delta\vec{x}}
+$$
+
+
+$$
+x_f-x_i=0
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzM5NDE4MjldfQ==
+eyJoaXN0b3J5IjpbMTEzNzI1ODcxM119
 -->
