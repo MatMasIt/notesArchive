@@ -29,8 +29,17 @@ $$
 $$
 
 $$
-x-\frac\pi6=t\quad x=t+\frac\pi
+x-\frac\pi6=t\quad x=t+\frac\pi6
+$$
+
+$$
+\lim_{t\to 0}\frac{2\sin\left(t-\frac\pi6\right)-1}{2\cdot\left(t+\frac\pi6\right)-\sqrt 3}
+$$
+
+
+$$
+=\lim_{t\to0}\frac{2\
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzcxODg4NV19
+eyJoaXN0b3J5IjpbLTY3NTc0MTQyOV19
 -->
