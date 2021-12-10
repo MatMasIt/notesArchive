@@ -6,9 +6,14 @@
 $$
 \lim_{x\to\frac\pi2}\frac{1-\sin x}{\cos x}=\frac{1-\sin\frac\pi2}{\cos\frac\pi2}=\frac{1-1}0\quad FI
 $$
+
 $$
-x=t+\frac\
+x=t+\frac\pi2
+$$
+
+$$
+\lim_{t\to 0}\frac{1-\sin\left(t+\frac\pi2\right)}{\cos\left(t+\frac\pi2\right)}=\lim_{t\to 0}\frac{1-\cos t}{-\sin t}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjIwNzA4N119
+eyJoaXN0b3J5IjpbMjM2Njg1Mjc4XX0=
 -->
