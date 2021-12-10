@@ -19,6 +19,15 @@ $$
 $$
 x_f-x_i=0
 $$
+
+
+Per 
+		-   +   +   +   -
+		-   -   -   +   -
+		-   +   +   +   -
+		-   -   -   +   -
+		-   -   +   +   -
+		-   +   -   +   -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzI1ODcxM119
+eyJoaXN0b3J5IjpbLTEyOTQ5MTMzMjAsMTEzNzI1ODcxM119
 -->
