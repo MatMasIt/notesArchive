@@ -25,8 +25,12 @@ $$
 à#à 489 
 
 $$
+\lim_{x\to \frac\pi{6} }\frac{2\sin x-1}{2\cos x-\sqrt 3}=\frac00\quad FI
+$$
 
 $$
+x-\frac\pi6=t\quad x=t+\frac\pi
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDU1NDAxMzVdfQ==
+eyJoaXN0b3J5IjpbLTcwNzcxODg4NV19
 -->
