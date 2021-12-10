@@ -2,11 +2,18 @@
 ## Venerdì 10 dicembre 2021, 08:11:00
 
 
+       / \
+        |  V
+		_
+	   |-|      d       |+|
+	   |-|------------- |+|
+	   |-|              |+|
 
-		-
-	   | |
-	   | |
-	   |_|
+
+
+$$
+\vec{E}=\boxed{-}\frac{\Delta V}{\Delta\vec{x}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE2Mzc2Nl19
+eyJoaXN0b3J5IjpbLTIwNzM5NDE4MjldfQ==
 -->
