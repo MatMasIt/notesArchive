@@ -55,7 +55,11 @@ $$
 $$
 E_D=-\frac{(0-35)V}{2\cdot 10^{-6}}=+17,5\cdot 10^6m
 $$
+
+se ho in grafico del potenziale in funzione della distanza la pendenza in ogni tratto mi permette di calcolare il campo elettrico (cambiato di segno)
+
+Se ho un grafico del campo elettrico in funzione della distanz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDczNjYyOCwtMjE0NjE3NTE2MCwxMT
-M3MjU4NzEzXX0=
+eyJoaXN0b3J5IjpbNDI0ODAzNzAsLTYzNDczNjYyOCwtMjE0Nj
+E3NTE2MCwxMTM3MjU4NzEzXX0=
 -->
