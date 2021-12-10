@@ -21,7 +21,13 @@ x_f-x_i=0
 $$
 
 
-Per 
+Per il grafico
+	          
+	        /\
+	  _____/   \
+	 /|          \
+	/ |           \
+    1  2
 		-   +   +   +   -
 		-   -   -   +   -
 		-   +   +   +   -
@@ -29,5 +35,5 @@ Per
 		-   -   +   +   -
 		-   +   -   +   -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ5MTMzMjAsMTEzNzI1ODcxM119
+eyJoaXN0b3J5IjpbLTM4MzI2MDExOCwxMTM3MjU4NzEzXX0=
 -->
