@@ -44,6 +44,13 @@ Per il grafico
 $$
 E=-\frac{\Delta V}{\Delta x}
 $$
+
+se rett
+
+$$
+E_C=-\frac{(35-20)V}{2\cdot 10^{-6}m}=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYxNzUxNjAsMTEzNzI1ODcxM119
+eyJoaXN0b3J5IjpbMjAyNjI5MzMyMiwtMjE0NjE3NTE2MCwxMT
+M3MjU4NzEzXX0=
 -->
