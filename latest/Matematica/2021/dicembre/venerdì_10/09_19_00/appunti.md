@@ -12,7 +12,7 @@ x=t+\frac\pi2
 $$
 
 $$
-\lim_{t\to 0}\frac{1-\sin\left(t+\frac\pi2\right)}{\cos\left(t+\frac\pi2\right)}=\lim_{t\to 0}\frac{1-\cos t}{-\sin t}
+\lim_{t\to 0}\frac{1-\sin\left(t+\frac\pi2\right)}{\cos\left(t+\frac\pi2\right)}=\lim_{t\to 0}\frac{1-\cos t}{-\sin t}=\lim_{t\to 0}\frac{-\frac12t^{\cancel 2}}{\cancel t}=0
 $$
 
 Uso sviluppo asintotico
@@ -22,7 +22,11 @@ $$
 \cos x \approx 1-\frac12x^3
 $$
 
+à#à 489 
 
+$$
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Mzg0NDk2NV19
+eyJoaXN0b3J5IjpbLTE5MDU1NDAxMzVdfQ==
 -->
