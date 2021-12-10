@@ -45,12 +45,17 @@ $$
 E=-\frac{\Delta V}{\Delta x}
 $$
 
-se rett
+se retta ha perndenza negativa il ampo elettrico è invertito
 
 $$
-E_C=-\frac{(35-20)V}{2\cdot 10^{-6}m}=
+E_C=-\frac{(35-20)V}{2\cdot 10^{-6}m}=-7,5\cdot 1'^6\frac{V}{m}
+$$
+
+
+$$
+E_D=-\frac{(0-35)V}{2\cdot 10^{-6}}=+17,5\cdot 10^6m
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjI5MzMyMiwtMjE0NjE3NTE2MCwxMT
+eyJoaXN0b3J5IjpbLTYzNDczNjYyOCwtMjE0NjE3NTE2MCwxMT
 M3MjU4NzEzXX0=
 -->
