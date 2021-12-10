@@ -38,8 +38,8 @@ $$
 
 
 $$
-=\lim_{t\to0}\frac{2\
+=\lim_{t\to0}\frac{2\left[\sin t\cos\frac\pi6+\cos t \cdot \sin \frac\pi6 \right]-1}{2\left[\cos t \cos \frac\pi6-\sin t+\sin \frac\pi6\right]}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTc0MTQyOV19
+eyJoaXN0b3J5IjpbLTc4MjQ0MDQ5M119
 -->
