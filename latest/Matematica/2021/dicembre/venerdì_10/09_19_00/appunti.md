@@ -56,9 +56,14 @@ $$
 $$
 
 $$
-\lim_{x\to 0}\frac{\sqrt 3 t-\frac12t^2}{-\f
+\lim_{x\to 0}\frac{\sqrt 3 t-\frac12t^2}{-\frac{\sqrt{3}}2t^2-t}
+$$
+
+
+$$
+\xrightarrow[t^2=o(t)]{}\frac{\sqrt 3\cancel t*{-\cancel t}=-\sqrt 3}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDc4MDIxN119
+eyJoaXN0b3J5IjpbMjEzNzU4NDAzXX0=
 -->
