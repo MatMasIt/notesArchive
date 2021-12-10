@@ -47,8 +47,14 @@ $$
 $$
 
 $$
-\xrightarrow{\sin 
+\xrightarrow[\cos t\approx 1-\frac12t^2]{\sin t \approx t}
 $$
+
+
+$$
+\lim_{t\to 0}\frac{\sqrt 3 t+\cancel 1-\frac12- \cancel 1}{\sqrt 3\left(1-\frac12t^2\right)-t}
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTUyMDgzMl19
+eyJoaXN0b3J5IjpbMjAwMjcxMjMwMV19
 -->
