@@ -61,9 +61,19 @@ $$
 
 
 $$
-\xrightarrow[t^2=o(t)]{}\frac{\sqrt 3\cancel t*{-\cancel t}=-\sqrt 3}
+\xrightarrow[t^2=o(t)]{}\lim_{t\to 0}\frac{\sqrt 3\cancel t}{-\cancel t}=-\sqrt 3
 $$
 
+---
+
+
+
+$$
+\lim_{x\to +\infin}\fracé\ln (5x-6)}{
+$$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzU4NDAzXX0=
+eyJoaXN0b3J5IjpbLTQzNTI0Mzc3M119
 -->
