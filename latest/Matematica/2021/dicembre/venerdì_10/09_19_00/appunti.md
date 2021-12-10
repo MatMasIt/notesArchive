@@ -43,8 +43,12 @@ $$
 
 
 $$
-\lim_{t\to 0}\frac{\cancel 2 \frac\sqrt{3}{\cancel 2}
+\lim_{t\to 0}\frac{\cancel{2}\frac{\sqrt 3}{\cancel 2]}\sin t+\cos t-1}{\sqrt 3 \cos t-\sin t - \sqrt 3}
+$$
+
+$$
+\xrightarrow{\sin 
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUwNTU1NzFdfQ==
+eyJoaXN0b3J5IjpbMTA4NTUyMDgzMl19
 -->
