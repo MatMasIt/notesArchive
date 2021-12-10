@@ -14,6 +14,15 @@ $$
 $$
 \lim_{t\to 0}\frac{1-\sin\left(t+\frac\pi2\right)}{\cos\left(t+\frac\pi2\right)}=\lim_{t\to 0}\frac{1-\cos t}{-\sin t}
 $$
+
+Uso sviluppo asintotico
+
+
+$$
+\cos x \approx 1-\frac12x^3
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2Njg1Mjc4XX0=
+eyJoaXN0b3J5IjpbLTQ0Mzg0NDk2NV19
 -->
