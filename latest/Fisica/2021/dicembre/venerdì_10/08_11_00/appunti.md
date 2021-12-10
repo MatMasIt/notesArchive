@@ -22,12 +22,14 @@ $$
 
 
 Per il grafico
-	          
-	        /\
-	  _____/   \
-	 /|          \
-	/ |           \
-    1  2
+	
+	|          
+	|           /\
+	|     _____/ | \
+	|    /|    | |  \
+	|   / |    | |   \
+      
+         2    4 6     8
 		-   +   +   +   -
 		-   -   -   +   -
 		-   +   +   +   -
@@ -35,5 +37,5 @@ Per il grafico
 		-   -   +   +   -
 		-   +   -   +   -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzI2MDExOCwxMTM3MjU4NzEzXX0=
+eyJoaXN0b3J5IjpbOTI4OTI0MzI3LDExMzcyNTg3MTNdfQ==
 -->
