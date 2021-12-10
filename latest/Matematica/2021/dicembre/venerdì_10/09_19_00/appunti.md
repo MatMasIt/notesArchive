@@ -69,11 +69,13 @@ $$
 
 
 $$
-\lim_{x\to +\infin}\fracé\ln (5x-6)}{
+\lim_{x\to +\infin}\frac{\ln (5x-6)}{\ln (2x+3)}=\frac{\ln (+\infin)}{\ln(+\infin)}=\frac{+\infin}{+\infin}\quad FI
 $$
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTI0Mzc3M119
+eyJoaXN0b3J5IjpbMTUyNDc2NTExOV19
 -->
