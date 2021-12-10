@@ -264,7 +264,17 @@ $$
 
 ### 466
 
+$$
+\lim_{x\to 0}\frac{1-\cos x}{x}=\frac00\xrightarrow{\cos x\approx 1-\frac12x^2}\lim_{x\to 0}\frac{\cancel 1-\cancel 1+\frac12 x^{\cancel 2}}{\cancel x}=0
+$$
+
+
+### 471
+
+$$
+\lim_{x\to 0}\frac{x}{\cos{2x}-\cos x}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzYwNjcwMiw1MTM1NTY3NDEsMTY0MT
+eyJoaXN0b3J5IjpbLTY2MjU4MzU0NSw1MTM1NTY3NDEsMTY0MT
 k0Mjc3NiwxMDkxNTA5NDMxXX0=
 -->
