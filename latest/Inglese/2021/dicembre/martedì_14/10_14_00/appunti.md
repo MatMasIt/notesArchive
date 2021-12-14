@@ -19,7 +19,12 @@ Structure?
 3.  the Creature tells his sad story to his creator (when they meet in the Swiss Alps)
 
 Geneva in switzerland, Ingolstadt in Germany
+
+setting is sublime
+
+first science-fiction novel
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODUxNjQ1NDQsNjUxNjczODM2LC0xMD
+eyJoaXN0b3J5IjpbLTE5NzU1NTQ2ODYsNjUxNjczODM2LC0xMD
 I2NDc1ODI1XX0=
 -->
