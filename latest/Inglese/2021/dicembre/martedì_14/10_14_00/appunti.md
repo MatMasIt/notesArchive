@@ -49,10 +49,13 @@ dr. Victor Frankestein tells Walton the story, which he writes to her sister in 
 4. the creature tells its story to the scientist
 5. the scientist runs away
 6. all of the murders  (most of Frankestein's family is killed)
-7. victor goes on a hunt for the creature
+7. victor goes on a hunt for the creature (they actually both are searching each other and want to kill each other)
 8. he meets Walton at the north pole
+
+
+the creature has no name
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjkwMDAzNiwyMTQzODA4MTM2LDE5Nj
-czNzM0MzMsLTE5NzU1NTQ2ODYsNjUxNjczODM2LC0xMDI2NDc1
-ODI1XX0=
+eyJoaXN0b3J5IjpbLTE5NDc5NjQwMTksMjE0MzgwODEzNiwxOT
+Y3MzczNDMzLC0xOTc1NTU0Njg2LDY1MTY3MzgzNiwtMTAyNjQ3
+NTgyNV19
 -->
