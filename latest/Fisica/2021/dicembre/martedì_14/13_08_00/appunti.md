@@ -52,10 +52,10 @@ U=\sum^{R_A}{\infin}F_i\cdot \Deltax
 $$
 
 $$
-U=
+U=\int_\infin^{r_A}Fdx
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDYyMjI2MCwtMjY4OTAxODQzLC0xNz
-MyOTMyODIxLDE2MTg3NjgzMjNdfQ==
+eyJoaXN0b3J5IjpbLTE0NjU3MjA5MDYsLTI2ODkwMTg0MywtMT
+czMjkzMjgyMSwxNjE4NzY4MzIzXX0=
 -->
