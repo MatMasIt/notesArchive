@@ -31,6 +31,15 @@ $$
 
 $$-\frac32(e^5-1)=-221V
 $$
+
+
+----
+
+
+Caso Gravitazionale
+
+
+Energia potenziale gravitazionale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDAyNTQ2MzMsMTYxODc2ODMyM119
+eyJoaXN0b3J5IjpbLTE3MzI5MzI4MjEsMTYxODc2ODMyM119
 -->
