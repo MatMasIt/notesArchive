@@ -47,8 +47,15 @@ energia minore
 arriva a 0 a $d=\infin$
 
 
+$$
+U=\sum^{R_A}{\infin}F_i\cdot \Deltax
+$$
+
+$$
+U=
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODkwMTg0MywtMTczMjkzMjgyMSwxNj
-E4NzY4MzIzXX0=
+eyJoaXN0b3J5IjpbMTAzNDYyMjI2MCwtMjY4OTAxODQzLC0xNz
+MyOTMyODIxLDE2MTg3NjgzMjNdfQ==
 -->
