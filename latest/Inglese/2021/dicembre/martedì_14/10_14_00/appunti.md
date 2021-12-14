@@ -43,9 +43,16 @@ north pole, they meet
 
 dr. Victor Frankestein tells Walton the story, which he writes to her sister in letters
 
-1. frank 
+1. frankestein creates the creature
+2. he rejects it
+3. after one year they meet in the alps, were the creature is trying to meet its  creator
+4. the creature tells its story to the scientist
+5. the scientist runs away
+6. all of the murders  (most of Frankestein's family is killed)
+7. victor goes on a hunt for the creature
+8. he meets Walton at the north pole
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODIxODUyOSwyMTQzODA4MTM2LDE5Nj
+eyJoaXN0b3J5IjpbLTg1NjkwMDAzNiwyMTQzODA4MTM2LDE5Nj
 czNzM0MzMsLTE5NzU1NTQ2ODYsNjUxNjczODM2LC0xMDI2NDc1
 ODI1XX0=
 -->
