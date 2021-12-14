@@ -17,6 +17,8 @@ Structure?
 2.  Victor Frankenstein (young Swiss scientist,- Ingolstadt University) tells his misadventures and tragic tale to Walton (when he's found by his ship in the land of ice)
     
 3.  the Creature tells his sad story to his creator (when they meet in the Swiss Alps)
+
+Geneva, Frankenstein's city
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjY0NzU4MjVdfQ==
+eyJoaXN0b3J5IjpbNjUxNjczODM2LC0xMDI2NDc1ODI1XX0=
 -->
