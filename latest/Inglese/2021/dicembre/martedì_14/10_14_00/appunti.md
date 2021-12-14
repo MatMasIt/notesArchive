@@ -31,8 +31,14 @@ swiss alps
 theme of the limits of scientific research
 
 
-Le
+Letters to the siste's mother 
+
+Capitam Walton
+
+during the voyage to the north pole
+
+Walton
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY1Mzk4LDE5NjczNzM0MzMsLTE5Nz
-U1NTQ2ODYsNjUxNjczODM2LC0xMDI2NDc1ODI1XX0=
+eyJoaXN0b3J5IjpbLTE3MDYzMzYyMTAsMTk2NzM3MzQzMywtMT
+k3NTU1NDY4Niw2NTE2NzM4MzYsLTEwMjY0NzU4MjVdfQ==
 -->
