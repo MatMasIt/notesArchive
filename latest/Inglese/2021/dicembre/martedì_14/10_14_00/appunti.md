@@ -37,8 +37,12 @@ Capitam Walton
 
 during the voyage to the north pole
 
-Walton
+Walton rescues dr VIctor Frankestein from the ices, where he is stuck
+
+north pole, they meet
+
+dr. Victor Frankestein tells Walton the story, which he writes to her sister in letters
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDYzMzYyMTAsMTk2NzM3MzQzMywtMT
-k3NTU1NDY4Niw2NTE2NzM4MzYsLTEwMjY0NzU4MjVdfQ==
+eyJoaXN0b3J5IjpbMjE0MzgwODEzNiwxOTY3MzczNDMzLC0xOT
+c1NTU0Njg2LDY1MTY3MzgzNiwtMTAyNjQ3NTgyNV19
 -->
