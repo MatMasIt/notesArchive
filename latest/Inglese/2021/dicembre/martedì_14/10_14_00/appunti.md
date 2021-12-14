@@ -24,7 +24,8 @@ setting is sublime
 
 first science-fiction novel
 
+isntil the spark of life to th corpses
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU1NTQ2ODYsNjUxNjczODM2LC0xMD
-I2NDc1ODI1XX0=
+eyJoaXN0b3J5IjpbODYyOTI1NTMwLC0xOTc1NTU0Njg2LDY1MT
+Y3MzgzNiwtMTAyNjQ3NTgyNV19
 -->
