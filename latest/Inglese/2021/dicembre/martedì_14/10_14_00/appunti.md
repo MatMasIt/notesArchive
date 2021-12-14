@@ -42,7 +42,10 @@ Walton rescues dr VIctor Frankestein from the ices, where he is stuck
 north pole, they meet
 
 dr. Victor Frankestein tells Walton the story, which he writes to her sister in letters
+
+1. frank 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzgwODEzNiwxOTY3MzczNDMzLC0xOT
-c1NTU0Njg2LDY1MTY3MzgzNiwtMTAyNjQ3NTgyNV19
+eyJoaXN0b3J5IjpbLTU3ODIxODUyOSwyMTQzODA4MTM2LDE5Nj
+czNzM0MzMsLTE5NzU1NTQ2ODYsNjUxNjczODM2LC0xMDI2NDc1
+ODI1XX0=
 -->
