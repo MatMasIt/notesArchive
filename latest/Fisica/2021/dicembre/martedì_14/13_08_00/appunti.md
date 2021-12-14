@@ -40,6 +40,9 @@ Caso Gravitazionale
 
 
 Energia potenziale gravitazionale
+
+Pi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI5MzI4MjEsMTYxODc2ODMyM119
+eyJoaXN0b3J5IjpbMjA0NzIxMjIzOCwtMTczMjkzMjgyMSwxNj
+E4NzY4MzIzXX0=
 -->
