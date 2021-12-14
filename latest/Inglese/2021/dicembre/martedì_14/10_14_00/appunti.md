@@ -18,7 +18,8 @@ Structure?
     
 3.  the Creature tells his sad story to his creator (when they meet in the Swiss Alps)
 
-Geneva, Frankenstein's city
+Geneva in switzerland, Ingolstadt in Germany
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxNjczODM2LC0xMDI2NDc1ODI1XX0=
+eyJoaXN0b3J5IjpbLTIwODUxNjQ1NDQsNjUxNjczODM2LC0xMD
+I2NDc1ODI1XX0=
 -->
