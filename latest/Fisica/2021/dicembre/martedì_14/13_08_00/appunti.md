@@ -22,6 +22,15 @@ $$
 $$
 V(x)=-E'(x)\cdot \Delta x
 $$
+
+
+
+$$
+v(x)=-\frac32\int_0^5e^xdx=-\frac32(e^5-e^0)=
+$$
+
+$$-\frac32(e^5-1)=-221V
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0MDg0NDAwLDE2MTg3NjgzMjNdfQ==
+eyJoaXN0b3J5IjpbLTE3NDAyNTQ2MzMsMTYxODc2ODMyM119
 -->
