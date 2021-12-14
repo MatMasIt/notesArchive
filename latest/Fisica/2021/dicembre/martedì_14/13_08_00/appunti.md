@@ -41,8 +41,14 @@ Caso Gravitazionale
 
 Energia potenziale gravitazionale
 
-Pi
+Più lontano forza minore
+energia minore
+
+arriva a 0 a $d=\infin$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzIxMjIzOCwtMTczMjkzMjgyMSwxNj
+eyJoaXN0b3J5IjpbLTI2ODkwMTg0MywtMTczMjkzMjgyMSwxNj
 E4NzY4MzIzXX0=
 -->
