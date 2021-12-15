@@ -63,6 +63,13 @@ $$
 $$
 y''=-\frac{1}{(1+x)^2}
 $$
+
+---
+
+
+$$
+\ln(1+x)=x
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4MjM3ODg0LDkxMTQ4MDE4NV19
+eyJoaXN0b3J5IjpbLTEwMzQxMjk1MjEsOTExNDgwMTg1XX0=
 -->
