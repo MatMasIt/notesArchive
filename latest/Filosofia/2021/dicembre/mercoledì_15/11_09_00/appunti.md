@@ -16,6 +16,19 @@ legislativo
 potere esecutivo deve avere uno sguardo molto incentrato sull'attualità
 
 potere esecutivo ha l'occhio incentrato sull'attualità
+
+
+Chi ha il potere esecutivo può essere tentato di avere controllo su attività legislativa
+
+
+
+L'esecutivo va distinto
+
+
+
+potere limitato dalle norme stabilite sa un altro soggeto 
+
+altrimenti il governo potrebbe avvantaggiarsi con le leggi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDUwNTA3OV19
+eyJoaXN0b3J5IjpbLTM5Nzk0OTYwMV19
 -->
