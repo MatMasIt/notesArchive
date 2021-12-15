@@ -55,6 +55,9 @@ circoscrizione estero
 400 membri, 8 dall'estero
 
 200 membri senato, 4 all'estero
+
+
+bicameralismo perfetto recentemente molte proposte di superamento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDIzMjQ4NV19
+eyJoaXN0b3J5IjpbMTY1NTY2OTk4MCwxOTcwMjMyNDg1XX0=
 -->
