@@ -14,6 +14,10 @@ $$
 $$
 \lim_{t\to 0}\frac{\sin [10\pi(1+t)]}{\sin [5\pi(1+t)]}
 $$
+
+$$
+\xrightarrow[\sin [5\pi(1+t)]]{\sin [10\pi(1+t)]\approx 10\pi}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MzY2OTUyXX0=
+eyJoaXN0b3J5IjpbLTc1MDY3MzgzNV19
 -->
