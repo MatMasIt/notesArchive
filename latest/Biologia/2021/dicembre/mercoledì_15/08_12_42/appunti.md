@@ -12,7 +12,9 @@ RNA messaggero: insieme di triplette
 tansposoni
 
 taglio con enzimi di restrizione e incollo con ligasi
+
+trasposon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDIyMjMwLC03OTY0OTMyNTEsMTE3ND
-AxNzM5OSwtMjA0OTA4MjkzNF19
+eyJoaXN0b3J5IjpbLTEwNDk3MTYwMzMsMTk0NDIyMjMwLC03OT
+Y0OTMyNTEsMTE3NDAxNzM5OSwtMjA0OTA4MjkzNF19
 -->
