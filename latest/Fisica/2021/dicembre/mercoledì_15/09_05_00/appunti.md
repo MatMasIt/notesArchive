@@ -35,8 +35,12 @@ $$
 $$
 V_A(r)=-G\frac{Mm}{r}
 $$
-> Lavoro energia gravitazionale che rappresenta il lavoro necessario per portare la massa di prova dall'infinito fino ad una distanza R dalla massa che genera il ca,po
+> Lavoro energia gravitazionale che rappresenta il lavoro necessario per portare la massa di prova dall'infinito fino ad una distanza R dalla massa che genera il campo
+
+Caso elettrico
+
+dipende dal segno della carica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDU3MjAyOCwxOTg3NTI2NjI4LC0xMT
-Q0NTY3ODIzXX0=
+eyJoaXN0b3J5IjpbLTgyNjc2MTA4OSwxNzM0NTcyMDI4LDE5OD
+c1MjY2MjgsLTExNDQ1Njc4MjNdfQ==
 -->
