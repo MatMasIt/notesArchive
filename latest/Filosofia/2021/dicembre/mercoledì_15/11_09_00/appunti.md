@@ -67,7 +67,10 @@ art 78
 i membri del parlamento non possono essere chiamati a rispondere delle loro opinioni
 
 autorizzazione camera deputati per sottoporre membri a limitazione libertà personale
+
+
+potere del parlamento deve essere libero
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU5ODQwODQsLTE4NTE3NjQ5MSwxOT
-cwMjMyNDg1XX0=
+eyJoaXN0b3J5IjpbLTc4MzcxMzkxMSwtMjAzNTk4NDA4NCwtMT
+g1MTc2NDkxLDE5NzAyMzI0ODVdfQ==
 -->
