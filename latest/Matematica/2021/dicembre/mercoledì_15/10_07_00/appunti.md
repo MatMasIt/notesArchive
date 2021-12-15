@@ -50,6 +50,19 @@ ci si ferma a $``\Big|"$ di solito
 $$
 e^x\approx 1+x
 $$
+
+---
+$$
+y=\ln(1+x)
+$$
+
+$$
+y'=\frac{1}{1+x}
+$$
+
+$$
+y''=-\frac{1}{(1+x)^2}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3MDEzMTEsOTExNDgwMTg1XX0=
+eyJoaXN0b3J5IjpbNTU4MjM3ODg0LDkxMTQ4MDE4NV19
 -->
