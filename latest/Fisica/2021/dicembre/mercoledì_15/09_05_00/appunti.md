@@ -45,9 +45,9 @@ campo entrante per carica negativa
 
 
 $$
-F_E
+F_e=k\frac{qQ}{r^2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Nzk3MjU5NywxNzM0NTcyMDI4LDE5OD
-c1MjY2MjgsLTExNDQ1Njc4MjNdfQ==
+eyJoaXN0b3J5IjpbODg4MDE1NzgzLDE3MzQ1NzIwMjgsMTk4Nz
+UyNjYyOCwtMTE0NDU2NzgyM119
 -->
