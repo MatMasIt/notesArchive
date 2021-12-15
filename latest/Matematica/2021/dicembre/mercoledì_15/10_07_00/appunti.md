@@ -18,6 +18,9 @@ $$
 $$
 \xrightarrow[\sin 5\pi(1+t) \approx 5\pi(1+t)]{\sin [10\pi(1+t)]\approx 10\pi(1+t)}
 $$
+
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExNDgwMTg1XX0=
+eyJoaXN0b3J5IjpbLTM2ODQ3NTEwMSw5MTE0ODAxODVdfQ==
 -->
