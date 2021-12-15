@@ -43,6 +43,10 @@ velocità nemica approfondimento
 
 non si può sempre usare la "carta dell'urgenza", occorre essere prudenti
 
+
+bicameralismo paritario, perfetto in italia
+
+identici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDg0NDg4MF19
+eyJoaXN0b3J5IjpbMTQ4NjUwMTc5OF19
 -->
