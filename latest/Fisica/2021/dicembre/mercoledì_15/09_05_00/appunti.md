@@ -56,9 +56,9 @@ $$
 
 
 $$
-U(r)=\int_\infin^{r_A}
+U(r)=\int_\infin^{r_A}=k|q||Q|\int_\infin^{r_A}\frac1{r?2}dr
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwNzIzMDU5LDE3MzQ1NzIwMjgsMTk4Nz
-UyNjYyOCwtMTE0NDU2NzgyM119
+eyJoaXN0b3J5IjpbLTQzMDYyMzE5LDkyMDcyMzA1OSwxNzM0NT
+cyMDI4LDE5ODc1MjY2MjgsLTExNDQ1Njc4MjNdfQ==
 -->
