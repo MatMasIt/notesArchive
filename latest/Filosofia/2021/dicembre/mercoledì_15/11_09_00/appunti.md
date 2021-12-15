@@ -48,11 +48,13 @@ bicameralismo paritario, perfetto in italia
 
 identici
 
-dalle prossime elezioni 
+dalla prossima legislatura
+
+circoscrizione estero
+
 400 membri, 8 dall'estero
 
-200 membri senato 
-
+200 membri senato, 4 all'estero
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzA3NzI5N119
+eyJoaXN0b3J5IjpbMTk3MDIzMjQ4NV19
 -->
