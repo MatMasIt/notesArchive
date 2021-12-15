@@ -12,8 +12,8 @@ $$
 
 
 $$
-\lim_{t\to 0}\frac{\sin 10\pi(1+t)>*<é
+\lim_{t\to 0}\frac{\sin [10\pi(1+t)]}{\sin [5\pi(1+t)]}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzg1NDgwNV19
+eyJoaXN0b3J5IjpbNTc3MzY2OTUyXX0=
 -->
