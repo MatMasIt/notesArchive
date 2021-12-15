@@ -11,8 +11,8 @@ RNA messaggero: insieme di triplette
 
 tansposoni
 
-taglio con enzimi di restr
+taglio con enzimi di restrizione e incollo con ligasi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM0ODU1OTYsLTc5NjQ5MzI1MSwxMT
-c0MDE3Mzk5LC0yMDQ5MDgyOTM0XX0=
+eyJoaXN0b3J5IjpbMTk0NDIyMjMwLC03OTY0OTMyNTEsMTE3ND
+AxNzM5OSwtMjA0OTA4MjkzNF19
 -->
