@@ -32,7 +32,7 @@ $$
 $$
 
 ----
-
+Sviluppi di maclaurin
 
 
 $$
@@ -45,6 +45,11 @@ e^x=+x\Big|+\frac12x^2+\frac16x^3
 $$
 
 ci si ferma a $``\Big|"$ di solito
+
+
+$$
+e^x\approx 1+x
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk4NDcwOSw5MTE0ODAxODVdfQ==
+eyJoaXN0b3J5IjpbOTQ3MDEzMTEsOTExNDgwMTg1XX0=
 -->
