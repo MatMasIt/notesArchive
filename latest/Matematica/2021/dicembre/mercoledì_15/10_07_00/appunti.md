@@ -20,7 +20,16 @@ $$
 $$
 
 
-##
+### 496
+
+
+$$
+\lim_{x\to \alpha}\frac{\sin x-\sin \alpha}{x-\alpha}=\frac{\sin \alpha-\sin \alpha}{\alpha-\alpha}=\frac00FI
+$$
+
+$$
+\lim_{t\to 0}\frac{\sin(t+\alpha)-\sin \alph
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODQ3NTEwMSw5MTE0ODAxODVdfQ==
+eyJoaXN0b3J5IjpbMTI2NjIwMzUzNyw5MTE0ODAxODVdfQ==
 -->
