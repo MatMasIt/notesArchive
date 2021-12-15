@@ -71,8 +71,10 @@ autorizzazione camera deputati per sottoporre membri a limitazione libertà pers
 
 potere del parlamento deve essere libero
 
-n
+non si riesce a dare la vita ad un esecutivo stabile: il presidente della repubblica pià sciogliere le camere
+
+mandato presidente della repubblica: 7 anni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE0OTM3OTEsLTc4MzcxMzkxMSwtMj
-AzNTk4NDA4NCwtMTg1MTc2NDkxLDE5NzAyMzI0ODVdfQ==
+eyJoaXN0b3J5IjpbNTg4OTM2NDIxLC03ODM3MTM5MTEsLTIwMz
+U5ODQwODQsLTE4NTE3NjQ5MSwxOTcwMjMyNDg1XX0=
 -->
