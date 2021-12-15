@@ -68,8 +68,8 @@ $$
 
 
 $$
-\ln(1+x)=x
+\ln(1+x)=x\Big|-\frac12x^2+x^3
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQxMjk1MjEsOTExNDgwMTg1XX0=
+eyJoaXN0b3J5IjpbLTIxMjA0NTc4MjMsOTExNDgwMTg1XX0=
 -->
