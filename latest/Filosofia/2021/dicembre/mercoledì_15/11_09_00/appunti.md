@@ -75,8 +75,10 @@ non si riesce a dare la vita ad un esecutivo stabile: il presidente della repubb
 
 mandato presidente della repubblica: 7 anni
 
-presidente della repubblica che vuole essere riconfermato
+presidente della repubblica non può sciogliere le camere nel "semestre bianco" antecedente all'elezione del presidente della repubblica
+
+ogni camera ha commissioni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ0MzkyMDgsLTc4MzcxMzkxMSwtMj
-AzNTk4NDA4NCwtMTg1MTc2NDkxLDE5NzAyMzI0ODVdfQ==
+eyJoaXN0b3J5IjpbLTg5Nzg4Mjc1OSwtNzgzNzEzOTExLC0yMD
+M1OTg0MDg0LC0xODUxNzY0OTEsMTk3MDIzMjQ4NV19
 -->
