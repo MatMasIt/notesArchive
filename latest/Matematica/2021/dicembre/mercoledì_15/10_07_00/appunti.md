@@ -3,8 +3,17 @@
 ## 480
 
 $$
-\lim_{x\to 1}\fra
+\lim_{x\to 1}\frac{\sin 10\pi x}{\sin 5 \pi x}=\frac{\sin 10 \pi}{\sin 5 \pi}=\frac00\quad FI
+$$
+
+$$
+x-1=t\implies x=t+1
+$$
+
+
+$$
+\lim_{t\to 0}\frac{\sin 10\pi(1+t)>*<é
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjU0NzA0XX0=
+eyJoaXN0b3J5IjpbLTMzMzg1NDgwNV19
 -->
