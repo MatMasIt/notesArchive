@@ -33,6 +33,12 @@ $$
 
 ----
 
+
+
+$$
+f(x)=f(0)+\frac{f'(0)x}{1!}+\frac{f''(0)}{2
+$$
+e^x
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTI4NDY1NCw5MTE0ODAxODVdfQ==
+eyJoaXN0b3J5IjpbOTk4NDA4MTc4LDkxMTQ4MDE4NV19
 -->
