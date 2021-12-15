@@ -34,6 +34,12 @@ altrimenti il governo potrebbe avvantaggiarsi con le leggi
 limiti a chi governa, che potrebbe anche usare il potere giudiziario per perseguire oppositori politici
 
 indipendenza del potere giudiziario
+
+esigenza governabilità
+
+governi veloci  a prendere decisioni
+
+velocit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzc3NzIzNl19
+eyJoaXN0b3J5IjpbMTE4Mjg1ODc3NV19
 -->
