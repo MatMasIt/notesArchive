@@ -16,8 +16,8 @@ $$
 $$
 
 $$
-\xrightarrow[\sin [5\pi(1+t)]]{\sin [10\pi(1+t)]\approx 10\pi}
+\xrightarrow[\sin 5\pi(1+t) \approx 5\pi]{\sin [10\pi(1+t)]\approx 10\pi}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDY3MzgzNV19
+eyJoaXN0b3J5IjpbLTUwNTEwMDY1N119
 -->
