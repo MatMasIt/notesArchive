@@ -76,7 +76,25 @@ $$
 ![](https://i.imgur.com/PEiv4Rx.png)
 
 
+$$
+(1+x)^k=1+kx
+$$
+
+
+---
+
+
+
+$$
+\lim_{x\to 0}\frac{(1+2x)^\frac13 -1}{e^{3x}-1}=\frac{1-1}{1-1}=\frac00FI
+$$
+
+$$
+\xrightarrow[e^{3x}\approx 1+3x]{(1+2x)^\frac13\approx1+\frac13(2x)}
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzM2NDM3OTAsMTU4NjkwNDAxNCwtMj
-EyMDQ1NzgyMyw5MTE0ODAxODVdfQ==
+eyJoaXN0b3J5IjpbLTQ4NTk3ODExMywxNTg2OTA0MDE0LC0yMT
+IwNDU3ODIzLDkxMTQ4MDE4NV19
 -->
