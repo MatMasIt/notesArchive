@@ -74,7 +74,9 @@ potere del parlamento deve essere libero
 non si riesce a dare la vita ad un esecutivo stabile: il presidente della repubblica pià sciogliere le camere
 
 mandato presidente della repubblica: 7 anni
+
+presidente della repubblica che vuole essere riconfermato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4OTM2NDIxLC03ODM3MTM5MTEsLTIwMz
-U5ODQwODQsLTE4NTE3NjQ5MSwxOTcwMjMyNDg1XX0=
+eyJoaXN0b3J5IjpbLTEyMTQ0MzkyMDgsLTc4MzcxMzkxMSwtMj
+AzNTk4NDA4NCwtMTg1MTc2NDkxLDE5NzAyMzI0ODVdfQ==
 -->
