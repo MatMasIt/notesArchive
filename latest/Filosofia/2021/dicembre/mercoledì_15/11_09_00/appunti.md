@@ -39,7 +39,10 @@ esigenza governabilità
 
 governi veloci  a prendere decisioni
 
-velocit
+velocità nemica approfondimento
+
+non si può sempre usare la "carta dell'urgenza", occorre essere prudenti
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Mjg1ODc3NV19
+eyJoaXN0b3J5IjpbMTk2NDg0NDg4MF19
 -->
