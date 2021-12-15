@@ -25,9 +25,15 @@ $$
 
 
 $$
-=-G\frac{mM}{r}\Big|^{r_A}_\infin
+=-G\frac{mM}{r}\Big|^{r_A}_\infin=-\left(G\frac{mM}{r_A}-G\frac{mM}\infin\right)
 $$
+$$
+=-G\frac{mM}{r}\Big|^{r_A}_\infin=-\left(G\frac{mM}{r_A}-0)
+$$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MjM0MjUzLDE5ODc1MjY2MjgsLTExND
+eyJoaXN0b3J5IjpbNjE0Njc0MjE0LDE5ODc1MjY2MjgsLTExND
 Q1Njc4MjNdfQ==
 -->
