@@ -40,7 +40,14 @@ $$
 Caso elettrico
 
 dipende dal segno della carica
+
+campo entrante per carica negativa
+
+
+$$
+F_E
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjc2MTA4OSwxNzM0NTcyMDI4LDE5OD
+eyJoaXN0b3J5IjpbMTY0Nzk3MjU5NywxNzM0NTcyMDI4LDE5OD
 c1MjY2MjgsLTExNDQ1Njc4MjNdfQ==
 -->
