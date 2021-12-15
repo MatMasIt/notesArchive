@@ -9,6 +9,13 @@ per sancire dei diritti bisogna dividere i poteri
 
 colui che elabora le norme dovrebbe avere a cuore l'universalità delle norme
 
+Visione che riguarda il futuro e riguarda tutti
+
+legislativo
+
+potere esecutivo deve avere uno sguardo molto incentrato sull'attualità
+
+potere esecutivo ha l'occhio incentrato sull'attualità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0MTIyMTEwXX0=
+eyJoaXN0b3J5IjpbLTE0MDUwNTA3OV19
 -->
