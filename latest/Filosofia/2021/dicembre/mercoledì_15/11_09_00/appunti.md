@@ -60,6 +60,14 @@ circoscrizione estero
 bicameralismo perfetto recentemente molte proposte di superamento
 
 consente analisi approfondita
+
+art 78
+
+
+i membri del parlamento non possono essere chiamati a rispondere delle loro opinioni
+
+autorizzazione camera deputati per sottoporre membri a limitazione libertà personale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE3NjQ5MSwxOTcwMjMyNDg1XX0=
+eyJoaXN0b3J5IjpbLTIwMzU5ODQwODQsLTE4NTE3NjQ5MSwxOT
+cwMjMyNDg1XX0=
 -->
