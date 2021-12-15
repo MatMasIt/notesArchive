@@ -13,8 +13,8 @@ tansposoni
 
 taglio con enzimi di restrizione e incollo con ligasi
 
-trasposon
+trasposone interrompe sequenza gene
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDk3MTYwMzMsMTk0NDIyMjMwLC03OT
-Y0OTMyNTEsMTE3NDAxNzM5OSwtMjA0OTA4MjkzNF19
+eyJoaXN0b3J5IjpbLTEwNjM1NTcwMCwxOTQ0MjIyMzAsLTc5Nj
+Q5MzI1MSwxMTc0MDE3Mzk5LC0yMDQ5MDgyOTM0XX0=
 -->
