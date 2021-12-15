@@ -80,7 +80,9 @@ presidente della repubblica non può sciogliere le camere nel "semestre bianco" 
 ogni camera ha commissioni
 
 testo rimbalza tra le camere fino all'approvazione dello stesso testo
+
+non c'è vincolo di mandato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDg4MTEyOSwtNzgzNzEzOTExLC0yMD
+eyJoaXN0b3J5IjpbLTUxODIxMjU2NywtNzgzNzEzOTExLC0yMD
 M1OTg0MDg0LC0xODUxNzY0OTEsMTk3MDIzMjQ4NV19
 -->
