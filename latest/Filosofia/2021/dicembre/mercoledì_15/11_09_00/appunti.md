@@ -31,7 +31,9 @@ potere limitato dalle norme stabilite sa un altro soggeto
 altrimenti il governo potrebbe avvantaggiarsi con le leggi
 
 
-lim
+limiti a chi governa, che potrebbe anche usare il potere giudiziario per perseguire oppositori politici
+
+indipendenza del potere giudiziario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4MDY1ODddfQ==
+eyJoaXN0b3J5IjpbMjAyMzc3NzIzNl19
 -->
