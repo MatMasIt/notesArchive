@@ -41,7 +41,7 @@ $$
 
 
 $$
-e^x=+x\Big|+\frac12x^2+\frac16x^3
+e^x=1+x\Big|+\frac12x^2+\frac16x^3
 $$
 
 ci si ferma a $``\Big|"$ di solito
@@ -98,6 +98,6 @@ $$
 \lim_{xto0}\frac{1+\frac23x-1}{3x+1-1}=\lim_{x\to0}\frac{\frac23x}{3x}=\frac29
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA0NzkzNjYsMTU4NjkwNDAxNCwtMj
-EyMDQ1NzgyMyw5MTE0ODAxODVdfQ==
+eyJoaXN0b3J5IjpbMzcyOTg2OTU1LC0xMzcwNDc5MzY2LDE1OD
+Y5MDQwMTQsLTIxMjA0NTc4MjMsOTExNDgwMTg1XX0=
 -->
