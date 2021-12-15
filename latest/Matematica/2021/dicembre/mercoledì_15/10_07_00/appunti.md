@@ -28,8 +28,8 @@ $$
 $$
 
 $$
-\lim_{t\to 0}\frac{\sin(t+\alpha)-\sin \alph
+\lim_{t\to 0}\frac{\sin(t+\alpha)-\sin \alpha}{t}=\lim_{T\to 0}\frac{\sin t\cos \alpha+\cos t\sin\alpha-\sin\alpha}{t}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjIwMzUzNyw5MTE0ODAxODVdfQ==
+eyJoaXN0b3J5IjpbLTk4NjMwMzYwNCw5MTE0ODAxODVdfQ==
 -->
