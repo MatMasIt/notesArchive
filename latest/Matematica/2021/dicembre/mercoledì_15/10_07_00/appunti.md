@@ -67,6 +67,8 @@ $$
 ---
 
 
+
+
 $$
 \ln(1+x)=x\Big|-\frac12x^2+x^3
 $$
@@ -75,6 +77,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjkwNDAxNCwtMjEyMDQ1NzgyMyw5MT
-E0ODAxODVdfQ==
+eyJoaXN0b3J5IjpbLTEwMzM2NDM3OTAsMTU4NjkwNDAxNCwtMj
+EyMDQ1NzgyMyw5MTE0ODAxODVdfQ==
 -->
