@@ -56,13 +56,14 @@ $$
 
 
 $$
-U(r)=\int_\infin^{r_A}=k|q||Q|\int_\infin^{r_A}\frac1{r^2}dr
+U(r)=k\frac{|q|Q|}{r_A}
 $$
 
 $$
-
+U(r)=k\frac{Qq}{R_A}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjE0MDQ5MCw5MjA3MjMwNTksMTczND
-U3MjAyOCwxOTg3NTI2NjI4LC0xMTQ0NTY3ODIzXX0=
+eyJoaXN0b3J5IjpbMTk1MTc0ODk5NiwxNjkyMTQwNDkwLDkyMD
+cyMzA1OSwxNzM0NTcyMDI4LDE5ODc1MjY2MjgsLTExNDQ1Njc4
+MjNdfQ==
 -->
