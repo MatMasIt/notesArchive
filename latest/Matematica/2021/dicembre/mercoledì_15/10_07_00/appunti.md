@@ -94,7 +94,10 @@ $$
 $$
 
 
+$$
+\lim_{xto0}\frac{1+\frac23x-1}{3x+1-1}=\lim_{x\to0}\frac{\frac23x}{3x}=\frac29
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTk3ODExMywxNTg2OTA0MDE0LC0yMT
-IwNDU3ODIzLDkxMTQ4MDE4NV19
+eyJoaXN0b3J5IjpbLTEzNzA0NzkzNjYsMTU4NjkwNDAxNCwtMj
+EyMDQ1NzgyMyw5MTE0ODAxODVdfQ==
 -->
