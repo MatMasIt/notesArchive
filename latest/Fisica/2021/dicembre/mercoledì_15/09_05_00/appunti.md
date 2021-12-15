@@ -12,6 +12,10 @@ Media\space geometrica=\sqrt[n]{\prod_{k=1}^{n}x_k}
 $$
 
 
+$$
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzUyNjYyOCwtMTE0NDU2NzgyM119
+eyJoaXN0b3J5IjpbLTEzMzUwNDc4NiwxOTg3NTI2NjI4LC0xMT
+Q0NTY3ODIzXX0=
 -->
