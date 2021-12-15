@@ -2,10 +2,9 @@
 ![](https://i.imgur.com/JkpHeu5.png)
 
 
-genoma eucarioti presenta telomerià
+genoma eucarioti presenta telomeri
 
-trip
+tripletta di basi azotate codifica un amminoacido
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYyNzg5NzUsLTIwNDkwODI5MzRdfQ
-==
+eyJoaXN0b3J5IjpbMTE3NDAxNzM5OSwtMjA0OTA4MjkzNF19
 -->
