@@ -36,9 +36,15 @@ $$
 
 
 $$
-f(x)=f(0)+\frac{f'(0)x}{1!}+\frac{f''(0)}{2
+f(x)=f(0)+\frac{f'(0)x}{1!}+\frac{f''(0)}{2!}+...
 $$
-e^x
+
+
+$$
+e^x=+x\Big|+\frac12x^2+\frac16x^3
+$$
+
+ci si ferma a $``\Big|"$ di solito
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4NDA4MTc4LDkxMTQ4MDE4NV19
+eyJoaXN0b3J5IjpbLTEyMDk4NDcwOSw5MTE0ODAxODVdfQ==
 -->
