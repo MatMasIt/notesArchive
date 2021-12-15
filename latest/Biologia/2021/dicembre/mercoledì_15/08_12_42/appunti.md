@@ -8,7 +8,11 @@ tripletta di basi azotate codifica un amminoacido
 
 
 RNA messaggero: insieme di triplette
+
+tansposoni
+
+taglio con enzimi di restr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjQ5MzI1MSwxMTc0MDE3Mzk5LC0yMD
-Q5MDgyOTM0XX0=
+eyJoaXN0b3J5IjpbLTE1MTM0ODU1OTYsLTc5NjQ5MzI1MSwxMT
+c0MDE3Mzk5LC0yMDQ5MDgyOTM0XX0=
 -->
