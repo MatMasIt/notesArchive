@@ -57,6 +57,15 @@ presidente dei consiglio dirige la politca del governo
 > _guvernum_ timone in latino
 
 promuove e coordina i ministri
+
+
+al consiglio dei ministri, potrere esecutibo
+
+ma il governo può proporre leggi
+
+iniziativa di carattere legislativo
+
+decreto legge e decreto delegato  (legislati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzgxNjA4NiwtMTk2ODQ1NTIzMF19
+eyJoaXN0b3J5IjpbMTg0NzUyMDY1MywtMTk2ODQ1NTIzMF19
 -->
