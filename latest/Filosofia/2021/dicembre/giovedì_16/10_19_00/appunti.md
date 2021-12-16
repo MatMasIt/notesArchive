@@ -99,7 +99,9 @@ qualunque cittadino italiano maggiorenne
 presidente della repibbblica nomina il rpesidente del consiglio
 
 il presidente del consiglio suggerisce al presidente dalla repubblica i ministri, che il presidente della repubblica nomina
+
+nei 10 giorni i ministri devono aver giurato 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDMzMjIxMjYsLTE5Njg0NTUyMzBdfQ
+eyJoaXN0b3J5IjpbLTE3MzQyNzA2NTksLTE5Njg0NTUyMzBdfQ
 ==
 -->
