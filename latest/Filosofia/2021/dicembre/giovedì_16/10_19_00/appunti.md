@@ -65,7 +65,14 @@ ma il governo può proporre leggi
 
 iniziativa di carattere legislativo
 
-decreto legge e decreto delegato  (legislati
+decreto legge e decreto delegato  (legislativo)
+
+decreto legge:
+atto normativo con valore di legge emesso dal governo solo in caso di necessità e urgenza
+
+deve essere ratificato dal parlamento entro 60 giorni o decade
+
+de
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzUyMDY1MywtMTk2ODQ1NTIzMF19
+eyJoaXN0b3J5IjpbOTc0NDE4NDMwLC0xOTY4NDU1MjMwXX0=
 -->
