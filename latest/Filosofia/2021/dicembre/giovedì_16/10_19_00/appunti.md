@@ -77,7 +77,10 @@ decreto delegato emanato dal governo sulla base di una legge delega del parlamen
 indicazioni generali
 
 non deve essere convertito in legge
+
+il decreto potrebbe violare indicazioni del parlamento
+
+controversia che la corte costituzionale dirimerà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQ2NDk2ODEsLTE5Njg0NTUyMzBdfQ
-==
+eyJoaXN0b3J5IjpbLTgxNTc1NjE3MiwtMTk2ODQ1NTIzMF19
 -->
