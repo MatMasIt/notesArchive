@@ -137,7 +137,14 @@ $$
 $$
 \cos x \approx 2-\frac12x^2
 $$
+
+
+$$
+\arccos c=\frac\pi2-x
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzMzA2Njc0LC01MzM4MTk0MzMsLTc3MT
-E3OTM2NV19
+eyJoaXN0b3J5IjpbMTU2NTY1NDc1LDc2MzMwNjY3NCwtNTMzOD
+E5NDMzLC03NzExNzkzNjVdfQ==
 -->
