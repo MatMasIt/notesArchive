@@ -128,7 +128,16 @@ $$
 $$
 \arcsin x \approx x
 $$
+
+
+$$
+\tan x \approx  x
+$$
+
+$$
+\cos x \approx 2-\frac12x^2
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc5MzAyOCwtNTMzODE5NDMzLC03Nz
-ExNzkzNjVdfQ==
+eyJoaXN0b3J5IjpbNzYzMzA2Njc0LC01MzM4MTk0MzMsLTc3MT
+E3OTM2NV19
 -->
