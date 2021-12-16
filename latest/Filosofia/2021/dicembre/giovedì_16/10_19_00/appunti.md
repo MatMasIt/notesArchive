@@ -81,6 +81,13 @@ non deve essere convertito in legge
 il decreto potrebbe violare indicazioni del parlamento
 
 controversia che la corte costituzionale dirimerà
+
+maggioranza di parlamentari
+
+voto di fiducia dopo la nomina del governo dal presidente della repubblica
+max 10 giorni
+
+4 modi per formare governo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTc1NjE3MiwtMTk2ODQ1NTIzMF19
+eyJoaXN0b3J5IjpbODU3ODk0MzcsLTE5Njg0NTUyMzBdfQ==
 -->
