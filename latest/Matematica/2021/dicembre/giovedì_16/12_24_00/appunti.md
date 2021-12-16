@@ -89,8 +89,12 @@ $$
 $$
 
 $$
-\cosx
+\cosx \approx 1-\frac12x^2
+$$
+
+$$
+\lim_{x\to 0}\frac{2-\frac12x^2-2(1-x^2+\frac14x^4)}{x^2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzYyNjI0MywtNzcxMTc5MzY1XX0=
+eyJoaXN0b3J5IjpbMTEwMDA4MDE0MCwtNzcxMTc5MzY1XX0=
 -->
