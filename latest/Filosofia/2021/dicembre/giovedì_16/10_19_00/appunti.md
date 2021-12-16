@@ -96,7 +96,10 @@ qualunque cittadino italiano maggiorenne
 
 
 
-presidente della repibbbl
+presidente della repibbblica nomina il rpesidente del consiglio
+
+il presidente del consiglio suggerisce al presidente dalla repubblica i ministri, che il presidente della repubblica nomina
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzM1MjM0MCwtMTk2ODQ1NTIzMF19
+eyJoaXN0b3J5IjpbLTE4NDMzMjIxMjYsLTE5Njg0NTUyMzBdfQ
+==
 -->
