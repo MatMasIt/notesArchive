@@ -92,6 +92,11 @@ max 10 giorni
 presidente della repubblica avvia le consultazioni per individuare la persona a cui dare l'incarico di formare il governo
 
 qualunque cittadino italiano maggiorenne
+
+
+
+
+presidente della repibbbl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA3MDgzMSwtMTk2ODQ1NTIzMF19
+eyJoaXN0b3J5IjpbLTI3NzM1MjM0MCwtMTk2ODQ1NTIzMF19
 -->
