@@ -27,6 +27,9 @@ nel 2016 bocciato referendum per senato (che era approvato dalle camere)
 
 referendum territoriale art 132
 si da la parola ai cittadini quando si decide di fondere delle regioni o quando si vuole che dei comuni passino da una regione all'altra
+
+
+art 71 possibilità della legge di iniziativa popolare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTczMjcwODldfQ==
+eyJoaXN0b3J5IjpbLTEwMTU5MTkwMTNdfQ==
 -->
