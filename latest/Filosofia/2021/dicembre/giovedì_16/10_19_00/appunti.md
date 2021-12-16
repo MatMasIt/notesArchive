@@ -12,6 +12,14 @@ maggioranza
 non può riguardare leggi tributarie e di bilancio
 per le leggi che autorizzano a ratificare i trattati internazionali
 leggi di amnistia e di indulto
+
+
+referendum costituzionale
+
+art 138 costituzione
+
+
+refe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyMjA1NjEyXX0=
+eyJoaXN0b3J5IjpbLTEwNTk4MTU0MDNdfQ==
 -->
