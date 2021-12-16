@@ -34,8 +34,12 @@ theme of science and its responsibility to mankind
 human being cannot stop death
 
 
+her mother died when she was just ten days old
 
+she grew up without her
+
+she was obsessed  with her mother's death for all of her life
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0NzI1NTAxLDExODY1NzU2NjcsLTE0OD
-k1MDM2NTgsODY0NTI2ODg2LDIwNzY5MzU2NDVdfQ==
+eyJoaXN0b3J5IjpbLTEwMDkzNjQyMjUsMTE4NjU3NTY2NywtMT
+Q4OTUwMzY1OCw4NjQ1MjY4ODYsMjA3NjkzNTY0NV19
 -->
