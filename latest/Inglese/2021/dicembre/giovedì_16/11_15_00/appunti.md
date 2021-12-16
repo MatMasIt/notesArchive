@@ -49,9 +49,16 @@ they met in secret in the churchyard (her and percy shelley)
 She lived in lerici 
 
 
-why a
+why are prometeous and mr franhestein similar
+
+
+both challenged the divinity
+
+both beyond his limits
+
+prometous also created human beings
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MDc5OTA0LDc3Mzg5OTkzNyw5NDI4NT
-U5ODAsMTE4NjU3NTY2NywtMTQ4OTUwMzY1OCw4NjQ1MjY4ODYs
-MjA3NjkzNTY0NV19
+eyJoaXN0b3J5IjpbLTExMzcyOTY3OTcsNzczODk5OTM3LDk0Mj
+g1NTk4MCwxMTg2NTc1NjY3LC0xNDg5NTAzNjU4LDg2NDUyNjg4
+NiwyMDc2OTM1NjQ1XX0=
 -->
