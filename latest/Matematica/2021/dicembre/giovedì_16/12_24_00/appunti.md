@@ -60,6 +60,16 @@ $$
 $$
 a^x\approx1+\ln ax
 $$
+
+
+
+$$
+\lim_{t\to 0}\frac{2(2^t-1)}{t(t+8)}\xrightarrow{2^t\approx1+\ln 2t}
+$$
+
+$$
+\lim_{t\to 0}=\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDgzOTI0MF19
+eyJoaXN0b3J5IjpbLTU3NTg2OTQ0NV19
 -->
