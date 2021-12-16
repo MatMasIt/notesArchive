@@ -88,6 +88,10 @@ voto di fiducia dopo la nomina del governo dal presidente della repubblica
 max 10 giorni
 
 4 modi per formare governo
+
+presidente della repubblica avvia le consultazioni per individuare la persona a cui dare l'incarico di formare il governo
+
+qualunque cittadino italiano maggiorenne
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3ODk0MzcsLTE5Njg0NTUyMzBdfQ==
+eyJoaXN0b3J5IjpbLTE4MzA3MDgzMSwtMTk2ODQ1NTIzMF19
 -->
