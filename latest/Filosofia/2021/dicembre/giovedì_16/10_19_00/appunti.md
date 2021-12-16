@@ -19,8 +19,10 @@ referendum costituzionale
 art 138 costituzione
 
 
-se 1/5 dei membri della camera o 500'000 elettori o 5 consigli regionali fanno domanda di sottoporre la riforma della costituzione al referendum, viene sottoposto 
+se 1/5 dei membri della camera  o del senato o 500'000 elettori o 5 consigli regionali fanno domanda di sottoporre la riforma della costituzione al referendum, viene sottoposto 
 referendum indetto nel momento in cui è stata fatta una riforma della costituzione secondo procedura articolo 138
+
+nel 2016 bocciato referendum per senato (che era approvato dalle camere)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDEwNzg4MF19
+eyJoaXN0b3J5IjpbLTI3MTA4OTE0NF19
 -->
