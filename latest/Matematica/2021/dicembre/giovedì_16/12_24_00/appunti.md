@@ -16,8 +16,41 @@ $$
 $$
 
 $$
-\lim_{t\to 0}\f
+\lim_{t\to 0}\frac{2^t\cdot 2-2}{t(t+8)}
+$$
+
+$$
+\lim_{t\to 0}\frac{2(2^t-1)}{t(t+8)}
+$$
+
+maclaurin
+
+
+$$
+e^x=1+x+\frac12x^2...
+$$
+
+
+a^x
+
+
+$$
+y=a^x
+$$
+
+
+$$
+y''=a^x\ln a
+$$
+
+$$
+y''=a^x\ln^2a
+$$
+
+
+$$
+a
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2NDUzMTA4XX0=
+eyJoaXN0b3J5IjpbNjI4NDk0MzkzXX0=
 -->
