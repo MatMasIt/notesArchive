@@ -43,7 +43,20 @@ per votare senatori 25 anni
 
 
 
+---
+governo
 
+presidente del consiglio e numero variabile di ministri
+consiglio dei ministri (numero varaibile)
+
+sottosegretari aiutano ministri e fanno parte del governo
+
+art 95
+presidente dei consiglio dirige la politca del governo
+
+> _guvernum_ timone in latino
+
+promuove e coordina i ministri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1OTUzMTQ2LC0xOTY4NDU1MjMwXX0=
+eyJoaXN0b3J5IjpbMTQ0MzgxNjA4NiwtMTk2ODQ1NTIzMF19
 -->
