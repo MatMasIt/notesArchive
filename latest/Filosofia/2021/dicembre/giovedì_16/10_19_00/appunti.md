@@ -23,6 +23,10 @@ se 1/5 dei membri della camera  o del senato o 500'000 elettori o 5 consigli reg
 referendum indetto nel momento in cui è stata fatta una riforma della costituzione secondo procedura articolo 138
 
 nel 2016 bocciato referendum per senato (che era approvato dalle camere)
+
+
+referendum territoriale art 132
+si da la parola ai cittadini quando si decide di fondere delle regioni o quando si vuole che dei comuni passino da una regione all'altra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTA4OTE0NF19
+eyJoaXN0b3J5IjpbLTEyMTczMjcwODldfQ==
 -->
