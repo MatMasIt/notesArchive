@@ -45,7 +45,10 @@ she learned to read the letters on her mother's gravestone
 he went there everyday
 
 they met in secret in the churchyard (her and percy shelley)
+
+She lived in lerici 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyODU1OTgwLDExODY1NzU2NjcsLTE0OD
-k1MDM2NTgsODY0NTI2ODg2LDIwNzY5MzU2NDVdfQ==
+eyJoaXN0b3J5IjpbNzczODk5OTM3LDk0Mjg1NTk4MCwxMTg2NT
+c1NjY3LC0xNDg5NTAzNjU4LDg2NDUyNjg4NiwyMDc2OTM1NjQ1
+XX0=
 -->
