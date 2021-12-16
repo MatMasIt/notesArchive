@@ -78,6 +78,15 @@ $$
 
 
 numero piccolo al quadrato trascurabile
+
+
+
+-----
+560
+
+$$
+\lim_{x \to 0}\frac{1+\cos x-2\cos ^2 x}{x^2}=\frac{1+1-2}{0}=\frac00\quad FI
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTE3OTM2NV19
+eyJoaXN0b3J5IjpbMTg4ODM2ODYwLC03NzExNzkzNjVdfQ==
 -->
