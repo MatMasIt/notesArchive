@@ -44,8 +44,8 @@ she learned to read the letters on her mother's gravestone
 
 he went there everyday
 
-they met in secret in the churchyard (her and percy shelley
+they met in secret in the churchyard (her and percy shelley)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Nzc3NjEyNywxMTg2NTc1NjY3LC0xND
-g5NTAzNjU4LDg2NDUyNjg4NiwyMDc2OTM1NjQ1XX0=
+eyJoaXN0b3J5IjpbOTQyODU1OTgwLDExODY1NzU2NjcsLTE0OD
+k1MDM2NTgsODY0NTI2ODg2LDIwNzY5MzU2NDVdfQ==
 -->
