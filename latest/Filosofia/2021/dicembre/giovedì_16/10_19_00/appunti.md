@@ -29,7 +29,11 @@ referendum territoriale art 132
 si da la parola ai cittadini quando si decide di fondere delle regioni o quando si vuole che dei comuni passino da una regione all'altra
 
 
-art 71 possibilità della legge di iniziativa popolare
+art 71 possibilità della legge di iniziativa popolare (50'000 elettori)
+progetto di legge
+
+
+25 anni per 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU5MTkwMTNdfQ==
+eyJoaXN0b3J5IjpbMTI0OTU3NDM5MV19
 -->
