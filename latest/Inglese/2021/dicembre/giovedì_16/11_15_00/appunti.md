@@ -32,7 +32,10 @@ dedicated the novel to him
 theme of science and its responsibility to mankind
 
 human being cannot stop death
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjU3NTY2NywtMTQ4OTUwMzY1OCw4Nj
-Q1MjY4ODYsMjA3NjkzNTY0NV19
+eyJoaXN0b3J5IjpbNDg0NzI1NTAxLDExODY1NzU2NjcsLTE0OD
+k1MDM2NTgsODY0NTI2ODg2LDIwNzY5MzU2NDVdfQ==
 -->
