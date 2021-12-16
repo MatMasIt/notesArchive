@@ -14,9 +14,13 @@ investigation on the mistery of creation is a bit going against the rules (anarc
 
 blake, coleridge often visited her house
 
-romantico poet, Percy 
+romantico poet, Percy SHelley, became her husband
+
+he was also interested inchemistry, science
+
+he had a great influence on mary shelley
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDMyMTIzNCw4NjQ1MjY4ODYsMjA3Nj
-kzNTY0NV19
+eyJoaXN0b3J5IjpbLTE2OTU2OTM1NjksODY0NTI2ODg2LDIwNz
+Y5MzU2NDVdfQ==
 -->
