@@ -96,10 +96,19 @@ $$
 \lim_{x\to 0}\frac{2-\frac12x^2-2(1-x^2+\frac14x^4)}{x^2}
 $$
 
-$x^4$ trascurabileù
+$x^4$ trascurabile
 
 
+---
+
+
+### 574
+
+
+$$
+\lim_{x\to o^+}\frac{\tan2x}{4|x|-x}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc1MDcxMDQsLTUzMzgxOTQzMywtNz
+eyJoaXN0b3J5IjpbLTE2MjIyNDcwMzksLTUzMzgxOTQzMywtNz
 cxMTc5MzY1XX0=
 -->
