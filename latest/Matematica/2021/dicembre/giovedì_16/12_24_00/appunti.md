@@ -108,7 +108,11 @@ $x^4$ trascurabile
 $$
 \lim_{x\to o^+}\frac{\tan2x}{4|x|-x}
 $$
+
+$$
+\lim\frac{2x}{4x-x}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjIyNDcwMzksLTUzMzgxOTQzMywtNz
-cxMTc5MzY1XX0=
+eyJoaXN0b3J5IjpbNzM3MjM0MDIsLTUzMzgxOTQzMywtNzcxMT
+c5MzY1XX0=
 -->
