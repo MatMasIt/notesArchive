@@ -68,8 +68,16 @@ $$
 $$
 
 $$
-\lim_{t\to 0}=\
+\lim_{t\to 0}=\frac{2(\cancel 1 +\ln 2 t- \cancel 1)}{t^2+8t}
 $$
+
+
+$$
+\xrightarrow[t^2=o(t)]{}\lim_{t\to 0}\frac{2\ln 2 t}{8t}
+$$
+
+
+numero piccolo al quadrato trascurabile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTg2OTQ0NV19
+eyJoaXN0b3J5IjpbLTc3MTE3OTM2NV19
 -->
