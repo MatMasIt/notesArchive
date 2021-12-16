@@ -49,8 +49,17 @@ $$
 
 
 $$
-a
+a^x=f(0)+f'(0)x+
+$$
+
+
+$$
+a^x=1+\ln ax+\frac{\ln^2a}{2}x^2
+$$
+
+$$
+a^x\approx1+\ln ax
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4NDk0MzkzXX0=
+eyJoaXN0b3J5IjpbLTQ2NDgzOTI0MF19
 -->
