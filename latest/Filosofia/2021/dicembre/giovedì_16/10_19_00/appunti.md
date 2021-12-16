@@ -72,7 +72,12 @@ atto normativo con valore di legge emesso dal governo solo in caso di necessità
 
 deve essere ratificato dal parlamento entro 60 giorni o decade
 
-de
+decreto delegato emanato dal governo sulla base di una legge delega del parlamento
+
+indicazioni generali
+
+non deve essere convertito in legge
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0NDE4NDMwLC0xOTY4NDU1MjMwXX0=
+eyJoaXN0b3J5IjpbLTE3MDQ2NDk2ODEsLTE5Njg0NTUyMzBdfQ
+==
 -->
