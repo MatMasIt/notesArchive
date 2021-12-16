@@ -33,7 +33,13 @@ art 71 possibilità della legge di iniziativa popolare (50'000 elettori)
 progetto di legge
 
 
-25 anni per 
+25 anni per diventare deputati
+40 anni per diventare senatori
+
+per votare deputati 18 anni
+per votare senatori 25 anni
+
+50 anni per presidente della repubblica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTU3NDM5MV19
+eyJoaXN0b3J5IjpbLTE5Njg0NTUyMzBdfQ==
 -->
