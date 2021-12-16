@@ -112,7 +112,23 @@ $$
 $$
 \lim\frac{2x}{4x-x}
 $$
+
+
+---
+
+In verifica
+
+sviluppi di maclaurin
+
+
+$$
+\sin x \approx x
+$$
+
+$$
+\arcsin x \approx x
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3MjM0MDIsLTUzMzgxOTQzMywtNzcxMT
-c5MzY1XX0=
+eyJoaXN0b3J5IjpbLTE4ODc5MzAyOCwtNTMzODE5NDMzLC03Nz
+ExNzkzNjVdfQ==
 -->
