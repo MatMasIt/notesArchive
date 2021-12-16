@@ -39,7 +39,13 @@ her mother died when she was just ten days old
 she grew up without her
 
 she was obsessed  with her mother's death for all of her life
+
+she learned to read the letters on her mother's gravestone
+
+he went there everyday
+
+they met in secret in the churchyard (her and percy shelley
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDkzNjQyMjUsMTE4NjU3NTY2NywtMT
-Q4OTUwMzY1OCw4NjQ1MjY4ODYsMjA3NjkzNTY0NV19
+eyJoaXN0b3J5IjpbMjA2Nzc3NjEyNywxMTg2NTc1NjY3LC0xND
+g5NTAzNjU4LDg2NDUyNjg4NiwyMDc2OTM1NjQ1XX0=
 -->
