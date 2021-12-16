@@ -95,6 +95,8 @@ $$
 $$
 \lim_{x\to 0}\frac{2-\frac12x^2-2(1-x^2+\frac14x^4)}{x^2}
 $$
+
+$x^4$ trascurabile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0NDA2MDk4LC03NzExNzkzNjVdfQ==
+eyJoaXN0b3J5IjpbLTUzMzgxOTQzMywtNzcxMTc5MzY1XX0=
 -->
