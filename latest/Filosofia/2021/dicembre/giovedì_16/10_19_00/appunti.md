@@ -101,7 +101,15 @@ presidente della repibbblica nomina il rpesidente del consiglio
 il presidente del consiglio suggerisce al presidente dalla repubblica i ministri, che il presidente della repubblica nomina
 
 nei 10 giorni i ministri devono aver giurato 
+
+se non la ottiene viene di nuovo nominato un altro
+
+
+
+potere giudiziario
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQyNzA2NTksLTE5Njg0NTUyMzBdfQ
-==
+eyJoaXN0b3J5IjpbMTM2NzUyNTc5MywtMTk2ODQ1NTIzMF19
 -->
