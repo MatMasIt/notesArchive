@@ -19,7 +19,8 @@ referendum costituzionale
 art 138 costituzione
 
 
-refe
+se 1/5 dei membri della camera o 500'000 elettori o 5 consigli regionali fanno domanda di sottoporre la riforma della costituzione al referendum, viene sottoposto 
+referendum indetto nel momento in cui è stata fatta una riforma della costituzione secondo procedura articolo 138
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk4MTU0MDNdfQ==
+eyJoaXN0b3J5IjpbMTkzMDEwNzg4MF19
 -->
