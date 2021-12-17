@@ -32,6 +32,22 @@ il parlamento può rimandarla al presidente, che è costretto a firmarle
 
 
 se un giudice che deve applicare la legge la ritiene incostituzionale rimanda il giudizio alla coorte costituzionale 
+
+
+coorte costituzionale 
+
+15 giudici scelti tra
+magistrati
+docenti universitari di materie giuridiche
+avvocati
+
+nominati
+
+1/3 presidente repubblica
+1/3 parlamento in seduta comune
+1/3 dalle supreme magistrature ordinaria e amministrativa (coorte di cassazione, etc)
+
+9 anni 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTc0NjM0Nyw2ODQ4MjU2NDBdfQ==
+eyJoaXN0b3J5IjpbLTUxMDY0NDkzMyw2ODQ4MjU2NDBdfQ==
 -->
