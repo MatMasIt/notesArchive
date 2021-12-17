@@ -4,8 +4,8 @@
 
 Consiglio superiore della magistratura presieduto dal presidente cella repubblica, ma normalmente il csm viene guidato nei suoi lavori effettivi dal vicepresidente del csm
 
-membri csm 2/3 eletti dai magistrati
-1/3 del parlamento
+membri csm 2/3 eletti dai magistrati [membri togati]
+1/3 del parlamento [membri laici: prof universitari di materie giuridiche o avvocati con almeno 15 anni di attività]
 
 solo il csm può disporre il trasferimento dei giudici
 
@@ -21,5 +21,5 @@ magistrato competente per area, che deve intervenire
 
 nessuno può essere consegnato a giudice pregiudizialmente ostile o favorevole
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzNzUzMDYwXX0=
+eyJoaXN0b3J5IjpbLTc2NjgyNTYyN119
 -->
