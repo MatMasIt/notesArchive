@@ -25,6 +25,10 @@ nessuno può essere consegnato a giudice pregiudizialmente ostile o favorevole
 
 
 coort costituzionale e presidente della repubblica: garanti della costituzione
+
+il presidente della repubblica può rimandare la legge al parlamento se secondo lui è incostituzionale
+
+il parlamento può rimandarla al presidente, che è costretto a firmarle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0ODI1NjQwXX0=
+eyJoaXN0b3J5IjpbMTk1Nzg4OTAzNyw2ODQ4MjU2NDBdfQ==
 -->
