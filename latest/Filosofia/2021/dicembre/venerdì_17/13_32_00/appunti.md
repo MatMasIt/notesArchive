@@ -20,6 +20,11 @@ magistrato competente per area, che deve intervenire
 
 
 nessuno può essere consegnato a giudice pregiudizialmente ostile o favorevole
+
+
+
+
+coort costituzionale e presidente della repubblica: garanti della costituzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjgyNTYyN119
+eyJoaXN0b3J5IjpbNjg0ODI1NjQwXX0=
 -->
