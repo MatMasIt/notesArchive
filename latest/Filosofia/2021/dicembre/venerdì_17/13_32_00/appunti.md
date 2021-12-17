@@ -47,7 +47,14 @@ nominati
 1/3 parlamento in seduta comune
 1/3 dalle supreme magistrature ordinaria e amministrativa (coorte di cassazione, etc)
 
-9 anni 
+mandato 9 anni e non si può ripetere
+
+giudizio definitivo sulla costituzionalità della legge
+
+
+la coorte costituzionale abroga una legge se la ritiene incostituzionale
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDY0NDkzMyw2ODQ4MjU2NDBdfQ==
+eyJoaXN0b3J5IjpbLTExOTc4NzcxMzgsNjg0ODI1NjQwXX0=
 -->
