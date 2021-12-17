@@ -29,6 +29,9 @@ coort costituzionale e presidente della repubblica: garanti della costituzione
 il presidente della repubblica può rimandare la legge al parlamento se secondo lui è incostituzionale
 
 il parlamento può rimandarla al presidente, che è costretto a firmarle
+
+
+se un giudice che deve applicare la legge la ritiene incostituzionale rimanda il giudizio alla coorte costituzionale 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Nzg4OTAzNyw2ODQ4MjU2NDBdfQ==
+eyJoaXN0b3J5IjpbLTMyOTc0NjM0Nyw2ODQ4MjU2NDBdfQ==
 -->
