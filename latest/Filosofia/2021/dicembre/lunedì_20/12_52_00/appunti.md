@@ -6,7 +6,22 @@ confederazione germanica, 39 territori
 
 contiene anche porzioni di impero asburgico e regno di prussia (entrambi che si estendono fuori alla confederazione)
 
-conferenza di 
+conferenza di vienna: Impero asburgico più potente di regno di prussia
+
+
+
+La prussia ha compiuto l'operazione
+
+conquista dall'alto, azione militare di monarchia e esercito
+
+
+
+no sollevazione popolare,unificazione militare "dall'alto"
+
+
+Costituzione nel 1834 della unione doganale (nella confederazione germanica)
+
+Le
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTk4MDUxNV19
+eyJoaXN0b3J5IjpbLTc3MTgzOTAwNF19
 -->
