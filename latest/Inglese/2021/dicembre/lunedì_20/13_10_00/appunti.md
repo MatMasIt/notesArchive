@@ -16,9 +16,12 @@ both want to reach beyond the limits
 Meaning: ignorance carries more happiness than the endless and infinite pursuit of knowledge
 
 
-Warning to Walton
+Warning to Walton, so that he learns from his errors
 
 Frankestein realizes his pursuit was wrong and it lead to a tragedy
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjYyNjE0OSwtMTU5NjQ4MzQxXX0=
+eyJoaXN0b3J5IjpbMTQzNjg3ODc0MywtMTU5NjQ4MzQxXX0=
 -->
