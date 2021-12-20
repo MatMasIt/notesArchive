@@ -21,7 +21,10 @@ no sollevazione popolare,unificazione militare "dall'alto"
 
 Costituzione nel 1834 della unione doganale (nella confederazione germanica)
 
-Le
+Lega doganale nella quale la prussia entra, e l'austria no
+
+
+p. 420
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTgzOTAwNF19
+eyJoaXN0b3J5IjpbMTc3OTYyNDk5N119
 -->
