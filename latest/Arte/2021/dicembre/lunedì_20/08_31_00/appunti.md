@@ -13,6 +13,15 @@ p. 1015
 
 
 studi sulla luce dei fisici
+
+
+Fisità delle figure
+
+
+puntinismo
+
+
+effetto vaporoso delle chiome degli alberi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzkzMTIwN119
+eyJoaXN0b3J5IjpbMjY4NTM2NzU5XX0=
 -->
