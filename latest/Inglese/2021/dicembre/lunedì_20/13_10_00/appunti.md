@@ -20,8 +20,10 @@ Warning to Walton, so that he learns from his errors
 
 Frankestein realizes his pursuit was wrong and it lead to a tragedy
 
-
+Frankestein and creature ae counterparts
+Both of them guilty and innocent at the same time
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjg3ODc0MywtMTU5NjQ4MzQxXX0=
+eyJoaXN0b3J5IjpbLTE1MTczOTU2ODcsMTQzNjg3ODc0MywtMT
+U5NjQ4MzQxXX0=
 -->
