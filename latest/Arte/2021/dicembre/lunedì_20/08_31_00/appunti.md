@@ -7,6 +7,12 @@ innovazione tecnologica
 inizio sindacati, lotte di classi
 
 positivisti vs avversatori del progresso
+
+
+p. 1015
+
+
+studi sulla luce dei fisici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODE4Mzk5Ml19
+eyJoaXN0b3J5IjpbLTk4NzkzMTIwN119
 -->
