@@ -24,15 +24,17 @@ Frankestein and creature ae counterparts
 Both of them guilty and innocent at the same time
 
 
-Frankestein: goof intentions
+Frankestein: good intentions
 Guilty of
 * pride (overreaching)
 * prejudice (to otherness)
 * hatred/revenge
 
 
+Creature: guilty
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzYzNzIxOSwxNDM2ODc4NzQzLC0xNT
-k2NDgzNDFdfQ==
+eyJoaXN0b3J5IjpbNTcxNjQyMTc2LDE0MzY4Nzg3NDMsLTE1OT
+Y0ODM0MV19
 -->
