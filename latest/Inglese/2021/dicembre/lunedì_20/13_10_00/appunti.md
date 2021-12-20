@@ -23,7 +23,16 @@ Frankestein realizes his pursuit was wrong and it lead to a tragedy
 Frankestein and creature ae counterparts
 Both of them guilty and innocent at the same time
 
+
+Frankestein: goof intentions
+Guilty of
+* pride (overreaching)
+* prejudice (to otherness)
+* hatred/revenge
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTczOTU2ODcsMTQzNjg3ODc0MywtMT
-U5NjQ4MzQxXX0=
+eyJoaXN0b3J5IjpbLTQwMzYzNzIxOSwxNDM2ODc4NzQzLC0xNT
+k2NDgzNDFdfQ==
 -->
