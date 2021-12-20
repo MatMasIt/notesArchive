@@ -36,14 +36,17 @@ Guilty of
 Creature: 
 Innovent:
 primitive creature brouught to life without being asked;  he's innocent, sentive to nature/music
-looking for company (friends, wants a female compaion)
+looking for company (friends, wants a female companion [asks to the dr n the apls to create one])
 intelligent and naturally good
 Guilty:
 Revenge/hatred
 becomes a killer
 
 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjU0ODE4NCwxNDM2ODc4NzQzLC0xNT
-k2NDgzNDFdfQ==
+eyJoaXN0b3J5IjpbLTE1Nzk1OTQ2MDgsMTA4NjU0ODE4NCwxND
+M2ODc4NzQzLC0xNTk2NDgzNDFdfQ==
 -->
