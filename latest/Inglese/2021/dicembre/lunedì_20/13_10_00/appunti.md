@@ -24,17 +24,26 @@ Frankestein and creature ae counterparts
 Both of them guilty and innocent at the same time
 
 
-Frankestein: good intentions
+Frankestein:
+Innocent:
+ good intentions
 Guilty of
 * pride (overreaching)
 * prejudice (to otherness)
 * hatred/revenge
 
 
-Creature: guilty
+Creature: 
+Innovent:
+primitive creature brouught to life without being asked;  he's innocent, sentive to nature/music
+looking for company (friends, wants a female compaion)
+intelligent and naturally good
+Guilty:
+Revenge/hatred
+becomes a killer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxNjQyMTc2LDE0MzY4Nzg3NDMsLTE1OT
-Y0ODM0MV19
+eyJoaXN0b3J5IjpbMTA4NjU0ODE4NCwxNDM2ODc4NzQzLC0xNT
+k2NDgzNDFdfQ==
 -->
