@@ -15,6 +15,18 @@ $$
 $$
 \lim_{x\to \infin}\left(1-\frac\pi{x}\right)^{3x}
 $$
+
+$$
+-\frac{\pi}{x}=1\frac1{t}
+$$
+
+$$
+-\frac{x}\pi=t
+$$
+
+$$
+\lim
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI0NDQ3OTRdfQ==
+eyJoaXN0b3J5IjpbLTEzNzA2NjgyMDBdfQ==
 -->
