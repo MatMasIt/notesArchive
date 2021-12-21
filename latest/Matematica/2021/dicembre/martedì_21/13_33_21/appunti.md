@@ -25,8 +25,8 @@ $$
 $$
 
 $$
-\lim
+\lim_{t\to \infin}\left(1+\frac1{t}\right)^{3\pi t}=\left[\lim _{t\to \infin}l\left(1+\frac1{t}\right)^t\right]^{-3\pi}=e^{-3\pi}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA2NjgyMDBdfQ==
+eyJoaXN0b3J5IjpbMTI3ODk4MzA2XX0=
 -->
