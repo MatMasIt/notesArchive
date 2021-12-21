@@ -8,6 +8,13 @@ $$
 $$
 \lim_{x\to \infin}\left(1+x\right)^{\frac1x}
 $$
+
+
+
+
+$$
+\lim_{x\to \infin}\left(1-\frac\pi{x}\right)^{3x}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTE4NDE5OF19
+eyJoaXN0b3J5IjpbLTEyMjI0NDQ3OTRdfQ==
 -->
