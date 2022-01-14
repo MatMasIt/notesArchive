@@ -14,6 +14,14 @@ $$
 $$
 0
 $$
+
+
+---
+
+
+$$
+f(x)=(1+x)^k\sim1+kx
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjAyNTgyXX0=
+eyJoaXN0b3J5IjpbMTYzMzIyODM5OV19
 -->
