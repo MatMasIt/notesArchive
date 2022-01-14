@@ -4,7 +4,7 @@
 Forme di indeterminazione ulteriori
 
 $$
-1^\infin\quad =\quad e^k
+1^\infin\quad \left(\quad e^k\quad\right)
 $$
 
 $$
@@ -15,5 +15,5 @@ $$
 0
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDYyNzc3OF19
+eyJoaXN0b3J5IjpbLTY0NjAyNTgyXX0=
 -->
