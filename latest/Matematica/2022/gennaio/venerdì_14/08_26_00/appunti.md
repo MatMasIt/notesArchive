@@ -29,7 +29,11 @@ $$
 $$
 p=\frac{\text{Numero casi favorevoli}}{\text{Numero di casi possibili}}
 $$
+
+$$
+(52\quad 2)=\frac{52!}{2!50}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTkzNTk2MzAsMzc5NDk5MDY1LDE2Mz
-MyMjgzOTldfQ==
+eyJoaXN0b3J5IjpbLTc0MDM2MjkwLC0xODE5MzU5NjMwLDM3OT
+Q5OTA2NSwxNjMzMjI4Mzk5XX0=
 -->
