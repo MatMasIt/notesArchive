@@ -25,6 +25,11 @@ $$
 
 $$
 $$
+
+$$
+p=\frac{\text{Numero casi favorevoli}}{\text{Numero di casi possibili}}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5NDk5MDY1LDE2MzMyMjgzOTldfQ==
+eyJoaXN0b3J5IjpbLTE4MTkzNTk2MzAsMzc5NDk5MDY1LDE2Mz
+MyMjgzOTldfQ==
 -->
