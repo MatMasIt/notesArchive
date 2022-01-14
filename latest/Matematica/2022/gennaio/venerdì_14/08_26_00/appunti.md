@@ -22,6 +22,9 @@ $$
 $$
 f(x)=(1+x)^k\sim1+kx
 $$
+
+$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzIyODM5OV19
+eyJoaXN0b3J5IjpbMzc5NDk5MDY1LDE2MzMyMjgzOTldfQ==
 -->
