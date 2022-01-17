@@ -25,6 +25,10 @@ $$
 $$
 \lim_{t\to 0}\left[1+\tan\left(t-\frac\pi4\right)\right]\tan \left(2t-\frac\pi2\right)
 $$
+
+$$
+\xrightarrow{\tan x\approx x}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY5NTE2MzZdfQ==
+eyJoaXN0b3J5IjpbLTE3Nzk0ODM4NDRdfQ==
 -->
