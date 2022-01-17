@@ -159,8 +159,19 @@ Abruzzo, i pastori
 
 gusto realista degli esordi
 
-D?
+D'Annunio all' Anagrafe era Rapagnetta
+
+D'Annunzio era il cognome dei uno zio benestante che lascia in eredià il cognome al padre e ai figlioli
+
+ottima educazione al liceo
+
+Buon conoscitore delle lettere classiche
+
+Si iscrive alla facoltà di lettere a roma
+
+Non consegue mai la laurea
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5NDA3MTc0LC02NTU4Mzg1NTNdfQ==
+eyJoaXN0b3J5IjpbLTE2ODgxOTk2MzIsLTY1NTgzODU1M119
 -->
