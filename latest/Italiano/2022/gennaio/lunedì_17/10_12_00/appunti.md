@@ -84,6 +84,19 @@ Parvenza di un momento di grande mutamento
 312-315
 
 Decadentismo
+
+
+Arte come unico valore a cui riferirsi nella propria vita
+no civili, etici, sociali
+
+
+arte a se stessa
+
+
+Gusto per ricercatezza estetica
+
+
+D'Annunzio 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTgzODU1M119
+eyJoaXN0b3J5IjpbMTY2NzAyODg2LC02NTU4Mzg1NTNdfQ==
 -->
