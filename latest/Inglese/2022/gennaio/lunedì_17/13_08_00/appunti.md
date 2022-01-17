@@ -35,6 +35,7 @@ actually the living coditions there were terrible
 children were exploited, the families were split
 
 
+The overworked and malnourished workers were accused of being lazy because of being tired
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Njk3NTQ3Nl19
+eyJoaXN0b3J5IjpbLTg1OTAzNTY2MywxNTY2OTc1NDc2XX0=
 -->
