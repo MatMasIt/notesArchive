@@ -55,12 +55,17 @@ $$
 $$
 
 $$
+\lim_{t\to 0}\frac{e^{t^2-1}}{t^4}
 $$
 
 $$
 \xrightarrow{e^{t^2-1}\approx 1+t^2-1}
 $$
 
+
+$$
+\lim_{t\to 0}\frac{\cancel{t^2}}{t^{\cancel{4}2}}=\lim_{t\to 0}\frac1{t^2}=\frac{1}{0^+}=+\infin
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzU2NjM0OTNdfQ==
+eyJoaXN0b3J5IjpbMTY2MTg5MTY1NV19
 -->
