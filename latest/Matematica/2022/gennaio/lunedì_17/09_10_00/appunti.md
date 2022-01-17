@@ -29,6 +29,11 @@ $$
 $$
 \xrightarrow{\tan x\approx x}
 $$
+
+
+$$
+\lim_{t\to 0}\left[1+t-\frac\pi4\right](2t-\frac\pi2)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk0ODM4NDRdfQ==
+eyJoaXN0b3J5IjpbLTE1ODAxNjk5ODhdfQ==
 -->
