@@ -27,6 +27,12 @@ forte confronto nel partito socialista
 "Non c'è solo Marx, è anche stato criticato"
 
 
+1917 rivoluzione russa, modello sovietico
+
+1921, dai socialisti nasce il Partito Comunista
+
+vuole attuare il modello russo in Italia
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzg0ODY2NTcsMTkwNzc0OTY4MV19
+eyJoaXN0b3J5IjpbMTczNjE0NDUwOSwxOTA3NzQ5NjgxXX0=
 -->
