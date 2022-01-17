@@ -34,14 +34,18 @@ $$
 
 
 ---
-
+## es
+			(1)-----(2)
+			 |       |
+			 |       |
+			(4)-----(3)
 
 $$
 Q_1=2\cdot 10^{-8}C\\
 Q_2=-2\cdot10^{-8}C\\
 Q_3=8\cdot 10^{-8}C\\
-Q_4=2\
+Q_4=2\cdot 10^{-8}C
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTY3MjkyNl19
+eyJoaXN0b3J5IjpbLTE0NjMzNTAzXX0=
 -->
