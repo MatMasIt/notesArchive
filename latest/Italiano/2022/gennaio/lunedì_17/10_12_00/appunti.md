@@ -213,7 +213,11 @@ Si era inventato finta morte per sucitare interesse dei lettori e fece parlare d
 periodo Fiorentino
 
 terzo libro delle laudi ambientato in versiglia
+
+Scrive nel Corriere della Sera
+
+Raccolta di articoli giornalistici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjkxMTkwOSwxNjQyOTI1NjA1LC02NT
-U4Mzg1NTNdfQ==
+eyJoaXN0b3J5IjpbMzg4NTk1MTc0LDE2NDI5MjU2MDUsLTY1NT
+gzODU1M119
 -->
