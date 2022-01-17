@@ -62,7 +62,12 @@ Women were considered inspirers for man
 
 angels for men who came back from home
 
-cean
+clean house, meals prepared on the table
+
+
+fallen women who were not married but had had chidren (they had to prostitute themselves in order to earn money)
+
+they were considered as inferior women
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzI2ODYxLDE1NjY5NzU0NzZdfQ==
+eyJoaXN0b3J5IjpbLTE1OTMyNzQwOTksMTU2Njk3NTQ3Nl19
 -->
