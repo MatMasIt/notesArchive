@@ -142,8 +142,25 @@ D' Annunzio
 * Manipolatore
 * Esperto di comunicazione di massa
 * Dispregiatore delle masse e della democrazia
-* 
+
+
+
+p. 474-475
+
+Dati Biografici e Ideologia
+
+
+Abruzzese, Pescara
+
+Università di Chieti
+
+
+Abruzzo, i pastori
+
+gusto realista degli esordi
+
+D?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Njg2ODA2MiwtNjU1ODM4NTUzXX0=
+eyJoaXN0b3J5IjpbNDA5NDA3MTc0LC02NTU4Mzg1NTNdfQ==
 -->
