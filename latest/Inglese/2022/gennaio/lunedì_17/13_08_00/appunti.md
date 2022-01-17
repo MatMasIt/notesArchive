@@ -15,9 +15,11 @@ Child labour
 
 * Mines
 * factories
-* workhouses
+* workhouses (place where poor people slept, ate and worked)
 * chimney sweepers
-* shoebla
+* shoeblacks (_lustrascarpe_)
+* street sellets
+* house servants
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQzMjU3MDFdfQ==
+eyJoaXN0b3J5IjpbMTUxODE5NTYxMF19
 -->
