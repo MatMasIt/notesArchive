@@ -5,9 +5,16 @@ $$
 $$
 
 $$
-\xrightarrow[\ln81+3x)\approx ]{e^x\approx x+1,e^{2z}\approx 2x+1}
+\xrightarrow[\ln(1+3x)\approx 3x]{e^x\approx x+1,e^{2z}\approx 2x+1}
 $$
 
+$$
+\lim_{x\to 0}\frac{x+1-2x-1}{3x}=-\frac{x}{3x}=-\frac13
+$$
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyMTI4OTIzXX0=
+eyJoaXN0b3J5IjpbMTkwMzMzNzQ2OF19
 -->
