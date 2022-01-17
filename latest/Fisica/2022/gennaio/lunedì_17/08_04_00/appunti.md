@@ -36,11 +36,11 @@ $$
 
 ---
 ## es
-			(1)-----(2)
-			 |       |
-			 |       |
-			 |       
-			(4)-----(3)
+			(1)---------(2)
+			 |   \   /   |
+			 |     O     |
+			 |   /   \   |
+			(4)---------(3)
 
 $$
 Q_1=2\cdot 10^{-8}C\\
@@ -66,9 +66,18 @@ $$
 
 
 $$
-U_3=\frac{1}{4\pi\epsilon_0}\frac{Q_1}{\frac{l}2\sqrt 2}
+U_3=\frac{1}{4\pi\epsilon_0}\frac{Q_3}{\frac{l}2\sqrt 2}
 $$
 
+$$
+U_4=\frac{1}{4\pi\epsilon_0}\frac{Q_4}{\frac{l}2\sqrt 2}
+$$
+
+
+
+$$
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwODg1MTUwXX0=
+eyJoaXN0b3J5IjpbLTE3NDIwNDY1ODldfQ==
 -->
