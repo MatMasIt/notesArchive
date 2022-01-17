@@ -171,12 +171,26 @@ Si iscrive alla facoltà di lettere a Roma
 
 Non consegue mai la laurea (come Beppe Fenoglio, Montale)
 
-Diventa G
+Diventa Giornalista e entra nei "Salotti buoni"
 
 Trova la prima moglie in un salotto a Roma
+
+Tenore di Vita Alto e lussuoso gli sarebbe consentito
+
+3 figli e la lascerà e il suocero non gli lascerà capitale per vivere
+
+susseguirsi di amanti
+
+
+
+Intercetta nuovi gusti euroei a Roma
+
+pensa a una tradizione letteraria Lucrativa
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNTU1OTQ1LC02NTU4Mzg1NTNdfQ==
+eyJoaXN0b3J5IjpbODc2OTg1ODEyLC02NTU4Mzg1NTNdfQ==
 -->
