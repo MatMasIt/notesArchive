@@ -217,7 +217,14 @@ terzo libro delle laudi ambientato in versiglia
 Scrive nel Corriere della Sera
 
 Raccolta di articoli giornalistici
+
+Filippo Tommaso Mainetti, manifesto del Futurismo
+
+
+Forse che si forche che no, Grabriele D'Annunzio
+
+storie di Aviazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4NTk1MTc0LDE2NDI5MjU2MDUsLTY1NT
-gzODU1M119
+eyJoaXN0b3J5IjpbMTA3NDA1MDk4OSwxNjQyOTI1NjA1LC02NT
+U4Mzg1NTNdfQ==
 -->
