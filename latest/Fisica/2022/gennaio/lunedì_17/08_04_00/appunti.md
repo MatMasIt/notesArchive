@@ -2,10 +2,11 @@
 
 ## es
 
-			(2)--------(1)
-			 |          |
-			 |          |
-			 (4)-------(3)
+			(2)------------(1)
+			 |    \     /   |
+			 |       O      |
+			 |    /     \   |
+			 (4)-----------(3)
 $$
 Q_1=3\cdot 10^{-8}C\\
 Q_2=6\cdot 10^{-8}C\\
@@ -38,6 +39,7 @@ $$
 			(1)-----(2)
 			 |       |
 			 |       |
+			 |       
 			(4)-----(3)
 
 $$
@@ -58,8 +60,15 @@ U_1=\frac{1}{4\pi\epsilon_0}\frac{Q_1}{\frac{l}2\sqrt 2}
 $$
 
 
+$$
+U_2=\frac{1}{4\pi\epsilon_0}\frac{Q_2}{\frac{l}2\sqrt 2}
+$$
 
+
+$$
+U_3=\frac{1}{4\pi\epsilon_0}\frac{Q_1}{\frac{l}2\sqrt 2}
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTIzODY0M119
+eyJoaXN0b3J5IjpbMjYwODg1MTUwXX0=
 -->
