@@ -42,13 +42,27 @@ Moral respectabilty
 
 **Sexophobia** (sexuality was repressed and rejected in all of its form)
 
-female chastity: very imporant
+**female chastity** until marriage: very imporant
 
 Legs of tables were covered not to show legs to men
 
 no nudity in art
 
-**family and motherhood
+**family and motherhood**
+
+
+Queen Victoria and Prince albert: embodiment of perfect couple
+
+5 children
+
+Women were considered inspirers for man
+* stay at home
+* take care off children
+* prepare children
+
+angels for men who came back from home
+
+cean
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Mjk3NDcyLDE1NjY5NzU0NzZdfQ==
+eyJoaXN0b3J5IjpbMjA2NzI2ODYxLDE1NjY5NzU0NzZdfQ==
 -->
