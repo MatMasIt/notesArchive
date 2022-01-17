@@ -76,8 +76,8 @@ $$
 
 
 $$
-
+V_TOT=\frac{}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIwNDY1ODldfQ==
+eyJoaXN0b3J5IjpbMTkyNDY3NTg3OF19
 -->
