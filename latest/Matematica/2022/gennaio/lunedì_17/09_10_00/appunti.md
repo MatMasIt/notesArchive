@@ -32,8 +32,8 @@ $$
 
 
 $$
-\lim_{t\to 0}\left[1+t-\frac\pi4\right](2t-\frac\pi2)
+\lim_{t\to 0}\left[1+t-\frac\pi4\right]\left(2t-\frac\pi2\right)=[1-\frac\pi4](-\frac\pi2)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODAxNjk5ODhdfQ==
+eyJoaXN0b3J5IjpbLTE0OTUyMTg4MjRdfQ==
 -->
