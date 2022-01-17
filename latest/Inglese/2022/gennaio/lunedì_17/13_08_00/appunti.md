@@ -16,10 +16,13 @@ Child labour
 * Mines
 * factories
 * workhouses (place where poor people slept, ate and worked)
+Board (vitto)
+Lodging (alloggio)
+in exhange for work
 * chimney sweepers
 * shoeblacks (_lustrascarpe_)
 * street sellets
 * house servants
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODE5NTYxMF19
+eyJoaXN0b3J5IjpbMTUzMDkwMjYyM119
 -->
