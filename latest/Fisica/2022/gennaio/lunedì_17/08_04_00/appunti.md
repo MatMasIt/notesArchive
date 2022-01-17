@@ -1,5 +1,11 @@
-# Title
+# Lezione di fisica
 
+## es
+
+			(2)--------(1)
+			 |          |
+			 |          |
+			 (4)-------(3)
 $$
 Q_1=3\cdot 10^{-8}C\\
 Q_2=6\cdot 10^{-8}C\\
@@ -19,8 +25,8 @@ $$
 ---
 
 $$
-Q_{TOT}=\frac1{4\pi\epsilon_0}\frac1R\left(Q_1Q_2+Q_1Q_3\right)
+Q_{TOT}=\frac1{4\pi\epsilon_0}\frac1R\left(Q_1Q_2+Q_1Q_3+Q_1Q_4+Q_3Q_4\right)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Nzk2NjIwOV19
+eyJoaXN0b3J5IjpbLTE5OTc5NjgyNF19
 -->
