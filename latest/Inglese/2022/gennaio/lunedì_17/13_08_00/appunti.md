@@ -78,8 +78,20 @@ religion (sermons)
 all appearance
 women with no rights
 
+male suffrage slowly reached
+Education act forces middle class children to attend elementary school
+Poor Law Amendment to introduce workhouses (hypocrisy)
 
+Social unrest
+
+1838
+Chartist Movement
+
+More reforms, complete male suffrage
+
+
+poverty and injustice
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzM2NDUyMTQsLTE1OTMyNzQwOTksMT
-U2Njk3NTQ3Nl19
+eyJoaXN0b3J5IjpbMTYwNzUwNzEwMCwtMTU5MzI3NDA5OSwxNT
+Y2OTc1NDc2XX0=
 -->
