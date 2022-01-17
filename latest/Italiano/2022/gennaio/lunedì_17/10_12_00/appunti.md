@@ -204,7 +204,13 @@ Il _poema Paradisiaco_ 1893
 Campionario di siuazioni decifrate simboliste
 
 
-Già a Livorno componeva in 
+Già a Livorno componeva in Versi
+
+Si era inventato finta morte per sucitare interesse dei lettori e fece parlare di sè
+
+
+
+periodo Fiorentino
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzM3MDQxMSwtNjU1ODM4NTUzXX0=
+eyJoaXN0b3J5IjpbMTY0MjkyNTYwNSwtNjU1ODM4NTUzXX0=
 -->
