@@ -52,8 +52,27 @@ poeta-veggente avrebbe la capacità di dire l'ineffabile, l'indicibile
 Visione aristocratica del poeta
 
 
-Non ha impeg
+Non ha impegno sociale e civile
+
+arte nella sua esclusività
+
+
+poeta che riflette stato storico-sociale di un periodo che ha una certa fisionomia in europa
+
+
+Belle  Epoque
+
+
+in Italia Governo Crispi
+
+avventura coloniale
+
+
+I grandi stati europei avvertono che occorrono risorse per l'industrializazione
+
+
+colonialismo, concezioni razziste,
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2NjczMDAwXX0=
+eyJoaXN0b3J5IjpbMTQxMDExMjYxN119
 -->
