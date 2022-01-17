@@ -10,11 +10,30 @@ si procede per simboli
 rivelazione, decifrazione del simbolo, nella quale il poeta usa
 * metafore
 * sinestesie
-* analogie
+* analogie (alogiche anche)
 
 La parola soprattutto per la sua funzione di significante, il suono
 
-La parola come insieme di f
+La parola come insieme di fonemi
+
+
+La pratica poeta simbolistia rivaluta molto il significante
+
+
+l'aspetto fonico della parola avrebbe una capacità _evocativa_
+
+decifrazione del mistero dellla vita e della realtà attraverso quello spettacolo, simbolo da decifrare e rivelato attraverso la parola
+
+
+scelta sonora evocativa
+
+
+effetto del ==fonosimbolismo==
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzIyODU4Nl19
+eyJoaXN0b3J5IjpbLTEzMTM0MzM0NzZdfQ==
 -->
