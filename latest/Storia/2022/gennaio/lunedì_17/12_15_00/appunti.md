@@ -57,8 +57,10 @@ Metodi sporchi e clientelari
 Salvemini chiama Giolitti "ministro della malavita"
 
 
+Dopo il congresso di Bologna in cui i massimalist prevalgono, i voti calano peril PSI quindi turati rimane come segretario ( i massimalisti fanno eprdere voti ) e la collaborazione con Giolitti rimane
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NjI2NDkyLDE3MzYxNDQ1MDksMTkwNz
+eyJoaXN0b3J5IjpbNDI0Njg1NDc1LDE3MzYxNDQ1MDksMTkwNz
 c0OTY4MV19
 -->
