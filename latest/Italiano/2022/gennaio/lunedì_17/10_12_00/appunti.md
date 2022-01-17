@@ -277,8 +277,9 @@ megli l'uomo solo al governo
 
 no istruzione pubblica il papà lo educa 
 
-> 
+
+Andrea sperelli non diventa esteta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDU1NDgwOSwxNjQyOTI1NjA1LC02NT
-U4Mzg1NTNdfQ==
+eyJoaXN0b3J5IjpbLTEyNTMyMDkxMDgsMTY0MjkyNTYwNSwtNj
+U1ODM4NTUzXX0=
 -->
