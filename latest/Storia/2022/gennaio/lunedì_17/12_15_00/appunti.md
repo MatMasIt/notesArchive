@@ -35,8 +35,8 @@ vuole attuare il modello russo in Italia
 
 
 
-Turati non etnra nel Governo Giolitti per n
+Turati non etnra nel Governo Giolitti per non spaccare il partito socialista (alcune componenti non vogliono trattare con i "borghesi")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTE0MTk2LDE3MzYxNDQ1MDksMTkwNz
-c0OTY4MV19
+eyJoaXN0b3J5IjpbLTEyNzE1NTE3ODMsMTczNjE0NDUwOSwxOT
+A3NzQ5NjgxXX0=
 -->
