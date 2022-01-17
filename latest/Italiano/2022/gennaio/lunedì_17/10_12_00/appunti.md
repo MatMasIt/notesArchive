@@ -106,7 +106,16 @@ Compaiono allusioni sessuali nella letteratura
 |---|---|---|
 |Francia|Huysman|à rebours|
 |Inghilterra|Oscar Wilde|Il ritratto di Dorian Gray|
-|Ialia|&bulle
+|Ialia|&bullet;Grazia Deledda <br />Giovanni Pascoli 
+
+D'annuncio, politica e poetica
+
+Pascoli: tre scrivanie in noce:
+* Poesia
+* Traduce da latino e scrive in latino
+Sette medaglie d'oro ad Amsterdam per esametri in latino
+Allievo di Carducci
+* Critic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjQ3ODM2NCwtNjU1ODM4NTUzXX0=
+eyJoaXN0b3J5IjpbNzcxNjM3NDY3LC02NTU4Mzg1NTNdfQ==
 -->
