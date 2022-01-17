@@ -54,10 +54,12 @@ V=\frac{U}q
 $$
 
 $$
-U_1=\frac{1}{4\pi\epsilon_0}\frac{Q_1
+U_1=\frac{1}{4\pi\epsilon_0}\frac{Q_1}{\frac{l}2\sqrt 2}
 $$
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTQ1Nzc5NF19
+eyJoaXN0b3J5IjpbLTUzMTIzODY0M119
 -->
