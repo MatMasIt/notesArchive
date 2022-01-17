@@ -13,8 +13,18 @@ $$
 $$
 
 ---
+## 493 p 128
+$$
+\lim_{x\to -\frac\pi4}(1-\tan x)\tan 2x
+$$
 
+$$
+t=x+\frac\pi4\to x=t-\frac\pi4
+$$
 
+$$
+\lim_{t\to 0}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzMzNzQ2OF19
+eyJoaXN0b3J5IjpbLTEyNTE2ODgxNTFdfQ==
 -->
