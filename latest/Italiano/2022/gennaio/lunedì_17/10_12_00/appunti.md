@@ -97,6 +97,16 @@ Gusto per ricercatezza estetica
 
 
 D'Annunzio 
+
+
+Compaiono allusioni sessuali nella letteratura
+
+
+|Paese|Autore|Libro|
+|---|---|---|
+|Francia|Huysman|à rebours|
+|Inghilterra|Oscar Wilde|Il ritratto di Dorian Gray|
+|Ialia|&bulle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzAyODg2LC02NTU4Mzg1NTNdfQ==
+eyJoaXN0b3J5IjpbMTg5NjQ3ODM2NCwtNjU1ODM4NTUzXX0=
 -->
