@@ -78,7 +78,12 @@ sii sviluppa poi il nazionalismo
 Parvenza di un momento di grande mutamento
 
 
-1895, Gus
+1895, Gustave Le Bonne, Psicologia delle Folle
+
+
+312-315
+
+Decadentismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTc5MDE2Ml19
+eyJoaXN0b3J5IjpbLTY1NTgzODU1M119
 -->
