@@ -42,8 +42,25 @@ NO
 
 
 $$
-\lim_{x\to2}\frac{e^{(x-2)^2-1}{(x-2)^4}
+\lim_{x\to2}\frac{e^{(x-2)^2-1}}{(x-2)^4}=\frac00\quad FI
 $$
+
+$$
+x-2=t\quad x=t-2
+$$
+
+
+$$
+\lim_{t\to 0}\frac{e^{(t+2-2)-1}}{t^4}
+$$
+
+$$
+$$
+
+$$
+\xrightarrow{e^{t^2-1}\approx 1+t^2-1}
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODAwNjk4NDZdfQ==
+eyJoaXN0b3J5IjpbLTE1MzU2NjM0OTNdfQ==
 -->
