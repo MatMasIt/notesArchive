@@ -22,7 +22,9 @@ I massimalisti vuole attuare questo programma
 
 I riformisti vogliono attuare il loro programma con riforme, migiorare condizione di vita degli operai
 
+forte confronto nel partito socialista
 
+"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjA0NDQ5OSwxOTA3NzQ5NjgxXX0=
+eyJoaXN0b3J5IjpbLTQxMzg4MTI3MywxOTA3NzQ5NjgxXX0=
 -->
