@@ -12,8 +12,15 @@ U=\frac{1}{4\pi\epsilon_0}\frac{Q_1Q_2}{R}
 $$
 
 $$
-U=0\cdot 10^9 \frac{Q_q\
+U=9\cdot 10^9 \frac{Q_1Q_2}R
+$$
+
+
+---
+
+$$
+Q_{TOT}=\frac1{4\pi\epsilon_0}\frac1R\left(Q_1Q_2+Q_1Q_3\right)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM5MTQ4MF19
+eyJoaXN0b3J5IjpbMTA1Nzk2NjIwOV19
 -->
