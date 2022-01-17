@@ -36,6 +36,15 @@ children were exploited, the families were split
 
 
 The overworked and malnourished workers were accused of being lazy because of being tired
+
+
+Moral respectabilty
+
+Sexophobia (sexuality was repressed and rejected in all of its form)
+
+female chastity: very imporant
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTAzNTY2MywxNTY2OTc1NDc2XX0=
+eyJoaXN0b3J5IjpbLTgzMzg0NjE0NSwxNTY2OTc1NDc2XX0=
 -->
