@@ -31,6 +31,10 @@ _apparently_ philantropic
 actually the living coditions there were terrible
 
 * the families where split
+
+children were exploited, the families were split
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjMyMjkwNl19
+eyJoaXN0b3J5IjpbMTU2Njk3NTQ3Nl19
 -->
