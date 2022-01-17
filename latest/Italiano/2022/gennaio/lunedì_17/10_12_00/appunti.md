@@ -255,7 +255,13 @@ Termini specilistici usati (marinareschi)
 come farà poi primo levi
 
 versi sciolti, talvolta liberi
+
+Importatore e saccheggiatore
+
+quasi dei plagi di altri simbolisti esteri
+
+p. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDE4ODg3MSwxNjQyOTI1NjA1LC02NT
+eyJoaXN0b3J5IjpbLTI0NzYxMTA3OSwxNjQyOTI1NjA1LC02NT
 U4Mzg1NTNdfQ==
 -->
