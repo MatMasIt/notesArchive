@@ -224,7 +224,24 @@ Filippo Tommaso Mainetti, manifesto del Futurismo
 Forse che si forche che no, Grabriele D'Annunzio
 
 storie di Aviazione
+
+
+colalboratori del duce lo tengono a bada
+
+titolo 
+
+Principe di Montenevoso
+
+Accademia d'italia, presidente
+
+Vittoriale, museo idi se stesso
+
+Istituto per le sue pubblicazioni
+
+Termini
+
+"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDA1MDk4OSwxNjQyOTI1NjA1LC02NT
+eyJoaXN0b3J5IjpbLTU2MzE0NjI2NSwxNjQyOTI1NjA1LC02NT
 U4Mzg1NTNdfQ==
 -->
