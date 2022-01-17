@@ -263,7 +263,17 @@ quasi dei plagi di altri simbolisti esteri
 p. 428
 
 ### Il piacere
+
+il grigio diluvio democratico
+
+Il parlamento 
+
+bivacco di manipoli
+
+non si addiviene a nulla
+
+megli l'uomo soo al governo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU1MDkwNTYsMTY0MjkyNTYwNSwtNj
+eyJoaXN0b3J5IjpbLTIwNzYzMDIxNzEsMTY0MjkyNTYwNSwtNj
 U1ODM4NTUzXX0=
 -->
