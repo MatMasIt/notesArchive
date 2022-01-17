@@ -63,10 +63,14 @@ Dopo il congresso di Bologna in cui i massimalist prevalgono, i voti calano peri
 dopo attriti con la francia, protezionismo
 
 prodotti agricoli meridionali come olio e vino 
-+ eruzione vesuvio 1806
+\+ eruzione vesuvio 1806
+\+terremoto-maremoto di Messina del 1906
+
+
+peggiorata economia del sud
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzUwNjk1LDE3MzYxNDQ1MDksMTkwNz
-c0OTY4MV19
+eyJoaXN0b3J5IjpbMTkyMDk3NzczNSwxNzM2MTQ0NTA5LDE5MD
+c3NDk2ODFdfQ==
 -->
