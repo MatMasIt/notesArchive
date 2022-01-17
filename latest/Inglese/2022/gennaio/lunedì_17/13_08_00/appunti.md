@@ -68,6 +68,18 @@ clean house, meals prepared on the table
 fallen women who were not married but had had chidren (they had to prostitute themselves in order to earn money)
 
 they were considered as inferior women
+
+keeping a social status ( big house, carriage, servants, good manner, good education)
+
+philantropy (charities /workhouses)
+
+religion (sermons)
+
+all appearance
+women with no rights
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTMyNzQwOTksMTU2Njk3NTQ3Nl19
+eyJoaXN0b3J5IjpbLTEyNzM2NDUyMTQsLTE1OTMyNzQwOTksMT
+U2Njk3NTQ3Nl19
 -->
