@@ -71,8 +71,14 @@ avventura coloniale
 I grandi stati europei avvertono che occorrono risorse per l'industrializazione
 
 
-colonialismo, concezioni razziste,
+colonialismo, concezioni razziste, mala interpretazione dell'evoluzionismo Darwiniano
+sii sviluppa poi il nazionalismo
 
+
+Parvenza di un momento di grande mutamento
+
+
+1895, Gus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDExMjYxN119
+eyJoaXN0b3J5IjpbMTc4OTc5MDE2Ml19
 -->
