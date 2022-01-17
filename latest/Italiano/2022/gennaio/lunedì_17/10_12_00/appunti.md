@@ -260,8 +260,10 @@ Importatore e saccheggiatore
 
 quasi dei plagi di altri simbolisti esteri
 
-p. 
+p. 428
+
+### Il piacere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NzYxMTA3OSwxNjQyOTI1NjA1LC02NT
-U4Mzg1NTNdfQ==
+eyJoaXN0b3J5IjpbLTE4OTU1MDkwNTYsMTY0MjkyNTYwNSwtNj
+U1ODM4NTUzXX0=
 -->
