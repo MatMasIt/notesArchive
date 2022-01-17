@@ -34,6 +34,16 @@ $$
 $$
 \lim_{t\to 0}\left[1+t-\frac\pi4\right]\left(2t-\frac\pi2\right)=[1-\frac\pi4](-\frac\pi2)
 $$
+
+NO
+
+
+---
+
+
+$$
+\lim_{x\to2}\frac{e^{(x-2)^2-1}{(x-2)^4}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTUyMTg4MjRdfQ==
+eyJoaXN0b3J5IjpbLTEzODAwNjk4NDZdfQ==
 -->
