@@ -104,18 +104,20 @@ Compaiono allusioni sessuali nella letteratura
 
 |Paese|Autore|Libro|
 |---|---|---|
-|Francia|Huysman|à rebours|
-|Inghilterra|Oscar Wilde|Il ritratto di Dorian Gray|
-|Ialia|&bullet;Grazia Deledda <br />Giovanni Pascoli 
+|Francia|Huysman|_à rebours_|
+|Inghilterra|Oscar Wilde|_Il ritratto di Dorian Gray_|
+|Ialia|&bullet; Grazia Deledda <br /> &bullet; Giovanni Pascoli <br /> &bullet; Gabriele d'Annunzio||
 
 D'annuncio, politica e poetica
+
 
 Pascoli: tre scrivanie in noce:
 * Poesia
 * Traduce da latino e scrive in latino
 Sette medaglie d'oro ad Amsterdam per esametri in latino
 Allievo di Carducci
-* Critic
+* Critica Dantesca
+Scriveva saggi e critiche su Dante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxNjM3NDY3LC02NTU4Mzg1NTNdfQ==
+eyJoaXN0b3J5IjpbMTYyOTQwMjIzMCwtNjU1ODM4NTUzXX0=
 -->
