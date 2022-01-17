@@ -167,11 +167,16 @@ ottima educazione al liceo
 
 Buon conoscitore delle lettere classiche
 
-Si iscrive alla facoltà di lettere a roma
+Si iscrive alla facoltà di lettere a Roma
 
-Non consegue mai la laurea
+Non consegue mai la laurea (come Beppe Fenoglio, Montale)
+
+Diventa G
+
+Trova la prima moglie in un salotto a Roma
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgxOTk2MzIsLTY1NTgzODU1M119
+eyJoaXN0b3J5IjpbNjYyNTU1OTQ1LC02NTU4Mzg1NTNdfQ==
 -->
