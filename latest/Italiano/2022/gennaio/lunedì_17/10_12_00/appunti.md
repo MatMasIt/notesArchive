@@ -110,6 +110,15 @@ Compaiono allusioni sessuali nella letteratura
 
 D'annuncio, politica e poetica
 
+Personaggio _cotnroverso_
+* Donnine intorno a sè e una di queste la spinge dal balcone
+* cocaninomane
+* 
+> "Non si Può non attraversare D'Annunzio"
+> _Montale_
+
+Decine di migliaia di lemmi
+maestreo della lessicologia
 
 Pascoli: tre scrivanie in noce:
 * Poesia
@@ -119,5 +128,5 @@ Allievo di Carducci
 * Critica Dantesca
 Scriveva saggi e critiche su Dante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTQwMjIzMCwtNjU1ODM4NTUzXX0=
+eyJoaXN0b3J5IjpbMTc4MTc2MjYyOSwtNjU1ODM4NTUzXX0=
 -->
