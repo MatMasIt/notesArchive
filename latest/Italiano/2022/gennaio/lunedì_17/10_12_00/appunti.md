@@ -190,7 +190,21 @@ pensa a una tradizione letteraria Lucrativa
 
 
 
+_Il Piacere_
 
+
+Legge Friedrich Nietsche a Napoli in traduzione francese
+
+Declina pensierodi Neitsche al suo e ai sui bisogni
+
+
+Il _poema Paradisiaco_ 1893
+
+
+Campionario di siuazioni decifrate simboliste
+
+
+Già a Livorno componeva in 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2OTg1ODEyLC02NTU4Mzg1NTNdfQ==
+eyJoaXN0b3J5IjpbLTc5NzM3MDQxMSwtNjU1ODM4NTUzXX0=
 -->
