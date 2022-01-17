@@ -79,8 +79,8 @@ V_{TOT}=V_1+V_2+V_3+V_4
 $$
 
 $$
-V_{TOT}=9,5V+3,8V+25V=47,5V
+V_{TOT}=9,5V-9,5V+3,8V+25V=47,5V
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjkyNzE3MV19
+eyJoaXN0b3J5IjpbMTc0NjM3OTkwNCwxNDUyOTI3MTcxXX0=
 -->
