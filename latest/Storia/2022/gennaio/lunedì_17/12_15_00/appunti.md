@@ -36,7 +36,29 @@ vuole attuare il modello russo in Italia
 
 
 Turati non etnra nel Governo Giolitti per non spaccare il partito socialista (alcune componenti non vogliono trattare con i "borghesi")
+
+
+Il governo nazionale prende in caric il problemi dell'Italia Meridionale
+
+correggere sintomi invece di cause dela difficiltà del sud
+
+Cause da ricercare nelle strutture sociali
+
+
+Salvemini (celebre socialista) avrebbe avuto interevento per limitare classe dirigente meridionale
+
+Giolitti non vorrà farlo
+
+
+ingerenza in tornate elettorali
+
+Metodi sporchi e clientelari
+
+Salvemini chiama Giolitti "ministro della malavita"
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE1NTE3ODMsMTczNjE0NDUwOSwxOT
-A3NzQ5NjgxXX0=
+eyJoaXN0b3J5IjpbNzY0NjI2NDkyLDE3MzYxNDQ1MDksMTkwNz
+c0OTY4MV19
 -->
