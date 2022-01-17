@@ -245,7 +245,17 @@ Termini
 
 
 D'annunziani
+
+
+
+Verso libero, strofa lunga
+
+Termini specilistici usati (marinareschi)
+
+come farà poi primo levi
+
+versi sciolti, talvolta liberi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE1NTAwNTMsMTY0MjkyNTYwNSwtNj
-U1ODM4NTUzXX0=
+eyJoaXN0b3J5IjpbLTcyMDE4ODg3MSwxNjQyOTI1NjA1LC02NT
+U4Mzg1NTNdfQ==
 -->
