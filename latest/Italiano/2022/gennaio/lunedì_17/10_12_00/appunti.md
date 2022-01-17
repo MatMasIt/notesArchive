@@ -140,9 +140,10 @@ D' Annunzio
 * Spregiudicato
 * Saccheggiatore
 * Manipolatore
-
-
+* Esperto di comunicazione di massa
+* Dispregiatore delle masse e della democrazia
+* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTcyNjM5OTIsLTY1NTgzODU1M119
+eyJoaXN0b3J5IjpbMTE3Njg2ODA2MiwtNjU1ODM4NTUzXX0=
 -->
