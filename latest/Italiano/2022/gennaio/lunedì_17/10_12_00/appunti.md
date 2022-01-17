@@ -47,8 +47,13 @@ Lettera di _Raimbaud a :::[Deminì]_
 poeta è un veggente
 
 
-poeta-veggente avrebbe la capacità di dire l'
+poeta-veggente avrebbe la capacità di dire l'ineffabile, l'indicibile
+
+Visione aristocratica del poeta
+
+
+Non ha impeg
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTg0NDk3NF19
+eyJoaXN0b3J5IjpbNDI2NjczMDAwXX0=
 -->
