@@ -23,6 +23,14 @@ in exhange for work
 * shoeblacks (_lustrascarpe_)
 * street sellets
 * house servants
+
+hypocrisy of workhouses
+
+_apparently_ philantropic
+
+actually the living coditions there were terrible
+
+* the families where split
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDkwMjYyM119
+eyJoaXN0b3J5IjpbLTU4NjMyMjkwNl19
 -->
