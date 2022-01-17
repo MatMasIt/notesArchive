@@ -32,8 +32,23 @@ effetto del ==fonosimbolismo==
 
 
 
+La parola si rende sempre più vicina alla musica
 
+
+massima arte per loro, capace di esplorare _l'oltre_in modo sia formale ed evocativo
+
+
+congerie, univerlo lato, mente dell'uomo e oltre
+
+
+
+Lettera di _Raimbaud a :::[Deminì]_
+
+poeta è un veggente
+
+
+poeta-veggente avrebbe la capacità di dire l'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM0MzM0NzZdfQ==
+eyJoaXN0b3J5IjpbLTU3NTg0NDk3NF19
 -->
