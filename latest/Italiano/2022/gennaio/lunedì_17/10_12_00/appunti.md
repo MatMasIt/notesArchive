@@ -139,8 +139,10 @@ D' Annunzio
 * Seduttore
 * Spregiudicato
 * Saccheggiatore
-* Manip
+* Manipolatore
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDIyMDM2NiwtNjU1ODM4NTUzXX0=
+eyJoaXN0b3J5IjpbLTEzOTcyNjM5OTIsLTY1NTgzODU1M119
 -->
