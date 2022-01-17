@@ -60,7 +60,13 @@ Salvemini chiama Giolitti "ministro della malavita"
 Dopo il congresso di Bologna in cui i massimalist prevalgono, i voti calano peril PSI quindi turati rimane come segretario ( i massimalisti fanno eprdere voti ) e la collaborazione con Giolitti rimane
 
 
+dopo attriti con la francia, protezionismo
+
+prodotti agricoli meridionali come olio e vino 
++ eruzione vesuvio 1806
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0Njg1NDc1LDE3MzYxNDQ1MDksMTkwNz
+eyJoaXN0b3J5IjpbMTQ2MzUwNjk1LDE3MzYxNDQ1MDksMTkwNz
 c0OTY4MV19
 -->
