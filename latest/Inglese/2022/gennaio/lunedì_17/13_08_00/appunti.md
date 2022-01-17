@@ -40,11 +40,15 @@ The overworked and malnourished workers were accused of being lazy because of be
 
 Moral respectabilty
 
-Sexophobia (sexuality was repressed and rejected in all of its form)
+**Sexophobia** (sexuality was repressed and rejected in all of its form)
 
 female chastity: very imporant
 
+Legs of tables were covered not to show legs to men
 
+no nudity in art
+
+**family and motherhood
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzg0NjE0NSwxNTY2OTc1NDc2XX0=
+eyJoaXN0b3J5IjpbLTM3Mjk3NDcyLDE1NjY5NzU0NzZdfQ==
 -->
