@@ -211,6 +211,9 @@ Si era inventato finta morte per sucitare interesse dei lettori e fece parlare d
 
 
 periodo Fiorentino
+
+terzo libro delle laudi ambientato in versiglia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjkyNTYwNSwtNjU1ODM4NTUzXX0=
+eyJoaXN0b3J5IjpbLTU3MjkxMTkwOSwxNjQyOTI1NjA1LC02NT
+U4Mzg1NTNdfQ==
 -->
