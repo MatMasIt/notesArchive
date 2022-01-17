@@ -24,7 +24,9 @@ I riformisti vogliono attuare il loro programma con riforme, migiorare condizion
 
 forte confronto nel partito socialista
 
-"
+"Non c'è solo Marx, è anche stato criticato"
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzg4MTI3MywxOTA3NzQ5NjgxXX0=
+eyJoaXN0b3J5IjpbLTIxMzg0ODY2NTcsMTkwNzc0OTY4MV19
 -->
