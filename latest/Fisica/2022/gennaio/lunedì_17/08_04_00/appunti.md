@@ -44,8 +44,20 @@ $$
 Q_1=2\cdot 10^{-8}C\\
 Q_2=-2\cdot10^{-8}C\\
 Q_3=8\cdot 10^{-8}C\\
-Q_4=2\cdot 10^{-8}C
+Q_4=2\cdot 10^{-8}C\\
+l=30cm=0,3m
 $$
+
+
+$$
+V=\frac{U}q
+$$
+
+$$
+U_1=\frac{1}{4\pi\epsilon_0}\frac{Q_1
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjMzNTAzXX0=
+eyJoaXN0b3J5IjpbLTkyOTQ1Nzc5NF19
 -->
