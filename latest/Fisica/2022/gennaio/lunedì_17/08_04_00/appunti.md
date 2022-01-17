@@ -56,28 +56,31 @@ V=\frac{U}q
 $$
 
 $$
-U_1=\frac{1}{4\pi\epsilon_0}\frac{Q_1}{\frac{l}2\sqrt 2}
+V_1=\frac{1}{4\pi\epsilon_0}\frac{Q_1}{\frac{l}2\sqrt 2}
 $$
 
 
 $$
-U_2=\frac{1}{4\pi\epsilon_0}\frac{Q_2}{\frac{l}2\sqrt 2}
+V_2=\frac{1}{4\pi\epsilon_0}\frac{Q_2}{\frac{l}2\sqrt 2}
 $$
 
 
 $$
-U_3=\frac{1}{4\pi\epsilon_0}\frac{Q_3}{\frac{l}2\sqrt 2}
+V_3=\frac{1}{4\pi\epsilon_0}\frac{Q_3}{\frac{l}2\sqrt 2}
 $$
 
 $$
-U_4=\frac{1}{4\pi\epsilon_0}\frac{Q_4}{\frac{l}2\sqrt 2}
+V_4=\frac{1}{4\pi\epsilon_0}\frac{Q_4}{\frac{l}2\sqrt 2}
 $$
 
 
+$$
+V_{TOT}=V_1+V_2+V_3+V_4
+$$
 
 $$
-V_TOT=\frac{}
+V_{TOT}=9,5V
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDY3NTg3OF19
+eyJoaXN0b3J5IjpbLTUxOTYzOTUzMF19
 -->
