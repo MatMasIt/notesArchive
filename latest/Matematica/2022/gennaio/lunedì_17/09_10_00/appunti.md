@@ -23,8 +23,8 @@ t=x+\frac\pi4\to x=t-\frac\pi4
 $$
 
 $$
-\lim_{t\to 0}
+\lim_{t\to 0}\left[1+\tan\left(t-\frac\pi4\right)\right]\tan \left(2t-\frac\pi2\right)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE2ODgxNTFdfQ==
+eyJoaXN0b3J5IjpbLTE1ODY5NTE2MzZdfQ==
 -->
