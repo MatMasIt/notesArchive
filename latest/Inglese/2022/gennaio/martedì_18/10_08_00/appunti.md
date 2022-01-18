@@ -12,6 +12,7 @@ middle class criticism against the working classes
 accused of being lazy
 3. 
 Church bells did not call the working class away from their own houses
+They just walked around in laziness and watched the people going to church
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODQxOTkyNywxMDI5NTI2Mjg4XX0=
+eyJoaXN0b3J5IjpbMTQwMzg1ODU2NSwxMDI5NTI2Mjg4XX0=
 -->
