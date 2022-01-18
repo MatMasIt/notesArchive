@@ -25,7 +25,7 @@ Workers considered as an inferior race
 
 5. Druggist and chemists are opium addicted
 
-The chaplain of the jail 
+The chaplain of the jail said they used to sing and danced in obscene ways
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTkxOTgxNzQsMTAyOTUyNjI4OF19
+eyJoaXN0b3J5IjpbMTA1OTA3NzI1MiwxMDI5NTI2Mjg4XX0=
 -->
