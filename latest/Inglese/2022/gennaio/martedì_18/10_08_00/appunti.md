@@ -28,8 +28,13 @@ Workers considered as an inferior race
 The chaplain of the jail said they used to sing and danced in obscene ways
 
 
-A
+All together they were "bad lot" (bad people)
+
+Middle class
+They were never thankful
+always restless
+never satisfied
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTY0ODAyNywxMDU5MDc3MjUyLDEwMj
-k1MjYyODhdfQ==
+eyJoaXN0b3J5IjpbOTUzNTI3NDk0LDEwNTkwNzcyNTIsMTAyOT
+UyNjI4OF19
 -->
