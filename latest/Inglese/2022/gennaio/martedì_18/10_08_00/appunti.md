@@ -21,7 +21,7 @@ Middle classes thought people could be controlled by parliament
 
 Workers considered as an inferior race
 
-4. They 
+4. They showed that the workers used to get drunk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDM4ODkzNSwxMDI5NTI2Mjg4XX0=
+eyJoaXN0b3J5IjpbLTEzNTk4Njc3NDAsMTAyOTUyNjI4OF19
 -->
