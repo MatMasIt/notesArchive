@@ -15,6 +15,8 @@ Church bells did not call the working class away from their own houses
 They just walked around in laziness and watched the people going to church
 
 2. the other residents of coketown wanted to change their behaivour by force (l 47) petitioning for act of parliament
+
+Middle classes thought people could be controlled by parliament
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzNTc3MzQ3LDEwMjk1MjYyODhdfQ==
+eyJoaXN0b3J5IjpbLTE5OTUyMDI0OTIsMTAyOTUyNjI4OF19
 -->
