@@ -47,8 +47,17 @@ $$
 E_T=K+U
 $$
 
-££
-£
+$$
+U=E_T-K=-8\cdot10^9J1,85\cdot 10^9K=9,85\cdot 10^9J
+$$
+
+$$
+U=-G\frac{M_Tm}R
+$$
+
+$$
+R_{mx}=-G\frac{M_tm}{V}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1MzQ5OTUzXX0=
+eyJoaXN0b3J5IjpbLTQzNjc2NDQxN119
 -->
