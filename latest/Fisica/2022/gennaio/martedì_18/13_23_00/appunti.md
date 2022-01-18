@@ -28,7 +28,20 @@ $$
          
 
 
+### es 58
 
+
+> **Dati**
+> $m=3000Kg$
+> $v=4000\frac{Km}{h}=\frac{4000}{3,6}\frac{m}{s}$$
+> $E_t=8\cdot 10^9J$
+> $k=?$
+> $U=?$
+
+
+$$
+k=\frac12mv^2=\frac12\cdot 3000Kg
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDE3MTEyM119
+eyJoaXN0b3J5IjpbMTkwNjcwNzk2NV19
 -->
