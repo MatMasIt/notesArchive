@@ -10,6 +10,15 @@ $$
 F_g=F_c
 $$
 
+$$
+G\frac{Mm}{R^}=\frac12m\frac{v^2}{\cancel R}
+$$
+
+$$
+\frac12U_g=k
+$$
+
+
            v
         < -- @
           Fc | Fg
@@ -17,6 +26,9 @@ $$
              |
           (Pianeta)
          
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODMyOTg2OV19
+eyJoaXN0b3J5IjpbLTUxMTA2OTU5N119
 -->
