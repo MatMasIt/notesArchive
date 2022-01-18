@@ -10,10 +10,13 @@ $$
 F_g=F_c
 $$
 
-
-    
-       (Pianeta)
-          (
+           v
+        < -- @
+          Fc | Fg
+            \|/  
+             |
+          (Pianeta)
+         
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Mjc3NjUyMF19
+eyJoaXN0b3J5IjpbMTQ1ODMyOTg2OV19
 -->
