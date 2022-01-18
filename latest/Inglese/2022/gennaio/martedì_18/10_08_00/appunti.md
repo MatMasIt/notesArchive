@@ -22,6 +22,8 @@ Middle classes thought people could be controlled by parliament
 Workers considered as an inferior race
 
 4. They showed that the workers used to get drunk
+
+5. Druggist and chemists are opium addicted
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk4Njc3NDAsMTAyOTUyNjI4OF19
+eyJoaXN0b3J5IjpbMzQ1NTE2NDUzLDEwMjk1MjYyODhdfQ==
 -->
