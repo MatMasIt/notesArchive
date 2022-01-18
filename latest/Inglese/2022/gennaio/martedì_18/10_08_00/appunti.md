@@ -34,7 +34,9 @@ Middle class
 They were never thankful
 always restless
 never satisfied
+
+but actually they were satisfied with the few things that they ahd
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzNTI3NDk0LDEwNTkwNzcyNTIsMTAyOT
+eyJoaXN0b3J5IjpbMTk4MTUzNjczLDEwNTkwNzcyNTIsMTAyOT
 UyNjI4OF19
 -->
