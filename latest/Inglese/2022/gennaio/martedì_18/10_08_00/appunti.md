@@ -17,6 +17,11 @@ They just walked around in laziness and watched the people going to church
 2. the other residents of coketown wanted to change their behaivour by force (l 47) petitioning for act of parliament
 
 Middle classes thought people could be controlled by parliament
+
+
+Workers considered as an inferior race
+
+4. They 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUyMDI0OTIsMTAyOTUyNjI4OF19
+eyJoaXN0b3J5IjpbMTU1MDM4ODkzNSwxMDI5NTI2Mjg4XX0=
 -->
