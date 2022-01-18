@@ -11,7 +11,7 @@ F_g=F_c
 $$
 
 $$
-G\frac{Mm}{R^}=\frac12m\frac{v^2}{\cancel R}
+G\frac{Mm}{R^{\cancel 2}}=\frac12m\frac{v^2}{\cancel R}
 $$
 
 $$
@@ -30,5 +30,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTA2OTU5N119
+eyJoaXN0b3J5IjpbLTM3MDE3MTEyM119
 -->
