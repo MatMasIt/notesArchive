@@ -15,7 +15,7 @@ G\frac{Mm}{R^{\cancel 2}}=\frac12m\frac{v^2}{\cancel R}
 $$
 
 $$
-\frac12U_g=k
+\frac12U_g=K
 $$
 
 
@@ -40,8 +40,15 @@ $$
 
 
 $$
-k=\frac12mv^2=\frac12\cdot 3000Kg
+k=\frac12mv^2=\frac12\cdot 3000Kg\left(1111,1\frac{m}{s}\right)^2=\\1,85\cdot 10^9K
 $$
+
+$$
+E_T=K+U
+$$
+
+££
+£
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjcwNzk2NV19
+eyJoaXN0b3J5IjpbODY1MzQ5OTUzXX0=
 -->
