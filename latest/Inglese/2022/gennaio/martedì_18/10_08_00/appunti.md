@@ -37,8 +37,13 @@ never satisfied
 
 but actually they were satisfied with the few things that they ahd
 
-They did not drink moka coffee ( coffeee w
+They did not drink moka coffee ( coffeee with milk  and chocolate )
+(only tea or black cofee)
+
+prime meat parts (but they ate rice, bread etc)
+
+so the author says ironically the opposite to denounce the working class starvation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDk3ODc5MSwxOTgxNTM2NzMsMTA1OT
-A3NzI1MiwxMDI5NTI2Mjg4XX0=
+eyJoaXN0b3J5IjpbMzU2NjQ0NDY4LDE5ODE1MzY3MywxMDU5MD
+c3MjUyLDEwMjk1MjYyODhdfQ==
 -->
