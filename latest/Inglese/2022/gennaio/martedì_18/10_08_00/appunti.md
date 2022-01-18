@@ -11,7 +11,7 @@ Labouring people did not attend churches
 middle class criticism against the working classes
 accused of being lazy
 3. 
-Church bells did not ca
+Church bells did not call the working class away from their own houses
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg3Nzk1ODQsMTAyOTUyNjI4OF19
+eyJoaXN0b3J5IjpbMTI5ODQxOTkyNywxMDI5NTI2Mjg4XX0=
 -->
