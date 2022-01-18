@@ -14,7 +14,7 @@ accused of being lazy
 Church bells did not call the working class away from their own houses
 They just walked around in laziness and watched the people going to church
 
-2. the other residents of coketown wanted to change 
+2. the other residents of coketown wanted to change their behaivour by force (l 47) petitioning for act of parliament
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDI5NzYyOSwxMDI5NTI2Mjg4XX0=
+eyJoaXN0b3J5IjpbMzUzNTc3MzQ3LDEwMjk1MjYyODhdfQ==
 -->
