@@ -13,7 +13,13 @@ Giolitti non guerrafondario, sarà control intervento italiano nella prima guerr
 ora nazionalismo esaperato
 
 
-destra conservatrice all'opposizione spinge + dilagare nazionalismo europeo (che causerà I guerra mondiale) 
+destra conservatrice all'opposizione spinge + dilagare nazionalismo europeo (che causerà I guerra mondiale) + gruppi economici avevano penetrato la libia
+
+
+Libia vista come sbocco per il flusso migratorio di Italiani che emigrano
+
+La Libia apparteneva formalmente all'impero ottomano
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTUzODQ1Nl19
+eyJoaXN0b3J5IjpbLTE1MjQyNjMwNzRdfQ==
 -->
