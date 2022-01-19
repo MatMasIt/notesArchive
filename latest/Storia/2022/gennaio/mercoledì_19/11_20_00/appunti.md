@@ -34,9 +34,10 @@ come lo vedono i socialisti?
 
 * Riformisti : opera di civilizzazione per fare progredire i popoli arretrati (responsabilità paternalistica - Kipling - nel civilizzare i popoli "incivilizzati")
 * Massimalisti : è una operazione condotta dalla classe dirigente capitalista a danno delle classi subordinate dei paesi conquistati e anche dei paesi che lo conquistano (soldati proletari)
-Secondo loro $\Delta classe > \Delta nazionalità$
+Secondo loro $\Delta classe > \Delta nazionalità$, nazionalismo è il male
+Bisogna sentirsi appartenti alla popria classe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE4MDQyODZdfQ==
+eyJoaXN0b3J5IjpbLTczMTYyNTkyMl19
 -->
