@@ -3,11 +3,11 @@
 Regolazione genica nello sviluppo embrionale
 
 * proliferazione
-* differenzziamento
-* mofogenesi
+* differenziamento, le cellule assumono specifiche funzioni 
+* mofogenesi, si organizzano in organi e apparti
 * apoptosi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTUwNDc2NzNdfQ==
+eyJoaXN0b3J5IjpbMjU4NjM5ODYzXX0=
 -->
