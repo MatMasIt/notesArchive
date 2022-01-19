@@ -36,8 +36,11 @@ come lo vedono i socialisti?
 * Massimalisti : è una operazione condotta dalla classe dirigente capitalista a danno delle classi subordinate dei paesi conquistati e anche dei paesi che lo conquistano (soldati proletari)
 Secondo loro $\Delta classe > \Delta nazionalità$, nazionalismo è il male
 Bisogna sentirsi appartenti alla popria classe
+Giovane _Benito Mussolini_ è massimalista
 
-
+nella maggioranza entrano 
+Repubblicani
+Radicali: componente liberale più progressista
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTYyNTkyMl19
+eyJoaXN0b3J5IjpbNjU4MjIyMzQ5XX0=
 -->
