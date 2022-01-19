@@ -19,6 +19,22 @@ spirito-guida della plebe e delle masse
 
 
 stato di emancipazione dai sistemi metafisici che ci si costruisce per confortarsi
+
+
+Fase supeomistica
+
+III libro, Alcyone
+
+fusione nella natura con una donna in Toscana
+
+villa di Settimiano
+
+tregua dal superuomo
+
+Panismo:
+
+essere un tutt uno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE2NDM2MDEsMTg5NjYwNzUzNl19
+eyJoaXN0b3J5IjpbLTkwMDQ3ODA3MCwtMTEwMTY0MzYwMSwxOD
+k2NjA3NTM2XX0=
 -->
