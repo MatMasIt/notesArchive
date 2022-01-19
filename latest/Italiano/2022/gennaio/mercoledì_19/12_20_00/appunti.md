@@ -12,6 +12,13 @@ p.412
 
 
 Superoismo
+
+Non è dato essere oltreuomini a tutti 
+
+spirito-guida della plebe e delle masse
+
+
+stato di emancipazione dai sistemi metafisici che ci si costruisce per confortarsi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjYwNzUzNl19
+eyJoaXN0b3J5IjpbLTExMDE2NDM2MDEsMTg5NjYwNzUzNl19
 -->
