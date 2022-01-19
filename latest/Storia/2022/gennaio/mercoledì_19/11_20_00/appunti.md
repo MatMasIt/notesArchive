@@ -24,7 +24,15 @@ l'impero ottomano si sta sgretolando quindi l'Italia vorrebbe agire
 
 Italia minaccia ottomani con dodecaneso e Rodi (le invade)
 
-Italia ottiene libia
+Italia ottiene libia e si tiene rodi e dodecaneso (non rispettando gli accordi)
+
+
+vittoria militare ma destabilizzazione politica
+
+colonialismo
+come lo vedono i socialisti?
+
+* Riformisti : opera di civilizzazione per fare progredire i popoli arretrati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTk3MzUwNl19
+eyJoaXN0b3J5IjpbLTY4OTE4NTEzNF19
 -->
