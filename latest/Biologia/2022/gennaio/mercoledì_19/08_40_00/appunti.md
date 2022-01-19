@@ -8,7 +8,7 @@ Regolazione genica nello sviluppo embrionale
 * apoptosi
 
 
-L'espressione del genoma è importante, il meccanismo di regolazione gene
+L'espressione del genoma è importante, il meccanismo di regolazione genica più del genoma stesso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Mjk3MDY3MV19
+eyJoaXN0b3J5IjpbLTE3OTk5NDkzMl19
 -->
