@@ -46,6 +46,16 @@ Radicali: componente liberale più progressista
 Coloro che avevano dato supporto alla guerra in libia poi furono espulsi dal partito
 
 Estrema sinistra massimalista: rivoluzionari
+
+Giolitti anni prima aveva promesso il suffragio universale
+
+ora per contrastare i socialisti stringe accordo con unione elettorale cattolica
+
+patto Gentiloni
+
+ingresso dei cattolici nel voto 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMDkzMzI0XX0=
+eyJoaXN0b3J5IjpbMjA1MzM2MDQyMCw0MjEwOTMzMjRdfQ==
 -->
