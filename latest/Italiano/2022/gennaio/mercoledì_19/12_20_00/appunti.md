@@ -34,7 +34,15 @@ tregua dal superuomo
 Panismo:
 
 essere un tutt uno
+
+
+Laudi
+
+come Jacopone da Todi
+
+
+tradizione letteratura italiana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDQ3ODA3MCwtMTEwMTY0MzYwMSwxOD
-k2NjA3NTM2XX0=
+eyJoaXN0b3J5IjpbODc5MDQwOTI2LC05MDA0NzgwNzAsLTExMD
+E2NDM2MDEsMTg5NjYwNzUzNl19
 -->
