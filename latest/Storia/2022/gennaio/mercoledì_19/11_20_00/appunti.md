@@ -38,9 +38,14 @@ Secondo loro $\Delta classe > \Delta nazionalità$, nazionalismo è il male
 Bisogna sentirsi appartenti alla popria classe
 Giovane _Benito Mussolini_ è massimalista
 
-nella maggioranza entrano 
-Repubblicani
+PSI mediato da Turati
+nella maggioranza entrano durante la guerra di Libia
+Repubblicani: sostengono Repubblica Italiana
 Radicali: componente liberale più progressista
+
+Coloro che avevano dato supporto alla guerra in libia poi furono espulsi dal partito
+
+Estrema sinistra massimalista: rivoluzionari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MjIyMzQ5XX0=
+eyJoaXN0b3J5IjpbNDIxMDkzMzI0XX0=
 -->
