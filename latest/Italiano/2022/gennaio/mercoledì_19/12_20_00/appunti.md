@@ -42,7 +42,14 @@ come Jacopone da Todi
 
 
 tradizione letteratura italiana
+
+Maia: lungo poema
+mito greco attualizzato
+
+nomi: sette figlie di []
+
+p 439 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5MDQwOTI2LC05MDA0NzgwNzAsLTExMD
-E2NDM2MDEsMTg5NjYwNzUzNl19
+eyJoaXN0b3J5IjpbLTIwMDgwMTg0NjcsLTkwMDQ3ODA3MCwtMT
+EwMTY0MzYwMSwxODk2NjA3NTM2XX0=
 -->
