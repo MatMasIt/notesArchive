@@ -32,7 +32,8 @@ vittoria militare ma destabilizzazione politica
 colonialismo
 come lo vedono i socialisti?
 
-* Riformisti : opera di civilizzazione per fare progredire i popoli arretrati
+* Riformisti : opera di civilizzazione per fare progredire i popoli arretrati (responsabilità paternalistica - Kipling - nel civilizzare i popoli "incivilizzati")
+* Massimalisti : è una operazione condotta dalla classe dirigente capitalista a danno delle classi subordinate dei ap
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTE4NTEzNF19
+eyJoaXN0b3J5IjpbLTY0NDY4MTMzNF19
 -->
