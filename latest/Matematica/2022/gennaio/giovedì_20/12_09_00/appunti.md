@@ -261,8 +261,29 @@ $$
 ### 2. Simmetrie
 
 $$
-f(-x)=\frac{2x^2-4}{-x-3}
+f(-x)=\frac{2x^2-4}{-x-3}\neq\pm f(x)
+$$
+non ci sono simmetrie evidenti
+
+### 3. Intersezioni con assi
+
+$x$
+
+$$
+\begin{equation} \begin{cases} y=0\\2x^2-4=0 \end{cases} \end{equation}
+$$
+
+### 4. Segno
+$$
+y > 0\\
+N 2x^2-4 > 0\\
+D x-3 > 0
+$$
+
+
+$$
+x
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTYyNzQ0OSwxMzMxODYwMjYyXX0=
+eyJoaXN0b3J5IjpbMTc0NTg1ODE2MiwxMzMxODYwMjYyXX0=
 -->
