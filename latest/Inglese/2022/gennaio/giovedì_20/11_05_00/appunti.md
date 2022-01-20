@@ -5,7 +5,9 @@ Plant facts, root out everything else
 Emotionss, feelings, irrationality, creativity, personality: root out
 field of peasants, gardening
 
-Util
+Utiltitarian
+
+Students like sterile land where facts, notions must be planted
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzcwNzcwN119
+eyJoaXN0b3J5IjpbLTE3MzAwNDc5NDFdfQ==
 -->
