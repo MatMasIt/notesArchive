@@ -19,8 +19,18 @@ $$
 $$
 
 $$
-\xrightarrow{-1=o(
+\xrightarrow[-1=o(2x)\land 1=o(x^2)]{-3=o(x)}
+$$
+
+$$
+\lim_{x\to 0})\frac{x^2}{2x}=\frac12
+$$
+
+2.
+
+$$
+\lim_{x\to\frac12^-}\frac{x^2+1}{(2x-1)(x-3)}=\frac{\frac54}{0^-\left(-\frac52\right)}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDc0ODk1MjZdfQ==
+eyJoaXN0b3J5IjpbMTExOTUyOTQ0OF19
 -->
