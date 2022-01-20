@@ -23,7 +23,9 @@ p . 494
 
 
 Stato: la più elementare manifestazione della ragione assoluta
+
+Hegel: filosofia della storia
+la storia ha un disegno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc2ODQyMTQsLTEwNzk0NTU5NzRdfQ
-==
+eyJoaXN0b3J5IjpbMTgwMDI2ODE1MSwtMTA3OTQ1NTk3NF19
 -->
