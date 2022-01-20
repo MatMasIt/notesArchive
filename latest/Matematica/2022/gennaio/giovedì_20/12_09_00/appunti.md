@@ -230,6 +230,13 @@ $$
 $$
 f(\beta)=-0,97
 $$
+
+
+$$
+\begin{equation*} \begin{cases} 
+y=\frac12\\y=f(x)
+\end{cases} \end{equation*}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTE2NTQ2MiwxMzMxODYwMjYyXX0=
+eyJoaXN0b3J5IjpbMjA1ODg1MDQ0NiwxMzMxODYwMjYyXX0=
 -->
