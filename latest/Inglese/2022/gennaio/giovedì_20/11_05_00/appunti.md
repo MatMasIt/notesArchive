@@ -19,6 +19,8 @@ caricature
 forehead compaed to wall
 
 l 13
+
+eyebrows: base of the wall
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjY3NTA5OSwtMTczMDA0Nzk0MV19
+eyJoaXN0b3J5IjpbODM2MjAwNjA2LC0xNzMwMDQ3OTQxXX0=
 -->
