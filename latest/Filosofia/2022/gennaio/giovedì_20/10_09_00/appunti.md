@@ -53,8 +53,8 @@ due popoli che si stanno scontrando
 
 la vittoria si verifica perchè il popolo vincente meglio conducelo siluppo delp pensiero
 
-Spirito del mo
+Spirito del mondo: pensiero quale si sta manifestando della sto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODQ1NjI4OCwtMTA1OTIwMDM1LC0xMD
+eyJoaXN0b3J5IjpbMTgyMzgzMTYyOSwtMTA1OTIwMDM1LC0xMD
 c5NDU1OTc0XX0=
 -->
