@@ -7,7 +7,7 @@ field of peasants, gardening
 
 Utiltitarian
 
-Students like sterile land where facts, notions must be planted
+Students like sterile land where facts, notions must be planted 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzAwNDc5NDFdfQ==
+eyJoaXN0b3J5IjpbMzM3MDY0MjgxLC0xNzMwMDQ3OTQxXX0=
 -->
