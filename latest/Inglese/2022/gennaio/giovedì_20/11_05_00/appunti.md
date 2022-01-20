@@ -38,7 +38,11 @@ head with knobs like the crust of a plum pie
 
 
 so many notions that there is no space inside his head
+
+Dictatorial voice
+
+The tie is choking Mr Gandgrind's throat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5NTgwMDQ0LDE4NjIzMzU1NjcsODM2Mj
-AwNjA2LC0xNzMwMDQ3OTQxXX0=
+eyJoaXN0b3J5IjpbMjA0MTUzMjU2NSw4Mjk1ODAwNDQsMTg2Mj
+MzNTU2Nyw4MzYyMDA2MDYsLTE3MzAwNDc5NDFdfQ==
 -->
