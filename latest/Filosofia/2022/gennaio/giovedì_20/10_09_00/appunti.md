@@ -32,6 +32,14 @@ per Hegel tre poteri
 Legislativo
 Governativo (esecutivo)
 Sovrano: il monarca : aspetto di individualità e di universalità
+Una singola persona che rappresenta tutti
+
+Hegel sostiene monarchia costituzionale
+
+Diritto statale interno
+
+
+diritto statale esterno:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzI4MTMwNSwtMTA3OTQ1NTk3NF19
+eyJoaXN0b3J5IjpbMTI0MTI4MTgyOCwtMTA3OTQ1NTk3NF19
 -->
