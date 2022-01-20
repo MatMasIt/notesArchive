@@ -295,6 +295,10 @@ $$
 
 Regola dei segni
 
+$$
+\Huge{+\space per : \}\normalsize -\sqrt 2< x < \sqrt 2
+$$
+
 ### 5. Condizioni estreme del $C.E.$
 
 1.
@@ -327,5 +331,5 @@ $$
 
 verticale $x=3$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjU3NDc0NywxMzMxODYwMjYyXX0=
+eyJoaXN0b3J5IjpbLTIwNjIwNzc5MjEsMTMzMTg2MDI2Ml19
 -->
