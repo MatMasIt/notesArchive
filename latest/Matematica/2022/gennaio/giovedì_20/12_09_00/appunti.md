@@ -235,8 +235,10 @@ $$
 $$
 \begin{equation*} \begin{cases} 
 y=\frac12\\y=f(x)
+\end{cases} \end{equation*}\begin{equation*} \begin{cases} 
+y=\frac12\\\frac12=\frac{x^2+1}{2x^27x+3}
 \end{cases} \end{equation*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODg1MDQ0NiwxMzMxODYwMjYyXX0=
+eyJoaXN0b3J5IjpbNDY1ODY1Njk4LDEzMzE4NjAyNjJdfQ==
 -->
