@@ -193,10 +193,15 @@ $$
 $$
 \alpha < x < \beta
 $$
-
+  
+         \             /
+          \           /
+		---|---------|--
+           a\||||||/B
+                -
 $$
-D> 0 \qua
+D> 0 \quad \forall x \in D
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDUzMjAxODhdfQ==
+eyJoaXN0b3J5IjpbMTMzMTg2MDI2Ml19
 -->
