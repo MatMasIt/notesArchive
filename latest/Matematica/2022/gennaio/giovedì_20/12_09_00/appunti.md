@@ -39,12 +39,20 @@ $$
 $$
 
 4.
-
-
 $$
-\lim_{x\to3^-}\frac{x^2+1}{(2x-1)(x-3)}=\frac{10}{5\cdot 0^-}=\frac{10}{0^-}
+\lim_{x\to3^-}\frac{x^2+1}{(2x-1)(x-3)}=\frac{10}{5\cdot 0^-}=\frac{10}{0^-}=-\infin
 $$
 
+5.
+$$
+\lim_{x\to3^+}\frac{x^2+1}{(2x-1)(x-3)}=\frac{10}{5\cdot 0^+}=\frac{10}{0^+}=+\infin
+$$
+
+
+6.
+$$
+\lim_{x\to+\infin}\frac{x^2+1}{(2x-1)(x-3)}=\frac{10}{5\cdot 0^+}=\frac{10}{0^+}=+\infin
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODMwNzQ3XX0=
+eyJoaXN0b3J5IjpbLTIwMzU5MjM5MTVdfQ==
 -->
