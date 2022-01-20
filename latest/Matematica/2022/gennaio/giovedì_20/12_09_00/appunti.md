@@ -179,12 +179,24 @@ $$
 ---
 
 $$
-7'=\frac{-7x^2+2x+7}{(2x^2-7x+3)
+7'=\frac{-7x^2+2x+7}{(2x^2-7x+3)^2}
 $$
 
 $$
 y'> 0\quad N> 0\quad -7x^2+2x+7> 0
 $$
+
+$$
+7x^2-2x-7> 0
+$$
+
+$$
+\alpha < x < \beta
+$$
+
+$$
+D> 0 \qua
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzI2NzgzNF19
+eyJoaXN0b3J5IjpbLTE2MDUzMjAxODhdfQ==
 -->
