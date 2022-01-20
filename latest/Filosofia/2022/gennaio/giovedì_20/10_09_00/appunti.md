@@ -54,7 +54,11 @@ due popoli che si stanno scontrando
 la vittoria si verifica perchè il popolo vincente meglio conducelo siluppo delp pensiero
 
 Spirito del mondo: pensiero quale si sta manifestando della sto
+
+i popoli soo gli strumenti
+
+insieme agl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzgzMTYyOSwtMTA1OTIwMDM1LC0xMD
-c5NDU1OTc0XX0=
+eyJoaXN0b3J5IjpbOTA4Nzk5NTQzLDE4MjM4MzE2MjksLTEwNT
+kyMDAzNSwtMTA3OTQ1NTk3NF19
 -->
