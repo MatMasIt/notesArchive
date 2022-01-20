@@ -26,6 +26,12 @@ Stato: la più elementare manifestazione della ragione assoluta
 
 Hegel: filosofia della storia
 la storia ha un disegno
+
+per Hegel tre poteri
+
+Legislativo
+Governativo (esecutivo)
+Sovrano: il monarca : aspetto di individualità e di universalità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDI2ODE1MSwtMTA3OTQ1NTk3NF19
+eyJoaXN0b3J5IjpbLTcyMzI4MTMwNSwtMTA3OTQ1NTk3NF19
 -->
