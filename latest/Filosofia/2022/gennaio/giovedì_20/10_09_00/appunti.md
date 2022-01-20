@@ -43,7 +43,10 @@ diritto statale esterno:
 secondo Hegel nulla sopra il potere degli stati
 
 gli stati non devono riconoscere poteri sopra di loro
+
+Guerra è giusta, sempre
+
+maniera in 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjEwMzUxMjUsLTEwNzk0NTU5NzRdfQ
-==
+eyJoaXN0b3J5IjpbOTc0MzY5NzYyLC0xMDc5NDU1OTc0XX0=
 -->
