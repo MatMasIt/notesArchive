@@ -1,5 +1,5 @@
 # Lezione di Matematica
-## es
+## $A$ analisi di funzione
 
 $$
 f:y=\frac{x^2+1}{(2x-1)(x-3)}
@@ -241,6 +241,28 @@ y=\frac12\\\frac12=\frac{x^2+1}{2x^27x+3}
 $$
 
 ![](https://i.imgur.com/WUQIk2Q.jpg)
+
+
+---
+
+
+## $B$ Analisi di funzione
+
+$$
+y=\frac{2x^2-4}{x-3}
+$$
+
+### 1. Dominio
+
+$$
+D\to x \neq 3\quad (-\infin,3)\cup(3,+\infin)
+$$
+
+### 2. Simmetrie
+
+$$
+f(-x)=\frac{2x^2-4}{-x-3}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTEzMzc1MywxMzMxODYwMjYyXX0=
+eyJoaXN0b3J5IjpbMTUxOTYyNzQ0OSwxMzMxODYwMjYyXX0=
 -->
