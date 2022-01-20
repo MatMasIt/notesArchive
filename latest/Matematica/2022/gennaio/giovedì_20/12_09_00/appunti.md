@@ -23,7 +23,7 @@ $$
 $$
 
 $$
-\lim_{x\to 0})\frac{x^2}{2x}=\frac12
+\lim_{x\to 0}\frac{x^2}{2x}=\frac12
 $$
 
 2.
@@ -51,8 +51,14 @@ $$
 
 6.
 $$
-\lim_{x\to+\infin}\frac{x^2+1}{(2x-1)(x-3)}=\frac{10}{5\cdot 0^+}=\frac{10}{0^+}=+\infin
+\lim_{x\to+\infin}\frac{x^2+1}{(2x-1)(x-3)}=
+$$
+
+7.
+
+$$
+\lim
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU5MjM5MTVdfQ==
+eyJoaXN0b3J5IjpbLTEzNjgzMzAwMDNdfQ==
 -->
