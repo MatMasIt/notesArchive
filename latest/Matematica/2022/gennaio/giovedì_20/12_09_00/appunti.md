@@ -340,8 +340,8 @@ m=\lim_{x\to \infin }\frac{f(x)}x=\lim_{x\to-\infin}\frac{2x^2-4}{(x-3)x}=\lim_{
 $$
 
 $$
-\xrightarrow[-4
+\xrightarrow[-4=o(2x^2)]{3x=o(x^2}\lim_{x\to -\infin}\frac{2\cancel{x^2}}{\cancel{x^2}}=2
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwMjUyMjQ3LDEzMzE4NjAyNjJdfQ==
+eyJoaXN0b3J5IjpbMTY0MTk4NjM3MCwxMzMxODYwMjYyXX0=
 -->
