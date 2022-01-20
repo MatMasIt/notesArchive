@@ -88,12 +88,23 @@ $$
 x < \frac12 \lor x  > 3
 $$
 
-               1/2           3
+               1/2              3
          --------@--------------@----------
                  |              |
-                 |                |
-                 |                |
-                 |                |
+                 |              |
+                 |              |
+                 |              |
+
+
+#### 4 asindoti
+
+$$
+\begin{equation*} \begin{cases} 
+y=0\\
+y=f(x)
+\end{cases} \end{equation*}
+\begin{equation*} \begin{cases} N=0\end{cases} \end{equation*}\implies \cancel{\exists}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Mzg2MzQ5N119
+eyJoaXN0b3J5IjpbLTU0Njc4ODgxXX0=
 -->
