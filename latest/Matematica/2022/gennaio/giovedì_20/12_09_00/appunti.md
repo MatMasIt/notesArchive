@@ -15,7 +15,7 @@ $$
 
 1.
 $$
-\lim_{x\to\infin}\frac{x^2+1}{(2x-1)(x-3)}=+\frac{+\infin}{+\infin} \quad FI
+\lim_{x\to-\infin}\frac{x^2+1}{(2x-1)(x-3)}=\frac{+\infin}{+\infin} \quad FI
 $$
 
 $$
@@ -57,8 +57,9 @@ $$
 7.
 
 $$
-\lim
+\lim_{x\to+\infin}=\text{vedi}(1.)=\frac12
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgzMzAwMDNdfQ==
+eyJoaXN0b3J5IjpbNDg4NzczMjRdfQ==
 -->
