@@ -88,7 +88,12 @@ $$
 x < \frac12 \lor x  > 3
 $$
 
-
+               1/2           3
+         --------@--------------@----------
+                 |              |
+                 |                |
+                 |                |
+                 |                |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTIwNTUzMzhdfQ==
+eyJoaXN0b3J5IjpbLTU4Mzg2MzQ5N119
 -->
