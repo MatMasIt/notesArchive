@@ -57,8 +57,8 @@ Spirito del mondo: pensiero quale si sta manifestando della sto
 
 i popoli soo gli strumenti
 
-insieme agl
+insieme agli individui con particolare aura (come Napoleone)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4Nzk5NTQzLDE4MjM4MzE2MjksLTEwNT
-kyMDAzNSwtMTA3OTQ1NTk3NF19
+eyJoaXN0b3J5IjpbMTg4MjkyNjYzOCwxODIzODMxNjI5LC0xMD
+U5MjAwMzUsLTEwNzk0NTU5NzRdfQ==
 -->
