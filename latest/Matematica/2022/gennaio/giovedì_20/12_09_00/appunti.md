@@ -202,6 +202,11 @@ $$
 $$
 D> 0 \quad \forall x \in D
 $$
+
+
+$$
+x=\beta \text{ massimo relativo }
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTg2MDI2Ml19
+eyJoaXN0b3J5IjpbLTcyOTc2MzczMywxMzMxODYwMjYyXX0=
 -->
