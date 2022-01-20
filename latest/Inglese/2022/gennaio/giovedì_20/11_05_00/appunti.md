@@ -34,8 +34,11 @@ hair: like a plantation of firs (abeti) ... trees
 
 metaphor
 
+head with knobs like the crust of a plum pie
 
+
+so many notions that there is no space inside his head
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjMzNTU2Nyw4MzYyMDA2MDYsLTE3Mz
-AwNDc5NDFdfQ==
+eyJoaXN0b3J5IjpbODI5NTgwMDQ0LDE4NjIzMzU1NjcsODM2Mj
+AwNjA2LC0xNzMwMDQ3OTQxXX0=
 -->
