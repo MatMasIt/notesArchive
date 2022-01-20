@@ -40,6 +40,10 @@ Diritto statale interno
 
 
 diritto statale esterno:
+secondo Hegel nulla sopra il potere degli stati
+
+gli stati non devono riconoscere poteri sopra di loro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTI4MTgyOCwtMTA3OTQ1NTk3NF19
+eyJoaXN0b3J5IjpbLTE0NjEwMzUxMjUsLTEwNzk0NTU5NzRdfQ
+==
 -->
