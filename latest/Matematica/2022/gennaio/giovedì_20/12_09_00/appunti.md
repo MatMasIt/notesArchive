@@ -160,8 +160,8 @@ y'=\frac{7x^2+2x+7}{(2x^2-7x+3)^2}
 $$
 
 $$
-y'=0\quad 7x^2-2x-t=0
-$$
+y'=0\quad 7x^2-2x-7=0
+$$ (cambio segno solo per equazione)
 
 $$
 x=\frac{1\pm\sqrt{1+49}}7=\frac{1\pm5\sqrt 2}7
@@ -178,10 +178,13 @@ $$
 
 ---
 
+$$
+7'=\frac{-7x^2+2x+7}{(2x^2-7x+3)
+$$
 
 $$
-y'> 0\quad N> 0\quad 7x^2
+y'> 0\quad N> 0\quad -7x^2+2x+7> 0
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzA4MzM4XX0=
+eyJoaXN0b3J5IjpbLTc4NzI2NzgzNF19
 -->
