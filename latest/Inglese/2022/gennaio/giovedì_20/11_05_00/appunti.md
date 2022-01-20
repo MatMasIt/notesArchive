@@ -21,6 +21,9 @@ forehead compaed to wall
 l 13
 
 eyebrows: base of the wall
+
+his hair is thick and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2MjAwNjA2LC0xNzMwMDQ3OTQxXX0=
+eyJoaXN0b3J5IjpbLTE1MzQ5MjIzMjgsODM2MjAwNjA2LC0xNz
+MwMDQ3OTQxXX0=
 -->
