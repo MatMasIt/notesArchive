@@ -44,7 +44,9 @@ Dictatorial voice
 The tie is choking Mr Gandgrind's throat
 
 compared to a stubborn fact that is choking the teacher
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0MTI0Miw4Mjk1ODAwNDQsMTg2MjMzNT
-U2Nyw4MzYyMDA2MDYsLTE3MzAwNDc5NDFdfQ==
+eyJoaXN0b3J5IjpbMTIzNzg1MTk3NiwzNjQxMjQyLDgyOTU4MD
+A0NCwxODYyMzM1NTY3LDgzNjIwMDYwNiwtMTczMDA0Nzk0MV19
+
 -->
