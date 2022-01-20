@@ -74,7 +74,21 @@ $$
 $$
 
 $$
+N> 0 \quad \forall x \in D
 $$
+
+D:
+
+			|         |
+	\\\\\\\\\          /////////
+	       1/2         3
+            Valori esterni		
+
+$$
+x < \frac12 \lor x  > 3
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjU0NDgyNl19
+eyJoaXN0b3J5IjpbLTEyOTIwNTUzMzhdfQ==
 -->
