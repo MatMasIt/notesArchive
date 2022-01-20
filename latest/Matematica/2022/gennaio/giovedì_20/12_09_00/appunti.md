@@ -296,7 +296,7 @@ $$
 Regola dei segni
 
 $$
-\Huge{+\space per : \}\normalsize -\sqrt 2< x < \sqrt 2
+\Huge{+\space per : \space}\normalsize -\sqrt 2< x < \sqrt 2
 $$
 
 ### 5. Condizioni estreme del $C.E.$
@@ -330,6 +330,14 @@ $$
 ### 6. Asindoti 
 
 verticale $x=3$
+
+$$
+y=\boxed m x
+$$
+
+$$
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjIwNzc5MjEsMTMzMTg2MDI2Ml19
+eyJoaXN0b3J5IjpbMjA2OTgwNzg5OCwxMzMxODYwMjYyXX0=
 -->
