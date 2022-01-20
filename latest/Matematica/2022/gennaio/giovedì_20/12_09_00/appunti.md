@@ -89,7 +89,7 @@ $$
 $$
 
 $$
-\lim_{x\to 0}\frac{x^2}{2x}=\frac12
+\lim_{x\to 0}\frac{x^{\cancel 2}}{2\cancel x}=\frac12
 $$
 
 2.
@@ -172,8 +172,16 @@ x_\alpha=\frac{1-5\sqrt 2}7
 $$
 
 $$
-x_\=\frac{1-5\sqrt 2}7
+x_\beta=\frac{1-5\sqrt 2}7
+$$
+
+
+---
+
+
+$$
+y'> 0\quad N> 0\quad 7x^2
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYzNDkzNDBdfQ==
+eyJoaXN0b3J5IjpbMTMxNzA4MzM4XX0=
 -->
