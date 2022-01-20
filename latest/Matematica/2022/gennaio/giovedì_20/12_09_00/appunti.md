@@ -148,12 +148,16 @@ $$
 ### Punti di stazionarietà
 
 $$
-y'=\frac{2x(2x^2-7x+3)-(4x-7)(x^2+1)}{}
+y'=\frac{2x(2x^2-7x+3)-(4x-7)(x^2+1)}{(2x^2-7x+3)^2}
 $$
 
 $$
-y'=\frac{
+y'=\frac{\cancel{4x^3}-14x^2+6x-\cancel{4x^3}-4x+7x^2+7}{(2x^2-7x+3)^2}
+$$
+
+$$
+y'=\frac{\cancel{4x^3}-14x^2+6x-\cancel{4x^3}-4x+7x^2+}{(2x^2-7x+3)^2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyODA4MDQyXX0=
+eyJoaXN0b3J5IjpbLTc1MjU4NjE5Ml19
 -->
