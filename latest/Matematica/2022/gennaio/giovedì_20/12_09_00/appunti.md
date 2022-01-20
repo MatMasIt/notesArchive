@@ -1,5 +1,5 @@
 # Lezione di Matematica
-
+## es
 
 $$
 f:y=\frac{x^2+1}{(2x-1)(x-3)}
@@ -7,7 +7,7 @@ $$
 
 $D$   $2x+1\neq 0\quad x\neq \frac12$
 $x-3\neq 0 \quad x\neq 3$
-
+### 1
 $$
 D=\left(-\infin,\frac12\right)\cup\left(\frac12,3\right)\cup\left(3,+\infin\right)
 $$
@@ -60,6 +60,21 @@ $$
 \lim_{x\to+\infin}=\text{vedi}(1.)=\frac12
 $$
 
+
+### 2
+$$
+f(-x)=\frac{x^2+1}{2x^2+7x+3}
+$$
+Non ci sono simmetrie evidenti
+
+### 3 Segno $f(x)> 0$
+
+$$
+\frac{x^2+1}{(2x-1)(x-3)}> 0
+$$
+
+$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4NzczMjRdfQ==
+eyJoaXN0b3J5IjpbMTg0MjU0NDgyNl19
 -->
