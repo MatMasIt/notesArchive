@@ -293,9 +293,21 @@ Regola dei segni
 
 ### 5. Condizioni estreme del $C.E.$
 
+1.
 $$
-\lim-{x\to \infin\frac{2x^2-4}{x-3}
+\lim{x\to -\infin}\frac{2x^2-4}{x-3}=\frac{+\infin}{-\infin}\quad FI
 $$
+
+$$
+\xrightarrow[+3=o(x)]{-4=0(2x^2)}\frac{2x^2}{x}=-\infin
+$$
+
+2.
+$$
+\lim{x\to3 ^-}\frac{2x^2-4}{x-3}
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTQyMTY4MywxMzMxODYwMjYyXX0=
+eyJoaXN0b3J5IjpbMjAyMjIzMTYxMSwxMzMxODYwMjYyXX0=
 -->
