@@ -332,12 +332,16 @@ $$
 verticale $x=3$
 
 $$
-y=\boxed m x
+y=\boxed m x+\boxed q
 $$
 
 $$
+m=\lim_{x\to \infin }\frac{f(x)}x=\lim_{x\to-\infin}\frac{2x^2-4}{(x-3)x}=\lim_{x\to-\infin}\frac{2x^2-4}{x^3-3x}=\frac\infin\infin\quad FI
+$$
 
+$$
+\xrightarrow[-4
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTgwNzg5OCwxMzMxODYwMjYyXX0=
+eyJoaXN0b3J5IjpbNDQwMjUyMjQ3LDEzMzE4NjAyNjJdfQ==
 -->
