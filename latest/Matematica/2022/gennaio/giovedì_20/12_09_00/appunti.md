@@ -29,8 +29,8 @@ $$
 2.
 
 $$
-\lim_{x\to\frac12^-}\frac{x^2+1}{(2x-1)(x-3)}=\frac{\frac54}{0^-\left(-\frac52\right)}
+\lim_{x\to\frac12^-}\frac{x^2+1}{(2x-1)(x-3)}=\frac{\frac54}{0^-\cdot\left(-\frac52\right)}=\frac{\frac54}{0^+}=+\infin
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTUyOTQ0OF19
+eyJoaXN0b3J5IjpbLTIwNjc2MzkwMzVdfQ==
 -->
