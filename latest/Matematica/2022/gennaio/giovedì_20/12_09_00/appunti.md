@@ -276,6 +276,10 @@ $$
 \begin{equation*} \begin{cases} y=0\\2x^2-4=0 \end{cases} \end{equation*}
 $$
 
+$$
+x=\pm \sqrt 2
+$$
+
 ### 4. Segno
 $$
 y > 0\\
@@ -306,17 +310,22 @@ $$
 $$
 \lim_{x\to3 ^-}\frac{2x^2-4}{x-3}=\frac{14}{0^-}=-\infin
 $$
+
 3.
 
 $$
-\lim_{x\to3 ^-}\frac{2x^2-4}{x-3}=	frac{14}{0^+}=+\infin
+\lim_{x\to3 ^+}\frac{2x^2-4}{x-3}=	frac{14}{0^+}=+\infin
 $$
 
+4.
+
 $$
-\lim_{x\to +\infin}\frac{2x^2-4}{x-3}=\frac{+\infin}{-
+\lim_{x\to +\infin}\frac{2x^2-4}{x-3}=vedi(1.)=+\infin
 $$
 
+### 6. Asindoti 
 
+verticale $x=3$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0ODQyNzg1LDEzMzE4NjAyNjJdfQ==
+eyJoaXN0b3J5IjpbLTMwNjU3NDc0NywxMzMxODYwMjYyXX0=
 -->
