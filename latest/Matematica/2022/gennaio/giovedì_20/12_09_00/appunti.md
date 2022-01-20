@@ -239,6 +239,8 @@ y=\frac12\\y=f(x)
 y=\frac12\\\frac12=\frac{x^2+1}{2x^27x+3}
 \end{cases} \end{equation*}
 $$
+
+![](https://i.imgur.com/WUQIk2Q.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1ODY1Njk4LDEzMzE4NjAyNjJdfQ==
+eyJoaXN0b3J5IjpbLTk0MTEzMzc1MywxMzMxODYwMjYyXX0=
 -->
