@@ -21,6 +21,9 @@ Siamo convinti che lo stato dovrebbe fare l'interesse generale
 p . 494
 
 
+
+Stato: la più elementare manifestazione della ragione assoluta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzk0NTU5NzRdfQ==
+eyJoaXN0b3J5IjpbLTE5Mzc2ODQyMTQsLTEwNzk0NTU5NzRdfQ
+==
 -->
