@@ -156,8 +156,24 @@ y'=\frac{\cancel{4x^3}-14x^2+6x-\cancel{4x^3}-4x+7x^2+7}{(2x^2-7x+3)^2}
 $$
 
 $$
-y'=\frac{\cancel{4x^3}-14x^2+6x-\cancel{4x^3}-4x+7x^2+}{(2x^2-7x+3)^2}
+y'=\frac{7x^2+2x+7}{(2x^2-7x+3)^2}
+$$
+
+$$
+y'=0\quad 7x^2-2x-t=0
+$$
+
+$$
+x=\frac{1\pm\sqrt{1+49}}7=\frac{1\pm5\sqrt 2}7
+$$
+
+$$
+x_\alpha=\frac{1-5\sqrt 2}7
+$$
+
+$$
+x_\=\frac{1-5\sqrt 2}7
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjU4NjE5Ml19
+eyJoaXN0b3J5IjpbLTExMzYzNDkzNDBdfQ==
 -->
