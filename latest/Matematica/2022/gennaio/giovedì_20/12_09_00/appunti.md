@@ -270,7 +270,7 @@ non ci sono simmetrie evidenti
 $x$
 
 $$
-\begin{equation} \begin{cases} y=0\\2x^2-4=0 \end{cases} \end{equation}
+\begin{equation*} \begin{cases} y=0\\2x^2-4=0 \end{cases} \end{equation*}
 $$
 
 ### 4. Segno
@@ -282,8 +282,13 @@ $$
 
 
 $$
-x
+N x < -\sqrt{2}\lor x > \sqrt 2\\
+Dx > 3
 $$
+
+		-sqrt 2  |    sqrt 2 |  3
+  N              +               - + +
+  - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTg1ODE2MiwxMzMxODYwMjYyXX0=
+eyJoaXN0b3J5IjpbMzM5NTA1NTQ5LDEzMzE4NjAyNjJdfQ==
 -->
