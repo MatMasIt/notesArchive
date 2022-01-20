@@ -45,8 +45,10 @@ The tie is choking Mr Gandgrind's throat
 
 compared to a stubborn fact that is choking the teacher
 
+
+little vessels: little students to be filled
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzg1MTk3NiwzNjQxMjQyLDgyOTU4MD
-A0NCwxODYyMzM1NTY3LDgzNjIwMDYwNiwtMTczMDA0Nzk0MV19
+eyJoaXN0b3J5IjpbOTY4MDU4MDM1LDM2NDEyNDIsODI5NTgwMD
+Q0LDE4NjIzMzU1NjcsODM2MjAwNjA2LC0xNzMwMDQ3OTQxXX0=
 
 -->
