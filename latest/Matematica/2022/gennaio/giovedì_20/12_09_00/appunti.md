@@ -342,6 +342,14 @@ $$
 $$
 \xrightarrow[-4=o(2x^2)]{3x=o(x^2}\lim_{x\to -\infin}\frac{2\cancel{x^2}}{\cancel{x^2}}=2
 $$
+
+$$
+q=\lim_{x\to-\infin}\left[f(x)-mx\right]=\lim_{x\to -\infin}\frac{2x^2-4}{x-3}-2x=
+$$
+
+$$
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTk4NjM3MCwxMzMxODYwMjYyXX0=
+eyJoaXN0b3J5IjpbLTc3NzA4ODA5OCwxMzMxODYwMjYyXX0=
 -->
