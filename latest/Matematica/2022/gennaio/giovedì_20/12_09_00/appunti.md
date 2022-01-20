@@ -248,6 +248,9 @@ $$
 
 ## $B$ Analisi di funzione
 
+> ==Incompleta==
+> Troppo veloce, prof !
+
 $$
 y=\frac{2x^2-4}{x-3}
 $$
@@ -286,9 +289,13 @@ N x < -\sqrt{2}\lor x > \sqrt 2\\
 Dx > 3
 $$
 
-		-sqrt 2  |    sqrt 2 |  3
-  N              +               - + +
-  - - 
+Regola dei segni
+
+### 5. Condizioni estreme del $C.E.$
+
+$$
+\lim-{x\to \infin\frac{2x^2-4}{x-3}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5NTA1NTQ5LDEzMzE4NjAyNjJdfQ==
+eyJoaXN0b3J5IjpbMTAzOTQyMTY4MywxMzMxODYwMjYyXX0=
 -->
