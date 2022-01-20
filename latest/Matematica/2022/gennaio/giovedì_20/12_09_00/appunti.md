@@ -207,6 +207,32 @@ $$
 $$
 x=\beta \text{ massimo relativo }
 $$
+
+
+---
+
+```
+>>> a=(1-5*2**0.5)/7
+>>> b=(1+5*2**0.5)/7
+>>> res=(ans**2+1)/((2*ans-1)*(ans-3))
+>>> res
+0.2398971142471224
+>>> ans =a
+>>> res=(ans**2+1)/((2*ans-1)*(ans-3))
+>>> res
+0.16568542494923805
+>>> ans = b
+>>> res=(ans**2+1)/((2*ans-1)*(ans-3))
+>>> res
+-0.965685424949238
+```
+$$
+f(\alpha)=0,16
+$$
+
+$$
+f(\beta)=-0,97
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTc2MzczMywxMzMxODYwMjYyXX0=
+eyJoaXN0b3J5IjpbLTEyMjI2NzA2NiwxMzMxODYwMjYyXX0=
 -->
