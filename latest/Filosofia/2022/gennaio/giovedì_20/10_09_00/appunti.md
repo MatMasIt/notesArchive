@@ -46,7 +46,12 @@ gli stati non devono riconoscere poteri sopra di loro
 
 Guerra è giusta, sempre
 
-maniera in 
+maniera in cui il pensiero si sviluppa
+
+due popoli che si stanno scontrando
+
+
+la vittoria si verifica perchè il popolo vincente meglio conducelo siluppo delp pensiero
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0MzY5NzYyLC0xMDc5NDU1OTc0XX0=
+eyJoaXN0b3J5IjpbLTEwNTkyMDAzNSwtMTA3OTQ1NTk3NF19
 -->
