@@ -5,6 +5,7 @@ Plant facts, root out everything else
 Emotionss, feelings, irrationality, creativity, personality: root out
 field of peasants, gardening
 
+Util
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjI2MTU1MV19
+eyJoaXN0b3J5IjpbMTQ2NzcwNzcwN119
 -->
