@@ -210,14 +210,11 @@ $$
 
 
 ---
-
+Calcolo la funzione nei punti
 ```
 >>> a=(1-5*2**0.5)/7
 >>> b=(1+5*2**0.5)/7
->>> res=(ans**2+1)/((2*ans-1)*(ans-3))
->>> res
-0.2398971142471224
->>> ans =a
+>>> ans = a
 >>> res=(ans**2+1)/((2*ans-1)*(ans-3))
 >>> res
 0.16568542494923805
@@ -234,5 +231,5 @@ $$
 f(\beta)=-0,97
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI2NzA2NiwxMzMxODYwMjYyXX0=
+eyJoaXN0b3J5IjpbLTYwMTE2NTQ2MiwxMzMxODYwMjYyXX0=
 -->
