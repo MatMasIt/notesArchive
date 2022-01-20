@@ -13,7 +13,12 @@ Mr Gradgrind
 
 square and strict person
 narrow minded
+
+caricature
+
+forehead compaed to wall
+
+l 13
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc0NjM2MzgsLTE3MzAwNDc5NDFdfQ
-==
+eyJoaXN0b3J5IjpbLTQ1NjY3NTA5OSwtMTczMDA0Nzk0MV19
 -->
