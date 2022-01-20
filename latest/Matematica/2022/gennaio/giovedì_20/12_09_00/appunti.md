@@ -348,8 +348,13 @@ q=\lim_{x\to-\infin}\left[f(x)-mx\right]=\lim_{x\to -\infin}\frac{2x^2-4}{x-3}-2
 $$
 
 $$
+\lim_{x\to \infin}\frac{2x^2-4-2x^2+6}{x-3}=6
+$$
+
 
 $$
+y=2x+6
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzA4ODA5OCwxMzMxODYwMjYyXX0=
+eyJoaXN0b3J5IjpbMTkzNjQ1NTAzMywxMzMxODYwMjYyXX0=
 -->
