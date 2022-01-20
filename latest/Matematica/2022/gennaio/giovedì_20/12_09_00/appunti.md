@@ -103,8 +103,19 @@ $$
 y=0\\
 y=f(x)
 \end{cases} \end{equation*}
-\begin{equation*} \begin{cases} N=0\end{cases} \end{equation*}\implies \cancel{\exists}
+\begin{equation*} \begin{cases} N=0\end{cases} \end{equation*}\implies \cancel{\exists} \cap \text{ con asse }x
+$$
+
+$$
+\begin{equation*} \begin{cases} 
+x=0\\
+y=f(x)
+\end{cases} \end{equation*}
+\begin{equation*} \begin{cases}
+x=0\\
+y=\frac13
+ \end{cases} \end{equation*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Njc4ODgxXX0=
+eyJoaXN0b3J5IjpbMzc1MDQ2NjgzXX0=
 -->
