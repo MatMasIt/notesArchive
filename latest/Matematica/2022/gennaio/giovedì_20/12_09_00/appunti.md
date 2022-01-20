@@ -295,7 +295,7 @@ Regola dei segni
 
 1.
 $$
-\lim{x\to -\infin}\frac{2x^2-4}{x-3}=\frac{+\infin}{-\infin}\quad FI
+\lim_{x\to -\infin}\frac{2x^2-4}{x-3}=\frac{+\infin}{-\infin}\quad FI
 $$
 
 $$
@@ -304,10 +304,19 @@ $$
 
 2.
 $$
-\lim{x\to3 ^-}\frac{2x^2-4}{x-3}
+\lim_{x\to3 ^-}\frac{2x^2-4}{x-3}=\frac{14}{0^-}=-\infin
+$$
+3.
+
+$$
+\lim_{x\to3 ^-}\frac{2x^2-4}{x-3}=	frac{14}{0^+}=+\infin
+$$
+
+$$
+\lim_{x\to +\infin}\frac{2x^2-4}{x-3}=\frac{+\infin}{-
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjIzMTYxMSwxMzMxODYwMjYyXX0=
+eyJoaXN0b3J5IjpbMzc0ODQyNzg1LDEzMzE4NjAyNjJdfQ==
 -->
