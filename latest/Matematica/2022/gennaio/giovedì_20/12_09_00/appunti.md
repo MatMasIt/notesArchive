@@ -36,7 +36,7 @@ D:
             Valori esterni		
 
 $$
-x < \frac12 \lor x  > 3
+D: x < \frac12 \lor x  > 3
 $$
 
                1/2              3
@@ -44,8 +44,16 @@ $$
       N     +    |      +       |    +
       D     +    |      -       |    +
       ===========|==============|===========
-            +    |              |
+            +    |       -      |    +
 
+
+Segno positivo per 
+
+
+$$
+x < \frac12 \lor x  > 3
+$$
+$$
 
 ### 4. asindoti
 
@@ -136,6 +144,16 @@ Asindoti orizzontali:
 $$
 y=\frac12
 $$
+
+### Punti di stazionarietà
+
+$$
+y'=\frac{2x(2x^2-7x+3)-(4x-7)(x^2+1)}{}
+$$
+
+$$
+y'=\frac{
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjU2NzAwMTVdfQ==
+eyJoaXN0b3J5IjpbNTYyODA4MDQyXX0=
 -->
