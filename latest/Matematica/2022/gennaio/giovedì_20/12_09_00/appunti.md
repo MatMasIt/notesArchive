@@ -44,7 +44,7 @@ $$
       N     +    |      +       |    +
       D     +    |      -       |    +
       ===========|==============|===========
-                 |              |
+            +    |              |
 
 
 ### 4. asindoti
@@ -122,8 +122,20 @@ $$
 
 
 $$
-\lim_{x\to x_0}f(x)=\pm\infin \implies x=x_
+\lim_{x\to x_0}f(x)=\pm\infin \implies x=x_0 \text{ è asindoto verticale}
+$$
+
+Asindoti verticali:
+
+$$
+x=\frac12\quad x=3
+$$
+
+Asindoti orizzontali:
+
+$$
+y=\frac12
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzcxNDI3MzFdfQ==
+eyJoaXN0b3J5IjpbLTEyNjU2NzAwMTVdfQ==
 -->
