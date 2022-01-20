@@ -42,7 +42,9 @@ so many notions that there is no space inside his head
 Dictatorial voice
 
 The tie is choking Mr Gandgrind's throat
+
+compared to a stubborn fact that is choking the teacher
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTUzMjU2NSw4Mjk1ODAwNDQsMTg2Mj
-MzNTU2Nyw4MzYyMDA2MDYsLTE3MzAwNDc5NDFdfQ==
+eyJoaXN0b3J5IjpbMzY0MTI0Miw4Mjk1ODAwNDQsMTg2MjMzNT
+U2Nyw4MzYyMDA2MDYsLTE3MzAwNDc5NDFdfQ==
 -->
