@@ -22,8 +22,14 @@ l 13
 
 eyebrows: base of the wall
 
-his hair is thick and 
+his hair is thick and straight
+
+little hair
+
+his hair only covers the sides of his bald head
+
+not very attractive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ5MjIzMjgsODM2MjAwNjA2LC0xNz
-MwMDQ3OTQxXX0=
+eyJoaXN0b3J5IjpbMTczNzk5MTY2Myw4MzYyMDA2MDYsLTE3Mz
+AwNDc5NDFdfQ==
 -->
