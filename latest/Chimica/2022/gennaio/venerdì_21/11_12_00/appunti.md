@@ -80,7 +80,10 @@ Caratteristiche $C=O$
 
 
 Più è  alto il peso molecolare meno è solubile
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDMxNzMwMSwxMTczOTcwMTYsLTI2Nj
-UyODI3NCwzODE0MzUwMzVdfQ==
+eyJoaXN0b3J5IjpbLTE1Mjg4OTcxOTUsMTE3Mzk3MDE2LC0yNj
+Y1MjgyNzQsMzgxNDM1MDM1XX0=
 -->
