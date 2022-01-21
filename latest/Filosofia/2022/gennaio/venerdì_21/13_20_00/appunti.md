@@ -10,7 +10,7 @@ nei licei filosofia inserita nel 29
 
 r 19 p 497
 
-arte è il momento in cui
+arte è il momento in cui lo spirito viene colto in forma immediata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTg5MTAxMV19
+eyJoaXN0b3J5IjpbODU4ODIwNDA5XX0=
 -->
