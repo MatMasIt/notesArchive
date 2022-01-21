@@ -62,6 +62,23 @@ tema della metamorfosi e antropomorfizzazione della natura
 5 sezioni, da giugno a settemrbe
 
 spesso descrizioni evocative, non troppo realistiche 
+
+
+La sera fiesolana
+
+grano non è biondo ancora
+
+il fieno ha patito la falce
+
+fratelli ulivi, mistica francescana 
+
+
+siamo a Giugno
+
+* polle/fonti sacre
+* colline incurvate come labbra chiuse
+* di dirò, ti svelerò reame
+* antichi 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTk1MTE0XX0=
+eyJoaXN0b3J5IjpbLTQ3NzUzOTQyMF19
 -->
