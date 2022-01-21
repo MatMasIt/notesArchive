@@ -64,9 +64,25 @@ $$
 -U_g=K_c
 $$
 
-$$
-$$
+...
+
+
+
+---
+
+Il campo elettrico è sempre ortogonale alle superfici equipotenziali ed è sempre diretto nel verso decrescente del potenziale
+
+                     E
+            |-|  < ---------   |+|
+            |-|  < ---------   |+|
+            |-|  < ---------   |+|
+            |-|  < ---------   |+|
+            
+			|-|  < ---------   |+|
+			10V   200 30 40 50  60V
+			
+			diff potenzale: 50 V
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0ODIwNDg1NywtMzU2MzU4OTIyLDEzND
-Y5Mjg0MTddfQ==
+eyJoaXN0b3J5IjpbLTY4MTY1ODkyNywxNDQ4MjA0ODU3LC0zNT
+YzNTg5MjIsMTM0NjkyODQxN119
 -->
