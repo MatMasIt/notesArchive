@@ -12,6 +12,11 @@ agire politico aristocratico
 da poeta-esteta che vive solo di arte
 a
 poeta-vate che guida popolo, borghesia, classe dirigente
+
+
+poeta manipolatore della parola
+
+artista superomistico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0OTgxNzUwXX0=
+eyJoaXN0b3J5IjpbNzAyOTkyNTIzXX0=
 -->
