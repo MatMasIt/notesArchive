@@ -1,4 +1,4 @@
-# Title# Compiti di matematica
+# Compiti di matematica
 ## es 281 p 229
 
 $$
@@ -205,5 +205,5 @@ $$
                       
 ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM3MTA4NjRdfQ==
+eyJoaXN0b3J5IjpbLTE0ODAzODc1MzVdfQ==
 -->
