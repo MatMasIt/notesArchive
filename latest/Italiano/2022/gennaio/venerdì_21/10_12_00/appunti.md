@@ -118,7 +118,22 @@ al verso 9 d'annunzio inserisce un quinario
 
 Poeta affabulatore
 
-t. 6 la pioggia nel 
+t. 6 la pioggia nel pineto
+
+settenari, ottonari, novenari
+
+inizi luglio 1899
+
+4 strofe lunghe come sinfonia
+
+
+ambizione di scrivere una sinfonia si suoni
+
+metamorfosi tra umano e naturale con divinizzazione
+
+metapoesia, dichiarazione di poetica
+
+passeggiata do
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTM4NTk0OF19
+eyJoaXN0b3J5IjpbLTk0ODc3MjI0M119
 -->
