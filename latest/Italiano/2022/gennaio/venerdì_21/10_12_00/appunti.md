@@ -79,6 +79,17 @@ siamo a Giugno
 * colline incurvate come labbra chiuse
 * di dirò, ti svelerò reame
 * antichi 
+* volontà di dire
+* silenzio
+* ma io ti dirò
+
+segreto silente sulle colline
+
+parole segrete vietate, impronunciabili
+
+Rito iniziatico, dionisiaco per accedere ad uno stato quasi da mediu,rituale, sovrasesoriale
+
+l'ac
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzUzOTQyMF19
+eyJoaXN0b3J5IjpbODcyMzY2Mzc2XX0=
 -->
