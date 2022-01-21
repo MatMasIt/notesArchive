@@ -133,7 +133,16 @@ metamorfosi tra umano e naturale con divinizzazione
 
 metapoesia, dichiarazione di poetica
 
-passeggiata do
+passeggiata dopo la pioggia per musicare i suoni in parolem per descrivere una metamordosi
+
+
+unificazione dei sensi
+
+fondamentalmente per esprimere il poetere del verbo, l'artificio della parola, il poeta ne è il grande manipolatore
+
+
+societàa della riproducibilità tecnica dlelle opere d'arte
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODc3MjI0M119
+eyJoaXN0b3J5IjpbMTE2MDE3OTE3OV19
 -->
