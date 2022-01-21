@@ -15,6 +15,8 @@ arte è il momento in cui il pensiero viene colto in forma immediata
 arte non pura come religione
 
 che non è pura come filosofia
+
+arte: spiritualità del soggetto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDA5NDIzMl19
+eyJoaXN0b3J5IjpbLTE3NTMyNjM4ODUsMTM3NDA5NDIzMl19
 -->
