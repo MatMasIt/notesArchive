@@ -72,11 +72,11 @@ chetoni
 
 
 
-Caratteristiche
+Caratteristiche $C=O$
 1. Ibridazione $sp^2$ ($120°$)
 2. legame $\pi$ ($p$)
-3. 
+3. c'è $\Delta\text{elettronegatività}$: $\quad C^{\delta^+}\quad O^{\delta^-}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDc3Njc4OCwtMjY2NTI4Mjc0LDM4MT
-QzNTAzNV19
+eyJoaXN0b3J5IjpbLTE0NDQyMjk0NDAsLTI2NjUyODI3NCwzOD
+E0MzUwMzVdfQ==
 -->
