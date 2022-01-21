@@ -76,8 +76,8 @@ Caratteristiche $C=O$
 1. Ibridazione $sp^2$ ($120°$)
 2. legame $\pi$ ($p$)
 3. c'è $\Delta\text{elettronegatività}$: $\quad C^{\delta^+}\quad O^{\delta^-}$
-4. le
+4. legame più breve: più polarizzato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjc4ODUxOSwtMjY2NTI4Mjc0LDM4MT
-QzNTAzNV19
+eyJoaXN0b3J5IjpbMTE3Mzk3MDE2LC0yNjY1MjgyNzQsMzgxND
+M1MDM1XX0=
 -->
