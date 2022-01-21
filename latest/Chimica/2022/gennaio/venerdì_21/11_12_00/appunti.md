@@ -74,9 +74,9 @@ chetoni
 
 Caratteristiche
 1. Ibridazione $sp^2$
-2. legame $\pi$
+2. legame $\pi$ ($p$)
 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ1NjIyOTUsLTI2NjUyODI3NCwzOD
-E0MzUwMzVdfQ==
+eyJoaXN0b3J5IjpbLTU4MjE3NjczNCwtMjY2NTI4Mjc0LDM4MT
+QzNTAzNV19
 -->
