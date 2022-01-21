@@ -90,11 +90,10 @@ Il campo elettrico è sempre ortogonale alle superfici equipotenziali ed è semp
 
 
 
-
-$$
-e=1,6\cdot 10^{-19}C
-$$
+> **Dati**
+$e=1,6\cdot 10^{-19}C$
+$d=1,cm=1,2\cdot10^{-2}m$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzgwMTU5LDE0NDgyMDQ4NTcsLTM1Nj
-M1ODkyMiwxMzQ2OTI4NDE3XX0=
+eyJoaXN0b3J5IjpbMTQwMzIyNDA4OCwxNDQ4MjA0ODU3LC0zNT
+YzNTg5MjIsMTM0NjkyODQxN119
 -->
