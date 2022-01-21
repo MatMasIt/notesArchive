@@ -73,10 +73,10 @@ chetoni
 
 
 Caratteristiche
-1. Ibridazione $sp^2$
+1. Ibridazione $sp^2$ ($120°$)
 2. legame $\pi$ ($p$)
 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjE3NjczNCwtMjY2NTI4Mjc0LDM4MT
+eyJoaXN0b3J5IjpbMTk2NDc3Njc4OCwtMjY2NTI4Mjc0LDM4MT
 QzNTAzNV19
 -->
