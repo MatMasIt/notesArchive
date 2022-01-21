@@ -21,8 +21,16 @@ $$
 
 
 $$
-E_M=-G\frac{m_Tm_s}{d_A}-\frac12mt\cdot V_A^2
+E_M=-G\frac{m_Tm_s}{d_A}-\frac12mt\cdot v_A^2=-2,68\cdot 10^{33}J
+$$
+
+
+Risolviamo come **Sistema legato**
+
+
+$$
+F_g=F_C
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzQ1NDE1NF19
+eyJoaXN0b3J5IjpbMTM0NjkyODQxN119
 -->
