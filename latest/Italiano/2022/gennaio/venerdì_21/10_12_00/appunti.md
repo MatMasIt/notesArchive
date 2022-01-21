@@ -38,6 +38,25 @@ maia, elettra e alcyone
 
 
 celebra poi anche la libia
+
+
+potenza del verbo
+
+
+creazione allegorica
+
+le cose si generano quando Adamo le nomina
+
+
+la lingua fa esistere
+
+
+Soggiorno in Versilia zona costiera settentrionale in Toscana
+
+Tra Fiesole e la costa della Toscana
+
+
+tema
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzA1NTE2Ml19
+eyJoaXN0b3J5IjpbNTg1OTUwNjEyXX0=
 -->
