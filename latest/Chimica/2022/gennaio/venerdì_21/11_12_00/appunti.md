@@ -87,8 +87,13 @@ Chetoni meno reattivi delle aldeidi
 
 emiacetale:
 gruppo ossidrilico eterico contemporaneamente
+
+
+Carboidrati p.165
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE1MzU5MTMsMjg4NTU5ODYwLC0xNT
-I4ODk3MTk1LDExNzM5NzAxNiwtMjY2NTI4Mjc0LDM4MTQzNTAz
-NV19
+eyJoaXN0b3J5IjpbMTc5MTg0MjcxNywyODg1NTk4NjAsLTE1Mj
+g4OTcxOTUsMTE3Mzk3MDE2LC0yNjY1MjgyNzQsMzgxNDM1MDM1
+XX0=
 -->
