@@ -28,7 +28,16 @@ sventrati palazzi medievali per nuovi arterie, ministeri con impiegati
 
 non c'è lo slancio imperialistico
 
+oligarchia, non democrazia
 
+Laudi, 7 figlie di atante
+
+ne scrive solo 5
+
+maia, elettra e alcyone
+
+
+celebra poi anche la libia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzIwNDcwNThdfQ==
+eyJoaXN0b3J5IjpbMTg3NzA1NTE2Ml19
 -->
