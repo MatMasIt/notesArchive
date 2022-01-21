@@ -124,9 +124,15 @@ $v_0=1,3\cdot10^6\frac{m}s$
 
 
 
+$$
+\begin{equation} \begin{cases} x=v_0r\\y=\frac12at^2 \end{cases} \end{equation}
+$$
 
+$$
+F=ma=F_C=Ee
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjg3OTYwMywxMzU5MTAzODM0LC03MD
-Y3ODE3NzQsLTE1MDExMTA2NTAsMTQ0ODIwNDg1NywtMzU2MzU4
-OTIyLDEzNDY5Mjg0MTddfQ==
+eyJoaXN0b3J5IjpbNzk0NjAwNTYyLDEzNTkxMDM4MzQsLTcwNj
+c4MTc3NCwtMTUwMTExMDY1MCwxNDQ4MjA0ODU3LC0zNTYzNTg5
+MjIsMTM0NjkyODQxN119
 -->
