@@ -131,8 +131,17 @@ $$
 $$
 F=ma=F_C=Ee
 $$
+
+--
+$$
+\begin{equation} \begin{cases} x=v_ot\\y=\frac12\frac{\Delta V e}{dm_e} \end{cases} \end{equation}
+$$
+
+$$
+\begin{equation} \begin{cases} Here \end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0NjAwNTYyLDEzNTkxMDM4MzQsLTcwNj
-c4MTc3NCwtMTUwMTExMDY1MCwxNDQ4MjA0ODU3LC0zNTYzNTg5
-MjIsMTM0NjkyODQxN119
+eyJoaXN0b3J5IjpbLTIwODAyNDIzMjIsNzk0NjAwNTYyLDEzNT
+kxMDM4MzQsLTcwNjc4MTc3NCwtMTUwMTExMDY1MCwxNDQ4MjA0
+ODU3LC0zNTYzNTg5MjIsMTM0NjkyODQxN119
 -->
