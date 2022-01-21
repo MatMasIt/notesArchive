@@ -56,7 +56,12 @@ Soggiorno in Versilia zona costiera settentrionale in Toscana
 Tra Fiesole e la costa della Toscana
 
 
-tema
+tema della metamorfosi e antropomorfizzazione della natura
+
+
+5 sezioni, da giugno a settemrbe
+
+spesso descrizioni evocative, non troppo realistiche 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1OTUwNjEyXX0=
+eyJoaXN0b3J5IjpbMTY5OTk1MTE0XX0=
 -->
