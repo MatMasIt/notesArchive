@@ -56,11 +56,27 @@ addizione nucelofila tipica di aldeidi e dei chetoni
 
 aldeidi
 
-                  // 
+                   O
+                 // 
 				C
 				  \
 				   H
+
+chetoni
+
+			R
+			|
+			C=O
+			|
+			R'
+
+
+
+Caratteristiche
+1. Ibridazione $sp^2$
+2. legame $\pi$
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzMxMzk2LC0yNjY1MjgyNzQsMzgxND
-M1MDM1XX0=
+eyJoaXN0b3J5IjpbLTE3MjQ1NjIyOTUsLTI2NjUyODI3NCwzOD
+E0MzUwMzVdfQ==
 -->
