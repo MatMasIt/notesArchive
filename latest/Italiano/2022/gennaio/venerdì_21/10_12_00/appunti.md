@@ -26,7 +26,9 @@ secondo D'Annunzio roma decaduta
 
 sventrati palazzi medievali per nuovi arterie, ministeri con impiegati
 
-non c'è lo slaz
+non c'è lo slancio imperialistico
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODgxNDg1MDldfQ==
+eyJoaXN0b3J5IjpbLTE2MzIwNDcwNThdfQ==
 -->
