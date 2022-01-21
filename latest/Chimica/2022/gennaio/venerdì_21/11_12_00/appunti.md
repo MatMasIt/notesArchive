@@ -34,6 +34,10 @@ nel secondo passaggio veloce il carbocatione si combina con il nucleofillo per d
 1 nel simbolo : 1 solo reagente coinvolto 
 
 sul testo 
+
+
+### Addizione nucleofilo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjUyODI3NCwzODE0MzUwMzVdfQ==
+eyJoaXN0b3J5IjpbMjAzMzYxNTM3MCwtMjY2NTI4Mjc0LDM4MT
+QzNTAzNV19
 -->
