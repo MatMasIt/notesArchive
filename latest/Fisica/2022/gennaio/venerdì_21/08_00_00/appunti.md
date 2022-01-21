@@ -41,7 +41,13 @@ $$
 $$
 
 $$
-E_M=U_g+K_C=|$$
+E_M=U_g+K_C=\boxed{-}|U_g|+\frac12|U_g|
+$$
+
+$$
+=-\frac12|U_g|=-\frac12
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjIyOTAzMSwxMzQ2OTI4NDE3XX0=
+eyJoaXN0b3J5IjpbMjI1MzgzNTcsMTM0NjkyODQxN119
 -->
