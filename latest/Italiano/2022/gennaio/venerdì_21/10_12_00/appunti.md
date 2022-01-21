@@ -89,7 +89,25 @@ parole segrete vietate, impronunciabili
 
 Rito iniziatico, dionisiaco per accedere ad uno stato quasi da mediu,rituale, sovrasesoriale
 
-l'ac
+l'accesso a questo modo è consentito al poeta attraverso alla parola che si fa mezzo per il poeta di accedere al mistero
+
+capacità di decifrare
+
+esprimere l'indibilil
+
+l'unconnù di Raimbuad
+
+versione italiuana del sinbolismo francese
+
+sera di giugno dopo la pioggia
+
+
+donna amata con lei 
+
+chiamata "Ermione"
+
+
+occasione apparentemente simbolistica per esprimere la pot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyMzY2Mzc2XX0=
+eyJoaXN0b3J5IjpbLTMyNzA3Njc5NV19
 -->
