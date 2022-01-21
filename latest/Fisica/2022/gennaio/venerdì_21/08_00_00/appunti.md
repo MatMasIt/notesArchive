@@ -104,8 +104,15 @@ $$
 
 
 
+$$
+K_A=K_b+U_B
+$$
 
+$$
+\frac12mev_A^2=\frac12meV_B^2-Ede
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjc4MTc3NCwtMTUwMTExMDY1MCwxND
-Q4MjA0ODU3LC0zNTYzNTg5MjIsMTM0NjkyODQxN119
+eyJoaXN0b3J5IjpbMTM1OTEwMzgzNCwtNzA2NzgxNzc0LC0xNT
+AxMTEwNjUwLDE0NDgyMDQ4NTcsLTM1NjM1ODkyMiwxMzQ2OTI4
+NDE3XX0=
 -->
