@@ -26,8 +26,9 @@ Religione usa immagini (Dio padre) con riferimenti empirici
 
 filosofia è sufficiente da sola
 
-filosofia è sempre storia della dilosofia
+filosofia è sempre storia della filosofia
 
+tutta una catena logica necessaria (da Talete a Hegel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzQ3MjU1NSwxMzc0MDk0MjMyXX0=
+eyJoaXN0b3J5IjpbMjczNzM3NzUzLDEzNzQwOTQyMzJdfQ==
 -->
