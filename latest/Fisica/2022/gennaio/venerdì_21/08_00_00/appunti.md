@@ -61,12 +61,12 @@ E_M=0
 $$
 
 $$
-U_g=K_c
+-U_g=K_c
 $$
 
 $$
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQ5Njc4NzgsLTM1NjM1ODkyMiwxMz
-Q2OTI4NDE3XX0=
+eyJoaXN0b3J5IjpbMTQ0ODIwNDg1NywtMzU2MzU4OTIyLDEzND
+Y5Mjg0MTddfQ==
 -->
