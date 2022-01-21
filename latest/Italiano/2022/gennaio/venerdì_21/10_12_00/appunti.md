@@ -107,7 +107,18 @@ donna amata con lei
 chiamata "Ermione"
 
 
-occasione apparentemente simbolistica per esprimere la pot
+occasione apparentemente simbolistica per esprimere la potenza della parola
+
+
+campeggia la sinestesia 
+
+al verso 9 d'annunzio inserisce un quinario
+
+
+
+Poeta affabulatore
+
+t. 6 la pioggia nel 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzA3Njc5NV19
+eyJoaXN0b3J5IjpbMTc5NTM4NTk0OF19
 -->
