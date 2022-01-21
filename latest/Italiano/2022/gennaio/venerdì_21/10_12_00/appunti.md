@@ -155,6 +155,12 @@ pini scagliosi: tatto
 volti silvani, creature _silvestri_, del bosco: primo indizio della metamorfosi
 
 vestimenti leggeri
+
+assonanza
+
+Piove, nuvole
+
+rime e assonanze
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTU3OTAwMjJdfQ==
+eyJoaXN0b3J5IjpbLTIwODI3ODI4MzZdfQ==
 -->
