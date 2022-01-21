@@ -91,9 +91,11 @@ gruppo ossidrilico eterico contemporaneamente
 
 Carboidrati p.165
 
+polidrossialdeidi o polidrossichetoni
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTg0MjcxNywyODg1NTk4NjAsLTE1Mj
-g4OTcxOTUsMTE3Mzk3MDE2LC0yNjY1MjgyNzQsMzgxNDM1MDM1
-XX0=
+eyJoaXN0b3J5IjpbMTc0Mzc5ODYxMiwxNzkxODQyNzE3LDI4OD
+U1OTg2MCwtMTUyODg5NzE5NSwxMTczOTcwMTYsLTI2NjUyODI3
+NCwzODE0MzUwMzVdfQ==
 -->
