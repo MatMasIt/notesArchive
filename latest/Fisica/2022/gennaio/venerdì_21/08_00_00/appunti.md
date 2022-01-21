@@ -94,7 +94,18 @@ Il campo elettrico è sempre ortogonale alle superfici equipotenziali ed è semp
 $e=1,6\cdot 10^{-19}C$
 $d=1,cm=1,2\cdot10^{-2}m$
 $v_f=28\frac{km}s=28\cdot 10^3\frac{m}s$
+**Richieste**
+$E=?$
+
+
+$$
+F_e=E\cdot e
+$$
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDExMTA2NTAsMTQ0ODIwNDg1NywtMz
-U2MzU4OTIyLDEzNDY5Mjg0MTddfQ==
+eyJoaXN0b3J5IjpbLTcwNjc4MTc3NCwtMTUwMTExMDY1MCwxND
+Q4MjA0ODU3LC0zNTYzNTg5MjIsMTM0NjkyODQxN119
 -->
