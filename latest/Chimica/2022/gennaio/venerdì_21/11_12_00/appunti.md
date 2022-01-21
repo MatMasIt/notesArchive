@@ -82,8 +82,9 @@ Caratteristiche $C=O$
 Più è  alto il peso molecolare meno è solubile
 
 
+Chetoni meno reattivi delle aldeidi 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg4OTcxOTUsMTE3Mzk3MDE2LC0yNj
-Y1MjgyNzQsMzgxNDM1MDM1XX0=
+eyJoaXN0b3J5IjpbMjg4NTU5ODYwLC0xNTI4ODk3MTk1LDExNz
+M5NzAxNiwtMjY2NTI4Mjc0LDM4MTQzNTAzNV19
 -->
