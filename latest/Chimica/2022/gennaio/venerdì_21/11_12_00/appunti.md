@@ -93,9 +93,9 @@ Carboidrati p.165
 
 polidrossialdeidi o polidrossichetoni
 
-
+zuccheri ciclici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Mzc5ODYxMiwxNzkxODQyNzE3LDI4OD
-U1OTg2MCwtMTUyODg5NzE5NSwxMTczOTcwMTYsLTI2NjUyODI3
-NCwzODE0MzUwMzVdfQ==
+eyJoaXN0b3J5IjpbLTU5NDc0MjM2MywxNzQzNzk4NjEyLDE3OT
+E4NDI3MTcsMjg4NTU5ODYwLC0xNTI4ODk3MTk1LDExNzM5NzAx
+NiwtMjY2NTI4Mjc0LDM4MTQzNTAzNV19
 -->
