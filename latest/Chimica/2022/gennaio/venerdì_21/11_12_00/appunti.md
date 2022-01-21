@@ -77,7 +77,10 @@ Caratteristiche $C=O$
 2. legame $\pi$ ($p$)
 3. c'è $\Delta\text{elettronegatività}$: $\quad C^{\delta^+}\quad O^{\delta^-}$
 4. legame più breve: più polarizzato
+
+
+Più è  alto il peso molecolare meno è solubile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Mzk3MDE2LC0yNjY1MjgyNzQsMzgxND
-M1MDM1XX0=
+eyJoaXN0b3J5IjpbLTk0MDMxNzMwMSwxMTczOTcwMTYsLTI2Nj
+UyODI3NCwzODE0MzUwMzVdfQ==
 -->
