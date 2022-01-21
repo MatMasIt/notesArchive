@@ -45,9 +45,9 @@ E_M=U_g+K_C=\boxed{-}|U_g|+\frac12|U_g|
 $$
 
 $$
-=-\frac12|U_g|=-\frac12
+=-\frac12|U_g|=-\frac12G\frac{m_sm_t}{d_A}=-2,62\cdot 10^{33}J
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MzgzNTcsMTM0NjkyODQxN119
+eyJoaXN0b3J5IjpbLTM1NjM1ODkyMiwxMzQ2OTI4NDE3XX0=
 -->
