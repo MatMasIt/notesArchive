@@ -17,6 +17,8 @@ arte non pura come religione
 che non è pura come filosofia
 
 arte: spiritualità del soggetto
+
+rappresentazione è una forma di sapere "quasi concettuale" basata su metafore che evocano ancora un riferimento all'
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTMyNjM4ODUsMTM3NDA5NDIzMl19
+eyJoaXN0b3J5IjpbLTE1Mzk3OTQxMzQsMTM3NDA5NDIzMl19
 -->
