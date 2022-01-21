@@ -36,8 +36,31 @@ nel secondo passaggio veloce il carbocatione si combina con il nucleofillo per d
 sul testo 
 
 
-### Addizione nucleofilo 
+### Addizione nucleofila
+
+interessa il **gruppo carbolilico**
+
+$C=O$
+
+presente
+in
+* aldeidi
+* chetoni
+* esteri
+* acidi
+* ammidi
+
+
+addizione nucelofila tipica di aldeidi e dei chetoni
+
+
+aldeidi
+
+                  // 
+				C
+				  \
+				   H
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzYxNTM3MCwtMjY2NTI4Mjc0LDM4MT
-QzNTAzNV19
+eyJoaXN0b3J5IjpbMTk1NzMxMzk2LC0yNjY1MjgyNzQsMzgxND
+M1MDM1XX0=
 -->
