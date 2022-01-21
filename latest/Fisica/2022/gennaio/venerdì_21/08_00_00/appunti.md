@@ -48,6 +48,14 @@ $$
 =-\frac12|U_g|=-\frac12G\frac{m_sm_t}{d_A}=-2,62\cdot 10^{33}J
 $$
 
+
+---
+> **Dati**
+> $R_t=6,38\cdot 10^6m$
+> **Richieste**
+> $v_f=?$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjM1ODkyMiwxMzQ2OTI4NDE3XX0=
+eyJoaXN0b3J5IjpbLTU3NzU1OTg3OSwtMzU2MzU4OTIyLDEzND
+Y5Mjg0MTddfQ==
 -->
