@@ -29,7 +29,11 @@ il gruppo uscente si porta via il dopppietto che genera il carbocatione
 
 carbocatione è anche uno stadio fondamentale nell'addizione elettrofila
 
-nel secondo passaggio veloce il carbocatione si combina con il nucleofillo
+nel secondo passaggio veloce il carbocatione si combina con il nucleofillo per dare prodotto
+
+1 nel simbolo : 1 solo reagente coinvolto 
+
+sul testo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM0MzU5OTAsMzgxNDM1MDM1XX0=
+eyJoaXN0b3J5IjpbLTI2NjUyODI3NCwzODE0MzUwMzVdfQ==
 -->
