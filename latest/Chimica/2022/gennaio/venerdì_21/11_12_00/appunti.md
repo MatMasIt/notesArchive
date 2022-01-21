@@ -84,7 +84,11 @@ Più è  alto il peso molecolare meno è solubile
 
 Chetoni meno reattivi delle aldeidi 
 
+
+emiacetale:
+gruppo ossidrilico eterico contemporaneamente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4NTU5ODYwLC0xNTI4ODk3MTk1LDExNz
-M5NzAxNiwtMjY2NTI4Mjc0LDM4MTQzNTAzNV19
+eyJoaXN0b3J5IjpbLTEzOTE1MzU5MTMsMjg4NTU5ODYwLC0xNT
+I4ODk3MTk1LDExNzM5NzAxNiwtMjY2NTI4Mjc0LDM4MTQzNTAz
+NV19
 -->
