@@ -118,9 +118,15 @@ $$
 $e=-1,6\cdot10^{-19}C$
 $m_e=9,11\cdot10^{-31}Kg$
 $L=20cm=20\cdot10^{-2}m$
-$d=10
+$d=10cm=10^{-1}m$
+$\Delta V = 1,5 V$
+$v_0=1,3\cdot10^6\frac{m}s$
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjUyNzE5OCwxMzU5MTAzODM0LC03MD
+eyJoaXN0b3J5IjpbMjAxMjg3OTYwMywxMzU5MTAzODM0LC03MD
 Y3ODE3NzQsLTE1MDExMTA2NTAsMTQ0ODIwNDg1NywtMzU2MzU4
 OTIyLDEzNDY5Mjg0MTddfQ==
 -->
