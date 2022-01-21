@@ -55,7 +55,18 @@ $$
 > **Richieste**
 > $v_f=?$
 
+
+$$
+E_M=0
+$$
+
+$$
+U_g=K_c
+$$
+
+$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzU1OTg3OSwtMzU2MzU4OTIyLDEzND
-Y5Mjg0MTddfQ==
+eyJoaXN0b3J5IjpbLTEwMzQ5Njc4NzgsLTM1NjM1ODkyMiwxMz
+Q2OTI4NDE3XX0=
 -->
