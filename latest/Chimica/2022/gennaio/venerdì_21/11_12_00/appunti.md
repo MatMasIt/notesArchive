@@ -93,9 +93,9 @@ Carboidrati p.165
 
 polidrossialdeidi o polidrossichetoni
 
-zuccheri ciclici
+zuccheri ciclicizzano con la acetalizzazione (addizione nucleofila)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDc0MjM2MywxNzQzNzk4NjEyLDE3OT
-E4NDI3MTcsMjg4NTU5ODYwLC0xNTI4ODk3MTk1LDExNzM5NzAx
-NiwtMjY2NTI4Mjc0LDM4MTQzNTAzNV19
+eyJoaXN0b3J5IjpbLTE4NzgwNDg2MDMsMTc0Mzc5ODYxMiwxNz
+kxODQyNzE3LDI4ODU1OTg2MCwtMTUyODg5NzE5NSwxMTczOTcw
+MTYsLTI2NjUyODI3NCwzODE0MzUwMzVdfQ==
 -->
