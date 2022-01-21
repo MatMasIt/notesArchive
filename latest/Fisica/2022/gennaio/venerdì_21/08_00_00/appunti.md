@@ -113,13 +113,14 @@ $$
 $$
 
 
-       +++++++++++++++++++++++++
-       |   |    |   |   |   |   |
-    O |   |    |   |   |   |   |
-    \|/  \|/   \|/  \|/ \|/ \|/ \|/
-       --------------------------
+    ---
+> **Dati**
+$e=-1,6\cdot10^{-19}C$
+$m_e=9,11\cdot10^{-31}Kg$
+$L=20cm=20\cdot10^{-2}m$
+$d=10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODM4MTIyNSwxMzU5MTAzODM0LC03MD
+eyJoaXN0b3J5IjpbLTM0MjUyNzE5OCwxMzU5MTAzODM0LC03MD
 Y3ODE3NzQsLTE1MDExMTA2NTAsMTQ0ODIwNDg1NywtMzU2MzU4
 OTIyLDEzNDY5Mjg0MTddfQ==
 -->
