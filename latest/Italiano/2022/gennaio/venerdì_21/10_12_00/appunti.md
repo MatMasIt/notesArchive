@@ -143,6 +143,18 @@ fondamentalmente per esprimere il poetere del verbo, l'artificio della parola, i
 
 societàa della riproducibilità tecnica dlelle opere d'arte
 
+
+prima strofa: tutte le capacità sensoriali coinvolte
+
+
+Taci, Ascolta
+
+sta parlando con Ermione, di cui è guida iniziatica, come se la stesse introducendo ad un rito misterico
+
+pini scagliosi: tatto
+volti silvani, creature _silvestri_, del bosco: primo indizio della metamorfosi
+
+vestimenti leggeri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDE3OTE3OV19
+eyJoaXN0b3J5IjpbLTEyNTU3OTAwMjJdfQ==
 -->
