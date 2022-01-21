@@ -19,6 +19,17 @@ numero $2$ :bimolecolare
 
 
 $SN_1$: 2 stadi
+
+primo passaggio (lento)
+
+il legame tra il carbonio e i gruuppo uscente si spezza quando il substrato di ionizza
+
+il gruppo uscente si porta via il dopppietto che genera il carbocatione
+
+
+carbocatione è anche uno stadio fondamentale nell'addizione elettrofila
+
+nel secondo passaggio veloce il carbocatione si combina con il nucleofillo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxNDM1MDM1XX0=
+eyJoaXN0b3J5IjpbLTE4ODM0MzU5OTAsMzgxNDM1MDM1XX0=
 -->
