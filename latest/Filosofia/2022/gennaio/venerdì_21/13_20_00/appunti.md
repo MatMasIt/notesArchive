@@ -19,6 +19,15 @@ che non è pura come filosofia
 arte: spiritualità del soggetto
 
 rappresentazione è una forma di sapere "quasi concettuale" basata su metafore che evocano ancora un riferimento all'elemento sensibile
+
+arte non può fare a meno di un'opera d'arte fisica
+
+Religione usa immagini (Dio padre) con riferimenti empirici
+
+filosofia è sufficiente da sola
+
+filosofia è sempre storia della dilosofia
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Njk1NjE1NSwxMzc0MDk0MjMyXX0=
+eyJoaXN0b3J5IjpbMjAxMzQ3MjU1NSwxMzc0MDk0MjMyXX0=
 -->
