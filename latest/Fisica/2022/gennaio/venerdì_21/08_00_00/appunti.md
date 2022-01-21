@@ -72,17 +72,29 @@ $$
 
 Il campo elettrico è sempre ortogonale alle superfici equipotenziali ed è sempre diretto nel verso decrescente del potenziale
 
+
+
+                  Condensatore
                      E
             |-|  < ---------   |+|
             |-|  < ---------   |+|
             |-|  < ---------   |+|
             |-|  < ---------   |+|
-            
+             °   < ---------   |+|
+            |-|  < ---------   |+|
 			|-|  < ---------   |+|
 			10V   200 30 40 50  60V
 			
 			diff potenzale: 50 V
+			°: foro per particella
+
+
+
+
+$$
+e=1,6\cdot 10^{-19}C
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTY1ODkyNywxNDQ4MjA0ODU3LC0zNT
-YzNTg5MjIsMTM0NjkyODQxN119
+eyJoaXN0b3J5IjpbMTY4MzgwMTU5LDE0NDgyMDQ4NTcsLTM1Nj
+M1ODkyMiwxMzQ2OTI4NDE3XX0=
 -->
