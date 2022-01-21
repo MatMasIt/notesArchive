@@ -17,6 +17,16 @@ poeta-vate che guida popolo, borghesia, classe dirigente
 poeta manipolatore della parola
 
 artista superomistico
+
+
+antiliberale, antidemocratico
+
+
+secondo D'Annunzio roma decaduta
+
+sventrati palazzi medievali per nuovi arterie, ministeri con impiegati
+
+non c'è lo slaz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyOTkyNTIzXX0=
+eyJoaXN0b3J5IjpbLTE5ODgxNDg1MDldfQ==
 -->
