@@ -140,8 +140,13 @@ $$
 $$
 \begin{equation} \begin{cases} t=\frac{x}{v_0}\\\ y=\frac12 \frac{\Delta Ve}{dm_eB_e^2}\end{cases} \end{equation}
 $$
+
+
+----
+
+es 76 p 426
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NDQ4NTQ1LDc5NDYwMDU2MiwxMzU5MT
-AzODM0LC03MDY3ODE3NzQsLTE1MDExMTA2NTAsMTQ0ODIwNDg1
-NywtMzU2MzU4OTIyLDEzNDY5Mjg0MTddfQ==
+eyJoaXN0b3J5IjpbMjA1NjM1NjU2NCwzMDc0NDg1NDUsNzk0Nj
+AwNTYyLDEzNTkxMDM4MzQsLTcwNjc4MTc3NCwtMTUwMTExMDY1
+MCwxNDQ4MjA0ODU3LC0zNTYzNTg5MjIsMTM0NjkyODQxN119
 -->
