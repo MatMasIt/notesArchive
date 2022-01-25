@@ -34,8 +34,9 @@ Fe=E\cdot q=\frac{\Delta V}dq
 $$
 
 $$
-\begin{equation} \begin{cases} t0\frac{x}{v_ox}\\y=\frac{v_ox}}{v_o \end{cases} \end{equation}
+\begin{equation} \begin{cases} t=\frac{x}{v_ox}\\ 
+y=\frac{v_oy}{v_ox}x-\frac12\frac{\Delta Vq}{m_p d  \end{cases} \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzM3NzAzN119
+eyJoaXN0b3J5IjpbLTkxNjk2NTUyNV19
 -->
