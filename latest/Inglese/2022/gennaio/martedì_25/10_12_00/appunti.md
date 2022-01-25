@@ -12,7 +12,8 @@ This causes the process of ==alienation== and ==dehumanization== of the students
 consequences of the functional education
 
 
-machines
+machines of flesh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDY2MDkwLC0xMDg2MzY5NzEwXX0=
+eyJoaXN0b3J5IjpbLTEzMTM0OTA4MTcsLTEwODYzNjk3MTBdfQ
+==
 -->
