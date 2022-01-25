@@ -31,8 +31,8 @@ so not her factual name
 
 implies affection, love 
 
-sweet 
+sweet and tender, implies affection, love
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDAwMjQ2LDEwOTY1NTM1ODQsLTEwOD
-YzNjk3MTBdfQ==
+eyJoaXN0b3J5IjpbMTU3ODI2NTM0MywxMDk2NTUzNTg0LC0xMD
+g2MzY5NzEwXX0=
 -->
