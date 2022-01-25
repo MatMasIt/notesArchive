@@ -13,7 +13,16 @@ consequences of the functional education
 
 
 machines of flesh
+
+Dickens, criticism of functional educationa and utlitianism
+
+
+mere question of figures, measuring human nature as a parcel (weight, dimension)
+
+not possible
+
+
+assembly line of students
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM0OTA4MTcsLTEwODYzNjk3MTBdfQ
-==
+eyJoaXN0b3J5IjpbMTA5NjU1MzU4NCwtMTA4NjM2OTcxMF19
 -->
