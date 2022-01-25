@@ -27,6 +27,15 @@ $$
 $$
 \begin{equation} \begin{cases} y=v_oyt\\y=v_oyt-\frac12at^2\end{cases} \end{equation}
 $$
+
+
+$$
+Fe=E\cdot q=\frac{\Delta V}dq
+$$
+
+$$
+\begin{equation} \begin{cases} t0\frac{x}{v_ox}\\y=\frac{v_ox}}{v_o \end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODI0MzIxNV19
+eyJoaXN0b3J5IjpbMTM4MzM3NzAzN119
 -->
