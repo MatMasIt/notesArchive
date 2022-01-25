@@ -25,8 +25,14 @@ not possible
 assembly line of students
 
 
-Sissy is a formal abbreviation of cecilia
+Sissy is an informal abbreviation of cecilia
+
+so not her factual name
+
+implies affection, love 
+
+sweet 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkzNjg1MzAsMTA5NjU1MzU4NCwtMT
-A4NjM2OTcxMF19
+eyJoaXN0b3J5IjpbMTAyNDAwMjQ2LDEwOTY1NTM1ODQsLTEwOD
+YzNjk3MTBdfQ==
 -->
