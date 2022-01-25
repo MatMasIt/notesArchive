@@ -7,10 +7,13 @@
 > $\Delta V = 1,5 V$
 > $q=e=1,6\cdot10^{19}C$
 > $m_p=1,67\cdot 10^{-23}Kg$
-
-	  |	++++++++++++++++
-      |
-	  | -----------------------
+ 
+                        L
+    y         --------------------> 
+	    |	++++++++++++++++
+    d  |    /
+	    | °   alpg               -x___> 
+	    -----------------------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY2MTY3MzddfQ==
+eyJoaXN0b3J5IjpbNTAxODIxNTA1XX0=
 -->
