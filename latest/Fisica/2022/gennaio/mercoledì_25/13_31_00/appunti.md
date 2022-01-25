@@ -35,8 +35,17 @@ $$
 
 $$
 \begin{equation} \begin{cases} t=\frac{x}{v_ox}\\ 
-y=\frac{v_oy}{v_ox}x-\frac12\frac{\Delta Vq}{m_p d  \end{cases} \end{equation}
+y=\frac{v_oy}{v_ox}x-\frac12\frac{\Delta Vq}{m_p d v_ox^2}x^2 \end{cases} \end{equation}
+$$
+
+
+$$
+y=\frac{\cancel{v_o} \sin \alpha}{\cancel{v_o}\cos \alpha}x-\frac12\frac{\Delta Vq}{m_p d v_ox^2}x^2 
+$$
+
+$$
+\implies y=\tan \alpha
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjk2NTUyNV19
+eyJoaXN0b3J5IjpbLTMyOTQwMzc5Nl19
 -->
