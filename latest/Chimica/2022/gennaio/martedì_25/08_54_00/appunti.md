@@ -4,6 +4,13 @@
 
 
 Reazioni in chimica organica dovute a diversa distribuzione delle cariche
+
+
+Grassi ottenuti per idrogenazione
+
+Margarina: grasso di sintesi
+
+Grassi idrogenati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc3ODU4NDVdfQ==
+eyJoaXN0b3J5IjpbLTQxMzgxMTg0MV19
 -->
