@@ -32,7 +32,10 @@ so not her factual name
 implies affection, love 
 
 sweet and tender, implies affection, love
+
+
+Sissy: corner of room of desks, sunny side, near a window
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODI2NTM0MywxMDk2NTUzNTg0LC0xMD
-g2MzY5NzEwXX0=
+eyJoaXN0b3J5IjpbLTEyMDk1MTgxNDksMTU3ODI2NTM0MywxMD
+k2NTUzNTg0LC0xMDg2MzY5NzEwXX0=
 -->
