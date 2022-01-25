@@ -12,8 +12,21 @@
     y         --------------------> 
 	    |	++++++++++++++++
     d  |    /
-	    | °   alpg               -x___> 
+	    | °   alpha             -x___> 
 	    -----------------------
+
+
+
+
+
+
+$$
+v_ox=v_o\cos \alpha \quad v_oy=v_o\sin\alpha
+$$
+
+$$
+\begin{equation} \begin{cases} y=v_oyt\\y=v_oyt-\frac12at^2\end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxODIxNTA1XX0=
+eyJoaXN0b3J5IjpbLTY0ODI0MzIxNV19
 -->
