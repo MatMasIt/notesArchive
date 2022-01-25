@@ -23,6 +23,10 @@ not possible
 
 
 assembly line of students
+
+
+Sissy is a formal abbreviation of cecilia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjU1MzU4NCwtMTA4NjM2OTcxMF19
+eyJoaXN0b3J5IjpbLTE3MzkzNjg1MzAsMTA5NjU1MzU4NCwtMT
+A4NjM2OTcxMF19
 -->
