@@ -9,6 +9,12 @@
 > $AB=3cm=0,03m$
 > $BC=4cm=0,04m$
 > $AC=5cm=0,05m$
+
+
+$$
+U=Eqd\implies V=Ed
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQ4NjA3NjNdfQ==
+eyJoaXN0b3J5IjpbLTE0MTU0MTM3MjIsLTEzOTQ4NjA3NjNdfQ
+==
 -->
