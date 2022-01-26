@@ -27,7 +27,7 @@ da piccoli fancuilli siamo tutti potenziali poeti
 
 Fanciullo: condizione psichica primordiale, adamitica,
 
-nominando le cose 
+nominando le cose le fa esistere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Njg2MTcwOF19
+eyJoaXN0b3J5IjpbLTEwMTA3MjQ3NTBdfQ==
 -->
