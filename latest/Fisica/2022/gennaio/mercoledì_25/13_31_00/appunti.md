@@ -44,8 +44,8 @@ y=\frac{\cancel{v_o} \sin \alpha}{\cancel{v_o}\cos \alpha}x-\frac12\frac{\Delta 
 $$
 
 $$
-\implies y=\tan \alpha
+\implies y=\tan \alpha x-\frac{\Delta V q}{2 m_pd v_0x^2}x^2
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTQwMzc5Nl19
+eyJoaXN0b3J5IjpbLTMxMDI3MDg3XX0=
 -->
