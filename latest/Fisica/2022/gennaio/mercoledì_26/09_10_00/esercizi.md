@@ -2,6 +2,7 @@
 
 
 > **Dati**
+> ![](https://i.imgur.com/LtspkUP.jpg)
 > $\Delta V _{AB}=V_A-V_B$
 > $\Delta V_{BC}=V_B-V_C$
 > $\Delta V_{AC}=V_C-V_A$
@@ -15,6 +16,5 @@ $$
 U=Eqd\implies V=Ed
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU0MTM3MjIsLTEzOTQ4NjA3NjNdfQ
-==
+eyJoaXN0b3J5IjpbLTY1NDY0MjQsLTEzOTQ4NjA3NjNdfQ==
 -->
