@@ -16,7 +16,7 @@ $$
 U=Eqd\implies V=Ed
 $$
 
-Il campo è sempre orientato nel verso decrescente del potenziale
+Il campo è sempre orientato nel verso decrescente del potenziale ed è ortogonale a dette superfici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NDM4MzYzLC0xMzk0ODYwNzYzXX0=
+eyJoaXN0b3J5IjpbNDE2MDY3NjU1LC0xMzk0ODYwNzYzXX0=
 -->
