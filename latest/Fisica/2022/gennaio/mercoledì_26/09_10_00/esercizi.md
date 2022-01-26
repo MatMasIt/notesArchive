@@ -13,10 +13,10 @@
 
 
 $$
-U=Eqd\implies V=Ed
+U=Eqd\implies V=-Ed
 $$
 
 Il campo è sempre orientato nel verso decrescente del potenziale ed è ortogonale a dette superfici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2MDY3NjU1LC0xMzk0ODYwNzYzXX0=
+eyJoaXN0b3J5IjpbMzQ0MDg3NjQsLTEzOTQ4NjA3NjNdfQ==
 -->
