@@ -28,6 +28,12 @@ da piccoli fancuilli siamo tutti potenziali poeti
 Fanciullo: condizione psichica primordiale, adamitica,
 
 nominando le cose le fa esistere
+
+
+La poesia si fa evocativa, sensibilità, stato d'animo
+
+
+Poeta dell'impressione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA3MjQ3NTBdfQ==
+eyJoaXN0b3J5IjpbLTEwOTYyNzEzNjZdfQ==
 -->
