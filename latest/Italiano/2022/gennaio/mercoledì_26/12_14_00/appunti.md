@@ -15,6 +15,19 @@ plaude all'avventura di Libia sotto Giolitti
 
 
 Riscatto della patria
+
+Poesia di pascoli: tono più dimesso rispetto a D'Annunzio
+
+oggetti quotidiani
+
+ma il poeta ha una percezione superiore
+
+da piccoli fancuilli siamo tutti potenziali poeti
+
+
+Fanciullo: condizione psichica primordiale, adamitica,
+
+nominando le cose 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDk2MDQ0MF19
+eyJoaXN0b3J5IjpbMTg5Njg2MTcwOF19
 -->
