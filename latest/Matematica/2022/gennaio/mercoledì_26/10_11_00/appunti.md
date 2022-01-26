@@ -16,8 +16,8 @@ $$
 $$
 3.
 $$
-\cancel \exists \cup \
+\cancel \exists \text{ simmetrie}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxMTE5NzMzXX0=
+eyJoaXN0b3J5IjpbLTI3NzIyODY1NV19
 -->
