@@ -15,6 +15,8 @@
 $$
 U=Eqd\implies V=Ed
 $$
+
+Il campo è sempre orientato nel verso decrescente del potenziale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDY0MjQsLTEzOTQ4NjA3NjNdfQ==
+eyJoaXN0b3J5IjpbNzM4NDM4MzYzLC0xMzk0ODYwNzYzXX0=
 -->
