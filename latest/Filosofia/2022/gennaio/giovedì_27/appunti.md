@@ -68,10 +68,13 @@ Esperienza morale:
 volontà degli altri
 
 
-2 mome:
-* diritto, freno le mie azioni per non ledere la volontà degli altri
-* Compassione
+2 momenti:
+1. diritto, freno le mie azioni per non ledere la volontà degli altri
+2. Compassione: io mi preoccupo di incrementare il bene degli altri
+
+
+Nie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODU5NzAsLTE4NjU4OTQ4MDUsLTE4Mj
-E1NDEyNzIsMzc3NDcyMjM0XX0=
+eyJoaXN0b3J5IjpbLTYxMTgyNjQyNCwtMTg2NTg5NDgwNSwtMT
+gyMTU0MTI3MiwzNzc0NzIyMzRdfQ==
 -->
