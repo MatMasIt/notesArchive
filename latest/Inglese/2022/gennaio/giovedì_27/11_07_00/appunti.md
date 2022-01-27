@@ -18,7 +18,11 @@ Still alive, still energetic
 Bliter looks pale, dead
 
 deprive of energy, vitality
+
+if he were cut he would bleed white
+
+no blood running into his veins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzU5NDQ1MSwxNzg0MTgzMzYwLC0xNj
+eyJoaXN0b3J5IjpbLTg1MTYwMTM2MiwxNzg0MTgzMzYwLC0xNj
 gwMjM3NTI3XX0=
 -->
