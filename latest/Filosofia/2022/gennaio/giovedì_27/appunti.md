@@ -42,8 +42,8 @@ Brevi momenti in cui il desiderare si placa perchè abbiamo ottenuto quello che 
 
 si è un'attimo fermato il motore della nostra vita
 
-noia_
+noia: senso di vuoto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzgwNDI3NiwtMTgyMTU0MTI3MiwzNz
-c0NzIyMzRdfQ==
+eyJoaXN0b3J5IjpbLTE4NjU4OTQ4MDUsLTE4MjE1NDEyNzIsMz
+c3NDcyMjM0XX0=
 -->
