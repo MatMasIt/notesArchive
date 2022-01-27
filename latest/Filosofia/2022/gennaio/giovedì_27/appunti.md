@@ -61,8 +61,10 @@ Liberazione dalla volontà:
 La contemplazione artistica ci concede per un lasso di tempo di liberarci dalla nostra volontà
 
 
-Esperienza artistica, così 
+Esperienza artistica permette la sospensione della volontà
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDA3MTAyNiwtMTg2NTg5NDgwNSwtMT
-gyMTU0MTI3MiwzNzc0NzIyMzRdfQ==
+eyJoaXN0b3J5IjpbMTY4MTAxMzU0LC0xODY1ODk0ODA1LC0xOD
+IxNTQxMjcyLDM3NzQ3MjIzNF19
 -->
