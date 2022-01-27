@@ -57,7 +57,9 @@ Liberazione dalla volontà:
 * Arte 
 * Morale 
 * Ascesi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwMzc1MjMwLC0xODY1ODk0ODA1LC0xOD
-IxNTQxMjcyLDM3NzQ3MjIzNF19
+eyJoaXN0b3J5IjpbMTkxOTg2NjEzOCwtMTg2NTg5NDgwNSwtMT
+gyMTU0MTI3MiwzNzc0NzIyMzRdfQ==
 -->
