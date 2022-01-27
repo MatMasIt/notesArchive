@@ -58,8 +58,11 @@ Liberazione dalla volontà:
 * Morale 
 * Ascesi
 
+La contemplazione artistica ci concede per un lasso di tempo di liberarci dalla nostra volontà
 
+
+Esperienza artistica, così 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTg2NjEzOCwtMTg2NTg5NDgwNSwtMT
+eyJoaXN0b3J5IjpbLTQ3MDA3MTAyNiwtMTg2NTg5NDgwNSwtMT
 gyMTU0MTI3MiwzNzc0NzIyMzRdfQ==
 -->
