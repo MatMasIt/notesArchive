@@ -14,7 +14,9 @@ Sissy is dark haired and dark eyed
  The dark color is more brighter, deeper because of the sun beams
 
 Still alive, still energetic
+
+Bliter looks pale, dead
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODUzODg0NSwxNzg0MTgzMzYwLC0xNj
-gwMjM3NTI3XX0=
+eyJoaXN0b3J5IjpbLTExNDQxMTE5NTksMTc4NDE4MzM2MCwtMT
+Y4MDIzNzUyN119
 -->
