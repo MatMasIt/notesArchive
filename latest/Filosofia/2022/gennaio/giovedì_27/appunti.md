@@ -22,6 +22,11 @@ La storia non ha alcuna logica
 
 
 La società è un fragille guscio delle passioni individuali
+
+
+1. ordine è llusione
+2. storia è casuale
+3. razionalità umana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Njc5NTY1LDM3NzQ3MjIzNF19
+eyJoaXN0b3J5IjpbLTE4MjE1NDEyNzIsMzc3NDcyMjM0XX0=
 -->
