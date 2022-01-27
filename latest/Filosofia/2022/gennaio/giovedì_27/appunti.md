@@ -63,8 +63,15 @@ La contemplazione artistica ci concede per un lasso di tempo di liberarci dalla 
 
 Esperienza artistica permette la sospensione della volontà
 
+Esperienza morale: 
 
+volontà degli altri
+
+
+2 mome:
+* diritto, freno le mie azioni per non ledere la volontà degli altri
+* Compassione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTAxMzU0LC0xODY1ODk0ODA1LC0xOD
-IxNTQxMjcyLDM3NzQ3MjIzNF19
+eyJoaXN0b3J5IjpbLTg4ODU5NzAsLTE4NjU4OTQ4MDUsLTE4Mj
+E1NDEyNzIsMzc3NDcyMjM0XX0=
 -->
