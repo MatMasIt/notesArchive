@@ -12,6 +12,9 @@ He is dead inside
 Sissy is dark haired and dark eyed
  
  The dark color is more brighter, deeper because of the sun beams
+
+Still alive, still energetic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDE4MzM2MCwtMTY4MDIzNzUyN119
+eyJoaXN0b3J5IjpbLTQyODUzODg0NSwxNzg0MTgzMzYwLC0xNj
+gwMjM3NTI3XX0=
 -->
