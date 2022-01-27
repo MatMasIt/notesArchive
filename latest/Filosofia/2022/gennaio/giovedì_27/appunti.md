@@ -43,7 +43,21 @@ Brevi momenti in cui il desiderare si placa perchè abbiamo ottenuto quello che 
 si è un'attimo fermato il motore della nostra vita
 
 noia: senso di vuoto
+
+---
+
+Schopenhauer, negare la volontà
+ teorico della rinuncia
+Nietzsche invece: dobbiamo volere in modo assoluto
+
+---
+
+Liberazione dalla volontà:
+
+* Arte 
+* Morale 
+* Ascesi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU4OTQ4MDUsLTE4MjE1NDEyNzIsMz
-c3NDcyMjM0XX0=
+eyJoaXN0b3J5IjpbNDcwMzc1MjMwLC0xODY1ODk0ODA1LC0xOD
+IxNTQxMjcyLDM3NzQ3MjIzNF19
 -->
