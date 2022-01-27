@@ -37,7 +37,13 @@ desiderare significa essere manchevoli
 
 senisi manchevoli è una sofferenza
 
+
+Brevi momenti in cui il desiderare si placa perchè abbiamo ottenuto quello che vogliamo
+
+si è un'attimo fermato il motore della nostra vita
+
+noia_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjkxODc4NiwtMTgyMTU0MTI3MiwzNz
+eyJoaXN0b3J5IjpbLTQxNzgwNDI3NiwtMTgyMTU0MTI3MiwzNz
 c0NzIyMzRdfQ==
 -->
