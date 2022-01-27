@@ -71,10 +71,9 @@ volontà degli altri
 2 momenti:
 1. diritto, freno le mie azioni per non ledere la volontà degli altri
 2. Compassione: io mi preoccupo di incrementare il bene degli altri
-
-
-Nie
+Nietzsche invece: compassione è asserzione di superiorità su chi ha bisogno
+3. Ascesi: orrrore dell'uomo per la volontà di vivere per il nocciolo e l'essenza di un mondo riconosciuto pieno di dolore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTgyNjQyNCwtMTg2NTg5NDgwNSwtMT
+eyJoaXN0b3J5IjpbMTgxMjg5NjU2MCwtMTg2NTg5NDgwNSwtMT
 gyMTU0MTI3MiwzNzc0NzIyMzRdfQ==
 -->
