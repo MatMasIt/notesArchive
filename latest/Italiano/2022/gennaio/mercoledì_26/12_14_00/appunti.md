@@ -34,6 +34,11 @@ La poesia si fa evocativa, sensibilità, stato d'animo
 
 
 Poeta dell'impressione
+
+Contro classificazioni poetiche
+
+no poeta-vate delle masse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTYyNzEzNjZdfQ==
+eyJoaXN0b3J5IjpbLTE3Mjg4ODIzMDcsLTEwOTYyNzEzNjZdfQ
+==
 -->
