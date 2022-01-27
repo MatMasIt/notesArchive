@@ -16,6 +16,12 @@ Gradi in cui si oggettiva la natura:
 
 
 Pessimismo profondo
+
+
+La storia non ha alcuna logica
+
+
+La società è un fragille guscio delle passioni individuali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzU0MjU4MCwzNzc0NzIyMzRdfQ==
+eyJoaXN0b3J5IjpbMTg4Njc5NTY1LDM3NzQ3MjIzNF19
 -->
