@@ -10,9 +10,12 @@ Conosciamo la realtà attraverso al corpo
 
 Gradi in cui si oggettiva la natura:
 
-1. Magnetismo, proprietà chimiche, proprietà delle cose (ingenua scienza le vede in modo causale), solidità, fluidit 
-2. s
+1. Magnetismo, proprietà chimiche, proprietà delle cose (ingenua scienza le vede in modo causale), solidità, fluidità erc
+2. esseri viventi
 3. Singolo essere umano, noi siamo convinti che sia libero arbitrio razionale
+
+
+Pessimismo profondo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3NDY4MTM1LDM3NzQ3MjIzNF19
+eyJoaXN0b3J5IjpbLTI4MzU0MjU4MCwzNzc0NzIyMzRdfQ==
 -->
