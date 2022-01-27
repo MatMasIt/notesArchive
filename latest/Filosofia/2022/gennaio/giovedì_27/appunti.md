@@ -26,7 +26,18 @@ La società è un fragille guscio delle passioni individuali
 
 1. ordine è llusione
 2. storia è casuale
-3. razionalità umana
+3. razionalità umana è solo una illusione
+4. aspirazione senza scopo eterna e inconsulta tensione insoddisfacibile
+
+> _"La vita oscilla tra il dolore e la noia"_
+
+Noi siamo dominati dalla volont di vivere
+
+desiderare significa essere manchevoli
+
+senisi manchevoli è una sofferenza
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE1NDEyNzIsMzc3NDcyMjM0XX0=
+eyJoaXN0b3J5IjpbMTYxNjkxODc4NiwtMTgyMTU0MTI3MiwzNz
+c0NzIyMzRdfQ==
 -->
