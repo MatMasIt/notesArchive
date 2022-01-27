@@ -16,7 +16,9 @@ Sissy is dark haired and dark eyed
 Still alive, still energetic
 
 Bliter looks pale, dead
+
+deprive of energy, vitality
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQxMTE5NTksMTc4NDE4MzM2MCwtMT
-Y4MDIzNzUyN119
+eyJoaXN0b3J5IjpbMTM4MzU5NDQ1MSwxNzg0MTgzMzYwLC0xNj
+gwMjM3NTI3XX0=
 -->
