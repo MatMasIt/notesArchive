@@ -14,6 +14,14 @@ aggiungere raggio terra
 $$
 E_C=\frac12|U|
 $$
+
+
+Velocità di fuga
+
+
+$$
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODE0NDk2OF19
+eyJoaXN0b3J5IjpbMTI0MTk2ODAwLC01MTgxNDQ5NjhdfQ==
 -->
