@@ -4,7 +4,7 @@ Luciano Folgore, Montale
 
 Piove, da Satura di Montale
 
-ironia su forma
+ironia su artifici linguistici Dannunziani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODI4NTYwNCwtMTY3MDIyNjMyOF19
+eyJoaXN0b3J5IjpbOTg4NzAxODczLC0xNjcwMjI2MzI4XX0=
 -->
