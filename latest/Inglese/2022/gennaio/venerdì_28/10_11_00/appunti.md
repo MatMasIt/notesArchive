@@ -39,8 +39,8 @@ cavallette frinire come antichissimo rito egizio
 tintinnio simile di corpi a porte inevitabilmente chiuse per sempre
 
 
-Frinire delle cavallette: sensazion
+Frinire delle cavallette: sensazione interiore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODE2MDUxMiw5ODg3MDE4NzMsLTE2Nz
+eyJoaXN0b3J5IjpbMTU1NzcyOTI0Miw5ODg3MDE4NzMsLTE2Nz
 AyMjYzMjhdfQ==
 -->
