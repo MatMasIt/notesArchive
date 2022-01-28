@@ -18,7 +18,12 @@ Umili, humus
 Myricae e Canti di Castelvecchio: più umili
 Poemetti: argomenti più alti
 
+
+p. 351 t 6 L'assiuolo
+
+
+L'Io lirico si chiede se in un passato remoto la luna pareva sorgere 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDc4MzU2LDk4ODcwMTg3MywtMTY3MD
-IyNjMyOF19
+eyJoaXN0b3J5IjpbLTE1MDcyODM0MDQsOTg4NzAxODczLC0xNj
+cwMjI2MzI4XX0=
 -->
