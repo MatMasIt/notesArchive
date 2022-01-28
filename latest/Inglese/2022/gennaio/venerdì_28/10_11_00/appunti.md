@@ -36,8 +36,11 @@ sulle vette degli alberi: vento
 
 cavallette frinire come antichissimo rito egizio
 
-tintinnio 
+tintinnio simile di corpi a porte inevitabilmente chiuse per sempre
+
+
+Frinire delle cavallette: sensazion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODAwMzc3MzQsOTg4NzAxODczLC0xNj
-cwMjI2MzI4XX0=
+eyJoaXN0b3J5IjpbMjAxODE2MDUxMiw5ODg3MDE4NzMsLTE2Nz
+AyMjYzMjhdfQ==
 -->
