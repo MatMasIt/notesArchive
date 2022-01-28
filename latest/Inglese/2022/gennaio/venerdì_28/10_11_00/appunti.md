@@ -40,7 +40,11 @@ tintinnio simile di corpi a porte inevitabilmente chiuse per sempre
 
 
 Frinire delle cavallette: sensazione interiore
+
+voce / singulto / pianto di morte 
+
+Ang
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzcyOTI0Miw5ODg3MDE4NzMsLTE2Nz
-AyMjYzMjhdfQ==
+eyJoaXN0b3J5IjpbLTIwNDEwNjE4MjcsOTg4NzAxODczLC0xNj
+cwMjI2MzI4XX0=
 -->
