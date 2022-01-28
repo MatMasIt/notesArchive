@@ -4,8 +4,7 @@ Luciano Folgore, Montale
 
 Piove, da Satura di Montale
 
-ironia su 
+ironia su forma
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc1MDA1ODEsLTE2NzAyMjYzMjhdfQ
-==
+eyJoaXN0b3J5IjpbLTc3ODI4NTYwNCwtMTY3MDIyNjMyOF19
 -->
