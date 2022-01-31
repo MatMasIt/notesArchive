@@ -43,8 +43,10 @@ Frinire delle cavallette: sensazione interiore
 
 voce / singulto / pianto di morte 
 
-Ang
+Angoscia del destino di morte
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDEwNjE4MjcsOTg4NzAxODczLC0xNj
-cwMjI2MzI4XX0=
+eyJoaXN0b3J5IjpbMTc5NDEyODI1Myw5ODg3MDE4NzMsLTE2Nz
+AyMjYzMjhdfQ==
 -->
