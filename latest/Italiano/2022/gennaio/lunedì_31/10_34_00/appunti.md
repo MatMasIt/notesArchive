@@ -71,8 +71,14 @@ silenzio
 ipallage
 
 
+11 novembre: estate dei morti
 
+capacità fonosimbolica del dato reale
+
+potere dei suoni
+
+dati reali con capacità evocativa indiretta e non imme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3MDYzOTQ3LC0zMjc2MjA4OTUsLTEzOD
-A5OTU3NDcsLTY2MDg0NjM0Nl19
+eyJoaXN0b3J5IjpbMTE4ODQ0NzU1NywtMzI3NjIwODk1LC0xMz
+gwOTk1NzQ3LC02NjA4NDYzNDZdfQ==
 -->
