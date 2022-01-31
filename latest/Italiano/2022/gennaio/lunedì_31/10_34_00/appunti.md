@@ -117,8 +117,10 @@ t 13
 Gelsomino notturno, che di giorno è chiuso
 
 Le falene rappresentano le anime dei morti
+
+petali stropicciati si chiudno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzOTA5OTMyLDYzNDkwOTA2MCwxNDIyMD
-k3NTAwLC0zMjc2MjA4OTUsLTEzODA5OTU3NDcsLTY2MDg0NjM0
-Nl19
+eyJoaXN0b3J5IjpbMTc0NjU1NDE0Nyw4MjM5MDk5MzIsNjM0OT
+A5MDYwLDE0MjIwOTc1MDAsLTMyNzYyMDg5NSwtMTM4MDk5NTc0
+NywtNjYwODQ2MzQ2XX0=
 -->
