@@ -9,7 +9,11 @@ The wall is the colelction of all kids, which are to the school system undistrin
 
 Teacher so frustrated by strict iews that he reverses on the boys his home sufferance and frustration
 
-H
+His wife commanding him like he does in class
+
+All the desks are the same, they walk with a mask
+
+No in
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTM5MzIzNywxNTE4NzIxMjQ0XX0=
+eyJoaXN0b3J5IjpbLTMyODc2MzA2NCwxNTE4NzIxMjQ0XX0=
 -->
