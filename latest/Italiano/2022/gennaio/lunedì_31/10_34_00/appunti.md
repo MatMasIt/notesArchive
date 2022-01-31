@@ -21,6 +21,18 @@ pubblicate nel 1891
 edizione difinitiva nel 1903
 
 
+
+Myricae
+
+Tema della Morte e del Nido che protegge del Male
+
+Pascoli: contadini, borghesia agricola
+
+modello sociale
+
+
+La bimba senza religione, senza pensiero della morte
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA5OTU3NDcsLTY2MDg0NjM0Nl19
+eyJoaXN0b3J5IjpbLTE3NTk3NDExOCwtMTM4MDk5NTc0NywtNj
+YwODQ2MzQ2XX0=
 -->
