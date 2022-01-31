@@ -77,8 +77,27 @@ capacità fonosimbolica del dato reale
 
 potere dei suoni
 
-dati reali con capacità evocativa indiretta e non imme
+dati reali con capacità evocativa indiretta e non immediata, scientifica logica razionalistica
+
+frammentismo impressionistico
+
+Che sa rendere l'ulteriore
+
+appare ache a livello lingusiticl, sintattico, metrico
+
+Gemmea l'aria
+
+L'aria è come una gemma
+Metafora analogica
+
+ellissi
+manca la copula
+
+frase nominale
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODQ0NzU1NywtMzI3NjIwODk1LC0xMz
+eyJoaXN0b3J5IjpbMTQyMjA5NzUwMCwtMzI3NjIwODk1LC0xMz
 gwOTk1NzQ3LC02NjA4NDYzNDZdfQ==
 -->
