@@ -52,8 +52,14 @@ t.10, novembre
 
 Strofe Saffiche, tradizione greca
 
-iyer
+interlocutore al v.2 "Tu"
+
+Cielo nonsoleggiato
+
+terreno vuoto
+
+silenzio interrotto dal fruscio delle foglie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTMwNzI5NSwtMTM4MDk5NTc0NywtNj
+eyJoaXN0b3J5IjpbLTMyNzYyMDg5NSwtMTM4MDk5NTc0NywtNj
 YwODQ2MzQ2XX0=
 -->
