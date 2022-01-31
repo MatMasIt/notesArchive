@@ -32,7 +32,17 @@ modello sociale
 
 
 La bimba senza religione, senza pensiero della morte
+
+
+Tutti gli amici di Pascoli si sposano
+
+pulsione erotica convertita e incanalata attraverso il componimento lirico attraverso la sublimazione
+
+
+Regressione all'infanzia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk3NDExOCwtMTM4MDk5NTc0NywtNj
-YwODQ2MzQ2XX0=
+eyJoaXN0b3J5IjpbLTEzOTA4MzE0NzgsLTEzODA5OTU3NDcsLT
+Y2MDg0NjM0Nl19
 -->
