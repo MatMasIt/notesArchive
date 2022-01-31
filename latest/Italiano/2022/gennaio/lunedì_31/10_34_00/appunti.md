@@ -95,9 +95,24 @@ manca la copula
 
 frase nominale
 
+Aggettivi più usati in Pascoli
+
+* Tremulo 
+* Fragile
 
 
+* Brivido 
+* Crollo 
+* Ombra
+
+* Soffiare
+* Svanire
+* Evaporare
+
+
+
+Gruppi labiali e dentali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjA5NzUwMCwtMzI3NjIwODk1LC0xMz
-gwOTk1NzQ3LC02NjA4NDYzNDZdfQ==
+eyJoaXN0b3J5IjpbNjM0OTA5MDYwLDE0MjIwOTc1MDAsLTMyNz
+YyMDg5NSwtMTM4MDk5NTc0NywtNjYwODQ2MzQ2XX0=
 -->
