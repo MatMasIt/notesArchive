@@ -13,7 +13,13 @@ His wife commanding him like he does in class
 
 All the desks are the same, they walk with a mask
 
-No in
+No individuality
+
+omologation
+
+students and workers in assembly line
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODc2MzA2NCwxNTE4NzIxMjQ0XX0=
+eyJoaXN0b3J5IjpbMjM3Nzg0NDE3LDE1MTg3MjEyNDRdfQ==
 -->
