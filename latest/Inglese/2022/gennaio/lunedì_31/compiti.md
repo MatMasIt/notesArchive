@@ -6,6 +6,8 @@ The most striking image is the meatgrinder of kids, symbolic of the dehumanizati
 Indeed, the teacher in the song represses a kid's creativity and is focused on teaching "hard facts" to the students, completely disreagarding their humanity
 3. What’s the meaning of the “wall” in your opinion?
 The wall is the colelction of all kids, which are to the school system undistringuishable and dull bricks that form it
+
+Teacher so frustrated by strict iews that he reverses
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODcyMTI0NF19
+eyJoaXN0b3J5IjpbMjA3MTI3MDE4MywxNTE4NzIxMjQ0XX0=
 -->
