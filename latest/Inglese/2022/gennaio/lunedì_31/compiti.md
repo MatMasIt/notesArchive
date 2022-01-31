@@ -19,10 +19,15 @@ omologation
 
 students and workers in assembly line
 
+
+Mr. GradGrind
+
 Grad(e): Assign grades
-put 
+To level, devide people in groups according to skills
 Grind:  destroy the student's individuality
+
+Interior death
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk3NjA4MTYsMjM3Nzg0NDE3LDE1MT
-g3MjEyNDRdfQ==
+eyJoaXN0b3J5IjpbMjU0NDU3OTEsMjM3Nzg0NDE3LDE1MTg3Mj
+EyNDRdfQ==
 -->
