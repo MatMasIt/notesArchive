@@ -7,7 +7,9 @@ Indeed, the teacher in the song represses a kid's creativity and is focused on t
 3. What’s the meaning of the “wall” in your opinion?
 The wall is the colelction of all kids, which are to the school system undistringuishable and dull bricks that form it
 
-Teacher so frustrated by strict iews that he reverses
+Teacher so frustrated by strict iews that he reverses on the boys his home sufferance and frustration
+
+H
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTI3MDE4MywxNTE4NzIxMjQ0XX0=
+eyJoaXN0b3J5IjpbMTYwOTM5MzIzNywxNTE4NzIxMjQ0XX0=
 -->
