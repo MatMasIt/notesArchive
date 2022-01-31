@@ -58,8 +58,10 @@ Cielo nonsoleggiato
 
 terreno vuoto
 
-silenzio interrotto dal fruscio delle foglie
+silenzio interrotto dal fruscio delle foglieù
+
+cielo vuot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzYyMDg5NSwtMTM4MDk5NTc0NywtNj
-YwODQ2MzQ2XX0=
+eyJoaXN0b3J5IjpbLTgwNzk5MDg0LC0zMjc2MjA4OTUsLTEzOD
+A5OTU3NDcsLTY2MDg0NjM0Nl19
 -->
