@@ -112,7 +112,13 @@ Aggettivi più usati in Pascoli
 
 
 Gruppi labiali e dentali
+
+t 13
+Gelsomino notturno, che di giorno è chiuso
+
+Le falene rappresentano le anime dei morti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0OTA5MDYwLDE0MjIwOTc1MDAsLTMyNz
-YyMDg5NSwtMTM4MDk5NTc0NywtNjYwODQ2MzQ2XX0=
+eyJoaXN0b3J5IjpbODIzOTA5OTMyLDYzNDkwOTA2MCwxNDIyMD
+k3NTAwLC0zMjc2MjA4OTUsLTEzODA5OTU3NDcsLTY2MDg0NjM0
+Nl19
 -->
