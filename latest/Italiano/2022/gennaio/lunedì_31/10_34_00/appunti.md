@@ -122,8 +122,15 @@ petali stropicciati si chiudno
 
 Lenzuloa gualcite del talamo nuziale come il gelsomino
 
+esterno/interno
+
+alternanza
+
+come alternanza dei sensi
+
+richiamo forzato 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjMxNDAyOCw4MjM5MDk5MzIsNjM0OT
-A5MDYwLDE0MjIwOTc1MDAsLTMyNzYyMDg5NSwtMTM4MDk5NTc0
-NywtNjYwODQ2MzQ2XX0=
+eyJoaXN0b3J5IjpbMjU1MzAyODkxLDgyMzkwOTkzMiw2MzQ5MD
+kwNjAsMTQyMjA5NzUwMCwtMzI3NjIwODk1LC0xMzgwOTk1NzQ3
+LC02NjA4NDYzNDZdfQ==
 -->
