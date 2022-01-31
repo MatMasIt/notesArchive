@@ -41,8 +41,10 @@ pulsione erotica convertita e incanalata attraverso il componimento lirico attra
 
 Regressione all'infanzia
 
+Italy
 
+componimento in cui famiglia italiana negli usa torna sui luogi natii per sperare che la figlia sia curata dalal tisi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA4MzE0NzgsLTEzODA5OTU3NDcsLT
-Y2MDg0NjM0Nl19
+eyJoaXN0b3J5IjpbMTg4Njk0NTA3NiwtMTM4MDk5NTc0NywtNj
+YwODQ2MzQ2XX0=
 -->
