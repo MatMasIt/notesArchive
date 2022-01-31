@@ -27,7 +27,9 @@ To level, devide people in groups according to skills
 Grind:  destroy the student's individuality
 
 Interior death
+
+The students rebel, setting fire to school and the teachers and break the wall
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0NDU3OTEsMjM3Nzg0NDE3LDE1MTg3Mj
-EyNDRdfQ==
+eyJoaXN0b3J5IjpbLTE3NjUyMjQ3ODMsMjU0NDU3OTEsMjM3Nz
+g0NDE3LDE1MTg3MjEyNDRdfQ==
 -->
