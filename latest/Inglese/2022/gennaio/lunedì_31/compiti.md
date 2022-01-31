@@ -31,8 +31,8 @@ Interior death
 The students rebel, setting fire to school and the teachers and break the wall
 
 
-According to R
+According to R. Walters, each brick is something that isolates people
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjgyOTExMjAsLTE3NjUyMjQ3ODMsMj
-U0NDU3OTEsMjM3Nzg0NDE3LDE1MTg3MjEyNDRdfQ==
+eyJoaXN0b3J5IjpbLTc4NzQwNzE5OCwtMTc2NTIyNDc4MywyNT
+Q0NTc5MSwyMzc3ODQ0MTcsMTUxODcyMTI0NF19
 -->
