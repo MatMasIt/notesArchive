@@ -19,7 +19,10 @@ omologation
 
 students and workers in assembly line
 
-
+Grad(e): Assign grades
+put 
+Grind:  destroy the student's individuality
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3Nzg0NDE3LDE1MTg3MjEyNDRdfQ==
+eyJoaXN0b3J5IjpbLTIwMTk3NjA4MTYsMjM3Nzg0NDE3LDE1MT
+g3MjEyNDRdfQ==
 -->
