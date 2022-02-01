@@ -2,7 +2,12 @@
 
 $\Phi$: Flusso del ampo elettrico / magnetico
 
-$\Gamma$: circuitazione 
+$\Gamma$: circuitazione del campo elettrico/magnetico
+
+
+$$
+\Phi\left(\vec E\right)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODI5OTQ5XX0=
+eyJoaXN0b3J5IjpbNzc2NDk2MzcxXX0=
 -->
