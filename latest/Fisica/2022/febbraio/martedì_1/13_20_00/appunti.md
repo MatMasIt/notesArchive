@@ -22,8 +22,10 @@ $\vec n$: versore (vettore di unità 1)
 
 
 $$
-\Phi\left(\vec E\right)=\vec E \bullet\normalsize \vec nS=E\cdot S\cdot \cos \alpha
+\Phi\left(\vec E\right)=\vec E \bullet \vec nS=E\cdot S\cdot \cos \alpha
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzU5OTA5MSwxNTQxNTU5OTQyXX0=
+eyJoaXN0b3J5IjpbNTQzMjU1NjU1LDE1NDE1NTk5NDJdfQ==
 -->
