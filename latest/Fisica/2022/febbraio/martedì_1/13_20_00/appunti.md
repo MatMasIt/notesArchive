@@ -25,7 +25,7 @@ $$
 \Phi\left(\vec E\right)=\vec E \bullet \vec nS=E\cdot S\cdot \cos \alpha
 $$
 
-
+Superfcie Gaussiana (superficie chiusa)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzMjU1NjU1LDE1NDE1NTk5NDJdfQ==
+eyJoaXN0b3J5IjpbLTg4NTA0OTI4LDE1NDE1NTk5NDJdfQ==
 -->
