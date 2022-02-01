@@ -14,7 +14,16 @@ $$
 è un prodotto scalare (tra due vettori)
 
 
+P 195 SBAGLIATA!
 
+![](https://i.imgur.com/MgO3QqY.jpg)
+
+$\vec n$: versore (vettore di unità 1)
+
+
+$$
+\Phi\left(\vec E\right)=\vec E \cdot \vec nS=E\cdot S\cdot \cos \alpha
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTU1OTk0Ml19
+eyJoaXN0b3J5IjpbMTUxMDIyOTkxLDE1NDE1NTk5NDJdfQ==
 -->
