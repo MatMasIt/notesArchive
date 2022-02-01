@@ -26,6 +26,15 @@ $$
 $$
 
 Superfcie Gaussiana (superficie chiusa)
+
+![](https://i.imgur.com/S28T89A.jpg)
+
+Somma di tutti i flussi è nulla
+
+$$
+\Phi\left(\vec E\right)=\sum^6_{i=1}\Phi_i(E)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTA0OTI4LDE1NDE1NTk5NDJdfQ==
+eyJoaXN0b3J5IjpbMTU5NzcwMDk4NCwtODg1MDQ5MjgsMTU0MT
+U1OTk0Ml19
 -->
