@@ -128,8 +128,9 @@ di ispiazione cattolica, antenato CDU
 Partito socialista tedesco che ancora oggi esiste
 
 
-
+ Promotore dello stato sociale che nasce per togliere consenso ai socialisti e ai cattolici
+Impostazione poi segutia anche da Mussolini
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDAxNjI4NCwtMzM1OTA4ODE1LC0yMD
-M0NjQ0NjIzLDEwMTUzODE3MDRdfQ==
+eyJoaXN0b3J5IjpbMTc0MDEwMjg0LC0zMzU5MDg4MTUsLTIwMz
+Q2NDQ2MjMsMTAxNTM4MTcwNF19
 -->
