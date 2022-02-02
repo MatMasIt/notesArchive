@@ -10,8 +10,8 @@ $$
 $$
 
 $$
-\lim_{x\to 0^+}\ln(3x-x)=\lim_{x\to 0^+}(2x)
+\lim_{x\to 0^+}\ln(3x-x)=\lim_{x\to 0^+}\ln(2x)=-\infin
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc3ODY5MjddfQ==
+eyJoaXN0b3J5IjpbMTYxNzc5MDY2N119
 -->
