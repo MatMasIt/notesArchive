@@ -6,8 +6,12 @@ $$
 
 
 $$
-\xrightarrow[\sin x \approx x]{\sin 3x \approx 3x}
+\xrightarrow[\sin x \approx x]{\sin 3x \approx 3x}\lim_{x\to0^+}\frac{\ln 3x}{\ln x}
+$$
+
+$$
+\lim_{x\to 0^+}\ln(3x-x)=\lim_{x\to 0^+}(2x)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDUzNTA3Nl19
+eyJoaXN0b3J5IjpbLTE3OTc3ODY5MjddfQ==
 -->
