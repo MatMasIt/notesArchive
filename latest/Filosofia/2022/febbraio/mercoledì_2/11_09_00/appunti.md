@@ -29,7 +29,16 @@ impero ereditario, famiglia degli asburgo
 
 espansione nei balcani perchè ottomani retrocedono
 
-esce da
+esce dalle guerre napoleoniche come la più potente
+
+Influenza in italia e area tedesca
+
+
+tensione e competizione tra prussia e impeo asburgico
+
+p.303
+
+Zo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA4NDQ5ODFdfQ==
+eyJoaXN0b3J5IjpbMTkyMjQ0MDM4Ml19
 -->
