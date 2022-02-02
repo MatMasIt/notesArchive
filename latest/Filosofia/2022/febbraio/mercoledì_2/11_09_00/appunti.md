@@ -118,7 +118,18 @@ Vuole perseguire grandezza prussia
 
 combatte contro nemici esterni e interni:
 movimenti sociaisti e cattolico-sociali che vorrebbero mettere in discussione l'assetto di potere
+
+1870 nasce in germania partito di centro, Zentrum
+
+di ispiazione cattolica, antenato CDU
+
+1875 nasce il SPD
+
+Partito socialista tedesco che ancora oggi esiste
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzA4MzU2MSwtMzM1OTA4ODE1LC0yMD
+eyJoaXN0b3J5IjpbLTg2MDAxNjI4NCwtMzM1OTA4ODE1LC0yMD
 M0NjQ0NjIzLDEwMTUzODE3MDRdfQ==
 -->
