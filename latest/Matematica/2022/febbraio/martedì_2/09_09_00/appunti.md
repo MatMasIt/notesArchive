@@ -44,7 +44,13 @@ $$
 $$
 
 -2x+5 è trascurabileperchè è un'infinito di ordine inferiore rispetto a x^2^
+
+
+
+$$
+\xrightarrow{-2x+5=o(x^2)}\lim_{x\to-\infin}x+|x|\xrightarrow
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5OTYxODc5LC0xODE5OTYzODg3LDU2Nj
+eyJoaXN0b3J5IjpbNjIxNzg3NzUxLC0xODE5OTYzODg3LDU2Nj
 I0NjAxNyw5MTE0OTA2OF19
 -->
