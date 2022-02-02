@@ -72,12 +72,9 @@ $$
 
 ---
 
-$$
-
-$$
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc5NjUzMzAsLTUxNjk2Nzg0NSwtMT
-gxOTk2Mzg4Nyw1NjYyNDYwMTcsOTExNDkwNjhdfQ==
+eyJoaXN0b3J5IjpbLTEzOTIyNDk2NzQsLTEyMjc5NjUzMzAsLT
+UxNjk2Nzg0NSwtMTgxOTk2Mzg4Nyw1NjYyNDYwMTcsOTExNDkw
+NjhdfQ==
 -->
