@@ -70,9 +70,14 @@ $$
 y=1\quad Asintoto \space Orizzontale
 $$
 
+---
+
+$$
+
+$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjk2Nzg0NSwtMTgxOTk2Mzg4Nyw1Nj
-YyNDYwMTcsOTExNDkwNjhdfQ==
+eyJoaXN0b3J5IjpbLTEyMjc5NjUzMzAsLTUxNjk2Nzg0NSwtMT
+gxOTk2Mzg4Nyw1NjYyNDYwMTcsOTExNDkwNjhdfQ==
 -->
