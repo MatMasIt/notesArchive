@@ -24,6 +24,7 @@ eccessiva determinatezza + presenza di termini molto indefiniti
 termini specialistici e tecnici per i dati naturali
 o come termine gergale, popolare della zona
 
+capacità evocative e adamitiche di creazione oltre al dato reale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Mjc5OTU5Nl19
+eyJoaXN0b3J5IjpbMTgzNzQ5NDY0Nl19
 -->
