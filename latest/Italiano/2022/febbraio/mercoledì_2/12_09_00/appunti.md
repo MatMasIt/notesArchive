@@ -63,6 +63,8 @@ salti analogici
 S'è spento
 
 reticenza
+
+urna: ovaio del fiore 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4Mjc3NDY3XX0=
+eyJoaXN0b3J5IjpbLTM3MDIzNjM3M119
 -->
