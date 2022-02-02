@@ -80,8 +80,10 @@ sistema parlamentare
 3 classi
 bassa 80% persone: 1/3 deputati
 interemedia 12% persone: 1/3 deputati
-ricchi: Junkers
+ricchi: 7% Junkers: 1/3 deputati
+
+leggi conservatrici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTU0MzY5LC0yMDM0NjQ0NjIzLDEwMT
+eyJoaXN0b3J5IjpbMjcyNjY2NzA0LC0yMDM0NjQ0NjIzLDEwMT
 UzODE3MDRdfQ==
 -->
