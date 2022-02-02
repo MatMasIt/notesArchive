@@ -46,13 +46,10 @@ $$
 -2x+5 è trascurabileperchè è un'infinito di ordine inferiore rispetto a x^2^
 
 
-
+è razionalizzabi
 $$
-\xrightarrow{-2x+5=o(x^2)}\lim_{x\to-\infin}x+|x|\xrightarrow{|x|=-x}
 $$
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMjcxNzUzLC0xODE5OTYzODg3LDU2Nj
-I0NjAxNyw5MTE0OTA2OF19
+eyJoaXN0b3J5IjpbLTE2OTk5OTcxNCwtMTgxOTk2Mzg4Nyw1Nj
+YyNDYwMTcsOTExNDkwNjhdfQ==
 -->
