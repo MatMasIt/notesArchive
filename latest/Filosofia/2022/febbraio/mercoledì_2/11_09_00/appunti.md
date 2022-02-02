@@ -83,7 +83,16 @@ interemedia 12% persone: 1/3 deputati
 ricchi: 7% Junkers: 1/3 deputati
 
 leggi conservatrici
+
+
+Guglielmo I, 1861 
+
+vuole unificare
+
+guerre 1866 1870
+
+unificazio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyNjY2NzA0LC0yMDM0NjQ0NjIzLDEwMT
-UzODE3MDRdfQ==
+eyJoaXN0b3J5IjpbLTE1ODUyNzkyNzUsLTIwMzQ2NDQ2MjMsMT
+AxNTM4MTcwNF19
 -->
