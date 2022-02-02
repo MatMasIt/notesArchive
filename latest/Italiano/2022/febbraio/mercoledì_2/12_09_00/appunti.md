@@ -93,7 +93,9 @@ itagliese
 
 pai col fleva:  pie with flauvor
 
+p.382
 
+4-5-6 voce poetica con discorso indiritto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc0MzgzMjIsODA3NDk3MTAyXX0=
+eyJoaXN0b3J5IjpbMTMyNzY5MTc5Miw4MDc0OTcxMDJdfQ==
 -->
