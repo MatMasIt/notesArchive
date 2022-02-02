@@ -38,6 +38,13 @@ $$
 $$
 \Delta < 0
 $$
+
+$$
+\lim_{x\to-\infin}x+\sqrt{x^2-3x+5}
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2MjQ2MDE3LDkxMTQ5MDY4XX0=
+eyJoaXN0b3J5IjpbLTE4MTk5NjM4ODcsNTY2MjQ2MDE3LDkxMT
+Q5MDY4XX0=
 -->
