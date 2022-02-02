@@ -56,9 +56,9 @@ $$
 $$
 
 $$
-\xrightarrow[-5=o(2x)]{}
+\xrightarrow[-2x+5=o(x^2)]{-5=o(2x)}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwNDM0MzQ5LC0xODE5OTYzODg3LDU2Nj
-I0NjAxNyw5MTE0OTA2OF19
+eyJoaXN0b3J5IjpbMjA5OTQ3MzEyMywtMTgxOTk2Mzg4Nyw1Nj
+YyNDYwMTcsOTExNDkwNjhdfQ==
 -->
