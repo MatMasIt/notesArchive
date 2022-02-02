@@ -41,6 +41,10 @@ colui che guarda dal buco della serratura, vede quasi senza farsi vedere
 il gusto di vedere cosa accade ma non vuole far vedere cosa sta vedendo
 
 esempio moderno: reality shows
+
+Si osserva dall'esterno
+
+nidi socome occhi protetti e chiusi dalle ciglia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg4MjU4MjddfQ==
+eyJoaXN0b3J5IjpbLTEzMjkzODEyOTBdfQ==
 -->
