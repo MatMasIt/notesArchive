@@ -120,6 +120,7 @@ cheap, economico
 
 diventa verso di un uccellino
 
+ sintassi franta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzU0NDg5Nyw4MDc0OTcxMDJdfQ==
+eyJoaXN0b3J5IjpbLTU5OTk1MDYxMSw4MDc0OTcxMDJdfQ==
 -->
