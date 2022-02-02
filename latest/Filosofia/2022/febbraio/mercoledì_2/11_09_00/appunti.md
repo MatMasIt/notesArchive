@@ -38,7 +38,7 @@ tensione e competizione tra prussia e impeo asburgico
 
 p.303
 
-Zolderein
+_Zollverein_
 
 unione doganale (1834) per iniziativa del regno di Prussia
 
@@ -73,6 +73,8 @@ Unificazione tedesca
 
 prima profilo economico e poi politico
 in italia è successo l'opposto
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTQwNDQ1NywxMDE1MzgxNzA0XX0=
+eyJoaXN0b3J5IjpbLTIwMzQ2NDQ2MjMsMTAxNTM4MTcwNF19
 -->
