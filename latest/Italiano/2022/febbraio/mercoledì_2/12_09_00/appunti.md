@@ -44,7 +44,13 @@ esempio moderno: reality shows
 
 Si osserva dall'esterno
 
-nidi socome occhi protetti e chiusi dalle ciglia
+nidi sotto i cornicioni come occhi protetti e chiusi dalle ciglia
+
+non c'è semplice similitudine
+
+Occhio chiuso dell'escluso che non vole veder (io lirico)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkzODEyOTBdfQ==
+eyJoaXN0b3J5IjpbLTE0MjMzOTc2MzJdfQ==
 -->
