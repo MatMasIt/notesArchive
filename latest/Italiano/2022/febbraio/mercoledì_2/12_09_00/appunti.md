@@ -83,7 +83,11 @@ Italy
 nella realtà la bambinetta muore nel 1906
 
 
+Un moro con bianchi occhi e denti
+
+negli stati uniti
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyMDM1MTk1LDgwNzQ5NzEwMl19
+eyJoaXN0b3J5IjpbMTMwNjE2Mzc3OSw4MDc0OTcxMDJdfQ==
 -->
