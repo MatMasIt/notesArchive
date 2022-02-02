@@ -108,10 +108,17 @@ Cristiano III Danimarca p 421
 
 prova ad annettere tre Granducati
 
-Otto Von Bismarck
+Otto Von Bismarck cancelliere
 p.421
-fede
+fedele colaboratore di Guglielmo I
+
+considerato padre unificazione tedesca
+
+Vuole perseguire grandezza prussia
+
+combatte contro nemici esterni e interni:
+movimenti sociaisti e cattolico-sociali che vorrebbero mettere in discussione l'assetto di potere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTgxNTQyMSwtMzM1OTA4ODE1LC0yMD
+eyJoaXN0b3J5IjpbMTc5NzA4MzU2MSwtMzM1OTA4ODE1LC0yMD
 M0NjQ0NjIzLDEwMTUzODE3MDRdfQ==
 -->
