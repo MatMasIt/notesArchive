@@ -31,7 +31,9 @@ tema della morte
 
 vita naturale e famigliare
 
-1903 aggiunge Glossarietto ai campi perchè
+1903 aggiunge Glossarietto ai canti di Castelvecchio perchè
+i lettori non comprendono termine gergali e le allusioni
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk5Mzk4MjJdfQ==
+eyJoaXN0b3J5IjpbMTkxOTY5ODA3M119
 -->
