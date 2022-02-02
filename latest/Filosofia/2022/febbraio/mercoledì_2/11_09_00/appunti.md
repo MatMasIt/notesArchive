@@ -91,8 +91,19 @@ vuole unificare
 
 guerre 1866 1870
 
-unificazio
+unificazione
+
+Prussia vince anche per effetto della presenza di armi più efficienti (apparato industriale), grazie alle ferrovie
+
+1866: fucili a canna rigata
+1870: artiglieria a canna rigata
+
+canna liscia non era precisa
+
+esercito ben organizzato
+
+mili
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODUyNzkyNzUsLTIwMzQ2NDQ2MjMsMT
-AxNTM4MTcwNF19
+eyJoaXN0b3J5IjpbMjA3NjM5NjM1MiwtMjAzNDY0NDYyMywxMD
+E1MzgxNzA0XX0=
 -->
