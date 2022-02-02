@@ -34,6 +34,13 @@ vita naturale e famigliare
 1903 aggiunge Glossarietto ai canti di Castelvecchio perchè
 i lettori non comprendono termine gergali e le allusioni
 
+voyerismo, termine francese
+
+colui che guarda dal buco della serratura, vede quasi senza farsi vedere
+
+il gusto di vedere cosa accade ma non vuole far vedere cosa sta vedendo
+
+esempio modern
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTY5ODA3M119
+eyJoaXN0b3J5IjpbMTgzMDI2NTYxNF19
 -->
