@@ -71,7 +71,13 @@ evocazione dalla fecondazione nuziale della sposa
 
 di cui Pascoli sente la mancanza essendo celibe
 
-eros e m0rte
+eros e morte
+
+Italy, amico di Pascoli
+
+figlio e figlia tornati da Italia da America
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3NDk3MTAyXX0=
+eyJoaXN0b3J5IjpbLTU4NzM0MDY0OSw4MDc0OTcxMDJdfQ==
 -->
