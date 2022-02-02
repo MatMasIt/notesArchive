@@ -24,6 +24,20 @@ Asinoti
 $$
 f(x)=x+\sqrt{x^2-2x+5}
 $$
+
+D
+
+$$
+x^2-2x+5 \ge 0
+$$
+
+$$
+x^2-2x+5=0
+$$
+
+$$
+\Delta < 0
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTc0Nzc4NCw5MTE0OTA2OF19
+eyJoaXN0b3J5IjpbNTY2MjQ2MDE3LDkxMTQ5MDY4XX0=
 -->
