@@ -44,12 +44,12 @@ $$
 $$
 
 -2x+5 è trascurabileperchè è un'infinito di ordine inferiore rispetto a x^2^
-
-
-è razionalizzabi
+?
+non si può trascirare e occorre razionaliszzare
 $$
+\lim_{x\to-\infin}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk5OTcxNCwtMTgxOTk2Mzg4Nyw1Nj
+eyJoaXN0b3J5IjpbMjExODM5OTQ1NywtMTgxOTk2Mzg4Nyw1Nj
 YyNDYwMTcsOTExNDkwNjhdfQ==
 -->
