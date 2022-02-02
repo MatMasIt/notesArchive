@@ -104,7 +104,14 @@ esercito ben organizzato
 
 militarismo
 
+Cristiano III Danimarca p 421
+
+prova ad annettere tre Granducati
+
+Otto Von Bismarck
+p.421
+fede
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTkwODgxNSwtMjAzNDY0NDYyMywxMD
-E1MzgxNzA0XX0=
+eyJoaXN0b3J5IjpbMTA1NTgxNTQyMSwtMzM1OTA4ODE1LC0yMD
+M0NjQ0NjIzLDEwMTUzODE3MDRdfQ==
 -->
