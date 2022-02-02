@@ -21,7 +21,15 @@ impero asburgico dal 1867 prenderà il nome di impero austro-ungarico
 
 concessa molta autonomia al regno di ungheria
 
-compromesso con independentisti
+compromesso con indepedentisti
+
+Presidenza confederazione data all'impero asburgico
+
+impero ereditario, famiglia degli asburgo
+
+espansione nei balcani perchè ottomani retrocedono
+
+esce da
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM5OTk2MDhdfQ==
+eyJoaXN0b3J5IjpbLTE1MjA4NDQ5ODFdfQ==
 -->
