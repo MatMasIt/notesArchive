@@ -67,6 +67,12 @@ errore politico
 
 La prussia ha realizzato già una unione economica prima di una unione politica
  
+molti stati legati da interessi economici
+
+Unificazione tedesca
+
+prima profilo economico e poi politico
+in italia è successo l'opposto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMDU2NDQ3LDEwMTUzODE3MDRdfQ==
+eyJoaXN0b3J5IjpbLTMwMTQwNDQ1NywxMDE1MzgxNzA0XX0=
 -->
