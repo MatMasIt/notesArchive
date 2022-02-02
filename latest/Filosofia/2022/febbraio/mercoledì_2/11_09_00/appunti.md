@@ -75,6 +75,13 @@ prima profilo economico e poi politico
 in italia è successo l'opposto
 
 
+
+sistema parlamentare 
+3 classi
+bassa 80% persone: 1/3 deputati
+interemedia 12% persone: 1/3 deputati
+ricchi: Junkers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ2NDQ2MjMsMTAxNTM4MTcwNF19
+eyJoaXN0b3J5IjpbMTQxNTU0MzY5LC0yMDM0NjQ0NjIzLDEwMT
+UzODE3MDRdfQ==
 -->
