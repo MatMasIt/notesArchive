@@ -58,8 +58,15 @@ serve scambio prodotti, circolazione
 
 si vogliono evitare dazi doganali
 
-molti paesi aderiscono, area doganale ampia ma non 
+molti paesi aderiscono, area doganale ampia ma non coincide con confederazione
+
+Austria non ne fa parte, vuole difendere la sua nascente produzione industriale
+
+
+errore politico
+
+La prussia ha realizzato già una unione economica prima di una unione politica
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc5ODExODcsMTAxNTM4MTcwNF19
+eyJoaXN0b3J5IjpbMzIxMDU2NDQ3LDEwMTUzODE3MDRdfQ==
 -->
