@@ -50,7 +50,7 @@ non c'è semplice similitudine
 
 Occhio chiuso dell'escluso che non vole veder (io lirico)
 
-
+chioccetta: pleiadi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjMzOTc2MzJdfQ==
+eyJoaXN0b3J5IjpbLTg0NzU1NTI2OV19
 -->
