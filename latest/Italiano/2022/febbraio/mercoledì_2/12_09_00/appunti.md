@@ -25,6 +25,13 @@ termini specialistici e tecnici per i dati naturali
 o come termine gergale, popolare della zona
 
 capacità evocative e adamitiche di creazione oltre al dato reale
+
+
+tema della morte
+
+vita naturale e famigliare
+
+<
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzQ5NDY0Nl19
+eyJoaXN0b3J5IjpbOTU2ODQ2MTU2XX0=
 -->
