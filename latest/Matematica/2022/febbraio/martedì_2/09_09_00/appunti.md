@@ -58,7 +58,21 @@ $$
 $$
 \xrightarrow[-2x+5=o(x^2)]{-5=o(2x)}
 $$
+
+$$
+\lim_{x\to -\infin}\frac{2x}{2x}=1
+$$
+
+---
+
+
+$$
+y=1\quad Asintoto \space Orizzontale
+$$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTQ3MzEyMywtMTgxOTk2Mzg4Nyw1Nj
+eyJoaXN0b3J5IjpbLTUxNjk2Nzg0NSwtMTgxOTk2Mzg4Nyw1Nj
 YyNDYwMTcsOTExNDkwNjhdfQ==
 -->
