@@ -77,7 +77,13 @@ Italy, amico di Pascoli
 
 figlio e figlia tornati da Italia da America
 
+Italy
+
+
+nella realtà la bambinetta muore nel 1906
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzM0MDY0OSw4MDc0OTcxMDJdfQ==
+eyJoaXN0b3J5IjpbNTIyMDM1MTk1LDgwNzQ5NzEwMl19
 -->
