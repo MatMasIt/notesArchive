@@ -48,9 +48,11 @@ $$
 
 
 $$
-\xrightarrow{-2x+5=o(x^2)}\lim_{x\to-\infin}x+|x|\xrightarrow
+\xrightarrow{-2x+5=o(x^2)}\lim_{x\to-\infin}x+|x|\xrightarrow{|x|=-x}
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxNzg3NzUxLC0xODE5OTYzODg3LDU2Nj
+eyJoaXN0b3J5IjpbNDIxMjcxNzUzLC0xODE5OTYzODg3LDU2Nj
 I0NjAxNyw5MTE0OTA2OF19
 -->
