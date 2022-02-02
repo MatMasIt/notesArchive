@@ -65,6 +65,13 @@ S'è spento
 reticenza
 
 urna: ovaio del fiore 
+
+
+evocazione dalla fecondazione nuziale della sposa
+
+di cui Pascoli sente la mancanza essendo celibe
+
+eros e m0rte
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDIzNjM3M119
+eyJoaXN0b3J5IjpbODA3NDk3MTAyXX0=
 -->
