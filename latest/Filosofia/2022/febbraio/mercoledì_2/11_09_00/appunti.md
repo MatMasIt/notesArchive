@@ -15,7 +15,13 @@ due delle quali importanti:
 
 entrano nonostante abbiano territorio al di fuori della confderazione (cfr p 283)
 
-p.303 regno di Prussia
+p.303 regno di Prussia (dove è nato Kant)
+
+impero asburgico dal 1867 prenderà il nome di impero austro-ungarico
+
+concessa molta autonomia al regno di ungheria
+
+compromesso con independentisti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODU5ODMyXX0=
+eyJoaXN0b3J5IjpbLTE0MDM5OTk2MDhdfQ==
 -->
