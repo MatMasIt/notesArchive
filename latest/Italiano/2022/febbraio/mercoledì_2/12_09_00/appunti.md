@@ -98,7 +98,8 @@ p.382
 4-5-6 voce poetica con discorso indiritto
 
 r.12  
-Rassicura i 
+Rassicura i partenti che gli emigrati stanno bene
+
 bisini: molti affari, business
 
 fruttistendo: fruitstand
@@ -108,10 +109,12 @@ candi candy
 scrima: icecreame
 
 bachetto: basket
-venditore ambulante d s
+venditore ambulante di statuette
 
 salone: saloon fattoria
-bordi: pens
+bordi: pensorati
+
+stima: steamer, nave a vapori
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDAzNjYyOSw4MDc0OTcxMDJdfQ==
+eyJoaXN0b3J5IjpbMTk4Mjc0NDQyOCw4MDc0OTcxMDJdfQ==
 -->
