@@ -43,8 +43,8 @@ $$
 \lim_{x\to-\infin}x+\sqrt{x^2-3x+5}
 $$
 
-
+-2x+5 è trascurabileperchè è un'infinito di ordine inferiore rispetto a x^2^
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTk5NjM4ODcsNTY2MjQ2MDE3LDkxMT
-Q5MDY4XX0=
+eyJoaXN0b3J5IjpbNTI5OTYxODc5LC0xODE5OTYzODg3LDU2Nj
+I0NjAxNyw5MTE0OTA2OF19
 -->
