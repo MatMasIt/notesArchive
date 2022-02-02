@@ -13,7 +13,16 @@ il poeta riesce a dire con modalità sue proprie esclusive quello che tanti altr
 
 il poeta riesce di fare del dato impressionistico lo stimolo per l'evocazione di sensazioni e sper comunicare e sondare zone incognite e inconsce della condizione umana
 
-Riprese e adattamenti della ballata o dei madrigga
+Riprese e adattamenti della ballata o dei madrigali + innovazioni sintattiche, soprattuto in Myricae
+franta, spezzata, paratassi impressionsitica
+riverbereare attraverso alla forma del dato apparentemente reale giustapposto
+
+ellissi frase nominale uso insistito della punteggiatura
+
+eccessiva determinatezza + presenza di termini molto indefiniti
+
+termini specialistici e tecnici per i 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNDY4MTYxXX0=
+eyJoaXN0b3J5IjpbLTE0MDExOTIyMTRdfQ==
 -->
