@@ -10,12 +10,12 @@ $$
 $$
 
 $$
-\xrightarrow{\ln
+\xrightarrow{\ln(3)=0\ln x}
 $$
 
 $$
-\lim_{x\to 0^+}\ln(3x-x)=\lim_{x\to 0^+}\ln(2x)=-\infin
+\lim_{x\to 0^+}\frac{\ln x}{\ln x}=1^-
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU4NzQzNTddfQ==
+eyJoaXN0b3J5IjpbOTExNDkwNjhdfQ==
 -->
