@@ -16,6 +16,14 @@ $$
 $$
 \lim_{x\to 0^+}\frac{\ln x}{\ln x}=1^-
 $$
+
+Sessione straordinaria 2014
+
+Asinoti
+
+$$
+f(x)=x+\sqrt{x^2-2x+5}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExNDkwNjhdfQ==
+eyJoaXN0b3J5IjpbLTIyMTc0Nzc4NCw5MTE0OTA2OF19
 -->
