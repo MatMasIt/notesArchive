@@ -40,7 +40,7 @@ colui che guarda dal buco della serratura, vede quasi senza farsi vedere
 
 il gusto di vedere cosa accade ma non vuole far vedere cosa sta vedendo
 
-esempio modern
+esempio moderno: reality shows
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDI2NTYxNF19
+eyJoaXN0b3J5IjpbLTIwNDg4MjU4MjddfQ==
 -->
