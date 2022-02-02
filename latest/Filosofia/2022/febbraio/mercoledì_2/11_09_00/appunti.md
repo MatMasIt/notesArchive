@@ -13,7 +13,9 @@ due delle quali importanti:
 * Regno di prussia
 * Impero asburgico
 
-entrano nono
+entrano nonostante abbiano territorio al di fuori della confderazione (cfr p 283)
+
+p.303 regno di Prussia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODEwNDA0OF19
+eyJoaXN0b3J5IjpbMjEzODU5ODMyXX0=
 -->
