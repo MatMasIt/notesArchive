@@ -21,8 +21,9 @@ ellissi frase nominale uso insistito della punteggiatura
 
 eccessiva determinatezza + presenza di termini molto indefiniti
 
-termini specialistici e tecnici per i 
+termini specialistici e tecnici per i dati naturali
+o come termine gergale, popolare della zona
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDExOTIyMTRdfQ==
+eyJoaXN0b3J5IjpbMTI4Mjc5OTU5Nl19
 -->
