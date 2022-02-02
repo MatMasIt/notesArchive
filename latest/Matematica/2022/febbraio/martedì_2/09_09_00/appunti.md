@@ -43,14 +43,22 @@ $$
 \lim_{x\to-\infin}x+\sqrt{x^2-3x+5}
 $$
 
--2x+5 è trascurabileperchè è un'infinito di ordine inferiore rispetto a x^2^
-?
-non si può trascirare e occorre razionalizzare 
+-2x+5 è trascurabile perchè è un'infinito di ordine inferiore rispetto a x^2^?
+**NO**
+non si può trascurare e occorre razionalizzare 
 perchè $x-x$ non produce risposte utili
 $$
-\lim_{x\to-\infin}\frac{(x+\sqrt{x^2-2x+5})(x-\sqrt{x^2-2x+5})}{x-\sqrt{x^2-2x+5}}=\frac{-\infin}{-\infin}\quad 
+\lim_{x\to-\infin}\frac{(x+\sqrt{x^2-2x+5})(x-\sqrt{x^2-2x+5})}{x-\sqrt{x^2-2x+5}}=\frac{-\infin}{-\infin}\quad FI
+$$
+
+$$
+\lim_{x\to -\infin}\frac{x^2-x^2+2x-5}{x-\sqrt{x^2-2x+5}}
+$$
+
+$$
+\xrightarrow[-5=o(2x)]{}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjExNzI2OTYsLTE4MTk5NjM4ODcsNT
-Y2MjQ2MDE3LDkxMTQ5MDY4XX0=
+eyJoaXN0b3J5IjpbODgwNDM0MzQ5LC0xODE5OTYzODg3LDU2Nj
+I0NjAxNyw5MTE0OTA2OF19
 -->
