@@ -46,7 +46,11 @@ Regno di prussia ha due parti separate da parte di territorio appartenti ad altr
 
 p 420
 
-Econo 
+Economia Prussia diversa tra due parti
+
+(r. prussia e westfalia-renania)
+
+r. prussia: produzione agricola controllata dalla forte nobiltà prussiana  (alleata con la monarchia, Junker, conservatori e poco numerosi ma occupavano burocrazia e esercito)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjQ3MDA1MF19
+eyJoaXN0b3J5IjpbMTAxNTM4MTcwNF19
 -->
