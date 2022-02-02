@@ -51,6 +51,18 @@ non c'è semplice similitudine
 Occhio chiuso dell'escluso che non vole veder (io lirico)
 
 chioccetta: pleiadi
+cortile
+
+costellazione celeste con nome verancolare (Cioccetta) 
+
+sembra guidare tutte le altre costellazioni come chioccia che guida
+pulcini pigolanti
+
+salti analogici
+
+S'è spento
+
+reticenza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzU1NTI2OV19
+eyJoaXN0b3J5IjpbNDg4Mjc3NDY3XX0=
 -->
