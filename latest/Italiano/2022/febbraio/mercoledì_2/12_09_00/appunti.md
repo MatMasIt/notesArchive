@@ -115,6 +115,10 @@ salone: saloon fattoria
 bordi: pensorati
 
 stima: steamer, nave a vapori
+
+cheap, economico
+
+diventa verso di un uccellino
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mjc0NDQyOCw4MDc0OTcxMDJdfQ==
+eyJoaXN0b3J5IjpbLTIwNTYxNzE2OTMsODA3NDk3MTAyXX0=
 -->
