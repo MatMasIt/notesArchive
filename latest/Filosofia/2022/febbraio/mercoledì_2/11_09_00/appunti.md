@@ -51,6 +51,15 @@ Economia Prussia diversa tra due parti
 (r. prussia e westfalia-renania)
 
 r. prussia: produzione agricola controllata dalla forte nobiltà prussiana  (alleata con la monarchia, Junker, conservatori e poco numerosi ma occupavano burocrazia e esercito)
+
+westfalia: inustriale
+
+serve scambio prodotti, circolazione
+
+si vogliono evitare dazi doganali
+
+molti paesi aderiscono, area doganale ampia ma non 
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTM4MTcwNF19
+eyJoaXN0b3J5IjpbLTExOTc5ODExODcsMTAxNTM4MTcwNF19
 -->
