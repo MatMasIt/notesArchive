@@ -11,7 +11,9 @@ Fanciullini tutti eletti alla poesia
 
 il poeta riesce a dire con modalità sue proprie esclusive quello che tanti altri potrebbero dire di fronte allo stimolo, all'impressione
 
-il poeta ries
+il poeta riesce di fare del dato impressionistico lo stimolo per l'evocazione di sensazioni e sper comunicare e sondare zone incognite e inconsce della condizione umana
+
+Riprese e adattamenti della ballata o dei madrigga
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTkwNDQwMjRdfQ==
+eyJoaXN0b3J5IjpbMzAxNDY4MTYxXX0=
 -->
