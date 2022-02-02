@@ -96,6 +96,22 @@ pai col fleva:  pie with flauvor
 p.382
 
 4-5-6 voce poetica con discorso indiritto
+
+r.12  
+Rassicura i 
+bisini: molti affari, business
+
+fruttistendo: fruitstand
+
+vende
+candi candy
+scrima: icecreame
+
+bachetto: basket
+venditore ambulante d s
+
+salone: saloon fattoria
+bordi: pens
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzY5MTc5Miw4MDc0OTcxMDJdfQ==
+eyJoaXN0b3J5IjpbLTQwMDAzNjYyOSw4MDc0OTcxMDJdfQ==
 -->
