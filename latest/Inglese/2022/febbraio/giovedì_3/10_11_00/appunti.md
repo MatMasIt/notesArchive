@@ -44,8 +44,10 @@ Francia cede Alsazia e Lorena, ricche di carbone
 ---
 
 
-1945-1947: 
+1945-1947:  coocupazione russia
+
+poi emergobno divisioni tra URSS  e USA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwMDc1MDA2LC0xNzAwNDUzMDY4LDE4ND
-c2MjkxMjYsLTEzMDU5MzY2MDEsNzM4OTU1NzIzXX0=
+eyJoaXN0b3J5IjpbMjMzNjUzMjIsLTE3MDA0NTMwNjgsMTg0Nz
+YyOTEyNiwtMTMwNTkzNjYwMSw3Mzg5NTU3MjNdfQ==
 -->
