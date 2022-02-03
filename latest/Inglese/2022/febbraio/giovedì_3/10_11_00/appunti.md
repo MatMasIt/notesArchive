@@ -57,9 +57,18 @@ L'unione sovietica tenta di fare in modo che gli abitanti della parte ovest se n
 
 chiudono tutte le vie fluviali e ferroviare a berlino ovest
 
-no vive
+no viveri e combustibili
+
+gli USA non acettano
+
+organizzato gigantesco ponte aereo, che dura 320 giorni
+
+11 maggio 1949, Unione Sovietica interrompe blocco, che non le sta convenendo anche dal punto di vista dell'impatto mediatico
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0NzI0MTQwLDIzMzY1MzIyLC0xNzAwND
-UzMDY4LDE4NDc2MjkxMjYsLTEzMDU5MzY2MDEsNzM4OTU1NzIz
-XX0=
+eyJoaXN0b3J5IjpbLTEyOTQzNzYxMDEsMjMzNjUzMjIsLTE3MD
+A0NTMwNjgsMTg0NzYyOTEyNiwtMTMwNTkzNjYwMSw3Mzg5NTU3
+MjNdfQ==
 -->
