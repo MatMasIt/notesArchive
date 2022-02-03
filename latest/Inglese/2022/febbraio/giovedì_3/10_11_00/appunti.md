@@ -40,7 +40,12 @@ In grande ritardo
 tutta opera dall'altro
 
 Francia cede Alsazia e Lorena, ricche di carbone
+
+---
+
+
+1945-1947: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA0NTMwNjgsMTg0NzYyOTEyNiwtMT
-MwNTkzNjYwMSw3Mzg5NTU3MjNdfQ==
+eyJoaXN0b3J5IjpbNTcwMDc1MDA2LC0xNzAwNDUzMDY4LDE4ND
+c2MjkxMjYsLTEzMDU5MzY2MDEsNzM4OTU1NzIzXX0=
 -->
