@@ -25,6 +25,8 @@ Russia e Francia rimangono neutrali
 guerra dura solo 3 settimane, i  prussiani sono auperiori a livello di armamenti
 
 ferrovie spostano velocemente le truppe
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4OTU1NzIzXX0=
+eyJoaXN0b3J5IjpbLTEzMDU5MzY2MDEsNzM4OTU1NzIzXX0=
 -->
