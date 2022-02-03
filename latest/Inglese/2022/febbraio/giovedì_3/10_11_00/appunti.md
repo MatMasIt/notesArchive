@@ -6,7 +6,9 @@ p. 421
 
 Austria interviene nella guerra tra prussia e Danimarca
 
-Prussia vuole spartizione territori ma per 
+Prussia vuole spartizione territori ma per l'Austria sarebbero lontani e difficili da controllare
+
+Austria li vorrebbe indipendenti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxNjEwMzYzXX0=
+eyJoaXN0b3J5IjpbLTEwMTMxNzQzNTVdfQ==
 -->
