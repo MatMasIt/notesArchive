@@ -55,6 +55,30 @@ y^2=4-x^2
 $$
 
 sul foglio
+
+
+---
+
+$$
+y=2+\sqrt{x^2-4}
+$$
+
+$$
+y-2=\sqrt{x^2-4}
+$$
+
+
+$$
+\begin{equation} \begin{cases} 
+y-2 \ge 0\\
+y^2-4y+4=x^2-4
+ \end{cases} \end{equation}
+$$
+
+
+$$
+\begin{equation} \begin{cases} Her \end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1MzIwMjE5XX0=
+eyJoaXN0b3J5IjpbMjAzODkyMjUwMSw4NjUzMjAyMTldfQ==
 -->
