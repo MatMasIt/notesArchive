@@ -49,9 +49,12 @@ $$
 
 $$
 \begin{equation} \begin{cases}
-
+y \le 0\\
+y^2=4-x^2
  \end{cases} \end{equation}
 $$
+
+sul foglio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Njc3NDMwXX0=
+eyJoaXN0b3J5IjpbODY1MzIwMjE5XX0=
 -->
