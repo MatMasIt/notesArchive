@@ -77,8 +77,14 @@ $$
 
 
 $$
-\begin{equation} \begin{cases} Her \end{cases} \end{equation}
+\begin{equation} \begin{cases} x \le 2\\x^2+y^2+4y=8 \end{cases} \end{equation}
 $$
+
+$$
+\begin{equation} \begin{cases} y \ge 2 \\ x^2+y^2+4y=8 \end{cases} \end{equation}
+$$
+
+Iperbole equilatera
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODkyMjUwMSw4NjUzMjAyMTldfQ==
+eyJoaXN0b3J5IjpbLTE0NTc0OTQ4MzMsODY1MzIwMjE5XX0=
 -->
