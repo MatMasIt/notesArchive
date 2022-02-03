@@ -34,8 +34,13 @@ p.423
 
 Unificazione area tedesca
 
-In Grande Ritardo
+In grande ritardo
+
+
+tutta opera dall'altro
+
+Francia cede Alsazia e Lorena, ricche di carbone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTAyMzkzNCwxODQ3NjI5MTI2LC0xMz
-A1OTM2NjAxLDczODk1NTcyM119
+eyJoaXN0b3J5IjpbLTE3MDA0NTMwNjgsMTg0NzYyOTEyNiwtMT
+MwNTkzNjYwMSw3Mzg5NTU3MjNdfQ==
 -->
