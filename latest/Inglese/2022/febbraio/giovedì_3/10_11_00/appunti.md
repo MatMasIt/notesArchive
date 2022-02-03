@@ -17,6 +17,12 @@ Napoleone pensa che Prussia e Impero Asburico si indeboliranno tra di loro
 
 
 Napoleone non capisce che 
+
+
+Russia e Francia rimangono neutrali
+
+
+guerra dura solo 3 settimqa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTYzMTM0OV19
+eyJoaXN0b3J5IjpbLTM4MjAyNzc0NV19
 -->
