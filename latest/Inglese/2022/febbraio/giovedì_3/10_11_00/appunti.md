@@ -28,8 +28,9 @@ ferrovie spostano velocemente le truppe
 
 
 Per gli stati europei è importante non dichiarare guerra ma farsi dichiarare guerra
+per poi farsi pagare i danni
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDQ0Mzg0OSwtMTMwNTkzNjYwMSw3Mz
+eyJoaXN0b3J5IjpbMTg0NzYyOTEyNiwtMTMwNTkzNjYwMSw3Mz
 g5NTU3MjNdfQ==
 -->
