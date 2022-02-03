@@ -47,7 +47,11 @@ Francia cede Alsazia e Lorena, ricche di carbone
 1945-1947:  coocupazione russia
 
 poi emergobno divisioni tra URSS  e USA
+
+nel 1947 Dottrina Truman: (presidente Truman) 
+bisogna arginare la diffusione del comunismo sovietico nel mondo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzNjUzMjIsLTE3MDA0NTMwNjgsMTg0Nz
-YyOTEyNiwtMTMwNTkzNjYwMSw3Mzg5NTU3MjNdfQ==
+eyJoaXN0b3J5IjpbLTE1OTA3MDU1MDgsMjMzNjUzMjIsLTE3MD
+A0NTMwNjgsMTg0NzYyOTEyNiwtMTMwNTkzNjYwMSw3Mzg5NTU3
+MjNdfQ==
 -->
