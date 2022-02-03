@@ -40,6 +40,18 @@ $$
 $$
 y=\sqrt{4-x^2}
 $$
+
+---
+
+$$
+(y)^2=\left(-\sqrt{4-x^2}\right)^2
+$$
+
+$$
+\begin{equation} \begin{cases}
+
+ \end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTM1MDc0OF19
+eyJoaXN0b3J5IjpbMTg2Njc3NDMwXX0=
 -->
