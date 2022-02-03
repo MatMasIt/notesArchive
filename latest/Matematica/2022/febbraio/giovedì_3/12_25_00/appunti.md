@@ -85,6 +85,24 @@ $$
 $$
 
 Iperbole equilatera
+
+$$
+x^2-(y-2)^2
+$$
+
+
+$$
+x^2-(y^2-4y+4)+4=8
+$$
+
+$$
+\frac{x^2}4-\frac{(y-2)^2}4=1
+$$
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc0OTQ4MzMsODY1MzIwMjE5XX0=
+eyJoaXN0b3J5IjpbLTMyODA4Njc0OSwtMTQ1NzQ5NDgzMyw4Nj
+UzMjAyMTldfQ==
 -->
