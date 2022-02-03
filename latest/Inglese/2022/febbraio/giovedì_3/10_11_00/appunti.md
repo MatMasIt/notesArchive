@@ -50,8 +50,16 @@ poi emergobno divisioni tra URSS  e USA
 
 nel 1947 Dottrina Truman: (presidente Truman) 
 bisogna arginare la diffusione del comunismo sovietico nel mondo
+
+Giugno '48
+L'unione sovietica tenta di fare in modo che gli abitanti della parte ovest se ne vadano e lascino tutta berlino  ai sovietici
+
+
+chiudono tutte le vie fluviali e ferroviare a berlino ovest
+
+no vive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA3MDU1MDgsMjMzNjUzMjIsLTE3MD
-A0NTMwNjgsMTg0NzYyOTEyNiwtMTMwNTkzNjYwMSw3Mzg5NTU3
-MjNdfQ==
+eyJoaXN0b3J5IjpbOTM0NzI0MTQwLDIzMzY1MzIyLC0xNzAwND
+UzMDY4LDE4NDc2MjkxMjYsLTEzMDU5MzY2MDEsNzM4OTU1NzIz
+XX0=
 -->
