@@ -10,7 +10,13 @@ Prussia vuole spartizione territori ma per l'Austria sarebbero lontani e diffici
 
 Austria li vorrebbe indipendenti
 
-Napoleone III vuole
+Napoleone III vuole indebolire l'Austria
+(mettere in discussione il primato asburgico sul  Continente)
+
+Napoleone pensa che Prussia e Impero Asburico si indeboliranno tra di loro
+
+
+Napoleone non capisce che 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTc0ODUxNF19
+eyJoaXN0b3J5IjpbMTQ0MTYzMTM0OV19
 -->
