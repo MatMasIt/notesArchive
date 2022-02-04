@@ -27,9 +27,11 @@ Italianese
 Ticketta: ticket
 
 
+Il mi babbo il mi fratello
 
+Toscano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzk5ODc2LDE5NDYwNjQyNDYsLTIxND
-Q5MzUwOTQsMTU2ODE0NjM2N119
+eyJoaXN0b3J5IjpbLTEyODYxOTUyMDAsMTk0NjA2NDI0NiwtMj
+E0NDkzNTA5NCwxNTY4MTQ2MzY3XX0=
 -->
