@@ -44,6 +44,12 @@ Ascesi:
 ascesi p. 10 l.3 
 
 mortificazione sistematica dei bisogni della vita sensibile
+
+messaggi orientali:
+invitano l'io a negarsi per fondersi con il tutto
+
+pienezza assoluta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwMjY0NTk5LDYyMTgyNjgwM119
+eyJoaXN0b3J5IjpbMjk0MDQ4MzYxLDI0MDI2NDU5OSw2MjE4Mj
+Y4MDNdfQ==
 -->
