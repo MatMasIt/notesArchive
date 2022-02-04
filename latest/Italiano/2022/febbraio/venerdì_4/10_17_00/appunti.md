@@ -38,7 +38,14 @@ pag 26-28, 35 , 41-44, 46
       Avanguardie storiche        30               Neoavanguardie
                                  Ermetismo  1950   Postmoderno
 	1904---------------1925-------|----------|-----1963
+
+
+
+
+
+casa editrice di Giulio Einaudi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDcwMzEzMiw3MjkyMzk3NCwxOTQ2MD
-Y0MjQ2LC0yMTQ0OTM1MDk0LDE1NjgxNDYzNjddfQ==
+eyJoaXN0b3J5IjpbNDMzODA3NjAwLDE2MjQ3MDMxMzIsNzI5Mj
+M5NzQsMTk0NjA2NDI0NiwtMjE0NDkzNTA5NCwxNTY4MTQ2MzY3
+XX0=
 -->
