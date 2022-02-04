@@ -17,7 +17,9 @@ boston, new york
 Italy, pascoli
 
 essere orfani del mondo
+
+tema di incontro/scontro generazionale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDMyNjY2NywtMjE0NDkzNTA5NCwxNT
-Y4MTQ2MzY3XX0=
+eyJoaXN0b3J5IjpbNzg3MjIzMDY0LC0yMTQ0OTM1MDk0LDE1Nj
+gxNDYzNjddfQ==
 -->
