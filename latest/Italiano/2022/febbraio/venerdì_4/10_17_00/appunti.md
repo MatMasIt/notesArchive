@@ -13,7 +13,11 @@ Immagine gangster anni 30
 boston, new york
 
 ---
+
+Italy, pascoli
+
+essere orfani del mondo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxNzQ0NDc3LC0yMTQ0OTM1MDk0LDE1Nj
-gxNDYzNjddfQ==
+eyJoaXN0b3J5IjpbMTg5NDMyNjY2NywtMjE0NDkzNTA5NCwxNT
+Y4MTQ2MzY3XX0=
 -->
