@@ -19,7 +19,9 @@ Italy, pascoli
 essere orfani del mondo
 
 tema di incontro/scontro generazionale
+
+visione più positiva di Verga
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3MjIzMDY0LC0yMTQ0OTM1MDk0LDE1Nj
-gxNDYzNjddfQ==
+eyJoaXN0b3J5IjpbMTk0NjA2NDI0NiwtMjE0NDkzNTA5NCwxNT
+Y4MTQ2MzY3XX0=
 -->
