@@ -24,7 +24,9 @@ atteggiamento caritatevole
 Caritas, latino
 Agape: amore donativo
 
+Condanna del'egoismo
 
+lui nota che l'egoismo sociale sta aumentando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTM0NzgxNyw2MjE4MjY4MDNdfQ==
+eyJoaXN0b3J5IjpbMTU2NDkyNjkyMCw2MjE4MjY4MDNdfQ==
 -->
