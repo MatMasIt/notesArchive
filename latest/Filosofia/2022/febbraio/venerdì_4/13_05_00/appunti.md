@@ -65,8 +65,8 @@ visione di Schopenhauer senza speranza
 Pensiero di Kirkeegard
 
 
- > "Hegel ha costruito un sistema filosofico con cui ha tentato di spiegare la totalità della realtà in modo razionale 
+ > "Hegel ha costruito un sistema filosofico con cui ha tentato di spiegare la totalità della realtà in modo razionale rimanendo entro una prospettiva metafisico-immanentistica, e ponendo come protagonista della Storia una sostanza-soggetto, il Pensiero, di cui i singoli esseri umani sarebbero solo delle manifestazioni secondarie.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODM3OTQ4MSwtNjMwMTM0MTE0LDI0MD
-I2NDU5OSw2MjE4MjY4MDNdfQ==
+eyJoaXN0b3J5IjpbNDE0NzU5MzE4LC02MzAxMzQxMTQsMjQwMj
+Y0NTk5LDYyMTgyNjgwM119
 -->
