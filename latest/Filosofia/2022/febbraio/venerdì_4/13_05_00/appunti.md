@@ -13,9 +13,9 @@ Bisogna negarela volontà, reprimere l'io
 filosofia della rinuncia
 
 
-Arte p
+Arte passiva, inebetita senza fini ulteriori
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDE1MDUyNSw2MjE4MjY4MDNdfQ==
+eyJoaXN0b3J5IjpbLTQ4OTc4ODM1OSw2MjE4MjY4MDNdfQ==
 -->
