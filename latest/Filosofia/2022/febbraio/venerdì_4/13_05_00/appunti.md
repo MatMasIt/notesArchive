@@ -59,7 +59,14 @@ La scienza opera in un modo disincantato nei confronti della realtà
 
 
 visione di Schopenhauer senza speranza
+
+
+
+Pensiero di Kirkeegard
+
+
+ > "Hegel ha costruito un sistema filosofico con cui ha tentato di spiegare la totalità della realtà in modo razionale 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzMyODc2OSwtNjMwMTM0MTE0LDI0MD
+eyJoaXN0b3J5IjpbMTQ3ODM3OTQ4MSwtNjMwMTM0MTE0LDI0MD
 I2NDU5OSw2MjE4MjY4MDNdfQ==
 -->
