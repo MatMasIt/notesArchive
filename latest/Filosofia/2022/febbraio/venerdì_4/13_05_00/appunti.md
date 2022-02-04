@@ -52,7 +52,9 @@ pienezza assoluta
 
 
 No suicidio: espressione della propria volontà
+
+Sapere scientifico guarda la realtà prescindendo dal se
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDEzNDExNCwyNDAyNjQ1OTksNjIxOD
-I2ODAzXX0=
+eyJoaXN0b3J5IjpbLTE2MDM1Nzg0OTQsLTYzMDEzNDExNCwyND
+AyNjQ1OTksNjIxODI2ODAzXX0=
 -->
