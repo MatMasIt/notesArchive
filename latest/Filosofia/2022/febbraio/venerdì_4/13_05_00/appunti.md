@@ -53,8 +53,13 @@ pienezza assoluta
 
 No suicidio: espressione della propria volontà
 
-Sapere scientifico guarda la realtà prescindendo dal se
+Sapere scientifico guarda la realtà prescindendo dal senso che potrebbe avere
+
+La scienza opera in un modo disincantato nei confronti della realtà
+
+
+visione di Schopenhauer senza speranza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM1Nzg0OTQsLTYzMDEzNDExNCwyND
-AyNjQ1OTksNjIxODI2ODAzXX0=
+eyJoaXN0b3J5IjpbMjA3NzMyODc2OSwtNjMwMTM0MTE0LDI0MD
+I2NDU5OSw2MjE4MjY4MDNdfQ==
 -->
