@@ -37,6 +37,8 @@ Anche secondo Kant lo è
 Ascesi:
 * castità
 * povertà
+* rassegnazione
+* sacrificio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjk4MTUzOSw2MjE4MjY4MDNdfQ==
+eyJoaXN0b3J5IjpbLTMwNzUxNTgsNjIxODI2ODAzXX0=
 -->
