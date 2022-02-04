@@ -12,8 +12,8 @@ esistono enzimi di restizione specifici per tagliare plasmidi in siti di restriz
  
 digestion in stufa per 30 min
 
-
+Plasmide con resistenza ad antibiotico, per eliminare batteri non plasmidizzati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNTYyNzkxLC0zMzM0ODUzMDEsOTU5Mz
-MxNjEzXX0=
+eyJoaXN0b3J5IjpbMjA1NDU2NDM5NiwtMzMzNDg1MzAxLDk1OT
+MzMTYxM119
 -->
