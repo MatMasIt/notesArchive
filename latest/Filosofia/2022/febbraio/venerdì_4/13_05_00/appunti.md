@@ -65,9 +65,11 @@ visione di Schopenhauer senza speranza
 Pensiero di Kirkeegard
 
 
- > "Hegel ha costruito un sistema filosofico con cui ha tentato di spiegare la totalità della realtà in modo razionale rimanendo entro una prospettiva metafisico-immanentistica, e ponendo come protagonista della Storia una sostanza-soggetto, il Pensiero, di cui i singoli esseri umani sarebbero solo delle manifestazioni secondarie. Egli, inoltre, ha chiarito che tutto ciò che accade risponde ad una razionalità necessaria che si sviluppa con un andamento dialettico che prevede una sintesi in cui tesi e antitesi sarebbero conciliate.
- > Entro questa prospettiva
+ >**Sintesi del pensiero hegeliano**
+ > Hegel ha costruito un ==sistema== filosofico con cui ha tentato di spiegare la totalità della realtà in modo ==razionale== rimanendo entro una prospettiva metafisico-==immanentistica==, e ponendo come protagonista della Storia una sostanza-soggetto, il Pensiero, di cui i singoli esseri umani sarebbero solo delle manifestazioni secondarie.
+ >  Egli, inoltre, ha chiarito che tutto ciò che accade risponde ad una razionalità ==necessaria== che si sviluppa con un andamento dialettico che prevede una sintesi in cui tesi e antitesi sarebbero conciliate.
+ > Entro questa prospettiva i singoli esseri umani non sono davvero liberi e non godono di una autentica autonomia di scelta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2Nzk1MzU0LC02MzAxMzQxMTQsMjQwMj
-Y0NTk5LDYyMTgyNjgwM119
+eyJoaXN0b3J5IjpbLTE3MzE2MTk3MjksLTYzMDEzNDExNCwyND
+AyNjQ1OTksNjIxODI2ODAzXX0=
 -->
