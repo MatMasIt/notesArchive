@@ -29,6 +29,14 @@ Condanna del'egoismo
 lui nota che l'egoismo sociale sta aumentando
 
 Hegel e Marx sostengono l'importanza della collettività
+
+
+Anche secondo Kant lo è
+
+
+Ascesi:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjA3NDY0Niw2MjE4MjY4MDNdfQ==
+eyJoaXN0b3J5IjpbLTQ4MTExMTgxLDYyMTgyNjgwM119
 -->
