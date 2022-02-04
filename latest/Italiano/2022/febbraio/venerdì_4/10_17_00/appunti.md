@@ -12,7 +12,8 @@ Immagine gangster anni 30
 
 boston, new york
 
-
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ5MzUwOTQsMTU2ODE0NjM2N119
+eyJoaXN0b3J5IjpbNjMxNzQ0NDc3LC0yMTQ0OTM1MDk0LDE1Nj
+gxNDYzNjddfQ==
 -->
