@@ -31,9 +31,9 @@ Il mi babbo il mi fratello
 
 Toscano
 
-
-pag 2
+Studiare
+pag 26-28, 35 , 41-44, 46
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTIwMzc5MiwxOTQ2MDY0MjQ2LC0yMT
-Q0OTM1MDk0LDE1NjgxNDYzNjddfQ==
+eyJoaXN0b3J5IjpbNzI5MjM5NzQsMTk0NjA2NDI0NiwtMjE0ND
+kzNTA5NCwxNTY4MTQ2MzY3XX0=
 -->
