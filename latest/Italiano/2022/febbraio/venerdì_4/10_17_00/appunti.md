@@ -35,10 +35,10 @@ Studiare
 pag 26-28, 35 , 41-44, 46
 
            modernismo
-      Avanguardie storiche        30            Neoavanguardie
-                                 p
-	1904---------------1925-------|-------------1963
+      Avanguardie storiche        30               Neoavanguardie
+                                 Ermetismo  1950   Postmoderno
+	1904---------------1925-------|----------|-----1963
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ4NDg2MjIsNzI5MjM5NzQsMTk0Nj
-A2NDI0NiwtMjE0NDkzNTA5NCwxNTY4MTQ2MzY3XX0=
+eyJoaXN0b3J5IjpbMTYyNDcwMzEzMiw3MjkyMzk3NCwxOTQ2MD
+Y0MjQ2LC0yMTQ0OTM1MDk0LDE1NjgxNDYzNjddfQ==
 -->
