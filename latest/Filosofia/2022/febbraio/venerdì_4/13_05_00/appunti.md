@@ -49,7 +49,10 @@ messaggi orientali:
 invitano l'io a negarsi per fondersi con il tutto
 
 pienezza assoluta
+
+
+No suicidio: espressione della propria volontà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0MDQ4MzYxLDI0MDI2NDU5OSw2MjE4Mj
-Y4MDNdfQ==
+eyJoaXN0b3J5IjpbLTYzMDEzNDExNCwyNDAyNjQ1OTksNjIxOD
+I2ODAzXX0=
 -->
