@@ -35,8 +35,8 @@ Anche secondo Kant lo è
 
 
 Ascesi:
-
-
+* castità
+* povertà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTExMTgxLDYyMTgyNjgwM119
+eyJoaXN0b3J5IjpbLTYxNjk4MTUzOSw2MjE4MjY4MDNdfQ==
 -->
