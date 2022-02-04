@@ -39,6 +39,11 @@ Ascesi:
 * povertà
 * rassegnazione
 * sacrificio
+
+
+ascesi p. 10 l.3 
+
+mortificazione sistematica dei bisogni della vita sensibile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzUxNTgsNjIxODI2ODAzXX0=
+eyJoaXN0b3J5IjpbMjQwMjY0NTk5LDYyMTgyNjgwM119
 -->
