@@ -1,0 +1,136 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{chemfig}
+\usepackage{caption}
+\captionsetup[figure]{labelformat=empty}% redefines the caption setup of the figures environment in the beamer class.
+\usepackage[italian]{babel}
+\usetheme{Madrid}
+\title{Alogenazione Radicalica}
+\author{Mattia Mascarello}
+\beamertemplatenavigationsymbolsempty
+\institute[Liceo Cocito] % (optional)
+{
+	
+	Chimica Organica\\
+	Liceo Scientifico Statale ``Leonardo Cocito''\\
+	prof. Marina Orazietti
+
+}
+
+
+\date{2022}
+\usepackage{cmbright}
+\begin{document}
+	
+	\frame{\titlepage}
+	
+	\begin{frame}
+		\frametitle{Reazione}
+		È una \alert{reazione di sostituzione}, che avviene per sostituzione di atomi di $H$ con con altri atomi.\\
+		È una reazione tra un alogeno e un alcano e comporta la formazione di \alert{alogenoalcani}.\\
+		È composta di \textbf{3} stadi:
+		\begin{itemize}
+			\item \color{blue}{\hyperlink{innesco}{1° stadio (innesco)}}\\
+			\item\hyperlink{propagazione}{2° stadio (propagazione)}\\
+			\item\hyperlink{terminazione}{3° stadio (terminazione)}
+		\end{itemize}
+		\begin{block}{Alogenoalcani o alogenuri alchilici}
+	Composti organici in cui uno o più atomi di idrogeno presenti in un alcano vengono sostituiti da atomi di elementi alogeni (VII gruppo: fluoro, cloro, bromo e iodio).
+	\end{block}
+	\end{frame}
+
+	
+	\begin{frame}[label=innesco]
+		\frametitle{1° Stadio (innesco)}
+		La molecola di alogeno, grazie alla luce o al calore forniti, spezza il proprio legame con una scissione  omolitica.
+		I prodotti di questa reazione sono due radicali liberi di alogeno, che avendo entrambi un elettrone spaiato sono altamente reattivi
+		
+		\[
+		A_2 \longrightarrow 2A\cdot\quad\quad 	F_2 \longrightarrow 2F\cdot\tag{1.1}
+		\]
+		\begin{block}{Scissione omolitica}
+			Rottura di un legame covalente nella quale ognuno dei due atomi coinvolti si appropria di uno dei due elettroni prima condivisi.
+			$$
+			A\cdot\cdot B\longrightarrow A\cdot\quad B\cdot
+			$$
+			
+		\end{block}
+		
+	\end{frame}
+	\begin{frame}[label=propagazione]
+		\frametitle{2° Stadio (propagazione)}
+	    Il radicale (1.1) spezza il legame tra la catena carboniosa e l'atomo di idrogeno.
+	    
+	    Da questa reazione di ottengono un \alert{acido alogenidrico} e un \alert{radicale alchilico}.
+		
+		\[
+	     A\cdot+ RH \longrightarrow{} HA +  R\cdot\quad\quad 	F\cdot + CH_4 \longrightarrow{} HF + \cdot CH_3   \tag{2.1}
+		\]
+		
+		La molecola più reattiva sarà il radicale alchilico, siccome ha un elettrone spaiato.
+		
+		Il radicale alichilico $R\cdot$ reagisce ora con una molecola di alogeno, formando un alogenuro alchilico e un altro radicale di alogeno:
+		
+		 	
+		 \[
+		 R\cdot+ A_2 \longrightarrow{} RA +  A\cdot\quad\quad 	\cdot CH_3 + F_2   \longrightarrow{}CH_3F + F\cdot   \tag{2.2}
+		 \]
+		 
+	\end{frame}
+	\begin{frame}
+	\frametitle{2° Stadio}
+		\begin{figure}
+		\centering
+		\scalebox{.5}{
+		\chemname{\chemfig{F\cdot}}{Fluoro} $\qquad+\qquad$ 
+		\chemname{\chemfig{H-C(-[2]H)(-[6]H)-H}}{Metano}  $\qquad\longrightarrow{}\qquad$  \chemname{\chemfig{H-F}}{Acido fluoridrico}   $\qquad+\qquad$ 	\chemname{\chemfig{{\cdot C}(-[2]H)(-[6]H)-H}}{Metile} 
+		} 
+		\caption{$2.1$}
+	\end{figure}
+		\begin{figure}
+		\centering
+		\scalebox{.5}{
+		\chemname{\chemfig{{\cdot C}(-[2]H)(-[6]H)-H}}{Metile}  $\qquad+\qquad$  \chemname{\chemfig{F-F}}{Fluoro} $\qquad\longrightarrow{}\qquad$  \chemname{\chemfig{H-C(-[2]H)(-[6]H)-F}}{Fluorometano}   $\qquad+\qquad$  \chemname{\chemfig{F\cdot}}{Fluoro}
+	} 
+	\caption{$2.2$}
+	\end{figure}
+	\end{frame}
+	\begin{frame}[label=terminazione]
+		\frametitle{3° Stadio (terminazione)}
+		La reazione procede finchè tutti i radicali liberi si legano con radicali dello stesso tipo.
+		
+		\[
+		\begin{matrix}
+		A\cdot + A \cdot  \longrightarrow{} A-A & F\cdot + F\cdot  \longrightarrow{} F_2\\
+		R\cdot + R\cdot  \longrightarrow{}  R-R &\qquad\qquad\quad \ \quad CH_3\cdot + CH_3\cdot  \longrightarrow{} CH_3-CH_3
+		\end{matrix} \tag{3}
+		\]
+		
+	
+	\end{frame}
+	\begin{frame}
+	\frametitle{Prodotti}
+	Essendo i radicali liberi molto reattivi, risulta difficile controllare la reazione.
+	Quindi, i composti ottenuti saranno diversamente alogenati, ovvero il numero di idrogeni sostituiti varierà.
+	
+	\[
+	CH_4+F_2 \longrightarrow{}
+		CH_2F+
+		CH_2F_2+
+		CHF_3+
+		CF_4
+		\tag{4}
+	\]
+	\end{frame}
+	\begin{frame}
+	\frametitle{Prodotti}
+	\begin{figure}
+		\centering
+	\scalebox{.47}{
+	\chemname{\chemfig{H-C(-[2]H)(-[6]H)-H}}{Metano}  $\qquad+\qquad$  \chemname{\chemfig{F-F}}{Fluoro} $\qquad\longrightarrow{}\qquad$  \chemname{\chemfig{H-C(-[2]H)(-[6]H)-F}}{Fluorometano}     $\qquad+\qquad$    \chemname{\chemfig{H-C(-[2]H)(-[6]F)-F}}{Difluorometano}    $\qquad+\qquad$  \chemname{\chemfig{H-C(-[2]F)(-[6]F)-F}}{Trifluorometano} $\qquad+\qquad$  \chemname{\chemfig{F-C(-[2]F)(-[6]F)-F}}{Tetrafluorometano}
+	}
+	\caption{$4$}
+	\end{figure}
+	La reattività diminuisce all'aumentare dei periodi, essendo l'energia necessaria per la reazione progressivamente maggiore.
+	\end{frame}
+\end{document}
