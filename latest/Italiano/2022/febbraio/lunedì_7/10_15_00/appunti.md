@@ -6,8 +6,10 @@ Prime tre decadi del 1900
 
 gruppo di profondi rinnovatori della letteratura
 
- -1
+-1 : a < b
+  0 : a = b
+  1 : a > b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA0MTY0ODgsODcwNjQzNzQwLDE5MT
-Y1NTMzNjBdfQ==
+eyJoaXN0b3J5IjpbMTQ0NzQyMTU2MSw4NzA2NDM3NDAsMTkxNj
+U1MzM2MF19
 -->
