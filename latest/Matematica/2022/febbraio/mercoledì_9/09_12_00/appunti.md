@@ -13,7 +13,7 @@ $Q \to P$
 
 Limite del coefficiente angolare della retta secante quando i due punti della funzione tendono a coincidere
 
-Se il limite esiste ed è finito,è
+Se il limite esiste ed è finito,è la derivata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTEzODk3MywtMjYwODkwOTFdfQ==
+eyJoaXN0b3J5IjpbMTk0NTc3Nzk0LC0yNjA4OTA5MV19
 -->
