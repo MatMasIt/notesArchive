@@ -12,10 +12,14 @@ sente quindi una forte colpa verso Dio contro cui aveva imprecato da giovane per
 critica alla cheisa di Copenhagen, articoli
 
 Libri
-AUT - AUT ( o esclusiva) [1843]
+AUT - AUT ( o esclusiva) [1843] (contiene un diario)
 Timore e tremore [1843]
 Il concetto dell'angoscia
+Stati nel cammino della vita
+La malattia mortale: tema = disperazione
 
+
+timore, angoscia, disperazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODY4NTA4NywxNTcyMDA2MjI5XX0=
+eyJoaXN0b3J5IjpbLTEyMDkyNTg4NDUsMTU3MjAwNjIyOV19
 -->
