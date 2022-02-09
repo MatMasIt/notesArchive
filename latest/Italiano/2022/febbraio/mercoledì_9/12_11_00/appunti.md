@@ -40,7 +40,13 @@ scelte grafiche innovative
 forte impatto visivo
 
 vero e totale scardinaento
+
+morte dell'io letterario
+
+
+
+non umanizzare la natura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzYyMjcxMjksMTI1NzMzMjYzMiwtMT
+eyJoaXN0b3J5IjpbLTE3NTQwODM5NzQsMTI1NzMzMjYzMiwtMT
 c0MDY1NDc0MV19
 -->
