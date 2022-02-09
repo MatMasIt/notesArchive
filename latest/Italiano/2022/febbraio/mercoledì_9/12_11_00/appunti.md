@@ -8,7 +8,7 @@ testi
 * regolamentivi
 
 
-Guerra: collaudo 
+Guerra: collaudo sanguinoso e necessario della guerra di un popolo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg3NzYyNDhdfQ==
+eyJoaXN0b3J5IjpbLTMwOTA2NzgxOF19
 -->
