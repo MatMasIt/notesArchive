@@ -21,8 +21,8 @@ La malattia mortale: tema = disperazione
 
 timore, angoscia, disperazione
 
-emoz
+emozoni forti presenti nel pensiero di Kirkegaard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MDczMTY0LC0xMjA5MjU4ODQ1LDE1Nz
+eyJoaXN0b3J5IjpbNzY0MjE2MzMwLC0xMjA5MjU4ODQ1LDE1Nz
 IwMDYyMjldfQ==
 -->
