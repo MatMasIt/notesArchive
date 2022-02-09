@@ -7,6 +7,8 @@ testi
 * conativi
 * regolamentivi
 
+
+Guerra: collaudo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzk5MDA1OV19
+eyJoaXN0b3J5IjpbLTE5MDg3NzYyNDhdfQ==
 -->
