@@ -31,7 +31,9 @@ $p_1$ è condizione sufficiente per $p_2$
 $p_2$ è codizione necessaria per $p_1$
 
 
-condizi
+condizione sufficiente affinchè una funzione sia derivabile è che sia continua  VERO
+
+condizione necessaria affinchè una funzione sia continua è che sia derivabile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Nzg3MjAzMSwtMjYwODkwOTFdfQ==
+eyJoaXN0b3J5IjpbNjE0MDM2MTM4LC0yNjA4OTA5MV19
 -->
