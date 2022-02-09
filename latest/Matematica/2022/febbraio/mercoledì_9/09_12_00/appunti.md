@@ -44,14 +44,27 @@ f(x)=\log_ax
 $$
 
 $$
-\log{h\to 0}\frac{\log_a(x+h)-\log_ax}{h}
+\lim_{h\to 0}\frac{\log_a(x+h)-\log_ax}{h}
 $$
 
 
 $$
-\
+\lim_{h\to 0}\frac{\log_a\left(\frac{xh}x\right)}h
+$$
+
+...
+
+potenza
+
+
+$$
+f(x)=x^n
+$$
+
+$$
+\lim_{h\to 0}\frac{(x+h)^n-x^n}h
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTczNTkxLDYxNDAzNjEzOCwtMjYwOD
-kwOTFdfQ==
+eyJoaXN0b3J5IjpbLTE1NTE2NTE0MDAsNjE0MDM2MTM4LC0yNj
+A4OTA5MV19
 -->
