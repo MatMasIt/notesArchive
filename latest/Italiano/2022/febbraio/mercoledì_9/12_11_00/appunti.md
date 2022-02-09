@@ -30,6 +30,10 @@ andamento quasi poetico
 da calligrammi di Apollinaire
 
 addirittura superamento del verso libero
+
+forte uso di analogia, verso iperlibero
+
+fonosimbolismi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTY0NjQyOCwtMTc0MDY1NDc0MV19
+eyJoaXN0b3J5IjpbMTQwODAwNTQ0NCwtMTc0MDY1NDc0MV19
 -->
