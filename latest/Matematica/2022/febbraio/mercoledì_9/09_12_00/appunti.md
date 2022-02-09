@@ -90,7 +90,17 @@ Derivata di funzione inversa
 $$
 y=f(x)
 $$
+
+$$
+f\in C(i)
+$$
+
+$$
+f \in D(x)\quad \forall x \in I\quad f'(x)\neq 0
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDMzMzIzLDg5Njg1ODYwNywtMTU1MT
-Y1MTQwMCw2MTQwMzYxMzgsLTI2MDg5MDkxXX0=
+eyJoaXN0b3J5IjpbMTY1MjcwMTExMSw4OTY4NTg2MDcsLTE1NT
+E2NTE0MDAsNjE0MDM2MTM4LC0yNjA4OTA5MV19
 -->
