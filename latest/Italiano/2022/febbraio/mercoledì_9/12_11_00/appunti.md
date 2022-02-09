@@ -81,8 +81,12 @@ p.57
 **Totò scelse l'esilio**
 
 ai margini
+
+inetto senza la forza di diventare superuomo Niciano che si dice buono
+
+La bontà dell'incapace
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2NTAxNjMyLC03OTc2OTcyNjcsLTE0MT
-M0NzA4NDUsLTE3NTQwODM5NzQsMTI1NzMzMjYzMiwtMTc0MDY1
-NDc0MV19
+eyJoaXN0b3J5IjpbLTE1NjA0NjMxOTIsLTc5NzY5NzI2NywtMT
+QxMzQ3MDg0NSwtMTc1NDA4Mzk3NCwxMjU3MzMyNjMyLC0xNzQw
+NjU0NzQxXX0=
 -->
