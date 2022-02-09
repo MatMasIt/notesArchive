@@ -11,7 +11,7 @@ quando
 $Q \to P$
 
 
-Li
+Limite del coefficiente angolare della retta secante quando i due punti della funzione tendono a coincidere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTcyMjk1MV19
+eyJoaXN0b3J5IjpbLTI2MDg5MDkxXX0=
 -->
