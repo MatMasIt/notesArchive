@@ -77,7 +77,10 @@ piccola attività intellettuale
 si guarda da fuori con grande ironia
 
 p.57
+
+**Tot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzY5NzI2NywtMTQxMzQ3MDg0NSwtMT
-c1NDA4Mzk3NCwxMjU3MzMyNjMyLC0xNzQwNjU0NzQxXX0=
+eyJoaXN0b3J5IjpbMTIyNjM4MzE1NCwtNzk3Njk3MjY3LC0xND
+EzNDcwODQ1LC0xNzU0MDgzOTc0LDEyNTczMzI2MzIsLTE3NDA2
+NTQ3NDFdfQ==
 -->
