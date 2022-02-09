@@ -63,8 +63,21 @@ buone cose di pessimo gusto
 p57
 
 
-Crepus
+Crepuscolari si autoescludono
+
+_a latere_
+
+prendono atto che hanno per sempre preso il loro ruolo nella società
+
+ci si sente anche inetti e inadatti
+
+
+piccola attività intellettuale
+
+si guarda da fuori con grande ironia
+
+p.57
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDg1MTU5NSwtMTQxMzQ3MDg0NSwtMT
+eyJoaXN0b3J5IjpbLTc5NzY5NzI2NywtMTQxMzQ3MDg0NSwtMT
 c1NDA4Mzk3NCwxMjU3MzMyNjMyLC0xNzQwNjU0NzQxXX0=
 -->
