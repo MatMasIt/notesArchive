@@ -64,7 +64,23 @@ $$
 $$
 \lim_{h\to 0}\frac{(x+h)^n-x^n}h
 $$
+
+$$
+\lim_{h\to 0}\frac{x^n(1+\frac{h}x)^n-x^n}h
+$$
+
+
+$$
+\xrightarrow{(q+\frac{h}x\approx1+n\frac{h}x}
+$$
+
+
+$$
+x^2\frac{n}x=nx^{n-1}
+$$
+
+p.11 l 5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE2NTE0MDAsNjE0MDM2MTM4LC0yNj
-A4OTA5MV19
+eyJoaXN0b3J5IjpbODk2ODU4NjA3LC0xNTUxNjUxNDAwLDYxND
+AzNjEzOCwtMjYwODkwOTFdfQ==
 -->
