@@ -47,8 +47,10 @@ morte dell'io letterario
 
 non umanizzare la natura
 
-pasto
+Pascoli $\to$ crepuscolari $\to$ Montale
+
+Crepuscolari fanno cozzare il poetabile sempli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTYwNDc5OSwtMTc1NDA4Mzk3NCwxMj
-U3MzMyNjMyLC0xNzQwNjU0NzQxXX0=
+eyJoaXN0b3J5IjpbMzMzNDU0Njk3LC0xNzU0MDgzOTc0LDEyNT
+czMzI2MzIsLTE3NDA2NTQ3NDFdfQ==
 -->
