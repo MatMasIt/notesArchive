@@ -38,6 +38,9 @@ fonosimbolismi
 scelte grafiche innovative
 
 forte impatto visivo
+
+vero e totale scardinaento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzMzMjYzMiwtMTc0MDY1NDc0MV19
+eyJoaXN0b3J5IjpbLTExNzYyMjcxMjksMTI1NzMzMjYzMiwtMT
+c0MDY1NDc0MV19
 -->
