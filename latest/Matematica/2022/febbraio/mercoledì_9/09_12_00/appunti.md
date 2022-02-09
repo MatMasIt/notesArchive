@@ -34,6 +34,24 @@ $p_2$ è codizione necessaria per $p_1$
 condizione sufficiente affinchè una funzione sia derivabile è che sia continua  VERO
 
 condizione necessaria affinchè una funzione sia continua è che sia derivabile
+
+
+---
+
+
+$$
+f(x)=\log_ax
+$$
+
+$$
+\log{h\to 0}\frac{\log_a(x+h)-\log_ax}{h}
+$$
+
+
+$$
+\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0MDM2MTM4LC0yNjA4OTA5MV19
+eyJoaXN0b3J5IjpbLTIxMTczNTkxLDYxNDAzNjEzOCwtMjYwOD
+kwOTFdfQ==
 -->
