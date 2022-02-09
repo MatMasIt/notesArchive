@@ -52,7 +52,9 @@ Pascoli $\to$ crepuscolari $\to$ Montale
 Crepuscolari fanno cozzare il poetabile semplice rappresentato con lessico semplice, frizione con lessico aulico
 
 coesistono
+
+crepuscolari vissuti come declino della stagione alta della poesia pascoliana e dannunziana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDgzNjI2MTgsLTE3NTQwODM5NzQsMT
-I1NzMzMjYzMiwtMTc0MDY1NDc0MV19
+eyJoaXN0b3J5IjpbLTMzMTczMDE2NywtMTc1NDA4Mzk3NCwxMj
+U3MzMyNjMyLC0xNzQwNjU0NzQxXX0=
 -->
