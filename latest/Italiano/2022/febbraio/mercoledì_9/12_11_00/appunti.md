@@ -49,8 +49,10 @@ non umanizzare la natura
 
 Pascoli $\to$ crepuscolari $\to$ Montale
 
-Crepuscolari fanno cozzare il poetabile sempli
+Crepuscolari fanno cozzare il poetabile semplice rappresentato con lessico semplice, frizione con lessico aulico
+
+coesistono
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzNDU0Njk3LC0xNzU0MDgzOTc0LDEyNT
-czMzI2MzIsLTE3NDA2NTQ3NDFdfQ==
+eyJoaXN0b3J5IjpbLTEwNDgzNjI2MTgsLTE3NTQwODM5NzQsMT
+I1NzMzMjYzMiwtMTc0MDY1NDc0MV19
 -->
