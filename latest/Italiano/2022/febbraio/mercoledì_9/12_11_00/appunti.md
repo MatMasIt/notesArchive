@@ -34,6 +34,10 @@ addirittura superamento del verso libero
 forte uso di analogia, verso iperlibero
 
 fonosimbolismi
+
+scelte grafiche innovative
+
+forte impatto visivo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODAwNTQ0NCwtMTc0MDY1NDc0MV19
+eyJoaXN0b3J5IjpbMTI1NzMzMjYzMiwtMTc0MDY1NDc0MV19
 -->
