@@ -20,6 +20,9 @@ La malattia mortale: tema = disperazione
 
 
 timore, angoscia, disperazione
+
+emoz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDkyNTg4NDUsMTU3MjAwNjIyOV19
+eyJoaXN0b3J5IjpbODg0MDczMTY0LC0xMjA5MjU4ODQ1LDE1Nz
+IwMDYyMjldfQ==
 -->
