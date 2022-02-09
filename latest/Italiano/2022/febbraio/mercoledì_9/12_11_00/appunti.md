@@ -46,7 +46,9 @@ morte dell'io letterario
 
 
 non umanizzare la natura
+
+pasto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQwODM5NzQsMTI1NzMzMjYzMiwtMT
-c0MDY1NDc0MV19
+eyJoaXN0b3J5IjpbLTc2OTYwNDc5OSwtMTc1NDA4Mzk3NCwxMj
+U3MzMyNjMyLC0xNzQwNjU0NzQxXX0=
 -->
