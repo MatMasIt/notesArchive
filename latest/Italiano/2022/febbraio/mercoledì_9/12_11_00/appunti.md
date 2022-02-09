@@ -54,7 +54,14 @@ Crepuscolari fanno cozzare il poetabile semplice rappresentato con lessico sempl
 coesistono
 
 crepuscolari vissuti come declino della stagione alta della poesia pascoliana e dannunziana
+
+p. 60
+
+buone cose di pessimo gusto
+
+
+p57
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTczMDE2NywtMTc1NDA4Mzk3NCwxMj
-U3MzMyNjMyLC0xNzQwNjU0NzQxXX0=
+eyJoaXN0b3J5IjpbLTE0MTM0NzA4NDUsLTE3NTQwODM5NzQsMT
+I1NzMzMjYzMiwtMTc0MDY1NDc0MV19
 -->
