@@ -27,6 +27,11 @@ p_1 \implies p_2
 $$
 
 $p_1$ è condizione sufficiente per $p_2$
+
+$p_2$ è codizione necessaria per $p_1$
+
+
+condizi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU1NzYyNDUsLTI2MDg5MDkxXX0=
+eyJoaXN0b3J5IjpbMTg2Nzg3MjAzMSwtMjYwODkwOTFdfQ==
 -->
