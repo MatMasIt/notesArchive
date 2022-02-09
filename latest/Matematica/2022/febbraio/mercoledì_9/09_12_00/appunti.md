@@ -12,6 +12,8 @@ $Q \to P$
 
 
 Limite del coefficiente angolare della retta secante quando i due punti della funzione tendono a coincidere
+
+Se il limite esiste ed è finito,è
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDg5MDkxXX0=
+eyJoaXN0b3J5IjpbMTUwOTEzODk3MywtMjYwODkwOTFdfQ==
 -->
