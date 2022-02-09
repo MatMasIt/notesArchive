@@ -80,7 +80,17 @@ x^2\frac{n}x=nx^{n-1}
 $$
 
 p.11 l 5
+
+
+
+
+Derivata di funzione inversa
+
+
+$$
+y=f(x)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2ODU4NjA3LC0xNTUxNjUxNDAwLDYxND
-AzNjEzOCwtMjYwODkwOTFdfQ==
+eyJoaXN0b3J5IjpbLTM4NDMzMzIzLDg5Njg1ODYwNywtMTU1MT
+Y1MTQwMCw2MTQwMzYxMzgsLTI2MDg5MDkxXX0=
 -->
