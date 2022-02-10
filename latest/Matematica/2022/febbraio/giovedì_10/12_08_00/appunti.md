@@ -98,9 +98,9 @@ $$
 
 
 $$
-f(x)=\ln|\sin x|
+f(x)=\ln|\sin x|=\frac{1}{|\sin x|}\cdot \frac{|\sin x|}{\sin x}\cos x=\cotan x
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzc2MzIxNTQsLTIwMzA5MTUwMzIsMT
-M0MDI4OTk5NywxMjI2NzY4MTg2XX0=
+eyJoaXN0b3J5IjpbLTYwNTQ5NTI1NywtMjAzMDkxNTAzMiwxMz
+QwMjg5OTk3LDEyMjY3NjgxODZdfQ==
 -->
