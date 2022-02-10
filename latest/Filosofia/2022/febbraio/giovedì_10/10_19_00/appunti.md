@@ -64,7 +64,9 @@ Cristianesimo ha a cuore la dimensione dell'individuo--singolo (come Gesù)
 Dio ama **te**
 
 e ti ha dato una irripetibile anima a sua imamgine
+
+r .31-34 p.20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU3MDU1NzQsNjc1NDI5NjI2LC0xMj
-EwMDE5Nzg3LC00NjE1NzM3MjAsMjEzODc5NTIwOV19
+eyJoaXN0b3J5IjpbLTc1NzcwMDY4Niw2NzU0Mjk2MjYsLTEyMT
+AwMTk3ODcsLTQ2MTU3MzcyMCwyMTM4Nzk1MjA5XX0=
 -->
