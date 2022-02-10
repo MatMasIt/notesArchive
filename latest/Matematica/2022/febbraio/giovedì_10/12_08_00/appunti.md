@@ -174,8 +174,15 @@ $$
 $$
 \lim_{x\to -3^-}f'(x)=-\infin
 $$
+
+---
+
+
+$$
+y=\begin{equation} \begin{cases} x^2\qquad x \le 0\\\sin x\quad x > 0 \end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDQ0OTE1MCwtNTg0MTIzMDk0LDEwNT
-MxMTg5MDEsLTc2NzMzNDM3MywzMzU5NDc5MDQsLTIwMzA5MTUw
-MzIsMTM0MDI4OTk5NywxMjI2NzY4MTg2XX0=
+eyJoaXN0b3J5IjpbLTI0ODUxNTY5LC01ODQxMjMwOTQsMTA1Mz
+ExODkwMSwtNzY3MzM0MzczLDMzNTk0NzkwNCwtMjAzMDkxNTAz
+MiwxMzQwMjg5OTk3LDEyMjY3NjgxODZdfQ==
 -->
