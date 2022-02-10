@@ -69,9 +69,9 @@ $$
 $$
 
 $$
-D(\arcsin
+D(\arcsin y)=\frac1{f'x}=\frac{1}{\cos x}=\frac1{+\sqrt{1-\sin^2x}}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjEwMDMxNywxMzQwMjg5OTk3LDEyMj
-Y3NjgxODZdfQ==
+eyJoaXN0b3J5IjpbLTIwMzA5MTUwMzIsMTM0MDI4OTk5NywxMj
+I2NzY4MTg2XX0=
 -->
