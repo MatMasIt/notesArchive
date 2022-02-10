@@ -31,7 +31,11 @@ g(y)=f^{-1}(x)
 $$
 
 $$
+g'(1)
 $$
+
+
+è invertibile se è iniettiva (strettamente monotona crescente o decrescente)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzI2NzU0NSwxMjI2NzY4MTg2XX0=
+eyJoaXN0b3J5IjpbLTY5OTE4OTczOSwxMjI2NzY4MTg2XX0=
 -->
