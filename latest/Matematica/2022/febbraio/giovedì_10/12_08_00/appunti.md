@@ -14,6 +14,12 @@ $è\space necessario$ che una funzione sia continua affinchè sia derivabile
 $è\space condizione \space sufficiente$ affinchè una funzione sia continua è che sia derivabile
 
 è condizione necessaria afincheè una funzione si aderivabile è che sia continua
+
+
+---
+
+
+es 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjc2ODE4Nl19
+eyJoaXN0b3J5IjpbLTI4ODI3NTQ5OSwxMjI2NzY4MTg2XX0=
 -->
