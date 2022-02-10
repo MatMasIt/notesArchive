@@ -56,7 +56,19 @@ z(x)=1-e^{2x}
 $$
 
 
+-----
+
+
+$$
+f:y=\sin x
+$$
+
+
+$$
+-\frac{\pi}2\le x\le\frac\pi2
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjE3OTQzLDEzNDAyODk5OTcsMTIyNj
-c2ODE4Nl19
+eyJoaXN0b3J5IjpbMTYwMzA3NDMwNywxMzQwMjg5OTk3LDEyMj
+Y3NjgxODZdfQ==
 -->
