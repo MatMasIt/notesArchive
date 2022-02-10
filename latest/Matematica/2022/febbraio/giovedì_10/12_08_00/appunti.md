@@ -98,9 +98,16 @@ $$
 
 
 $$
-f(x)=\ln|\sin x|=\frac{1}{|\sin x|}\cdot \frac{|\sin x|}{\sin x}\cos x=\cotan x
+f(x)=\ln|\sin x|=\frac{1}{|\sin x|}\cdot \frac{|\sin x|}{\sin x}\cos x=\cot x
+$$
+
+386
+
+
+$$
+f(x)=\arctan(\arcsin(x))
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTQ5NTI1NywtMjAzMDkxNTAzMiwxMz
-QwMjg5OTk3LDEyMjY3NjgxODZdfQ==
+eyJoaXN0b3J5IjpbNzcwMDYwMDg0LC0yMDMwOTE1MDMyLDEzND
+AyODk5OTcsMTIyNjc2ODE4Nl19
 -->
