@@ -145,8 +145,17 @@ III. **Flesso** a tangente verticale
           |- -
          /|
 		/ |
+
+
+
+451
+
+
+$$
+y=\sqrt{x^2-9}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyNzc1MzQ3LC03NjczMzQzNzMsMzM1OT
-Q3OTA0LC0yMDMwOTE1MDMyLDEzNDAyODk5OTcsMTIyNjc2ODE4
-Nl19
+eyJoaXN0b3J5IjpbMTA1MzExODkwMSwtNzY3MzM0MzczLDMzNT
+k0NzkwNCwtMjAzMDkxNTAzMiwxMzQwMjg5OTk3LDEyMjY3Njgx
+ODZdfQ==
 -->
