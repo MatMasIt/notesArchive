@@ -19,7 +19,9 @@ Heidegger
 Sartre
 
 
-Ese
+Essenza: struttura ultima della realtà
+
+Esistnza: dimensione di ogni singolo essere vivente umano particolare irripetibile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4NjYxMzU0LDIxMzg3OTUyMDldfQ==
+eyJoaXN0b3J5IjpbLTIwMjk3OTgyOSwyMTM4Nzk1MjA5XX0=
 -->
