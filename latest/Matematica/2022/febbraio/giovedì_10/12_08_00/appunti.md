@@ -19,7 +19,19 @@ $è\space condizione \space sufficiente$ affinchè una funzione sia continua è 
 ---
 
 
-es 
+es 320 p 50
+
+$$
+f(x)=x^3+e^[2x}
+$$
+è invertibile: dimostra
+
+$$
+g(y)=f^{-1}(x)
+$$
+
+$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODI3NTQ5OSwxMjI2NzY4MTg2XX0=
+eyJoaXN0b3J5IjpbMTI3NzI2NzU0NSwxMjI2NzY4MTg2XX0=
 -->
