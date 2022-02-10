@@ -54,7 +54,9 @@ Premio Nobel 1967 Medicina, George Wald
 _Therefore choose life_, radiolezioni trasformate in un libro
 
 la morte: eliminazione del corpo dopo che ha assunto la funzione di aver riprodotto la specie
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1NDI5NjI2LC0xMjEwMDE5Nzg3LC00Nj
-E1NzM3MjAsMjEzODc5NTIwOV19
+eyJoaXN0b3J5IjpbMjYyNjk5MjIyLDY3NTQyOTYyNiwtMTIxMD
+AxOTc4NywtNDYxNTczNzIwLDIxMzg3OTUyMDldfQ==
 -->
