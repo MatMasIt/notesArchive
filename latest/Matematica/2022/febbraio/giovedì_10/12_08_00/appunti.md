@@ -164,8 +164,18 @@ $$
 $$
 D[f(x)]=(-\infin,-3]\cup[3,+\infin)
 $$
+
+
+$$
+f'(x)=\frac{x}{\sqrt{x^2-9}}
+$$
+
+
+$$
+\lim_{x\to -3^-}f'(x)=-\infin
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDEyMzA5NCwxMDUzMTE4OTAxLC03Nj
-czMzQzNzMsMzM1OTQ3OTA0LC0yMDMwOTE1MDMyLDEzNDAyODk5
-OTcsMTIyNjc2ODE4Nl19
+eyJoaXN0b3J5IjpbMTE1NDQ0OTE1MCwtNTg0MTIzMDk0LDEwNT
+MxMTg5MDEsLTc2NzMzNDM3MywzMzU5NDc5MDQsLTIwMzA5MTUw
+MzIsMTM0MDI4OTk5NywxMjI2NzY4MTg2XX0=
 -->
