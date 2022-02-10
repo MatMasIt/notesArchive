@@ -130,7 +130,9 @@ $$
 Punti di non derivabilità di una funzione
 
 I. **Punto angoloso**
+II
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzMzNDM3MywzMzU5NDc5MDQsLTIwMz
-A5MTUwMzIsMTM0MDI4OTk5NywxMjI2NzY4MTg2XX0=
+eyJoaXN0b3J5IjpbMTAzODc5OTUyOSwtNzY3MzM0MzczLDMzNT
+k0NzkwNCwtMjAzMDkxNTAzMiwxMzQwMjg5OTk3LDEyMjY3Njgx
+ODZdfQ==
 -->
