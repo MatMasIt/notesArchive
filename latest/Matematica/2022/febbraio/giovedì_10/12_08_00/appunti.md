@@ -182,9 +182,9 @@ $$
 y=\begin{equation} \begin{cases} x^2\qquad x \le 0\\\sin x\quad x > 0 \end{cases} \end{equation}
 $$
 
-funzion
+funzione discontinua, imite dx e sx in 0
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzODUzMDIwLC0yNDg1MTU2OSwtNTg0MT
-IzMDk0LDEwNTMxMTg5MDEsLTc2NzMzNDM3MywzMzU5NDc5MDQs
-LTIwMzA5MTUwMzIsMTM0MDI4OTk5NywxMjI2NzY4MTg2XX0=
+eyJoaXN0b3J5IjpbLTkzNzAxNzQxMywtMjQ4NTE1NjksLTU4ND
+EyMzA5NCwxMDUzMTE4OTAxLC03NjczMzQzNzMsMzM1OTQ3OTA0
+LC0yMDMwOTE1MDMyLDEzNDAyODk5OTcsMTIyNjc2ODE4Nl19
 -->
