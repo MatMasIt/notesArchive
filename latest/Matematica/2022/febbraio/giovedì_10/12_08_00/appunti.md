@@ -119,7 +119,12 @@ $$
 $$
 f(x)=\sqrt{1-x^2}e^{\arcsin x}
 $$
+
+
+$$
+f'(x)=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDc3OTAwNywtMjAzMDkxNTAzMiwxMz
-QwMjg5OTk3LDEyMjY3NjgxODZdfQ==
+eyJoaXN0b3J5IjpbMzM1OTQ3OTA0LC0yMDMwOTE1MDMyLDEzND
+AyODk5OTcsMTIyNjc2ODE4Nl19
 -->
