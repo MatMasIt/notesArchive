@@ -68,7 +68,10 @@ $$
 -\frac{\pi}2\le x\le\frac\pi2
 $$
 
+$$
+D(\arcsin
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzA3NDMwNywxMzQwMjg5OTk3LDEyMj
+eyJoaXN0b3J5IjpbLTQzNjEwMDMxNywxMzQwMjg5OTk3LDEyMj
 Y3NjgxODZdfQ==
 -->
