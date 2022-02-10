@@ -55,8 +55,11 @@ _Therefore choose life_, radiolezioni trasformate in un libro
 
 la morte: eliminazione del corpo dopo che ha assunto la funzione di aver riprodotto la specie
 
+Abbiamo immortalità germinale  ma non somatica
 
+
+Cristianesimo ha a cuore la dimensione dell'individuo--singolo (come 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyNjk5MjIyLDY3NTQyOTYyNiwtMTIxMD
-AxOTc4NywtNDYxNTczNzIwLDIxMzg3OTUyMDldfQ==
+eyJoaXN0b3J5IjpbLTE0MTcxOTY2MDUsNjc1NDI5NjI2LC0xMj
+EwMDE5Nzg3LC00NjE1NzM3MjAsMjEzODc5NTIwOV19
 -->
