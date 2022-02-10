@@ -58,8 +58,13 @@ la morte: eliminazione del corpo dopo che ha assunto la funzione di aver riprodo
 Abbiamo immortalità germinale  ma non somatica
 
 
-Cristianesimo ha a cuore la dimensione dell'individuo--singolo (come 
+Cristianesimo ha a cuore la dimensione dell'individuo--singolo (come Gesù)
+
+
+Dio ama **te**
+
+e ti ha dato una irripetibile anima a sua imamgine
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTcxOTY2MDUsNjc1NDI5NjI2LC0xMj
+eyJoaXN0b3J5IjpbLTE0NDU3MDU1NzQsNjc1NDI5NjI2LC0xMj
 EwMDE5Nzg3LC00NjE1NzM3MjAsMjEzODc5NTIwOV19
 -->
