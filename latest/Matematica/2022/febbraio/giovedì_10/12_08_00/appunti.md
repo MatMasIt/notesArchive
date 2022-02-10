@@ -36,6 +36,13 @@ $$
 
 
 è invertibile se è iniettiva (strettamente monotona crescente o decrescente)
+
+$$
+f'(x)=3x^2+2e^{2x}\\
+f'(x) > 0
+$$ è somma di funzioni sempre positive  nulle: la funzione è monotona crescente, quindi iniettiva cioè invertivi
+
+($f(x)$ nulla in 0: $f'(0)=2: ok$)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTE4OTczOSwxMjI2NzY4MTg2XX0=
+eyJoaXN0b3J5IjpbMTM1NTAxMDI3OCwxMjI2NzY4MTg2XX0=
 -->
