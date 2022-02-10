@@ -93,7 +93,14 @@ $$
 $$
 f'(x)=\frac{1}{1+\frac{(x-1)^2}{(x+1)^2}}\cdot\frac{x+1-(x-1)}{(x+1)^2}=\frac1{x^2+1}
 $$
+
+---
+
+
+$$
+f(x)=\ln|\sin x|
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzEzNjQ2NTcsLTIwMzA5MTUwMzIsMT
+eyJoaXN0b3J5IjpbLTE4Nzc2MzIxNTQsLTIwMzA5MTUwMzIsMT
 M0MDI4OTk5NywxMjI2NzY4MTg2XX0=
 -->
