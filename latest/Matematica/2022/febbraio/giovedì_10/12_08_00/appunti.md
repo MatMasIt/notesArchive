@@ -124,7 +124,11 @@ $$
 $$
 f'(x)=
 $$
+
+----
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1OTQ3OTA0LC0yMDMwOTE1MDMyLDEzND
-AyODk5OTcsMTIyNjc2ODE4Nl19
+eyJoaXN0b3J5IjpbOTI5MjI0Njk2LDMzNTk0NzkwNCwtMjAzMD
+kxNTAzMiwxMzQwMjg5OTk3LDEyMjY3NjgxODZdfQ==
 -->
