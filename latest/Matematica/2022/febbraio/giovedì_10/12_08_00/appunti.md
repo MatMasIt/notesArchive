@@ -44,7 +44,16 @@ $$ è somma di funzioni sempre positive  nulle: la funzione è monotona crescent
 
 ($f(x)$ nulla in 0: $f'(0)=2: ok$)
 
-x
+$x^2=1-e^{2x}$
+
+
+$$
+h(x)=x^3
+$$
+
+$$
+z(x)=1-e^{2x}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM1ODg2MzMsMTIyNjc2ODE4Nl19
+eyJoaXN0b3J5IjpbMTM0MDI4OTk5NywxMjI2NzY4MTg2XX0=
 -->
