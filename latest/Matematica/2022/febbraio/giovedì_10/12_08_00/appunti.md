@@ -159,8 +159,13 @@ $$
 \begin{equation} \begin{cases} y \ge 0\\
 \frac{x^2}9-\frac{y^2}9=1\end{cases} \end{equation}
 $$
+
+
+$$
+D[f(x)]=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTYyNjExOCwxMDUzMTE4OTAxLC03Nj
-czMzQzNzMsMzM1OTQ3OTA0LC0yMDMwOTE1MDMyLDEzNDAyODk5
-OTcsMTIyNjc2ODE4Nl19
+eyJoaXN0b3J5IjpbMTI1Njg2NDg2LDEwNTMxMTg5MDEsLTc2Nz
+MzNDM3MywzMzU5NDc5MDQsLTIwMzA5MTUwMzIsMTM0MDI4OTk5
+NywxMjI2NzY4MTg2XX0=
 -->
