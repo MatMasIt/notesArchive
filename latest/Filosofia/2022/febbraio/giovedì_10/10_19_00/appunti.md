@@ -36,8 +36,10 @@ Dio: è necessario
 L'esistenza di tutto il resto è solo esistenza, contingente (se Dio non avesse voluto non sarebbe esistito)
 
 
-pri
+primato del singolo
+
+Filosofa: chiedersi che cosa significa per me esistere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk3MzEzMDEsLTQ2MTU3MzcyMCwyMT
+eyJoaXN0b3J5IjpbLTEyMTAwMTk3ODcsLTQ2MTU3MzcyMCwyMT
 M4Nzk1MjA5XX0=
 -->
