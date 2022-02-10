@@ -72,8 +72,24 @@ $$
 D(\arcsin y)=\frac1{f'x}=\frac{1}{\cos x}=\frac1{+\sqrt{1-\sin^2x}}
 $$
 
--
+---
+344
+
+
+$$
+f(x)=\sin(\ln x)
+$$
+
+$$
+f'(x)=cos(\ln x)\cdot \frac1x=\frac{\cos \ln x}x
+$$
+
+
+352 
+$$
+f(x)=\ar
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI3NTU2NDUsLTIwMzA5MTUwMzIsMT
-M0MDI4OTk5NywxMjI2NzY4MTg2XX0=
+eyJoaXN0b3J5IjpbLTMyNDUxMzM0OCwtMjAzMDkxNTAzMiwxMz
+QwMjg5OTk3LDEyMjY3NjgxODZdfQ==
 -->
