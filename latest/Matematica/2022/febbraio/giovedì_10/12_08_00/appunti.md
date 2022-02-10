@@ -140,12 +140,13 @@ II. **Cuspide**
 		 @
 
 III. **Flesso** a tangente verticale
-          
-       
-         /
-		/
+
+          |
+          |- -
+         /|
+		/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTc2OTE0NywtNzY3MzM0MzczLDMzNT
-k0NzkwNCwtMjAzMDkxNTAzMiwxMzQwMjg5OTk3LDEyMjY3Njgx
-ODZdfQ==
+eyJoaXN0b3J5IjpbNTcyNzc1MzQ3LC03NjczMzQzNzMsMzM1OT
+Q3OTA0LC0yMDMwOTE1MDMyLDEzNDAyODk5OTcsMTIyNjc2ODE4
+Nl19
 -->
