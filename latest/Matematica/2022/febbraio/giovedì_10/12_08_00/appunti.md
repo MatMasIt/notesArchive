@@ -130,9 +130,22 @@ $$
 Punti di non derivabilità di una funzione
 
 I. **Punto angoloso**
-II
+
+       \  /
+        \/
+II. **Cuspide**
+		
+	   )   (
+		) (
+		 @
+
+III. **Flesso** a tangente verticale
+          
+       
+         /
+		/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODc5OTUyOSwtNzY3MzM0MzczLDMzNT
+eyJoaXN0b3J5IjpbMTA2NTc2OTE0NywtNzY3MzM0MzczLDMzNT
 k0NzkwNCwtMjAzMDkxNTAzMiwxMzQwMjg5OTk3LDEyMjY3Njgx
 ODZdfQ==
 -->
