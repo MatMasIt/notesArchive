@@ -154,8 +154,13 @@ III. **Flesso** a tangente verticale
 $$
 y=\sqrt{x^2-9}
 $$
+
+$$
+\begin{equation} \begin{cases} y \ge 0\\
+\frac{x^2}9-\frac{y^2}9=1\end{cases} \end{equation}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MzExODkwMSwtNzY3MzM0MzczLDMzNT
-k0NzkwNCwtMjAzMDkxNTAzMiwxMzQwMjg5OTk3LDEyMjY3Njgx
-ODZdfQ==
+eyJoaXN0b3J5IjpbLTE2OTYyNjExOCwxMDUzMTE4OTAxLC03Nj
+czMzQzNzMsMzM1OTQ3OTA0LC0yMDMwOTE1MDMyLDEzNDAyODk5
+OTcsMTIyNjc2ODE4Nl19
 -->
