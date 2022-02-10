@@ -107,7 +107,19 @@ $$
 $$
 f(x)=\arctan(\arcsin(x))
 $$
+
+
+$$
+d'(x)=\frac{1}{1+\arctan^2x}\cdot\frac{1}{\sqrt{1-x^2}}
+$$
+
+
+314
+
+$$
+f(x)=\sqrt{1-x^2}e^{\arcsin x}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwMDYwMDg0LC0yMDMwOTE1MDMyLDEzND
-AyODk5OTcsMTIyNjc2ODE4Nl19
+eyJoaXN0b3J5IjpbMTYzNDc3OTAwNywtMjAzMDkxNTAzMiwxMz
+QwMjg5OTk3LDEyMjY3NjgxODZdfQ==
 -->
