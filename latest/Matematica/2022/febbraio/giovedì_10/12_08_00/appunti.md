@@ -87,9 +87,9 @@ $$
 
 352 
 $$
-f(x)=\ar
+f(x)=\arctan\left(\frac{x-1}{x+1}\right)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDUxMzM0OCwtMjAzMDkxNTAzMiwxMz
+eyJoaXN0b3J5IjpbMTkwMjYzNDIwMCwtMjAzMDkxNTAzMiwxMz
 QwMjg5OTk3LDEyMjY3NjgxODZdfQ==
 -->
