@@ -22,6 +22,10 @@ Sartre
 Essenza: struttura ultima della realtà
 
 Esistnza: dimensione di ogni singolo essere vivente umano particolare irripetibile
+
+
+
+ex-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk3OTgyOSwyMTM4Nzk1MjA5XX0=
+eyJoaXN0b3J5IjpbNDQwMTczNzE5LDIxMzg3OTUyMDldfQ==
 -->
