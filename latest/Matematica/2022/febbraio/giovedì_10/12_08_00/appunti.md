@@ -6,7 +6,11 @@ $$
 
 $Se$ una funzione è derivabile $allora $ è continua
 
-$è SUFFICIENTE$ CHE U
+$è\space sufficiente$ che una funzione sia derivabile affinchè sia continua
+
+$è\space necessario$ che una funzione sia continua affinchè sia derivabile
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk5NjM0NzNdfQ==
+eyJoaXN0b3J5IjpbNDE0MTgxMTIyXX0=
 -->
