@@ -54,6 +54,9 @@ $$
 $$
 z(x)=1-e^{2x}
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDI4OTk5NywxMjI2NzY4MTg2XX0=
+eyJoaXN0b3J5IjpbLTQyMjE3OTQzLDEzNDAyODk5OTcsMTIyNj
+c2ODE4Nl19
 -->
