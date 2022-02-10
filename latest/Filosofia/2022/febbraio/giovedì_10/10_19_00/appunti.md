@@ -49,10 +49,12 @@ il pensiero si evolve, la morte è una fase del pensiero
 
 cosa è la morte per uno scienziato
 
-Premio Nobel 1967, George Wald
+Premio Nobel 1967 Medicina, George Wald
 
 _Therefore choose life_, radiolezioni trasformate in un libro
+
+la morte: eliminazione del corpo dopo che ha assunto la funzione di aver riprodotto la specie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDAyODY1MTIsLTEyMTAwMTk3ODcsLT
-Q2MTU3MzcyMCwyMTM4Nzk1MjA5XX0=
+eyJoaXN0b3J5IjpbNjc1NDI5NjI2LC0xMjEwMDE5Nzg3LC00Nj
+E1NzM3MjAsMjEzODc5NTIwOV19
 -->
