@@ -25,7 +25,15 @@ Esistnza: dimensione di ogni singolo essere vivente umano particolare irripetibi
 
 
 
-ex-
+ex-sistere: stare fuori
+
+filosofia scolastica:
+
+esistenza = essere che non è necessario ma è contingente
+
+Per gli scolastici
+Dio: è necessario
+L'esistenza di tutto il resto è solo esistenza, contingente (se Dio non avesse voluto non sarebbe esistito)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwMTczNzE5LDIxMzg3OTUyMDldfQ==
+eyJoaXN0b3J5IjpbLTQ2MTU3MzcyMCwyMTM4Nzk1MjA5XX0=
 -->
