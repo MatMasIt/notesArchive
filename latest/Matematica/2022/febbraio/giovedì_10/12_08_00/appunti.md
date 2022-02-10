@@ -181,8 +181,10 @@ $$
 $$
 y=\begin{equation} \begin{cases} x^2\qquad x \le 0\\\sin x\quad x > 0 \end{cases} \end{equation}
 $$
+
+funzion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODUxNTY5LC01ODQxMjMwOTQsMTA1Mz
-ExODkwMSwtNzY3MzM0MzczLDMzNTk0NzkwNCwtMjAzMDkxNTAz
-MiwxMzQwMjg5OTk3LDEyMjY3NjgxODZdfQ==
+eyJoaXN0b3J5IjpbNDMzODUzMDIwLC0yNDg1MTU2OSwtNTg0MT
+IzMDk0LDEwNTMxMTg5MDEsLTc2NzMzNDM3MywzMzU5NDc5MDQs
+LTIwMzA5MTUwMzIsMTM0MDI4OTk5NywxMjI2NzY4MTg2XX0=
 -->
