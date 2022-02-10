@@ -43,6 +43,8 @@ f'(x) > 0
 $$ è somma di funzioni sempre positive  nulle: la funzione è monotona crescente, quindi iniettiva cioè invertibile
 
 ($f(x)$ nulla in 0: $f'(0)=2: ok$)
+
+x
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5NTI0MDI1LDEyMjY3NjgxODZdfQ==
+eyJoaXN0b3J5IjpbLTIwNTM1ODg2MzMsMTIyNjc2ODE4Nl19
 -->
