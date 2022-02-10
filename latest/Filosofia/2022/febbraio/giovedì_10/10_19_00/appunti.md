@@ -10,7 +10,13 @@ rifiuto della ragione come solo strumento di comprensione della realtà
 Kirkegaard accusa hegel di aver completamente trascurato la dimensione del singolo dessere umno, del suo vissuto
 
 
-Kirkegar
+Kirkegard: precursore esistenzialismo
+
+anni '30 del 900
+
+
+Heidegger
+Sartre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzMzMzg5XX0=
+eyJoaXN0b3J5IjpbMjEzODc5NTIwOV19
 -->
