@@ -47,8 +47,12 @@ tema della morte
 per Hegel la morte:
 il pensiero si evolve, la morte è una fase del pensiero
 
-cosa è la morte per uno s
+cosa è la morte per uno scienziato
+
+Premio Nobel 1967, George Wald
+
+_Therefore choose life_, radiolezioni trasformate in un libro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTcyNTM2NCwtMTIxMDAxOTc4NywtND
-YxNTczNzIwLDIxMzg3OTUyMDldfQ==
+eyJoaXN0b3J5IjpbLTE2MDAyODY1MTIsLTEyMTAwMTk3ODcsLT
+Q2MTU3MzcyMCwyMTM4Nzk1MjA5XX0=
 -->
