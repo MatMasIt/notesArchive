@@ -39,7 +39,16 @@ L'esistenza di tutto il resto è solo esistenza, contingente (se Dio non avesse 
 primato del singolo
 
 Filosofa: chiedersi che cosa significa per me esistere
+
+Scienze generalmente non guardano al vissuto concreto degli individui
+
+tema della morte
+
+per Hegel la morte:
+il pensiero si evolve, la morte è una fase del pensiero
+
+cosa è la morte per uno s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTAwMTk3ODcsLTQ2MTU3MzcyMCwyMT
-M4Nzk1MjA5XX0=
+eyJoaXN0b3J5IjpbMTg5MTcyNTM2NCwtMTIxMDAxOTc4NywtND
+YxNTczNzIwLDIxMzg3OTUyMDldfQ==
 -->
