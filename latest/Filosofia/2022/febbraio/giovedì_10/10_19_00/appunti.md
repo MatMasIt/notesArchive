@@ -34,6 +34,10 @@ esistenza = essere che non è necessario ma è contingente
 Per gli scolastici
 Dio: è necessario
 L'esistenza di tutto il resto è solo esistenza, contingente (se Dio non avesse voluto non sarebbe esistito)
+
+
+pri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTU3MzcyMCwyMTM4Nzk1MjA5XX0=
+eyJoaXN0b3J5IjpbLTE0MTk3MzEzMDEsLTQ2MTU3MzcyMCwyMT
+M4Nzk1MjA5XX0=
 -->
