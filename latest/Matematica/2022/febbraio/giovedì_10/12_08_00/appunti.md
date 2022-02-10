@@ -89,7 +89,11 @@ $$
 $$
 f(x)=\arctan\left(\frac{x-1}{x+1}\right)
 $$
+
+$$
+f'(x)=\frac{1}{1+\frac{(x-1)^2}{(x+1)^2}}\cdot\frac{x+1-(x-1
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjYzNDIwMCwtMjAzMDkxNTAzMiwxMz
+eyJoaXN0b3J5IjpbMTgxOTI2MTA3NCwtMjAzMDkxNTAzMiwxMz
 QwMjg5OTk3LDEyMjY3NjgxODZdfQ==
 -->
