@@ -18,6 +18,9 @@ poesie in lapis, matita, di poco conto
 prosaico: quotidiano
 
 prosastico: in prosa
+
+schema metrico classico per materia poco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0NjM1NzMsLTI3MDk4MzIwNF19
+eyJoaXN0b3J5IjpbNjk3NjM3NzY1LDk5NDYzNTczLC0yNzA5OD
+MyMDRdfQ==
 -->
