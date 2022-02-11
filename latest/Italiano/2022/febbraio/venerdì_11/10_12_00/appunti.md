@@ -33,7 +33,9 @@ qui inettitidune ad essere vate o chiaroveggente
 parvenu, arricchiti, nuovi fruitori dell'arte
 
 r.45  Totò non ha sentimenti
+scheda
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzU4OTc5MSwtNzUwNDk2MDExLDk5ND
+eyJoaXN0b3J5IjpbLTQwMDM3NjIwNywtNzUwNDk2MDExLDk5ND
 YzNTczLC0yNzA5ODMyMDRdfQ==
 -->
