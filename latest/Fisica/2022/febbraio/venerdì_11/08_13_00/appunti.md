@@ -29,6 +29,23 @@ x=V_0t\\
 S=\frac12at^2
 \end{cases} \end{equation}
 $$
+
+
+$$
+\begin{equation} \begin{cases} t=\frac{x}{V_0}\\
+y=\frac12\frac{E}{mV_0^2}t^2
+\end{cases} \end{equation}
+$$
+
+
+
+--- 
+
+I flussi
+
+$$
+\Phi(\vec{E})=\vec E 	\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzkzNjk2XX0=
+eyJoaXN0b3J5IjpbLTEyODg3Mzk4N119
 -->
