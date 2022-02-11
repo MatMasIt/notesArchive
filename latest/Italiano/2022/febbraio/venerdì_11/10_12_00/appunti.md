@@ -29,7 +29,9 @@ inettitudne alla vita
 
 qui inettitidune ad essere vate o chiaroveggente
 
+
+parven
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDQ5NjAxMSw5OTQ2MzU3MywtMjcwOT
-gzMjA0XX0=
+eyJoaXN0b3J5IjpbLTQ0NDg0MzE0OSwtNzUwNDk2MDExLDk5ND
+YzNTczLC0yNzA5ODMyMDRdfQ==
 -->
