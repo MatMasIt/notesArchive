@@ -20,7 +20,16 @@ prosaico: quotidiano
 prosastico: in prosa
 
 schema metrico classico per materia poco nobile, parnassiani
+
+
+Inetto _in-aptus_
+
+inettitudne alla vita
+
+
+qui inettitidune ad essere vate o chiaroveggente
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDYxNzkxNDksOTk0NjM1NzMsLTI3MD
-k4MzIwNF19
+eyJoaXN0b3J5IjpbLTc1MDQ5NjAxMSw5OTQ2MzU3MywtMjcwOT
+gzMjA0XX0=
 -->
