@@ -30,8 +30,10 @@ inettitudne alla vita
 qui inettitidune ad essere vate o chiaroveggente
 
 
-parven
+parvenu, arricchiti, nuovi fruitori dell'arte
+
+r.45  Totò non ha sentimenti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDg0MzE0OSwtNzUwNDk2MDExLDk5ND
+eyJoaXN0b3J5IjpbMTA5MzU4OTc5MSwtNzUwNDk2MDExLDk5ND
 YzNTczLC0yNzA5ODMyMDRdfQ==
 -->
