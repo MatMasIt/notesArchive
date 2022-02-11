@@ -48,6 +48,10 @@ $$
 $$
 
 p 195 v 2
+
+In una superficie gaussiana chiusa se non circonnda cariche il flusso è 0
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDU0NTE1XX0=
+eyJoaXN0b3J5IjpbLTEwMTUxOTg3NjZdfQ==
 -->
