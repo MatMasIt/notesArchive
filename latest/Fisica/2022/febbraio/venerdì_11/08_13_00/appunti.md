@@ -52,6 +52,10 @@ p 195 v 2
 In una superficie gaussiana chiusa se non circonnda cariche il flusso è 0
 
 
+$$
+\Phi(\vec E)\frac{\sum_{i=1}^nQ_i}{\varepsilon_i\varepsilon_0}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTUxOTg3NjZdfQ==
+eyJoaXN0b3J5IjpbLTE5MzA4OTY1MDQsLTEwMTUxOTg3NjZdfQ
+==
 -->
