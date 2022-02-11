@@ -35,7 +35,9 @@ parvenu, arricchiti, nuovi fruitori dell'arte
 r.45  Totò non ha sentimenti
 scheda
 
+
+Vita che si vuole ridurre a letteratura per scelta e nella letteratura trova consolazione, un po' di senso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDM3NjIwNywtNzUwNDk2MDExLDk5ND
+eyJoaXN0b3J5IjpbMTAyNjM1MDI5MiwtNzUwNDk2MDExLDk5ND
 YzNTczLC0yNzA5ODMyMDRdfQ==
 -->
