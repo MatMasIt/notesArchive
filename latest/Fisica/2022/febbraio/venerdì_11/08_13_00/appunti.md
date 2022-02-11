@@ -44,8 +44,10 @@ $$
 I flussi
 
 $$
-\Phi(\vec{E})=\vec E 	\
+\Phi(\vec{E})=\vec E \cdot \vec n S=ES\cdot \cos \alpha
 $$
+
+p 195 v 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg3Mzk4N119
+eyJoaXN0b3J5IjpbMTI1NDU0NTE1XX0=
 -->
