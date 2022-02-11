@@ -14,7 +14,21 @@ V_0=10^7\frac{m}s
 $$
 
 $$
+L=2cm
+$$
+
+
+$$
+d=1cm
+$$
+
+
+$$
+\begin{equation} \begin{cases} 
+x=V_0t\\
+S=\frac12at^2
+\end{cases} \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTAwODgxOV19
+eyJoaXN0b3J5IjpbLTQ4NzkzNjk2XX0=
 -->
