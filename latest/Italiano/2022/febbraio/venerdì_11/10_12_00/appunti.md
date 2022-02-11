@@ -19,8 +19,8 @@ prosaico: quotidiano
 
 prosastico: in prosa
 
-schema metrico classico per materia poco
+schema metrico classico per materia poco nobile, parnassiani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3NjM3NzY1LDk5NDYzNTczLC0yNzA5OD
-MyMDRdfQ==
+eyJoaXN0b3J5IjpbLTEwNDYxNzkxNDksOTk0NjM1NzMsLTI3MD
+k4MzIwNF19
 -->
