@@ -14,6 +14,10 @@ micropipette
 più lo strumento da misurazione adatta più costa
 
 
+#include<stdio.h> 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDgzNjcwOCwtNzY5Mzc0MjUyXX0=
+eyJoaXN0b3J5IjpbMTMzMTMyNTcyMCwtMzQ0ODM2NzA4LC03Nj
+kzNzQyNTJdfQ==
 -->
