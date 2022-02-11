@@ -37,7 +37,10 @@ scheda
 
 
 Vita che si vuole ridurre a letteratura per scelta e nella letteratura trova consolazione, un po' di senso
+
+
+lirica Dannunziana e pascolana lo ha inaridito
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjM1MDI5MiwtNzUwNDk2MDExLDk5ND
-YzNTczLC0yNzA5ODMyMDRdfQ==
+eyJoaXN0b3J5IjpbLTY0ODQ3Njc3NSwxMDI2MzUwMjkyLC03NT
+A0OTYwMTEsOTk0NjM1NzMsLTI3MDk4MzIwNF19
 -->
