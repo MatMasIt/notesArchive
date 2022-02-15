@@ -1,6 +1,6 @@
 # Lezione di Inglese
 
-Relationship between mr Andfild and mr Hutterson //fix the names
+Relationship between mr Andfild and mr Utterson //fix the names
 
 These two have accepted to be double, not like Jekyll an Hide
 
@@ -16,6 +16,6 @@ novels of Stevenson:
 * treasure Island
 * The strange case of Dr Jekyll and Mr Hide
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg1MTkwNTUsMjQ3NTExNTA1LDEyMj
-U4NDQ5ODJdfQ==
+eyJoaXN0b3J5IjpbLTExOTI5MDg5OSwyNDc1MTE1MDUsMTIyNT
+g0NDk4Ml19
 -->
