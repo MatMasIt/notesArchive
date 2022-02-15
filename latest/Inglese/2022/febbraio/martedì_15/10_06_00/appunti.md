@@ -38,9 +38,9 @@ he wanted to maintain the public image of respecatbility
 he is tolerant fo others
 
 
-when 
+when he sees others indulging in temptations sometimes he is envious about it
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjkzOTYwNywtMTI1ODg5MDcyNSwtMj
+eyJoaXN0b3J5IjpbLTQxNjQ1MTEwOSwtMTI1ODg5MDcyNSwtMj
 A1MTUxODY1LDExOTI3Mjk0ODMsMjQ3NTExNTA1LDEyMjU4NDQ5
 ODJdfQ==
 -->
