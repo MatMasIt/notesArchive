@@ -24,7 +24,11 @@ bitter expression
 harsh, cold expression
 
 very strict with himself
+
+example of victorian respectability
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY1MTI1ODAsMTE5MjcyOTQ4MywyND
-c1MTE1MDUsMTIyNTg0NDk4Ml19
+eyJoaXN0b3J5IjpbMjg3Mzg1MzI4LDExOTI3Mjk0ODMsMjQ3NT
+ExNTA1LDEyMjU4NDQ5ODJdfQ==
 -->
