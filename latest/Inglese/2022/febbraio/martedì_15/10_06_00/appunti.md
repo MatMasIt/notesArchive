@@ -26,9 +26,15 @@ harsh, cold expression
 very strict with himself
 
 example of victorian respectability
+he did not indulge in temptations
 
 
+did not go to the thaeter 
+
+did not drink in public
+
+he wanted to maintain the public image of respecatbility
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3Mzg1MzI4LDExOTI3Mjk0ODMsMjQ3NT
-ExNTA1LDEyMjU4NDQ5ODJdfQ==
+eyJoaXN0b3J5IjpbLTIwNTE1MTg2NSwxMTkyNzI5NDgzLDI0Nz
+UxMTUwNSwxMjI1ODQ0OTgyXX0=
 -->
