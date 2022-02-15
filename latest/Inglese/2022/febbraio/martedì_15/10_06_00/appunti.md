@@ -39,8 +39,11 @@ he is tolerant fo others
 
 
 when he sees others indulging in temptations sometimes he is envious about it
+
+
+Friendships: results of the passage of time, not f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjQ1MTEwOSwtMTI1ODg5MDcyNSwtMj
-A1MTUxODY1LDExOTI3Mjk0ODMsMjQ3NTExNTA1LDEyMjU4NDQ5
-ODJdfQ==
+eyJoaXN0b3J5IjpbOTc1OTQ2NzczLC00MTY0NTExMDksLTEyNT
+g4OTA3MjUsLTIwNTE1MTg2NSwxMTkyNzI5NDgzLDI0NzUxMTUw
+NSwxMjI1ODQ0OTgyXX0=
 -->
