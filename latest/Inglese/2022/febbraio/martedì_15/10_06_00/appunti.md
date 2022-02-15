@@ -37,7 +37,10 @@ he wanted to maintain the public image of respecatbility
 
 he is tolerant fo others
 
+
+when 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg4OTA3MjUsLTIwNTE1MTg2NSwxMT
-kyNzI5NDgzLDI0NzUxMTUwNSwxMjI1ODQ0OTgyXX0=
+eyJoaXN0b3J5IjpbMTU4MjkzOTYwNywtMTI1ODg5MDcyNSwtMj
+A1MTUxODY1LDExOTI3Mjk0ODMsMjQ3NTExNTA1LDEyMjU4NDQ5
+ODJdfQ==
 -->
