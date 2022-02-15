@@ -34,7 +34,10 @@ did not go to the thaeter
 did not drink in public
 
 he wanted to maintain the public image of respecatbility
+
+he is tolerant fo others
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE1MTg2NSwxMTkyNzI5NDgzLDI0Nz
-UxMTUwNSwxMjI1ODQ0OTgyXX0=
+eyJoaXN0b3J5IjpbLTEyNTg4OTA3MjUsLTIwNTE1MTg2NSwxMT
+kyNzI5NDgzLDI0NzUxMTUwNSwxMjI1ODQ0OTgyXX0=
 -->
