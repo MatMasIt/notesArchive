@@ -22,7 +22,9 @@ Mr Utterson
 
 bitter expression
 harsh, cold expression
+
+very strict with himself
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjcyOTQ4MywyNDc1MTE1MDUsMTIyNT
-g0NDk4Ml19
+eyJoaXN0b3J5IjpbLTE3MDY1MTI1ODAsMTE5MjcyOTQ4MywyND
+c1MTE1MDUsMTIyNTg0NDk4Ml19
 -->
