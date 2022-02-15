@@ -15,7 +15,14 @@ The scientist has to be aware of hid responsabilities
 novels of Stevenson:
 * treasure Island
 * The strange case of Dr Jekyll and Mr Hide
+
+p 223
+
+Mr Utterson
+
+bitter expression
+harsh, cold expression
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTI5MDg5OSwyNDc1MTE1MDUsMTIyNT
+eyJoaXN0b3J5IjpbMTE5MjcyOTQ4MywyNDc1MTE1MDUsMTIyNT
 g0NDk4Ml19
 -->
