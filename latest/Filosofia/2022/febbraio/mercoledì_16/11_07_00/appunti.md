@@ -29,6 +29,14 @@ nell'ottica cristiana Dio ha voluto gli umani
 caducità
 
 carattere transitorio degli esseri umani
+
+
+non possiamo non trovarci in sintonia col cristianesimo
+
+molta attenzione per concretezza umana
+
+1. Gesù incarnato
+2. Dio cristiano è un dio personake
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM0MjQ3OSwxMTAxOTQ0NzQ3XX0=
+eyJoaXN0b3J5IjpbMTI5MTUxOTU4NiwxMTAxOTQ0NzQ3XX0=
 -->
