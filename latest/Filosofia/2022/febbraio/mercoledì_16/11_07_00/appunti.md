@@ -22,6 +22,9 @@ stare fuori dalla struttura ultima e necessaria del mondo
 essenza: necessaria
 
 esistenza: solo possibile
+
+
+nell'ottica cristiana Dio ha voluto gli umani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjcwMTkzMzNdfQ==
+eyJoaXN0b3J5IjpbMTEwMTk0NDc0N119
 -->
