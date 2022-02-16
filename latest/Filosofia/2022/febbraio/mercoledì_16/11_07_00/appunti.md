@@ -25,6 +25,10 @@ esistenza: solo possibile
 
 
 nell'ottica cristiana Dio ha voluto gli umani
+
+caducità
+
+carattere transitorio degli esseri umani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTk0NDc0N119
+eyJoaXN0b3J5IjpbLTEwMTM0MjQ3OSwxMTAxOTQ0NzQ3XX0=
 -->
