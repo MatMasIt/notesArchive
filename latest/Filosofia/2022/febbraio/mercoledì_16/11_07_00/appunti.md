@@ -51,8 +51,16 @@ secondo kirkegaard la condizione umana non è caratterizzata dalla _necessità_ 
 
 ultime 3 righe della prima colonna di p 26
 
-Se sappiamo che quello che non sceglieremo lo perseremo, angoscia ci può portare alla paralisi
+Possbilità angosciante
+1.
+2. Se sappiamo che quello che non sceglieremo lo perderemo, angoscia ci può portare alla paralisi
+3.  potrei scegliere il male
+
+non ottimismo
+
+
+libertà e responsabilità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTc0MDgwNyw4OTMxMzgxOTAsLTQxNz
-MzODk0OCw4MzEwMDgyMjIsMTEwMTk0NDc0N119
+eyJoaXN0b3J5IjpbNTIyNjQwODU1LDg5MzEzODE5MCwtNDE3Mz
+M4OTQ4LDgzMTAwODIyMiwxMTAxOTQ0NzQ3XX0=
 -->
