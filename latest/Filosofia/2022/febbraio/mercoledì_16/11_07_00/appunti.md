@@ -39,8 +39,12 @@ molta attenzione per concretezza umana
 2. Dio cristiano è un dio personale
 non è Dio distante senza rapporti con umani
 
-secon
+secondo Kirkegaaard il cristianesimo non è rassicurante, è una fede assolutamente cieca
+
+p 23
+
+Simbolo: figura di Abramo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3MDMxMjc0LDgzMTAwODIyMiwxMTAxOT
-Q0NzQ3XX0=
+eyJoaXN0b3J5IjpbLTQxNzMzODk0OCw4MzEwMDgyMjIsMTEwMT
+k0NDc0N119
 -->
