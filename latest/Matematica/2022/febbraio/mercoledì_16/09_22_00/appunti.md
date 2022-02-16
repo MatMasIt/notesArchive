@@ -31,6 +31,18 @@ $$
 
 
 $$
+y-f(\varepsilon)=f'(x)(x-\overline x)
+$$
+
+
+$$
+\overline y = \ln^2\overline x-\ln \overline x
+$$
+
+
+$$
+y'=\frac{2\ln x}x-\frac1x=\frac{2\ln x-1}x
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDU0NTUyNSwtNDcwODA5NDI2XX0=
+eyJoaXN0b3J5IjpbLTE2ODAxNTY1ODMsLTQ3MDgwOTQyNl19
 -->
