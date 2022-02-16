@@ -36,7 +36,8 @@ non possiamo non trovarci in sintonia col cristianesimo
 molta attenzione per concretezza umana
 
 1. Gesù incarnato
-2. Dio cristiano è un dio personake
+2. Dio cristiano è un dio personale
+non è Dio distante senza rapporti con umani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTUxOTU4NiwxMTAxOTQ0NzQ3XX0=
+eyJoaXN0b3J5IjpbODMxMDA4MjIyLDExMDE5NDQ3NDddfQ==
 -->
