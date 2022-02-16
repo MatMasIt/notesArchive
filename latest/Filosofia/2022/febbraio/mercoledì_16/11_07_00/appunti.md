@@ -8,7 +8,20 @@ Kirkegaard non contesta Hegel
 Il senso della filosofia è indagare la concreta esistenza dei singoli individui
 
 
-Sensibilità f
+Sensibilità filosofiche diverse
+
+Influenza mentalità romntica
+ 
+esistenza
+
+
+ex sistere "stare fuori"
+
+stare fuori dalla struttura ultima e necessaria del mondo
+
+essenza: necessaria
+
+esistenza: solo possibile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzU3OTcwNl19
+eyJoaXN0b3J5IjpbLTE3MjcwMTkzMzNdfQ==
 -->
