@@ -49,8 +49,8 @@ Simbolo: figura di Abramo
 secondo kirkegaard la condizione umana non è caratterizzata dalla _necessità_ ma dalla possibilità, dimensione nella cui noi viviamo
 
 
-ultime 3 righe 
+ultime 3 righe della prima colonna di p 26
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE1MjIxMzQsLTQxNzMzODk0OCw4Mz
-EwMDgyMjIsMTEwMTk0NDc0N119
+eyJoaXN0b3J5IjpbODkzMTM4MTkwLC00MTczMzg5NDgsODMxMD
+A4MjIyLDExMDE5NDQ3NDddfQ==
 -->
