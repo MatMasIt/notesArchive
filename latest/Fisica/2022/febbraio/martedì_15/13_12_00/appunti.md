@@ -17,7 +17,7 @@ $$
 
 
 
-Capacità di un codnensatore direttamente proporzionale alla superficie e inversamente proporzionale alla distanza tra le superfi
+Capacità di un codnensatore direttamente proporzionale alla superficie e inversamente proporzionale alla distanza tra le superfici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYwMTEyMzJdfQ==
+eyJoaXN0b3J5IjpbNTAyNzA2NDI2XX0=
 -->
