@@ -44,7 +44,13 @@ secondo Kirkegaaard il cristianesimo non è rassicurante, è una fede assolutame
 p 23
 
 Simbolo: figura di Abramo
+
+
+secondo kirkegaard la condizione umana non è caratterizzata dalla _necessità_ ma dalla possibilità, dimensione nella cui noi viviamo
+
+
+ultime 3 righe 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzMzODk0OCw4MzEwMDgyMjIsMTEwMT
-k0NDc0N119
+eyJoaXN0b3J5IjpbLTIxNDE1MjIxMzQsLTQxNzMzODk0OCw4Mz
+EwMDgyMjIsMTEwMTk0NDc0N119
 -->
