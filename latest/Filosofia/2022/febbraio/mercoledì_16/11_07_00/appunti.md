@@ -38,6 +38,9 @@ molta attenzione per concretezza umana
 1. Gesù incarnato
 2. Dio cristiano è un dio personale
 non è Dio distante senza rapporti con umani
+
+secon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMDA4MjIyLDExMDE5NDQ3NDddfQ==
+eyJoaXN0b3J5IjpbMzI3MDMxMjc0LDgzMTAwODIyMiwxMTAxOT
+Q0NzQ3XX0=
 -->
