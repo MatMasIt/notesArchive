@@ -65,7 +65,16 @@ Macchina di Wimshurst con due bottiglie di leida: condensatore per grandi carich
 Rottura del dielettrico: fulmine, scarica
 
 
+
+Condensatore
+
+     |+|          |-|
+     |+|          |-|
+     |+|          |-|
+     |+|          |-|
+     Anodo      Catodo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDgzNTYwODEsMTY4MzIxMzgwMSwtMT
-c2ODkxNzUzMywtMTExMjQ3NTEsLTc4ODAxNzM0MV19
+eyJoaXN0b3J5IjpbLTE0OTc1NzI4ODEsLTEzMDgzNTYwODEsMT
+Y4MzIxMzgwMSwtMTc2ODkxNzUzMywtMTExMjQ3NTEsLTc4ODAx
+NzM0MV19
 -->
