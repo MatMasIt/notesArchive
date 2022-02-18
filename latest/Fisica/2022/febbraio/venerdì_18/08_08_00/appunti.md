@@ -47,6 +47,11 @@ La superficie esterna è quella in cui ciò è meglio possibile
 
 
 Se non ci sono cariche nella parte interna della sfera, non esiste il campo elettrico
+
+> Linea di campo: inviluppo[^1] delle tangenti che rappresentano i vettori-campo
+
+[^1] I
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTI0NzUxLC03ODgwMTczNDFdfQ==
+eyJoaXN0b3J5IjpbLTQwMjcxNTE3NywtMTExMjQ3NTEsLTc4OD
+AxNzM0MV19
 -->
