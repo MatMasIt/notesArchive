@@ -23,7 +23,19 @@ positiva: si incentiva la nascita di individui con tratti desiderati
 
 
 Nel 1907 lo stato dell'Indiana impone sterilizzazione dei pazienti negli ospedali psichiatrici
+
+
+
+Scandinavia
+
+Germania nel regime  nazista (Luglio '33)
+
+sterilizzazione forzata di tutti i soggeti con malattie ereditarie
+
+Francis Gallton, Cugino di Chalres Darwin
+
+1869, coniato il termine "Eugenetica"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2MDMxMTk3LDI1Mjg0MDAyOSwxNTQ4NT
-E0ODc0XX0=
+eyJoaXN0b3J5IjpbLTExMjkyNzg3NzgsMjUyODQwMDI5LDE1ND
+g1MTQ4NzRdfQ==
 -->
