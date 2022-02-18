@@ -73,8 +73,12 @@ Condensatore
      |+|          |-|
      |+|          |-|
      Anodo      Catodo
+
+$$
+\Delta V
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTc1NzI4ODEsLTEzMDgzNTYwODEsMT
-Y4MzIxMzgwMSwtMTc2ODkxNzUzMywtMTExMjQ3NTEsLTc4ODAx
-NzM0MV19
+eyJoaXN0b3J5IjpbMTQxMDg3MDA0MywtMTQ5NzU3Mjg4MSwtMT
+MwODM1NjA4MSwxNjgzMjEzODAxLC0xNzY4OTE3NTMzLC0xMTEy
+NDc1MSwtNzg4MDE3MzQxXX0=
 -->
