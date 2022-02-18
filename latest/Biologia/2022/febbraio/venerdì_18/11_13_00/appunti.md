@@ -34,8 +34,10 @@ Raschaire i batteri facendo attenzione a non prendere il terreno di coltura
 inserire in + e in -
 
 nella + metteremo il plasmide, nell'altra no
-3 microlitrircodio madinaa
+3 microlitri
+
+Ghiaccio / sciocc temico / ghiaccio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIwMzUwNzEsOTY5NjUxOTcwLC0xMD
-MzMjc5NDE0XX0=
+eyJoaXN0b3J5IjpbODI0ODc1Nzk5LDk2OTY1MTk3MCwtMTAzMz
+I3OTQxNF19
 -->
