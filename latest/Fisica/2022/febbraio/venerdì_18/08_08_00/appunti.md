@@ -22,7 +22,18 @@ $$
 S\to\text{ superficie gaussiana}
 $$
 
-superficie chiusa che circonda u
+superficie chiusa che circonda un volume
+
+
+Teorema di Gauss
+
+$$
+\Phi\left(\vec E\right)=\frac{\sum_iq_i}{\varepsilon_r\varepsilon_0}
+$$
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODEzNTc2MV19
+eyJoaXN0b3J5IjpbLTI0ODM2MzMwM119
 -->
