@@ -36,10 +36,20 @@ inserire in + e in -
 nella + metteremo il plasmide, nell'altra no
 3 microlitri
 
-Ghiaccio / sciocc temico / ghiaccio
+Ghiaccio / sciocc temico / ghiaccio / in forno per 30 min
+
+
+LB
+
+terreno di coltura liquido
+
+Piastra in 4 settori
+
+LB  
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzIyMjI2MDUsODI0ODc1Nzk5LDk2OT
-Y1MTk3MCwtMTAzMzI3OTQxNF19
+eyJoaXN0b3J5IjpbLTY0NTMwNDU1MSw4MjQ4NzU3OTksOTY5Nj
+UxOTcwLC0xMDMzMjc5NDE0XX0=
 -->
