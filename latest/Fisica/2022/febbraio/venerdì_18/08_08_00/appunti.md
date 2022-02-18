@@ -86,8 +86,23 @@ $$
 Campo elettrico puntiforme
 
 formula del campo si può ottenere dal flusso
+
+
+
+
+
+
+-----
+
+
+
+
+$$
+\Phi\left(\vec E\right)=\sum_{i=1}^3\Phi\left(\vec E \right)_i=\Phi
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY5NjUwMDMsMTkyODIyMjY5NCwtMT
-Q5NzU3Mjg4MSwtMTMwODM1NjA4MSwxNjgzMjEzODAxLC0xNzY4
-OTE3NTMzLC0xMTEyNDc1MSwtNzg4MDE3MzQxXX0=
+eyJoaXN0b3J5IjpbLTEyOTM1MDM4MDEsLTE5OTY5NjUwMDMsMT
+kyODIyMjY5NCwtMTQ5NzU3Mjg4MSwtMTMwODM1NjA4MSwxNjgz
+MjEzODAxLC0xNzY4OTE3NTMzLC0xMTEyNDc1MSwtNzg4MDE3Mz
+QxXX0=
 -->
