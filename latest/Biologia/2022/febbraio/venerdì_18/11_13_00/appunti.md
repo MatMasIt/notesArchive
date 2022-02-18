@@ -21,6 +21,10 @@ Occorrono tecniche per creare lacerazioni nelle pareti cellulari per fare entrar
 si possono usare varie tecniche (come shock elettrico)
 
 noi useremo shock termico
+
+Useremo il cloruro di calcio (che dissocia) per neutralizzare la carica negativa del plasmide, per faro entrare
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg1MDM5NV19
+eyJoaXN0b3J5IjpbLTEwMzMyNzk0MTRdfQ==
 -->
