@@ -58,8 +58,8 @@ Linee di campo radiali uscent
 
 campo elettrico in una superficie cava è ==nullo==
 
-
+Il flusso è $0$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg5MTc1MzMsLTExMTI0NzUxLC03OD
-gwMTczNDFdfQ==
+eyJoaXN0b3J5IjpbLTU0MTM0Mzc1NiwtMTc2ODkxNzUzMywtMT
+ExMjQ3NTEsLTc4ODAxNzM0MV19
 -->
