@@ -111,11 +111,14 @@ $$
 $$
 
 $$
-E=\frac{Q}{S_2\\va
+E=\frac{Q}{S_2\varepsilon_0}=\frac{\sigma}{\varepsilon_0}
 $$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTMxMTUwNywtMTk5Njk2NTAwMywxOT
-I4MjIyNjk0LC0xNDk3NTcyODgxLC0xMzA4MzU2MDgxLDE2ODMy
-MTM4MDEsLTE3Njg5MTc1MzMsLTExMTI0NzUxLC03ODgwMTczND
-FdfQ==
+eyJoaXN0b3J5IjpbLTE3MDg5Njg4MDMsLTE5OTY5NjUwMDMsMT
+kyODIyMjY5NCwtMTQ5NzU3Mjg4MSwtMTMwODM1NjA4MSwxNjgz
+MjEzODAxLC0xNzY4OTE3NTMzLC0xMTEyNDc1MSwtNzg4MDE3Mz
+QxXX0=
 -->
