@@ -35,7 +35,10 @@ sterilizzazione forzata di tutti i soggeti con malattie ereditarie
 Francis Gallton, Cugino di Chalres Darwin
 
 1869, coniato il termine "Eugenetica"
+
+
+cons
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjkyNzg3NzgsMjUyODQwMDI5LDE1ND
-g1MTQ4NzRdfQ==
+eyJoaXN0b3J5IjpbMTkyOTM5MTI5NSwtMTEyOTI3ODc3OCwyNT
+I4NDAwMjksMTU0ODUxNDg3NF19
 -->
