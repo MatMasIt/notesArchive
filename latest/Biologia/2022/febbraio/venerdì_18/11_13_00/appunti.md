@@ -45,8 +45,8 @@ terreno di coltura liquido
 
 Piastra in 4 settori
 
-					1|2
-					3|4
+					1|3
+					3|2
 
 
 	LB     (-)        | LB+AMP+ARABINOSIO  (+)
@@ -61,6 +61,7 @@ Utilizzeremo metodologia a goccioalamento
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Njk0ODM3MiwxODc0NTQ3NzkyLDgyND
-g3NTc5OSw5Njk2NTE5NzAsLTEwMzMyNzk0MTRdfQ==
+eyJoaXN0b3J5IjpbMTMyOTQyMTIzMSwtNTc2OTQ4MzcyLDE4Nz
+Q1NDc3OTIsODI0ODc1Nzk5LDk2OTY1MTk3MCwtMTAzMzI3OTQx
+NF19
 -->
