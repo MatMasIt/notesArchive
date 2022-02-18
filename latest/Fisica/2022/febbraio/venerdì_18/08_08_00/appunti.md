@@ -77,8 +77,13 @@ Condensatore
 $$
 \Delta V
 $$
+
+
+$$
+\vec E =-\frac{\Delta V}{\vec d}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDg3MDA0MywtMTQ5NzU3Mjg4MSwtMT
+eyJoaXN0b3J5IjpbMTkyODIyMjY5NCwtMTQ5NzU3Mjg4MSwtMT
 MwODM1NjA4MSwxNjgzMjEzODAxLC0xNzY4OTE3NTMzLC0xMTEy
 NDc1MSwtNzg4MDE3MzQxXX0=
 -->
