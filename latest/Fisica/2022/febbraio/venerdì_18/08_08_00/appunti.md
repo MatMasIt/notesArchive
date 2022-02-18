@@ -46,7 +46,7 @@ densità di carica uniforme
 La superficie esterna è quella in cui ciò è meglio possibile
 
 
-Se non ci sono cariche nella parte i
+Se non ci sono cariche nella parte interna della sfera, non esiste il campo elettrico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjIxMjQ3MiwtNzg4MDE3MzQxXX0=
+eyJoaXN0b3J5IjpbLTExMTI0NzUxLC03ODgwMTczNDFdfQ==
 -->
