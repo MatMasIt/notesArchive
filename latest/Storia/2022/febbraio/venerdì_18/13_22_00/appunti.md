@@ -19,7 +19,8 @@ pratiche eugenetiche
 eugenetica positiva e negativa
 
 negativa: evitare la riproduzione di soggetti portatore di tratti indesiderati
+positiva: si incentiva la nascita di individui con tratti desiderati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzIyNjExNSwyNTI4NDAwMjksMTU0OD
-UxNDg3NF19
+eyJoaXN0b3J5IjpbMzA2NTIxNTc3LDI1Mjg0MDAyOSwxNTQ4NT
+E0ODc0XX0=
 -->
