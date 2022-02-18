@@ -37,7 +37,14 @@ $$
 
 Nella cupola della macchina di _Van der Graaf_
 
+sfera cava
+
+Cariche uguali: si distriuiscono tutte sulla superficie esterna, tendendo a respingersi (stando più distanti possibili)
+
+densità di carica uniforme
+
+La superficie esterna è quella in cui ciò è meglio possibile
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjQxOTQ5MywtNzg4MDE3MzQxXX0=
+eyJoaXN0b3J5IjpbLTM2ODE5ODM1MCwtNzg4MDE3MzQxXX0=
 -->
