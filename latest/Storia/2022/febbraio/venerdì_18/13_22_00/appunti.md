@@ -20,7 +20,10 @@ eugenetica positiva e negativa
 
 negativa: evitare la riproduzione di soggetti portatore di tratti indesiderati
 positiva: si incentiva la nascita di individui con tratti desiderati
+
+
+Nel 1907 lo stato dell'Indiana impone sterilizzazione dei pazienti negli ospedali psichiatrici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2NTIxNTc3LDI1Mjg0MDAyOSwxNTQ4NT
+eyJoaXN0b3J5IjpbMjY2MDMxMTk3LDI1Mjg0MDAyOSwxNTQ4NT
 E0ODc0XX0=
 -->
