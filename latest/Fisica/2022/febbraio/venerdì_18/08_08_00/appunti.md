@@ -28,12 +28,16 @@ superficie chiusa che circonda un volume
 Teorema di Gauss
 
 $$
-\Phi\left(\vec E\right)=\frac{\sum_iq_i}{\varepsilon_r\varepsilon_0}
+\Phi\left(\vec E\right)=\frac{\boxed{\sum_iq_i}}{\varepsilon_r\varepsilon_0}
+$$
+
+$$
+\boxed{}\to solo\text{ le cariche interne}
 $$
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODM2MzMwM119
+eyJoaXN0b3J5IjpbLTc4ODAxNzM0MV19
 -->
