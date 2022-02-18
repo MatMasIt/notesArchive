@@ -98,11 +98,11 @@ formula del campo si può ottenere dal flusso
 
 
 $$
-\Phi\left(\vec E\right)=\sum_{i=1}^3\Phi\left(\vec E \right)_i=\Phi
+\Phi\left(\vec E\right)=\sum_{i=1}^3\Phi\left(\vec E \right)_i=\Phi_{S_1}\left(\vec E\right)+\Phi_{S_2}\left(\vec E\right)+\Phi_{S_l}\left(\vec E\right)=0+\Phi_{S_2}\left(\vec E\right)+0
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM1MDM4MDEsLTE5OTY5NjUwMDMsMT
-kyODIyMjY5NCwtMTQ5NzU3Mjg4MSwtMTMwODM1NjA4MSwxNjgz
-MjEzODAxLC0xNzY4OTE3NTMzLC0xMTEyNDc1MSwtNzg4MDE3Mz
-QxXX0=
+eyJoaXN0b3J5IjpbNzMxODM2NzU4LC0xOTk2OTY1MDAzLDE5Mj
+gyMjI2OTQsLTE0OTc1NzI4ODEsLTEzMDgzNTYwODEsMTY4MzIx
+MzgwMSwtMTc2ODkxNzUzMywtMTExMjQ3NTEsLTc4ODAxNzM0MV
+19
 -->
