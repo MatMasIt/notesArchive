@@ -37,7 +37,9 @@ nella + metteremo il plasmide, nell'altra no
 3 microlitri
 
 Ghiaccio / sciocc temico / ghiaccio
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0ODc1Nzk5LDk2OTY1MTk3MCwtMTAzMz
-I3OTQxNF19
+eyJoaXN0b3J5IjpbLTE4MzIyMjI2MDUsODI0ODc1Nzk5LDk2OT
+Y1MTk3MCwtMTAzMzI3OTQxNF19
 -->
