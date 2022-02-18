@@ -60,9 +60,12 @@ campo elettrico in una superficie cava è ==nullo==
 
 Il flusso è $0$, allora il campo elettrico è $0$
 
+Macchina di Wimshurst con due bottiglie di leida: condensatore per grandi cariche
+
+Rottura del dielettrico: fulmine, scarica
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzIxMzgwMSwtMTc2ODkxNzUzMywtMT
-ExMjQ3NTEsLTc4ODAxNzM0MV19
+eyJoaXN0b3J5IjpbLTEzMDgzNTYwODEsMTY4MzIxMzgwMSwtMT
+c2ODkxNzUzMywtMTExMjQ3NTEsLTc4ODAxNzM0MV19
 -->
