@@ -50,8 +50,8 @@ Se non ci sono cariche nella parte interna della sfera, non esiste il campo elet
 
 > Linea di campo: inviluppo[^1] delle tangenti che rappresentano i vettori-campo
 
-[^1] I
+[^1]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjcxNTE3NywtMTExMjQ3NTEsLTc4OD
+eyJoaXN0b3J5IjpbLTQ0MjY0NzgxNCwtMTExMjQ3NTEsLTc4OD
 AxNzM0MV19
 -->
