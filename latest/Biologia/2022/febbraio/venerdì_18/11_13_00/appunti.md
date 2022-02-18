@@ -45,15 +45,20 @@ terreno di coltura liquido
 
 Piastra in 4 settori
 
+1|2
+3|4
 
-	LB     (-)           | LB+AMP+ARABINOSIO  (+)
+
+	LB     (-)        | LB+AMP+ARABINOSIO  (+)
 	------------------|-----------------
 	LB+AMP            |      LB + AMP
-	(antibiotico)  
-	                  |          (+)
+	(antibiotico)     | 
+	      (-)         |          (+)
 
 
+
+Utilizzeremo metodologia a goccioalamento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTczNDczMDEsODI0ODc1Nzk5LDk2OT
-Y1MTk3MCwtMTAzMzI3OTQxNF19
+eyJoaXN0b3J5IjpbMTg3NDU0Nzc5Miw4MjQ4NzU3OTksOTY5Nj
+UxOTcwLC0xMDMzMjc5NDE0XX0=
 -->
