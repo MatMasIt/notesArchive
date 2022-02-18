@@ -39,8 +39,15 @@ Francis Gallton, Cugino di Chalres Darwin
 
 contro i conquistatori: tattiche di guerriglia
 
-nuova strategia: deportare popolazione in luoghi deportati e recintati per
+nuova strategia: deportare popolazione in luoghi deportati e recintati per fare in modo che non aiutino ribelli
+
+campo di concentramento, prima volta a Cuba, nel 1896
+
+poi USA aiutano ribelli e instalalo governo fantoccio
+
+
+nel 1900 gli USA lo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4MTk1OTIsLTExMjkyNzg3NzgsMjUyOD
-QwMDI5LDE1NDg1MTQ4NzRdfQ==
+eyJoaXN0b3J5IjpbMjAyMjE0NDUzNiwtMTEyOTI3ODc3OCwyNT
+I4NDAwMjksMTU0ODUxNDg3NF19
 -->
