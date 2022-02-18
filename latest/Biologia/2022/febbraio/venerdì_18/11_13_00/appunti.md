@@ -33,7 +33,8 @@ Raschaire i batteri facendo attenzione a non prendere il terreno di coltura
 
 inserire in + e in -
 
+nella + metteremo il plasmide, nell'altra no
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTU1ODg5NywtMTAzMzI3OTQxNF19
+eyJoaXN0b3J5IjpbMTA1Mzg0MDg4OSwtMTAzMzI3OTQxNF19
 -->
