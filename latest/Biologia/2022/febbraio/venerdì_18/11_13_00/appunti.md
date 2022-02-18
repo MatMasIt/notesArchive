@@ -28,6 +28,8 @@ Useremo il cloruro di calcio[$CaCl_2$] (che dissocia) per neutralizzare la caric
 
 Step 1
 preleviamo CaCl2 e lo inseriamo in + e in - (provette Eppendorf)
+
+Raschaire i batteri 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjQ1MzcwOCwtMTAzMzI3OTQxNF19
+eyJoaXN0b3J5IjpbLTM5NDEzODkxOCwtMTAzMzI3OTQxNF19
 -->
