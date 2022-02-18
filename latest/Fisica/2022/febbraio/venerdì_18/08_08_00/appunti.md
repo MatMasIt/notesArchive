@@ -50,8 +50,10 @@ Se non ci sono cariche nella parte interna della sfera, non esiste il campo elet
 
 > Linea di campo: inviluppo[^1] delle tangenti che rappresentano i vettori-campo
 
-[^1]: Insieme della tangenti ad una determinata curva che la determinano attraverso ai punti di tan
+[^1]: Insieme della tangenti ad una determinata curva che la determinano attraverso ai punti di tangenza
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzI4NjQ2NCwtMTExMjQ3NTEsLTc4OD
-AxNzM0MV19
+eyJoaXN0b3J5IjpbNjE0NTM5MTMsLTExMTI0NzUxLC03ODgwMT
+czNDFdfQ==
 -->
