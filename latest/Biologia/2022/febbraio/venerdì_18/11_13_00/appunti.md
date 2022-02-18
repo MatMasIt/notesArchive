@@ -45,11 +45,15 @@ terreno di coltura liquido
 
 Piastra in 4 settori
 
-LB  
 
+	LB     (-)           | LB+AMP+ARABINOSIO  (+)
+	------------------|-----------------
+	LB+AMP            |      LB + AMP
+	(antibiotico)  
+	                  |          (+)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTMwNDU1MSw4MjQ4NzU3OTksOTY5Nj
-UxOTcwLC0xMDMzMjc5NDE0XX0=
+eyJoaXN0b3J5IjpbLTE3NTczNDczMDEsODI0ODc1Nzk5LDk2OT
+Y1MTk3MCwtMTAzMzI3OTQxNF19
 -->
