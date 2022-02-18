@@ -45,6 +45,8 @@ densità di carica uniforme
 
 La superficie esterna è quella in cui ciò è meglio possibile
 
+
+Se non ci sono cariche nella parte i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODE5ODM1MCwtNzg4MDE3MzQxXX0=
+eyJoaXN0b3J5IjpbLTcwNjIxMjQ3MiwtNzg4MDE3MzQxXX0=
 -->
