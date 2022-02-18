@@ -115,10 +115,13 @@ E=\frac{Q}{S_2\varepsilon_0}=\frac{\sigma}{\varepsilon_0}
 $$
 
 
+$$
+c=\frac{Q}{\Delta V}\qquad\frac{
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg5Njg4MDMsLTE5OTY5NjUwMDMsMT
-kyODIyMjY5NCwtMTQ5NzU3Mjg4MSwtMTMwODM1NjA4MSwxNjgz
-MjEzODAxLC0xNzY4OTE3NTMzLC0xMTEyNDc1MSwtNzg4MDE3Mz
-QxXX0=
+eyJoaXN0b3J5IjpbMjY3NzgxMDMxLC0xOTk2OTY1MDAzLDE5Mj
+gyMjI2OTQsLTE0OTc1NzI4ODEsLTEzMDgzNTYwODEsMTY4MzIx
+MzgwMSwtMTc2ODkxNzUzMywtMTExMjQ3NTEsLTc4ODAxNzM0MV
+19
 -->
