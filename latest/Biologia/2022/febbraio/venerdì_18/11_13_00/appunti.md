@@ -11,9 +11,16 @@ selezioniamo batteri trasformati
 ![](https://i.imgur.com/jjYCS12.jpg)
 
 
-_ARAc_: Catabolismo dell'Arabinosio
-_AMP^R^_:Resistenza Ampicillina
-_GFP_: 
+**ARAc**: Catabolismo dell'Arabinosio
+**AMP^R^**:Resistenza Ampicillina
+**GFP**: Green Fluoresce Protein
+
+
+Occorrono tecniche per creare lacerazioni nelle pareti cellulari per fare entrare i plasmidi
+
+si possono usare varie tecniche (come shock elettrico)
+
+noi useremo shock termico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTQ2MjI2XX0=
+eyJoaXN0b3J5IjpbLTEwMDg1MDM5NV19
 -->
