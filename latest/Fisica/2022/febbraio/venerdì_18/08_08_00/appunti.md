@@ -35,9 +35,9 @@ $$
 \boxed{}\to solo\text{ le cariche interne}
 $$
 
-
+Nella cupola della macchina di _Van der Graaf_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODAxNzM0MV19
+eyJoaXN0b3J5IjpbLTIyNjQxOTQ5MywtNzg4MDE3MzQxXX0=
 -->
