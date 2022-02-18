@@ -100,9 +100,22 @@ formula del campo si può ottenere dal flusso
 $$
 \Phi\left(\vec E\right)=\sum_{i=1}^3\Phi\left(\vec E \right)_i=\Phi_{S_1}\left(\vec E\right)+\Phi_{S_2}\left(\vec E\right)+\Phi_{S_l}\left(\vec E\right)=0+\Phi_{S_2}\left(\vec E\right)+0
 $$
+
+
+$$
+\Phi_{S_2}\left(\vec E\right)=E\cdot S_2
+$$
+
+$$
+\Phi_{S_2}\left(\vec E\right)=\frac{Q}{\varepsilon_0}
+$$
+
+$$
+E=\frac{Q}{S_2\\va
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxODM2NzU4LC0xOTk2OTY1MDAzLDE5Mj
-gyMjI2OTQsLTE0OTc1NzI4ODEsLTEzMDgzNTYwODEsMTY4MzIx
-MzgwMSwtMTc2ODkxNzUzMywtMTExMjQ3NTEsLTc4ODAxNzM0MV
-19
+eyJoaXN0b3J5IjpbMTAxOTMxMTUwNywtMTk5Njk2NTAwMywxOT
+I4MjIyNjk0LC0xNDk3NTcyODgxLC0xMzA4MzU2MDgxLDE2ODMy
+MTM4MDEsLTE3Njg5MTc1MzMsLTExMTI0NzUxLC03ODgwMTczND
+FdfQ==
 -->
