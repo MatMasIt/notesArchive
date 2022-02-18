@@ -82,8 +82,12 @@ $$
 $$
 \vec E =-\frac{\Delta V}{\vec d}
 $$
+
+Campo elettrico puntiforme
+
+formula del campo si può ottenere equagliando 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODIyMjY5NCwtMTQ5NzU3Mjg4MSwtMT
-MwODM1NjA4MSwxNjgzMjEzODAxLC0xNzY4OTE3NTMzLC0xMTEy
-NDc1MSwtNzg4MDE3MzQxXX0=
+eyJoaXN0b3J5IjpbNjY1OTk0MzQsMTkyODIyMjY5NCwtMTQ5Nz
+U3Mjg4MSwtMTMwODM1NjA4MSwxNjgzMjEzODAxLC0xNzY4OTE3
+NTMzLC0xMTEyNDc1MSwtNzg4MDE3MzQxXX0=
 -->
