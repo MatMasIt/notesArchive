@@ -52,8 +52,14 @@ Se non ci sono cariche nella parte interna della sfera, non esiste il campo elet
 
 [^1]: Insieme della tangenti ad una determinata curva che la determinano attraverso ai punti di tangenza
 
+Su una sfera cava
+
+Linee di campo radiali uscent
+
+campo elettrico in una superficie cava è ==nullo==
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NTM5MTMsLTExMTI0NzUxLC03ODgwMT
-czNDFdfQ==
+eyJoaXN0b3J5IjpbLTE3Njg5MTc1MzMsLTExMTI0NzUxLC03OD
+gwMTczNDFdfQ==
 -->
