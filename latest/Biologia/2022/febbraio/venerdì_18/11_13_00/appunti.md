@@ -24,8 +24,10 @@ noi useremo shock termico
 
 Useremo il cloruro di calcio[$CaCl_2$] (che dissocia) per neutralizzare la carica negativa del plasmide, per faro entrare
 
+---
 
+Step 1
+preleviamo CaCl2 e lo inseriamo in + e in - (provette Eppendorf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQxODk3ODYsLTEwMzMyNzk0MTRdfQ
-==
+eyJoaXN0b3J5IjpbLTg4MjQ1MzcwOCwtMTAzMzI3OTQxNF19
 -->
