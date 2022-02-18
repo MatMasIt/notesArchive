@@ -8,7 +8,12 @@ uccidiamo i batteri senza plasmide ricevuto
 
 selezioniamo batteri trasformati
 
+![](https://i.imgur.com/jjYCS12.jpg)
 
+
+_ARAc_: Catabolismo dell'Arabinosio
+_AMP^R^_:Resistenza Ampicillina
+_GFP_: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODU0OTc5NV19
+eyJoaXN0b3J5IjpbMTIzOTQ2MjI2XX0=
 -->
