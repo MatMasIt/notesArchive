@@ -12,6 +12,14 @@ politica immigrazione USA
 1894 
 perdita purezza razza
 nasce la lega per la restrizione dell'immigrazione (1894, costituita da studiosi di scienze sociali)
+
+
+pratiche eugenetiche
+
+eugenetica positiva e negativa
+
+negativa: evitare la riproduzione di soggetti portatore di tratti indesiderati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyODQwMDI5LDE1NDg1MTQ4NzRdfQ==
+eyJoaXN0b3J5IjpbMTgyMzIyNjExNSwyNTI4NDAwMjksMTU0OD
+UxNDg3NF19
 -->
