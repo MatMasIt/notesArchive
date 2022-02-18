@@ -30,6 +30,10 @@ Step 1
 preleviamo CaCl2 e lo inseriamo in + e in - (provette Eppendorf)
 
 Raschaire i batteri facendo attenzione a non prendere il terreno di coltura 
+
+inserire in + e in -
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjUxMTE1OSwtMTAzMzI3OTQxNF19
+eyJoaXN0b3J5IjpbMTI0MTU1ODg5NywtMTAzMzI3OTQxNF19
 -->
