@@ -85,9 +85,9 @@ $$
 
 Campo elettrico puntiforme
 
-formula del campo si può ottenere equagliando 
+formula del campo si può ottenere dal flusso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1OTk0MzQsMTkyODIyMjY5NCwtMTQ5Nz
-U3Mjg4MSwtMTMwODM1NjA4MSwxNjgzMjEzODAxLC0xNzY4OTE3
-NTMzLC0xMTEyNDc1MSwtNzg4MDE3MzQxXX0=
+eyJoaXN0b3J5IjpbLTE5OTY5NjUwMDMsMTkyODIyMjY5NCwtMT
+Q5NzU3Mjg4MSwtMTMwODM1NjA4MSwxNjgzMjEzODAxLC0xNzY4
+OTE3NTMzLC0xMTEyNDc1MSwtNzg4MDE3MzQxXX0=
 -->
