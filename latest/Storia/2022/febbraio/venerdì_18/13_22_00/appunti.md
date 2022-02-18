@@ -37,8 +37,10 @@ Francis Gallton, Cugino di Chalres Darwin
 1869, coniato il termine "Eugenetica"
 
 
-cons
+contro i conquistatori: tattiche di guerriglia
+
+nuova strategia: deportare popolazione in luoghi deportati e recintati per
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTM5MTI5NSwtMTEyOTI3ODc3OCwyNT
-I4NDAwMjksMTU0ODUxNDg3NF19
+eyJoaXN0b3J5IjpbODc4MTk1OTIsLTExMjkyNzg3NzgsMjUyOD
+QwMDI5LDE1NDg1MTQ4NzRdfQ==
 -->
