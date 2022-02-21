@@ -46,8 +46,8 @@ campo di concentramento, prima volta a Cuba, nel 1896
 poi USA aiutano ribelli e instalalo governo fantoccio
 
 
-nel 1900 gli USA lo 
+nel 1900 gli USA li usano  nelle filippine
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjE0NDUzNiwtMTEyOTI3ODc3OCwyNT
-I4NDAwMjksMTU0ODUxNDg3NF19
+eyJoaXN0b3J5IjpbLTExMzA4OTAxNjgsLTExMjkyNzg3NzgsMj
+UyODQwMDI5LDE1NDg1MTQ4NzRdfQ==
 -->
