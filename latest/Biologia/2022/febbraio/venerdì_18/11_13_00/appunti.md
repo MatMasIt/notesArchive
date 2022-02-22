@@ -59,9 +59,11 @@ Piastra in 4 settori
 
 Utilizzeremo metodologia a goccioalamento
 
+Risultato
 
+![](https://i.imgur.com/lAhc2Rx.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTQyMTIzMSwtNTc2OTQ4MzcyLDE4Nz
-Q1NDc3OTIsODI0ODc1Nzk5LDk2OTY1MTk3MCwtMTAzMzI3OTQx
-NF19
+eyJoaXN0b3J5IjpbLTE5OTMxNzAxMDksMTMyOTQyMTIzMSwtNT
+c2OTQ4MzcyLDE4NzQ1NDc3OTIsODI0ODc1Nzk5LDk2OTY1MTk3
+MCwtMTAzMzI3OTQxNF19
 -->
