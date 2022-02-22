@@ -1,4 +1,5 @@
-# DNA fingerprinting (laboratorio)
+# Lezione di Biologia
+## DNA fingerprinting (laboratorio)
 
 Usare enzimi di restrizione sui plasmidi
 
@@ -35,6 +36,8 @@ Usare i guanti con gli intercaanti perchè possono essere pericolosi
 
 ---
 
+## Ripasso
+
 
 Costuire un pGLO
 
@@ -54,7 +57,14 @@ inserire informazioni
 > stesso enzima effettua stessi tagli su campioni uguali
 
 confronto delle bande
+
+
+--- 
+## Conferenza
+
+
+scopo della genetica costantemente cresciuto nel tempo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTA2ODQxOSwtNjUyOTUxNDc5LDg4Nz
-c4NzAwMCwtMTQxNTkyMzYwNyw3MDkxNDIzOTZdfQ==
+eyJoaXN0b3J5IjpbLTE3OTkzMDg5NTgsLTY1Mjk1MTQ3OSw4OD
+c3ODcwMDAsLTE0MTU5MjM2MDcsNzA5MTQyMzk2XX0=
 -->
