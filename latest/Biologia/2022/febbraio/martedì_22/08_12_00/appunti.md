@@ -17,6 +17,11 @@ campioni
 1, 2, 3   e C (colpevole)
 
 cors elettroforetica
+
+17 microlitri di mix in ogni campione
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU5MjM2MDcsNzA5MTQyMzk2XX0=
+eyJoaXN0b3J5IjpbODg3Nzg3MDAwLC0xNDE1OTIzNjA3LDcwOT
+E0MjM5Nl19
 -->
