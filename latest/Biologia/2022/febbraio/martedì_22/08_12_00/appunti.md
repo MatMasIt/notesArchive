@@ -81,8 +81,12 @@ da Wilkins e Franklin
 
 
 struttura a trielica ritirata da Nature per poi una struttra a doppia elica
+
+anni '70, tecnologie di duplicazione del DNA
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODgyMTQyNCwtMjExNTcyMDUzMSwtNj
+eyJoaXN0b3J5IjpbLTM3NTcxMzMwNywtMjExNTcyMDUzMSwtNj
 UyOTUxNDc5LDg4Nzc4NzAwMCwtMTQxNTkyMzYwNyw3MDkxNDIz
 OTZdfQ==
 -->
