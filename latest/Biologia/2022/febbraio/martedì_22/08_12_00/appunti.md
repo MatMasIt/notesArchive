@@ -73,8 +73,11 @@ AA x aa = 100% AA
 2. Legge della segregazione dei caratteri o degli ibridi di seconda generazione
 Aa x aa = 75% Aa 25% aa
 3. Legge dell'indipendenza dei caratteri
-I caratteri si ereditano in modo indipendente
+I caratteri si e	reditano in modo indipendente
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTU3MjA1MzEsLTY1Mjk1MTQ3OSw4OD
-c3ODcwMDAsLTE0MTU5MjM2MDcsNzA5MTQyMzk2XX0=
+eyJoaXN0b3J5IjpbLTE2MjczMTY4MzEsLTIxMTU3MjA1MzEsLT
+Y1Mjk1MTQ3OSw4ODc3ODcwMDAsLTE0MTU5MjM2MDcsNzA5MTQy
+Mzk2XX0=
 -->
