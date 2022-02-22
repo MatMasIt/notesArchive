@@ -44,8 +44,17 @@ generare "sticky ends"
 
 ligasi, il gene di interesse si lega al plasmide
 
-Informazioni trasportate da una molecola all'altra
+Plasmide: capacità di aprirsi
+
+apre/chiude
+
+inserire informazioni
+
+
+> stesso enzima effettua stessi tagli su campioni uguali
+
+confronto delle bande
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjczNjY4NiwtNjUyOTUxNDc5LDg4Nz
+eyJoaXN0b3J5IjpbLTc4OTA2ODQxOSwtNjUyOTUxNDc5LDg4Nz
 c4NzAwMCwtMTQxNTkyMzYwNyw3MDkxNDIzOTZdfQ==
 -->
