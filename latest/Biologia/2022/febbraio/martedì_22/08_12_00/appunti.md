@@ -25,9 +25,14 @@ cors elettroforetica
 in stufa a 37 °C
 
 
-interacalan
+interacalante: midori
 
+
+sequenze colpite dai raggi UV emettono  xluce
+
+
+Usare i guanti 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjk5OTkxNyw4ODc3ODcwMDAsLTE0MT
-U5MjM2MDcsNzA5MTQyMzk2XX0=
+eyJoaXN0b3J5IjpbLTE3MDI5NTgyNDgsODg3Nzg3MDAwLC0xND
+E1OTIzNjA3LDcwOTE0MjM5Nl19
 -->
