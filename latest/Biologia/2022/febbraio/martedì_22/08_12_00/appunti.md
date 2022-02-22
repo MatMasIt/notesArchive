@@ -82,11 +82,11 @@ da Wilkins e Franklin
 
 struttura a trielica ritirata da Nature per poi una struttra a doppia elica
 
-anni '70, tecnologie di duplicazione del DNA
+anni '70, tecnologie di duplicazione e sequenziamento del DNA
 
-
+limite tecnologico è sempre presente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTcxMzMwNywtMjExNTcyMDUzMSwtNj
+eyJoaXN0b3J5IjpbLTU0OTQyMzcyNiwtMjExNTcyMDUzMSwtNj
 UyOTUxNDc5LDg4Nzc4NzAwMCwtMTQxNTkyMzYwNyw3MDkxNDIz
 OTZdfQ==
 -->
