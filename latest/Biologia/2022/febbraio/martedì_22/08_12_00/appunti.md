@@ -64,7 +64,12 @@ confronto delle bande
 
 
 scopo della genetica costantemente cresciuto nel tempo
+
+
+### Leggi di Mendel
+
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkzMDg5NTgsLTY1Mjk1MTQ3OSw4OD
-c3ODcwMDAsLTE0MTU5MjM2MDcsNzA5MTQyMzk2XX0=
+eyJoaXN0b3J5IjpbNzk5Mzc2MTc2LC02NTI5NTE0NzksODg3Nz
+g3MDAwLC0xNDE1OTIzNjA3LDcwOTE0MjM5Nl19
 -->
