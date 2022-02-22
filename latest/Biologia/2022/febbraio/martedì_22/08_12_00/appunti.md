@@ -20,8 +20,14 @@ cors elettroforetica
 
 17 microlitri di mix in ogni campione
 
+3 microlitri plasmidi  in ciascuna provetta
+
+in stufa a 37 °C
+
+
+interacalan
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3Nzg3MDAwLC0xNDE1OTIzNjA3LDcwOT
-E0MjM5Nl19
+eyJoaXN0b3J5IjpbLTgyNjk5OTkxNyw4ODc3ODcwMDAsLTE0MT
+U5MjM2MDcsNzA5MTQyMzk2XX0=
 -->
