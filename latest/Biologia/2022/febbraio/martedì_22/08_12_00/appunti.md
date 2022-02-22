@@ -68,8 +68,10 @@ scopo della genetica costantemente cresciuto nel tempo
 
 ### Leggi di Mendel
 
-1. 
+1. Legge della dominanza, o degli ibridi di prima generazione
+AA x aa = 100% AA
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5Mzc2MTc2LC02NTI5NTE0NzksODg3Nz
-g3MDAwLC0xNDE1OTIzNjA3LDcwOTE0MjM5Nl19
+eyJoaXN0b3J5IjpbMTU4NTkyNjUzNiwtNjUyOTUxNDc5LDg4Nz
+c4NzAwMCwtMTQxNTkyMzYwNyw3MDkxNDIzOTZdfQ==
 -->
