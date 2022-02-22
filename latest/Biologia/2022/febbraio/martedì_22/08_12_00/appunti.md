@@ -73,8 +73,8 @@ AA x aa = 100% AA
 2. o degli ibridi di seconda generazione
 Aa x aa = 75% Aa 25% aa
 3. Legge dell'indipendenza dei caratteri
-
+I caratteri si ereditano in modo indipendente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTE2MTUzMSwtNjUyOTUxNDc5LDg4Nz
+eyJoaXN0b3J5IjpbLTcwNjg5OTg1NSwtNjUyOTUxNDc5LDg4Nz
 c4NzAwMCwtMTQxNTkyMzYwNyw3MDkxNDIzOTZdfQ==
 -->
