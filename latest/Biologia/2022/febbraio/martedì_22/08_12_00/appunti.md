@@ -41,7 +41,11 @@ Costuire un pGLO
 taglio con un enzima di restrizione del gene di interesse e del vettore plasmidico
 
 generare "sticky ends"
+
+ligasi, il gene di interesse si lega al plasmide
+
+Informazioni trasportate da una molecola all'altra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjQzODI4OCwtNjUyOTUxNDc5LDg4Nz
+eyJoaXN0b3J5IjpbMTA3MjczNjY4NiwtNjUyOTUxNDc5LDg4Nz
 c4NzAwMCwtMTQxNTkyMzYwNyw3MDkxNDIzOTZdfQ==
 -->
