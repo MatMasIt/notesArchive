@@ -70,8 +70,11 @@ scopo della genetica costantemente cresciuto nel tempo
 
 1. Legge della dominanza, o degli ibridi di prima generazione
 AA x aa = 100% AA
-2. 
+2. o degli ibridi di seconda generazione
+Aa x aa = 75% Aa 25% aa
+3. Legge dell'indipendenza dei caratteri
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTkyNjUzNiwtNjUyOTUxNDc5LDg4Nz
+eyJoaXN0b3J5IjpbLTc2NTE2MTUzMSwtNjUyOTUxNDc5LDg4Nz
 c4NzAwMCwtMTQxNTkyMzYwNyw3MDkxNDIzOTZdfQ==
 -->
