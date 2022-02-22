@@ -75,9 +75,14 @@ Aa x aa = 75% Aa 25% aa
 3. Legge dell'indipendenza dei caratteri
 I caratteri si e	reditano in modo indipendente
 
+'52, DNA
+Francis & Crick
+da Wilkins e Franklin
 
+
+struttura a trielica ritirata da Nature per poi una struttra a doppia elica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjczMTY4MzEsLTIxMTU3MjA1MzEsLT
-Y1Mjk1MTQ3OSw4ODc3ODcwMDAsLTE0MTU5MjM2MDcsNzA5MTQy
-Mzk2XX0=
+eyJoaXN0b3J5IjpbLTUxODgyMTQyNCwtMjExNTcyMDUzMSwtNj
+UyOTUxNDc5LDg4Nzc4NzAwMCwtMTQxNTkyMzYwNyw3MDkxNDIz
+OTZdfQ==
 -->
