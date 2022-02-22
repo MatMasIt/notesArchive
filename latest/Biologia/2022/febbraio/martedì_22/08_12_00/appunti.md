@@ -31,8 +31,8 @@ interacalante: midori
 sequenze colpite dai raggi UV emettono  xluce
 
 
-Usare i guanti 
+Usare i guanti con gli intercaanti percè possono essere pericolosi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI5NTgyNDgsODg3Nzg3MDAwLC0xND
-E1OTIzNjA3LDcwOTE0MjM5Nl19
+eyJoaXN0b3J5IjpbLTY1Mjk1MTQ3OSw4ODc3ODcwMDAsLTE0MT
+U5MjM2MDcsNzA5MTQyMzk2XX0=
 -->
