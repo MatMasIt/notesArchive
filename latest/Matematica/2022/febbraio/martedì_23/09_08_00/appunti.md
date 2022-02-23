@@ -21,10 +21,17 @@ p.83
 
 ## Teorema di Rolle
 
-con
+continua in interavallo chiuuso e limiatto
+
+derivabile in intervallo aperto
+
+valori estremi uguali
+
+allora esiste punto c in cui la derivata prima è 0
+
 $$
-\begin{equation} \begin{cases} Here \end{cases} \end{equation}
+\begin{equation} \begin{cases} f\in C[a,b]\\f \in D(a,b)\\ f(a)=f(b) \end{cases} \end{equation}\implies \exists c\in (a,b)\Big|\normalsize f'(c)=0
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjg1OTg2Ml19
+eyJoaXN0b3J5IjpbODU3MDY0MjUzXX0=
 -->
