@@ -13,6 +13,12 @@ annichilimento di tutto quello che non si sceglie
 tutto questo è angosciante
 
 siamo liberi ma dobbiamo continuamente scegliere ma ne siamo responsabili
+
+Kirkegaard :
+
+stadi nel cammino della vita
+
+Aut-aut
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk1MTYxMzNdfQ==
+eyJoaXN0b3J5IjpbLTY0OTg1OTM3NV19
 -->
