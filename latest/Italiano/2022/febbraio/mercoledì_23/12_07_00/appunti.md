@@ -58,7 +58,11 @@ donna assalita da crisi psicopatiche
 la sua miniera è stata allagata e quindi era priva di rendite
 
 fa internare la moglie poi in una clinica psichiatrica
+
+
+si interessa a spiritismo e parapsicologia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjQyMDEzNSwtMjM3Mjc2ODE2LDEzMD
-gyMDczMzcsNDU0NjI5MTIxLDIxMzQwNzEyM119
+eyJoaXN0b3J5IjpbMzE0MzA4NDc0LDE4MTI0MjAxMzUsLTIzNz
+I3NjgxNiwxMzA4MjA3MzM3LDQ1NDYyOTEyMSwyMTM0MDcxMjNd
+fQ==
 -->
