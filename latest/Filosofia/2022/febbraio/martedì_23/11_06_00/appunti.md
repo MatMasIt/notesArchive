@@ -61,8 +61,16 @@ ha una famiglia e ha una funzione statale
 
 uomo impegnato
 
-umo 
+uomo etico ama ripetizione
+
+
+in _Timore e tremore_
+e _stadi del cammino della vita_
+
+terzo stadio
+
+l'uomo etico si accorge di essere insufficiente e 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDgwMTU3OTUsLTE2MjE0NDc3NCw5Nj
-g1NDk5MDUsMTY4MzMxMDkzNF19
+eyJoaXN0b3J5IjpbLTYzOTI1MjI2MCwtMTYyMTQ0Nzc0LDk2OD
+U0OTkwNSwxNjgzMzEwOTM0XX0=
 -->
