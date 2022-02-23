@@ -41,6 +41,9 @@ sedutttore
 puro piacere della conquista dell'animo femminile
 
 non si impegna, non sceglie la pesantezza
+
+
+motto: carpe diem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTk4MzM4NSwxNjgzMzEwOTM0XX0=
+eyJoaXN0b3J5IjpbMjEzODg3MjA5MCwxNjgzMzEwOTM0XX0=
 -->
