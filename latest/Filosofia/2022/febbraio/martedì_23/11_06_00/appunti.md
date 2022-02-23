@@ -74,7 +74,13 @@ l'uomo etico si accorge di essere insufficiente e di commettere errori
 stadio religioso
 
 fede
+
+
+
+_Malattia Mortale_ (1849)
+
+è la disperazione ($\neq$ ango
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDk3NDg3MCwtMTYyMTQ0Nzc0LDk2OD
+eyJoaXN0b3J5IjpbMTA1MTk5MTcyMywtMTYyMTQ0Nzc0LDk2OD
 U0OTkwNSwxNjgzMzEwOTM0XX0=
 -->
