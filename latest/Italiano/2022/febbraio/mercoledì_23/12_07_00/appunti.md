@@ -56,7 +56,9 @@ Romanzo per fare cassetta
 donna assalita da crisi psicopatiche
 
 la sua miniera è stata allagata e quindi era priva di rendite
+
+fa internare la moglie poi in una clinica psichiatrica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzQ5NjQ4MCwtMjM3Mjc2ODE2LDEzMD
+eyJoaXN0b3J5IjpbMTgxMjQyMDEzNSwtMjM3Mjc2ODE2LDEzMD
 gyMDczMzcsNDU0NjI5MTIxLDIxMzQwNzEyM119
 -->
