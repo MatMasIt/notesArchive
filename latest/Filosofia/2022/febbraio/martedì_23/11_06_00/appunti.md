@@ -32,6 +32,7 @@ si parte sempre dal primo stadio
 no conciliazione dialettica
 
 o sei in uno stadio  o sei nell'altro
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzMxMDkzNF19
+eyJoaXN0b3J5IjpbNDkyNzIyNjkyLDE2ODMzMTA5MzRdfQ==
 -->
