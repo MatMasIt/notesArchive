@@ -12,7 +12,7 @@ annichilimento di tutto quello che non si sceglie
 
 tutto questo è angosciante
 
-siamo lo
+siamo liberi ma dobbiamo continuamente scegliere ma ne siamo responsabili
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyNjgyODQyXX0=
+eyJoaXN0b3J5IjpbLTE5NTk1MTYxMzNdfQ==
 -->
