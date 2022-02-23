@@ -49,7 +49,14 @@ Il _Magistero_ facoltà di pedagogia
 Scienze dell'educazione (nell'ordinamento moderno)
 
 1908, Il saggio sull'umorismo
+
+Romanzo per fare cassetta
+
+
+donna assalita da crisi psicopatiche
+
+la sua miniera è stata allagata e quindi era priva di rendite
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1MzEyNTIwLC0yMzcyNzY4MTYsMTMwOD
-IwNzMzNyw0NTQ2MjkxMjEsMjEzNDA3MTIzXX0=
+eyJoaXN0b3J5IjpbLTQwMzQ5NjQ4MCwtMjM3Mjc2ODE2LDEzMD
+gyMDczMzcsNDU0NjI5MTIxLDIxMzQwNzEyM119
 -->
