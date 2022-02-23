@@ -44,6 +44,9 @@ non si impegna, non sceglie la pesantezza
 
 
 motto: carpe diem
+
+fondamentale senso di vuoto
+può essere tutto ma quindi non è nulla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODg3MjA5MCwxNjgzMzEwOTM0XX0=
+eyJoaXN0b3J5IjpbOTY4NTQ5OTA1LDE2ODMzMTA5MzRdfQ==
 -->
