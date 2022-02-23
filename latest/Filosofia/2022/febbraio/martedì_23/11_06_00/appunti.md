@@ -54,7 +54,13 @@ Marito
 
 colui che ha scelto
 
+
+consigliere di Stato Guglielmo 
+
+ha una famiglia e ha una funzione statale
+
+uomo impegnato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODc4NTQ3MCw5Njg1NDk5MDUsMTY4Mz
+eyJoaXN0b3J5IjpbLTE2MjE0NDc3NCw5Njg1NDk5MDUsMTY4Mz
 MxMDkzNF19
 -->
