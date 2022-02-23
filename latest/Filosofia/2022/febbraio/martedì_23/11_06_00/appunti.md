@@ -19,6 +19,10 @@ Kirkegaard :
 stadi nel cammino della vita
 
 Aut-aut
+
+3 modi di vivere fondamentali che caratterizzano gli esseri umani
+
+_Stadi_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTg1OTM3NV19
+eyJoaXN0b3J5IjpbMTAyOTM0OTc1MF19
 -->
