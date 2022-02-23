@@ -47,6 +47,10 @@ motto: carpe diem
 
 fondamentale senso di vuoto
 può essere tutto ma quindi non è nulla
+
+può rimanere nella condizione dell'esteta o raggiungere il secondo stadio (dell'uomo etico)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4NTQ5OTA1LDE2ODMzMTA5MzRdfQ==
+eyJoaXN0b3J5IjpbLTE3MTIwODI0MzUsOTY4NTQ5OTA1LDE2OD
+MzMTA5MzRdfQ==
 -->
