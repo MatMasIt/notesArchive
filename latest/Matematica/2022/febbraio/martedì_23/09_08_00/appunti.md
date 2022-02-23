@@ -12,6 +12,12 @@ $$
 $$
 
 $x_0$ è massimo relativo
+
+
+
+## Teorema di Fermat
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTUzOTIwMF19
+eyJoaXN0b3J5IjpbOTM3NjYzOTQzXX0=
 -->
