@@ -22,7 +22,12 @@ Aut-aut
 
 3 modi di vivere fondamentali che caratterizzano gli esseri umani
 
-_Stadi_
+_Stadi_ 
+successione non necessaria
+
+non si può regredire ngli stadi
+
+si parte sempre dal primo stadio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTM0OTc1MF19
+eyJoaXN0b3J5IjpbMTE5MDA4NzM2NV19
 -->
