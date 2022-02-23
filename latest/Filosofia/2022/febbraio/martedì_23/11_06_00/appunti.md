@@ -33,6 +33,14 @@ no conciliazione dialettica
 
 o sei in uno stadio  o sei nell'altro
 
+
+primo stadio: estetica
+mito del don giorvanni
+sedutttore
+
+puro piacere della conquista dell'animo femminile
+
+non si impegna, non sceglie la pesantezza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyNzIyNjkyLDE2ODMzMTA5MzRdfQ==
+eyJoaXN0b3J5IjpbMTc0OTk4MzM4NSwxNjgzMzEwOTM0XX0=
 -->
