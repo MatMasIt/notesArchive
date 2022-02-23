@@ -59,8 +59,18 @@ Prequisiti
 1.
 $$\lim_{x\to x_0}f(x)=\lim_{x\to x_0}g(x)=0$$
 $$
-\lim_{x\to x_0}f(x)=\lim_{x\tox_0}
+\lim_{x\to x_0}f(x)=\lim_{x\to x_0}g(x)=\pm \infin
 $$
+2.
+$$
+g(x)\neq 0 \quad \forall x \in I(x_0)
+$$
+3.
+$$
+\exists \lim_{x\to x_0}\frac{f'(x)}{g'(x)}
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzAxNzUzNCw4NTcwNjQyNTNdfQ==
+eyJoaXN0b3J5IjpbLTIwNjM5MjU1NjgsODU3MDY0MjUzXX0=
 -->
