@@ -44,6 +44,23 @@ $$
 $$
 f'(c)=\frac{f(b)-f(a)}{b-a}
 $$
+
+
+---
+
+## De l'Hopital
+
+
+$$
+f,g \in D(I)\quad I\subset D,I(x_0)
+$$
+
+Prequisiti
+1.
+$$\lim_{x\to x_0}f(x)=\lim_{x\to x_0}g(x)=0$$
+$$
+\lim_{x\to x_0}f(x)=\lim_{x\tox_0}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwOTUxNTc4LDg1NzA2NDI1M119
+eyJoaXN0b3J5IjpbLTYwMzAxNzUzNCw4NTcwNjQyNTNdfQ==
 -->
