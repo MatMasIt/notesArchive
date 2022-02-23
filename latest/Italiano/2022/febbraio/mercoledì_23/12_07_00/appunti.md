@@ -28,9 +28,13 @@ Pirandello: cosa ha studiato
 p.258
 
 in un podere della famiglia
+madre partorisce
+contrada caos
 
-cont
+> Sono figlio del Caos
+
+per sfuggire al colera
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMTM3NzkwLDQ1NDYyOTEyMSwyMTM0MD
-cxMjNdfQ==
+eyJoaXN0b3J5IjpbMTMwODIwNzMzNyw0NTQ2MjkxMjEsMjEzND
+A3MTIzXX0=
 -->
