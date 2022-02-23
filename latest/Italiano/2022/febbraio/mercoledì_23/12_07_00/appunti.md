@@ -21,7 +21,16 @@ pubblico il saggio di poetica l'umorismo
 6 personaggi in cerca d'autore
 
 uno, nessuno, centomila
+
+
+Pirandello: cosa ha studiato
+
+p.258
+
+in un podere della famiglia
+
+cont
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg5NDE1NDIsNDU0NjI5MTIxLDIxMz
-QwNzEyM119
+eyJoaXN0b3J5IjpbNjAxMTM3NzkwLDQ1NDYyOTEyMSwyMTM0MD
+cxMjNdfQ==
 -->
