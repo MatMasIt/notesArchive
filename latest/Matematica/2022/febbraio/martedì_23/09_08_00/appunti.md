@@ -7,7 +7,11 @@ $$
 $$
 I\subset D
 $$
+$$
+\forall x \in I\quad f(x)\le f(x_0)
+$$
 
+$x_0$ è massimo relativo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjE0NTI1MV19
+eyJoaXN0b3J5IjpbMTY0MTUzOTIwMF19
 -->
