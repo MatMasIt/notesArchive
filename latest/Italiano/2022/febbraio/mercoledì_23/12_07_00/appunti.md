@@ -38,7 +38,12 @@ per sfuggire al colera
 studi liceli a palermo
 
 giurisprudenza all'università
+
+completa studi universitari a Bonn, in filologia
+
+matrimonio combinato a Roma con altra famiglia di possidenti siciliani
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzI3NjgxNiwxMzA4MjA3MzM3LDQ1ND
-YyOTEyMSwyMTM0MDcxMjNdfQ==
+eyJoaXN0b3J5IjpbMTA5OTQyODQyNSwtMjM3Mjc2ODE2LDEzMD
+gyMDczMzcsNDU0NjI5MTIxLDIxMzQwNzEyM119
 -->
