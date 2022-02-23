@@ -79,8 +79,10 @@ fede
 
 _Malattia Mortale_ (1849)
 
-è la disperazione ($\neq$ ango
+è la disperazione ($\neq$ angoscia)
+
+cattivo rapporto con se stessi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTk5MTcyMywtMTYyMTQ0Nzc0LDk2OD
-U0OTkwNSwxNjgzMzEwOTM0XX0=
+eyJoaXN0b3J5IjpbLTEzMzM5MTEwMDIsLTE2MjE0NDc3NCw5Nj
+g1NDk5MDUsMTY4MzMxMDkzNF19
 -->
