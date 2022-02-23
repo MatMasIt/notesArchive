@@ -69,8 +69,8 @@ e _stadi del cammino della vita_
 
 terzo stadio
 
-l'uomo etico si accorge di essere insufficiente e 
+l'uomo etico si accorge di essere insufficiente e di commettere errori
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTI1MjI2MCwtMTYyMTQ0Nzc0LDk2OD
-U0OTkwNSwxNjgzMzEwOTM0XX0=
+eyJoaXN0b3J5IjpbNjQ0NzE5MTI1LC0xNjIxNDQ3NzQsOTY4NT
+Q5OTA1LDE2ODMzMTA5MzRdfQ==
 -->
