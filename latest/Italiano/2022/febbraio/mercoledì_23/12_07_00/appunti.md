@@ -61,8 +61,10 @@ fa internare la moglie poi in una clinica psichiatrica
 
 
 si interessa a spiritismo e parapsicologia
+
+bergs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0MzA4NDc0LDE4MTI0MjAxMzUsLTIzNz
-I3NjgxNiwxMzA4MjA3MzM3LDQ1NDYyOTEyMSwyMTM0MDcxMjNd
-fQ==
+eyJoaXN0b3J5IjpbMTQ0MjE5MDU2MywzMTQzMDg0NzQsMTgxMj
+QyMDEzNSwtMjM3Mjc2ODE2LDEzMDgyMDczMzcsNDU0NjI5MTIx
+LDIxMzQwNzEyM119
 -->
