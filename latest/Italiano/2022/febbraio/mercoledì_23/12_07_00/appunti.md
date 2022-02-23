@@ -62,9 +62,13 @@ fa internare la moglie poi in una clinica psichiatrica
 
 si interessa a spiritismo e parapsicologia
 
-bergs
+bergson
+
+tempo interiore fluido
+
+concetto di èlan vital,  slancio vitale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjE5MDU2MywzMTQzMDg0NzQsMTgxMj
+eyJoaXN0b3J5IjpbMTUzNjQ3MTgyMiwzMTQzMDg0NzQsMTgxMj
 QyMDEzNSwtMjM3Mjc2ODE2LDEzMDgyMDczMzcsNDU0NjI5MTIx
 LDIxMzQwNzEyM119
 -->
