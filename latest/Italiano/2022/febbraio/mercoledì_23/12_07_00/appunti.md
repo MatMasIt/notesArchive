@@ -34,7 +34,11 @@ contrada caos
 > Sono figlio del Caos
 
 per sfuggire al colera
+
+studi liceli a palermo
+
+giurisprudenza all'università
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODIwNzMzNyw0NTQ2MjkxMjEsMjEzND
-A3MTIzXX0=
+eyJoaXN0b3J5IjpbLTIzNzI3NjgxNiwxMzA4MjA3MzM3LDQ1ND
+YyOTEyMSwyMTM0MDcxMjNdfQ==
 -->
