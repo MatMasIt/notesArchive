@@ -43,7 +43,13 @@ completa studi universitari a Bonn, in filologia
 
 matrimonio combinato a Roma con altra famiglia di possidenti siciliani
 
+
+
+Il _Magistero_ facoltà di pedagogia
+Scienze dell'educazione (nell'ordinamento moderno)
+
+1908, Il saggio sull'umorismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTQyODQyNSwtMjM3Mjc2ODE2LDEzMD
-gyMDczMzcsNDU0NjI5MTIxLDIxMzQwNzEyM119
+eyJoaXN0b3J5IjpbODA1MzEyNTIwLC0yMzcyNzY4MTYsMTMwOD
+IwNzMzNyw0NTQ2MjkxMjEsMjEzNDA3MTIzXX0=
 -->
