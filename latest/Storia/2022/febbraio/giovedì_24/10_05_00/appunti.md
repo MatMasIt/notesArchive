@@ -9,11 +9,18 @@ fa sempre da paciere per evitare che la sua integrità sia minacciata
 
 
 Namibia: popolazione degli Herero
-colo
+colonia tedesca
+
 Strategie:
 
 Originaria: sterminiamoli tutti [progettato un genocidio]
 Poi è troppo complicato
+
+
+dopo: campi di concentramento ma con nuovo elemento: lavoro forzato
+
+con 
+mortalità elevata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQzNDcxMDVdfQ==
+eyJoaXN0b3J5IjpbMTMyNDg0MTUxNV19
 -->
