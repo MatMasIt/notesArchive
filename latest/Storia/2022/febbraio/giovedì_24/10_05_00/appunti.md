@@ -42,8 +42,12 @@ Commercio con europei solo nel porto di Canton
 
 difficilmente riescono a vendere propri prodotti alla Cina
 
-Dinastia Qjing intratteneva  diplomazia solo con re
+Dinastia Qjing intratteneva  diplomazia solo con regni sotto la tutela militare e politica cinese (Anam, Corea)
+
+
+
+1800: corruzione dilagante, economia stagnande
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI1Mzg2MzYsLTQxODM4MzQ1NSw4Mz
-gyMDg4NDBdfQ==
+eyJoaXN0b3J5IjpbMTQ0MDgzNjQ3MSwtNDE4MzgzNDU1LDgzOD
+IwODg0MF19
 -->
