@@ -1,7 +1,7 @@
 # Lezione di Fisica
 
 
-Il flusso nel campo magnetico
+## Il flusso nel campo magnetico
 
 ![](https://i.imgur.com/jCGaSL3.jpg)
 
@@ -29,10 +29,16 @@ Il flusso del campo magnetico in una superficie chiusa è sempre 0 in una superf
 
 
 > Quindi abbiamo dedotto in queste lezioni
-> 
+>*  _Flusso nel campo elettrico_
 > $$
 > \Phi\left(\vec E\right)=\frac{Q}{\varepsilon}
 > $$ (teorema di Gauss)
+> * _Flusso nel campo magnetico_
+> $$
+> \Phi\left(\vec B\right)=0
+> $$
+
+Cir
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxMTg5MjA2LC03Nzg2Mzk0NzVdfQ==
+eyJoaXN0b3J5IjpbMjgzNTYzNjA0LC03Nzg2Mzk0NzVdfQ==
 -->
