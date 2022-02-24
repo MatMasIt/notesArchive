@@ -62,7 +62,13 @@ Guerra per rendere venduta oppio librea
 Hong Kong ceduta ad UK fino al 1999
 
 poi torna a CN con statuto speciale
+
+trattati ineguali
+
+altre potenze fanno richieste
+
+alla fine il mercato cinese si apre al mondo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDcyMDczNywtNDE4MzgzNDU1LDgzOD
+eyJoaXN0b3J5IjpbLTI5ODkwNDQwMCwtNDE4MzgzNDU1LDgzOD
 IwODg0MF19
 -->
