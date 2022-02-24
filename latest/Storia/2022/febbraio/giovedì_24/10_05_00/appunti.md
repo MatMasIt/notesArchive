@@ -68,7 +68,22 @@ trattati ineguali
 altre potenze fanno richieste
 
 alla fine il mercato cinese si apre al mondo
+
+
+p. 454, 455
+
+Il Giappone
+
+Xenofobi
+
+unici esseri umani in senso pieno
+
+prima del contatto con imprialismo
+
+monarchia feudale
+
+un Imperatore con valen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODkwNDQwMCwtNDE4MzgzNDU1LDgzOD
-IwODg0MF19
+eyJoaXN0b3J5IjpbMTI3MDUxMDM4MywtMjk4OTA0NDAwLC00MT
+gzODM0NTUsODM4MjA4ODQwXX0=
 -->
