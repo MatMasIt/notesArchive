@@ -98,7 +98,8 @@ $$
 \Gamma\left(\vec B\right)=\vec B\cdot \vec{\Delta s}
 $$
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjcxNTY1NCw1MzYzMzMyMzMsLTc3OD
-YzOTQ3NV19
+eyJoaXN0b3J5IjpbMjI4MzQ3OTQ0LDUzNjMzMzIzMywtNzc4Nj
+M5NDc1XX0=
 -->
