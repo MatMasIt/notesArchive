@@ -95,8 +95,17 @@ scambi rarissimi
 alcuni mercanti olandesi e cinesi avevano un deposito commerciale nel porto di Nagasaki sotto strettissimo controllo
 
 
+imperatore: figura simbolica
 
+shogun: potere effettivo
+
+mercanti nell'800 insofferenti alla politica di chiusura
+
+_daimyo_ (feudatari) tolleravano sempre meno il potere imperiale
+
+
+rincaro dei prezzi; malessere so
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDg1MDU2NjQsLTI5ODkwNDQwMCwtND
-E4MzgzNDU1LDgzODIwODg0MF19
+eyJoaXN0b3J5IjpbMjAzNzU3OTE4NiwtMjk4OTA0NDAwLC00MT
+gzODM0NTUsODM4MjA4ODQwXX0=
 -->
