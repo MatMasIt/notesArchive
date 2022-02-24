@@ -104,8 +104,10 @@ mercanti nell'800 insofferenti alla politica di chiusura
 _daimyo_ (feudatari) tolleravano sempre meno il potere imperiale
 
 
-rincaro dei prezzi; malessere so
+rincaro dei prezzi; malessere sociale
+
+nella baia di Tokyo arriva nel'53
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzU3OTE4NiwtMjk4OTA0NDAwLC00MT
-gzODM0NTUsODM4MjA4ODQwXX0=
+eyJoaXN0b3J5IjpbNDU5MDU1NzU5LC0yOTg5MDQ0MDAsLTQxOD
+M4MzQ1NSw4MzgyMDg4NDBdfQ==
 -->
