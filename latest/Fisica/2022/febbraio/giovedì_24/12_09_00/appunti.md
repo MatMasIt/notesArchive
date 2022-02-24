@@ -94,6 +94,8 @@ $$
 
 ## _Circuitazione_ del campo ==magnetico==
 
+![](https://i.imgur.com/jPTmeQr.jpg)
+
 $$
 \Gamma\left(\vec B\right)=\vec B\cdot \vec{\Delta s}
 $$
@@ -128,8 +130,12 @@ $$
 \Gamma\left(\vec B\right)=\frac{\mu_0}{\cancel{2\pi}}\frac{I}{\cancel r}\cdot \cancel{2\pi}=\mu_0I
 $$
 
-corrente concatenata ad una lie
+corrente concatenata ad una linea
+
+$$
+\Gamma\left(\vec B\right)=\frac{\mu_0}{\cancel{2\pi}}\frac{I}{\cancel r}\cdot \cancel{2\pi}=\mu_0\sum
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NjMzMTQsMjI4MzQ3OTQ0LDUzNjMzMz
-IzMywtNzc4NjM5NDc1XX0=
+eyJoaXN0b3J5IjpbNDgyNDE1MjgyLDIyODM0Nzk0NCw1MzYzMz
+MyMzMsLTc3ODYzOTQ3NV19
 -->
