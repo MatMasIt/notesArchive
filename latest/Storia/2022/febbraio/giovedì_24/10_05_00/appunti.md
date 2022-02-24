@@ -116,7 +116,17 @@ shogun sotto accusa
 
 
 Tokugawa sconfitti dopo 3 anni di guerra civile
+
+Periodo mejii
+
+esercito rinnovato
+
+in giappone: Prefetture come francia
+
+capitalismo nazionale
+
+assetto industiale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDMyMTM3NywtMjk4OTA0NDAwLC00MT
-gzODM0NTUsODM4MjA4ODQwXX0=
+eyJoaXN0b3J5IjpbLTYyNzU4NTgxLC0zNzAzMjEzNzcsLTI5OD
+kwNDQwMCwtNDE4MzgzNDU1LDgzODIwODg0MF19
 -->
