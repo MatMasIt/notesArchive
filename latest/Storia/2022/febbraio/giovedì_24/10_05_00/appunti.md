@@ -19,8 +19,9 @@ Poi è troppo complicato
 
 dopo: campi di concentramento ma con nuovo elemento: lavoro forzato
 
-con 
+combinato con malnutrizione
+
 mortalità elevata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDg0MTUxNV19
+eyJoaXN0b3J5IjpbODM4MjA4ODQwXX0=
 -->
