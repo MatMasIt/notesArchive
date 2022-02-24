@@ -84,10 +84,19 @@ monarchia feudale
 
 un Imperatore con valenza religiosa
 
-il vogerno della famiglia shogunale dei tok
+il governo della famiglia shogunale dei tokugawa chiude il paese all'estero
+
+non si vuole "corrompere la cultura"
+
+sudditi non possono viaggare all'estero
+
+scambi rarissimi
+
+alcuni mercanti olandesi e cinesi avevano un deposito commerciale nel porto di Nagasaki sotto strettissimo controllo
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTY0MjAyLC0yOTg5MDQ0MDAsLTQxOD
-M4MzQ1NSw4MzgyMDg4NDBdfQ==
+eyJoaXN0b3J5IjpbLTEzMDg1MDU2NjQsLTI5ODkwNDQwMCwtND
+E4MzgzNDU1LDgzODIwODg0MF19
 -->
