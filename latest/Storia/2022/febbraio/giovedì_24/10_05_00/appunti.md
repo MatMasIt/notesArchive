@@ -26,6 +26,10 @@ mortalità elevata
 palestra di violenza arbitraria
 
 no diritti umani
+
+cultura della violenza si sviluppa in europa
+
+prima con imperailismo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTcwMTEwNCw4MzgyMDg4NDBdfQ==
+eyJoaXN0b3J5IjpbLTE4MjA2OTk4ODcsODM4MjA4ODQwXX0=
 -->
