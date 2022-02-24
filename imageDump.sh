@@ -1,5 +1,6 @@
 #!/bin/sh
 sudo apt install wget -y
+rm imageArchive/*
 images=$(grep -R -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" latest | grep "i.imgur.com" | sort -u)
 mkdir -p imageArchive
 touch imageArchive/list.txt
