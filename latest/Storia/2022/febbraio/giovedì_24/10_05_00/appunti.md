@@ -29,7 +29,14 @@ no diritti umani
 
 cultura della violenza si sviluppa in europa
 
-prima con imperailismo 
+prima con imperailismo e dopo la prima guerra mondiale
+
+
+Vicenda della Cina e del Giappone
+
+p.576
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA2OTk4ODcsODM4MjA4ODQwXX0=
+eyJoaXN0b3J5IjpbLTQxODM4MzQ1NSw4MzgyMDg4NDBdfQ==
 -->
