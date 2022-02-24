@@ -106,8 +106,17 @@ _daimyo_ (feudatari) tolleravano sempre meno il potere imperiale
 
 rincaro dei prezzi; malessere sociale
 
-nella baia di Tokyo arriva nel'53
+nella baia di Tokyo arriva nel'53 una spedizione Navale degli USA impone soto minacce cannoni libero mercato
+
+'58 trattati in cui vengono accettate le pretese
+
+quindicennio di fortissimi tensioni sociali e politiche xenofobe
+
+shogun sotto accusa
+
+
+Tokugawa sconfitti dopo 3 anni di guerra civile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MDU1NzU5LC0yOTg5MDQ0MDAsLTQxOD
-M4MzQ1NSw4MzgyMDg4NDBdfQ==
+eyJoaXN0b3J5IjpbLTM3MDMyMTM3NywtMjk4OTA0NDAwLC00MT
+gzODM0NTUsODM4MjA4ODQwXX0=
 -->
