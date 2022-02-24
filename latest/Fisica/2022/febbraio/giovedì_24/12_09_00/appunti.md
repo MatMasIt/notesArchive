@@ -1,7 +1,7 @@
 # Lezione di Fisica
 
 
-## Il flusso nel campo magnetico
+## Il _flusso_ nel campo ==magnetico==
 
 ![](https://i.imgur.com/jCGaSL3.jpg)
 
@@ -38,7 +38,11 @@ Il flusso del campo magnetico in una superficie chiusa è sempre 0 in una superf
 > \Phi\left(\vec B\right)=0
 > $$
 
-Cir
+## _Circuitazione_ del campo ==elettrico==
+
+$$
+\Gamma\left(\vec E\right)=\vec E\cdot \delta \vec s
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzNTYzNjA0LC03Nzg2Mzk0NzVdfQ==
+eyJoaXN0b3J5IjpbLTE3ODg4MjQ0MDAsLTc3ODYzOTQ3NV19
 -->
