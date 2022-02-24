@@ -104,10 +104,16 @@ Lege di Bjot-Savart
 $$
 \vec B =\frac{\mu_0}{2\pi}\frac{I}r
 $$
+
 $$
 \Gamma\left(\vec B\right)=\sum^n_{i=1}\vec B\cdot \vec{\Delta s_{i}}
 $$
+
+
+$$
+=\sum^n_{i=1}\vec B\cdot \vec{\Delta s_{i}}\cancel{\cos 0}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDAwNTIyODcsMjI4MzQ3OTQ0LDUzNj
-MzMzIzMywtNzc4NjM5NDc1XX0=
+eyJoaXN0b3J5IjpbLTQ3NTExNjMyOSwyMjgzNDc5NDQsNTM2Mz
+MzMjMzLC03Nzg2Mzk0NzVdfQ==
 -->
