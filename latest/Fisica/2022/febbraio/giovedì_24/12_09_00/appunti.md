@@ -110,10 +110,16 @@ $$
 $$
 
 
+Tratti piccolissimi quindi $\vec \Delta s$ ha la stessa direzione di $\vec B$, quindi $\alpha = 0°$ e allora $\cos \alpha = 1$
+
 $$
 =\sum^n_{i=1}\vec B\cdot \vec{\Delta s_{i}}\cancel{\cos 0}
 $$
+
+$$
+=\vec B\cdot\sum^n_{i=1} \vec{\Delta s_{i}}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTExNjMyOSwyMjgzNDc5NDQsNTM2Mz
-MzMjMzLC03Nzg2Mzk0NzVdfQ==
+eyJoaXN0b3J5IjpbLTEzODc0MTgxODQsMjI4MzQ3OTQ0LDUzNj
+MzMzIzMywtNzc4NjM5NDc1XX0=
 -->
