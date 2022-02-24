@@ -54,8 +54,15 @@ Compagnia delle indie orientali contrabbanda oppio in Cina [è proibito]
 
 Oppio: carattere negativo conosciuto in europa
 
+due anni di guerra GB-CN
 
+
+Guerra per rendere venduta oppio librea
+
+Hong Kong ceduta ad UK fino al 1999
+
+poi torna a CN con statuto speciale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODEwNDI0MywtNDE4MzgzNDU1LDgzOD
+eyJoaXN0b3J5IjpbLTc0NDcyMDczNywtNDE4MzgzNDU1LDgzOD
 IwODg0MF19
 -->
