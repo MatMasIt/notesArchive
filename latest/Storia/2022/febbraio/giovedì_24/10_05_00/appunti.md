@@ -82,8 +82,12 @@ prima del contatto con imprialismo
 
 monarchia feudale
 
-un Imperatore con valen
+un Imperatore con valenza religiosa
+
+il vogerno della famiglia shogunale dei tok
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDUxMDM4MywtMjk4OTA0NDAwLC00MT
-gzODM0NTUsODM4MjA4ODQwXX0=
+eyJoaXN0b3J5IjpbLTUzNTY0MjAyLC0yOTg5MDQ0MDAsLTQxOD
+M4MzQ1NSw4MzgyMDg4NDBdfQ==
 -->
