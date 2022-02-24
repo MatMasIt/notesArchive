@@ -48,7 +48,9 @@ p. 226 del libro
 
 ---
 
-Prendiamo un condensatore
+Prendiamo un condensatore, ma vale per qualunque campo e per qualunque linea
+
+![](https://i.imgur.com/uSZPwN4.jpg)
 
 $$
 \Gamma\left(\vec E\right)=\Gamma_{AB}\left(\vec E\right)+\Gamma_{BC}\left(\vec E\right)+\Gamma_{CD}\left(\vec E\right)+\Gamma_{DA}\left(\vec E\right)
@@ -87,5 +89,5 @@ $$
 \Gamma\left(\vec E\right)=\Delta V
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjIzMTk5MSwtNzc4NjM5NDc1XX0=
+eyJoaXN0b3J5IjpbNTM2MzMzMjMzLC03Nzg2Mzk0NzVdfQ==
 -->
