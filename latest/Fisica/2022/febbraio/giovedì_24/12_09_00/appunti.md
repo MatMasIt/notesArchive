@@ -98,8 +98,16 @@ $$
 \Gamma\left(\vec B\right)=\vec B\cdot \vec{\Delta s}
 $$
 
+Lege di Bjot-Savart
 
+
+$$
+\vec B =\frac{\mu_0}{2\pi}\frac{I}r
+$$
+$$
+\Gamma\left(\vec B\right)=\sum^n_{i=1}\vec B\cdot \vec{\Delta s_{i}}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4MzQ3OTQ0LDUzNjMzMzIzMywtNzc4Nj
-M5NDc1XX0=
+eyJoaXN0b3J5IjpbLTE5NDAwNTIyODcsMjI4MzQ3OTQ0LDUzNj
+MzMzIzMywtNzc4NjM5NDc1XX0=
 -->
