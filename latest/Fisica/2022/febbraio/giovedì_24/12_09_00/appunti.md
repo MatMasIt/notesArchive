@@ -119,7 +119,17 @@ $$
 $$
 =\vec B\cdot\sum^n_{i=1} \vec{\Delta s_{i}}
 $$
+
+$$
+\Gamma\left(\vec B\right)=\vec B\cdot2\pi r
+$$
+
+$$
+\Gamma\left(\vec B\right)=\frac{\mu_0}{\cancel{2\pi}}\frac{I}{\cancel r}\cdot \cancel{2\pi}=\mu_0I
+$$
+
+corrente concatenata ad una lie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc0MTgxODQsMjI4MzQ3OTQ0LDUzNj
-MzMzIzMywtNzc4NjM5NDc1XX0=
+eyJoaXN0b3J5IjpbNTM4NjMzMTQsMjI4MzQ3OTQ0LDUzNjMzMz
+IzMywtNzc4NjM5NDc1XX0=
 -->
