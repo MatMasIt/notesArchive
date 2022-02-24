@@ -127,8 +127,20 @@ capitalismo nazionale
 
 assetto industiale
 
-paese a
+samurai
+
+piccola nobiltà nell'apparato statale
+
+paese autoritario
+
+90% contadini
+
+1871: Ugualianza formale
+
+istruzione obbliatoria
+
+sistema monetario e fiscale unica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTA2MzkzNTQsLTM3MDMyMTM3NywtMj
-k4OTA0NDAwLC00MTgzODM0NTUsODM4MjA4ODQwXX0=
+eyJoaXN0b3J5IjpbODQ0ODQ3MTM2LC0zNzAzMjEzNzcsLTI5OD
+kwNDQwMCwtNDE4MzgzNDU1LDgzODIwODg0MF19
 -->
