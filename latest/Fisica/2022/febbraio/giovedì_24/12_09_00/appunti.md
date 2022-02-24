@@ -133,9 +133,9 @@ $$
 corrente concatenata ad una linea
 
 $$
-\Gamma\left(\vec B\right)=\frac{\mu_0}{\cancel{2\pi}}\frac{I}{\cancel r}\cdot \cancel{2\pi}=\mu_0\sum
+\Gamma\left(\vec B\right)=\frac{\mu_0}{\cancel{2\pi}}\frac{I}{\cancel r}\cdot \cancel{2\pi}=\mu_0\sum_i^nI_i
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyNDE1MjgyLDIyODM0Nzk0NCw1MzYzMz
-MyMzMsLTc3ODYzOTQ3NV19
+eyJoaXN0b3J5IjpbMTE0MDkwMDUxNywyMjgzNDc5NDQsNTM2Mz
+MzMjMzLC03Nzg2Mzk0NzVdfQ==
 -->
