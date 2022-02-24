@@ -55,8 +55,15 @@ $$
 $$
 
 $$
-=E\cdot AB+0+-E\c
+=E\cdot AB+0+-E\cdot AB+0=\boxed 0
 $$
+
+
+$$
+\Gamma\left(\vec E\right)=E\cdot \Delta s=
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxNjE4NzA5LC03Nzg2Mzk0NzVdfQ==
+eyJoaXN0b3J5IjpbLTE0MTc5MzE2NDMsLTc3ODYzOTQ3NV19
 -->
