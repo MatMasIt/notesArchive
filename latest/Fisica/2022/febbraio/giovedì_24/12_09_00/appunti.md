@@ -135,7 +135,13 @@ corrente concatenata ad una linea
 $$
 \Gamma\left(\vec B\right)=\frac{\mu_0}{\cancel{2\pi}}\frac{I}{\cancel r}\cdot \cancel{2\pi}=\mu_0\sum_i^nI_i
 $$
+
+![](https://i.imgur.com/pCO5tvF.jpg)
+
+> Riassumendo
+> $\Phi(\vec E)=\frac{\sum Q}{\varepsilon_0}$
+> $\Gamma(\vec B)=\mu_0\sum I$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDkwMDUxNywyMjgzNDc5NDQsNTM2Mz
-MzMjMzLC03Nzg2Mzk0NzVdfQ==
+eyJoaXN0b3J5IjpbLTEzNjUwNTg0MTMsMjI4MzQ3OTQ0LDUzNj
+MzMzIzMywtNzc4NjM5NDc1XX0=
 -->
