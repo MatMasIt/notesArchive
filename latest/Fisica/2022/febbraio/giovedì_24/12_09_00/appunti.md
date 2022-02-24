@@ -13,6 +13,11 @@ Campo ortogonale al raggio e complanare
 $$
 \Phi\left(\vec B\right)=\vec B \cdot \vec n S
 $$
+
+
+**Il flusso del campo magnetico in quansiasi punto del cilindro (nella superficie laterale)**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzk3NzI2MF19
+eyJoaXN0b3J5IjpbLTc3ODYzOTQ3NV19
 -->
