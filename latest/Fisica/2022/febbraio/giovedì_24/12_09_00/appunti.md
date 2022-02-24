@@ -41,8 +41,18 @@ Il flusso del campo magnetico in una superficie chiusa è sempre 0 in una superf
 ## _Circuitazione_ del campo ==elettrico==
 
 $$
-\Gamma\left(\vec E\right)=\vec E\cdot \delta \vec s
+\Gamma\left(\vec E\right)=\vec E\cdot \Delta \vec s
+$$
+
+p. 226 del libro
+
+---
+
+Prendiamo un condensatore
+
+$$
+\Gamma\left(\vec E\right)=\Gamma\left(\vec E\right)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODg4MjQ0MDAsLTc3ODYzOTQ3NV19
+eyJoaXN0b3J5IjpbMTUyNTU2MzkwLC03Nzg2Mzk0NzVdfQ==
 -->
