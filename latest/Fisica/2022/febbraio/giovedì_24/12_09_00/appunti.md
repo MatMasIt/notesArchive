@@ -64,6 +64,20 @@ $$
 $$
 
 
+$$
+\Gamma\left(\vec E\right)=\sum_{i}^nE\cdot\Delta s_i
+$$
+
+
+$$
+a\Gamma\left(\vec E\right)=\sum q\cdot \vec E\cdot \vec{\Delta s}=
+$$
+
+$$
+\sum\vec{F_I
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTc5MzE2NDMsLTc3ODYzOTQ3NV19
+eyJoaXN0b3J5IjpbMjEwNTEwMTQsLTc3ODYzOTQ3NV19
 -->
