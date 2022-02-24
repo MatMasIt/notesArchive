@@ -3,6 +3,7 @@
 
 Il flusso nel campo magnetico
 
+![](https://i.imgur.com/jCGaSL3.jpg)
 
 Circonferenze concentriche: linee di campo
 
@@ -24,6 +25,14 @@ Sia in
 
 
 Il flusso del campo magnetico in una superficie chiusa è sempre 0 in una superficie chiusa
+
+
+
+> Quindi abbiamo dedotto in queste lezioni
+> 
+> $$
+> \Phi\left(\vec E\right)=\frac{Q}{\varepsilon}
+> $$ (teorema di Gauss)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTkxMzUyMywtNzc4NjM5NDc1XX0=
+eyJoaXN0b3J5IjpbNzgxMTg5MjA2LC03Nzg2Mzk0NzVdfQ==
 -->
