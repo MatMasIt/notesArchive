@@ -126,7 +126,9 @@ in giappone: Prefetture come francia
 capitalismo nazionale
 
 assetto industiale
+
+paese a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzU4NTgxLC0zNzAzMjEzNzcsLTI5OD
-kwNDQwMCwtNDE4MzgzNDU1LDgzODIwODg0MF19
+eyJoaXN0b3J5IjpbLTEyNTA2MzkzNTQsLTM3MDMyMTM3NywtMj
+k4OTA0NDAwLC00MTgzODM0NTUsODM4MjA4ODQwXX0=
 -->
