@@ -65,7 +65,7 @@ $$
 
 
 $$
-\Gamma\left(\vec E\right)=\sum_{i}^nE\cdot\Delta s_i
+\Gamma\left(\vec E\right)=\sum_{i}^n\vec E\cdot\vec{\Delta s_i}
 $$
 
 
@@ -74,10 +74,15 @@ a\Gamma\left(\vec E\right)=\sum q\cdot \vec E\cdot \vec{\Delta s}=
 $$
 
 $$
-\sum\vec{F_I
+\sum\vec{F_I}\cdot \vec{\Delta s}=W=q\cdot \Delta V=0
+$$
+
+
+$$
+q\Delta V = 0\xrightarrow 
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTEwMTQsLTc3ODYzOTQ3NV19
+eyJoaXN0b3J5IjpbLTE2NjYwNTkzMzQsLTc3ODYzOTQ3NV19
 -->
