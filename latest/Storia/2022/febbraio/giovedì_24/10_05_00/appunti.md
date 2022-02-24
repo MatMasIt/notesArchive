@@ -47,7 +47,15 @@ Dinastia Qjing intratteneva  diplomazia solo con regni sotto la tutela militare 
 
 
 1800: corruzione dilagante, economia stagnande
+
+Inglesi ricavano oppio
+
+Compagnia delle indie orientali contrabbanda oppio in Cina [è proibito]
+
+Oppio: carattere negativo conosciuto in europa
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDgzNjQ3MSwtNDE4MzgzNDU1LDgzOD
+eyJoaXN0b3J5IjpbMTM4ODEwNDI0MywtNDE4MzgzNDU1LDgzOD
 IwODg0MF19
 -->
