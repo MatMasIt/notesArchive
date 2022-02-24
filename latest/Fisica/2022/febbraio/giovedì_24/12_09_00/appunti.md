@@ -79,10 +79,13 @@ $$
 
 
 $$
-q\Delta V = 0\xrightarrow 
+q\Delta V = 0\xrightarrow{q\neq 0}\Delta V = 0 
 $$
 
 
+$$
+\Gamma\left(\vec E\right)=\Delta V
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjYwNTkzMzQsLTc3ODYzOTQ3NV19
+eyJoaXN0b3J5IjpbLTU2MjIzMTk5MSwtNzc4NjM5NDc1XX0=
 -->
