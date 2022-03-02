@@ -23,6 +23,11 @@ $$
 $$
 \Delta x = \frac{b-a}n
 $$
+
+
+$$
+\lim_{n\to\infin}\sum^n_{i=1}f(c_i)\Delta x=\int^b_af(x)dx
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODMyMDAwNTcsMTAwMDQ3NDk2OF19
+eyJoaXN0b3J5IjpbLTEzOTM1NDMxMDUsMTAwMDQ3NDk2OF19
 -->
