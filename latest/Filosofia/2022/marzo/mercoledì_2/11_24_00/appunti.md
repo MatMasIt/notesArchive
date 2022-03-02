@@ -31,6 +31,9 @@ p.40
 * Il mistero del sacrificio o _L'uomo è ciò che mangia_ (1862)
 
 
+critica a Hegel
+* critica al finalismo della storia
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzU0MTMwMV19
+eyJoaXN0b3J5IjpbNzQ2NzQxODk0XX0=
 -->
