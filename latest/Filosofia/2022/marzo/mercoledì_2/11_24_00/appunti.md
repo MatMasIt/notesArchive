@@ -24,7 +24,13 @@ filosofia: concetto puro
 
 Sinistra: Auyerbach (1804-1872)
 Opere:
-* 
+p.40
+* La critica della filosofia hegeliana
+* Essenza del cristianesimo
+* Essenza della Religione (1845)
+* Il mistero del sacrificio o _L'uomo è ciò che mangia_ (1862)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjY3NjYwNV19
+eyJoaXN0b3J5IjpbMTgwNzU0MTMwMV19
 -->
