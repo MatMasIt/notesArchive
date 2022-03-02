@@ -2,7 +2,16 @@
 
 pochi elementi, molte combinazioni
 
-Clas
+Classi
+* Idrocarburi
+	* alifatici
+		* alcani
+		* alcheni
+		* alchini
+		* cicloalcani
+		* cicloalcheni
+	* aromatici
+		* benzene
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1NjA2MDY5LC05ODA3MTIxMTJdfQ==
+eyJoaXN0b3J5IjpbNjA4NzAxMTM1LC05ODA3MTIxMTJdfQ==
 -->
