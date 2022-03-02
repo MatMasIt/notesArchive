@@ -11,6 +11,18 @@ Integrale indefinito $\int f(x)dx$
 p.341
 
 Infinità numerabile di discontinuità
+
+
+---
+
+
+$$
+f\cdot [a,b]\to \R
+$$
+
+$$
+\Delta x = \frac{b-a}n
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5ODAzOTQ1LDEwMDA0NzQ5NjhdfQ==
+eyJoaXN0b3J5IjpbLTE4ODMyMDAwNTcsMTAwMDQ3NDk2OF19
 -->
