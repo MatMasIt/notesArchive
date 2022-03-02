@@ -17,7 +17,7 @@ Stessi contenuti religione e filosofia, ma in modi diversi
 religione: rappresentazione intellettuale
 filosofia: concetto puro
 
-^2^: Hegel
+^2^: Hegel ha una metafisica immanentista, Il cristianesimo è trascendente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDQ0NDI2XX0=
+eyJoaXN0b3J5IjpbOTI1MDEzNTMwXX0=
 -->
