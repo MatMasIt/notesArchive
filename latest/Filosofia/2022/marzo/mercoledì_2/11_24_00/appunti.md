@@ -32,9 +32,10 @@ p.40
 
 
 critica a Hegel
-
-* critica al finalismo della storia
-* quella di Hegel è una delle varie concezioni filosofiche particolari, determinata dal contesto, non è assoluta
+1. critica al finalismo della storia
+2. quella di Hegel è una delle varie concezioni filosofiche particolari, determinata dal contesto, non è assoluta
+3. Hegel ha smarrito l'uomo concreto
+Hegel ha capovolto i rapporti di predicazion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjEwNDIxMTRdfQ==
+eyJoaXN0b3J5IjpbMTgxNzIyMDI1N119
 -->
