@@ -215,11 +215,16 @@ $$
 
 
 $$
-\int \frac{11}{1+x^2}dx=\arctan x
+\int \frac{1}{1+x^2}dx=\arctan x+c
 $$
+
+$$
+\int\frac{1}{\sqrt{1+x^2}}dx=\arcsin x+c
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTc4MjA4LDcyNDYwNjM0LDczMzE0Mz
-Q1OCwtMzY5ODI2MjM0LC0xNjQ3OTcxMDA0LC0yNDE1NDI4MzMs
-LTE3NTAyNTE2MDYsLTUzODYxODU1MywtMTk0NjYxMzU4LC0xNz
-E0MDgzNTM1XX0=
+eyJoaXN0b3J5IjpbMjAzOTg2NjA5MCw3MjQ2MDYzNCw3MzMxND
+M0NTgsLTM2OTgyNjIzNCwtMTY0Nzk3MTAwNCwtMjQxNTQyODMz
+LC0xNzUwMjUxNjA2LC01Mzg2MTg1NTMsLTE5NDY2MTM1OCwtMT
+cxNDA4MzUzNV19
 -->
