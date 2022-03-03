@@ -1,7 +1,7 @@
 # Title
 
 
-1° Teorema del calcolo integrale
+1° Teorema fondamentale del calcolo integrale
 
 $$
 \int^b_af(x)dx
@@ -9,6 +9,7 @@ $$
 integrale definito
 area di una superficie
 
+restituisce un numero
 
 ---
 
@@ -19,7 +20,24 @@ $$
 
 integrale indefinito
 
+Operazione inversa della derivazione
 
+restituisce una classe di funzioni
+
+2° teorema fondamentale del calcolo integrale
+
+$$
+F(x)=\intf(t)dt
+$$
+
+funzione integrale
+
+
+$$
+\int^infin_af(x)dt
+$$
+
+integrale improprio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDUyMDcyOV19
+eyJoaXN0b3J5IjpbNDk1Mzg0MDE3XX0=
 -->
