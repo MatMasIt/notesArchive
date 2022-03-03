@@ -25,7 +25,9 @@ Difficili da raggiungere nella pienezza
 
 Si può conoscere solo quello che si può oggettivare
 
-L'uomo proiet
+L'uomo proietta queste sue caratteristiche in una entità esterna a se, che è Dio
+
+L'uomo fa Dio a propria immagine e somiglianza per conoscersi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MTk1NTk3XX0=
+eyJoaXN0b3J5IjpbMTE0NjYzMzkwXX0=
 -->
