@@ -33,8 +33,16 @@ but actually, they saw sunday as the jewel of the week, they liked the excursion
 they are symbols of the acceptance of double nature of humans
 
 
---
+--- 
+
+p112
+
+Setting
+
+Quater of London
+
+cleanliness
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDU3MDE3Nyw2MTUzNzQyOTUsLTI0Mz
+eyJoaXN0b3J5IjpbMTIxMjI1ODc1Niw2MTUzNzQyOTUsLTI0Mz
 cxMzA2MSwtMTI2MzY5NTIxNl19
 -->
