@@ -16,8 +16,10 @@ Primo capitolo:
 tre cose distinguono uomo dalle bestie
 
 * ragione
-* volontà
-* cuore (amore)
+* volontà (libera)
+* cuore (amore, capacità di amare)
+
+Tre più alte caratteristiche umane
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDQ4NTg2Nl19
+eyJoaXN0b3J5IjpbLTg2NzkzMjQ0NF19
 -->
