@@ -84,6 +84,10 @@ Somma secondo riemannn, integrale definito
 $$
 \lim_{x\to \infin}S_n=\int^b_af(x)dx=\int^b_af(t)dt
 $$
+
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY2MTM1OCwtMTcxNDA4MzUzNV19
+eyJoaXN0b3J5IjpbMTQwMDY2OTAwMywtMTk0NjYxMzU4LC0xNz
+E0MDgzNTM1XX0=
 -->
