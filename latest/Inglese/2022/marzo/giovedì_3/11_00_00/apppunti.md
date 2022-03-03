@@ -8,6 +8,9 @@ he wants to display his respectable side
 
 
 he is envious of the emotions that people who make misdeeds experience
+
+
+double nature of mr utterson
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDc2MDE4LC0xMjYzNjk1MjE2XX0=
+eyJoaXN0b3J5IjpbLTM4MDMxOTI0OCwtMTI2MzY5NTIxNl19
 -->
