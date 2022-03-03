@@ -43,8 +43,14 @@ Quater of London
 
 cleanliness
 
-small street busy in 
+small street busy on work days
+
+flourishing trade
+
+wealthy people
+
+They wanted to show their wealth by means of decora
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTcyODAzNiw2MTUzNzQyOTUsLTI0Mz
-cxMzA2MSwtMTI2MzY5NTIxNl19
+eyJoaXN0b3J5IjpbLTIwNzc1Njk5MDcsNjE1Mzc0Mjk1LC0yND
+M3MTMwNjEsLTEyNjM2OTUyMTZdfQ==
 -->
