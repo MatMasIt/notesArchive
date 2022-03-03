@@ -14,8 +14,9 @@ double nature of mr utterson
 
 hypocritical man
 
-Friends
+Friends relatives
+
+its not the quality, but the passing of time
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjYwMzI4OTYsLTEyNjM2OTUyMTZdfQ
-==
+eyJoaXN0b3J5IjpbLTI0MzcxMzA2MSwtMTI2MzY5NTIxNl19
 -->
