@@ -46,7 +46,11 @@ integrale improprio
 
 
 
-area
+area sotto curve
+
+$$
+f(x) > 0\quad \forall x \in [a,b]
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDE2NDEzNF19
+eyJoaXN0b3J5IjpbLTU5NjgzNDY5MF19
 -->
