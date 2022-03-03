@@ -95,7 +95,16 @@ $$
 
 Per le funzioni dispari se prendiamo un intervallo uguale positivo e negativo adiacenti a $0$ si annullano e l'integrale risulta $=0$
 
+
+--
+
+
+b
+
+$$
+\int^b_af(x)dx=\int^c_af(x)dx+\int^b_cf(x)dx
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTk0MTM3MiwtNTM4NjE4NTUzLC0xOT
+eyJoaXN0b3J5IjpbMTY3NTI1MDg3MywtNTM4NjE4NTUzLC0xOT
 Q2NjEzNTgsLTE3MTQwODM1MzVdfQ==
 -->
