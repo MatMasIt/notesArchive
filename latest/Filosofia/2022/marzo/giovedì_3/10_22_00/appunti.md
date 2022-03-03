@@ -24,6 +24,8 @@ Tre più alte caratteristiche umane
 Difficili da raggiungere nella pienezza
 
 Si può conoscere solo quello che si può oggettivare
+
+L'uomo proiet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDgxNjQ3MV19
+eyJoaXN0b3J5IjpbNTc3MTk1NTk3XX0=
 -->
