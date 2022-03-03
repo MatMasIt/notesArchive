@@ -93,7 +93,9 @@ $$
 $$
 
 
+Per le funzioni dispari se prendiamo un intervallo uguale positivo e negativo adiacenti a $0$ si annullano e l'integrale risulta $=0$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc5NjU1MzMsLTUzODYxODU1MywtMT
-k0NjYxMzU4LC0xNzE0MDgzNTM1XX0=
+eyJoaXN0b3J5IjpbMTM4OTk0MTM3MiwtNTM4NjE4NTUzLC0xOT
+Q2NjEzNTgsLTE3MTQwODM1MzVdfQ==
 -->
