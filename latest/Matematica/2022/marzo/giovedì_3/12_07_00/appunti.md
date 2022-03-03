@@ -103,6 +103,8 @@ Per le funzioni dispari se prendiamo un intervallo uguale positivo e negativo ad
      /
     a------c-----b
 
+
+Proprietà
 $$
 \int^b_af(x)dx=\int^c_af(x)dx+\int^b_cf(x)dx
 $$
@@ -111,7 +113,11 @@ $$
 ---
 
 
+$$
+\int^b_a[f(x)\pmg
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAyNTE2MDYsLTUzODYxODU1MywtMT
-k0NjYxMzU4LC0xNzE0MDgzNTM1XX0=
+eyJoaXN0b3J5IjpbMjA0NzUxNTk0NCwtMTc1MDI1MTYwNiwtNT
+M4NjE4NTUzLC0xOTQ2NjEzNTgsLTE3MTQwODM1MzVdfQ==
 -->
