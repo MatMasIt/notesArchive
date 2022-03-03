@@ -149,8 +149,15 @@ l'aria racchiusa è calcolabile come somma di integrali delle funzioni
 $$
 v(t)=\dot s(t)=\frac{ds(t)}{dt}=2t-3
 $$
+
+
+p.280
+
+
+$F$ è primitiva di $f$ se 
+* $F$ è 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzAzNjU4NywtMzY5ODI2MjM0LC0xNj
+eyJoaXN0b3J5IjpbMTQ4NTcyNjYxNSwtMzY5ODI2MjM0LC0xNj
 Q3OTcxMDA0LC0yNDE1NDI4MzMsLTE3NTAyNTE2MDYsLTUzODYx
 ODU1MywtMTk0NjYxMzU4LC0xNzE0MDgzNTM1XX0=
 -->
