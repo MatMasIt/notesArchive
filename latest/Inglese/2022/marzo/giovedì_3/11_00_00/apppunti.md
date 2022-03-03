@@ -49,8 +49,8 @@ flourishing trade
 
 wealthy people
 
-They wanted to show their wealth by means of decora
+They wanted to show their wealth by means of decorations 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzc1Njk5MDcsNjE1Mzc0Mjk1LC0yND
-M3MTMwNjEsLTEyNjM2OTUyMTZdfQ==
+eyJoaXN0b3J5IjpbLTU3ODg0MjQyMCw2MTUzNzQyOTUsLTI0Mz
+cxMzA2MSwtMTI2MzY5NTIxNl19
 -->
