@@ -6,6 +6,7 @@
 $$
 \int^b_af(x)dx
 $$
+
 integrale definito
 area di una superficie
 
@@ -38,6 +39,14 @@ $$
 $$
 
 integrale improprio
+
+
+
+----
+
+
+
+area
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1Mzg0MDE3XX0=
+eyJoaXN0b3J5IjpbMTE4MDE2NDEzNF19
 -->
