@@ -79,12 +79,11 @@ $$
 
 per l'area sotto la curva esatta occorrono infiniti rettangoli di risoluzione
 
-Somma secondo riemannn, integrale d
+Somma secondo riemannn, integrale definito
 
 $$
-\lim_{x\to \infin}S
+\lim_{x\to \infin}S_n=\int^b_af(x)dx=\int^b_af(t)dt
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI3MjA3MDMsLTE3MTQwODM1MzVdfQ
-==
+eyJoaXN0b3J5IjpbLTE5NDY2MTM1OCwtMTcxNDA4MzUzNV19
 -->
