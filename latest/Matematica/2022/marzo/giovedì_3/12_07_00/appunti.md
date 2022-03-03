@@ -160,8 +160,23 @@ $F$ è primitiva di $f$ se
 
 ci sono più funzioni primitive di un altra
 è una famiglia di funzioni
+
+Integrale indefinito
+
+$$
+\int f(x)dx=F(x)+c
+$$
+
+
+Tabella integrali
+
+
+$$
+\int k dx = kx+c
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzMTQzNDU4LC0zNjk4MjYyMzQsLTE2ND
-c5NzEwMDQsLTI0MTU0MjgzMywtMTc1MDI1MTYwNiwtNTM4NjE4
-NTUzLC0xOTQ2NjEzNTgsLTE3MTQwODM1MzVdfQ==
+eyJoaXN0b3J5IjpbLTExNDM5MjA0MDAsNzMzMTQzNDU4LC0zNj
+k4MjYyMzQsLTE2NDc5NzEwMDQsLTI0MTU0MjgzMywtMTc1MDI1
+MTYwNiwtNTM4NjE4NTUzLC0xOTQ2NjEzNTgsLTE3MTQwODM1Mz
+VdfQ==
 -->
