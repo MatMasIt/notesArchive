@@ -96,15 +96,22 @@ $$
 Per le funzioni dispari se prendiamo un intervallo uguale positivo e negativo adiacenti a $0$ si annullano e l'integrale risulta $=0$
 
 
---
+--        
 
-
-b
+              /  
+         / 
+     /
+    a------c-----b
 
 $$
 \int^b_af(x)dx=\int^c_af(x)dx+\int^b_cf(x)dx
 $$
+
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTI1MDg3MywtNTM4NjE4NTUzLC0xOT
-Q2NjEzNTgsLTE3MTQwODM1MzVdfQ==
+eyJoaXN0b3J5IjpbLTE3NTAyNTE2MDYsLTUzODYxODU1MywtMT
+k0NjYxMzU4LC0xNzE0MDgzNTM1XX0=
 -->
