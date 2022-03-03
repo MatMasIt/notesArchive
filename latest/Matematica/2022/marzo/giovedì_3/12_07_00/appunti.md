@@ -142,8 +142,11 @@ $$
 
 tutte percorse in senso orario
 l'aria racchiusa è calcolabile come somma di integrali delle funzioni
+
+
+--
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTgyNjIzNCwtMTY0Nzk3MTAwNCwtMj
-QxNTQyODMzLC0xNzUwMjUxNjA2LC01Mzg2MTg1NTMsLTE5NDY2
-MTM1OCwtMTcxNDA4MzUzNV19
+eyJoaXN0b3J5IjpbMjA0MzcwNzA1NiwtMzY5ODI2MjM0LC0xNj
+Q3OTcxMDA0LC0yNDE1NDI4MzMsLTE3NTAyNTE2MDYsLTUzODYx
+ODU1MywtMTk0NjYxMzU4LC0xNzE0MDgzNTM1XX0=
 -->
