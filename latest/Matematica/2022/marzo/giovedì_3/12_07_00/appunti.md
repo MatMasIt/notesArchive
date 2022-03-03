@@ -74,8 +74,17 @@ spiù piccoli i rettangoli maggiore è la precisione
 
 
 $$
+A= S_n=\sum_{i=1}^n f(c_i)\Delta x
+$$
+
+per l'area sotto la curva esatta occorrono infiniti rettangoli di risoluzione
+
+Somma secondo riemannn, integrale d
+
+$$
+\lim_{x\to \infin}S
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzg3Mzg0ODIsLTE3MTQwODM1MzVdfQ
+eyJoaXN0b3J5IjpbLTE0NDI3MjA3MDMsLTE3MTQwODM1MzVdfQ
 ==
 -->
