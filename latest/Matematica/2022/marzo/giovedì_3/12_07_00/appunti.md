@@ -136,8 +136,14 @@ $$
 $$
 =\int^b_af(x)dx+\int^b_a-g(x)dx
 $$
+
+
+3 funzioni chiuse tra di loro (formano figura)
+
+tutte percorse in senso orario
+l'aria racchiusa è calcolabile come somma di integrali delle funzioni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDc5NzEwMDQsLTI0MTU0MjgzMywtMT
-c1MDI1MTYwNiwtNTM4NjE4NTUzLC0xOTQ2NjEzNTgsLTE3MTQw
-ODM1MzVdfQ==
+eyJoaXN0b3J5IjpbLTM2OTgyNjIzNCwtMTY0Nzk3MTAwNCwtMj
+QxNTQyODMzLC0xNzUwMjUxNjA2LC01Mzg2MTg1NTMsLTE5NDY2
+MTM1OCwtMTcxNDA4MzUzNV19
 -->
