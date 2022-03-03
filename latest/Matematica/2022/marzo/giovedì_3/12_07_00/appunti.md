@@ -157,8 +157,11 @@ p.280
 $F$ è primitiva di $f$ se 
 * $F$ è **derivable**
 * La  derivata di $F$ è $f$
+
+ci sono più funzioni primitive di un altra
+è una famiglia di funzioni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDA1MTYyNywtMzY5ODI2MjM0LC0xNj
-Q3OTcxMDA0LC0yNDE1NDI4MzMsLTE3NTAyNTE2MDYsLTUzODYx
-ODU1MywtMTk0NjYxMzU4LC0xNzE0MDgzNTM1XX0=
+eyJoaXN0b3J5IjpbNzMzMTQzNDU4LC0zNjk4MjYyMzQsLTE2ND
+c5NzEwMDQsLTI0MTU0MjgzMywtMTc1MDI1MTYwNiwtNTM4NjE4
+NTUzLC0xOTQ2NjEzNTgsLTE3MTQwODM1MzVdfQ==
 -->
