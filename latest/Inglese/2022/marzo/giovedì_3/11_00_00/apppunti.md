@@ -11,6 +11,8 @@ he is envious of the emotions that people who make misdeeds experience
 
 
 double nature of mr utterson
+
+hypocritical man
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDMxOTI0OCwtMTI2MzY5NTIxNl19
+eyJoaXN0b3J5IjpbLTUyODU3NDkwOSwtMTI2MzY5NTIxNl19
 -->
