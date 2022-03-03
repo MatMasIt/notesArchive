@@ -192,9 +192,13 @@ $$
 $$
 \int x^\alpha dx =\frac{x^{\alpha+1}}{\alpha+1}+c
 $$
+
+$$
+\int \frac{1}{\cos^2 x}dx=\tan x +c
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Mjk1MzQ5MSw3MzMxNDM0NTgsLTM2OT
-gyNjIzNCwtMTY0Nzk3MTAwNCwtMjQxNTQyODMzLC0xNzUwMjUx
-NjA2LC01Mzg2MTg1NTMsLTE5NDY2MTM1OCwtMTcxNDA4MzUzNV
-19
+eyJoaXN0b3J5IjpbNzI0NjA2MzQsNzMzMTQzNDU4LC0zNjk4Mj
+YyMzQsLTE2NDc5NzEwMDQsLTI0MTU0MjgzMywtMTc1MDI1MTYw
+NiwtNTM4NjE4NTUzLC0xOTQ2NjEzNTgsLTE3MTQwODM1MzVdfQ
+==
 -->
