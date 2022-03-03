@@ -28,10 +28,10 @@ had nothing to say to each other
 
 looked releived when a friend joined
 
-but actually, they saw sunday as the jewel of the we
+but actually, they saw sunday as the jewel of the week, they liked the excursion very much, despite their interests diverged
 
 they are symbols of the acceptance of double nature of humans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDI2NDMyMSwtMjQzNzEzMDYxLC0xMj
-YzNjk1MjE2XX0=
+eyJoaXN0b3J5IjpbNjE1Mzc0Mjk1LC0yNDM3MTMwNjEsLTEyNj
+M2OTUyMTZdfQ==
 -->
