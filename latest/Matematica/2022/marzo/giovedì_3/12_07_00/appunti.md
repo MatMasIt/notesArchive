@@ -196,9 +196,30 @@ $$
 $$
 \int \frac{1}{\cos^2 x}dx=\tan x +c
 $$
+
+
+$$
+\int\frac1xdx=\ln|x|+c
+$$
+
+
+$$
+\int a^xdx=\frac{a^x}{\ln a}+c
+$$
+
+
+
+$$
+D(a^x)=a^x\ln a
+$$
+
+
+$$
+\int \frac{11}{1+x^2}dx=\arctan x
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NjA2MzQsNzMzMTQzNDU4LC0zNjk4Mj
-YyMzQsLTE2NDc5NzEwMDQsLTI0MTU0MjgzMywtMTc1MDI1MTYw
-NiwtNTM4NjE4NTUzLC0xOTQ2NjEzNTgsLTE3MTQwODM1MzVdfQ
-==
+eyJoaXN0b3J5IjpbMTc4OTc4MjA4LDcyNDYwNjM0LDczMzE0Mz
+Q1OCwtMzY5ODI2MjM0LC0xNjQ3OTcxMDA0LC0yNDE1NDI4MzMs
+LTE3NTAyNTE2MDYsLTUzODYxODU1MywtMTk0NjYxMzU4LC0xNz
+E0MDgzNTM1XX0=
 -->
