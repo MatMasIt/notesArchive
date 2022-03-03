@@ -87,7 +87,11 @@ $$
 
 
 ---
+
+$$
+\int^1_{-1}x^2-1dx=-\frac43
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDY2OTAwMywtMTk0NjYxMzU4LC0xNz
+eyJoaXN0b3J5IjpbLTUzODYxODU1MywtMTk0NjYxMzU4LC0xNz
 E0MDgzNTM1XX0=
 -->
