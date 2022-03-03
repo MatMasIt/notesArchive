@@ -121,6 +121,8 @@ $$
 
 ---
 
+Osservazioni
+
 
 $$
 \int^b_a[f(x)-g(x)]dx
@@ -128,12 +130,14 @@ $$
 
 
 $$
-=\nt^b_af(x)dx-\int^b_ag(x)dx
+=\int^b_af(x)dx-\int^b_ag(x)dx
 $$
 
-
+$$
+=\int^b_af(x)dx+\int^b_a-g(x)dx
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDcwNTI1MTMsLTI0MTU0MjgzMywtMT
+eyJoaXN0b3J5IjpbLTE2NDc5NzEwMDQsLTI0MTU0MjgzMywtMT
 c1MDI1MTYwNiwtNTM4NjE4NTUzLC0xOTQ2NjEzNTgsLTE3MTQw
 ODM1MzVdfQ==
 -->
