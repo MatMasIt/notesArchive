@@ -59,12 +59,23 @@ $$
 
 Somma di Riemann
 
-
-
-
-    
+                    /|
+                   /||
+          ________/|||
+         /||||||||||||
+        /|||||||||||||
 		----------------------
+
+Divido curva  in più rettangoli possibili
+
+approssima o per difetto e per eccesso 
+
+spiù piccoli i rettangoli maggiore è la precisione
+
+
+$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE3NzcwMzUsLTE3MTQwODM1MzVdfQ
+eyJoaXN0b3J5IjpbLTIwMzg3Mzg0ODIsLTE3MTQwODM1MzVdfQ
 ==
 -->
