@@ -32,7 +32,7 @@ L'uomo fa Dio a propria immagine e somiglianza per conoscersi
 
 religione: via che consente all'uomo di scoprire la propria essenza
 
-trasformare teo
+trasformare teologia in antropologia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzOTQ2NjIyLDExNDY2MzM5MF19
+eyJoaXN0b3J5IjpbLTM0NzA4OTgxOCwxMTQ2NjMzOTBdfQ==
 -->
