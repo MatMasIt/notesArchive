@@ -17,6 +17,11 @@ hypocritical man
 Friends relatives
 
 its not the quality, but the passing of time
+
+
+people could not understand what was in common between utterson and mr anfield
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzcxMzA2MSwtMTI2MzY5NTIxNl19
+eyJoaXN0b3J5IjpbMTk3NTgzNjEwNCwtMjQzNzEzMDYxLC0xMj
+YzNjk1MjE2XX0=
 -->
