@@ -176,14 +176,25 @@ $$
 $$
 
 $$
-\int \sin x dx = -\cos x èc
+\int \sin x dx = -\cos x +c
 $$
 
 
+$$
+\int \cos x dx = \sin x +c
+$$
 
+$$
+\int e^xdx=e^x+c
+$$
+
+
+$$
+\int x^\alpha dx =\frac{x^{\alpha+1}}{\alpha+1}+c
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzOTMxNTc1LDczMzE0MzQ1OCwtMzY5OD
-I2MjM0LC0xNjQ3OTcxMDA0LC0yNDE1NDI4MzMsLTE3NTAyNTE2
-MDYsLTUzODYxODU1MywtMTk0NjYxMzU4LC0xNzE0MDgzNTM1XX
-0=
+eyJoaXN0b3J5IjpbMTY0Mjk1MzQ5MSw3MzMxNDM0NTgsLTM2OT
+gyNjIzNCwtMTY0Nzk3MTAwNCwtMjQxNTQyODMzLC0xNzUwMjUx
+NjA2LC01Mzg2MTg1NTMsLTE5NDY2MTM1OCwtMTcxNDA4MzUzNV
+19
 -->
