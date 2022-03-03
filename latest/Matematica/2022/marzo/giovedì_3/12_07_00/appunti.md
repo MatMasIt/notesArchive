@@ -155,9 +155,10 @@ p.280
 
 
 $F$ è primitiva di $f$ se 
-* $F$ è 
+* $F$ è **derivable**
+* La  derivata di $F$ è $f$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTcyNjYxNSwtMzY5ODI2MjM0LC0xNj
+eyJoaXN0b3J5IjpbMTM4NDA1MTYyNywtMzY5ODI2MjM0LC0xNj
 Q3OTcxMDA0LC0yNDE1NDI4MzMsLTE3NTAyNTE2MDYsLTUzODYx
 ODU1MywtMTk0NjYxMzU4LC0xNzE0MDgzNTM1XX0=
 -->
