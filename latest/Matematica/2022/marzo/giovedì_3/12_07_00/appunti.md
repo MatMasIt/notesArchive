@@ -174,9 +174,16 @@ Tabella integrali
 $$
 \int k dx = kx+c
 $$
+
+$$
+\int \sin x dx = -\cos x èc
+$$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDM5MjA0MDAsNzMzMTQzNDU4LC0zNj
-k4MjYyMzQsLTE2NDc5NzEwMDQsLTI0MTU0MjgzMywtMTc1MDI1
-MTYwNiwtNTM4NjE4NTUzLC0xOTQ2NjEzNTgsLTE3MTQwODM1Mz
-VdfQ==
+eyJoaXN0b3J5IjpbMzYzOTMxNTc1LDczMzE0MzQ1OCwtMzY5OD
+I2MjM0LC0xNjQ3OTcxMDA0LC0yNDE1NDI4MzMsLTE3NTAyNTE2
+MDYsLTUzODYxODU1MywtMTk0NjYxMzU4LC0xNzE0MDgzNTM1XX
+0=
 -->
