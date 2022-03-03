@@ -114,10 +114,10 @@ $$
 
 
 $$
-\int^b_a[f(x)\pmg
+\int^b_a[f(x)\pm g(x)]dx=\int^b_af(x)dx+\int^b_ag(x)dx
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzUxNTk0NCwtMTc1MDI1MTYwNiwtNT
+eyJoaXN0b3J5IjpbLTI0MTU0MjgzMywtMTc1MDI1MTYwNiwtNT
 M4NjE4NTUzLC0xOTQ2NjEzNTgsLTE3MTQwODM1MzVdfQ==
 -->
