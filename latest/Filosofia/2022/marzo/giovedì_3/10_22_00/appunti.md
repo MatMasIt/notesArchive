@@ -34,8 +34,10 @@ religione: via che consente all'uomo di scoprire la propria essenza
 
 trasformare teologia in antropologia
 
-Umani
+Umanità deve diventare oggetto di interesse umano
+
+dal teismo all' antropoteismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDgxMTYwMiwtMzQ3MDg5ODE4LDExND
+eyJoaXN0b3J5IjpbLTM2MTE3OTIyNiwtMzQ3MDg5ODE4LDExND
 Y2MzM5MF19
 -->
