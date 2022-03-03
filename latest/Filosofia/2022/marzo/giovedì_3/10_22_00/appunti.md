@@ -28,6 +28,11 @@ Si può conoscere solo quello che si può oggettivare
 L'uomo proietta queste sue caratteristiche in una entità esterna a se, che è Dio
 
 L'uomo fa Dio a propria immagine e somiglianza per conoscersi
+
+
+religione: via che consente all'uomo di scoprire la propria essenza
+
+trasformare teo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjYzMzkwXX0=
+eyJoaXN0b3J5IjpbMjYzOTQ2NjIyLDExNDY2MzM5MF19
 -->
