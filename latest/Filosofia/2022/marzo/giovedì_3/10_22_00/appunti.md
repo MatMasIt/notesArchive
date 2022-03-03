@@ -20,6 +20,10 @@ tre cose distinguono uomo dalle bestie
 * cuore (amore, capacità di amare)
 
 Tre più alte caratteristiche umane
+
+Difficili da raggiungere nella pienezza
+
+Si può conoscere solo quello che si può oggettivare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzkzMjQ0NF19
+eyJoaXN0b3J5IjpbMTM4NDgxNjQ3MV19
 -->
