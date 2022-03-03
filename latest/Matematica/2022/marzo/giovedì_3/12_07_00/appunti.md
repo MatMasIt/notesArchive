@@ -35,7 +35,7 @@ funzione integrale
 
 
 $$
-\int^infin_af(x)dt
+\int^\infin_af(x)dt
 $$
 
 integrale improprio
@@ -51,6 +51,13 @@ area sotto curve
 $$
 f(x) > 0\quad \forall x \in [a,b]
 $$
+
+$$
+\Delta x = \frac{b-a}n$$
+
+
+
+Somma di Riemann
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjgzNDY5MF19
+eyJoaXN0b3J5IjpbLTE3MTQwODM1MzVdfQ==
 -->
