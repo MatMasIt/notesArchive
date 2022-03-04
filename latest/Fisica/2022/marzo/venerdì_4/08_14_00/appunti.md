@@ -47,14 +47,15 @@ Teorema di Gauss
 
 $$
 \Large
-\begin{equation*} \begin{cases} \Phi\left(\vec E \right)=\frac{\sum^n_{i=1} Q_i}{\varepsilon_0} =\frac{Q}{\varepsilon_0}
+\begin{equation*} \begin{cases} \Phi\left(\vec E \right)=\frac{\sum^n_{i=1} Q_i}{\varepsilon_0} =\frac{Q}{\varepsilon_0}\quad{}^1
 \\
-\Gamma\left(\vec B\right)=\mu_0\sum^n_{i=1}I
+\Gamma\left(\vec B\right)=\mu_0\sum^n_{i=1}I_i \quad\space\space {}^2
 \end{cases} \end{equation*} 
 $$
 
-cariche contenute nella superficie gaussiana
+^1^ cariche contenute nella superficie gaussiana
+^2^: concatenate con la linea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzUzODAzNSwtMTY5MTA3OTM2LDcwNT
+eyJoaXN0b3J5IjpbLTEwODUzMzk4MiwtMTY5MTA3OTM2LDcwNT
 E3NjMwMF19
 -->
