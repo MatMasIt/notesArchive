@@ -40,6 +40,8 @@ $$
 \Phi(\vec B)=0
 $$
 in una superficie gaussiana
+
+Flusso entrante = flusso uscente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODk0OTc5Myw3MDUxNzYzMDBdfQ==
+eyJoaXN0b3J5IjpbLTE2OTEwNzkzNiw3MDUxNzYzMDBdfQ==
 -->
