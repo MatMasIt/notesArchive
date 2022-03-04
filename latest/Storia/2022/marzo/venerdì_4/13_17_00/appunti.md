@@ -61,8 +61,10 @@ azione diplomazia inglese
 Ridimensionati vantaggi russi
 
 
-limitare influenza alla Bulag
+limitare influenza alla Bulgaria, che fu anche ridimensionata
+
+All'impero asburgico viene data u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDI1NzMyODksLTEwMjE1Mzc3MTgsLT
-gxNzI4NTQzOCwtMTY0NjY4NjcyMl19
+eyJoaXN0b3J5IjpbODkzMjU0MjksLTEwMjE1Mzc3MTgsLTgxNz
+I4NTQzOCwtMTY0NjY4NjcyMl19
 -->
