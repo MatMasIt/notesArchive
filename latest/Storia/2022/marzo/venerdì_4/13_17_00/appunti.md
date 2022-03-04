@@ -22,6 +22,14 @@ Germania vuole pace, deve stabilizzare unità
 anni '80 lascia francia e inghilterra
 
 espansione coloniale sacrificata pur di consolidare lo stato
+
+
+1867
+
+Impero asburgico riformato in Impero austroungarico
+
+
+ampiaaut
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNjk1MzA4LC0xNjQ2Njg2NzIyXX0=
+eyJoaXN0b3J5IjpbOTAzODk0Njk5LC0xNjQ2Njg2NzIyXX0=
 -->
