@@ -62,11 +62,18 @@ $$
 
 	>>> e_0=8.85418782E-12     
 	>>> mu_0=1.25663706E-6         
-	>>> (e_0*mu_0)**0.5                                                                                      3.335640950523993e-09                                                                                    >>> 1/((e_0*mu_0)**0.5)                                                                                  299792458.13099605
+	>>> (e_0*mu_0)**0.5
+	3.335640950523993e-09
+	>>> 1/((e_0*mu_0)**0.5)    
+	299792458.13099605
 
 Oggi:
 * moto di una particella in un campo magnetico
+
+Esperimento di thompson
+
+Generatore kilovolt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwNzA2ODI3LC0xMDg1MzM5ODIsLTE2OT
-EwNzkzNiw3MDUxNzYzMDBdfQ==
+eyJoaXN0b3J5IjpbLTIwMTcxMzkyMjEsNjgwNzA2ODI3LC0xMD
+g1MzM5ODIsLTE2OTEwNzkzNiw3MDUxNzYzMDBdfQ==
 -->
