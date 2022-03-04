@@ -74,7 +74,7 @@ $$
 Oggi:
 * moto di una particella in un campo magnetico
 
-Esperimento di thompson
+Esperimento di thomson
 
 Generatore kilovolt
 
@@ -108,8 +108,8 @@ salto quantico
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Nzg0NDA3MywxOTY3OTA1MzgsLTEyMD
-Q2NDE3ODgsLTE0MzA0MzAzNTUsLTIxMjY1MDcyNjUsNjgwNzA2
-ODI3LC0xMDg1MzM5ODIsLTE2OTEwNzkzNiw3MDUxNzYzMDBdfQ
-==
+eyJoaXN0b3J5IjpbNTkxNzMwMzI3LDE1Njc4NDQwNzMsMTk2Nz
+kwNTM4LC0xMjA0NjQxNzg4LC0xNDMwNDMwMzU1LC0yMTI2NTA3
+MjY1LDY4MDcwNjgyNywtMTA4NTMzOTgyLC0xNjkxMDc5MzYsNz
+A1MTc2MzAwXX0=
 -->
