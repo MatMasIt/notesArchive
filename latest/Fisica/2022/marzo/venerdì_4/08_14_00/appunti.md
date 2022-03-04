@@ -42,6 +42,13 @@ $$
 in una superficie gaussiana
 
 Flusso entrante = flusso uscente
+
+Teorema di Gauss
+
+$$
+\begin{equation*} \begin{cases} \Phi\left(\vec E \right)=\frac{\sum^n_{i=1} Q_i}{\varepsilon_0} =\frac{Q}{\varepsilo\end{cases} \end{equation*} 
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTEwNzkzNiw3MDUxNzYzMDBdfQ==
+eyJoaXN0b3J5IjpbODk0Njk4NzIyLC0xNjkxMDc5MzYsNzA1MT
+c2MzAwXX0=
 -->
