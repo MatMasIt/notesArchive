@@ -40,8 +40,15 @@ il patto dei tre imperatori e poi la triplice alleanza
 Bulgaria e bosnia cristiane volevano staccarsi dall'impero ottomano
 
 
-la Russia con la scusa d 
+la Russia con la scusa di difendere i popoli slavi vuole espandersi nei balcani
+
+Trattato di Santo stefano '78
+
+nazioni balcaniche sono ora indipendenti ma sotto l'influenza russa
+
+Austria
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDE1NTQ1NCwtMTAyMTUzNzcxOCwtOD
+eyJoaXN0b3J5IjpbMTk0MjY3NzQ3MSwtMTAyMTUzNzcxOCwtOD
 E3Mjg1NDM4LC0xNjQ2Njg2NzIyXX0=
 -->
