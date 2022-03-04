@@ -89,8 +89,9 @@ effetto fotoelettrico
 
 Lavoro di estrazione:
 
+livello di energia di Feri: elettroni in quiete
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTA0NTMyNSwtMTQzMDQzMDM1NSwtMj
-EyNjUwNzI2NSw2ODA3MDY4MjcsLTEwODUzMzk4MiwtMTY5MTA3
-OTM2LDcwNTE3NjMwMF19
+eyJoaXN0b3J5IjpbLTE1Mzc3OTcwNjksLTE0MzA0MzAzNTUsLT
+IxMjY1MDcyNjUsNjgwNzA2ODI3LC0xMDg1MzM5ODIsLTE2OTEw
+NzkzNiw3MDUxNzYzMDBdfQ==
 -->
