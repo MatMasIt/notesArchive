@@ -107,9 +107,17 @@ salto quantico
 ![](https://i.imgur.com/3hai1nA.jpg)
 
 
+
+Esperimento di Thomson
+
+$$
+U=q\Delta V
+$$
+
+Effetto termoionico (simile ad effetto fotoelettrico)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxNzMwMzI3LDE1Njc4NDQwNzMsMTk2Nz
-kwNTM4LC0xMjA0NjQxNzg4LC0xNDMwNDMwMzU1LC0yMTI2NTA3
-MjY1LDY4MDcwNjgyNywtMTA4NTMzOTgyLC0xNjkxMDc5MzYsNz
-A1MTc2MzAwXX0=
+eyJoaXN0b3J5IjpbLTEwNzE5OTAwNjAsMTU2Nzg0NDA3MywxOT
+Y3OTA1MzgsLTEyMDQ2NDE3ODgsLTE0MzA0MzAzNTUsLTIxMjY1
+MDcyNjUsNjgwNzA2ODI3LC0xMDg1MzM5ODIsLTE2OTEwNzkzNi
+w3MDUxNzYzMDBdfQ==
 -->
