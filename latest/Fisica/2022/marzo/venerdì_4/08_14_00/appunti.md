@@ -115,9 +115,16 @@ U=q\Delta V
 $$
 
 Effetto termoionico (simile ad effetto fotoelettrico)
+
+
+campo elettrico opposto alla forza che muove gli elettroni
+
+$$
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE5OTAwNjAsMTU2Nzg0NDA3MywxOT
-Y3OTA1MzgsLTEyMDQ2NDE3ODgsLTE0MzA0MzAzNTUsLTIxMjY1
-MDcyNjUsNjgwNzA2ODI3LC0xMDg1MzM5ODIsLTE2OTEwNzkzNi
-w3MDUxNzYzMDBdfQ==
+eyJoaXN0b3J5IjpbMTM5MzMwNTQ5MSwxNTY3ODQ0MDczLDE5Nj
+c5MDUzOCwtMTIwNDY0MTc4OCwtMTQzMDQzMDM1NSwtMjEyNjUw
+NzI2NSw2ODA3MDY4MjcsLTEwODUzMzk4MiwtMTY5MTA3OTM2LD
+cwNTE3NjMwMF19
 -->
