@@ -36,7 +36,10 @@ $$
 \Gamma(\vec E)_\gamma=0
 $$
 
-
+$$
+\Phi(\vec B)=0
+$$
+quando il numero di linee che entrano e che escono sono 0
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1MTc2MzAwXX0=
+eyJoaXN0b3J5IjpbLTI2MDUxMDk2LDcwNTE3NjMwMF19
 -->
