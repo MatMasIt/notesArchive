@@ -84,6 +84,8 @@ latest/Fisica/2022/gennaio/venerdì_21/08_00_00/appunti.md:https://i.imgur.com/4
 latest/Fisica/2022/marzo/venerdì_4/08_14_00/appunti.md:https://i.imgur.com/3hai1nA.jpg
 latest/Fisica/2022/marzo/venerdì_4/08_14_00/appunti.md:https://i.imgur.com/SG9GADY.jpg
 latest/Fisica/2022/marzo/venerdì_4/08_14_00/appunti.md:https://i.imgur.com/o0O8IFl.jpg
+latest/Fisica/2022/marzo/venerdì_4/08_14_00/appunti.md:https://i.imgur.com/pY60Yb2.jpg
+latest/Fisica/2022/marzo/venerdì_4/08_14_00/appunti.md:https://i.imgur.com/vyRi7G5.jpg
 latest/Italiano/2021/febbraio/giovedì_04/08_00_21/appunti.md:https://i.imgur.com/jbmvg04.png
 latest/Italiano/2021/maggio/giovedì_13/compito/tipologiaB.md.md:https://i.imgur.com/Hs86Tlz.jpg
 latest/Italiano/2021/maggio/giovedì_13/compito/tipologiaB.md.md:https://i.imgur.com/gT3Uvsu.jpg
