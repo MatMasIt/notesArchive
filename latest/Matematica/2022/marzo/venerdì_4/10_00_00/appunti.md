@@ -1,6 +1,6 @@
 # Lezione di Italiano
 Benedetto Croce:
-lirica deve essere 
+lirica deve essere lirica, non discorsiva e ragionata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Mzc1OTY2OF19
+eyJoaXN0b3J5IjpbODIyMTk1MTAzXX0=
 -->
