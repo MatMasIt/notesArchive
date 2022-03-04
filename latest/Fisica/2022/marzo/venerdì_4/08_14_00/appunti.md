@@ -4,8 +4,25 @@ Immaginiamo che il campo magnetico ed elettrico siano generati da cariche static
 
 
 $$
-\teta
+\Phi(\vec E)
 $$
+
+$$
+\Phi (\vec B)
+$$
+
+
+$$
+\Gamma(\vec E)
+$$
+
+$$
+\Gamma(\vec B)
+$$
+
+entrambi prodotti scalari: flusso e circuitazione
+
+$\Phi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyMzk4NTU1XX0=
+eyJoaXN0b3J5IjpbLTE2NTE5NDE0NTBdfQ==
 -->
