@@ -16,6 +16,12 @@ Bismarck vuole isolare una francia desiderosa di rivincita rispetto alla umilian
 1873, bismarck, patto dei 3 imperatori
 
 p. 427 p. 428
+
+Germania vuole pace, deve stabilizzare unità
+
+anni '80 lascia francia e inghilterra
+
+espansione coloniale sacrificata pur di consolidare lo stato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY2ODY3MjJdfQ==
+eyJoaXN0b3J5IjpbNjYyNjk1MzA4LC0xNjQ2Njg2NzIyXX0=
 -->
