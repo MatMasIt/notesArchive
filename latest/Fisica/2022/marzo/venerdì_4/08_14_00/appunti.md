@@ -132,12 +132,30 @@ $$
 > $d=5\cdot 10^{-2}m$
 > $E=4\frac{kV}{m}=4000\frac{V}{m}$
 > $v_0=0\frac{m}s$
-> 
+> $e=1,6\cdot 10^{-19}C$
 > **Richieste**
 > $v_f=?$
 
+
+
+$$
+U_{e_A}=K_{C_B}
+$$
+
+$$
+e\Delta V=\frac12m_ev_f^2
+$$
+
+$$
+E=\frac{\Delta V}d
+$$
+
+$$
+eE\cdot d=\frac12m_e
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODI5ODE3NywxNTY3ODQ0MDczLDE5Nj
+eyJoaXN0b3J5IjpbMTc0OTM1NzQ2MywxNTY3ODQ0MDczLDE5Nj
 c5MDUzOCwtMTIwNDY0MTc4OCwtMTQzMDQzMDM1NSwtMjEyNjUw
 NzI2NSw2ODA3MDY4MjcsLTEwODUzMzk4MiwtMTY5MTA3OTM2LD
 cwNTE3NjMwMF19
