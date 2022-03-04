@@ -81,9 +81,11 @@ raggio di eletttroni
 visibile su carta fluorescente
 
 
+Filamento di metallo non pesante tipo il rame
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzA0MzAzNTUsLTIxMjY1MDcyNjUsNj
-gwNzA2ODI3LC0xMDg1MzM5ODIsLTE2OTEwNzkzNiw3MDUxNzYz
-MDBdfQ==
+eyJoaXN0b3J5IjpbLTIwMTczNTIwNTQsLTE0MzA0MzAzNTUsLT
+IxMjY1MDcyNjUsNjgwNzA2ODI3LC0xMDg1MzM5ODIsLTE2OTEw
+NzkzNiw3MDUxNzYzMDBdfQ==
 -->
