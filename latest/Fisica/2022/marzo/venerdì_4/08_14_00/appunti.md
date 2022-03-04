@@ -39,7 +39,7 @@ $$
 $$
 \Phi(\vec B)=0
 $$
-quando il numero di linee che entrano e che escono sono 0
+in una superficie gaussiana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDUxMDk2LDcwNTE3NjMwMF19
+eyJoaXN0b3J5IjpbMTEyODk0OTc5Myw3MDUxNzYzMDBdfQ==
 -->
