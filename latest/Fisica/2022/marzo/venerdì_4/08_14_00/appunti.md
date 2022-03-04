@@ -46,7 +46,7 @@ in una superficie gaussiana
 
 Flusso entrante = flusso uscente
 
-Teorema di Gauss
+## Teorema di Gauss
 
 $$
 \Large
@@ -74,7 +74,7 @@ $$
 Oggi:
 * moto di una particella in un campo magnetico
 
-Esperimento di thomson
+## Esperimento di Thomson
 
 Generatore kilovolt
 
@@ -116,6 +116,7 @@ $$
 
 Effetto termoionico (simile ad effetto fotoelettrico)
 
+![](https://i.imgur.com/pY60Yb2.jpg)
 
 campo elettrico opposto alla forza che muove gli elettroni
 
@@ -123,9 +124,15 @@ $$
 e=-1,4\cdot 10^{-19}C
 $$
 
+
+
+## es70 p 425
+
+> **Dati**
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDE2NTE4MTYsMTU2Nzg0NDA3MywxOT
-Y3OTA1MzgsLTEyMDQ2NDE3ODgsLTE0MzA0MzAzNTUsLTIxMjY1
-MDcyNjUsNjgwNzA2ODI3LC0xMDg1MzM5ODIsLTE2OTEwNzkzNi
-w3MDUxNzYzMDBdfQ==
+eyJoaXN0b3J5IjpbMTk5NDIyNzAxOSwxNTY3ODQ0MDczLDE5Nj
+c5MDUzOCwtMTIwNDY0MTc4OCwtMTQzMDQzMDM1NSwtMjEyNjUw
+NzI2NSw2ODA3MDY4MjcsLTEwODUzMzk4MiwtMTY5MTA3OTM2LD
+cwNTE3NjMwMF19
 -->
