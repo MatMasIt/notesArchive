@@ -89,11 +89,15 @@ effetto fotoelettrico
 
 Lavoro di estrazione:
 
-livello di energia di Feri: elettroni in quiete
+livello di energia di Ferim: elettroni in quiete
+
+quanto di energia necessario per il salto
+
+esperimento: condensatori per accellerare il fascio di elettroni
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMzcwNjM5LC0xNDMwNDMwMzU1LC0yMT
-I2NTA3MjY1LDY4MDcwNjgyNywtMTA4NTMzOTgyLC0xNjkxMDc5
-MzYsNzA1MTc2MzAwXX0=
+eyJoaXN0b3J5IjpbLTEyMDQ2NDE3ODgsLTE0MzA0MzAzNTUsLT
+IxMjY1MDcyNjUsNjgwNzA2ODI3LC0xMDg1MzM5ODIsLTE2OTEw
+NzkzNiw3MDUxNzYzMDBdfQ==
 -->
