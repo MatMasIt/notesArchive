@@ -32,6 +32,11 @@ Impero asburgico riformato in Impero austroungarico
 ampia autonomia ai magiari (Ungheresi)
 
 che hanno il loro parlamento a Budapest
+
+
+
+il patto dei tre imperatori e poi la triplice alleanza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzI4NTQzOCwtMTY0NjY4NjcyMl19
+eyJoaXN0b3J5IjpbLTEwMjE1Mzc3MTgsLTgxNzI4NTQzOCwtMT
+Y0NjY4NjcyMl19
 -->
