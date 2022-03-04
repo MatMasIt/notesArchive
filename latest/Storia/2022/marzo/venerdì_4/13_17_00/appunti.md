@@ -36,7 +36,12 @@ che hanno il loro parlamento a Budapest
 
 
 il patto dei tre imperatori e poi la triplice alleanza
+
+Bulgaria e bosnia cristiane volevano staccarsi dall'impero ottomano
+
+
+la Russia con la scusa d 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjE1Mzc3MTgsLTgxNzI4NTQzOCwtMT
-Y0NjY4NjcyMl19
+eyJoaXN0b3J5IjpbMTE5MDE1NTQ1NCwtMTAyMTUzNzcxOCwtOD
+E3Mjg1NDM4LC0xNjQ2Njg2NzIyXX0=
 -->
