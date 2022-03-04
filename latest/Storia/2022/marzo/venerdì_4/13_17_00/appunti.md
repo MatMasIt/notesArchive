@@ -29,7 +29,9 @@ espansione coloniale sacrificata pur di consolidare lo stato
 Impero asburgico riformato in Impero austroungarico
 
 
-ampiaaut
+ampia autonomia ai magiari (Ungheresi)
+
+che hanno il loro parlamento a Budapest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzODk0Njk5LC0xNjQ2Njg2NzIyXX0=
+eyJoaXN0b3J5IjpbLTgxNzI4NTQzOCwtMTY0NjY4NjcyMl19
 -->
