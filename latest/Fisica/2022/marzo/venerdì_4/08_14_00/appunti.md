@@ -26,6 +26,17 @@ $\Phi$: flusso
 $\Gamma$: circuitazione
 
 superficie gaussiana
+
+Crcuitazione su linea chiusa
+
+
+In una linea chiusa
+
+$$
+\Gamma(\vec E)_\gamma=0
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDE3ODkzNV19
+eyJoaXN0b3J5IjpbNzA1MTc2MzAwXX0=
 -->
