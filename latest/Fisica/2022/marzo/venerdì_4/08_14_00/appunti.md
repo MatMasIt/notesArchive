@@ -73,7 +73,15 @@ Oggi:
 Esperimento di thompson
 
 Generatore kilovolt
+
+tubo di Crookes
+
+raggio di eletttroni
+
+visibile su carta fluorescente
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTcxMzkyMjEsNjgwNzA2ODI3LC0xMD
+eyJoaXN0b3J5IjpbLTIxMjY1MDcyNjUsNjgwNzA2ODI3LC0xMD
 g1MzM5ODIsLTE2OTEwNzkzNiw3MDUxNzYzMDBdfQ==
 -->
