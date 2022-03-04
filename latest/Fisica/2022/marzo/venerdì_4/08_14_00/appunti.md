@@ -99,9 +99,17 @@ quanto di energia necessario per il salto
 
 esperimento: condensatori per accellerare il fascio di elettroni
 
+![](https://i.imgur.com/o0O8IFl.jpg)
+
+
+salto quantico
+
+![](https://i.imgur.com/3hai1nA.jpg)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzkwNTM4LC0xMjA0NjQxNzg4LC0xND
-MwNDMwMzU1LC0yMTI2NTA3MjY1LDY4MDcwNjgyNywtMTA4NTMz
-OTgyLC0xNjkxMDc5MzYsNzA1MTc2MzAwXX0=
+eyJoaXN0b3J5IjpbMTU2Nzg0NDA3MywxOTY3OTA1MzgsLTEyMD
+Q2NDE3ODgsLTE0MzA0MzAzNTUsLTIxMjY1MDcyNjUsNjgwNzA2
+ODI3LC0xMDg1MzM5ODIsLTE2OTEwNzkzNiw3MDUxNzYzMDBdfQ
+==
 -->
