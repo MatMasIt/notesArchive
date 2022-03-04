@@ -46,9 +46,23 @@ Trattato di Santo stefano '78
 
 nazioni balcaniche sono ora indipendenti ma sotto l'influenza russa
 
-Austria
+Austria non può accettare e minaccia di fare la guerra alla Russia
 
+Anche Gran Bretagna non d'accordo
+
+Arriva Bismarck
+
+
+Congresso di Berlino 1878
+
+azione diplomazia inglese
+
+
+Ridimensionati vantaggi russi
+
+
+limitare influenza alla Bulag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjY3NzQ3MSwtMTAyMTUzNzcxOCwtOD
-E3Mjg1NDM4LC0xNjQ2Njg2NzIyXX0=
+eyJoaXN0b3J5IjpbLTE1MDI1NzMyODksLTEwMjE1Mzc3MTgsLT
+gxNzI4NTQzOCwtMTY0NjY4NjcyMl19
 -->
