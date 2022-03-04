@@ -39,6 +39,9 @@ $$
 $$
 \Phi(\vec B)=0
 $$
+
+![](https://i.imgur.com/SG9GADY.jpg)
+
 in una superficie gaussiana
 
 Flusso entrante = flusso uscente
@@ -56,6 +59,6 @@ $$
 ^1^ cariche contenute nella superficie gaussiana
 ^2^: concatenate con la linea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUzMzk4MiwtMTY5MTA3OTM2LDcwNT
-E3NjMwMF19
+eyJoaXN0b3J5IjpbLTIwODY5ODkxMzEsLTEwODUzMzk4MiwtMT
+Y5MTA3OTM2LDcwNTE3NjMwMF19
 -->
