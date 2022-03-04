@@ -60,6 +60,10 @@ $$
 ^2^: concatenate con la linea
 
 
+$$
+c=\frac{1}{\sqrt{\varepsilon_0\mu_0}}
+$$
+
 	>>> e_0=8.85418782E-12     
 	>>> mu_0=1.25663706E-6         
 	>>> (e_0*mu_0)**0.5
@@ -97,7 +101,7 @@ esperimento: condensatori per accellerare il fascio di elettroni
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ2NDE3ODgsLTE0MzA0MzAzNTUsLT
-IxMjY1MDcyNjUsNjgwNzA2ODI3LC0xMDg1MzM5ODIsLTE2OTEw
-NzkzNiw3MDUxNzYzMDBdfQ==
+eyJoaXN0b3J5IjpbMTk2NzkwNTM4LC0xMjA0NjQxNzg4LC0xND
+MwNDMwMzU1LC0yMTI2NTA3MjY1LDY4MDcwNjgyNywtMTA4NTMz
+OTgyLC0xNjkxMDc5MzYsNzA1MTc2MzAwXX0=
 -->
