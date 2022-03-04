@@ -46,9 +46,15 @@ Flusso entrante = flusso uscente
 Teorema di Gauss
 
 $$
-\begin{equation*} \begin{cases} \Phi\left(\vec E \right)=\frac{\sum^n_{i=1} Q_i}{\varepsilon_0} =\frac{Q}{\varepsilo\end{cases} \end{equation*} 
+\Large
+\begin{equation*} \begin{cases} \Phi\left(\vec E \right)=\frac{\sum^n_{i=1} Q_i}{\varepsilon_0} =\frac{Q}{\varepsilon_0}
+\\
+\Gamma\left(\vec B\right)=\mu_0\sum^n_{i=1}I
+\end{cases} \end{equation*} 
 $$
+
+cariche contenute nella superficie gaussiana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0Njk4NzIyLC0xNjkxMDc5MzYsNzA1MT
-c2MzAwXX0=
+eyJoaXN0b3J5IjpbMTg0MzUzODAzNSwtMTY5MTA3OTM2LDcwNT
+E3NjMwMF19
 -->
