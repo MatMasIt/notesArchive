@@ -13,11 +13,11 @@ $$
 
 
 $$
-\Gamma(\vec E) = \vec E \ \vec{\Delta s}
+\Gamma(\vec E) = \vec E \cdot  \vec{\Delta s}
 $$
 
 $$
-\Gamma(\vec B)
+\Gamma(\vec B) = \vec B \cdot  \vec{\Delta s}
 $$
 
 entrambi prodotti scalari: flusso e circuitazione
@@ -27,5 +27,5 @@ $\Gamma$: circuitazione
 
 superficie gaussiana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODI4NjkyNV19
+eyJoaXN0b3J5IjpbMTA2MDE3ODkzNV19
 -->
