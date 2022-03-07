@@ -22,8 +22,12 @@ sottrarre slavi all'impero asburgico
 progetto panslavista
 
 
+1990
 
+Kaiser Guglielmo II
+
+che congeda Bismarck
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjk3NzkxMiwtMTg1MjY5ODM4NiwtMT
-Q3OTQ2Mjg2MCwtMTI4MjA3MjM3N119
+eyJoaXN0b3J5IjpbOTg2NTk3ODk4LC0xODUyNjk4Mzg2LC0xND
+c5NDYyODYwLC0xMjgyMDcyMzc3XX0=
 -->
