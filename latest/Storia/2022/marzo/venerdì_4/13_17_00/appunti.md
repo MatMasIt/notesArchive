@@ -63,8 +63,8 @@ Ridimensionati vantaggi russi
 
 limitare influenza alla Bulgaria, che fu anche ridimensionata
 
-All'impero asburgico viene data u
+All'impero asburgico viene data una compensazione: amministrazione temporanea di Bosnia e Erzegovina, che rimangono comunque ottomane
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzMjU0MjksLTEwMjE1Mzc3MTgsLTgxNz
-I4NTQzOCwtMTY0NjY4NjcyMl19
+eyJoaXN0b3J5IjpbMTE2MDUwMTE3NywtMTAyMTUzNzcxOCwtOD
+E3Mjg1NDM4LC0xNjQ2Njg2NzIyXX0=
 -->
