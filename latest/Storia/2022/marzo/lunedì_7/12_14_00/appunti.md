@@ -31,7 +31,14 @@ che congeda Bismarck
 congeda guglielmo
 
 non viene rinnovato il trattato di controassicurazione
+
+si pensa che francia e russia non si alleeranno
+
+
+però
+francia vuole alleanza antitedesca
+russia vuole industrializzarsi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjY1ODU0OCwtMTg1MjY5ODM4NiwtMT
+eyJoaXN0b3J5IjpbLTE1Mzc1NjM4MSwtMTg1MjY5ODM4NiwtMT
 Q3OTQ2Mjg2MCwtMTI4MjA3MjM3N119
 -->
