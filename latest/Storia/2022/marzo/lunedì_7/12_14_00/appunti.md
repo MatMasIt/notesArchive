@@ -27,7 +27,11 @@ progetto panslavista
 Kaiser Guglielmo II
 
 che congeda Bismarck
+
+congeda guglielmo
+
+non viene rinnovato il trattato di controassicurazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2NTk3ODk4LC0xODUyNjk4Mzg2LC0xND
-c5NDYyODYwLC0xMjgyMDcyMzc3XX0=
+eyJoaXN0b3J5IjpbMTQ4NjY1ODU0OCwtMTg1MjY5ODM4NiwtMT
+Q3OTQ2Mjg2MCwtMTI4MjA3MjM3N119
 -->
