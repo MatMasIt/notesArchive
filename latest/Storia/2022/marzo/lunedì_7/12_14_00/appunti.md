@@ -38,7 +38,13 @@ si pensa che francia e russia non si alleeranno
 però
 francia vuole alleanza antitedesca
 russia vuole industrializzarsi
+
+germania si schiera con Imper o asburgico
+
+politica mondiale
+
+riarmo della flottta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzc1NjM4MSwtMTg1MjY5ODM4NiwtMT
-Q3OTQ2Mjg2MCwtMTI4MjA3MjM3N119
+eyJoaXN0b3J5IjpbMTc4ODg4ODkwMSwtMTUzNzU2MzgxLC0xOD
+UyNjk4Mzg2LC0xNDc5NDYyODYwLC0xMjgyMDcyMzc3XX0=
 -->
