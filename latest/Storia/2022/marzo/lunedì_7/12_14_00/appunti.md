@@ -45,9 +45,9 @@ politica mondiale
 
 riarmo della flottta
 
-franx
+francia, russsia ed inghilterra si avvicinano in funzione antitedesca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjkxOTIxNzIsMTc4ODg4ODkwMSwtMT
-UzNzU2MzgxLC0xODUyNjk4Mzg2LC0xNDc5NDYyODYwLC0xMjgy
-MDcyMzc3XX0=
+eyJoaXN0b3J5IjpbNDgyMDMxMDExLDE3ODg4ODg5MDEsLTE1Mz
+c1NjM4MSwtMTg1MjY5ODM4NiwtMTQ3OTQ2Mjg2MCwtMTI4MjA3
+MjM3N119
 -->
