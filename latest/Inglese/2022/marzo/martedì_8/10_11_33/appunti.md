@@ -31,7 +31,13 @@ upright twin
 
 
 the unjust might go his way without the sense of regret
+
+opposite twins
+
+identical but different
+
+polar twins linked together 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzYxMjY5NDEsLTE1MTQwOTc1MTksLT
-EyNzQwNTIxNDFdfQ==
+eyJoaXN0b3J5IjpbLTE1OTA0ODI2MjIsLTE2NzYxMjY5NDEsLT
+E1MTQwOTc1MTksLTEyNzQwNTIxNDFdfQ==
 -->
