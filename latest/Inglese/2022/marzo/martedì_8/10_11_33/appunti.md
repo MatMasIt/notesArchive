@@ -26,7 +26,12 @@ miracle, daydream
 if each of his sides of personality could be separated in two different identities life could be  more bearable 
 
 side inclined to transgression
+
+upright twin
+
+
+the unjust might go his way without the sense of regret
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NTg5MzM1LC0xNTE0MDk3NTE5LC0xMj
-c0MDUyMTQxXX0=
+eyJoaXN0b3J5IjpbLTE2NzYxMjY5NDEsLTE1MTQwOTc1MTksLT
+EyNzQwNTIxNDFdfQ==
 -->
