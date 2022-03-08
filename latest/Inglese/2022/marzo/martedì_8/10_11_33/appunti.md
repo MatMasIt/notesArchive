@@ -42,8 +42,17 @@ polar twins linked together
 how were dissociated: experiment explained
 
 he wants to be free to express his immoral tendencies without feeling regretful and keeping his reputation
+
+
+He makes a potion
+First reaction is bad: most terrible pains in the bones
+nauesea
+horror of the spirit
+
+
+after 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQ5ODc1MDMsNjI3ODM4NTYwLC0xNT
-kwNDgyNjIyLC0xNjc2MTI2OTQxLC0xNTE0MDk3NTE5LC0xMjc0
-MDUyMTQxXX0=
+eyJoaXN0b3J5IjpbODU3NTU1MTM4LC0xMDI0OTg3NTAzLDYyNz
+gzODU2MCwtMTU5MDQ4MjYyMiwtMTY3NjEyNjk0MSwtMTUxNDA5
+NzUxOSwtMTI3NDA1MjE0MV19
 -->
