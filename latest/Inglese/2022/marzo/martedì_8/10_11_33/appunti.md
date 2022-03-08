@@ -14,7 +14,7 @@ He wanted to be either good or bad
 
 separate identities
 
-but he was rad
+but he was radically both
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5MTcyNDRdfQ==
+eyJoaXN0b3J5IjpbOTUwNjY3NTYxXX0=
 -->
