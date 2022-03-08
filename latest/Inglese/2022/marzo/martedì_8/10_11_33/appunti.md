@@ -22,6 +22,9 @@ scientific experiments as a kind of miracle
 they go beyond the limits of the human nature
 
 miracle, daydream
+
+if each of his sides of personality could be separated in two different identities life could be  more bearable 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQwNTIxNDFdfQ==
+eyJoaXN0b3J5IjpbLTE1MTQwOTc1MTksLTEyNzQwNTIxNDFdfQ
+==
 -->
