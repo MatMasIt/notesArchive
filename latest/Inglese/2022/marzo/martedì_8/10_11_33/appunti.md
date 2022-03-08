@@ -37,7 +37,10 @@ opposite twins
 identical but different
 
 polar twins linked together 
+
+
+how were dissociated: experiment explained
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA0ODI2MjIsLTE2NzYxMjY5NDEsLT
-E1MTQwOTc1MTksLTEyNzQwNTIxNDFdfQ==
+eyJoaXN0b3J5IjpbNjI3ODM4NTYwLC0xNTkwNDgyNjIyLC0xNj
+c2MTI2OTQxLC0xNTE0MDk3NTE5LC0xMjc0MDUyMTQxXX0=
 -->
