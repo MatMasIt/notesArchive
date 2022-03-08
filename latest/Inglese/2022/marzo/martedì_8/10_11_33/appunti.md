@@ -25,8 +25,8 @@ miracle, daydream
 
 if each of his sides of personality could be separated in two different identities life could be  more bearable 
 
-side inclin
+side inclined to transgression
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODc5MzQ1MSwtMTUxNDA5NzUxOSwtMT
-I3NDA1MjE0MV19
+eyJoaXN0b3J5IjpbMjg2NTg5MzM1LC0xNTE0MDk3NTE5LC0xMj
+c0MDUyMTQxXX0=
 -->
