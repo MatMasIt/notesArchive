@@ -15,6 +15,13 @@ He wanted to be either good or bad
 separate identities
 
 but he was radically both
+
+scientific experiments as a kind of miracle
+
+
+they go beyond the limits of the human nature
+
+miracle, daydream
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwNjY3NTYxXX0=
+eyJoaXN0b3J5IjpbLTEyNzQwNTIxNDFdfQ==
 -->
