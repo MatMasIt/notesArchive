@@ -50,9 +50,12 @@ nauesea
 horror of the spirit
 
 
-after 
+after a while he recovers as if out of a great sickness, illness
+
+
+He feels lighter and better
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3NTU1MTM4LC0xMDI0OTg3NTAzLDYyNz
-gzODU2MCwtMTU5MDQ4MjYyMiwtMTY3NjEyNjk0MSwtMTUxNDA5
-NzUxOSwtMTI3NDA1MjE0MV19
+eyJoaXN0b3J5IjpbLTE5MTUyMDMxMDksLTEwMjQ5ODc1MDMsNj
+I3ODM4NTYwLC0xNTkwNDgyNjIyLC0xNjc2MTI2OTQxLC0xNTE0
+MDk3NTE5LC0xMjc0MDUyMTQxXX0=
 -->
