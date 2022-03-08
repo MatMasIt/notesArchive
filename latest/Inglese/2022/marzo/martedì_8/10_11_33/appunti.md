@@ -40,7 +40,10 @@ polar twins linked together
 
 
 how were dissociated: experiment explained
+
+he wants to be free to express his immoral tendencies without feeling regretful and keeping his reputation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3ODM4NTYwLC0xNTkwNDgyNjIyLC0xNj
-c2MTI2OTQxLC0xNTE0MDk3NTE5LC0xMjc0MDUyMTQxXX0=
+eyJoaXN0b3J5IjpbLTEwMjQ5ODc1MDMsNjI3ODM4NTYwLC0xNT
+kwNDgyNjIyLC0xNjc2MTI2OTQxLC0xNTE0MDk3NTE5LC0xMjc0
+MDUyMTQxXX0=
 -->
