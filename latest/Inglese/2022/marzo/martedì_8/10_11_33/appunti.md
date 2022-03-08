@@ -24,7 +24,9 @@ they go beyond the limits of the human nature
 miracle, daydream
 
 if each of his sides of personality could be separated in two different identities life could be  more bearable 
+
+side inclin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQwOTc1MTksLTEyNzQwNTIxNDFdfQ
-==
+eyJoaXN0b3J5IjpbMTQ4ODc5MzQ1MSwtMTUxNDA5NzUxOSwtMT
+I3NDA1MjE0MV19
 -->
