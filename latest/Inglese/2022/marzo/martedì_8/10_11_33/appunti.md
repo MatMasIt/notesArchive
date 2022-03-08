@@ -54,8 +54,14 @@ after a while he recovers as if out of a great sickness, illness
 
 
 He feels lighter and better
+
+younger, smaller
+free in spirit
+free from victorian rules
+
+A stream of sensual im
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTUyMDMxMDksLTEwMjQ5ODc1MDMsNj
+eyJoaXN0b3J5IjpbLTIwMjc3MjU5NDMsLTEwMjQ5ODc1MDMsNj
 I3ODM4NTYwLC0xNTkwNDgyNjIyLC0xNjc2MTI2OTQxLC0xNTE0
 MDk3NTE5LC0xMjc0MDUyMTQxXX0=
 -->
