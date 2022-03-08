@@ -59,9 +59,11 @@ younger, smaller
 free in spirit
 free from victorian rules
 
-A stream of sensual im
+A stream of sensual images comes to his mind
+
+solution from the bonds of obbligation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc3MjU5NDMsLTEwMjQ5ODc1MDMsNj
-I3ODM4NTYwLC0xNTkwNDgyNjIyLC0xNjc2MTI2OTQxLC0xNTE0
-MDk3NTE5LC0xMjc0MDUyMTQxXX0=
+eyJoaXN0b3J5IjpbLTE5MTY3MDg4MiwtMTAyNDk4NzUwMyw2Mj
+c4Mzg1NjAsLTE1OTA0ODI2MjIsLTE2NzYxMjY5NDEsLTE1MTQw
+OTc1MTksLTEyNzQwNTIxNDFdfQ==
 -->
