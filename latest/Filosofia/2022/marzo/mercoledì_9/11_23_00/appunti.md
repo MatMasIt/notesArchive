@@ -61,6 +61,8 @@ lui pubblica solo introduzionel 1844 dentro gli annali franco tedeschi, giornale
 opera intera pubblicata nel  1927
 
 accusa hegel di aver trasces esseri umani e di aver sostantificato l'astratto
+
+applica critica Auyerback
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjA2Njk5OV19
+eyJoaXN0b3J5IjpbLTExNjQ4NDU2MzNdfQ==
 -->
