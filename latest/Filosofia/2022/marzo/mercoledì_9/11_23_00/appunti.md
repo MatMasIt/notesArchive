@@ -54,6 +54,11 @@ Città di Colonia
 
 
 ctitica alla filosofia hegeliana del diritto pubblico
+
+
+lui pubblica solo introduzionel 1844 dentro gli annali franco tedeschi, giornale da lui fondato
+
+opera intera pubblicata nel  1927
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzIzNzgzMF19
+eyJoaXN0b3J5IjpbNzY0MzAwNzI3XX0=
 -->
