@@ -12,6 +12,17 @@ $$
 =2\cdot \frac{2^x}{\ln 2}+c
 $$
 
+
+
+----
+
+
+es 65
+
+
+$$
+\int\frac{x\sqrt x-\sqrt[3]{\sqrt[3]{x^{27
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODIxMzE2OV19
+eyJoaXN0b3J5IjpbLTEzMDA1ODgyOTVdfQ==
 -->
