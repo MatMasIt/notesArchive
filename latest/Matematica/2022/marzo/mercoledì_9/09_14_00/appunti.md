@@ -97,10 +97,8 @@ $$
 
 
 $$
-\int\frac{}{}
-$$
-
+\int\frac{
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTY0MTQyNCwyMTA2ODM5MTI0LC03MT
-UwOTE3OTksLTEzMDg4MjA5NzBdfQ==
+eyJoaXN0b3J5IjpbMzQyOTQ0Mjg5LC00MjE2NDE0MjQsMjEwNj
+gzOTEyNCwtNzE1MDkxNzk5LC0xMzA4ODIwOTcwXX0=
 -->
