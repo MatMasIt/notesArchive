@@ -7,6 +7,8 @@ Poliacrilammide
 
 
 SDS = Sodio Dodecil Solfato rende proteine negative e le da la stessa forma
+
+corsa elettroforetica basta solo sulle masse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Njk0OTcwNSwtNTQ0NDA4OTE1XX0=
+eyJoaXN0b3J5IjpbLTEyMTU2NzY4NDcsLTU0NDQwODkxNV19
 -->
