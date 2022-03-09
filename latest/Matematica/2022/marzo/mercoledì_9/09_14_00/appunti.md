@@ -153,8 +153,17 @@ $$
 $$
 \int \cos x dx = \sin x+c \implies \int f'(x) \cos f(x)dx = \sin f(x)+c
 $$
+
+$$
+\int\sin xdx=-\cos x+c\implies f'(x)\sin f8x)dx=-\cos f(x)+x
+$$
+
+
+$$
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg0MjA0NzcsNjgzOTAyMzY4LDEzND
-E0NzY2NzAsLTQyMTY0MTQyNCwyMTA2ODM5MTI0LC03MTUwOTE3
-OTksLTEzMDg4MjA5NzBdfQ==
+eyJoaXN0b3J5IjpbLTg0Mzg2ODgwNCw2ODM5MDIzNjgsMTM0MT
+Q3NjY3MCwtNDIxNjQxNDI0LDIxMDY4MzkxMjQsLTcxNTA5MTc5
+OSwtMTMwODgyMDk3MF19
 -->
