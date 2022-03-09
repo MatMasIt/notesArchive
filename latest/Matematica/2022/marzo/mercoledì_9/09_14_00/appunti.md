@@ -169,10 +169,14 @@ $$
 $$
 
 $$
-\frac
+\int\frac{1}{\sqrt{1-x^2}}dx=\arcsin x+c\implies \int\frac{f'(x)}{\sqrt{1-[f(x)]^2}}dx=\arcsin f(x) +c
+$$
+
+$$
+\int\frac{1}{1+x^2}dx=\arctan x+c\implies\
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTYyMjgzMTksOTI3MjY0NTAyLDY4Mz
-kwMjM2OCwxMzQxNDc2NjcwLC00MjE2NDE0MjQsMjEwNjgzOTEy
-NCwtNzE1MDkxNzk5LC0xMzA4ODIwOTcwXX0=
+eyJoaXN0b3J5IjpbODI2OTk1NjEyLDkyNzI2NDUwMiw2ODM5MD
+IzNjgsMTM0MTQ3NjY3MCwtNDIxNjQxNDI0LDIxMDY4MzkxMjQs
+LTcxNTA5MTc5OSwtMTMwODgyMDk3MF19
 -->
