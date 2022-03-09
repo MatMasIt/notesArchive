@@ -36,7 +36,10 @@ $$
 
 
  
+$$
+\int\frac{1-2\sin^2x}{\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE4MjY0NiwtNzE1MDkxNzk5LC0xMz
-A4ODIwOTcwXX0=
+eyJoaXN0b3J5IjpbLTE3NjQ2NzQ0NzAsLTcxNTA5MTc5OSwtMT
+MwODgyMDk3MF19
 -->
