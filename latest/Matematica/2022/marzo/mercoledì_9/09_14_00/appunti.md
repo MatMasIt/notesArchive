@@ -127,9 +127,13 @@ $$
 
 non dividere per funzione
 
- 
+ ---
+
+$$
+\int x^\alpha dx=\frac{x^{\alpha+1}}{\alpha+1}+c\implies \int f'(x)[f(x)]^\alpha dx
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzOTAyMzY4LDEzNDE0NzY2NzAsLTQyMT
-Y0MTQyNCwyMTA2ODM5MTI0LC03MTUwOTE3OTksLTEzMDg4MjA5
-NzBdfQ==
+eyJoaXN0b3J5IjpbNTY0NDY1MzIyLDY4MzkwMjM2OCwxMzQxND
+c2NjcwLC00MjE2NDE0MjQsMjEwNjgzOTEyNCwtNzE1MDkxNzk5
+LC0xMzA4ODIwOTcwXX0=
 -->
