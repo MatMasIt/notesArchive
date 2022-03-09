@@ -89,16 +89,26 @@ $$
 ---
 
 
-1106
+106
 
 $$
 \int\frac{x^2+3}{x^+1}dx
 $$
 
 
+
+
+
+
+----
+
+Regole potenze applicabili a funzione se c'è la sua derivata
+
+
 $$
-\int\frac{
+\intf'(x)f(x)^\alpgadx=\frac{[f(x)]^{\alpha +1}}{}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyOTQ0Mjg5LC00MjE2NDE0MjQsMjEwNj
-gzOTEyNCwtNzE1MDkxNzk5LC0xMzA4ODIwOTcwXX0=
+eyJoaXN0b3J5IjpbODQ1Mjk1ODcsLTQyMTY0MTQyNCwyMTA2OD
+M5MTI0LC03MTUwOTE3OTksLTEzMDg4MjA5NzBdfQ==
 -->
