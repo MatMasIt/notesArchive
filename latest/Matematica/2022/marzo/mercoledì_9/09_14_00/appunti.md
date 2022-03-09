@@ -140,10 +140,21 @@ $$
 
 
 $$
-\inte^xdx=e^x+c\implies\int f'(x)e^{f(
+\int e^xdx=e^x+c\implies\int f'(x)e^{f(x)}+c
+$$
+
+
+$$
+\int f'(x) a^{f(x)
+$$
+
+
+
+$$
+\int \cos x dx = \sin x+c \implies \int f'(x) \cos f(x)dx = \sin f(x)+c
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzM4MDE2NzAsNjgzOTAyMzY4LDEzND
+eyJoaXN0b3J5IjpbLTEyNDg0MjA0NzcsNjgzOTAyMzY4LDEzND
 E0NzY2NzAsLTQyMTY0MTQyNCwyMTA2ODM5MTI0LC03MTUwOTE3
 OTksLTEzMDg4MjA5NzBdfQ==
 -->
