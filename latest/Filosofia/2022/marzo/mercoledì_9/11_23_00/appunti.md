@@ -76,6 +76,8 @@ Hegel inizia ovunque con l'opposizione delle determinazioni
 approccio dialettico
 
 apprezza separazione fra società civile e stato
+
+mentre nel passato chi era ricco era contemporaneamente colui che comandava
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDE4MTcxM119
+eyJoaXN0b3J5IjpbMTI1MjM2Mjg5NV19
 -->
