@@ -59,6 +59,8 @@ ctitica alla filosofia hegeliana del diritto pubblico
 lui pubblica solo introduzionel 1844 dentro gli annali franco tedeschi, giornale da lui fondato
 
 opera intera pubblicata nel  1927
+
+accusa hegel di aver trasces esseri umani e di aver sostantificato l'astratto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0MzAwNzI3XX0=
+eyJoaXN0b3J5IjpbMTYxMjA2Njk5OV19
 -->
