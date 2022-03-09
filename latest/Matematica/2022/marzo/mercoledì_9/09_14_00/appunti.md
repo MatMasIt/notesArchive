@@ -154,20 +154,25 @@ $$
 $$
 
 $$
-\int\sin xdx=-\cos x+c\implies f'(x)\sin f8x)dx=-\cos f(x)+x
+\int\sin xdx=-\cos x+c\implies f'(x)\sin f(x)dx=-\cos f(x)+x
 $$
 
 
 $$
-\frac1{\cos x}dx=\tan x+c\implies \int\frac{f'(x)}{\cos^2f(x)}
+\int \frac1{\cos x}dx=\tan x+c\implies \int\frac{f'(x)}{\cos^2f(x)}=\tan f(x)+c
 $$
 
 
+
 $$
-\int \frac1{\sin^2 x}dx=-\cot x+c\implies \int\frac{f'(x)}{}
+\int \frac1{\sin^2 x}dx=-\cot x+c\implies \int\frac{f'(x)}{\sin^2f(x)}dx=-\cot f(x)+c
+$$
+
+$$
+\frac
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3ODIyMzc1LDkyNzI2NDUwMiw2ODM5MD
-IzNjgsMTM0MTQ3NjY3MCwtNDIxNjQxNDI0LDIxMDY4MzkxMjQs
-LTcxNTA5MTc5OSwtMTMwODgyMDk3MF19
+eyJoaXN0b3J5IjpbLTE1NTYyMjgzMTksOTI3MjY0NTAyLDY4Mz
+kwMjM2OCwxMzQxNDc2NjcwLC00MjE2NDE0MjQsMjEwNjgzOTEy
+NCwtNzE1MDkxNzk5LC0xMzA4ODIwOTcwXX0=
 -->
