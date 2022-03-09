@@ -165,10 +165,10 @@ $$
 
 
 $$
-\int \frac1{\sin^2 x}dx=-\cotan x+c
+\int \frac1{\sin^2 x}dx=-\cot x+c\implies \int\frac{f'(x)}{}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ3NTQwODksNjgzOTAyMzY4LDEzND
-E0NzY2NzAsLTQyMTY0MTQyNCwyMTA2ODM5MTI0LC03MTUwOTE3
-OTksLTEzMDg4MjA5NzBdfQ==
+eyJoaXN0b3J5IjpbOTI3MjY0NTAyLDY4MzkwMjM2OCwxMzQxND
+c2NjcwLC00MjE2NDE0MjQsMjEwNjgzOTEyNCwtNzE1MDkxNzk5
+LC0xMzA4ODIwOTcwXX0=
 -->
