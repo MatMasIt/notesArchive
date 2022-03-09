@@ -130,10 +130,20 @@ non dividere per funzione
  ---
 
 $$
-\int x^\alpha dx=\frac{x^{\alpha+1}}{\alpha+1}+c\implies \int f'(x)[f(x)]^\alpha dx
+\int x^\alpha dx=\frac{x^{\alpha+1}}{\alpha+1}+c\implies \int f'(x)[f(x)]^\alpha dx = \frac{f(x)^{\alpha+1}}{\alpha+1}+c
+$$
+
+
+$$
+\int\frac1xdx=\ln|x|+c\implies \int\frac{f'(x)}{f(x)}dx=\ln|f(x)+c
+$$
+
+
+$$
+\inte^xdx=e^x+c\implies\int f'(x)e^{f(
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0NDY1MzIyLDY4MzkwMjM2OCwxMzQxND
-c2NjcwLC00MjE2NDE0MjQsMjEwNjgzOTEyNCwtNzE1MDkxNzk5
-LC0xMzA4ODIwOTcwXX0=
+eyJoaXN0b3J5IjpbLTE5NzM4MDE2NzAsNjgzOTAyMzY4LDEzND
+E0NzY2NzAsLTQyMTY0MTQyNCwyMTA2ODM5MTI0LC03MTUwOTE3
+OTksLTEzMDg4MjA5NzBdfQ==
 -->
