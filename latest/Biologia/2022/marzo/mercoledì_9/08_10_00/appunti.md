@@ -12,8 +12,8 @@ corsa elettroforetica basta solo sulle masse
 
 
 Possibili applicazioni:
-* analisisofisticazioni alimentari
+* analisi sofisticazioni alimentari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY4ODQ2MzMsLTEyMTU2NzY4NDcsLT
-U0NDQwODkxNV19
+eyJoaXN0b3J5IjpbODIzOTkzODIxLC0xNjU2ODg0NjMzLC0xMj
+E1Njc2ODQ3LC01NDQ0MDg5MTVdfQ==
 -->
