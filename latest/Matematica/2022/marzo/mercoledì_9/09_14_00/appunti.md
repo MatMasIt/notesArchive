@@ -24,6 +24,19 @@ es 65
 $$
 \int\frac{x\sqrt x-\sqrt[3]{\sqrt[3]{x^{27}}}}{\sqrt[3]x}dx
 $$ 
+
+
+
+es 96
+
+
+$$
+\int \frac{\cos 2x}{\sin^2 x}dx
+$$
+
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTA5MTc5OSwtMTMwODgyMDk3MF19
+eyJoaXN0b3J5IjpbLTEzOTE4MjY0NiwtNzE1MDkxNzk5LC0xMz
+A4ODIwOTcwXX0=
 -->
