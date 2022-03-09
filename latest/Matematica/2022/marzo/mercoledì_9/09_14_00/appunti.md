@@ -43,7 +43,9 @@ $$
 $$
 \int\frac{1}{\sin^2 x}-2\int 1dx=\cot x-2x+c
 $$
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE0ODk4OCwtNzE1MDkxNzk5LC0xMz
+eyJoaXN0b3J5IjpbMjEwNjgzOTEyNCwtNzE1MDkxNzk5LC0xMz
 A4ODIwOTcwXX0=
 -->
