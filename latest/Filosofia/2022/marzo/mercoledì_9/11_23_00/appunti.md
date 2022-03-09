@@ -51,6 +51,9 @@ Città di Colonia
 
 
 1843 la censura politica prussiana sopprime il giornale
+
+
+ctitica alla filosofia hegeliana del diritto pubblico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDc1Nzc3OV19
+eyJoaXN0b3J5IjpbLTI3MzIzNzgzMF19
 -->
