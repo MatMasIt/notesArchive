@@ -145,9 +145,8 @@ $$
 
 
 $$
-\int f'(x) a^{f(x)
+\int fa^xdx=\frac{a^x}{\ln a}+c\implies \int f'(x)a^{f(x)}dx=\frac{a^{f(x)}}{\ln a}+c
 $$
-
 
 
 $$
@@ -168,7 +167,7 @@ $$
 \int \frac1{\sin^2 x}dx=-\cot x+c\implies \int\frac{f'(x)}{}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3MjY0NTAyLDY4MzkwMjM2OCwxMzQxND
-c2NjcwLC00MjE2NDE0MjQsMjEwNjgzOTEyNCwtNzE1MDkxNzk5
-LC0xMzA4ODIwOTcwXX0=
+eyJoaXN0b3J5IjpbMjY3ODIyMzc1LDkyNzI2NDUwMiw2ODM5MD
+IzNjgsMTM0MTQ3NjY3MCwtNDIxNjQxNDI0LDIxMDY4MzkxMjQs
+LTcxNTA5MTc5OSwtMTMwODgyMDk3MF19
 -->
