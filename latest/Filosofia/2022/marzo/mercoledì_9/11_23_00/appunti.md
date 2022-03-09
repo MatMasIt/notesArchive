@@ -39,6 +39,10 @@ Si laurea in filosofia nel '41 con tesi su democrito
 
 fin da giovane
 marx è materialista mentre gli altrisono idealisti
+
+
+
+marx non è allineato a fedeltà alla monarchia, quindi nn può rimanere ed insegnare all'università
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODcxNTAwOTFdfQ==
+eyJoaXN0b3J5IjpbLTE3MzA3OTc1MDJdfQ==
 -->
