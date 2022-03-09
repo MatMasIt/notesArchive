@@ -125,8 +125,11 @@ $$
 =\frac12\frac{(2x-1)^4}{4}+c=\frac{(2x-1)^4}8+c
 $$
 
-> 
+non dividere per funzione
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTQ3NjY3MCwtNDIxNjQxNDI0LDIxMD
-Y4MzkxMjQsLTcxNTA5MTc5OSwtMTMwODgyMDk3MF19
+eyJoaXN0b3J5IjpbNjgzOTAyMzY4LDEzNDE0NzY2NzAsLTQyMT
+Y0MTQyNCwyMTA2ODM5MTI0LC03MTUwOTE3OTksLTEzMDg4MjA5
+NzBdfQ==
 -->
