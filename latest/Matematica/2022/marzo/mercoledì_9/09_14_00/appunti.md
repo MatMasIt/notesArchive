@@ -45,8 +45,31 @@ $$
 $$
 
  
+---
 
+
+$$
+\int\left(x+\frac1{\sqrt{1-x^2}}\right)
+$$
+
+
+
+$$
+\int xdx+\int\frac{1}{\sqrt{1-x^2}}dx
+$$
+
+$$
+x^2+\arcsin x+c
+$$
+
+
+104
+
+
+$$
+\int\frac{1}{\sqrt{9-9x^2}}dx
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODU3OTgzOCwyMTA2ODM5MTI0LC03MT
-UwOTE3OTksLTEzMDg4MjA5NzBdfQ==
+eyJoaXN0b3J5IjpbMzIyMjY5MjkzLDIxMDY4MzkxMjQsLTcxNT
+A5MTc5OSwtMTMwODgyMDk3MF19
 -->
