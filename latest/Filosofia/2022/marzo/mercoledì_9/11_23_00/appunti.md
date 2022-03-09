@@ -71,7 +71,11 @@ Marx accusa Hegel di aver fornito una giustificazione filosofica allo status quo
 comunque marx apprezza alcune cose
 
 
-Hegel inizia ovunque con l'opposizione del
+Hegel inizia ovunque con l'opposizione delle determinazioni
+
+approccio dialettico
+
+apprezza separazione fra società civile e stato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjE4ODQ2OF19
+eyJoaXN0b3J5IjpbLTgyNDE4MTcxM119
 -->
