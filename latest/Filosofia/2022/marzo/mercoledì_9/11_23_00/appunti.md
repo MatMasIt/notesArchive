@@ -22,7 +22,16 @@ anni delle polemiche tra hegeliani
 
 instabilità politica
 
-arriva federico gu
+arriva federico guglielmo 4
+
+1840-1861
+regno
+
+
+all'inizio Marx sostiene Hegel
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwNjQ0MDAwXX0=
+eyJoaXN0b3J5IjpbLTU1NzczMDIxXX0=
 -->
