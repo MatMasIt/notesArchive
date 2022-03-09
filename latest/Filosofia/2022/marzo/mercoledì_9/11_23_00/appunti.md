@@ -78,6 +78,11 @@ approccio dialettico
 apprezza separazione fra società civile e stato
 
 mentre nel passato chi era ricco era contemporaneamente colui che comandava
+
+
+primo a comprendere sccissdioen tra potere economico e politico secondo Marx è hegel
+
+secondo Marx questo non è naturale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjM2Mjg5NV19
+eyJoaXN0b3J5IjpbLTIwOTcwNjkzNV19
 -->
