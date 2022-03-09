@@ -37,9 +37,13 @@ $$
 
  
 $$
-\int\frac{1-2\sin^2x}{\
+\int\frac{1-2\sin^2x}{\sin^2x}dx
+$$
+
+$$
+\int\frac{1}{\sin^2 x}-2\int 1dx=\cot x-2x+c
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ2NzQ0NzAsLTcxNTA5MTc5OSwtMT
-MwODgyMDk3MF19
+eyJoaXN0b3J5IjpbLTE0MDE0ODk4OCwtNzE1MDkxNzk5LC0xMz
+A4ODIwOTcwXX0=
 -->
