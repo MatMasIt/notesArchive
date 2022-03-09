@@ -71,9 +71,26 @@ $$
 $$
 
 $$
-\int\frac{1}{\sqrt{9(1
+\int\frac{1}{\sqrt{9(1-x^2)}}dx
 $$
+
+$$
+=\int\frac1{\sqrt 9\sqrt{1-x^2}}dx=
+$$
+
+$$
+\frac13\int\frac{1}{\sqrt{1-x^2}}dx
+$$
+
+$$
+=\frac13\arcsin x+c
+$$
+
+---
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5OTcxODU5LDIxMDY4MzkxMjQsLTcxNT
-A5MTc5OSwtMTMwODgyMDk3MF19
+eyJoaXN0b3J5IjpbMTgxNjAwMTk1OCwyMTA2ODM5MTI0LC03MT
+UwOTE3OTksLTEzMDg4MjA5NzBdfQ==
 -->
