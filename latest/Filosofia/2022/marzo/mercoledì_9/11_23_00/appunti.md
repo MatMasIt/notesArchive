@@ -35,6 +35,10 @@ vorrebbe cambiamento sociale, classe dirigente ristrettissima
 
 
 Si laurea in filosofia nel '41 con tesi su democrito
+
+
+fin da giovane
+marx è materialista mentre gli altrisono idealisti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Njc1ODQ3Ml19
+eyJoaXN0b3J5IjpbLTE4ODcxNTAwOTFdfQ==
 -->
