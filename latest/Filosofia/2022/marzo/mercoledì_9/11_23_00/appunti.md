@@ -63,6 +63,9 @@ opera intera pubblicata nel  1927
 accusa hegel di aver trasces esseri umani e di aver sostantificato l'astratto
 
 applica critica Auyerback
+
+
+Marx accusa Hegel di aver fornito una giustificazione filosofica allo status quo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ4NDU2MzNdfQ==
+eyJoaXN0b3J5IjpbMTgyMzExNTg5M119
 -->
