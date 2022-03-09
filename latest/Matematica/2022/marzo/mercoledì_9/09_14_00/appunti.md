@@ -160,10 +160,15 @@ $$
 
 
 $$
+\frac1{\cos x}dx=\tan x+c\implies \int\frac{f'(x)}{\cos^2f(x)}
+$$
+
 
 $$
+\int \frac1{\sin^2 x}dx=-\cotan x+c
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Mzg2ODgwNCw2ODM5MDIzNjgsMTM0MT
-Q3NjY3MCwtNDIxNjQxNDI0LDIxMDY4MzkxMjQsLTcxNTA5MTc5
-OSwtMTMwODgyMDk3MF19
+eyJoaXN0b3J5IjpbLTIwNzQ3NTQwODksNjgzOTAyMzY4LDEzND
+E0NzY2NzAsLTQyMTY0MTQyNCwyMTA2ODM5MTI0LC03MTUwOTE3
+OTksLTEzMDg4MjA5NzBdfQ==
 -->
