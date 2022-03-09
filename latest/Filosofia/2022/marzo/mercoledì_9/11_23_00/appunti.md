@@ -66,6 +66,12 @@ applica critica Auyerback
 
 
 Marx accusa Hegel di aver fornito una giustificazione filosofica allo status quo
+
+
+comunque marx apprezza alcune cose
+
+
+Hegel inizia ovunque con l'opposizione del
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzExNTg5M119
+eyJoaXN0b3J5IjpbMjA1MjE4ODQ2OF19
 -->
