@@ -31,7 +31,10 @@ regno
 all'inizio Marx sostiene Hegel
 
 
-vorrebbe cambiamento sociale, 
+vorrebbe cambiamento sociale, classe dirigente ristrettissima
+
+
+Si laurea in filosofia nel '41 con tesi su democrito
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDAyNjc0NF19
+eyJoaXN0b3J5IjpbMjA3Njc1ODQ3Ml19
 -->
