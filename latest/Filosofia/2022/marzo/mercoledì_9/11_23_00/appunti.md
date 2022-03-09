@@ -2,11 +2,27 @@
 
 1818
 
+Renania
+
 Padre avocato borghese
 sensibile ad illuminismo e liberalismo
 
 
-famiglia di ebrei conver
+famiglia di ebrei convertiti al cristianesimo
+
+
+ottobre 1835
+
+si reca all'Università di Bohn per studiare giusrisprudenza 
+
+progetto fallisce, si trasferisce a Berlino, dover marx studia filosofia
+
+anni delle polemiche tra hegeliani
+
+
+instabilità politica
+
+arriva federico gu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM3MDc4NDldfQ==
+eyJoaXN0b3J5IjpbOTcwNjQ0MDAwXX0=
 -->
