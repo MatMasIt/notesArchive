@@ -106,9 +106,25 @@ Regole potenze applicabili a funzione se c'è la sua derivata
 
 
 $$
-\intf'(x)f(x)^\alpgadx=\frac{[f(x)]^{\alpha +1}}{}
+\int f'(x)f(x)^\alpha dx=\frac{[f(x)]^{\alpha +1}}{\alpha+1}+C
+$$
+
+
+Esempio
+
+
+$$
+f'\qquadf
+$$
+
+$$
+\frac12\int\boxed2\boxed{(2x-1)^3}
+$$
+
+$$
+=\frac12\frac{(2x-1)^4}{4}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1Mjk1ODcsLTQyMTY0MTQyNCwyMTA2OD
-M5MTI0LC03MTUwOTE3OTksLTEzMDg4MjA5NzBdfQ==
+eyJoaXN0b3J5IjpbMjE0MzE0NTcwOCwtNDIxNjQxNDI0LDIxMD
+Y4MzkxMjQsLTcxNTA5MTc5OSwtMTMwODgyMDk3MF19
 -->
