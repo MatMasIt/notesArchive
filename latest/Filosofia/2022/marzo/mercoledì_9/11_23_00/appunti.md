@@ -31,7 +31,7 @@ regno
 all'inizio Marx sostiene Hegel
 
 
-
+vorrebbe cambiamento sociale, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzczMDIxXX0=
+eyJoaXN0b3J5IjpbMTI2MDAyNjc0NF19
 -->
