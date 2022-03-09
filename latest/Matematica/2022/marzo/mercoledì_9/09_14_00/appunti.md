@@ -124,7 +124,9 @@ $$
 $$
 =\frac12\frac{(2x-1)^4}{4}+c=\frac{(2x-1)^4}8+c
 $$
+
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5NzY5OTI0LC00MjE2NDE0MjQsMjEwNj
-gzOTEyNCwtNzE1MDkxNzk5LC0xMzA4ODIwOTcwXX0=
+eyJoaXN0b3J5IjpbMTM0MTQ3NjY3MCwtNDIxNjQxNDI0LDIxMD
+Y4MzkxMjQsLTcxNTA5MTc5OSwtMTMwODgyMDk3MF19
 -->
