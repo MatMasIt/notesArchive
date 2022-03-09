@@ -69,7 +69,11 @@ $$
 $$
 \int\frac{1}{\sqrt{9-9x^2}}dx
 $$
+
+$$
+\int\frac{1}{\sqrt{9(1
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyMjY5MjkzLDIxMDY4MzkxMjQsLTcxNT
+eyJoaXN0b3J5IjpbNTg5OTcxODU5LDIxMDY4MzkxMjQsLTcxNT
 A5MTc5OSwtMTMwODgyMDk3MF19
 -->
