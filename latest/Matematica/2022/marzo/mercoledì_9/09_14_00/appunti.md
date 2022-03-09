@@ -173,10 +173,10 @@ $$
 $$
 
 $$
-\int\frac{1}{1+x^2}dx=\arctan x+c\implies\
+\int\frac{1}{1+x^2}dx=\arctan x+c\implies\int\frac{f'(x)}{1+[f(x)]^2}dx=\arctan f(x)+c
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2OTk1NjEyLDkyNzI2NDUwMiw2ODM5MD
-IzNjgsMTM0MTQ3NjY3MCwtNDIxNjQxNDI0LDIxMDY4MzkxMjQs
-LTcxNTA5MTc5OSwtMTMwODgyMDk3MF19
+eyJoaXN0b3J5IjpbLTE3Nzg2OTM4ODcsOTI3MjY0NTAyLDY4Mz
+kwMjM2OCwxMzQxNDc2NjcwLC00MjE2NDE0MjQsMjEwNjgzOTEy
+NCwtNzE1MDkxNzk5LC0xMzA4ODIwOTcwXX0=
 -->
