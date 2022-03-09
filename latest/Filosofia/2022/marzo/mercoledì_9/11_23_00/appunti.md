@@ -43,6 +43,14 @@ marx è materialista mentre gli altrisono idealisti
 
 
 marx non è allineato a fedeltà alla monarchia, quindi nn può rimanere ed insegnare all'università
+
+
+strada giornalismo politico dal 1842 alla gazzetta renana
+
+Città di Colonia
+
+
+1843 la censura politica prussiana sopprime il giornale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA3OTc1MDJdfQ==
+eyJoaXN0b3J5IjpbLTY3NDc1Nzc3OV19
 -->
