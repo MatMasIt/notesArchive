@@ -21,8 +21,8 @@ es 65
 
 
 $$
-\int\frac{x\sqrt x-\sqrt[3]{\sqrt[3]{x^{27
+\int\frac{x\sqrt x-\sqrt[3]{\sqrt[3]{x^{27}}}}{\sqrt[3]x}dx
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA1ODgyOTVdfQ==
+eyJoaXN0b3J5IjpbLTEzMDg4MjA5NzBdfQ==
 -->
