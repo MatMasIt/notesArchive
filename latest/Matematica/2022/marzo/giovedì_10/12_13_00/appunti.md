@@ -85,8 +85,12 @@ $$
 $$
 F(b)-F(a)=\int^b_af(t)dt-\int^a_af(t)dt
 $$
+
+$$
+F(a)=\int^b_af(t)dt-0=\int^b_af(t)dt
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQzNDY0MDIsLTI4NTc3MTU5OCw5Nj
-U4MDU3NjYsLTU5NjM3MzQ1LDk0MzY1MTYwNyw3MzI0Mjc1MTFd
-fQ==
+eyJoaXN0b3J5IjpbLTczNDMzNzc4MSwtMjg1NzcxNTk4LDk2NT
+gwNTc2NiwtNTk2MzczNDUsOTQzNjUxNjA3LDczMjQyNzUxMV19
+
 -->
