@@ -116,14 +116,16 @@ $$
 
 
 $$
-\int^{\frac\pi6}_0\cos(2x-\frac\pi3)dx
+\int^{\frac\pi6}_0\cos(2x-\frac\pi3)dx=\frac12[\sin (2x-\frac\pi3)]^\frac\pi6_0
 $$
 
----
-
+$$
+\frac
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3NDc5MjksNDI4NTE5NTAyLDExMzA3NT
-E0NTgsLTczNDMzNzc4MSwtMjg1NzcxNTk4LDk2NTgwNTc2Niwt
-NTk2MzczNDUsOTQzNjUxNjA3LDczMjQyNzUxMV19
+eyJoaXN0b3J5IjpbODM4NzE0MDYsOTU3NDc5MjksNDI4NTE5NT
+AyLDExMzA3NTE0NTgsLTczNDMzNzc4MSwtMjg1NzcxNTk4LDk2
+NTgwNTc2NiwtNTk2MzczNDUsOTQzNjUxNjA3LDczMjQyNzUxMV
+19
 -->
