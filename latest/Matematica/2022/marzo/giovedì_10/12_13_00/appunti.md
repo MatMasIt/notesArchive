@@ -105,12 +105,21 @@ $$
 
 ---
 
+99
 
 $$
--\int^3_2-e^{3-x}dx=-e^{3-x}
+-\int^3_2-e^{3-x}dx=-e^{3-x}=[e^{3-x}]^3_2=-e^{3-3}+3^{3-2}=1+e
+$$
+
+
+114
+
+
+$$
+\int^{\frac\pi6}_0\cos(2x-\frac\pi3)dx
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0MjA2OTI4LDExMzA3NTE0NTgsLTczND
+eyJoaXN0b3J5IjpbNDI4NTE5NTAyLDExMzA3NTE0NTgsLTczND
 MzNzc4MSwtMjg1NzcxNTk4LDk2NTgwNTc2NiwtNTk2MzczNDUs
 OTQzNjUxNjA3LDczMjQyNzUxMV19
 -->
