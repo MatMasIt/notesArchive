@@ -99,10 +99,10 @@ $$
 
 
 $$
-[x]^
+[x]^6_2+2[\ln |x|]^6_2=6-2+2(\ln 6- \ln 2)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzgwNDk2MjAsLTczNDMzNzc4MSwtMj
-g1NzcxNTk4LDk2NTgwNTc2NiwtNTk2MzczNDUsOTQzNjUxNjA3
-LDczMjQyNzUxMV19
+eyJoaXN0b3J5IjpbMTEzMDc1MTQ1OCwtNzM0MzM3NzgxLC0yOD
+U3NzE1OTgsOTY1ODA1NzY2LC01OTYzNzM0NSw5NDM2NTE2MDcs
+NzMyNDI3NTExXX0=
 -->
