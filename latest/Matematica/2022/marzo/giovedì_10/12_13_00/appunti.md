@@ -47,8 +47,18 @@ $$
 
 
 $$
+F(x)=\int^x_af(t)dt\to A_1
+$$
+
+$$
+F(x+h)=\int^{x+h}_af(t)dt\to A_2
+$$
+
+
+$$
+F(x+h)-F(x)=f(x)h
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjkyODk4MywtNTk2MzczNDUsOTQzNj
-UxNjA3LDczMjQyNzUxMV19
+eyJoaXN0b3J5IjpbOTY1ODA1NzY2LC01OTYzNzM0NSw5NDM2NT
+E2MDcsNzMyNDI3NTExXX0=
 -->
