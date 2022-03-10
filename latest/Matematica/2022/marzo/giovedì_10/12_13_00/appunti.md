@@ -103,9 +103,14 @@ $$
 $$
 
 
--
+---
+
+
+$$
+-\int^3_2-e^{3-x}dx=-e^{
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTQ5ODY2MSwxMTMwNzUxNDU4LC03Mz
+eyJoaXN0b3J5IjpbLTcwOTM5MDY0MSwxMTMwNzUxNDU4LC03Mz
 QzMzc3ODEsLTI4NTc3MTU5OCw5NjU4MDU3NjYsLTU5NjM3MzQ1
 LDk0MzY1MTYwNyw3MzI0Mjc1MTFdfQ==
 -->
