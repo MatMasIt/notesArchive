@@ -14,6 +14,19 @@ $F(X)$ è primitiva di $f(x)$
 $$
 Area = \int^b_af(x)dx
 $$
+
+Integrale definito
+
+
+
+unione dei concetti: funzione integrale
+
+
+
+$$
+(1)\implies F(X)=\int^x_af(xt)dt
+$$
+funzione integrale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDU1NTA1Ml19
+eyJoaXN0b3J5IjpbNzMyNDI3NTExXX0=
 -->
