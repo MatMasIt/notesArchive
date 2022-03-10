@@ -31,6 +31,10 @@ $$
 (1)\implies F(X)=\int^x_af(xt)dt
 $$
 funzione integrale
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzNjUxNjA3LDczMjQyNzUxMV19
+eyJoaXN0b3J5IjpbMTEwMTk2MjcyMSw5NDM2NTE2MDcsNzMyND
+I3NTExXX0=
 -->
