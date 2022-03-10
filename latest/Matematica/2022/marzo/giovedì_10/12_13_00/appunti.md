@@ -118,8 +118,12 @@ $$
 $$
 \int^{\frac\pi6}_0\cos(2x-\frac\pi3)dx
 $$
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4NTE5NTAyLDExMzA3NTE0NTgsLTczND
-MzNzc4MSwtMjg1NzcxNTk4LDk2NTgwNTc2NiwtNTk2MzczNDUs
-OTQzNjUxNjA3LDczMjQyNzUxMV19
+eyJoaXN0b3J5IjpbOTU3NDc5MjksNDI4NTE5NTAyLDExMzA3NT
+E0NTgsLTczNDMzNzc4MSwtMjg1NzcxNTk4LDk2NTgwNTc2Niwt
+NTk2MzczNDUsOTQzNjUxNjA3LDczMjQyNzUxMV19
 -->
