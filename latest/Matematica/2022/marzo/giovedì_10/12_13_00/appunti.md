@@ -120,11 +120,11 @@ $$
 $$
 
 $$
-\frac12[-\sin\frac\pi3]
+\frac12[\sin(\frac\pi3-\frac\pi3)-\sin\frac\pi3]
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzYwMjA1Niw5NTc0NzkyOSw0Mjg1MT
+eyJoaXN0b3J5IjpbMTA2NDY2NDk1NCw5NTc0NzkyOSw0Mjg1MT
 k1MDIsMTEzMDc1MTQ1OCwtNzM0MzM3NzgxLC0yODU3NzE1OTgs
 OTY1ODA1NzY2LC01OTYzNzM0NSw5NDM2NTE2MDcsNzMyNDI3NT
 ExXX0=
