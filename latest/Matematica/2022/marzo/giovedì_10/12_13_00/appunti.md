@@ -74,9 +74,14 @@ $$
 p 348 teorema fondamentale
 
 
-> La primitiva di una funzione continua è una funzione derivabile con derivata contin
+> La primitiva di una funzione continua è una funzione derivabile con derivata continua 
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTUxMjc2NiwtMjg1NzcxNTk4LDk2NT
+eyJoaXN0b3J5IjpbMTI0OTUwMjc2MCwtMjg1NzcxNTk4LDk2NT
 gwNTc2NiwtNTk2MzczNDUsOTQzNjUxNjA3LDczMjQyNzUxMV19
 
 -->
