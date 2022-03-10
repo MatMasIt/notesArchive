@@ -33,8 +33,18 @@ $$
 funzione integrale
 
 
+---
 
+$$
+f(t)\in C[a,b]
+$$
+
+funzione integrale
+
+$$
+F(X)=\int^x_af(t)dt\qquad x\in[a,b]
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTk2MjcyMSw5NDM2NTE2MDcsNzMyND
-I3NTExXX0=
+eyJoaXN0b3J5IjpbLTU5NjM3MzQ1LDk0MzY1MTYwNyw3MzI0Mj
+c1MTFdfQ==
 -->
