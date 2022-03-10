@@ -10,7 +10,9 @@ secondo Marx, Hegel ha fatto una altra cosa positiva
 accento sulla negatività dell'asspetto individuale della società
 
 
-marx control il liber
+marx control il liberalismo
+
+in una società ideale gli individui non dovrebbero avere questi squilibri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODI3NjM5OV19
+eyJoaXN0b3J5IjpbOTMyNjYwMjQ2XX0=
 -->
