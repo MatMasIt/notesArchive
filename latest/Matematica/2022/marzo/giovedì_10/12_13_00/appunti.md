@@ -60,7 +60,14 @@ F(x+h)-F(x)=f(x)h
 $$
 
 
+$$
+f(x)=\frac{F(x+h)-F(x)}h
+$$
+
+$$
+\boxed{F'(x)=f(x)}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjEzOTQ4Niw5NjU4MDU3NjYsLTU5Nj
+eyJoaXN0b3J5IjpbLTI4NTc3MTU5OCw5NjU4MDU3NjYsLTU5Nj
 M3MzQ1LDk0MzY1MTYwNyw3MzI0Mjc1MTFdfQ==
 -->
