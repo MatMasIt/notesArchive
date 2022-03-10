@@ -44,7 +44,11 @@ funzione integrale
 $$
 F(X)=\int^x_af(t)dt\qquad x\in[a,b]
 $$
+
+
+$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjM3MzQ1LDk0MzY1MTYwNyw3MzI0Mj
-c1MTFdfQ==
+eyJoaXN0b3J5IjpbMTM4MjkyODk4MywtNTk2MzczNDUsOTQzNj
+UxNjA3LDczMjQyNzUxMV19
 -->
