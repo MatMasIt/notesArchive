@@ -10,6 +10,10 @@ integrale in definito
 $F(X)$ è primitiva di $f(x)$
 
 
+$$
+F'(x)=f(x)
+$$
+
 
 $$
 Area = \int^b_af(x)dx
@@ -28,5 +32,5 @@ $$
 $$
 funzione integrale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyNDI3NTExXX0=
+eyJoaXN0b3J5IjpbOTQzNjUxNjA3LDczMjQyNzUxMV19
 -->
