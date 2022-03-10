@@ -89,8 +89,20 @@ $$
 $$
 F(a)=\int^b_af(t)dt-0=\int^b_af(t)dt
 $$
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDMzNzc4MSwtMjg1NzcxNTk4LDk2NT
-gwNTc2NiwtNTk2MzczNDUsOTQzNjUxNjA3LDczMjQyNzUxMV19
 
+---
+
+
+$$
+\int^6_2\frac{x+2}xdx=\int^6_2\frac{x}{x}dx+2\int^6_2\frac1xdx
+$$
+
+
+$$
+[x]^
+$$
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5MzgwNDk2MjAsLTczNDMzNzc4MSwtMj
+g1NzcxNTk4LDk2NTgwNTc2NiwtNTk2MzczNDUsOTQzNjUxNjA3
+LDczMjQyNzUxMV19
 -->
