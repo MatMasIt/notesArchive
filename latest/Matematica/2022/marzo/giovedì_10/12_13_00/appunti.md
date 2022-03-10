@@ -58,7 +58,9 @@ $$
 $$
 F(x+h)-F(x)=f(x)h
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1ODA1NzY2LC01OTYzNzM0NSw5NDM2NT
-E2MDcsNzMyNDI3NTExXX0=
+eyJoaXN0b3J5IjpbLTQ0MjEzOTQ4Niw5NjU4MDU3NjYsLTU5Nj
+M3MzQ1LDk0MzY1MTYwNyw3MzI0Mjc1MTFdfQ==
 -->
