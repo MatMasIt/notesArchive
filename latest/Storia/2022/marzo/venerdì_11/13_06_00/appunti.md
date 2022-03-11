@@ -36,7 +36,10 @@ Von Schlieffen
 
 genio dal punto di vista militare
 
+l'esercito tedesco dovrebbe dividersi in due parti 
 
+
+Piano schliffen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzAwMTg0NCwtMTcwOTMxNDAzNl19
+eyJoaXN0b3J5IjpbLTU2MzI5NzY1OCwtMTcwOTMxNDAzNl19
 -->
