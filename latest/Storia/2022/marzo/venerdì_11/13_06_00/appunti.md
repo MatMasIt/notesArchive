@@ -5,7 +5,13 @@
 p 59
 
 accordo franco-britannico
+
+
+piani espansionistici francesi in marocco, che era sotto il controllo dell'impero ottomano
+
+germania si fa garante del'indipendenza Marocchina
+
+< 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTM1NjcyNjQsLTE3MDkzMTQwMzZdfQ
-==
+eyJoaXN0b3J5IjpbMTMyNDc1MDU4MiwtMTcwOTMxNDAzNl19
 -->
