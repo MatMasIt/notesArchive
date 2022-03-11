@@ -75,7 +75,19 @@ $$
 10^{-5}\frac{m}s
 $$
 
-Intensità: 
+Intensità: numero di cariche per unità di tempo
+
+
+Calcoliamo in base a velocità i derivva $(3)$
+
+
+
+
+Cilidro di base $S$, altezza $\Delta h$, volume $\Delta V$
+
+$$
+I=\frac{\Delta q}{\Delta t}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDU5MjU4NF19
+eyJoaXN0b3J5IjpbMTc5NDE1MzU5NV19
 -->
