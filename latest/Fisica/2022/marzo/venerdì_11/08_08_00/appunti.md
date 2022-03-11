@@ -134,11 +134,15 @@ $$
 > **Forza di Lorentz**
 > Quando una carica si sta spostando in un campo magnetico, essa sarà soggetta ad una forza.
 > $$
-F=q\vec{v}\times \vec B
+F_{\mathscr{L}}=q\vec{v}\times \vec B
+$$
+
+$$
+
 $$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDg0MjQ2Ml19
+eyJoaXN0b3J5IjpbLTM1MjYwOTM4M119
 -->
