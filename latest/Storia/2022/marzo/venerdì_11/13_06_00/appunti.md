@@ -43,7 +43,14 @@ che vuol dire perdere
 
 Piano schliffen
 
-bisogna attaccar
+bisogna attaccare innanzitutto sul fronte francese e bisogna vincerla nel giro di qualche settimana
+
+molto in fretta
+
+poi dobbiamo spostare velocemente tutte le truppe sul fronte orientale per sconfiggere la russia
+
+come può succedere:
+* la russia aveva un esercito molto lento a mobilitarsi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0NTU5MzE1LC0xNzA5MzE0MDM2XX0=
+eyJoaXN0b3J5IjpbNDMxNjc0NjY5LC0xNzA5MzE0MDM2XX0=
 -->
