@@ -38,6 +38,16 @@ $$
 $$
 B=\frac{\mu_0}{2\pi}\frac{I}d
 $$
+
+p. 267 l.2
+
+Intensità di corrente
+
+$$
+I=\frac{\Delta Q}{\Delta t}=\frac{dQ(t)}{dt}\qquad A
+$$
+
+$A$: Ampère
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDUzMjA3NV19
+eyJoaXN0b3J5IjpbMTcwNzEzMzUwMl19
 -->
