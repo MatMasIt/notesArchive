@@ -11,7 +11,19 @@ piani espansionistici francesi in marocco, che era sotto il controllo dell'imper
 
 germania si fa garante del'indipendenza Marocchina
 
-< 
+ giugno 1905 - gennaio 1906 
+conferenza di Algeciras
+
+
+per evitare conflitto
+
+francia con supporto di
+* inghilterra
+* russsia
+* spagna
+* italia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDc1MDU4MiwtMTcwOTMxNDAzNl19
+eyJoaXN0b3J5IjpbNDYwMTk0LC0xNzA5MzE0MDM2XX0=
 -->
