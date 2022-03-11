@@ -53,9 +53,9 @@ $A$: Ampère
 
 p. 267
 
-1. Velocitàdel segnale $\implies$ perturbazioni
+1. Velocità del segnale $\implies$ perturbazioni
 
-$c$
+$c\approx3\cdot 10^8\frac{m}s$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Nzc4MjEyOF19
+eyJoaXN0b3J5IjpbMTYxMjE5MDg0NF19
 -->
