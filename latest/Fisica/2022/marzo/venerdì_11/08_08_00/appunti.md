@@ -88,6 +88,20 @@ Cilidro di base $S$, altezza $\Delta h$, volume $\Delta V$
 $$
 I=\frac{\Delta q}{\Delta t}
 $$
+
+
+$$
+\Delta h = V\delta t
+$$
+
+$$
+\Detla Q = neV
+$$
+
+
+$$
+\frac{\Delta 
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDE1MzU5NV19
+eyJoaXN0b3J5IjpbLTc4MzQwOTQ3OF19
 -->
