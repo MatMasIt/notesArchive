@@ -75,10 +75,11 @@ piano lasciato in un cassetto
 
 p.60
 
-duplice intesa franco-russa diventa triplice intesa, aggiungendo l'nghilterra
+d
+uplice intesa franco-russa diventa triplice intesa, aggiungendo l'nghilterra
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1MDgyOTg1LDExNjIzMDY0NTcsLTE3MD
-kzMTQwMzZdfQ==
+eyJoaXN0b3J5IjpbMjY3MDE1MTI3LDc4NTA4Mjk4NSwxMTYyMz
+A2NDU3LC0xNzA5MzE0MDM2XX0=
 -->
