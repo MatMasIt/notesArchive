@@ -36,10 +36,14 @@ Von Schlieffen
 
 genio dal punto di vista militare
 
-l'esercito tedesco dovrebbe dividersi in due parti 
+l'esercito tedesco dovrebbe dividersi in due parti  per fronteggiare francia e russia in caso di guerra
+
+che vuol dire perdere
 
 
 Piano schliffen
+
+bisogna attaccar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzI5NzY1OCwtMTcwOTMxNDAzNl19
+eyJoaXN0b3J5IjpbNTc0NTU5MzE1LC0xNzA5MzE0MDM2XX0=
 -->
