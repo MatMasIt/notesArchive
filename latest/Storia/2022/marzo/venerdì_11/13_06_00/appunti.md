@@ -21,9 +21,14 @@ francia con supporto di
 * inghilterra
 * russsia
 * spagna
-* italia
+* italia (i buoni raporti si erano allacciati con la francia), nonostante s
 
+germania sostenuta solo da impero asburgico
+
+governo tedesco isolato
+
+sentimenti nazionalisti tedeschi crescono
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwMTk0LC0xNzA5MzE0MDM2XX0=
+eyJoaXN0b3J5IjpbLTMyMzM0MTc3MiwtMTcwOTMxNDAzNl19
 -->
