@@ -79,8 +79,16 @@ duplice intesa franco-russa diventa triplice intesa, aggiungendo l'nghilterra
 
 
 impero ottomano
-giovani vogli
+giovani vogliono nuovo assetto p46
+Mustafa Kemal
+
+punta a destituire il sultano
+1908
+
+svolta politica costituzionale
+
+impero austr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njc4MDM3MDIsNzg1MDgyOTg1LDExNj
+eyJoaXN0b3J5IjpbLTEyNzk0MDgzOTMsNzg1MDgyOTg1LDExNj
 IzMDY0NTcsLTE3MDkzMTQwMzZdfQ==
 -->
