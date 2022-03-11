@@ -51,6 +51,12 @@ poi dobbiamo spostare velocemente tutte le truppe sul fronte orientale per sconf
 
 come può succedere:
 * la russia aveva un esercito molto lento a mobilitarsi
+* straordinarie ferrovie in germania
+
+
+ultim problema da risolvere: come si sconfigge la francia in poco tempo?
+* esercito agguerrito
+* francia ha costruito fortificazioni 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxNjc0NjY5LC0xNzA5MzE0MDM2XX0=
+eyJoaXN0b3J5IjpbMTU4NTg5NzEyNiwtMTcwOTMxNDAzNl19
 -->
