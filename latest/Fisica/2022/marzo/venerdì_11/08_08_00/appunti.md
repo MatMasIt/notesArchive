@@ -167,7 +167,18 @@ medio lorentz
 			---------------| |
 			|      S       | |
 			---------------|/
+                  | | | | B / \
+              ______________ |
+             /             / |
+			---------------| |
+			|      N       | |
+			---------------|/
      
+
+
+$$
+F_g=|B||v|\sin 0=0
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwNzYyOTIwXX0=
+eyJoaXN0b3J5IjpbLTE2NjA5MzA1ODRdfQ==
 -->
