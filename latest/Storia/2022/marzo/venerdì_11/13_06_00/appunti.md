@@ -69,7 +69,11 @@ sarebbe violazione del diritto internazionale molto brave
 
 ma è l'unico modo
 
+confine poco difeso
+
+piano lasciato in un cassetto
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjg1MzU3LC0xNzA5MzE0MDM2XX0=
+eyJoaXN0b3J5IjpbMTE2MjMwNjQ1NywtMTcwOTMxNDAzNl19
 -->
