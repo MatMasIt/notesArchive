@@ -111,6 +111,16 @@ $$
 $$
 I=\frac{\Delta Q}{\Delta V}=\frac{neSv_d\cancel{\Delta t}}{\cancel \Delta t}=neSv_d
 $$
+
+
+p.381
+
+Forza di Lorentz
+
+
+$$
+\vec F=\v
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1NjUyMTI5XX0=
+eyJoaXN0b3J5IjpbMTc5MDI5MzAxMV19
 -->
