@@ -100,8 +100,15 @@ $$
 
 
 $$
-\frac{\Delta 
+\frac{\Delta q}{\Delta V}=ne
 $$
+
+
+$$
+\Delta Q = neSv\Delta t
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzQwOTQ3OF19
+eyJoaXN0b3J5IjpbMTA4OTkzNzg5OF19
 -->
