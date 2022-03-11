@@ -48,6 +48,14 @@ I=\frac{\Delta Q}{\Delta t}=\frac{dQ(t)}{dt}\qquad A
 $$
 
 $A$: Ampère
+
+
+
+p. 267
+
+1. Velocitàdel segnale $\implies$ perturbazioni
+
+$c$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzEzMzUwMl19
+eyJoaXN0b3J5IjpbMTY1Nzc4MjEyOF19
 -->
