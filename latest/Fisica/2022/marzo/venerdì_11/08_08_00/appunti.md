@@ -200,12 +200,33 @@ $$
 ---
 
 $$
+q\cancel vB=m\frac{V^2}{R}
+$$
+
+$$
 v_t0\omega R
 $$
 
 $$
-qB=m\omega
+qB=m\omega \cancel{\frac{R}{R}}
 $$
+
+$$
+q_B=m\frac{2\pi}T
+$$
+
+$$
+T=2\pi\frac{m}{q_B}
+$$
+
+
+Applicato nel ciclotrone
+
+PET
+
+tomografia ad emissione di positroni
+
+p.385
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDY0NDg5M119
+eyJoaXN0b3J5IjpbLTExMzMxNTkwNTNdfQ==
 -->
