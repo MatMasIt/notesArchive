@@ -161,11 +161,13 @@ medio lorentz
 
 
 
----
-
-
---------------
-
+----
+              _______________
+             /             / |
+			---------------| |
+			|      S       | |
+			---------------|/
+     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1ODE4NDM0XX0=
+eyJoaXN0b3J5IjpbNTUwNzYyOTIwXX0=
 -->
