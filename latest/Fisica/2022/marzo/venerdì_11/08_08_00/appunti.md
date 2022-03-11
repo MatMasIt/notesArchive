@@ -137,12 +137,35 @@ $$
 F_{\mathscr{L}}=q\vec{v}\times \vec B
 $$
 
+Se
+$$
+q> 0
 $$
 
+regla mano dx
+
+
+se
+$$
+q < 0
 $$
 
 
+regola mno sinitra
+
+pollice velocità
+indice b
+medio lorentz
+
+
+
+
+
+---
+
+
+--------------
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MjYwOTM4M119
+eyJoaXN0b3J5IjpbOTc1ODE4NDM0XX0=
 -->
