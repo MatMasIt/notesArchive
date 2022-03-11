@@ -56,7 +56,20 @@ come può succedere:
 
 ultim problema da risolvere: come si sconfigge la francia in poco tempo?
 * esercito agguerrito
-* francia ha costruito fortificazioni 
+* francia ha costruito fortificazioni al confine con la germania
+
+espediente spregiudicato
+
+bisogna attaccare la francia non direttamente, ma bisogna passare dal Belgio
+
+Belgio è ufficialmente neutrale
+
+sarebbe violazione del diritto internazionale molto brave
+
+
+ma è l'unico modo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTg5NzEyNiwtMTcwOTMxNDAzNl19
+eyJoaXN0b3J5IjpbMTEwNjg1MzU3LC0xNzA5MzE0MDM2XX0=
 -->
