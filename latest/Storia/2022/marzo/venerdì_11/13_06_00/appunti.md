@@ -73,7 +73,12 @@ confine poco difeso
 
 piano lasciato in un cassetto
 
+p.60
+
+duplice intesa franco-russa diventa triplice intesa, aggiungendo l'nghilterra
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjMwNjQ1NywtMTcwOTMxNDAzNl19
+eyJoaXN0b3J5IjpbNzg1MDgyOTg1LDExNjIzMDY0NTcsLTE3MD
+kzMTQwMzZdfQ==
 -->
