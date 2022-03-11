@@ -123,8 +123,22 @@ $$
 $$
 
 $$
-F_{elettrone}=\frac{\vec F}
+F_{elettrone}=\frac{\vec F}{N_{elettroni}}=\frac{-neS\vec{v_d}l\times \vec B}{nSl}
 $$
+
+
+$$
+\vec{F_{elettrone}}=-e\vec{v_d}\times \vec B
+$$
+
+> **Forza di Lorentz**
+> Quando una carica si sta spostando in un campo magnetico, essa sarà soggetta ad una forza.
+> $$
+F=q\vec{v}\times \vec B
+$$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIyODUxNDldfQ==
+eyJoaXN0b3J5IjpbMTUzMDg0MjQ2Ml19
 -->
