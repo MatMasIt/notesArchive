@@ -87,8 +87,13 @@ punta a destituire il sultano
 
 svolta politica costituzionale
 
-impero austr
+1908 impero austroungarico trasforma gestione amministrativa di bosnia ed erzegovina in annessione sfruttando la crisi ottomana
+
+atto di forza recepito male da molti soggetti
+
+
+serbia auspica espansione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk0MDgzOTMsNzg1MDgyOTg1LDExNj
+eyJoaXN0b3J5IjpbLTIwMzk4OTEzNDYsNzg1MDgyOTg1LDExNj
 IzMDY0NTcsLTE3MDkzMTQwMzZdfQ==
 -->
