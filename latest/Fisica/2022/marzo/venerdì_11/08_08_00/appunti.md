@@ -119,8 +119,12 @@ Forza di Lorentz
 
 
 $$
-\vec F=\v
+\vec F=\boxed i\vec l\times B=-neSv_d\vec l \times \vec B
+$$
+
+$$
+F_{elettrone}=\frac{\vec F}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDI5MzAxMV19
+eyJoaXN0b3J5IjpbLTEyNDIyODUxNDldfQ==
 -->
