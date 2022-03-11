@@ -179,6 +179,33 @@ medio lorentz
 $$
 F_g=|B||v|\sin 0=0
 $$
+
+----
+
+
+
+$$
+F_{\mathscr{L}}=F_C
+$$
+
+$$
+q\cancel vB=m\frac{\cancel{v^2}}{R}
+$$
+
+$$
+R=\frac{mV}{qB}
+$$
+
+
+---
+
+$$
+v_t0\omega R
+$$
+
+$$
+qB=m\omega
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA5MzA1ODRdfQ==
+eyJoaXN0b3J5IjpbMTA1MDY0NDg5M119
 -->
