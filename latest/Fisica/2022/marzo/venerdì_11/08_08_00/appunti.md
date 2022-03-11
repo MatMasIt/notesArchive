@@ -13,9 +13,13 @@ bilancia alimentata da alimentatore
 altra estremità: spira immersa in campo magnetico (2 magneti)
 
 
-accendendo la corrente la bilancia si sposta
+accendendo la corrente la bilancia si sposta abassando la spira nel campo magnetico                                                                                              
 
-                                                                                                                           
+$$
+F_m= B\cdot i\cdot l
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ1Nzc2NTZdfQ==
+eyJoaXN0b3J5IjpbMTk1NTMyMjkxOF19
 -->
