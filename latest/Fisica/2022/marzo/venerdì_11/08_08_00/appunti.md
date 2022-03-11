@@ -56,6 +56,26 @@ p. 267
 1. Velocità del segnale $\implies$ perturbazioni
 
 $c\approx3\cdot 10^8\frac{m}s$
+
+2. Velocità dovuta al caloer della temperatura
+
+$$
+10^5-10^6\frac{m}s
+$$
+
+3. Velocità di deriva
+
+
+Analogia
+Tubo di biglie
+se spingo un elettrone nel tubo tutti si spostano e uno ne esce dall'altra parte
+
+
+$$
+10^{-5}\frac{m}s
+$$
+
+Intensità: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjE5MDg0NF19
+eyJoaXN0b3J5IjpbLTgzNDU5MjU4NF19
 -->
