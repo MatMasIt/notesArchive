@@ -21,7 +21,7 @@ francia con supporto di
 * inghilterra
 * russsia
 * spagna
-* italia (i buoni raporti si erano allacciati con la francia), nonostante s
+* italia (i buoni raporti si erano allacciati con la francia), nonostante sia alleata con germania in triplice alleanza
 
 germania sostenuta solo da impero asburgico
 
@@ -29,6 +29,14 @@ governo tedesco isolato
 
 sentimenti nazionalisti tedeschi crescono
 
+
+
+capo di stato maggiore tedesco
+Von Schlieffen
+
+genio dal punto di vista militare
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzM0MTc3MiwtMTcwOTMxNDAzNl19
+eyJoaXN0b3J5IjpbMTI3NzAwMTg0NCwtMTcwOTMxNDAzNl19
 -->
