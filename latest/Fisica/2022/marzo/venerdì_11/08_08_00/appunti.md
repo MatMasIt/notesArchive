@@ -31,9 +31,13 @@ $$
 
 $$
 F_g=G\frac{m_1m_2}{r^2}
-
 $$
 
+
+
+$$
+B=\frac{\mu_0}{2\pi}\frac{I}d
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2MDI0NDk1XX0=
+eyJoaXN0b3J5IjpbMTkyMDUzMjA3NV19
 -->
