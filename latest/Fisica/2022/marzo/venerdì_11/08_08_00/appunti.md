@@ -108,7 +108,9 @@ $$
 \Delta Q = neSv\Delta t
 $$
 
-
+$$
+I=\frac{\Delta Q}{\Delta V}=\frac{neSv_d\cancel{\Delta t}}{\cancel \Delta t}=neSv_d
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTkzNzg5OF19
+eyJoaXN0b3J5IjpbOTU1NjUyMTI5XX0=
 -->
