@@ -40,7 +40,14 @@ Grande vittoria ed ampliamento territoriale verso sud della serbia, che potrebbe
 
 eventualità considerata inaccettabile da:
 * impero asburgico (insofferente verso la serbia dentro la quale molti propagandavano l'idea della Grande Serbia, che sia in grado di assorbire i popoli slavi del sud che fatto parte dell'impero ottomano)
-* 
+* Italia (non vuole altri paesi che gravitino nel mar Adriatico)
+
+Per evitare questo viene creato il regno di Albania, ricostituito dopo la conquista ottomana
+
+ricostituito come freno alla serbia
+
+Sponsor: 
+* regno d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM4MTUxOTZdfQ==
+eyJoaXN0b3J5IjpbMTA1NTAxMjMwMV19
 -->
