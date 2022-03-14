@@ -15,14 +15,20 @@ Russia li incita
 alleanza febbraio 1912
 
 guerra ottobre 1913 - maggio 1913
-impero ottomano perde macedonia, tracia 
+impero ottomano perde macedonia, tracia e isola di creta
 
 dissensi su spartizioen bottino
 
 bulgaria attacca serbia e grecia
 
 
-secoda
+seconda guerra balcanica (1913)
+
+La Bulgaria esce sconfitta
+
+migliore risutato ottenuto dalla Serbia, che ottiene :
+* Il Kosovo
+* parte di macedonia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MzY4MzA2Ml19
+eyJoaXN0b3J5IjpbLTE1NzE1ODE5NTRdfQ==
 -->
