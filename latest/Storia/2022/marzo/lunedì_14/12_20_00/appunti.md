@@ -49,6 +49,11 @@ ricostituito come freno alla serbia
 Sponsor: 
 * Regno d'Italia
 * Impero Asburgico
+
+
+Clima avvelenato
+
+luglio 1914 scoppia la prima guerra mondiale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY2MzI5MDNdfQ==
+eyJoaXN0b3J5IjpbLTc4MTE1OTgzMywtMTQxNjYzMjkwM119
 -->
