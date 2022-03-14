@@ -54,6 +54,20 @@ Sponsor:
 Clima avvelenato
 
 luglio 1914 scoppia la prima guerra mondiale
+
+
+---
+
+Arciduca d'Asburgo 
+
+Francesco Ferdinando in visita a sarajevo
+
+erede al trono (nipote di Francesco Giuseppe)
+
+19enne Gavrilo Princip
+
+Tenta per due volte di attentare alla vita e a causa di una deviazione impro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTE1OTgzMywtMTQxNjYzMjkwM119
+eyJoaXN0b3J5IjpbNDE0NDgxMzg2LC03ODExNTk4MzMsLTE0MT
+Y2MzI5MDNdfQ==
 -->
