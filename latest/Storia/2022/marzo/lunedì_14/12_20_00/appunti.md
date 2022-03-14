@@ -78,8 +78,12 @@ in Austria non venne neanche stabilito il lutto di diversi giorni
 
 Francesco Ferdinando non era tanto ben visto a coorte
 
-era abbbastanza 
+era abbbastanza d'accordo con idea trialistica
+
+dare molta autonomia anche agli slavi del sud
+
+Che 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTQ4MzY3NywtNzgxMTU5ODMzLC0xND
-E2NjMyOTAzXX0=
+eyJoaXN0b3J5IjpbNTA2MDUyNTY3LC03ODExNTk4MzMsLTE0MT
+Y2MzI5MDNdfQ==
 -->
