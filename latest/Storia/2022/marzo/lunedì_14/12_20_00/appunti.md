@@ -29,6 +29,18 @@ La Bulgaria esce sconfitta
 migliore risutato ottenuto dalla Serbia, che ottiene :
 * Il Kosovo
 * parte di macedonia
+
+restante parte di macedonia viene fatta propria dalla grecia
+
+
+tracia restituita ad impero ottomano
+
+
+Grande vittoria ed ampliamento territoriale verso sud della serbia, che potrebbe quasi guadagnare lo sbocco sul mar adriatico
+
+eventualità considerata inaccettabile da:
+* impero asburgico
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE1ODE5NTRdfQ==
+eyJoaXN0b3J5IjpbLTI2OTg3MTczMF19
 -->
