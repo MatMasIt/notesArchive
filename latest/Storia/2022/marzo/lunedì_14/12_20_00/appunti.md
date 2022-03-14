@@ -39,8 +39,8 @@ tracia restituita ad impero ottomano
 Grande vittoria ed ampliamento territoriale verso sud della serbia, che potrebbe quasi guadagnare lo sbocco sul mar adriatico
 
 eventualità considerata inaccettabile da:
-* impero asburgico
+* impero asburgico (insofferente verso la serbia dentro la quale molti propagandavano l'idea della Grande Serbia, che sia in grado di assorbire i popoli slavi del sud che fatto parte dell'impero ottomano)
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTg3MTczMF19
+eyJoaXN0b3J5IjpbLTEwMTM4MTUxOTZdfQ==
 -->
