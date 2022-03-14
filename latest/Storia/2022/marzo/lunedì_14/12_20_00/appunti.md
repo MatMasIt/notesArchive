@@ -66,8 +66,12 @@ erede al trono (nipote di Francesco Giuseppe)
 
 19enne Gavrilo Princip
 
-Tenta per due volte di attentare alla vita e a causa di una deviazione impro
+Tenta per due volte di attentare alla vita e a causa di una deviazione improvvisa del corte dell'arciduca effettuata per disorientare attentatori si ritrova di fronte la carrozza ed esplode tre colpi
+
+uccidono lui e la moglie
+
+Princip appartiene alla società segreta _Mano Nera_ che lotta per l'indipendenza dei popli slavi dal dominio asburgico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0NDgxMzg2LC03ODExNTk4MzMsLTE0MT
-Y2MzI5MDNdfQ==
+eyJoaXN0b3J5IjpbMTc0OTg2MzUwNCwtNzgxMTU5ODMzLC0xND
+E2NjMyOTAzXX0=
 -->
