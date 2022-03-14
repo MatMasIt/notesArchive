@@ -47,7 +47,8 @@ Per evitare questo viene creato il regno di Albania, ricostituito dopo la conqui
 ricostituito come freno alla serbia
 
 Sponsor: 
-* regno d
+* Regno d'Italia
+* Impero Asburgico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTAxMjMwMV19
+eyJoaXN0b3J5IjpbLTE0MTY2MzI5MDNdfQ==
 -->
