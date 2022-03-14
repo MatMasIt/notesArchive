@@ -82,8 +82,17 @@ era abbbastanza d'accordo con idea trialistica
 
 dare molta autonomia anche agli slavi del sud
 
-Che 
+Che si fa ora?
+
+si discute la possibilità di dichiarare guerra alla Serbia
+
+
+cogliere occasione per togliersi di mezzo la Serbia
+
+regno un po' troppo grande e ambizioso
+
+ostacolo contro la politica austriaca di espansione nei balcani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2MDUyNTY3LC03ODExNTk4MzMsLTE0MT
-Y2MzI5MDNdfQ==
+eyJoaXN0b3J5IjpbMTkyOTk3MDE4NywtNzgxMTU5ODMzLC0xND
+E2NjMyOTAzXX0=
 -->
