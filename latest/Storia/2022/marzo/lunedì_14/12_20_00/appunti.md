@@ -71,7 +71,9 @@ Tenta per due volte di attentare alla vita e a causa di una deviazione improvvis
 uccidono lui e la moglie
 
 Princip appartiene alla società segreta _Mano Nera_ che lotta per l'indipendenza dei popli slavi dal dominio asburgico
+
+non ci sono prove che il governo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTg2MzUwNCwtNzgxMTU5ODMzLC0xND
+eyJoaXN0b3J5IjpbMTg2Nzc5Mjk5OSwtNzgxMTU5ODMzLC0xND
 E2NjMyOTAzXX0=
 -->
