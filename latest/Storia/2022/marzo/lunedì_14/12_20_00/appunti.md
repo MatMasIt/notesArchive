@@ -10,6 +10,19 @@
 ### Prima guerra balcanica
 Serbia, Grecia, Bulgaria  Montenegro in funzione antiturca
 Russia li incita
+
+
+alleanza febbraio 1912
+
+guerra ottobre 1913 - maggio 1913
+impero ottomano perde macedonia, tracia 
+
+dissensi su spartizioen bottino
+
+bulgaria attacca serbia e grecia
+
+
+secoda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTcxMTkyMV19
+eyJoaXN0b3J5IjpbLTQ0MzY4MzA2Ml19
 -->
