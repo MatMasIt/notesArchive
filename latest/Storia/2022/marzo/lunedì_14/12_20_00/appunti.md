@@ -72,8 +72,14 @@ uccidono lui e la moglie
 
 Princip appartiene alla società segreta _Mano Nera_ che lotta per l'indipendenza dei popli slavi dal dominio asburgico
 
-non ci sono prove che il governo 
+non ci sono prove che il governo serbo abbia avuto un ruolo nell'attentato
+
+in Austria non venne neanche stabilito il lutto di diversi giorni
+
+Francesco Ferdinando non era tanto ben visto a coorte
+
+era abbbastanza 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Nzc5Mjk5OSwtNzgxMTU5ODMzLC0xND
+eyJoaXN0b3J5IjpbMjA1OTQ4MzY3NywtNzgxMTU5ODMzLC0xND
 E2NjMyOTAzXX0=
 -->
