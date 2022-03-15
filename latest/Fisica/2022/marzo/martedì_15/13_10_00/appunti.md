@@ -30,8 +30,10 @@ Pila daniell: esempio di una pila
 
 
 ---
-### Resjstemza
+### Resistenza
 
+
+Prima legge di Ohm, che vale per i conduttori ohmici
 $$
 R=\frac{\Delta V}I\qquad \Omega\quad \left(\frac{V}A\right)
 $$
@@ -39,6 +41,9 @@ $$
 
 Grafico $\Delta V-I$
 minore pendenza retta, maggiore resistenza
+
+
+I led sono conduttori non ohmici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1MTg0OTg4LDk4NjcyNTY2XX0=
+eyJoaXN0b3J5IjpbLTE5NDg4NTkwMDIsOTg2NzI1NjZdfQ==
 -->
