@@ -37,7 +37,8 @@ R=\frac{\Delta V}I\qquad \Omega\quad \left(\frac{V}A\right)
 $$
 
 
-
+Grafico $\Delta V-I$
+minore pendenza retta, maggiore resistenza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzk1NzI0NSw5ODY3MjU2Nl19
+eyJoaXN0b3J5IjpbMjc1MTg0OTg4LDk4NjcyNTY2XX0=
 -->
