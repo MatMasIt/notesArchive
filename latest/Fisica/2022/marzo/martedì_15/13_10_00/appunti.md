@@ -30,7 +30,12 @@ Pila daniell: esempio di una pila
 
 
 ---
+### Resjstemza
+
+$$
+R=\frac{\Delta V}I\qquad \Omega\quad \left(\frac{V}A\right)
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjAzOTM0Nyw5ODY3MjU2Nl19
+eyJoaXN0b3J5IjpbMTM3ODIyOTU0Myw5ODY3MjU2Nl19
 -->
