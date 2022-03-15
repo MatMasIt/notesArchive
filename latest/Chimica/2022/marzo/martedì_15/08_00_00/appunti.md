@@ -17,6 +17,9 @@ reazione tra un gruppo acido e un alcool
 
 
 Enantiomeri: stereoisomeri speculari non sovrappolibili
+
+\+ destra destrogiro
+\- sinistra levogiro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDc0MDhdfQ==
+eyJoaXN0b3J5IjpbLTE3ODI0ODYwMjNdfQ==
 -->
