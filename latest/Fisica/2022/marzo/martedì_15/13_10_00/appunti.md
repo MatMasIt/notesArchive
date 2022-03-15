@@ -31,9 +31,9 @@ Pila daniell: esempio di una pila
 
 ---
 ### Resistenza
+Ostacolo al passaggio della corrente
 
-
-Prima legge di Ohm, che vale per i conduttori ohmici
+#### Prima legge di Ohm, che vale per i conduttori ohmici
 $$
 R=\frac{\Delta V}I\qquad \Omega\quad \left(\frac{V}A\right)
 $$
@@ -44,6 +44,21 @@ minore pendenza retta, maggiore resistenza
 
 
 I led sono conduttori non ohmici
+
+## Seconda legge di ohm
+
+$$
+R\propto\frac1s
+$$
+
+$$
+R=\rho\frac1S
+$$
+
+
+$$
+\r
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg4NTkwMDIsOTg2NzI1NjZdfQ==
+eyJoaXN0b3J5IjpbMTU1NjE1NDU3Nyw5ODY3MjU2Nl19
 -->
