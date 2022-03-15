@@ -20,6 +20,15 @@ Enantiomeri: stereoisomeri speculari non sovrappolibili
 
 \+ destra destrogiro
 \- sinistra levogiro
+
+
+
+potere rotatorio specifico nel polarimetro
+
+
+p.15
+
+Racmo: otticamemte inattivo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI0ODYwMjNdfQ==
+eyJoaXN0b3J5IjpbOTg4MTIwODMzXX0=
 -->
