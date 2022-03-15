@@ -8,11 +8,15 @@ A sinistra: L
 reazione tra un gruppo acido e un alcool
 
 
-        O
-       //
-	R-C       
-	    \
-	     H
+        O                    O
+       //                   //
+	R-C       + R'OH -> R-C
+	    \                   \
+	     H                   OR
+
+
+
+En
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjY3NDIzMzddfQ==
+eyJoaXN0b3J5IjpbMTgzNTI5NTQ5OF19
 -->
