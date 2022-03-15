@@ -18,11 +18,19 @@ Circuito elementare generale con
 
 ![](https://i.imgur.com/uq9vuK7.jpg)
 
+### Alimentatore
 
 Differenza di potenziale
 
 
 come dislivello in una centrale elettrica
+
+
+Pila daniell: esempio di una pila
+
+
+---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjg2NDMwNCw5ODY3MjU2Nl19
+eyJoaXN0b3J5IjpbMTA3MjAzOTM0Nyw5ODY3MjU2Nl19
 -->
