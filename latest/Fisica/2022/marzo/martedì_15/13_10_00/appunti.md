@@ -48,17 +48,15 @@ I led sono conduttori non ohmici
 ## Seconda legge di ohm
 
 $$
-R\propto\frac1s
+R\propto\frac{l}s
 $$
 
 $$
-R=\rho\frac1S
+R=\rho\frac{l}S
 $$
 
 
-$$
-\r
-$$
+$\rho$: resistività
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjE1NDU3Nyw5ODY3MjU2Nl19
+eyJoaXN0b3J5IjpbOTczMDA5MzYsOTg2NzI1NjZdfQ==
 -->
