@@ -45,7 +45,7 @@ minore pendenza retta, maggiore resistenza
 
 I led sono conduttori non ohmici
 
-## Seconda legge di ohm
+#### Seconda legge di ohm
 
 $$
 R\propto\frac{l}s
@@ -54,9 +54,19 @@ $$
 $$
 R=\rho\frac{l}S
 $$
-
+20°C
 
 $\rho$: resistività
+
+---
+
+Resistività ad una certa temperatura
+
+
+$$
+\rho=\rho_{0°C}(1+\alpha\Delta t)
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczMDA5MzYsOTg2NzI1NjZdfQ==
+eyJoaXN0b3J5IjpbLTE1NTY2MzEyNjYsOTg2NzI1NjZdfQ==
 -->
