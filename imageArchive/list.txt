@@ -81,6 +81,7 @@ latest/Fisica/2022/febbraio/martedì_1/13_20_00/appunti.md:https://i.imgur.com/M
 latest/Fisica/2022/febbraio/martedì_1/13_20_00/appunti.md:https://i.imgur.com/S28T89A.jpg
 latest/Fisica/2022/gennaio/mercoledì_26/09_10_00/esercizi.md:https://i.imgur.com/LtspkUP.jpg
 latest/Fisica/2022/gennaio/venerdì_21/08_00_00/appunti.md:https://i.imgur.com/4dgxgMi.jpg
+latest/Fisica/2022/marzo/martedì_15/13_10_00/appunti.md:https://i.imgur.com/uq9vuK7.jpg
 latest/Fisica/2022/marzo/venerdì_4/08_14_00/appunti.md:https://i.imgur.com/3hai1nA.jpg
 latest/Fisica/2022/marzo/venerdì_4/08_14_00/appunti.md:https://i.imgur.com/SG9GADY.jpg
 latest/Fisica/2022/marzo/venerdì_4/08_14_00/appunti.md:https://i.imgur.com/o0O8IFl.jpg
