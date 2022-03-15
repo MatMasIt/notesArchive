@@ -97,8 +97,17 @@ ostacolo contro la politica austriaca di espansione nei balcani
 Impero asburgico sa che Serbia è protetta dalla Russia, che è stata sconfitta nel 1905 dal giappone ma è comunque forte
 
 
-impero asburgico dovreb
+impero asburgico dovrebbe dichiarare guerra alla russia
+
+non scatta alleanza difensiva
+
+triplice alleanza
+
+
+occorre essere sicuri del sostegno della Germania
+
+bisogna discutere con il Kaiser tedesco per assicurarsi sostegno anche non difensivo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxOTA1MjY4LC03ODExNTk4MzMsLTE0MT
-Y2MzI5MDNdfQ==
+eyJoaXN0b3J5IjpbLTIwMDc5MDY0MjUsLTc4MTE1OTgzMywtMT
+QxNjYzMjkwM119
 -->
