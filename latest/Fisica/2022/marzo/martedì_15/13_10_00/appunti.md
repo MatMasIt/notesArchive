@@ -13,10 +13,10 @@ $$
 
 ## I circuiti elettrici
 
+Circuito elementare generale con 
 
-		|
-		| |
-		|
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODg1MjMyMV19
+eyJoaXN0b3J5IjpbOTg2NzI1NjZdfQ==
 -->
