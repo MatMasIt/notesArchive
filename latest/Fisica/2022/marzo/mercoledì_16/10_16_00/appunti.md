@@ -1,6 +1,6 @@
 # Lezione di Fisica
 
-Ampere-ora
+Amperometro in serie, voltmetro in parallelo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTE2ODUyXX0=
+eyJoaXN0b3J5IjpbODAzNzcwNDM0XX0=
 -->
