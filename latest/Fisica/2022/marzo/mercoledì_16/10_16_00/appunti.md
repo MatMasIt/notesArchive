@@ -6,8 +6,9 @@ corrente da + a -
 
 Resitenze in serie si sommano per trovare la resistenza equivalente
 
+Resistenze in parallelo
 
-tresisten
+la corrente passa di più dove incontra meno resistenza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1NzQ0MzQzXX0=
+eyJoaXN0b3J5IjpbMTQ5MjkzMDU2OF19
 -->
