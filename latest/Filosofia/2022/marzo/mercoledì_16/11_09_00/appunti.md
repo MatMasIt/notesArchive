@@ -34,7 +34,10 @@ Secondo Marx gli economisti classici tendono a rappresentare leggi economia come
 
 Questo legittima lo status quo
 
+Secondo gli economisti classici i conflitti tra datori di lavoro e lavoratori sono accidentali, per Marx sono sistematici
 
+Quattro aspetti dell'alienazione del lavoro:
+1. Il prodot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzIwNTQzXX0=
+eyJoaXN0b3J5IjpbMTE4NzA3NzBdfQ==
 -->
