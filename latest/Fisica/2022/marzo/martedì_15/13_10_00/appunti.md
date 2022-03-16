@@ -67,6 +67,8 @@ $$
 \rho=\rho_{0°C}(1+\alpha\Delta t)
 $$
 
+$\alpha$ dipende dal materiale
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY2MzEyNjYsOTg2NzI1NjZdfQ==
+eyJoaXN0b3J5IjpbMjEyOTk0NTA2LDk4NjcyNTY2XX0=
 -->
