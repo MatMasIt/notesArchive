@@ -26,6 +26,14 @@ Leggi di kirckoff
 Nodi: punti in cui la corrente si separa
 
 maglie: circuiti chiusi anche senza alimentatore
+
+Prima:
+L'intensità i corrente che entra in un nodo è uguale a quella che esce
+
+Seconda legge di kircoff. la somma algebrica di tutte le differenze di potenziale in una maglia è 0
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE5NTQ0NjMsMTQ5MjkzMDU2OF19
+eyJoaXN0b3J5IjpbLTEzMTA5MzA3NTAsMTQ5MjkzMDU2OF19
 -->
