@@ -18,6 +18,14 @@ $$
 \frac1{C_f}=\frac1{C_1}+\frac1{C_2}
 $$
 
+
+p. 219
+
+Leggi di kirckoff
+
+Nodi: punti in cui la corrente si separa
+
+maglie: circuiti chiusi anche senza alimentatore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5NTkzMjUzLDE0OTI5MzA1NjhdfQ==
+eyJoaXN0b3J5IjpbLTEzNzE5NTQ0NjMsMTQ5MjkzMDU2OF19
 -->
