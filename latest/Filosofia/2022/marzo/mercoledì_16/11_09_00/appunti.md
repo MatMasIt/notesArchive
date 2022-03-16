@@ -16,6 +16,19 @@ Marx considera che possono votare soltanto i ricchi
 lui scrive che occorre eliminare la proprietà privata: origine del problema
 
 vera diseguaglianza sociale di carattere economico 
+
+
+Engels figlio di industriale inglese, mostra a cosa porta il campitalismo ai poveri
+
+Engels mostra che arricchimento capitalstico genera crisi economica
+
+
+competizione comporta compressione dei salari
+
+
+Marx lo apprezza
+
+Manoscritti economici-filosofic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDczOTgwMl19
+eyJoaXN0b3J5IjpbLTEzMjc5MDg2ODJdfQ==
 -->
