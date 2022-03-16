@@ -28,7 +28,13 @@ competizione comporta compressione dei salari
 
 Marx lo apprezza
 
-Manoscritti economici-filosofic
+Manoscritti economici-filosofici del '44
+
+Secondo Marx gli economisti classici tendono a rappresentare leggi economia come immutabili ed eterne, come leggi della natura
+
+Questo legittima lo status quo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjc5MDg2ODJdfQ==
+eyJoaXN0b3J5IjpbMTEyMzIwNTQzXX0=
 -->
