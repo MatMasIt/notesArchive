@@ -28,6 +28,9 @@ $$
 $$
 
 
+$$
+\frac13\int\frac3{\sqrt{1-(3x)^2}}dx
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzA2MDAyMl19
+eyJoaXN0b3J5IjpbLTE3MTYzNTU4XX0=
 -->
