@@ -37,7 +37,8 @@ Questo legittima lo status quo
 Secondo gli economisti classici i conflitti tra datori di lavoro e lavoratori sono accidentali, per Marx sono sistematici
 
 Quattro aspetti dell'alienazione del lavoro:
-1. Il prodot
+1. Il prodotto del lavoratore si aliena dal lavoratore e diventa possesso del datore di lavoro, che se ne arricchisce
+L'operaio si estrania dal prodotto del suo lavoro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzA3NzBdfQ==
+eyJoaXN0b3J5IjpbMTMwOTUyNTk4NV19
 -->
