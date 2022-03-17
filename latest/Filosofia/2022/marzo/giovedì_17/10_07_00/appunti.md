@@ -33,6 +33,18 @@ Lavoratore in fabbrica lavora con una macchina e non ha interazione con altri se
 
 non ha modo di realizzare la sua caratteristica della socialità
 
+
+p.31
+
+1845
+
+Engels e Marx
+
+_ La Sacra Famiglia_ e _Tesi su Auyerbach_ 
+
+Predono distanze da _Auyerbach_
+
+3 critiche ($2 a _Auyerbach_ + $1$ alla sinistra Hegeliana)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0MzE2MDA1XX0=
+eyJoaXN0b3J5IjpbLTE2NTUzNTgwODBdfQ==
 -->
