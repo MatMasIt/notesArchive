@@ -18,9 +18,9 @@ vs lavoro **operaio** (che è ==alienante==)
 cosa rimane all'operaio:mangiare, bere, fare sesso
 L'operaio quando fa le cose che fanno gli animali si sente libero 	quando il lavoro dovrebbe essere quello che rende liberi
 
-
+L'uomo costruisce gli strumenti per il suo lavoro
 
 Terzo tipo di alienazione: alienazione dal genere umano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDg4NjIxMV19
+eyJoaXN0b3J5IjpbMTc0MzA5MDg4N119
 -->
