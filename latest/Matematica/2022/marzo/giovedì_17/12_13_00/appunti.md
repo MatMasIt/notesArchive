@@ -26,6 +26,8 @@ $$
 $$
 \int\frac1{\sqrt{1-9x^2}}dx
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwNjc5ODk4XX0=
+eyJoaXN0b3J5IjpbMTE5NzA2MDAyMl19
 -->
