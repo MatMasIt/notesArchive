@@ -20,7 +20,9 @@ L'operaio quando fa le cose che fanno gli animali si sente libero 	quando il lav
 
 L'uomo costruisce gli strumenti per il suo lavoro
 
-Terzo tipo di alienazione: alienazione dal genere umano
+Terzo tipo di alienazione: alienazione dal genere umano, implicata dall'alienazione dalal attività produttiva
+Stai tradendo la tua essenza di essere umano
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzA5MDg4N119
+eyJoaXN0b3J5IjpbLTEzNTI0Mzg4OTVdfQ==
 -->
