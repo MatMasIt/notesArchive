@@ -62,7 +62,15 @@ Secondo Marx Auyerbach parla dell'uomo troppo in generale senza guardo storico a
 
 ### 3.
 
+Sinistra storica vuole cambiare la realtà attraverso le idee
+
+Non è la coscienza che dertermina la vita ma la vita che determina la coscienza
+
+
+le idee sono il frutto della realtà
+
+devo prima modificare il mond per cambiare le idee
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNzczMTI1LC03MjY4NDM4MTAsMjYwMT
-I4MjQzXX0=
+eyJoaXN0b3J5IjpbMTE0MjY3MTAyNywtNzI2ODQzODEwLDI2MD
+EyODI0M119
 -->
