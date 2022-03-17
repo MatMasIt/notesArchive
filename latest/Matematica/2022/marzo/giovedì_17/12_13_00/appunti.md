@@ -44,9 +44,10 @@ $$
 $$
 
 $$
-x+2=t\implies x=t-2
+\sqrt[3]{x+2}=t\implies x+2=t^3\qquad x=t^3-2
 $$
+
+$$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY5MzI1NTUsLTEzMjA0NDY4MTddfQ
-==
+eyJoaXN0b3J5IjpbMjUzODE4NTE2LC0xMzIwNDQ2ODE3XX0=
 -->
