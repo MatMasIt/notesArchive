@@ -44,7 +44,9 @@ _ La Sacra Famiglia_ e _Tesi su Auyerbach_
 
 Predono distanze da _Auyerbach_
 
-3 critiche ($2 a _Auyerbach_ + $1$ alla sinistra Hegeliana)
+3 critiche ($2$ a _Auyerbach_ + $1$ alla sinistra Hegeliana)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTUzNTgwODBdfQ==
+eyJoaXN0b3J5IjpbLTEzOTUwMzM0ODZdfQ==
 -->
