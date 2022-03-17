@@ -44,9 +44,11 @@ _ La Sacra Famiglia_ e _Tesi su Auyerbach_
 
 Predono distanze da _Auyerbach_
 
-3 critiche ($2$ a _Auyerbach_ + $1$ alla sinistra Hegeliana)
+$3$ critiche ($2$ a _Auyerbach_ + $1$ alla sinistra Hegeliana)
 
+Secondo marx in un sistema comunista l'uomo si realizza
 
+il comunismo non è un ritorno al buon selvaggio, mantenendo il sistema industriale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUwMzM0ODZdfQ==
+eyJoaXN0b3J5IjpbMjYwMTI4MjQzXX0=
 -->
