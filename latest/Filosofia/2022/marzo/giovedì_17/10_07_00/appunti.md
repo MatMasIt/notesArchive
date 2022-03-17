@@ -57,9 +57,12 @@ La religione è il "sospiro della creatura oppressa", "l'oppio del popolo", "Il 
 
 
 
- #### 2 .
+### 2 .
 Secondo Marx Auyerbach parla dell'uomo troppo in generale senza guardo storico alla società a cui l'uomo appartiene
+
+### 3.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzA0NDMzNiwtNzI2ODQzODEwLDI2MD
-EyODI0M119
+eyJoaXN0b3J5IjpbNjkzNzczMTI1LC03MjY4NDM4MTAsMjYwMT
+I4MjQzXX0=
 -->
