@@ -36,7 +36,17 @@ $$
 ## p. 318
 
 260 in sequenza
+---
 
+
+$$
+\int\frac{x+1}{\sqrt[3]{x+2}}dx=
+$$
+
+$$
+x+2=t\implies x=t-2
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1NDY4OTMsLTEzMjA0NDY4MTddfQ==
+eyJoaXN0b3J5IjpbLTEzNjY5MzI1NTUsLTEzMjA0NDY4MTddfQ
+==
 -->
