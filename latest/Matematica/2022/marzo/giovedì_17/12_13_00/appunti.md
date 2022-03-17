@@ -53,8 +53,8 @@ dx=3t^2dt$$
 
 
 $$
-\int\frac{t^3-2+1}tt^2dt=3\int t^4-tdt=3\frac{t^5
+\int\frac{t^3-2+1}tt^2dt=3\int t^4-tdt=3\frac{t^5}5-3\frac{t^2}2+c
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjAwODE1NywtMTMyMDQ0NjgxN119
+eyJoaXN0b3J5IjpbNzQ1NTg2MTUsLTEzMjA0NDY4MTddfQ==
 -->
