@@ -29,7 +29,10 @@ Stai tradendo la tua essenza di essere umano
 ### 4. Alienazione dell'uomo dall'uomo
 L'uomo è naturalmente un essere sociale
 
-Lavoratore in fabbrica lavora con una macchina e non ha interazione 
+Lavoratore in fabbrica lavora con una macchina e non ha interazione con altri se non quando riceve la paga
+
+non ha modo di realizzare la sua caratteristica della socialità
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwMjkyNjU2XX0=
+eyJoaXN0b3J5IjpbMzE0MzE2MDA1XX0=
 -->
