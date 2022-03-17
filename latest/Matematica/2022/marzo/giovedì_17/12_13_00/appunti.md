@@ -29,8 +29,11 @@ $$
 
 
 $$
-\frac13\int\frac3{\sqrt{1-(3x)^2}}dx
+\frac13\int\frac3{\sqrt{1-(3x)^2}}dx=\frac13\arcsin3x+c
 $$
+
+
+p. 318
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTYzNTU4XX0=
+eyJoaXN0b3J5IjpbMjAwNzM5NzUyOF19
 -->
