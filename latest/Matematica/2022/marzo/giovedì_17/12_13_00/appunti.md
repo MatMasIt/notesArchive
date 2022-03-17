@@ -33,7 +33,9 @@ $$
 $$
 
 
-p. 318
+## p. 318
+
+260 in sequenza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzM5NzUyOF19
+eyJoaXN0b3J5IjpbLTEzMjA0NDY4MTddfQ==
 -->
