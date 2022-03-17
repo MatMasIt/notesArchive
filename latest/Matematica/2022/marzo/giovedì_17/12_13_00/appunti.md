@@ -36,6 +36,7 @@ $$
 ## p. 318
 
 260 in sequenza
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA0NDY4MTddfQ==
+eyJoaXN0b3J5IjpbOTk1NDY4OTMsLTEzMjA0NDY4MTddfQ==
 -->
