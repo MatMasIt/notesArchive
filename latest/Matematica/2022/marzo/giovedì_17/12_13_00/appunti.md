@@ -15,8 +15,17 @@ $$
 
 
 $$
-\int\frac{2\sinx \cos x}{\sin^2 x+1}d
+\int\frac{2\sin x \cos x}{\sin^2 x+1}dx=\ln(\sin^2x+1)+c
+$$
+
+---
+
+### 237
+
+
+$$
+\int\frac1{\sqrt{1-9x^2}}dx
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3MTEyNjI3XX0=
+eyJoaXN0b3J5IjpbNDAwNjc5ODk4XX0=
 -->
