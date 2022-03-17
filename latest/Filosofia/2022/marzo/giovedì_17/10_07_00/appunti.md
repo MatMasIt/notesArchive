@@ -49,6 +49,9 @@ $3$ critiche ($2$ a _Auyerbach_ + $1$ alla sinistra Hegeliana)
 Secondo marx in un sistema comunista l'uomo si realizza
 
 il comunismo non è un ritorno al buon selvaggio, mantenendo il sistema industriale
+
+Siccome si è oprressi nella vita, gli uomini generano Dio per sedare la propria sofferena
+La religione è il "sospiro della creatura oppressa", "l'oppio del popolo", "Il sentimento del mondo senza cuore"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwMTI4MjQzXX0=
+eyJoaXN0b3J5IjpbLTcyNjg0MzgxMCwyNjAxMjgyNDNdfQ==
 -->
