@@ -55,6 +55,16 @@ dx=3t^2dt$$
 $$
 \int\frac{t^3-2+1}tt^2dt=3\int t^4-tdt=3\frac{t^5}5-3\frac{t^2}2+c
 $$
+
+----
+
+$$
+\int^5_0\frac{x}{\sqrt{x+4}}dx
+$$
+
+$$
+\sqrt{x+4}=t
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1NTg2MTUsLTEzMjA0NDY4MTddfQ==
+eyJoaXN0b3J5IjpbLTM5NzE0NDUxMywtMTMyMDQ0NjgxN119
 -->
