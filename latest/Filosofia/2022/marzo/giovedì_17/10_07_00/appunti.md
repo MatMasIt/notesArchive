@@ -50,8 +50,16 @@ Secondo marx in un sistema comunista l'uomo si realizza
 
 il comunismo non è un ritorno al buon selvaggio, mantenendo il sistema industriale
 
+
+### 1.
 Siccome si è oprressi nella vita, gli uomini generano Dio per sedare la propria sofferena
 La religione è il "sospiro della creatura oppressa", "l'oppio del popolo", "Il sentimento del mondo senza cuore"
+
+
+
+ #### 2 .
+Secondo Marx Auyerbach parla dell'uomo troppo in generale senza guardo storico alla società a cui l'uomo appartiene
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjg0MzgxMCwyNjAxMjgyNDNdfQ==
+eyJoaXN0b3J5IjpbMTYwMzA0NDMzNiwtNzI2ODQzODEwLDI2MD
+EyODI0M119
 -->
