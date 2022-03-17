@@ -47,7 +47,14 @@ $$
 \sqrt[3]{x+2}=t\implies x+2=t^3\qquad x=t^3-2
 $$
 
-$$$
+$$
+dx=3t^2dt$$
+
+
+
+$$
+\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzODE4NTE2LC0xMzIwNDQ2ODE3XX0=
+eyJoaXN0b3J5IjpbNjUxODYyNTEyLC0xMzIwNDQ2ODE3XX0=
 -->
