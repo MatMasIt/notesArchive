@@ -15,7 +15,12 @@ vs lavoro **operaio** (che è ==alienante==)
 * lavoro forzato
 * ritmi dettati dalla macchina
 * sotto il controllo del datore del lavoro
+cosa rimane all'operaio:mangiare, bere, fare sesso
+L'operaio quando fa le cose che fanno gli animali si sente libero 	quando il lavoro dovrebbe essere quello che rende liberi
 
+
+
+Terzo tipo di alienazione: alienazione dal genere umano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDA2MDY2MV19
+eyJoaXN0b3J5IjpbLTE3NDg4NjIxMV19
 -->
