@@ -3,8 +3,8 @@
 
 p. 47 libro 3
 
-1. alienazione dal prodotto del lavoro
-2. alienazione dalla attività produttiva
+### 1. alienazione dal prodotto del lavoro
+### 2. alienazione dalla attività produttiva
 Marx: elevatissima concezione del lavoro (che separa uomini da animali)
 Lavoro dell'artigiano (come dovrebbe essere):
 * controllo della materia prima (falegname si procura il legno di un albero)
@@ -20,9 +20,16 @@ L'operaio quando fa le cose che fanno gli animali si sente libero 	quando il lav
 
 L'uomo costruisce gli strumenti per il suo lavoro
 
-Terzo tipo di alienazione: alienazione dal genere umano, implicata dall'alienazione dalal attività produttiva
+### 3. Alienazione dal genere umano,
+ implicata dall'alienazione dalla attività produttiva
 Stai tradendo la tua essenza di essere umano
 
+
+
+### 4. Alienazione dell'uomo dall'uomo
+L'uomo è naturalmente un essere sociale
+
+Lavoratore in fabbrica lavora con una macchina e non ha interazione 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI0Mzg4OTVdfQ==
+eyJoaXN0b3J5IjpbMjcwMjkyNjU2XX0=
 -->
