@@ -8,7 +8,10 @@ Impero Asburgico invia ultimatum di 10 punti alla Serbia
 
 La Serbia dice sì a tutte le richieste tranne la clausola 5
 
-Accettare la collaborazione in serbia di rappresentanti del governo austrungarico per sopprimere il movimento 
+Accettare la collaborazione in serbia di rappresentanti del governo austrungarico per sopprimere il movimento antiaustrougarico
+
+
+richiesta i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM4NTAxMDRdfQ==
+eyJoaXN0b3J5IjpbLTc2NTA3MDI5XX0=
 -->
