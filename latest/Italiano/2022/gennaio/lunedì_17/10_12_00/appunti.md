@@ -16,6 +16,7 @@ La parola soprattutto per la sua funzione di significante, il suono
 
 La parola come insieme di fonemi
 
+p.251 arte poetica di verlaine
 
 La pratica poeta simbolistia rivaluta molto il significante
 
@@ -280,6 +281,6 @@ no istruzione pubblica il papà lo educa
 
 Andrea sperelli non diventa esteta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTMyMDkxMDgsMTY0MjkyNTYwNSwtNj
-U1ODM4NTUzXX0=
+eyJoaXN0b3J5IjpbLTEzNDcwMDg2OTIsLTEyNTMyMDkxMDgsMT
+Y0MjkyNTYwNSwtNjU1ODM4NTUzXX0=
 -->
