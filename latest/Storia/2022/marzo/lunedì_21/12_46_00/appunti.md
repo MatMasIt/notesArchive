@@ -20,7 +20,19 @@ clausola messa apposta per farsi dire di no
 
 28 luglio 1914: autria dichiara guerra alla serbia
 
-La Rus
+La Russia mobilita il suo esercito
+ma non dichiara guerra in senso stretto
+
+
+Germania dichiara guerra alla Russia
+
+triplice  intesa
+
+francia viene in soccorso alla russia
+
+etc etc
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5MTIxMzA0XX0=
+eyJoaXN0b3J5IjpbLTkyNTQ1ODg0OF19
 -->
