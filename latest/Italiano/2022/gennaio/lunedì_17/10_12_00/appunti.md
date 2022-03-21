@@ -82,7 +82,7 @@ Parvenza di un momento di grande mutamento
 1895, Gustave Le Bonne, Psicologia delle Folle
 
 
-312-315
+p.312-315
 
 Decadentismo
 
@@ -281,6 +281,6 @@ no istruzione pubblica il papà lo educa
 
 Andrea sperelli non diventa esteta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDcwMDg2OTIsLTEyNTMyMDkxMDgsMT
-Y0MjkyNTYwNSwtNjU1ODM4NTUzXX0=
+eyJoaXN0b3J5IjpbMTE5NTAyMjUzOCwtMTM0NzAwODY5MiwtMT
+I1MzIwOTEwOCwxNjQyOTI1NjA1LC02NTU4Mzg1NTNdfQ==
 -->
