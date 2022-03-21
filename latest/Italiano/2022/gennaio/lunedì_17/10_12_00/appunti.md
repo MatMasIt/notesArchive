@@ -103,6 +103,9 @@ D'Annunzio
 Compaiono allusioni sessuali nella letteratura
 
 
+Languore di Verlaine, Le decadent
+epoca al tramonto
+
 |Paese|Autore|Libro|
 |---|---|---|
 |Francia|Huysman|_à rebours_|
@@ -281,6 +284,7 @@ no istruzione pubblica il papà lo educa
 
 Andrea sperelli non diventa esteta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTAyMjUzOCwtMTM0NzAwODY5MiwtMT
-I1MzIwOTEwOCwxNjQyOTI1NjA1LC02NTU4Mzg1NTNdfQ==
+eyJoaXN0b3J5IjpbLTE1ODQyMjI0NDAsMTE5NTAyMjUzOCwtMT
+M0NzAwODY5MiwtMTI1MzIwOTEwOCwxNjQyOTI1NjA1LC02NTU4
+Mzg1NTNdfQ==
 -->
