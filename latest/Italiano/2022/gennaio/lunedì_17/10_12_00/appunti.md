@@ -204,6 +204,7 @@ Declina pensierodi Neitsche al suo e ai sui bisogni
 
 Il _poema Paradisiaco_ 1893
 
+opera più simbolista
 
 Campionario di siuazioni decifrate simboliste
 
@@ -212,7 +213,7 @@ Già a Livorno componeva in Versi
 
 Si era inventato finta morte per sucitare interesse dei lettori e fece parlare di sè
 
-
+per Primo Vere, opera giovanile aveva 16 anni, pubblicata a speses del padre
 
 periodo Fiorentino
 
@@ -284,7 +285,7 @@ no istruzione pubblica il papà lo educa
 
 Andrea sperelli non diventa esteta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQyMjI0NDAsMTE5NTAyMjUzOCwtMT
-M0NzAwODY5MiwtMTI1MzIwOTEwOCwxNjQyOTI1NjA1LC02NTU4
-Mzg1NTNdfQ==
+eyJoaXN0b3J5IjpbLTY1NzE5NzIyNywtMTU4NDIyMjQ0MCwxMT
+k1MDIyNTM4LC0xMzQ3MDA4NjkyLC0xMjUzMjA5MTA4LDE2NDI5
+MjU2MDUsLTY1NTgzODU1M119
 -->
