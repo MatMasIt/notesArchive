@@ -65,6 +65,15 @@ $$
 $$
 \sqrt{x+4}=t
 $$
+
+
+---
+
+
+$$
+\int^1_0\frac{1}{(x+3)^2}dx=[\ln^2(x+3)]
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzE0NDUxMywtMTMyMDQ0NjgxN119
+eyJoaXN0b3J5IjpbNTQ5NzE1OTE1LC0zOTcxNDQ1MTMsLTEzMj
+A0NDY4MTddfQ==
 -->
