@@ -28,7 +28,8 @@ peak of his fame: $1890$
 
 1. What type of "persona" did  he develop while he was studying at Oxford?
 He developed a persona with elaborate costumes, a cult of personality and aestheticism
-2. What did he become a celebrity for, even before starrting his 
+2. What did he become a celebrity for, even before starrting his literary carreer?
+He became famous for his attire, personality and prece
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTQ3ODA3Nl19
+eyJoaXN0b3J5IjpbLTU0ODgzODg3MF19
 -->
