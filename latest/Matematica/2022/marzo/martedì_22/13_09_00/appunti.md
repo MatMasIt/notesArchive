@@ -70,9 +70,11 @@ $$
 
 ---
 
+aggiungere 5 agli indici
+
 $$
-\int^4_7(x-5)\sqrt{4
+\int^4_7(x-5)\sqrt{5+x-5}dx
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODEwMTM2Miw4ODcwMDYxOTddfQ==
+eyJoaXN0b3J5IjpbMTg0ODgyNjA3NSw4ODcwMDYxOTddfQ==
 -->
