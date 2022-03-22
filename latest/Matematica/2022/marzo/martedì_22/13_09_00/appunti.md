@@ -44,8 +44,13 @@ $$
 135
 
 $$
-\int^2_1t\sqrt{5+t^2}dt=
+\int^2_{-1}t\sqrt{5+t}dt=
+$$
+
+
+$$
+\int^2_{-1}t\sqrt{5+t^2}dt=
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTg4OTE2NCw4ODcwMDYxOTddfQ==
+eyJoaXN0b3J5IjpbLTk2MjI4NTU0NCw4ODcwMDYxOTddfQ==
 -->
