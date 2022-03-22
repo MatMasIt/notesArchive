@@ -23,12 +23,15 @@ $$
 
 
 $$
-\cos 2x = \cos x+x=\begin{align}
+\cos 2x = \cos x+x=\begin{aligned}
 cos^2x-\sin^2x\\
-1-2\sin^2x\\
-1-\cos2x
-\end{align}
+\implies \sin^2x=\frac{1-\cos 2x}2
+\end{aligned}
 $$
+
+
+$$
+$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjY4OTA3OSw4ODcwMDYxOTddfQ==
+eyJoaXN0b3J5IjpbLTE3MDg1NzkwNzksODg3MDA2MTk3XX0=
 -->
