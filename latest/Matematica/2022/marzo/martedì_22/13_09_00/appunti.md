@@ -20,6 +20,15 @@ $$
 $$
 \int^{\pi}_0 \sin^2 xdx=
 $$
+
+
+$$
+\cos 2x = \cos x+x=\begin{align}
+cos^2x-\sin^2x\\
+1-2\sin^2x\\
+1-\cos2x
+\end{align}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MDA2MTk3XX0=
+eyJoaXN0b3J5IjpbMjEyNjY4OTA3OSw4ODcwMDYxOTddfQ==
 -->
