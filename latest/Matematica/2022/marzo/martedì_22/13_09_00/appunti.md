@@ -18,8 +18,8 @@ $$
 146 p 486
 
 $$
-\int^\pi_0\frac \sin^2xdx=
+\int^{\pi}_0 \sin^2 xdx=
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzODg1Nzg3XX0=
+eyJoaXN0b3J5IjpbODg3MDA2MTk3XX0=
 -->
