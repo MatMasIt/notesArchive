@@ -38,6 +38,14 @@ $$
 \left[\frac12x-\frac14\sin 2x\right]^\pi_0=\left(\frac\pi2-0\right)-0=\frac\pi2
 $$
 
+---
+
+
+135
+
+$$
+\int^2_1t\sqrt{5+t^2}dt=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3MzM3NzI0LDg4NzAwNjE5N119
+eyJoaXN0b3J5IjpbMTg4OTg4OTE2NCw4ODcwMDYxOTddfQ==
 -->
