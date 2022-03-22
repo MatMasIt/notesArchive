@@ -49,8 +49,30 @@ $$
 
 
 $$
-\int^2_{-1}t\sqrt{5+t^2}dt=
+\int^2_{-1}t\sqrt{5+t^2}dt
+$$
+
+
+
+
+---
+$$
+5+t=x
+$$
+
+$$
+t=x-5
+$$
+
+$$
+\frac{dt}{dt}dt=\frac{d(x-5)}{dx}{dx}
+$$
+
+---
+
+$$
+\int^4_7(x-5)\sqrt{4
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjI4NTU0NCw4ODcwMDYxOTddfQ==
+eyJoaXN0b3J5IjpbMjA4ODEwMTM2Miw4ODcwMDYxOTddfQ==
 -->
