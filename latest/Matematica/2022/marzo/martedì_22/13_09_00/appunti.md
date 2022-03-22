@@ -1,5 +1,7 @@
 # Lezione di matematica
 
+
+115
 $$
 \int^{\frac\pi2}_0\sin x\cos^2xdx
 $$
@@ -8,9 +10,16 @@ $$
 -\int^{\frac\pi2}_0-\sin x\cos^2xdx
 $$
 
-$=\frac{\cos^3x*
+$$
+=\left[\frac{\cos^3x}3\right]^{\frac\pi2}_00+\frac13=\frac13
 $$
 
+
+146 p 486
+
+$$
+\int^\pi_0\frac \sin^2xdx=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczMzA0NTgyXX0=
+eyJoaXN0b3J5IjpbODIzODg1Nzg3XX0=
 -->
