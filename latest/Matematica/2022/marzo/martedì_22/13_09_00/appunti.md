@@ -31,7 +31,13 @@ $$
 
 
 $$
-$
+\int^\pi_0\frac{1-\cos2 x}2 dx=\frac12\int^\pi_0dx-\int^\pi_0\frac12\cos2xdx
+$$
+
+$$
+\
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg1NzkwNzksODg3MDA2MTk3XX0=
+eyJoaXN0b3J5IjpbLTI0MTQyMTIwLDg4NzAwNjE5N119
 -->
