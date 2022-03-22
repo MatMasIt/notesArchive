@@ -15,13 +15,19 @@ late victorian
 leader of english Aestheticism:
 cult of ==ART, BEAUTY and PLEASURE==
 
+> "Art for art's sake"
+
 famous for his **distinctive** personality: 
 * outfits
 * bold style in 
 	* writing
 	* speaking
-	* 
+peak of his fame: $1890$
 
+
+
+1. What type of "persona" did  he develop while he was studying at Oxford?
+He
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5NjM3MzcyXX0=
+eyJoaXN0b3J5IjpbLTEyMTgzNzQ4NF19
 -->
