@@ -35,9 +35,9 @@ $$
 $$
 
 $$
-\
+\left[\frac12x-\frac14\sin 2x\right]^\pi_0=\left(\frac\pi2-0\right)-0=\frac\pi2
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTQyMTIwLDg4NzAwNjE5N119
+eyJoaXN0b3J5IjpbOTQ3MzM3NzI0LDg4NzAwNjE5N119
 -->
