@@ -73,8 +73,8 @@ $$
 aggiungere 5 agli indici
 
 $$
-\int^4_7(x-5)\sqrt{5+x-5}dx=\frac{x^2}2+x^\frac32
+\int^4_7(x-5)\sqrt{5+x-5}dx=\int^7_4x^{\frac32}-5x^\frac12
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkzMzM5MDYsODg3MDA2MTk3XX0=
+eyJoaXN0b3J5IjpbMTExMDU4NDcwNyw4ODcwMDYxOTddfQ==
 -->
