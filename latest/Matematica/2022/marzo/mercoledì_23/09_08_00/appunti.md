@@ -6,6 +6,10 @@ p 305
 es 21
 
 y=f(x)
+
+v_y in 3/2
+
+intereseezione 3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjEzMDIyM119
+eyJoaXN0b3J5IjpbMTU3NjA1NjUwOF19
 -->
