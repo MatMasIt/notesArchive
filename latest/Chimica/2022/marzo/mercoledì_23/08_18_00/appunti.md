@@ -14,6 +14,12 @@ D-Alanina
 p 199
 
 P 207| 
+
+
+P 208
+
+ENI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDkzNDc0ODcsMTEzMTQ5NzI2N119
+eyJoaXN0b3J5IjpbLTE4MzA3NzY4MzksLTExNDkzNDc0ODcsMT
+EzMTQ5NzI2N119
 -->
