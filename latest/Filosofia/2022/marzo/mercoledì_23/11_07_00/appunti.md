@@ -13,7 +13,7 @@ convetto di Ideologia
 
 p. 64 glossario
 
-insiee
+insieme di idee usato per giustificare lo status quo (assetto politico o economico)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTkxOTExOCw4Njg4OTI4NzFdfQ==
+eyJoaXN0b3J5IjpbLTMzMTI0MjI4Myw4Njg4OTI4NzFdfQ==
 -->
