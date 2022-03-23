@@ -39,8 +39,8 @@ r 13 p 50
 secondo marx gli uomini  sono animali che si procuranoi mezzi della loro produzione
 
 
-permarx la storia umana è la storia con i quali gli uomni hanno soddisfatto ai loro bisogni co
+permarx la storia umana è la storia con i quali gli uomni hanno soddisfatto ai loro bisogni concreti
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc1MDQwMzgsODY4ODkyODcxXX0=
+eyJoaXN0b3J5IjpbMTUzNzAxNjg2MSw4Njg4OTI4NzFdfQ==
 -->
