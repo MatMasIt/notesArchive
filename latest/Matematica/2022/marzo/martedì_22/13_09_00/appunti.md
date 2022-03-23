@@ -85,10 +85,22 @@ f(x)=3y-y^2
 $$
 
 $$
-g(x)=
+f(x)
 $$
 
+
+
+$$
+y_V=\frac32
+$$
+
+$$
+x_V=-\frac92-\frac92=\frac94
+$$
+
+
+x=0
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDYyMjM2MywxMTEwNTg0NzA3LDg4Nz
-AwNjE5N119
+eyJoaXN0b3J5IjpbLTIwMTg2NjMzOTQsMTY4NDYyMjM2MywxMT
+EwNTg0NzA3LDg4NzAwNjE5N119
 -->
