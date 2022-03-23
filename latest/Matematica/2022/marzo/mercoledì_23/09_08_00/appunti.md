@@ -49,9 +49,9 @@ g'f
 
 
 $$
-=\ln x\\
-g' = 1
+=\ln x\to f'=\frac1x\\
+g' = 1\implies g(x)=\int dx=x
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjMwNDQxOSwxNTc2MDU2NTA4XX0=
+eyJoaXN0b3J5IjpbLTE2Njg2NDUwNTksMTU3NjA1NjUwOF19
 -->
