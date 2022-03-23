@@ -10,6 +10,8 @@ Lisina
 
 L-Alanina
 D-Alanina
+
+p 199
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTkwODY1M119
+eyJoaXN0b3J5IjpbMTU4OTI0NjUwNl19
 -->
