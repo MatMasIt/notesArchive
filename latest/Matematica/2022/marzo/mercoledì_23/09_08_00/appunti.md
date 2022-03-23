@@ -57,6 +57,14 @@ $$
 $$
 \ln xdx= x\ln x-\int\frac1xxdx=x\ln x-x+c
 $$
+
+
+---
+
+
+$$
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTU3NTgzMSwxNTc2MDU2NTA4XX0=
+eyJoaXN0b3J5IjpbLTI1MTMxOTIyMCwxNTc2MDU2NTA4XX0=
 -->
