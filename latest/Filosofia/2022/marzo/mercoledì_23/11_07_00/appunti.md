@@ -27,6 +27,14 @@ materialismo storico e dialettico
 
 
 
+movimento realde della sotira umana al di là delle rappresentazioni ideologiche
+
+p 50
+
+
+Caratterizzazione umanità
+
+r 13 p 50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTIyMDQ3NzMsODY4ODkyODcxXX0=
+eyJoaXN0b3J5IjpbLTEzNzg0NDk3OTMsODY4ODkyODcxXX0=
 -->
