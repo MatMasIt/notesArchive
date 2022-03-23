@@ -12,6 +12,8 @@ L-Alanina
 D-Alanina
 
 p 199
+
+P 207|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTI0NjUwNl19
+eyJoaXN0b3J5IjpbMTEzMTQ5NzI2N119
 -->
