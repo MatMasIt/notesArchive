@@ -49,9 +49,10 @@ Tutti gli elementi che sono necessari per realizzare il processo di produzione
 	che sono fondamentalmente
 		* Terra
 		* Macchine
-	* 
+	* Forza lavoro (attività lavorativa)
+	* Conoscenze tecnico-scientifiche necessarie per la produzione (_know-how_)
 * rapporti di produzione
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjQwNjIxNyw4Njg4OTI4NzFdfQ==
+eyJoaXN0b3J5IjpbNjk4MDQ3MDAwLDg2ODg5Mjg3MV19
 -->
