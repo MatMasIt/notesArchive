@@ -36,7 +36,11 @@ Caratterizzazione umanità
 
 r 13 p 50
 
+secondo marx gli uomini  sono animali che si procuranoi mezzi della loro produzione
+
+
+permarx la storia umana è la storia con i quali gli uomni hanno soddisfatto ai loro bisogni co
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjAzODA3MDksODY4ODkyODcxXX0=
+eyJoaXN0b3J5IjpbLTE4MDc1MDQwMzgsODY4ODkyODcxXX0=
 -->
