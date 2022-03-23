@@ -66,8 +66,14 @@ sovrastruttura: insieme di idee con il compito di giustificare i rapporti di pro
 p.51
 
 
-secondo
+secondo marx siccome camiamento è in corso appaniono idee critiche
+
+Marx
+
+struttura materiale e idee non sono necesariamente legate inscindibilmente
+
+le produzioni culturali possono agire sulla struttura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzE1NzkyNywtODAyMTE1Mzg0LC05Nz
-kwNjEyNjcsODY4ODkyODcxXX0=
+eyJoaXN0b3J5IjpbLTE0NjU0MjYyMjQsLTgwMjExNTM4NCwtOT
+c5MDYxMjY3LDg2ODg5Mjg3MV19
 -->
