@@ -43,7 +43,15 @@ per marx la storia umana è la storia con i quali gli uomni hanno soddisfatto ai
 
 produzione dei mezzi di sussistenza cambia nella storia e contiene due aspetti distinti
 * forze produttive
-* rapporti di profu
+Tutti gli elementi che sono necessari per realizzare il processo di produzione
+3 componenti
+	*	mezzi di produzione
+	che sono fondamentalmente
+		* Terra
+		* Macchine
+	* 
+* rapporti di produzione
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODcwOTExNyw4Njg4OTI4NzFdfQ==
+eyJoaXN0b3J5IjpbLTQ4MjQwNjIxNyw4Njg4OTI4NzFdfQ==
 -->
