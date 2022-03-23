@@ -14,6 +14,16 @@ convetto di Ideologia
 p. 64 glossario
 
 insieme di idee usato per giustificare lo status quo (assetto politico o economico)
+
+opera del '46
+
+ideologia tedesca, scritta insieme da Marx e Engels
+
+primi mesi del 1846
+
+pubblicata nel 1932
+
+materialismo storico e dialettico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTI0MjI4Myw4Njg4OTI4NzFdfQ==
+eyJoaXN0b3J5IjpbMTI4NTg3MDAzMyw4Njg4OTI4NzFdfQ==
 -->
