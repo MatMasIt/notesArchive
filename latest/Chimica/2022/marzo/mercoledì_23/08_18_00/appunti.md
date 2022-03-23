@@ -13,7 +13,7 @@ D-Alanina
 
 p 199
 
-P 207|
+P 207| 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTQ5NzI2N119
+eyJoaXN0b3J5IjpbLTExNDkzNDc0ODcsMTEzMTQ5NzI2N119
 -->
