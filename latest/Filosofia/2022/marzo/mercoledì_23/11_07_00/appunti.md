@@ -52,7 +52,9 @@ Tutti gli elementi che sono necessari per realizzare il processo di produzione
 	* Forza lavoro (attività lavorativa)
 	* Conoscenze tecnico-scientifiche necessarie per la produzione (_know-how_)
 * rapporti di produzione
-
+Rapporti che si instaurano tra umani
+regolano il controllo e l'utilizzo dei mezzi di produzione
+e regolano anche la distribuzione dei prodotti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4MDQ3MDAwLDg2ODg5Mjg3MV19
+eyJoaXN0b3J5IjpbLTk3OTA2MTI2Nyw4Njg4OTI4NzFdfQ==
 -->
