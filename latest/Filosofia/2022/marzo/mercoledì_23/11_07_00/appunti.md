@@ -60,7 +60,9 @@ si esprimono nelle leggi come proprietà privata
 
 Struttura della società
 impianto che serve agli uomini per soddisfare i propri bisogni
+
+sovrastruttura: insieme di idee con il compito di giustificare i rapporti di produzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDc3NDA3OSwtOTc5MDYxMjY3LDg2OD
+eyJoaXN0b3J5IjpbLTM2NTY2ODQ3NCwtOTc5MDYxMjY3LDg2OD
 g5Mjg3MV19
 -->
