@@ -40,6 +40,18 @@ g: fattore differenziato
 $$
 \int \ln xdx
 $$
+
+$$
+\int1 \ln xdx
+$$
+
+g'f
+
+
+$$
+=\ln x\\
+g' = 1
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM4Mzc3NzYsMTU3NjA1NjUwOF19
+eyJoaXN0b3J5IjpbLTE5MjMwNDQxOSwxNTc2MDU2NTA4XX0=
 -->
