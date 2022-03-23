@@ -18,8 +18,13 @@ $$
 F(f(x)(g(x))=f'g+fg'
 $$
 $$
-\int D(f(x)g(x))
+\int D(f(x)g(x))=\int f'gdx+\int fg'dx
+$$
+
+
+$$
+fg=\intf'gdx=\intfg'dx
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDcxMjAxODYsMTU3NjA1NjUwOF19
+eyJoaXN0b3J5IjpbLTY5MTIwNzY0NywxNTc2MDU2NTA4XX0=
 -->
