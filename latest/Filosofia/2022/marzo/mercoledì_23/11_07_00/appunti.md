@@ -55,6 +55,9 @@ Tutti gli elementi che sono necessari per realizzare il processo di produzione
 Rapporti che si instaurano tra umani
 regolano il controllo e l'utilizzo dei mezzi di produzione
 e regolano anche la distribuzione dei prodotti
+si esprimono nelle leggi come proprietà privata
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTA2MTI2Nyw4Njg4OTI4NzFdfQ==
+eyJoaXN0b3J5IjpbLTEzNjIxNDg5MzEsLTk3OTA2MTI2Nyw4Nj
+g4OTI4NzFdfQ==
 -->
