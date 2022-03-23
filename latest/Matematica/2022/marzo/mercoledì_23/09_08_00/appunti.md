@@ -52,7 +52,11 @@ $$
 =\ln x\to f'=\frac1x\\
 g' = 1\implies g(x)=\int dx=x
 $$
-m
+
+
+$$
+\ln xdx= x\ln x-\int\frac1xxdx=x\ln x-x+c
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTkzODk4OTIsMTU3NjA1NjUwOF19
+eyJoaXN0b3J5IjpbMTE5NTU3NTgzMSwxNTc2MDU2NTA4XX0=
 -->
