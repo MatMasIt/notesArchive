@@ -62,7 +62,9 @@ Struttura della società
 impianto che serve agli uomini per soddisfare i propri bisogni
 
 sovrastruttura: insieme di idee con il compito di giustificare i rapporti di produzione
+
+p.51
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTY2ODQ3NCwtOTc5MDYxMjY3LDg2OD
+eyJoaXN0b3J5IjpbLTgwMjExNTM4NCwtOTc5MDYxMjY3LDg2OD
 g5Mjg3MV19
 -->
