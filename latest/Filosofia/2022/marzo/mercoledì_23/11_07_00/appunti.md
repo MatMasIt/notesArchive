@@ -57,7 +57,10 @@ regolano il controllo e l'utilizzo dei mezzi di produzione
 e regolano anche la distribuzione dei prodotti
 si esprimono nelle leggi come proprietà privata
 
+
+Struttura della società
+impianto che serve agli uomini per soddisfare i propri bisogni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjIxNDg5MzEsLTk3OTA2MTI2Nyw4Nj
-g4OTI4NzFdfQ==
+eyJoaXN0b3J5IjpbMTA3NDc3NDA3OSwtOTc5MDYxMjY3LDg2OD
+g5Mjg3MV19
 -->
