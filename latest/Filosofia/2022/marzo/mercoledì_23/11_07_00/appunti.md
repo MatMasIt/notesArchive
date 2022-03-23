@@ -35,6 +35,8 @@ p 50
 Caratterizzazione umanità
 
 r 13 p 50
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg0NDk3OTMsODY4ODkyODcxXX0=
+eyJoaXN0b3J5IjpbLTEyMjAzODA3MDksODY4ODkyODcxXX0=
 -->
