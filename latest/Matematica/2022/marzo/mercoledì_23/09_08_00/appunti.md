@@ -27,11 +27,19 @@ fg=\intf'gdx=\intfg'dx
 $$
 
 $$
-\int fgdx=fg-\int f'gdx
+\int fg'dx=fg-\int f'gdx
 $$
 
 f: fattore finito
 g: fattore differenziato
+
+
+---
+
+
+$$
+\int \ln xdx
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzE0NjQzOSwxNTc2MDU2NTA4XX0=
+eyJoaXN0b3J5IjpbLTE0ODM4Mzc3NzYsMTU3NjA1NjUwOF19
 -->
