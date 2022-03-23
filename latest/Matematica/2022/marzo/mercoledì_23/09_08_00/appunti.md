@@ -25,6 +25,13 @@ $$
 $$
 fg=\intf'gdx=\intfg'dx
 $$
+
+$$
+\int fgdx=fg-\int f'gdx
+$$
+
+f: fattore finito
+g: fattore differenziato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTIwNzY0NywxNTc2MDU2NTA4XX0=
+eyJoaXN0b3J5IjpbLTU3MzE0NjQzOSwxNTc2MDU2NTA4XX0=
 -->
