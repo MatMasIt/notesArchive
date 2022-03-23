@@ -63,8 +63,8 @@ $$
 
 
 $$
-
+\int xe^{2x}dx
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTMxOTIyMCwxNTc2MDU2NTA4XX0=
+eyJoaXN0b3J5IjpbLTI4MDY3NjI2OCwxNTc2MDU2NTA4XX0=
 -->
