@@ -106,8 +106,13 @@ $$
 
 Ora manca la velocità
 
+
+$$
+\Delta V
+$$
+
 $$
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjI5OTgzNCwxNzYzMzg5NDldfQ==
+eyJoaXN0b3J5IjpbLTUyMzU0Njc0MiwxNzYzMzg5NDldfQ==
 -->
