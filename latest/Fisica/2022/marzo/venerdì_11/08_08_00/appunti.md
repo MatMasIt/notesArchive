@@ -95,7 +95,7 @@ $$
 $$
 
 $$
-\Detla Q = neV
+\Delta Q = neV
 $$
 
 
@@ -228,5 +228,5 @@ tomografia ad emissione di positroni
 
 p.385
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzMxNTkwNTNdfQ==
+eyJoaXN0b3J5IjpbMTY3MTU4NzkzOSwtMTEzMzE1OTA1M119
 -->
