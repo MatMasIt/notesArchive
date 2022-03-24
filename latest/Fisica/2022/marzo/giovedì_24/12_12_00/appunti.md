@@ -2,7 +2,7 @@
 
 In laboratorio
 
-Due bobine di Helmuts (?) sistemate in serie attorno a tubo di vetro
+Due bobine di Helmholtz sistemate in serie attorno a tubo di vetro
 
 Appare una parte di cironferenza
 
