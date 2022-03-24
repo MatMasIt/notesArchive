@@ -59,7 +59,14 @@ Dandy
 
 Oscar wilde accused of sodomy by The father of Alfred
 a private investigator was hired
+
+
+gross indecency
+sodomy
+
+he died in Paris of meningitis
+he was weak and alcoholic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzIxMDYwMCw0NDg4NjQ0MTIsLTE2Nz
-A5MDQyODksLTE0NzcwMTE3NjNdfQ==
+eyJoaXN0b3J5IjpbNzQ4MzU0ODc5LC03NjMyMTA2MDAsNDQ4OD
+Y0NDEyLC0xNjcwOTA0Mjg5LC0xNDc3MDExNzYzXX0=
 -->
