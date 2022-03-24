@@ -80,19 +80,24 @@ $$
 $C$ passsa per
 * $P(0,0)$
 * $P'(3,1)$
-* $P''(5,2)$
+ $%P''(5,2)$
 
 
 
 $$
 \begin{equation} \begin{cases} 
-0+0+0+0+c=0\\
+r^2=s\\
 \\\end{cases} \end{equation}
+$$
+
+
+$$
+(x-x_C)^2+y^2=r^2
 $$
 
 $$
 r=\sqrt{\frac{a^2}2+\frac{b}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4ODk0Nzg2LDE3NjMzODk0OV19
+eyJoaXN0b3J5IjpbLTE5NDcyMDE2MDYsMTc2MzM4OTQ5XX0=
 -->
