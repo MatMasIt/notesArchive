@@ -15,7 +15,7 @@ $$
 Spire
 
 $$
-n = 320
+n = 320\implies 2n = 640
 $$
 
 
@@ -23,8 +23,13 @@ $$
 2I=0,95A
 $$
 
+In un solenoide
+
 $$
+\vec B = \mu_0\frac{In}d
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTUyOTkwOCwxNzYzMzg5NDldfQ==
+eyJoaXN0b3J5IjpbNzY2NjAxMzE5LDE3NjMzODk0OV19
 -->
