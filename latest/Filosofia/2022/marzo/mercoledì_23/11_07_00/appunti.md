@@ -72,8 +72,8 @@ Marx
 
 struttura materiale e idee non sono necesariamente legate inscindibilmente
 
-le produzioni culturali possono agire sulla struttura
+le produzioni culturali possono agire sulla struttura in una qualche misura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjU0MjYyMjQsLTgwMjExNTM4NCwtOT
+eyJoaXN0b3J5IjpbLTE2MjQxNjY2NTUsLTgwMjExNTM4NCwtOT
 c5MDYxMjY3LDg2ODg5Mjg3MV19
 -->
