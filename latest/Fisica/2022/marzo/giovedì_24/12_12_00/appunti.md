@@ -85,17 +85,21 @@ $C$ passsa per
 
 
 $$
-\begin{equation} \begin{cases} 
-r^2=sx^2\implies r=x_c\\
-(3-x_C)^2+1=x_C^2
+x^2+(y-y_C)^2=r^2
+$$
+
+
+$$
+\begin{equation} \begin{cases} y_C=r\\
+9+(1-y_C)^2=y_C^2
 \\\end{cases} \end{equation}
 $$
 
 $$
-9-6x_c+2x^2+1=x_C^2
+9+1-2yc+y_C^2=y_C^2\
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNjQ0MTgxLDE3NjMzODk0OV19
+eyJoaXN0b3J5IjpbLTEwNDgwMTA3NTUsMTc2MzM4OTQ5XX0=
 -->
