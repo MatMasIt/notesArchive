@@ -28,12 +28,11 @@ peak of his fame: $1890$
 
 1. What type of "persona" did  he develop while he was studying at Oxford?
 He developed a persona with elaborate costumes, a cult of personality and aestheticism
-He had long hair and attended lavish parties (_indul
+He had long hair and attended lavish parties (_indulge in the finest things in life_)
 2. What did he become a celebrity for, even before starrting his literary carreer?
 He became famous for his attire, personality and prresence, such that he was invited and hailed by many
 3. In the latter part of his life he firstly travelled to france and then to italy to fleee  england, where he was kind of an outcast. When he was young he toured france and the USA.
 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ3NzU5MzYsLTE0NzcwMTE3NjNdfQ
-==
+eyJoaXN0b3J5IjpbMjA0MzgxODA5OSwtMTQ3NzAxMTc2M119
 -->
