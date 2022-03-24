@@ -30,6 +30,12 @@ $$
 $$
 
 
+## Calcoliamo tutto come un solenoide
+
+> **Dati**
+> $d=10cm$
+> $n = 640$
+> $I=
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2NjAxMzE5LDE3NjMzODk0OV19
+eyJoaXN0b3J5IjpbMTEzMDQ2NTYzNywxNzYzMzg5NDldfQ==
 -->
