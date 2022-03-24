@@ -11,6 +11,20 @@ Fora di Lorentz
 $$
 F=qv\times B
 $$
+
+Spire
+
+$$
+n = 320
+$$
+
+
+$$
+2I=0,95A
+$$
+
+$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTUyMDQ4NCwxNzYzMzg5NDldfQ==
+eyJoaXN0b3J5IjpbMTA4OTUyOTkwOCwxNzYzMzg5NDldfQ==
 -->
