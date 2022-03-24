@@ -73,8 +73,8 @@ m\frac{v^2}r=evB
 $$
 
 $$
-r=\frac{mv^{\cancel 2}}{d\cancel v b}
+r=\frac{mv^{\cancel 2}}{e\cancel v B}\implies \frac{e}{m}=\frac{V}{rB}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA2OTM5MjcsMTc2MzM4OTQ5XX0=
+eyJoaXN0b3J5IjpbLTg3OTY4NTExOCwxNzYzMzg5NDldfQ==
 -->
