@@ -57,8 +57,9 @@ Direct link between
 
 Dandy
 
-
+Oscar wilde accused of sodomy by The father of Alfred
+a private investigator was hired
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Njg4MTA3Niw0NDg4NjQ0MTIsLTE2Nz
+eyJoaXN0b3J5IjpbLTc2MzIxMDYwMCw0NDg4NjQ0MTIsLTE2Nz
 A5MDQyODksLTE0NzcwMTE3NjNdfQ==
 -->
