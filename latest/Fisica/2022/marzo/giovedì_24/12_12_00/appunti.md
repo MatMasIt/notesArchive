@@ -103,6 +103,11 @@ $$
 \Huge\boxed{r=5}
 $$
 
+
+Ora manca la velocità
+
+$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3ODI3NjA3LDE3NjMzODk0OV19
+eyJoaXN0b3J5IjpbLTcwNjY0MTExNCwxNzYzMzg5NDldfQ==
 -->
