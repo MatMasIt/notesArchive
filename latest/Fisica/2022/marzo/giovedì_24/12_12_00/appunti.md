@@ -86,18 +86,16 @@ $C$ passsa per
 
 $$
 \begin{equation} \begin{cases} 
-r^2=s\\
+r^2=sx^2\implies r=x_c\\
+(3-x_C)^2+1=x_C^2
 \\\end{cases} \end{equation}
 $$
 
+$$
+9-6x_c+2x^2+1=x_C^2
+$$
 
-$$
-(x-x_C)^2+y^2=r^2
-$$
 
-$$
-r=\sqrt{\frac{a^2}2+\frac{b}
-$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDcyMDE2MDYsMTc2MzM4OTQ5XX0=
+eyJoaXN0b3J5IjpbNDgwNjQ0MTgxLDE3NjMzODk0OV19
 -->
