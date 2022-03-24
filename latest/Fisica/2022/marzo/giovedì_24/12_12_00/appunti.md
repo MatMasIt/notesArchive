@@ -5,6 +5,12 @@ In laboratorio
 Due bobine di Helmuts (?) sistemate in serie attorno a tubo di vetro
 
 Appare una parte di cironferenza
+
+Fora di Lorentz 
+
+$$
+F=qv\times B
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyNTc0Nzg1LDE3NjMzODk0OV19
+eyJoaXN0b3J5IjpbMTI1NTUyMDQ4NCwxNzYzMzg5NDldfQ==
 -->
