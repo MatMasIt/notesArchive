@@ -126,7 +126,7 @@ $$
 Moto
 
 $$
-\begin{equation} \begin{cases} x=vt\\y=\frac12\frac{\Delta Ve}{dm}t^2 \end{cases} \end{equation}
+\begin{equation} \begin{cases} x=vt\\y=\frac12\frac{\Delta Ve}{dm}x^2 \end{cases} \end{equation}
 $$
 
 
@@ -135,9 +135,9 @@ Calcolo il coefficiente di $\frac{e}m$
 		>>> 1/2*((2500)/(6*10**(-2))) 
 		                 20833.333333333336
 $$
-
+v^2
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4MDEwOTczLDE4MjEyODQ0NiwxNzYzMz
-g5NDldfQ==
+eyJoaXN0b3J5IjpbLTE2NjM0ODYzNSwxODIxMjg0NDYsMTc2Mz
+M4OTQ5XX0=
 -->
