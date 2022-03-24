@@ -82,7 +82,7 @@ $C$ passsa per
 * $P'(3,1)$
  $%P''(5,2)$
 
-
+Centro circonferenza $C_C(0,y_C)$
 
 $$
 x^2+(y-y_C)^2=r^2
@@ -96,10 +96,13 @@ $$
 $$
 
 $$
-9+1-2yc+y_C^2=y_C^2\
+9+1-2yc+y_C^2=y_C^2\implies y_C=5
 $$
 
+$$
+\Huge\boxed{r=5}
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDgwMTA3NTUsMTc2MzM4OTQ5XX0=
+eyJoaXN0b3J5IjpbMjY3ODI3NjA3LDE3NjMzODk0OV19
 -->
