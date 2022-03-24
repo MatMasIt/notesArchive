@@ -51,9 +51,17 @@ $$
 
 
 _Forza di Lorentz_
+
 $$
-F_L=e\cdot v\cdot B
+F_L=e\cdot v\cdot B=4\pi\cdot 10^{-7}\cdot \frac{0,95A\cdot 640}{10*10^{-2}}
+$$
+
+ci manca **la velocità**
+
+
+$$
+F_C=m\frac{V^2}r
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMDI3MTI2LDE3NjMzODk0OV19
+eyJoaXN0b3J5IjpbLTM4NTg2ODkwOCwxNzYzMzg5NDldfQ==
 -->
