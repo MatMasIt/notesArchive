@@ -135,9 +135,9 @@ Calcolo il coefficiente di $\frac{e}m$
 		>>> 1/2*((2500)/(6*10**(-2))) 
 		                 20833.333333333336
 $$
-v^2
+t=
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjM0ODYzNSwxODIxMjg0NDYsMTc2Mz
+eyJoaXN0b3J5IjpbMTA3NzM4Nzc2OCwxODIxMjg0NDYsMTc2Mz
 M4OTQ5XX0=
 -->
