@@ -112,7 +112,15 @@ $$
 $$
 
 $$
+ma=Ee
+$$
+
+$$
+E=\frac{\Delta V}d
+$$
+
+$$
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzU0Njc0MiwxNzYzMzg5NDldfQ==
+eyJoaXN0b3J5IjpbLTE3ODYyMTg5NTksMTc2MzM4OTQ5XX0=
 -->
