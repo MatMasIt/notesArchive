@@ -73,8 +73,21 @@ m\frac{v^2}r=evB
 $$
 
 $$
-r=\frac{mv^{\cancel 2}}{e\cancel v B}\implies \frac{e}{m}=\frac{V}{rB}
+r=\frac{mv^{\cancel 2}}{e\cancel v B}\implies \boxed{\frac{e}{m}=\frac{V}{rB}}
+$$
+
+
+$C$ passsa per
+* $P(0,0)$
+* $P'(3,1)$
+* $P''(5,2)$
+
+$$
+
+$$
+\begin{equation} \begin{cases} 
+0+0+0+0+c=0\end{cases} \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTY4NTExOCwxNzYzMzg5NDldfQ==
+eyJoaXN0b3J5IjpbLTUzMjk3MjgzNCwxNzYzMzg5NDldfQ==
 -->
