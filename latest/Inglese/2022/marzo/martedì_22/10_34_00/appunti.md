@@ -43,7 +43,8 @@ He and Bosie travelled all through europe, to satisfy Bosie's desire
 Bosie much younger than him
 They rented a flat in Paris
 Wilde used to hire male prostitutes
-4. He was a lover of him
+4. He was a lover of him, the first one, 17 years old
+First of severeal relationships in spite of the fact he was married to Constance LLyod
 5. Lord Alfred Douglas (Bosie)
 
 Wity
@@ -58,6 +59,6 @@ Dandy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTY1NTUwNCw0NDg4NjQ0MTIsLTE2Nz
+eyJoaXN0b3J5IjpbMTU5Njg4MTA3Niw0NDg4NjQ0MTIsLTE2Nz
 A5MDQyODksLTE0NzcwMTE3NjNdfQ==
 -->
