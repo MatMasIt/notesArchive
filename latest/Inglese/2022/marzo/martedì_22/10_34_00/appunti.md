@@ -40,7 +40,12 @@ wit: ability to play with words (ingegnoso), use words in a smart way
 He became famous for his attire, personality and prresence, such that he was invited and hailed by many
 3. In the latter part of his life he firstly travelled to france and then to italy to fleee  england, where he was kind of an outcast. When he was young he toured france and the USA.
 4. 
+
+Wity
+Paradox: apparently contradictory statement that reveals a trurh
+
+Aphorism
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxODA1NzEzLC0xNjcwOTA0Mjg5LC0xND
-c3MDExNzYzXX0=
+eyJoaXN0b3J5IjpbLTg0MTc3MjA5MSwtMTY3MDkwNDI4OSwtMT
+Q3NzAxMTc2M119
 -->
