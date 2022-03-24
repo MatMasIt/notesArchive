@@ -34,11 +34,13 @@ Peacock feathers (pavone)
 He loved to entertain the public (skilled)
 extravagant style
 China (pocrelain) artwork
+wit: ability to play with words (ingegnoso), use words in a smart way
+
 2. What did he become a celebrity for, even before starrting his literary carreer?
 He became famous for his attire, personality and prresence, such that he was invited and hailed by many
 3. In the latter part of his life he firstly travelled to france and then to italy to fleee  england, where he was kind of an outcast. When he was young he toured france and the USA.
 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA5MDQyODksLTE0NzcwMTE3NjNdfQ
-==
+eyJoaXN0b3J5IjpbODcxODA1NzEzLC0xNjcwOTA0Mjg5LC0xND
+c3MDExNzYzXX0=
 -->
