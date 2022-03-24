@@ -60,8 +60,21 @@ ci manca **la velocità**
 
 
 $$
-F_C=m\frac{V^2}r
+F_C=m\frac{v^2}r
+$$
+
+
+$$
+F_C=F_L
+$$
+
+$$
+m\frac{v^2}r=evB
+$$
+
+$$
+r=\frac{mv^{\cancel 2}}{d\cancel v b}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTg2ODkwOCwxNzYzMzg5NDldfQ==
+eyJoaXN0b3J5IjpbLTIwODA2OTM5MjcsMTc2MzM4OTQ5XX0=
 -->
