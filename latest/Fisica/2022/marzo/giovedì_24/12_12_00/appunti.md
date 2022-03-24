@@ -120,7 +120,14 @@ E=\frac{\Delta V}d
 $$
 
 $$
+a=\frac{\Delta V}{dm}
+$$
+
+Moto
+
+$$
+\begin{equation} \begin{cases} x=vt\\t=\frac12\frac{\Delta Ve}{dm}t^2 \end{cases} \end{equation}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODYyMTg5NTksMTc2MzM4OTQ5XX0=
+eyJoaXN0b3J5IjpbMTgyMTI4NDQ2LDE3NjMzODk0OV19
 -->
