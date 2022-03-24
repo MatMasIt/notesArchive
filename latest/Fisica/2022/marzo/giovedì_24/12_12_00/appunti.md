@@ -82,12 +82,17 @@ $C$ passsa per
 * $P'(3,1)$
 * $P''(5,2)$
 
-$$
+
 
 $$
 \begin{equation} \begin{cases} 
-0+0+0+0+c=0\end{cases} \end{equation}
+0+0+0+0+c=0\\
+\\\end{cases} \end{equation}
+$$
+
+$$
+r=\sqrt{\frac{a^2}2+\frac{b}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjk3MjgzNCwxNzYzMzg5NDldfQ==
+eyJoaXN0b3J5IjpbOTM4ODk0Nzg2LDE3NjMzODk0OV19
 -->
