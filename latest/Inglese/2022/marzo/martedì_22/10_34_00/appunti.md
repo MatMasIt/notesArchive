@@ -44,8 +44,8 @@ He became famous for his attire, personality and prresence, such that he was inv
 Wity
 Paradox: apparently contradictory statement that reveals a trurh
 
-Aphorism
+Aphorisms
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTc3MjA5MSwtMTY3MDkwNDI4OSwtMT
-Q3NzAxMTc2M119
+eyJoaXN0b3J5IjpbNDQ4ODY0NDEyLC0xNjcwOTA0Mjg5LC0xND
+c3MDExNzYzXX0=
 -->
