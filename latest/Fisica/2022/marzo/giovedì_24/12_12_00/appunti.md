@@ -73,7 +73,7 @@ m\frac{v^2}r=evB
 $$
 
 $$
-r=\frac{mv^{\cancel 2}}{e\cancel v B}\implies \boxed{\frac{e}{m}=\frac{V}{rB}}
+r=\frac{mv^{\cancel 2}}{e\cancel v B}\implies \boxed{\frac{e}{m}=\frac{v}{rB}}
 $$
 
 
@@ -109,5 +109,5 @@ Ora manca la velocità
 $$
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjY0MTExNCwxNzYzMzg5NDldfQ==
+eyJoaXN0b3J5IjpbLTY2MjI5OTgzNCwxNzYzMzg5NDldfQ==
 -->
