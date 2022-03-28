@@ -5,6 +5,11 @@ The aesthetic movement is a reaction to the materialism of the age and to the st
 in started in france with symbolism
 "Le Decadènt", journal 
 p. 30
+
+
+
+dandy's life:
+achievement of pleasure
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc4OTE5OTZdfQ==
+eyJoaXN0b3J5IjpbNDY2MDg3OTNdfQ==
 -->
