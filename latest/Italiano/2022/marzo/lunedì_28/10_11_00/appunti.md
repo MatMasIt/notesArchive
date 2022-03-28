@@ -53,7 +53,17 @@ romanzo diventa famoso ngli anni '60 del 900
 
 
 * Critico letterareio Giacomo BENEDETTI
-* Lonardo SCIA
+* Lonardo SCIASCIA
+* Gruppo '63
+	* Barilli Enrico
+	* Guglielmi Angelo
+	* Eco Umberto
+	* SanguinetiEdoardo
+	* Vassali Sebastiano (La chimera)
+	* Manganelli Giorgio
+	* Balestrini Nanni
+
+p.183
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDMyODI5MSwtMjEwNDI4MDAyXX0=
+eyJoaXN0b3J5IjpbMzg3MTY4MjE4LC0yMTA0MjgwMDJdfQ==
 -->
