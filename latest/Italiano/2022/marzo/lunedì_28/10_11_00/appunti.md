@@ -24,10 +24,10 @@ guardare la vita scorrere
 
 mattia pascal non può cambiare identità, ma questo genera nuove condizioni impossibili
 
-()
+(non può sposars)
 
 assurdità del vivere
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTExNDA0LC0yMTA0MjgwMDJdfQ==
+eyJoaXN0b3J5IjpbNzcwODE3MTI3LC0yMTA0MjgwMDJdfQ==
 -->
