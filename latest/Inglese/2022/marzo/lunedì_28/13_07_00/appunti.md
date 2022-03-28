@@ -28,8 +28,10 @@ l.11 p.127
 
 judge for artistic value, not moral message
 
-l.8 
+All art is quite useless
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDU4MjU3NSwtNTY1OTc0ODI4LC0yMD
-AwMjM0OTE2LDIwMTg4NjI1MzZdfQ==
+eyJoaXN0b3J5IjpbLTEyMTY5MDI2MzEsLTU2NTk3NDgyOCwtMj
+AwMDIzNDkxNiwyMDE4ODYyNTM2XX0=
 -->
