@@ -26,8 +26,10 @@ Aphorism emblematic of this
 
 l.11 p.127
 
-judge for artistic value, not moral messae
+judge for artistic value, not moral message
+
+l.8 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTk3NDgyOCwtMjAwMDIzNDkxNiwyMD
-E4ODYyNTM2XX0=
+eyJoaXN0b3J5IjpbMTMwMDU4MjU3NSwtNTY1OTc0ODI4LC0yMD
+AwMjM0OTE2LDIwMTg4NjI1MzZdfQ==
 -->
