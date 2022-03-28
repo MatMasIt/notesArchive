@@ -68,6 +68,11 @@ p.183
 p.184 riassunto
 
 non c'è più narratore esterno omniscente
+
+Mattia Pascal diventa Adriano Meis
+
+Mattìa: mattezza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTk0NTcwNywtMjEwNDI4MDAyXX0=
+eyJoaXN0b3J5IjpbLTE2NTcyNjYzMTksMTEyNTk0NTcwNywtMj
+EwNDI4MDAyXX0=
 -->
