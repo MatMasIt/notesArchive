@@ -72,7 +72,10 @@ non c'è più narratore esterno omniscente
 Mattia Pascal diventa Adriano Meis
 
 Mattìa: mattezza
+
+
+prima sembra un romanzo famiglaire del villaggio ottocentesco poi dopo ilritrovamenteo del cadavere diventa un romanzo di formazion (Bildungsroman) alla rovescia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcyNjYzMTksMTEyNTk0NTcwNywtMj
-EwNDI4MDAyXX0=
+eyJoaXN0b3J5IjpbODU0NDMwOTUzLDExMjU5NDU3MDcsLTIxMD
+QyODAwMl19
 -->
