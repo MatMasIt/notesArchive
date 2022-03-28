@@ -35,7 +35,11 @@ only aim of art is its admiration
 à rebours
 
 p.30
+
+The nnintheenth century dislike of realism is the rage of Caliban seeing his own face in a glass
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM0ODAzODMsMTEyNjE0MDEzMCwtNT
-Y1OTc0ODI4LC0yMDAwMjM0OTE2LDIwMTg4NjI1MzZdfQ==
+eyJoaXN0b3J5IjpbLTE4Nzc2OTkyMTcsLTE1MjM0ODAzODMsMT
+EyNjE0MDEzMCwtNTY1OTc0ODI4LC0yMDAwMjM0OTE2LDIwMTg4
+NjI1MzZdfQ==
 -->
