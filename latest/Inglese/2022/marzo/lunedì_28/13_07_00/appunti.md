@@ -20,8 +20,10 @@ Wilde was Pater's disciple
 
 Art must not have other meanings except for the fact that it is the representation of beauty
 
-Art which gives pl
+Art gives peleasure to artist and viewer
+
+Aphorism emblematic of this
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDAzODM5NTMsLTIwMDAyMzQ5MTYsMj
-AxODg2MjUzNl19
+eyJoaXN0b3J5IjpbMTQ5NDg0NDMzMCwtMjAwMDIzNDkxNiwyMD
+E4ODYyNTM2XX0=
 -->
