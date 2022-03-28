@@ -7,9 +7,11 @@ in started in france with symbolism
 p. 30
 
 
-
+Dandy / Aesthete like Dorian Gray/ Oscar Wilde
 dandy's life:
-achievement of pleasure
+achievement of ==pleasure==
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2MDg3OTNdfQ==
+eyJoaXN0b3J5IjpbMjAxODg2MjUzNl19
 -->
