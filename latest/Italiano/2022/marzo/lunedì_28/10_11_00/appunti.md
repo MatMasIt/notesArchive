@@ -98,8 +98,8 @@ Pirandello, 15 volumi di un centinaio di novelle totale
 
 
 raccolta postuma del 1937
-
+p 161
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM1MjA0MzksMjI0MjAwMDI3LC0xMz
-M1NzU0MTg2LDExMjU5NDU3MDcsLTIxMDQyODAwMl19
+eyJoaXN0b3J5IjpbLTIwNzIwMDA4MSwyMjQyMDAwMjcsLTEzMz
+U3NTQxODYsMTEyNTk0NTcwNywtMjEwNDI4MDAyXX0=
 -->
