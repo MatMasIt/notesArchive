@@ -17,6 +17,9 @@ Theophile Gautier theorized motto of aesthetic movement
 Walter Pater brought it to England p.29
 
 Wilde was Pater's disciple
+
+Art must not have other meanings except for the fact that it is the representation of beauty
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDAyMzQ5MTYsMjAxODg2MjUzNl19
+eyJoaXN0b3J5IjpbLTc5NTk5ODc3MSwtMjAwMDIzNDkxNiwyMD
+E4ODYyNTM2XX0=
 -->
