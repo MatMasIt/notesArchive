@@ -78,8 +78,16 @@ prima sembra un romanzo famiglaire del villaggio ottocentesco poi dopo ilritrova
 
 alla fine diventa un antiromanzo iniziale
 
-non a
+non aptus, intetto alientato
+
+antiromanzo di un antieroe
+
+
+impaianto sperimentale
+
+
+espediente del manoscritto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczMzMxMjI2LDExMjU5NDU3MDcsLTIxMD
-QyODAwMl19
+eyJoaXN0b3J5IjpbLTEzMzU3NTQxODYsMTEyNTk0NTcwNywtMj
+EwNDI4MDAyXX0=
 -->
