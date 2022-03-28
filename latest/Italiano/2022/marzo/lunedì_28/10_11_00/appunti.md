@@ -87,7 +87,18 @@ impaianto sperimentale
 
 
 espediente del manoscritto
+
+p.161
+
+t2 Il treno ha Fischiato
+
+Novelle per un anno
+
+Pirandello, 15 volumi di un centinaio di novelle totale
+
+
+raccolta postuma del 1937
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzU3NTQxODYsMTEyNTk0NTcwNywtMj
-EwNDI4MDAyXX0=
+eyJoaXN0b3J5IjpbMjI0MjAwMDI3LC0xMzM1NzU0MTg2LDExMj
+U5NDU3MDcsLTIxMDQyODAwMl19
 -->
