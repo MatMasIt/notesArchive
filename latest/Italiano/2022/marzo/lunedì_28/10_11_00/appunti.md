@@ -64,6 +64,10 @@ romanzo diventa famoso ngli anni '60 del 900
 	* Balestrini Nanni
 
 p.183
+
+p.184 riassunto
+
+non c'è più narratore esterno omniscente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3MTY4MjE4LC0yMTA0MjgwMDJdfQ==
+eyJoaXN0b3J5IjpbMTEyNTk0NTcwNywtMjEwNDI4MDAyXX0=
 -->
