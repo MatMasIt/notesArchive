@@ -11,7 +11,10 @@ Dandy / Aesthete like Dorian Gray/ Oscar Wilde
 dandy's life:
 achievement of ==pleasure==
 
+Theophile Gautier theorized motto of aesthetic movement
+> Art for art's sake
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODg2MjUzNl19
+eyJoaXN0b3J5IjpbMTgwNDg4NDE3LDIwMTg4NjI1MzZdfQ==
 -->
