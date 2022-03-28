@@ -28,12 +28,14 @@ l.11 p.127
 
 judge for artistic value, not moral message
 
- - List item
-
 All art is quite useless
 
 only aim of art is its admiration
+
+à rebours
+
+p.30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDAwOTQ3NDQsMTEyNjE0MDEzMCwtNT
+eyJoaXN0b3J5IjpbLTE1MjM0ODAzODMsMTEyNjE0MDEzMCwtNT
 Y1OTc0ODI4LC0yMDAwMjM0OTE2LDIwMTg4NjI1MzZdfQ==
 -->
