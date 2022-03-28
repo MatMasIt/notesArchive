@@ -75,7 +75,11 @@ Mattìa: mattezza
 
 
 prima sembra un romanzo famiglaire del villaggio ottocentesco poi dopo ilritrovamenteo del cadavere diventa un romanzo di formazion (Bildungsroman) alla rovescia.
+
+alla fine diventa un antiromanzo iniziale
+
+non a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0NDMwOTUzLDExMjU5NDU3MDcsLTIxMD
+eyJoaXN0b3J5IjpbMzczMzMxMjI2LDExMjU5NDU3MDcsLTIxMD
 QyODAwMl19
 -->
