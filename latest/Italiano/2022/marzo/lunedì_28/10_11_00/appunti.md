@@ -39,6 +39,21 @@ In Italia è Montale
 Triangolo
 Joyce-Svevo-Montale
 Pasigi-firenze-trieste
+
+
+Pirandello negli anni '20 è noto audotre di teatro
+
+
+p.183  Il fu MP
+esce a puntate
+tradotto in tedesco e francese
+
+
+romanzo diventa famoso ngli anni '60 del 900
+
+
+* Critico letterareio Giacomo BENEDETTI
+* Lonardo SCIA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjQ2MTk3MywtMjEwNDI4MDAyXX0=
+eyJoaXN0b3J5IjpbLTMxMDMyODI5MSwtMjEwNDI4MDAyXX0=
 -->
