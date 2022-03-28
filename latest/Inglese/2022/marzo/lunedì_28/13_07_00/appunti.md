@@ -23,7 +23,11 @@ Art must not have other meanings except for the fact that it is the representati
 Art gives peleasure to artist and viewer
 
 Aphorism emblematic of this
+
+l.11 p.127
+
+judge for artistic value, not moral messae
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDg0NDMzMCwtMjAwMDIzNDkxNiwyMD
+eyJoaXN0b3J5IjpbLTU2NTk3NDgyOCwtMjAwMDIzNDkxNiwyMD
 E4ODYyNTM2XX0=
 -->
