@@ -13,8 +13,10 @@ achievement of ==pleasure==
 
 Theophile Gautier theorized motto of aesthetic movement
 > Art for art's sake
+> 
+Walter Pater brought it to England p.29
 
-
+Wilde was Pater's disciple
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDg4NDE3LDIwMTg4NjI1MzZdfQ==
+eyJoaXN0b3J5IjpbLTIwMDAyMzQ5MTYsMjAxODg2MjUzNl19
 -->
