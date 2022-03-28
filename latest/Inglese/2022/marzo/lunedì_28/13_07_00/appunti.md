@@ -30,8 +30,8 @@ judge for artistic value, not moral message
 
 All art is quite useless
 
-
+only aim of art
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY5MDI2MzEsLTU2NTk3NDgyOCwtMj
-AwMDIzNDkxNiwyMDE4ODYyNTM2XX0=
+eyJoaXN0b3J5IjpbMjc3NjcwMDAyLC01NjU5NzQ4MjgsLTIwMD
+AyMzQ5MTYsMjAxODg2MjUzNl19
 -->
