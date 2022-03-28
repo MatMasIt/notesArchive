@@ -28,6 +28,17 @@ mattia pascal non può cambiare identità, ma questo genera nuove condizioni imp
 
 assurdità del vivere
 
+---
+Svevo
+
+James Joyce lo fa leggere ai critici letterari francesi
+
+
+In Italia è Montale
+
+Triangolo
+Joyce-Svevo-Montale
+Pasigi-firenze-trieste
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjgyOTcyNSwtMjEwNDI4MDAyXX0=
+eyJoaXN0b3J5IjpbLTk2NjQ2MTk3MywtMjEwNDI4MDAyXX0=
 -->
