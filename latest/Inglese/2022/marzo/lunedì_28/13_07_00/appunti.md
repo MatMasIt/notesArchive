@@ -19,7 +19,9 @@ Walter Pater brought it to England p.29
 Wilde was Pater's disciple
 
 Art must not have other meanings except for the fact that it is the representation of beauty
+
+Art which gives pl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTk5ODc3MSwtMjAwMDIzNDkxNiwyMD
-E4ODYyNTM2XX0=
+eyJoaXN0b3J5IjpbLTE5MDAzODM5NTMsLTIwMDAyMzQ5MTYsMj
+AxODg2MjUzNl19
 -->
