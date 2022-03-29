@@ -58,8 +58,8 @@ Reazione di idrolosi di esteri presenti in un olio vegetale
 NaOH
 
 
-poi si 
+poi si mette sulla piastra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE1NjkyNjEsMjkwMjg2NTMxLDE3MT
-g1MzE5NzRdfQ==
+eyJoaXN0b3J5IjpbMTc2Njg4NzgwNSwyOTAyODY1MzEsMTcxOD
+UzMTk3NF19
 -->
