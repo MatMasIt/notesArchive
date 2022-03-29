@@ -52,7 +52,14 @@ oldio d'oliva
 
 Reazione di idrolosi di esteri presenti in un olio vegetale
 
+4 ml di olio e 4 ml di etanolo
 
+
+NaOH
+
+
+poi si 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwMjg2NTMxLDE3MTg1MzE5NzRdfQ==
+eyJoaXN0b3J5IjpbLTE4NTE1NjkyNjEsMjkwMjg2NTMxLDE3MT
+g1MzE5NzRdfQ==
 -->
