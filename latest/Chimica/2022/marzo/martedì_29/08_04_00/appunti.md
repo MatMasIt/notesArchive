@@ -22,7 +22,7 @@ p.180
 
 da 4 atomi in poi sono acidi grassi
 
-numero catena, numero insaturat
+numero catena, numero insaturazioni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Mzk1MTM1NF19
+eyJoaXN0b3J5IjpbMTU1NjcxMzcxNV19
 -->
