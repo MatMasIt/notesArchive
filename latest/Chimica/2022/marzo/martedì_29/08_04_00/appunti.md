@@ -23,6 +23,25 @@ p.180
 da 4 atomi in poi sono acidi grassi
 
 numero catena, numero insaturazioni
+
+
+Acido oleico
+
+
+18 atomi di carbonio
+
+
+isomeria cis/trans
+
+stessa parte o altra parte
+
+aico cis-ottadecenoico
+
+
+Instaturazione cis/trans
+
+oldio d'oliva
+75% acido oleico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjcxMzcxNV19
+eyJoaXN0b3J5IjpbMTcxODUzMTk3NF19
 -->
