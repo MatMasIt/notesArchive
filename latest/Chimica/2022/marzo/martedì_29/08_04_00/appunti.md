@@ -9,7 +9,7 @@ noncambiano equilibrio ma solo velocitò
 
 teoria cinetica degli urti 
 
-
+veclocità di reqazionedipende dal substrato ma ha un massimo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjkyMzgyMV19
+eyJoaXN0b3J5IjpbLTY0ODA1Mzc1XX0=
 -->
