@@ -1,6 +1,11 @@
 # Lezione di Biochimica
 
 Enzimi catalogabili attraverso alle modalità di reazione e del substrato
+
+
+p.209
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2Njg1OTQ0XX0=
+eyJoaXN0b3J5IjpbNTQyOTI5NjE3XX0=
 -->
