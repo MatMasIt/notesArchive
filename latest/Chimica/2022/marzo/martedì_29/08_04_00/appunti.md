@@ -42,6 +42,17 @@ Instaturazione cis/trans
 
 oldio d'oliva
 75% acido oleico
+
+
+
+---
+
+
+## Saponificazione
+
+Reazione di idrolosi di esteri presenti in un olio vegetale
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODUzMTk3NF19
+eyJoaXN0b3J5IjpbMjkwMjg2NTMxLDE3MTg1MzE5NzRdfQ==
 -->
