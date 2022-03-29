@@ -61,11 +61,11 @@ NaOH
 poi si mette sulla piastra
 
 
-     O
-     ||
-     C
-    /  \ 
-   R
+     O                  O
+    | |                | |
+     C    R'  + OH- =   C       + R'-OH
+    /  \ /             / \
+    R   O             R   O-
 
 carbossilato di sodio come sale + glicerolo come prodotto di reazione
 
@@ -76,6 +76,6 @@ carbossilato di sodio come sale + glicerolo come prodotto di reazione
 			|
 			C-OH
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0OTIyMDE1LDE3NjY4ODc4MDUsMjkwMj
-g2NTMxLDE3MTg1MzE5NzRdfQ==
+eyJoaXN0b3J5IjpbLTgyMzE0NDg1MywxNzY2ODg3ODA1LDI5MD
+I4NjUzMSwxNzE4NTMxOTc0XX0=
 -->
