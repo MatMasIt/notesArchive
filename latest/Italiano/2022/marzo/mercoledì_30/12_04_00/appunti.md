@@ -156,6 +156,8 @@ pensava fosse artistico ma si è reso conto poi che è unlavoro automatico
 Massificazione, riproducibilità
 
 fine esemplare univo
+
+fine aurea sacralità opera artistica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Nzg3NjAzOF19
+eyJoaXN0b3J5IjpbMjE0NDg0OTEwXX0=
 -->
