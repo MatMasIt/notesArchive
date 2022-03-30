@@ -8,6 +8,7 @@ Peso sociale WWI:
 * enormi debiti dei paesi colpiti dalla guerra
 * tanti reduci non riescono a trovare collocazione nella società
 	* molte proteste nei confronti di coloro che conducono la politica industriale
+		* Moltiplicazione agitazioni sociali, soprattutto da parte dei movimenti di sinistra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTYyODc2XX0=
+eyJoaXN0b3J5IjpbLTU5MjcxMTkyOF19
 -->
