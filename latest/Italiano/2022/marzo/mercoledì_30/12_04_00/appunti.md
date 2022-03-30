@@ -112,7 +112,14 @@ Gubbio continua a registrare
 Punta di espressionismo
 
  
- tempo dell'interoirità che si
+ tempo dell'interoirità che si dilata
+macchina e manovella diventano protesi della mano umana
+
+serafino diventa muto
+
+vita di Serafino llegata alla macchina
+
+la vita dell'uomo ripreso data da mangiare alla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzU1NDU2NF19
+eyJoaXN0b3J5IjpbMTk5NDYwNTczN119
 -->
