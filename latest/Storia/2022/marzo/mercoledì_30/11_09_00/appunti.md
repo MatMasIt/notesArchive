@@ -156,6 +156,8 @@ duma fa tentativi di riforme sociali poco efficaci sui contadini
 
 
 Generale malcontento con cui la russia entra in WWI
+
+1917 altra esplosione rivoluzionaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM1ODcxOTZdfQ==
+eyJoaXN0b3J5IjpbLTExOTEwNDcxMTVdfQ==
 -->
