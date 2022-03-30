@@ -54,7 +54,13 @@ economico:
 	+ industializzazione con i capitali francesi
 	+ organizzata dall'alto (strato borgese esiguo) simile a quella giapponese
 	+ Alcune grandi aree di insustrializzazione: 
-		+ capitale (Pietroburgo, dal 1703 -anno fondaziona-), Mosca (capitale dal 1918) Baku (sul mar caspio)
+		+ capitale (Pietroburgo, dal 1703 -anno fondazione-)
+		+ Mosca (capitale dal 1918) 
+		+ Baku (sul mar caspio)
+		+ Distretti minerari degli urali
+	+ anno 1900: 2,5mln di operai su 100mln di persone
+		+ lettura marxista della società
+			+ Strato operaio esiguo:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzE1Nzg2N119
+eyJoaXN0b3J5IjpbLTI2NjM5MV19
 -->
