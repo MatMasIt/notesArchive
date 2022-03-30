@@ -34,7 +34,12 @@ perchè erano regimi politici anticomunisti
 
 discrimine fondamentale
 
+Dopo la seconda guerra mondiale fattore importante
+
+
+America latina, molte dittature instaurate dagli USA per evitare il comunismo
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDMwNDY2OF19
+eyJoaXN0b3J5IjpbLTEzODIzMDg0NTddfQ==
 -->
