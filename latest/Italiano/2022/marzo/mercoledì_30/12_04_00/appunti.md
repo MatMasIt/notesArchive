@@ -77,7 +77,13 @@ Simone pao, filosofo spiantato, che vive di espedienti, inquilino perpetuo di os
 mondo sommerso
 
 casa "Kosmograph"
-Grafica del cosmo, vuole ritrarre l'intera
+Grafica del cosmo, vuole ritrarre l'intera realtà, l'universo nella pellicola
+
+Aldo Nuti, aspirante attore praticante, chiamato dal regista a sostituire l'attore ingaggiato per la parte (Carlo Ferro)
+
+entrare in una gabbia metellica per una ripresa dal vivo di una scn
+
+un giorno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxNjU2NjYyXX0=
+eyJoaXN0b3J5IjpbNTc5NDgzMDQyXX0=
 -->
