@@ -39,7 +39,7 @@ romanzo originariamente chiamato "Si gira..."
 
 Serafino: operatore cinematografico
 
-
+Interventisti parlavano nel 1915
 
 romanzetto sul cinema? no
 romanzo di taglio diaristico che riflette sulla meccanizzazione della vita
@@ -47,6 +47,12 @@ romanzo di taglio diaristico che riflette sulla meccanizzazione della vita
 Esiti ed effetti della meccanizzazione sulla vita
 
 denuncia della meccanizzazione, una delle principali responsabili di una guerra nuova e devastantte
+
+Grande guerra disumana
+
+Seconda guerra mondiale poi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk1NTM0MTldfQ==
+eyJoaXN0b3J5IjpbNzc4ODEyNzczXX0=
 -->
