@@ -16,7 +16,15 @@ Elementi di tensione
 Tema importante: trasformazione della Russia dal 1905
 rivoluzione 1917
 
-Russia esce da WWI con pace di Brwnsk-litonks]
+Russia esce da WWI con pace di [Brwnsk-litonks] del 1918
+
+realtà politica sociale ed economica nuova
+
+_Unione delle Repubbliche Socialiste Sovietiche_
+
+modello alternativo al capitalismo occidentale
+
+ha suscitato grandi speranze in una parte molto significativa della vi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQxMTQ2OTNdfQ==
+eyJoaXN0b3J5IjpbLTEyOTU5NjAyMjFdfQ==
 -->
