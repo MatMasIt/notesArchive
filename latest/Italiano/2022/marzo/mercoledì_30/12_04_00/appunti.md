@@ -119,7 +119,16 @@ serafino diventa muto
 
 vita di Serafino llegata alla macchina
 
-la vita dell'uomo ripreso data da mangiare alla
+la vita dell'uomo ripreso data da mangiare alla macchina
+
+Soggetto pulp che farà cassetta
+
+spettacolarizzazione della vita
+
+
+tempo di macchine
+
+WWI guerr, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDYwNTczN119
+eyJoaXN0b3J5IjpbLTE3MTkzODU4MzBdfQ==
 -->
