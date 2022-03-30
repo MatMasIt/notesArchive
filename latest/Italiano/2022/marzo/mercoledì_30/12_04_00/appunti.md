@@ -27,6 +27,14 @@ attenzione di Pirandello per le macchine
 p.185
 
 apertura della porta delle avanguardie
+
+
+p 203
+_Quaderni di Serafino Gubbio operatore_ 1915, Treves
+
+e poi nel 1925 "Bemporad" con titolo definitivo
+
+romanzo originariamente chiamato "Si gira..."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDQ1NDY0MF19
+eyJoaXN0b3J5IjpbMTg3Mjk3NDAzMF19
 -->
