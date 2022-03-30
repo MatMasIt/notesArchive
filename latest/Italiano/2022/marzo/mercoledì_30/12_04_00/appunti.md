@@ -68,7 +68,16 @@ amico di due intellettuali che vivono in un ricovero, ospizio ipogeo
 
 p 204
 
-Violinista Spiantato è diventato folle, accom
+Violinista Spiantato è diventato folle, accompagna pianoforte automatico a nastri forati
+
+p 206  r53
+
+Simone pao, filosofo spiantato, che vive di espedienti, inquilino perpetuo di ospizio di mendicità 
+
+mondo sommerso
+
+casa "Kosmograph"
+Grafica del cosmo, vuole ritrarre l'intera
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzMzMDUxXX0=
+eyJoaXN0b3J5IjpbNjYxNjU2NjYyXX0=
 -->
