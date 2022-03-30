@@ -146,6 +146,16 @@ Partito costituzionale democratico soddisfatto e si separa dalla protesta comune
 indebolimento oppositori zar
 
 lo zar riprende controllo situaziione, le truppe tornano all'interno del paese dopo trattati di pace
+
+Zar limita progresseivamente i poteri della duma, le cui regole di costituzione lo manteneano come organismo conservatore
+
+
+la russia negli anni successivi non migliora condizioni sociali e politiche
+
+duma fa tentativi di riforme sociali poco efficaci sui contadini
+
+
+Generale malcontento con cui la russia entra in WWI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODk1NTMwNF19
+eyJoaXN0b3J5IjpbLTEzMTM1ODcxOTZdfQ==
 -->
