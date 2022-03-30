@@ -81,7 +81,9 @@ uno dei paesi più arretrati dal punto di vista economico e politico
 		+ si ispira al _populismo russo_
 			+ valorizzazione tradizioni comunitarie e contadine
 			+ redistribuire terra
-		+ |Part
+		+ Partito Operaio Social-Democratico Russo (1898)
+			+ marxista
+				+ In Russia dovrebeb affermarsi lo strato borghese che dovrebbe sentire che l'autocrazia zarista vada scalzata (prima rivolu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjQ4NDQ2Nl19
+eyJoaXN0b3J5IjpbMTg0Mzc2MTQyNV19
 -->
