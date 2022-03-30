@@ -100,7 +100,19 @@ uno dei paesi più arretrati dal punto di vista economico e politico
 
 **1905:** scoppia una prima rivoluzione russa per effetto delle conseguenze di uno scontro militare dalla Russia Zarista e il Giappone 
 
-Giappone sviluppato e espansionista invade la manciur
+Giappone sviluppato e espansionista invade la manciuria, che i russi possiedono
+
+scontro nel 1904
+
+la russia perde anche se pensava di avere facile vittoria
+
+indebolimento del potere dello zar
+
+proteste in corso si intrecciano con eventi guerra
+
+22 gen 1905 a San Pietroburgo (la capitale) si verifica un grande sciopero operaio [clima di pesantezza per la sconfitta militare]
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Njk0ODAwOF19
+eyJoaXN0b3J5IjpbMTU1MzY4MTExMl19
 -->
