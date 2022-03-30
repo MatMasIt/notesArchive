@@ -89,8 +89,13 @@ uno dei paesi più arretrati dal punto di vista economico e politico
 			+ due anime
 				+ alla conta del 1903
 				+ Schieramento memscevico (di minoranza -significa-)
-					+ credono che rivoluzione socialista s
+					+ credono che rivoluzione socialista sia lontana
+					+ partito aperto, di massa, tutti i simpatizzanti debbono poter avere posto
 				+ Schieramento bolscevico (di maggioranza - significa-)
+					+ ritenevano che non ci si potesse affidare alla borghesia prima
+						+ bisogna bruciare le tappe e arrivare subito a rivoluzione proletaria
+						+ ristretto e combattivo numero di quadri rivoluzionari
+							+ non tutti ma solo chi è già or
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzQ4Mzk2Nl19
+eyJoaXN0b3J5IjpbNjAzMzU1Njg5XX0=
 -->
