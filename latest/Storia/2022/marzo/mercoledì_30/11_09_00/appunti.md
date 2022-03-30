@@ -135,7 +135,17 @@ nel 1905 si costituisce nella capitale il Soviet (consiglio), rappresentanti di 
 
 Lo zarr cede e concede la nascita del parlamento
 
-Nell'ottorbe del 190
+Nell'ottorbe del 1905 nasce la Duma con potere legislativo
+
+eletto da una quota significativa della popolazione
+
+svolta
+
+Partito costituzionale democratico soddisfatto e si separa dalla protesta comune
+
+indebolimento oppositori zar
+
+lo zar riprende controllo situaziione, le truppe tornano all'interno del paese dopo trattati di pace
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5MzY1NzVdfQ==
+eyJoaXN0b3J5IjpbLTUwODk1NTMwNF19
 -->
