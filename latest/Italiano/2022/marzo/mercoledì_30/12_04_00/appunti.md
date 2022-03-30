@@ -152,6 +152,10 @@ simbolo dela perdita di autonomia
 privo di emozioni
 
 pensava fosse artistico ma si è reso conto poi che è unlavoro automatico
+
+Massificazione, riproducibilità
+
+fine esemplare univo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzYwNjc1M119
+eyJoaXN0b3J5IjpbMTM2Nzg3NjAzOF19
 -->
