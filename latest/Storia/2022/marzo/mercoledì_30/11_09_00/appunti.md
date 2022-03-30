@@ -83,7 +83,14 @@ uno dei paesi più arretrati dal punto di vista economico e politico
 			+ redistribuire terra
 		+ Partito Operaio Social-Democratico Russo (1898)
 			+ marxista
-				+ In Russia dovrebeb affermarsi lo strato borghese che dovrebbe sentire che l'autocrazia zarista vada scalzata (prima rivolu
+				+ In Russia dovrebeb affermarsi lo strato borghese che dovrebbe sentire che l'autocrazia zarista vada scalzata (prima rivoluzione)
+				+ e solo dopo con grande massa operaia si creeranno le condizioni per la rivoluzione proletaria
+			+ non ritiene possibile ora realizzare a rivoluzione
+			+ due anime
+				+ alla conta del 1903
+				+ Schieramento memscevico (di minoranza -significa-)
+					+ credono che rivoluzione socialista s
+				+ Schieramento bolscevico (di maggioranza - significa-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Mzc2MTQyNV19
+eyJoaXN0b3J5IjpbLTc1NzQ4Mzk2Nl19
 -->
