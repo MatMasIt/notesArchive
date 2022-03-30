@@ -95,7 +95,12 @@ uno dei paesi più arretrati dal punto di vista economico e politico
 					+ ritenevano che non ci si potesse affidare alla borghesia prima
 						+ bisogna bruciare le tappe e arrivare subito a rivoluzione proletaria
 						+ ristretto e combattivo numero di quadri rivoluzionari
-							+ non tutti ma solo chi è già or
+							+ non tutti ma solo chi è già orientato verso azione decisa e ideologica
+
+
+**1905:** scoppia una prima rivoluzione russa per effetto delle conseguenze di uno scontro militare dalla Russia Zarista e il Giappone 
+
+Giappone sviluppato e espansionista invade la manciur
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzMzU1Njg5XX0=
+eyJoaXN0b3J5IjpbMTg1Njk0ODAwOF19
 -->
