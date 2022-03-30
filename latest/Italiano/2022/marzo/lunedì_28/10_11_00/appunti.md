@@ -28,6 +28,8 @@ mattia pascal non può cambiare identità, ma questo genera nuove condizioni imp
 
 assurdità del vivere
 
+_maledetto copernico_
+
 ---
 Svevo
 
@@ -100,6 +102,7 @@ Pirandello, 15 volumi di un centinaio di novelle totale
 raccolta postuma del 1937
 p 161
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzIwMDA4MSwyMjQyMDAwMjcsLTEzMz
-U3NTQxODYsMTEyNTk0NTcwNywtMjEwNDI4MDAyXX0=
+eyJoaXN0b3J5IjpbLTE3NjQ3NTk1NTgsLTIwNzIwMDA4MSwyMj
+QyMDAwMjcsLTEzMzU3NTQxODYsMTEyNTk0NTcwNywtMjEwNDI4
+MDAyXX0=
 -->
