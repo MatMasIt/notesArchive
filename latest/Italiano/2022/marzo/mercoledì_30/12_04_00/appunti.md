@@ -147,7 +147,11 @@ lavoro disumano e alienante
 
 mano: sineddoche: io, l'operatore
 
-simbolo delal perdita di 
+simbolo dela perdita di autonomia
+
+privo di emozioni
+
+pensava fosse artistico ma si è reso conto poi che è unlavoro automatico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTI1NDE3NV19
+eyJoaXN0b3J5IjpbMTczMzYwNjc1M119
 -->
