@@ -39,7 +39,12 @@ Dopo la seconda guerra mondiale fattore importante
 
 America latina, molte dittature instaurate dagli USA per evitare il comunismo
 
+Situazione russa a fine 1800
 
+uno dei paesi più arretrati dal punto di vista economico e politico
+
+economico:
++ Servitù della gle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODIzMDg0NTddfQ==
+eyJoaXN0b3J5IjpbMTA4MjM5NDc2MF19
 -->
