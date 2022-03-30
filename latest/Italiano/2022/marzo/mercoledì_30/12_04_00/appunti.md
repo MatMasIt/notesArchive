@@ -14,6 +14,19 @@ tema dell'aleatorietà
 
 * gioco d'azzardo
 * opportunità fortuita nel flusso dell'esistenza, motivo che compare in altri romanzi (e tangenzialmente in MP)
+
+tema della moltitudine 
+culto
+spiritismo
+parapsicologia
+ignoto
+dato _extrascientifico_
+
+attenzione di Pirandello per le macchine
+
+p.185
+
+apertura della porta delle avanguardie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTcwMjM4NjJdfQ==
+eyJoaXN0b3J5IjpbLTQ1NDQ1NDY0MF19
 -->
