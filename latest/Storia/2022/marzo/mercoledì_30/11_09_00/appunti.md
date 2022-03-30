@@ -51,7 +51,10 @@ economico:
 		+ borghesi fondiari, contadini agiati chiamati Khulaki
 	+ Agricoltura arretrata
 + Industria appena nascente 
-	+ indu
+	+ industializzazione con i capitali francesi
+	+ organizzata dall'alto (strato borgese esiguo) simile a quella giapponese
+	+ Alcune grandi aree di insustrializzazione: 
+		+ capitale (Pietroburgo, dal 1703 -anno fondaziona-), Mosca (capitale dal 1918) Baku (sul mar caspio)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODE0MDgzMl19
+eyJoaXN0b3J5IjpbLTc2NzE1Nzg2N119
 -->
