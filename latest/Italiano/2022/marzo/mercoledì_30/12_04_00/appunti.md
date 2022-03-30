@@ -129,6 +129,15 @@ spettacolarizzazione della vita
 tempo di macchine
 
 WWI, macchine che uccidono
+
+
+capitolo 1
+
+Sono Operatore
+
+non fa muovere lui gli attori, fa solo andare la manovella usando gli occhi
+
+sul set un u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzE4NTI2M119
+eyJoaXN0b3J5IjpbLTE0OTA4OTA1MTBdfQ==
 -->
