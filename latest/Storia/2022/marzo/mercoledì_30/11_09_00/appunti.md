@@ -47,7 +47,11 @@ economico:
 + Servitù della gleba (non si può abbandonare zolla di terra, figli e generazioni) abolita nel 1861
 	+ milioni di contadini liberati si dedicano ad arricchimeto personale ma c'erano poche terre a disposizione
 		+ incremento produzione cerealicola russa
-	+ T
+	+ Grandi proprietari aristocratici e borghesi
+		+ borghesi fondiari, contadini agiati chiamati Khulaki
+	+ Agricoltura arretrata
++ Industria appena nascente 
+	+ indu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzA0NjQ2M119
+eyJoaXN0b3J5IjpbMTAwODE0MDgzMl19
 -->
