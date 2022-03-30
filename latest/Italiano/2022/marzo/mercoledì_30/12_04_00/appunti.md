@@ -35,6 +35,18 @@ _Quaderni di Serafino Gubbio operatore_ 1915, Treves
 e poi nel 1925 "Bemporad" con titolo definitivo
 
 romanzo originariamente chiamato "Si gira..."
+
+
+Serafino: operatore cinematografico
+
+
+
+romanzetto sul cinema? no
+romanzo di taglio diaristico che riflette sulla meccanizzazione della vita
+
+Esiti ed effetti della meccanizzazione sulla vita
+
+denuncia della meccanizzazione, una delle principali responsabili di una guerra nuova e devastantte
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Mjk3NDAzMF19
+eyJoaXN0b3J5IjpbLTE5Njk1NTM0MTldfQ==
 -->
