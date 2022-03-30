@@ -78,7 +78,10 @@ uno dei paesi più arretrati dal punto di vista economico e politico
 		+ Propone suffragio censitario
 		+ posizione politica tipo Cavour
 	+ Partito Social-Rivoluzionario (1901)
-	+ 
+		+ si ispira al _populismo russo_
+			+ valorizzazione tradizioni comunitarie e contadine
+			+ redistribuire terra
+		+ |Part
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNTc1ODc0XX0=
+eyJoaXN0b3J5IjpbLTM3NjQ4NDQ2Nl19
 -->
