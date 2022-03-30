@@ -52,7 +52,23 @@ Grande guerra disumana
 
 Seconda guerra mondiale poi
 
+Gubbio ha studi umanistico-letterari inconcudenti
 
+
+operatore cinematorgrafico addetto a girare la manovella della cinepresa
+
+grossa e pesante macchina da presa
+
+Grande ragno nero
+
+
+vita marginale
+
+amico di due intellettuali che vivono in un ricovero, ospizio ipogeo
+
+p 204
+
+Violinista Spiantato è diventato folle, accom
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4ODEyNzczXX0=
+eyJoaXN0b3J5IjpbLTk3NzMzMDUxXX0=
 -->
