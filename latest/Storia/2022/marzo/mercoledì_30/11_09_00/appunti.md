@@ -72,7 +72,13 @@ uno dei paesi più arretrati dal punto di vista economico e politico
 	+ no costituzioni e no diritti sociali, 300 anni dalle rivoluzioni inglesi del 1600 o riv francese e poi tutti gli avanzamenti dopo
 + fine '800 inizio 900: 3 partiti
 	+ Partito costituzionale democratico
-			+ Base sociale 
+		+ liberale
+		+ Base sociale borgese
+		+ Parlamento elettivo
+		+ Propone suffragio censitario
+		+ posizione politica tipo Cavour
+	+ Partito Social-Rivoluzionario (1901)
+	+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE4MjkwNTJdfQ==
+eyJoaXN0b3J5IjpbMzgyNTc1ODc0XX0=
 -->
