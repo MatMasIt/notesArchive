@@ -24,7 +24,17 @@ _Unione delle Repubbliche Socialiste Sovietiche_
 
 modello alternativo al capitalismo occidentale
 
-ha suscitato grandi speranze in una parte molto significativa della vi
+ha suscitato grandi speranze in una parte molto significativa della vita politica europea
+
+molti partiti socialisti e comunisti hanno guardato alla rivoluzione russa come un modello
+
+Ancora nel 1938 nella società inglese c'era simpatia per Hitler e Mussolini
+
+perchè erano regimi politici anticomunisti
+
+discrimine fondamentale
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU5NjAyMjFdfQ==
+eyJoaXN0b3J5IjpbMTgyMDMwNDY2OF19
 -->
