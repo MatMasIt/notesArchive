@@ -60,7 +60,16 @@ economico:
 		+ Distretti minerari degli urali
 	+ anno 1900: 2,5mln di operai su 100mln di persone
 		+ lettura marxista della società
-			+ Strato operaio esiguo:
+			+ Strato operaio esiguo: la rivoluzione è lontana
+
+Politico:
+
++ autocrazia assoluta arretrata
+	+ no parlamento
+	+ sovrano assoluto
+		+ dal 1894 è Nicola II della dinastia Romanov
+		+ comanda su ricchi proprietari terrieri asserviti allo zar
+		+ no costitu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjM5MV19
+eyJoaXN0b3J5IjpbMTg2NTc2OTc3NF19
 -->
