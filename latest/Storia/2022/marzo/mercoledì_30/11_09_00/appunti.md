@@ -112,7 +112,17 @@ proteste in corso si intrecciano con eventi guerra
 
 22 gen 1905 a San Pietroburgo (la capitale) si verifica un grande sciopero operaio [clima di pesantezza per la sconfitta militare]
 
+Manifestazione pacifica che chiedeva il miglioreamento delle condizioni dei lavoratori:
+* giornata lavorativa
+* salario minimo
+* innovazione politica in Russia [Assemblea costituente]
 
+Reazione brutale dei soldati, che spararono sulal folla
+100 morti e 2000 feriti
+
+massacro
+
+tutti i partiti politici si compattano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzY4MTExMl19
+eyJoaXN0b3J5IjpbLTYxMzEyNjk2OV19
 -->
