@@ -129,7 +129,13 @@ esercito impegato nel conflitto e scarsamente presente nella capitale
 
 dilagano altre proteste
 
-nel 1905 si costituisce nella capitale il Soviet (consiglio), rappresentanti di circa 250'000 operai russi, 550 delegati, eletti sui luog
+nel 1905 si costituisce nella capitale il Soviet (consiglio), rappresentanti di circa 250'000 operai russi, 550 delegati, eletti sui luoghi di lavoro e sempre revocabili
+* organismo politico operaio
+* i fronte al caos delle proteste il Soviet si mostra capace di garantire un certo ordine, a differenza dei funzionari dello zar
+
+Lo zarr cede e concede la nascita del parlamento
+
+Nell'ottorbe del 190
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQ0MTA1MjFdfQ==
+eyJoaXN0b3J5IjpbNjc5MzY1NzVdfQ==
 -->
