@@ -43,7 +43,7 @@ Situazione russa a fine 1800
 
 uno dei paesi più arretrati dal punto di vista economico e politico
 
-economico:
+**Economico:**
 + Servitù della gleba (non si può abbandonare zolla di terra, figli e generazioni) abolita nel 1861
 	+ milioni di contadini liberati si dedicano ad arricchimeto personale ma c'erano poche terre a disposizione
 		+ incremento produzione cerealicola russa
@@ -62,14 +62,17 @@ economico:
 		+ lettura marxista della società
 			+ Strato operaio esiguo: la rivoluzione è lontana
 
-Politico:
+**Politico:**
 
 + autocrazia assoluta arretrata
 	+ no parlamento
 	+ sovrano assoluto
 		+ dal 1894 è Nicola II della dinastia Romanov
-		+ comanda su ricchi proprietari terrieri asserviti allo zar
-		+ no costitu
+	+ comanda su ricchi proprietari terrieri asserviti allo zar
+	+ no costituzioni e no diritti sociali, 300 anni dalle rivoluzioni inglesi del 1600 o riv francese e poi tutti gli avanzamenti dopo
++ fine '800 inizio 900: 3 partiti
+	+ Partito costituzionale democratico
+			+ Base sociale 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTc2OTc3NF19
+eyJoaXN0b3J5IjpbLTE5NTE4MjkwNTJdfQ==
 -->
