@@ -44,7 +44,10 @@ Situazione russa a fine 1800
 uno dei paesi più arretrati dal punto di vista economico e politico
 
 economico:
-+ Servitù della gle
++ Servitù della gleba (non si può abbandonare zolla di terra, figli e generazioni) abolita nel 1861
+	+ milioni di contadini liberati si dedicano ad arricchimeto personale ma c'erano poche terre a disposizione
+		+ incremento produzione cerealicola russa
+	+ T
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjM5NDc2MF19
+eyJoaXN0b3J5IjpbLTU4MzA0NjQ2M119
 -->
