@@ -89,9 +89,21 @@ r.14 Attenti, Si gira
 
 un giorno
 
+rallenta
+
 manovella 
 
+Nuti rivolge punta del fucile e spara fuori dalla gabbia
 
+la tigre si lancia su lui
+
+Nuti aveva intenzione di sparare all' attricetta russa affascinate e volubile
+
+Vera Nestroff
+
+lei è la vera tigre
+
+femme fatale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAyNDkxNTFdfQ==
+eyJoaXN0b3J5IjpbNjMxNjE5MzYwXX0=
 -->
