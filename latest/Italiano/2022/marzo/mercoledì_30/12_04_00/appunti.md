@@ -137,7 +137,17 @@ Sono Operatore
 
 non fa muovere lui gli attori, fa solo andare la manovella usando gli occhi
 
-sul set un u
+sul set un uomo ha chiesto se la presenza di Serafino sia necessario o se l macchine non abbiano inventato nulla che sianecessario
+
+uomo simile  a pirandello
+
+
+lavoro disumano e alienante 
+
+
+mano: sineddoche: io, l'operatore
+
+simbolo delal perdita di 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA4OTA1MTBdfQ==
+eyJoaXN0b3J5IjpbLTU4NTI1NDE3NV19
 -->
