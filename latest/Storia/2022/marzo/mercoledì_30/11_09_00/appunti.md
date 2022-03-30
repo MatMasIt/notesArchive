@@ -123,6 +123,13 @@ Reazione brutale dei soldati, che spararono sulal folla
 massacro
 
 tutti i partiti politici si compattano
+
+esercito impegato nel conflitto e scarsamente presente nella capitale
+
+
+dilagano altre proteste
+
+nel 1905 si costituisce nella capitale il Soviet (consiglio), rappresentanti di circa 250'000 operai russi, 550 delegati, eletti sui luog
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzEyNjk2OV19
+eyJoaXN0b3J5IjpbLTIwMjQ0MTA1MjFdfQ==
 -->
