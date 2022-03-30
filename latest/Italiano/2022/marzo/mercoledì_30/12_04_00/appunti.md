@@ -128,7 +128,7 @@ spettacolarizzazione della vita
 
 tempo di macchine
 
-WWI guerr, 
+WWI, macchine che uccidono
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTkzODU4MzBdfQ==
+eyJoaXN0b3J5IjpbMTMzMzE4NTI2M119
 -->
