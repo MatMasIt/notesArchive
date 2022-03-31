@@ -41,7 +41,14 @@ something superficial and something meaningf
 
 art: symbol of itself
 
-so not symbolic of anyth
+so not symbolic of anything
+
+---
+those who go beneath the surface do so at their peril
+
+the ctitics that go beyond superficialitydo so risking
+
+t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg4MzYzMTgsLTY3MTIxNjI5OV19
+eyJoaXN0b3J5IjpbNTEyODAxNTQ0LC02NzEyMTYyOTldfQ==
 -->
