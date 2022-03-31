@@ -65,8 +65,18 @@ lord Henry Watton hedonist, esthete, initiates Dorian to life of pleausre
 
 excesses that cause depraved and immoral behaivour (dorian gray)
 
-There is also a girl with whom  Dorian grey fell in 
+There is also a girl with whom  Dorian grey fell in love
+
+Sybil Vane
+
+she was an actress
+
+shakespeare
+
+every night she played a different role
+
+Every night D.G. could feel new sensations
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjQ1NjE0MCw0ODYxMzM0NDYsLTY3MT
-IxNjI5OV19
+eyJoaXN0b3J5IjpbLTE0OTM0NTkwNTQsNDg2MTMzNDQ2LC02Nz
+EyMTYyOTldfQ==
 -->
