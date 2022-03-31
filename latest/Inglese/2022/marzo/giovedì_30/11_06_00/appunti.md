@@ -19,6 +19,9 @@ a book is either well written or badly written, the message does not matter
 
 
 art has no didactic aim
+
+
+np artist wants to prove anything
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTc1NDY1LC02NzEyMTYyOTldfQ==
+eyJoaXN0b3J5IjpbLTY2OTc2MDI4OCwtNjcxMjE2Mjk5XX0=
 -->
