@@ -61,8 +61,10 @@ Basil is the painter of dorian gray, he painted his portrat
 they are close friends
 
 
-lord Henry Watton
+lord Henry Watton hedonist
+
+excesses that cause depraved and immoral behaivour (dorian gray)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM1MzQxNTEsNDg2MTMzNDQ2LC02Nz
-EyMTYyOTldfQ==
+eyJoaXN0b3J5IjpbMTc1ODA0NzM1NSw0ODYxMzM0NDYsLTY3MT
+IxNjI5OV19
 -->
