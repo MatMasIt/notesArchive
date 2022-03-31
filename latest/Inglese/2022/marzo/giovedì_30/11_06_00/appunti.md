@@ -9,6 +9,7 @@ Art is Beauty and nothing else
 
 cannot be judged for the morality of its messge
 
+Art: reveal art and conceal the artist
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDQ1ODkwXX0=
+eyJoaXN0b3J5IjpbLTY3MTIxNjI5OV19
 -->
