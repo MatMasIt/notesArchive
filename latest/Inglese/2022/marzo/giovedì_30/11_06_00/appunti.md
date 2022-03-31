@@ -23,7 +23,9 @@ art has no didactic aim
 
 np artist wants to prove anything
 
-vices and vitrue are material o
+vices and vitrue are material for art and life itself of an aesthere
+
+fundamentals of an aesthetic life
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI3Njg1MTAsLTY3MTIxNjI5OV19
+eyJoaXN0b3J5IjpbMzY3MzU2NTgsLTY3MTIxNjI5OV19
 -->
