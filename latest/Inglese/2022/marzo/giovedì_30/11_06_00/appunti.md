@@ -26,6 +26,20 @@ np artist wants to prove anything
 vices and vitrue are material for art and life itself of an aesthere
 
 fundamentals of an aesthetic life
+
+
+r. 28 and 29
+p 127
+
+All art is at once surface and symbol
+paradox?
+
+
+surface: superficial
+
+something superficial and something meaningf
+
+art: symbol of itself
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3MzU2NTgsLTY3MTIxNjI5OV19
+eyJoaXN0b3J5IjpbMTUxMDU2MjY4MiwtNjcxMjE2Mjk5XX0=
 -->
