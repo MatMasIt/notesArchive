@@ -10,6 +10,8 @@ Art is Beauty and nothing else
 cannot be judged for the morality of its messge
 
 Art: reveal art and conceal the artist
+
+The importance is if the art itself is good or not, not the artist
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTIxNjI5OV19
+eyJoaXN0b3J5IjpbLTE1MzUxMjQ4MjgsLTY3MTIxNjI5OV19
 -->
