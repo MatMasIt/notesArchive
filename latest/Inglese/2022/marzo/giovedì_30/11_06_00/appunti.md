@@ -40,6 +40,8 @@ surface: superficial
 something superficial and something meaningf
 
 art: symbol of itself
+
+so not symbolic of anyth
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDU2MjY4MiwtNjcxMjE2Mjk5XX0=
+eyJoaXN0b3J5IjpbLTIxMjg4MzYzMTgsLTY3MTIxNjI5OV19
 -->
