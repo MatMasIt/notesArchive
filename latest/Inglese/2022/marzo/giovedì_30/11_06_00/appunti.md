@@ -12,6 +12,8 @@ cannot be judged for the morality of its messge
 Art: reveal art and conceal the artist
 
 The importance is if the art itself is good or not, not the artist
+
+you cannot find ugly meanings in art
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzUxMjQ4MjgsLTY3MTIxNjI5OV19
+eyJoaXN0b3J5IjpbMTAxMDIyMDM1NiwtNjcxMjE2Mjk5XX0=
 -->
