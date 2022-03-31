@@ -14,6 +14,8 @@ Art: reveal art and conceal the artist
 The importance is if the art itself is good or not, not the artist
 
 you cannot find ugly meanings in art
+
+a book is either well written or badly written, the message does not matter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDIyMDM1NiwtNjcxMjE2Mjk5XX0=
+eyJoaXN0b3J5IjpbMTE2MTA4Njk0OSwtNjcxMjE2Mjk5XX0=
 -->
