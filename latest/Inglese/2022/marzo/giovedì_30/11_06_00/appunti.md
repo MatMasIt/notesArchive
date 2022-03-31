@@ -22,6 +22,8 @@ art has no didactic aim
 
 
 np artist wants to prove anything
+
+vices and vitrue are material o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTc2MDI4OCwtNjcxMjE2Mjk5XX0=
+eyJoaXN0b3J5IjpbLTE5NjI3Njg1MTAsLTY3MTIxNjI5OV19
 -->
