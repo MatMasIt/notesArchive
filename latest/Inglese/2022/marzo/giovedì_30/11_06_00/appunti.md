@@ -7,7 +7,8 @@ p.127
 
 Art is Beauty and nothing else
 
-cannot be judged fir norality of its messae
+cannot be judged for the morality of its messge
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0NDQwMjU2XX0=
+eyJoaXN0b3J5IjpbLTQ0MDQ1ODkwXX0=
 -->
