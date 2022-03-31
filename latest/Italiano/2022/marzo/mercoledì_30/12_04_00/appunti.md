@@ -158,6 +158,10 @@ Massificazione, riproducibilità
 fine esemplare univo
 
 fine aurea sacralità opera artistica
+
+mito auto
+
+meccanizzazione vita
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDg0OTEwXX0=
+eyJoaXN0b3J5IjpbLTMwMjY4NTY4OCwyMTQ0ODQ5MTBdfQ==
 -->
