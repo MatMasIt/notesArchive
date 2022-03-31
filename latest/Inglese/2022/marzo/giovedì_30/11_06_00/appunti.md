@@ -55,7 +55,14 @@ there is no deeper meaning
 ---
 ## Dorian Gray
 beautiful young rich aristocrat boy
+
+Basil is the painter of dorian gray, he painted his portrat
+
+they are close friends
+
+
+lord Henry Watton
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODAwMDA0Miw0ODYxMzM0NDYsLTY3MT
-IxNjI5OV19
+eyJoaXN0b3J5IjpbLTEyODM1MzQxNTEsNDg2MTMzNDQ2LC02Nz
+EyMTYyOTldfQ==
 -->
