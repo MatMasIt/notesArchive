@@ -33,6 +33,10 @@ dilettantismo
 
 frequenta biblioteca comunale di trieste
 
+
+legge scritti dei grandi del pensiero 
+
+Nietsche, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3OTE0NzA1XX0=
+eyJoaXN0b3J5IjpbMzkwMzYwNjM5LDI3NzkxNDcwNV19
 -->
