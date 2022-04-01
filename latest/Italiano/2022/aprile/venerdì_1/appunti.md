@@ -18,7 +18,7 @@ lo fa come colpa, allora era ritenuta attività non produttiva
 
 
 
-ogni giorno scrive come se prendesse un me
+ogni giorno scrive come se prendesse un medicinale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzNzM5OTIwXX0=
+eyJoaXN0b3J5IjpbLTY0MTcwNTc2N119
 -->
