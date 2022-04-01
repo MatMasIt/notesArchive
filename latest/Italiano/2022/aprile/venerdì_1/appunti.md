@@ -26,6 +26,9 @@ incidente stradale
 nel 1925 montale incontra Svevo
 
 Svevo ha conosciuto Joyce agli inizi del 1900
+
+febbraio 1926
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY3MDgyMThdfQ==
+eyJoaXN0b3J5IjpbLTEwNzI2NjU5NDRdfQ==
 -->
