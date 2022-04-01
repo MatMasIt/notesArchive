@@ -154,6 +154,12 @@ inoltre problema dei reduci
 devono tornare alla vita civile
 
 difficile
+
+grande industria ha guadagnato
+
+FIAT passa da 4300 a 30000 dipendenti
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI0MjE4NiwxOTY2MjMzODMyXX0=
+eyJoaXN0b3J5IjpbLTE3NDg1MjExNzYsMTk2NjIzMzgzMl19
 -->
