@@ -98,6 +98,13 @@ austria si riduce a ben poca cosa
 ungheria indipendente
 
 ricostituita la Polonia
+
+punire la germania, obiettivo trattati
+
+germania in di
+
+
+WWI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjU5NTMxNSwxOTY2MjMzODMyXX0=
+eyJoaXN0b3J5IjpbLTIxMTE1MjU0NjIsMTk2NjIzMzgzMl19
 -->
