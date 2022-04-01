@@ -16,7 +16,13 @@ fonda poi il movimento dei fasci e delle corporazioni
 1920: biennio rosso
 
 1917: ammnno importante
-* rivolu
+* rivoluzione in russia
+* ingresso USA in WWI
+Fattori:
+	* Gli USA stavano prestando molto denaro a francia e GB e se fossero state sconfittesarebbe stato difficile riprendersi i fondi
+		* principi liberali
+		* democrazia
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIyMTkzNjgsMTk2NjIzMzgzMl19
+eyJoaXN0b3J5IjpbLTEzNTIzNjEyMiwxOTY2MjMzODMyXX0=
 -->
