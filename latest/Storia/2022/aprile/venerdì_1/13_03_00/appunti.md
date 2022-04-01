@@ -130,6 +130,13 @@ malcontento
 
 
 riconversione industriale
+
+produzione civile ridotta rispetto a quella militare 
+
+fabbriche chiudon
+
+biennio rosso: forte proteste operaio e condadini (1918-1920)
+migliaia di operazioni di sciopero
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NjM1NzI2LDE5NjYyMzM4MzJdfQ==
+eyJoaXN0b3J5IjpbLTIwOTgzNDQxNywxOTY2MjMzODMyXX0=
 -->
