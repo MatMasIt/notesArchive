@@ -60,8 +60,10 @@ Bruno si affida a Freud stesso
 
 malattia congeniale alla vita stessa
 
-narratore esterno omniscente ottocentesco                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+narratore esterno omniscente ottocentesco                       
+
+Umna Vita                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mjg1NDM3NCw5ODQzNjczMDYsMjA3MT
-Y1NDcyMSwyNzc5MTQ3MDVdfQ==
+eyJoaXN0b3J5IjpbNjY1MTE2MTI3LDEwNTI4NTQzNzQsOTg0Mz
+Y3MzA2LDIwNzE2NTQ3MjEsMjc3OTE0NzA1XX0=
 -->
