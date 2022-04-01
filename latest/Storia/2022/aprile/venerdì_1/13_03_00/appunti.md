@@ -177,6 +177,10 @@ Delegazione italiana a parigi vorrebeb ottenere oltre a trentino alto adige, fvg
 vorrebbe  avere sia Dalmazia che città di Fiume
 
 presidente Wilson aveva spinto il principio di _autodeterminazione_ dei popoli
+
+Wilson: non si può dare fiume agli italiani, circondata di slavi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjM3NTE5OCwxOTY2MjMzODMyXX0=
+eyJoaXN0b3J5IjpbMTIwMDMyNTM0LDE5NjYyMzM4MzJdfQ==
 -->
