@@ -21,6 +21,11 @@ lo fa come colpa, allora era ritenuta attività non produttiva
 ogni giorno scrive come se prendesse un medicinale
 
 incidente stradale
+
+
+nel 1925 montale incontra Svevo
+
+Svevo ha conosciuto Joyce agli inizi del 1900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc0MjQ4NjJdfQ==
+eyJoaXN0b3J5IjpbLTEwNjY3MDgyMThdfQ==
 -->
