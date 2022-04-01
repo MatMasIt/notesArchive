@@ -146,7 +146,14 @@ dopo la disfatta di caporetto Diaz aveva promesso la terra ai contadimi, arrivat
 
 non succede
 
+contadinni arrabbiati
+occupano terre degli operai
 
+inoltre problema dei reduci
+
+devono tornare alla vita civile
+
+difficile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTM1OTQwOSwxOTY2MjMzODMyXX0=
+eyJoaXN0b3J5IjpbLTEyMjI0MjE4NiwxOTY2MjMzODMyXX0=
 -->
