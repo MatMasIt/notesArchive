@@ -86,7 +86,18 @@ vicenda rivoluzione russa
 
 disfacimento imperi ed europa nuova 
 
-trattat
+trattati di pace firmati a Parigi nel 1919
+
+p 121
+
+Nuovi stati:
+cecosovacchia, autonomo, spaccatura imero asburgico
+
+austria si riduce a ben poca cosa
+
+ungheria indipendente
+
+ricostituita la Polonia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzEyNTI3NiwxOTY2MjMzODMyXX0=
+eyJoaXN0b3J5IjpbLTc4MjU5NTMxNSwxOTY2MjMzODMyXX0=
 -->
