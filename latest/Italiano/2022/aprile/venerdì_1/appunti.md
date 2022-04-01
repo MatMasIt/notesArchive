@@ -40,9 +40,9 @@ Nietsche, Schopenhauer etc
 
 in difesa del dilettante
 
-Machiavelli, Michelangelo,Benvenuto Ciellini
+Machiavelli, Michelangelo,Benvenuto Ciellini, Leon Battista Alberti
 
-arte senza ambizi
+arte senza ambizione di guadagno, ma arte in se
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg1NDAxODcsMjc3OTE0NzA1XX0=
+eyJoaXN0b3J5IjpbMTEyNDc1MzY1MCwyNzc5MTQ3MDVdfQ==
 -->
