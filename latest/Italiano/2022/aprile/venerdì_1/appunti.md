@@ -29,6 +29,10 @@ Svevo ha conosciuto Joyce agli inizi del 1900
 
 febbraio 1926
 
+dilettantismo
+
+frequenta biblioteca comunale di trieste
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI2NjU5NDRdfQ==
+eyJoaXN0b3J5IjpbMjc3OTE0NzA1XX0=
 -->
