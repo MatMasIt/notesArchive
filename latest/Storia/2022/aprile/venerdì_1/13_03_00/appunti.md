@@ -57,7 +57,15 @@ esercito italiano sempre più efficiente fino a vittoria del novembre 1918
 
 
 
-tentatitvi di contrffensiva 
+tentatitvi di contrffensiva tedeschi e austriaci del 1918 falliscono
+
+Nel 1918 lostato maggiore tedesco capisce che la guerra non si può più vincere
+
+tetativi di diplomazia irrealizzati
+
+disfatta germania e impero asbrgico nel novembre del 1918
+
+Guglielmo II sesc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1MTI3ODA5LDE5NjYyMzM4MzJdfQ==
+eyJoaXN0b3J5IjpbNDM4ODEzNzIxLDE5NjYyMzM4MzJdfQ==
 -->
