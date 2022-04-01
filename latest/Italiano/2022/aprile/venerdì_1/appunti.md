@@ -43,6 +43,11 @@ in difesa del dilettante
 Machiavelli, Michelangelo,Benvenuto Ciellini, Leon Battista Alberti
 
 arte senza ambizione di guadagno, ma arte in se
+
+
+Psicanalisi vista con diffidenza
+
+ironia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDc1MzY1MCwyNzc5MTQ3MDVdfQ==
+eyJoaXN0b3J5IjpbMjA3MTY1NDcyMSwyNzc5MTQ3MDVdfQ==
 -->
