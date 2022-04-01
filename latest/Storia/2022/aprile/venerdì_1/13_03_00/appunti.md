@@ -166,7 +166,12 @@ dal 1917 usa sono più restrittivi in processo immigrazione
 ## Situazione italiana
 p 209-213 
 
-vi
+vince guerra 4 nov 1918, armistizio con impero asburgico
+
+festa forze armate
+
+legge introduce obbligo per ogni comune di avere monumento ai caduti
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzU2NTY3OCwxOTY2MjMzODMyXX0=
+eyJoaXN0b3J5IjpbLTE3MjE0MzUyMTEsMTk2NjIzMzgzMl19
 -->
