@@ -58,8 +58,10 @@ spese vertiginose e risultato 0
 
 Bruno si affida a Freud stesso
 
+malattia congeniale alla vita stessa
 
+narratore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDgzODk0MDYsOTg0MzY3MzA2LDIwNz
-E2NTQ3MjEsMjc3OTE0NzA1XX0=
+eyJoaXN0b3J5IjpbMTU0MDk4MTcyMSw5ODQzNjczMDYsMjA3MT
+Y1NDcyMSwyNzc5MTQ3MDVdfQ==
 -->
