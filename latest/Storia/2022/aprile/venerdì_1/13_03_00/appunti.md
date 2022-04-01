@@ -34,7 +34,19 @@ fine impegno impegno russo ha effetto sul fronte meridionale italo austriaco
 
 disimpegno soldati austrici da conflitto con la russia
 
+notte 23-24 ottobre 1917 
+disfatta di Caporetto
 
+incursione di truppe austriache, attacco alle spalle truppe italiane
+
+arretramento enorme
+centinaia di Km
+
+tutto il friuli
+
+masse di italiani sono emigrati in italia e non furono ben accolti
+
+linea del pia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODIyNjIxOCwxOTY2MjMzODMyXX0=
+eyJoaXN0b3J5IjpbODY2MjU5MjQ0LDE5NjYyMzM4MzJdfQ==
 -->
