@@ -29,6 +29,12 @@ Paesi accostabili
 	anche navi mercantili USA
 	insicurezza sui mari addebitabile alla germania
 non tanto uomini ma fondi e armamenti USA fanno la differenza
+
+fine impegno impegno russo ha effetto sul fronte meridionale italo austriaco
+
+disimpegno soldati austrici da conflitto con la russia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjQ2MTYyMywxOTY2MjMzODMyXX0=
+eyJoaXN0b3J5IjpbMTQzODIyNjIxOCwxOTY2MjMzODMyXX0=
 -->
