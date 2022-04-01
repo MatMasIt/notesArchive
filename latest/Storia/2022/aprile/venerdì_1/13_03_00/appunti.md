@@ -22,7 +22,8 @@ Fattori:
 	* Gli USA stavano prestando molto denaro a francia e GB e se fossero state sconfittesarebbe stato difficile riprendersi i fondi
 		* principi liberali
 		* democrazia
-
+Paesi accostabili
+	* la germania deve scrollarsi di dosso il blocco navale inglese che impedisce afflusso materie prime
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTIzNjEyMiwxOTY2MjMzODMyXX0=
+eyJoaXN0b3J5IjpbNzUyMDQxOTEzLDE5NjYyMzM4MzJdfQ==
 -->
