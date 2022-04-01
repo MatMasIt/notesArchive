@@ -101,10 +101,16 @@ ricostituita la Polonia
 
 punire la germania, obiettivo trattati
 
-germania in di
+germania in difficoltà
+
+affermazione USA
 
 
-WWI
+riconversione industriale necessariaù
+
+Situazione difficile
+
+crescita inflazio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE1MjU0NjIsMTk2NjIzMzgzMl19
+eyJoaXN0b3J5IjpbNjEyMTg4MjE5LDE5NjYyMzM4MzJdfQ==
 -->
