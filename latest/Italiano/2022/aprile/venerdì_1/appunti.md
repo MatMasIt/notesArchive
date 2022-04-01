@@ -36,7 +36,13 @@ frequenta biblioteca comunale di trieste
 
 legge scritti dei grandi del pensiero 
 
-Nietsche, 
+Nietsche, Schopenhauer etc
+
+in difesa del dilettante
+
+Machiavelli, Michelangelo,Benvenuto Ciellini
+
+arte senza ambizi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwMzYwNjM5LDI3NzkxNDcwNV19
+eyJoaXN0b3J5IjpbLTIwMTg1NDAxODcsMjc3OTE0NzA1XX0=
 -->
