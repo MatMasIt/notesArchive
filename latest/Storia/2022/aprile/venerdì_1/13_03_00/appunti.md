@@ -65,7 +65,28 @@ tetativi di diplomazia irrealizzati
 
 disfatta germania e impero asbrgico nel novembre del 1918
 
-Guglielmo II sesc
+Guglielmo II sesce di scena 
+
+caduta del II reich
+
+crolla monarchia
+
+governo provvisorio
+
+assetto repubblicano
+
+
+nell'impero asburgico la monarchia decade e l'austria si avvia alla repubblica
+
+impero zarista estromesso
+
+nel 1920 impero ottomano crolla e diventa una repubblica
+
+vicenda rivoluzione russa
+
+disfacimento imperi ed europa nuova 
+
+trattat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4ODEzNzIxLDE5NjYyMzM4MzJdfQ==
+eyJoaXN0b3J5IjpbLTI5MzEyNTI3NiwxOTY2MjMzODMyXX0=
 -->
