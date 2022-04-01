@@ -46,7 +46,18 @@ tutto il friuli
 
 masse di italiani sono emigrati in italia e non furono ben accolti
 
-linea del pia
+linea del piave
+
+Gen Cadorna sostituito dal gen. Armando Diaz
+
+guerra di riconquista, ci si giocava tutto e la patria (gravemente offesa)
+
+esercito italiano sempre più efficiente fino a vittoria del novembre 1918
+
+
+
+
+tentatitvi di contrffensiva 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2MjU5MjQ0LDE5NjYyMzM4MzJdfQ==
+eyJoaXN0b3J5IjpbNjE1MTI3ODA5LDE5NjYyMzM4MzJdfQ==
 -->
