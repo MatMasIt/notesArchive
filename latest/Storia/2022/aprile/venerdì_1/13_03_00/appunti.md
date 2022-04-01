@@ -124,6 +124,12 @@ p.157
 impoverimento di chi ha salari fissi
 
 potere d'acquisto si riduce
+
+malcontento
+
+
+
+riconversione industriale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM0ODAyMjQsMTk2NjIzMzgzMl19
+eyJoaXN0b3J5IjpbMjI5NjM1NzI2LDE5NjYyMzM4MzJdfQ==
 -->
