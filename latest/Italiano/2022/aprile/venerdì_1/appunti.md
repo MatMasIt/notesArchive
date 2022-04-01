@@ -62,8 +62,9 @@ malattia congeniale alla vita stessa
 
 narratore esterno omniscente ottocentesco                       
 
-Umna Vita                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+Una Vita                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1MTE2MTI3LDEwNTI4NTQzNzQsOTg0Mz
-Y3MzA2LDIwNzE2NTQ3MjEsMjc3OTE0NzA1XX0=
+eyJoaXN0b3J5IjpbMTU4MTA4NzcxNCw2NjUxMTYxMjcsMTA1Mj
+g1NDM3NCw5ODQzNjczMDYsMjA3MTY1NDcyMSwyNzc5MTQ3MDVd
+fQ==
 -->
