@@ -137,6 +137,16 @@ fabbriche chiudon
 
 biennio rosso: forte proteste operaio e condadini (1918-1920)
 migliaia di operazioni di sciopero
+
+condizioni di lavoro più umane richieste
+
+
+
+dopo la disfatta di caporetto Diaz aveva promesso la terra ai contadimi, arrivati a casa avrebbero avuto un pezzo di terra
+
+non succede
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTgzNDQxNywxOTY2MjMzODMyXX0=
+eyJoaXN0b3J5IjpbMTY0NTM1OTQwOSwxOTY2MjMzODMyXX0=
 -->
