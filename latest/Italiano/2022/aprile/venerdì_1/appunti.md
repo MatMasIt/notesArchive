@@ -48,6 +48,12 @@ arte senza ambizione di guadagno, ma arte in se
 Psicanalisi vista con diffidenza
 
 ironia
+
+Svevo:
+Freud più utile pr i letterati che gli ammalati
+cognato bruno con disturbi psichici non ne trae  beneficio
+inconstro con freud
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTY1NDcyMSwyNzc5MTQ3MDVdfQ==
+eyJoaXN0b3J5IjpbOTg0MzY3MzA2LDIwNzE2NTQ3MjEsMjc3OT
+E0NzA1XX0=
 -->
