@@ -172,6 +172,11 @@ festa forze armate
 
 legge introduce obbligo per ogni comune di avere monumento ai caduti
 
+Delegazione italiana a parigi vorrebeb ottenere oltre a trentino alto adige, fvg e istria
+
+vorrebbe  avere sia Dalmazia che città di Fiume
+
+presidente Wilson aveva spinto il principio di _autodeterminazione_ dei popoli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE0MzUyMTEsMTk2NjIzMzgzMl19
+eyJoaXN0b3J5IjpbMTk0MjM3NTE5OCwxOTY2MjMzODMyXX0=
 -->
