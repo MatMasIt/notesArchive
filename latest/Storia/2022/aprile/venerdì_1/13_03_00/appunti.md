@@ -114,7 +114,16 @@ crescita inflazione
 
 causato dalla presenza di molta moneta, che si era prodotta per avere le risorse per pagare il costo delle guerre
 
-valo
+valore economico effettivo non combacia
+
+valore moneta si riduce e il prezzo dei beni sale
+
+p.157
+
+
+impoverimento di chi ha salari fissi
+
+potere d'acquisto si riduce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzY3ODczOTEsMTk2NjIzMzgzMl19
+eyJoaXN0b3J5IjpbLTE0MDM0ODAyMjQsMTk2NjIzMzgzMl19
 -->
