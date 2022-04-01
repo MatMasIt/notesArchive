@@ -110,7 +110,11 @@ riconversione industriale necessariaù
 
 Situazione difficile
 
-crescita inflazio
+crescita inflazione
+
+causato dalla presenza di molta moneta, che si era prodotta per avere le risorse per pagare il costo delle guerre
+
+valo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMTg4MjE5LDE5NjYyMzM4MzJdfQ==
+eyJoaXN0b3J5IjpbLTEwNzY3ODczOTEsMTk2NjIzMzgzMl19
 -->
