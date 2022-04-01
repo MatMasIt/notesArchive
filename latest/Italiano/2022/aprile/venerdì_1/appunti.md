@@ -54,8 +54,12 @@ Freud più utile pr i letterati che gli ammalati
 cognato bruno con disturbi psichici non ne trae  beneficio
 inconstro con freud
 
-spese 
+spese vertiginose e risultato 0
+
+Bruno si affida a Freud stesso
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQwNTQ3ODQsOTg0MzY3MzA2LDIwNz
+eyJoaXN0b3J5IjpbLTE4NDgzODk0MDYsOTg0MzY3MzA2LDIwNz
 E2NTQ3MjEsMjc3OTE0NzA1XX0=
 -->
