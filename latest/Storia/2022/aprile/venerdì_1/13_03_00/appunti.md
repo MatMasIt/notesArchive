@@ -159,7 +159,14 @@ grande industria ha guadagnato
 
 FIAT passa da 4300 a 30000 dipendenti
 
+divario nord-sud incrementato
 
+dal 1917 usa sono più restrittivi in processo immigrazione
+
+## Situazione italiana
+p 209-213 
+
+vi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDg1MjExNzYsMTk2NjIzMzgzMl19
+eyJoaXN0b3J5IjpbLTgxNzU2NTY3OCwxOTY2MjMzODMyXX0=
 -->
