@@ -53,7 +53,9 @@ Svevo:
 Freud più utile pr i letterati che gli ammalati
 cognato bruno con disturbi psichici non ne trae  beneficio
 inconstro con freud
+
+spese 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0MzY3MzA2LDIwNzE2NTQ3MjEsMjc3OT
-E0NzA1XX0=
+eyJoaXN0b3J5IjpbLTE1ODQwNTQ3ODQsOTg0MzY3MzA2LDIwNz
+E2NTQ3MjEsMjc3OTE0NzA1XX0=
 -->
