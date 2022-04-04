@@ -17,6 +17,13 @@ artista per l''affermazzione di un nuovo tipo di arte contro la società borghes
 bollato come "artista degenerato" dal regime hitleriano
 
 Teoria del colore
+
+
+"composizione", titolo delle opere a tema musicale
+
+forma lontana dalla materia, ma forma che sa parlare all'anima
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM2NDM2NzddfQ==
+eyJoaXN0b3J5IjpbMTk3Mjc1MTYyXX0=
 -->
