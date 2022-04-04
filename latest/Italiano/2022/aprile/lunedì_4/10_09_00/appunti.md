@@ -114,14 +114,14 @@ Angiolina, ragazza di facili costumi
 
 Emilio vuole rapporto senza impegno
 
-Quadrilatero
+Triangolo
 
 * Amalia (sorella emilio)
 * Emilio Brentani
 * Scultore Stefano Balli
 
-n suicidio, ma ritirata
+non suicidio, ma ritirata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzkzMTU3MDMsMTYyMDU5MjkwNiwtMT
-cxOTc1NDQ5NV19
+eyJoaXN0b3J5IjpbMjA2NDgwOTc2MiwxNjIwNTkyOTA2LC0xNz
+E5NzU0NDk1XX0=
 -->
