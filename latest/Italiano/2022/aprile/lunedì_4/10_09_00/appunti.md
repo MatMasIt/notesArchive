@@ -96,9 +96,12 @@ analisi sul tema della inettitudine
 
 p.287
 ## Senilità
+ Suicidio
 
-Alfonso si suicida
+legame morboso con il genitore
+
+Emilio 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQyMTM4NTAsMTYyMDU5MjkwNiwtMT
-cxOTc1NDQ5NV19
+eyJoaXN0b3J5IjpbLTgwMzI2MzA3MCwxNjIwNTkyOTA2LC0xNz
+E5NzU0NDk1XX0=
 -->
