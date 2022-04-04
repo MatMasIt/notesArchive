@@ -64,6 +64,16 @@ francesi fermano tedeschi sul fiume Marna
 
 
 non più guerra di movimento, ma di trincea, di posizione
+
+
+I soldati devono occupare
+
+occorre rendere innoffensivi i nemici
+
+Guerra immobile
+
+
+innovao
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExNDcxMzEwLC0yMzk5NjQ4MF19
+eyJoaXN0b3J5IjpbOTgwMjQ4NzYyLC0yMzk5NjQ4MF19
 -->
