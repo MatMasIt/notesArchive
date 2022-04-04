@@ -26,6 +26,18 @@ the portrait is a witness to his spiritual corruption
 
 
 he stab the portrait but he dies while the portrait survives
+
+his servants will not recognize him
+
+old, ugly, wrinkled
+
+the rings are the same 
+
+the portrait returns to his original beauty
+
+
+reversal of roles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzQ2NTI2NCwtMTEzMDA3MjI0Nl19
+eyJoaXN0b3J5IjpbLTE2ODIzMDExNDEsLTExMzAwNzIyNDZdfQ
+==
 -->
