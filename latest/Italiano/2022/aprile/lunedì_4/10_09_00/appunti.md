@@ -63,9 +63,12 @@ p.301 302
 
 fissare qualcosa del flusso dissolventesi della coscienza
 
-fluire dinamico
+fluire dinamico del tempo
 
-non è misurabile per il 
+non è misurabile per il soggetto
+
+Marcel Prost, _La ricerca del tempo perduto_(FR)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1NTk5NjM1LC0xNzE5NzU0NDk1XX0=
+eyJoaXN0b3J5IjpbMTQ2NzkzNjk2OSwtMTcxOTc1NDQ5NV19
 -->
