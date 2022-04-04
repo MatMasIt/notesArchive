@@ -183,9 +183,11 @@ malattia difficile da codificare
 Freud si occupa della nevrosi e poi delle pulsioni
 
 
-preconscio: contenuti che potrebbero diventare consci perchè on ostacolati dalla nos
+preconscio: contenuti che potrebbero diventare consci perchè on ostacolati dalla nostra coscienza vigile
+
+inconscio; luogo della rimozione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMjAyNDY1LDE3NDMzNjkwNjEsLTExMT
-gyOTE1MiwxNzYwODAwOTgzLDc3Mzg5NTg1MSwtODUwNDE2OTcz
-LDE2MjA1OTI5MDYsLTE3MTk3NTQ0OTVdfQ==
+eyJoaXN0b3J5IjpbLTk2MjYwOTIyMSwxNzQzMzY5MDYxLC0xMT
+E4MjkxNTIsMTc2MDgwMDk4Myw3NzM4OTU4NTEsLTg1MDQxNjk3
+MywxNjIwNTkyOTA2LC0xNzE5NzU0NDk1XX0=
 -->
