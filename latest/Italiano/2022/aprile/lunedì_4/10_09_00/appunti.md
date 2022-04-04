@@ -169,9 +169,13 @@ non era prassi far scrivere il paziente: gli studiosi arricceranno il naso a tan
 
 --- 
 
-Zeno compra trattato
+Zeno compra trattato di psicanalisi
+
+Scettico
+
+locomotiva che sbuffa: respiro affannoso del padre morente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODMxODg2OCwtMTExODI5MTUyLDE3Nj
+eyJoaXN0b3J5IjpbMTc0MzM2OTA2MSwtMTExODI5MTUyLDE3Nj
 A4MDA5ODMsNzczODk1ODUxLC04NTA0MTY5NzMsMTYyMDU5Mjkw
 NiwtMTcxOTc1NDQ5NV19
 -->
