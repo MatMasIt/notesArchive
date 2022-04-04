@@ -144,9 +144,12 @@ sconfinamento tra malattia e sanità
 
 Novità del romanzo?
 
+
+==Informazioni _**si ne qua non**_==
 Impianto:
-* romanzo memoriale
+* romanzo memoriale scritto sotto consiglio dello psicanalista e pubblicato
+* lo psicanalista si vuole vendicare delal sospensione della terapia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODk0NjU5OCwtODUwNDE2OTczLDE2Mj
-A1OTI5MDYsLTE3MTk3NTQ0OTVdfQ==
+eyJoaXN0b3J5IjpbNzczODk1ODUxLC04NTA0MTY5NzMsMTYyMD
+U5MjkwNiwtMTcxOTc1NDQ5NV19
 -->
