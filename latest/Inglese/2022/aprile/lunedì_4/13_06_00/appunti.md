@@ -72,7 +72,11 @@ the essence of life is only beauty
 the only tning that matters in life is beauty
 
 beauty is the only thing being pursued
+
+shallow: superficial
+
+paradox: normally superficial people judge according to appearances
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4OTA2MzIzLC0xMTczNTg5OTMxLDE2ND
-QyNDY0NTcsLTExMzAwNzIyNDZdfQ==
+eyJoaXN0b3J5IjpbLTE1MjMwMDM4MDIsMzM4OTA2MzIzLC0xMT
+czNTg5OTMxLDE2NDQyNDY0NTcsLTExMzAwNzIyNDZdfQ==
 -->
