@@ -58,8 +58,10 @@ beauty now, vs future sad
 
 present of youth and beauty, vs future of aging and uglyness
 
+beauty is a form of geious
 
+beauty is higher than genious istelf, needs no explanation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4ODU2MDU5LDE2NDQyNDY0NTcsLTExMz
-AwNzIyNDZdfQ==
+eyJoaXN0b3J5IjpbLTEzMjY2OTU3MDcsMTY0NDI0NjQ1NywtMT
+EzMDA3MjI0Nl19
 -->
