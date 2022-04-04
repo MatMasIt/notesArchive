@@ -186,8 +186,10 @@ Freud si occupa della nevrosi e poi delle pulsioni
 preconscio: contenuti che potrebbero diventare consci perchè on ostacolati dalla nostra coscienza vigile
 
 inconscio; luogo della rimozione
+
+Lapsus freudiano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjYwOTIyMSwxNzQzMzY5MDYxLC0xMT
+eyJoaXN0b3J5IjpbLTg2Mzk2NjI0MCwxNzQzMzY5MDYxLC0xMT
 E4MjkxNTIsMTc2MDgwMDk4Myw3NzM4OTU4NTEsLTg1MDQxNjk3
 MywxNjIwNTkyOTA2LC0xNzE5NzU0NDk1XX0=
 -->
