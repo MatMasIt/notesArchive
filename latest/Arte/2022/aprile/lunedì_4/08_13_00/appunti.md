@@ -30,7 +30,14 @@ acquerelli p.1126
 
 impressione 5
 
-la trama cro
+la trama cromatica
+
+
+Bauhaus
+design
+
+p.1129
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODkwMjg2OF19
+eyJoaXN0b3J5IjpbNjAxOTMxODc3XX0=
 -->
