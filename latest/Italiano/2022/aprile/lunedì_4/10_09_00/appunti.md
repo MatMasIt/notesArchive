@@ -157,8 +157,10 @@ Impianto:
 Antipatia
 
 p.303
+
+trans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyNjU0Nzk1LDE3NjA4MDA5ODMsNzczOD
+eyJoaXN0b3J5IjpbNzA0Nzc3NDQ1LDE3NjA4MDA5ODMsNzczOD
 k1ODUxLC04NTA0MTY5NzMsMTYyMDU5MjkwNiwtMTcxOTc1NDQ5
 NV19
 -->
