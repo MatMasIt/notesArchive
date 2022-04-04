@@ -79,8 +79,10 @@ paradox: normally superficial people judge according to appearances
 
 the only meter of evaluation is beauty and appearances
 
-when you judge things according to the superficali
+when you judge things according to the superficality you are refined
+
+if you judge according to the meaning, you are superficial
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDA0MDQzMywzMzg5MDYzMjMsLTExNz
-M1ODk5MzEsMTY0NDI0NjQ1NywtMTEzMDA3MjI0Nl19
+eyJoaXN0b3J5IjpbMjE1MTcwMDgyLDMzODkwNjMyMywtMTE3Mz
+U4OTkzMSwxNjQ0MjQ2NDU3LC0xMTMwMDcyMjQ2XX0=
 -->
