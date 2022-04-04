@@ -146,9 +146,9 @@ In italia:
 				* FVG
 			* liberare terre dallo straniero, abitate da italiani
 * Industriali
-	* Ok neutralismo per vendere armi a tutte le altre potenze
+	* Ok neutralismo per vendere armi a tutte le altre potenze 
 	* Ok guerra perchè ricevono commesse statali per sforzo bellico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQ5NTUxODgsLTExMjExOTQzMzUsLT
-IzOTk2NDgwXX0=
+eyJoaXN0b3J5IjpbMTMyMzQ1NTAzOCwtMTEyMTE5NDMzNSwtMj
+M5OTY0ODBdfQ==
 -->
