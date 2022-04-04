@@ -23,7 +23,14 @@ Teoria del colore
 
 forma lontana dalla materia, ma forma che sa parlare all'anima
 
+p.1122
 
+
+acquerelli p.1126
+
+impressione 5
+
+la trama cro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mjc1MTYyXX0=
+eyJoaXN0b3J5IjpbMTc5ODkwMjg2OF19
 -->
