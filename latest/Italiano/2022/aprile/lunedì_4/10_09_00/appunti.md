@@ -44,7 +44,11 @@ Legge freud e traduce una sinossi
 
 Edoardo Weiss era il principale psicoterapeuta feudiano a firenze
 
-Cugino Bruno, Chimico e Violinista, con forti disturb
+Cugino Bruno, Chimico e Violinista, con forti disturbi non trae giovamento 
+
+primi romanzi poco noti che rimangono in magazzino
+
+pagati a sue spese
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3NDMwMjI5XX0=
+eyJoaXN0b3J5IjpbLTE3MTk3NTQ0OTVdfQ==
 -->
