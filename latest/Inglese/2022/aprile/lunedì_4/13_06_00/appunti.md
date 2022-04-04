@@ -63,7 +63,10 @@ beauty is a form of geious
 beauty is higher than genious istelf, needs no explaination
 
 herny wotton is claiming that beauty is better than genious, needs no explaination
+
+
+beaurt 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM1ODk5MzEsMTY0NDI0NjQ1NywtMT
-EzMDA3MjI0Nl19
+eyJoaXN0b3J5IjpbLTE3NDg0OTcyMzQsLTExNzM1ODk5MzEsMT
+Y0NDI0NjQ1NywtMTEzMDA3MjI0Nl19
 -->
