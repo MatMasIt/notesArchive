@@ -108,10 +108,14 @@ In italia:
 			* sia con
 				* Pio X
 				* Benedetto XV
-	* Li
+	* Liberali
+		* guidati da Giolitti, che pensava di entrare di nuovo al governo
+		* al momento Salandra (liberale conservatore) è al governo
+		* Giolitti ha visto che l'italia ha visto le difficoltà dell'esercito italiano e pensa che l'italia non sia pronta per entrare in una guerra con el maggiori potenze del mondo
+			* Converrbbe
 * interventisti
 	* a favore intervento con intesa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjY0NjMwMCwtMTEyMTE5NDMzNSwtMj
+eyJoaXN0b3J5IjpbLTU2NDA1MjM1MSwtMTEyMTE5NDMzNSwtMj
 M5OTY0ODBdfQ==
 -->
