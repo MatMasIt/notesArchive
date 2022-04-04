@@ -83,7 +83,7 @@ intetto a vivere
 analisi sul tema della inettitudine 
 
 
-Clia fervido mitteleuropa
+## Clima fervido mitteleuropa
 * Ludwig Wittnestein
 * Schonberg
 * Loos
@@ -93,7 +93,10 @@ Clia fervido mitteleuropa
 * Kafka
 * Italo Svevo 
 * Roth
+
+p.287
+## Senilità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Nzg1ODcxNiwxNjIwNTkyOTA2LC0xNz
+eyJoaXN0b3J5IjpbMTAwNDUyNjU0OCwxNjIwNTkyOTA2LC0xNz
 E5NzU0NDk1XX0=
 -->
