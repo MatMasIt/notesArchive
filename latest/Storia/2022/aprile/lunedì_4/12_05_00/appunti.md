@@ -117,8 +117,9 @@ In italia:
 * interventisti
 	* a favore intervento con intesa
 	* destra
+		* naz
 	* sinistra
-		* Sindacalisti rivoluzionari
+		* Sindacalisti rivoluzionari (==Benito Mussolini==)
 			* pensano che i sistemi politici europei saranno così sconquassati da creare le condizioni per la rivoluzione del proletariato
 			* questa diventa l'opinione di **Benito Mussolini**
 				* non riesce a stare fermo e non intervenire
@@ -128,8 +129,13 @@ In italia:
 							* francesi
 							* inglesi
 		* Intervenisti democratici (==Gaetano Salvemini==)
-			* bisogna evitare che i p
+			* bisogna evitare che i regimi autoritari impongano il loro potere in europa
+		* Interventisti
+			* occorre liberare
+				* trentino
+				* FVG
+			* liberare terre dallo straniero, abitate da italiani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODg0NTg4MiwtMTEyMTE5NDMzNSwtMj
-M5OTY0ODBdfQ==
+eyJoaXN0b3J5IjpbMTI4NzY5NTAsLTExMjExOTQzMzUsLTIzOT
+k2NDgwXX0=
 -->
