@@ -83,6 +83,9 @@ p.102-103
 	* Suscettibili a direzioni del vento
 		* Machere anti gas
 * carri armati
+* sottomarini
+	* Transatantico USA Lusitania, affondato dai tedeschi nel 1914
+	* Uso indiscriminato da aprte dei tedeschi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQzNzg5OSwtMjM5OTY0ODBdfQ==
+eyJoaXN0b3J5IjpbNjA2OTgyNTU3LC0yMzk5NjQ4MF19
 -->
