@@ -99,7 +99,7 @@ Occorre
 
 
 In italia:
-* neutralisti
+* neutralisti (maggior parte della popolazione)
 	* socialisti (contro interessi della borghesia)
 		* Benito Mussolini direttore della rivista _Avanti!_
 	* Cattolici
@@ -112,10 +112,14 @@ In italia:
 		* guidati da Giolitti, che pensava di entrare di nuovo al governo
 		* al momento Salandra (liberale conservatore) è al governo
 		* Giolitti ha visto che l'italia ha visto le difficoltà dell'esercito italiano e pensa che l'italia non sia pronta per entrare in una guerra con el maggiori potenze del mondo
-			* Converrbbe
+			* Converrbbe provare a negoziare la propria neutralità
+				* con austria: non si interviene se cede il friuli
 * interventisti
 	* a favore intervento con intesa
+	* destra
+	* sinistra
+		* Sindacalisti rivoluzionari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDA1MjM1MSwtMTEyMTE5NDMzNSwtMj
-M5OTY0ODBdfQ==
+eyJoaXN0b3J5IjpbLTY1NjY3ODMsLTExMjExOTQzMzUsLTIzOT
+k2NDgwXX0=
 -->
