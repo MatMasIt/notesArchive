@@ -38,7 +38,11 @@ the portrait returns to his original beauty
 
 reversal of roles
 
-dorian gra
+dorian gray and portrait: double side of victorian age, victorian compromise
+
+
+
+art survives people and is eternal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTk1NjczNCwtMTEzMDA3MjI0Nl19
+eyJoaXN0b3J5IjpbMTg3MjI2MDU1NiwtMTEzMDA3MjI0Nl19
 -->
