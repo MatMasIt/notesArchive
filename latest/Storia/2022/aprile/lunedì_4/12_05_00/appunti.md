@@ -127,7 +127,7 @@ In italia:
 		* Liberali di destra (==Salandra==)
 			* la guerra è una grande occasione per comprimere istanze sociali
 			* restaurazione del conservatorismo
-			* sostegno
+			* **Supporto della Monarchia e del Re**
 	* sinistra
 		* Sindacalisti rivoluzionari (==Benito Mussolini==)
 			* pensano che i sistemi politici europei saranno così sconquassati da creare le condizioni per la rivoluzione del proletariato
@@ -145,7 +145,10 @@ In italia:
 				* trentino
 				* FVG
 			* liberare terre dallo straniero, abitate da italiani
+* Industriali
+	* Ok neutralismo per vendere armi a tutte le altre potenze
+	* Ok guerra perchè ricevono commesse statali per sforzo bellico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2Mjc5MDIxOSwtMTEyMTE5NDMzNSwtMj
-M5OTY0ODBdfQ==
+eyJoaXN0b3J5IjpbLTE3MDQ5NTUxODgsLTExMjExOTQzMzUsLT
+IzOTk2NDgwXX0=
 -->
