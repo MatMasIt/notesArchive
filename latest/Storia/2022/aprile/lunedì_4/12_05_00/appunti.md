@@ -120,8 +120,12 @@ In italia:
 	* sinistra
 		* Sindacalisti rivoluzionari
 			* pensano che i sistemi politici europei saranno così sconquassati da creare le condizioni per la rivoluzione del proletariato
-			* questa diventa l'opinione 
+			* questa diventa l'opinione di **Benito Mussolini**
+				* non riesce a stare fermo e non intervenire
+				* viene espulso dal partito
+					* fonda il giornale _Il popolo d'Italia_
+						* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTkzNDgzNiwtMTEyMTE5NDMzNSwtMj
+eyJoaXN0b3J5IjpbMjAxNjM5MDgwMiwtMTEyMTE5NDMzNSwtMj
 M5OTY0ODBdfQ==
 -->
