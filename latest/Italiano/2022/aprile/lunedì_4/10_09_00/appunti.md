@@ -216,8 +216,17 @@ dubbio: riversa colpa sulla sigaretta?
 
 sigaretta = alibi? maybe
 
+ma se continuo a usaro ora?
+
+lettore coinvolto
+
+ermeneutica-
+
+Opera Aperta
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyMTc4Mzg0LC04NjM5NjYyNDAsMTc0Mz
-M2OTA2MSwtMTExODI5MTUyLDE3NjA4MDA5ODMsNzczODk1ODUx
-LC04NTA0MTY5NzMsMTYyMDU5MjkwNiwtMTcxOTc1NDQ5NV19
+eyJoaXN0b3J5IjpbLTg0NDY4OTE2MCw4ODIxNzgzODQsLTg2Mz
+k2NjI0MCwxNzQzMzY5MDYxLC0xMTE4MjkxNTIsMTc2MDgwMDk4
+Myw3NzM4OTU4NTEsLTg1MDQxNjk3MywxNjIwNTkyOTA2LC0xNz
+E5NzU0NDk1XX0=
 -->
