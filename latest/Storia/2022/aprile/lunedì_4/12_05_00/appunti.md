@@ -123,7 +123,11 @@ In italia:
 			* valori guerrieri
 			* l'importante è andare in guerra, non importa la parte
 		* futuristi (p.94)
-			* guerra è la sola igiene del mo
+			* guerra è la sola igiene del mondo
+		* Liberali di destra (==Salandra==)
+			* la guerra è una grande occasione per comprimere istanze sociali
+			* restaurazione del conservatorismo
+			* sostegno
 	* sinistra
 		* Sindacalisti rivoluzionari (==Benito Mussolini==)
 			* pensano che i sistemi politici europei saranno così sconquassati da creare le condizioni per la rivoluzione del proletariato
@@ -142,6 +146,6 @@ In italia:
 				* FVG
 			* liberare terre dallo straniero, abitate da italiani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE3ODcyNzAsLTExMjExOTQzMzUsLT
-IzOTk2NDgwXX0=
+eyJoaXN0b3J5IjpbLTU2Mjc5MDIxOSwtMTEyMTE5NDMzNSwtMj
+M5OTY0ODBdfQ==
 -->
