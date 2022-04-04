@@ -102,6 +102,8 @@ la madre avverte alfonso della differenza tra lui e le donne
 
 suicidio Alfonso
 
+Inetto per costituzione
+
 legame morboso con il genitore
 ## Senilità
  
@@ -124,8 +126,8 @@ non suicidio, ma ritirata
 
 Destino uomo: autoinganno, autogiustificazioni per ingannare dolori vita
 
-Zeno fa a meno della lotta della viva
+p.280 "Lottatori" e 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODMzNTY2OSwxNjIwNTkyOTA2LC0xNz
-E5NzU0NDk1XX0=
+eyJoaXN0b3J5IjpbLTExMzEzNzc4NDcsMTYyMDU5MjkwNiwtMT
+cxOTc1NDQ5NV19
 -->
