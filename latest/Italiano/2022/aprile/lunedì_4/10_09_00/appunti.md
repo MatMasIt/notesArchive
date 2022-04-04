@@ -136,7 +136,9 @@ la sua nevrosi
 confine tra malattia e salute
 
 i borghesi non sono sani
+
+Svevo: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTI1NzI2MSwtODUwNDE2OTczLDE2Mj
+eyJoaXN0b3J5IjpbLTMzNDkwMjU1MCwtODUwNDE2OTczLDE2Mj
 A1OTI5MDYsLTE3MTk3NTQ0OTVdfQ==
 -->
