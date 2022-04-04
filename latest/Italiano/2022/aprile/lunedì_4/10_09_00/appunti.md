@@ -174,8 +174,13 @@ Zeno compra trattato di psicanalisi
 Scettico
 
 locomotiva che sbuffa: respiro affannoso del padre morente
+
+Guarigione: stare meglio di coloro che sono malati
+
+
+malattia difficile da codificare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzM2OTA2MSwtMTExODI5MTUyLDE3Nj
-A4MDA5ODMsNzczODk1ODUxLC04NTA0MTY5NzMsMTYyMDU5Mjkw
-NiwtMTcxOTc1NDQ5NV19
+eyJoaXN0b3J5IjpbMTk3MjU4NDE5OSwxNzQzMzY5MDYxLC0xMT
+E4MjkxNTIsMTc2MDgwMDk4Myw3NzM4OTU4NTEsLTg1MDQxNjk3
+MywxNjIwNTkyOTA2LC0xNzE5NzU0NDk1XX0=
 -->
