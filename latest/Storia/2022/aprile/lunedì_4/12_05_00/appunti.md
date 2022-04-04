@@ -12,7 +12,14 @@ zar aveva solo mobilitato il suo esercito
 
 pesanti responsabilità della germania
 
-alleanze hanno trasformato guerra locale in mondial
+alleanze hanno trasformato guerra locale in mondiale
+
+4 agosto 1914 germania invade Belgio, violando neutralità per puntare a Parigi
+
+Gran Bretagna dichiara guerra alla germania il 4 di agosto
+
+
+6 agosto (diventerà famoso nel 1945 per Hiroshima)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4ODE1NDEyXX0=
+eyJoaXN0b3J5IjpbNTQxNjIxMzI4XX0=
 -->
