@@ -124,8 +124,12 @@ In italia:
 				* non riesce a stare fermo e non intervenire
 				* viene espulso dal partito
 					* fonda il giornale _Il popolo d'Italia_
-						* 
+						* finanziato da
+							* francesi
+							* inglesi
+		* Intervenisti democratici (==Gaetano Salvemini==)
+			* bisogna evitare che i p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjM5MDgwMiwtMTEyMTE5NDMzNSwtMj
+eyJoaXN0b3J5IjpbMTkyODg0NTg4MiwtMTEyMTE5NDMzNSwtMj
 M5OTY0ODBdfQ==
 -->
