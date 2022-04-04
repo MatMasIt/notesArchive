@@ -69,6 +69,16 @@ non è misurabile per il soggetto
 
 Marcel Prost, _La ricerca del tempo perduto_(FR)
 
+
+> ==Introspezione==
+_Intro_-_spicere_
+guardare dentro
+
+
+Il personaggio dei romanzi è un "uomo qualunque"
+
+medio borghese, impegato di conce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzkzNjk2OSwtMTcxOTc1NDQ5NV19
+eyJoaXN0b3J5IjpbLTE2MzE0NzUxNDAsLTE3MTk3NTQ0OTVdfQ
+==
 -->
