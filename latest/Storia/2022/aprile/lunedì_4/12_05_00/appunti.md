@@ -46,6 +46,16 @@ prima internazionale, 1864
 * Mazzini (all'inizio)
 
 morta nel '76 (Marxisti vs non-marxisti)
+
+poi seconda dall'89 al 14
+
+
+---
+
+
+dovere partiottico: sfuggire al conformismo della società civile
+
+p. 91
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTYyMzk0MF19
+eyJoaXN0b3J5IjpbLTIzOTk2NDgwXX0=
 -->
