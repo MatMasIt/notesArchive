@@ -45,6 +45,13 @@ solo colori primari
 alla fine pochissime forme e 3 colori primari
 
 neoplasticismo
+
+
+Adora colori
+
+colori piatti
+
+geometria: ricerca di un ritmo vitale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0NTA4NTA3XX0=
+eyJoaXN0b3J5IjpbMTU0MTIzMDczXX0=
 -->
