@@ -199,9 +199,12 @@ Il vizio del fumo ha a che fare con il rapporto paterno
 
 il medico proibisce di fumare
 
+è consapevole dei suoi falsi propositi
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzUzMjI0MiwtODYzOTY2MjQwLDE3ND
+eyJoaXN0b3J5IjpbLTY4ODUyMDM3NSwtODYzOTY2MjQwLDE3ND
 MzNjkwNjEsLTExMTgyOTE1MiwxNzYwODAwOTgzLDc3Mzg5NTg1
 MSwtODUwNDE2OTczLDE2MjA1OTI5MDYsLTE3MTk3NTQ0OTVdfQ
 ==
