@@ -43,6 +43,10 @@ dorian gray and portrait: double side of victorian age, victorian compromise
 
 
 art survives people and is eternal
+
+
+---
+wilde text1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjI2MDU1NiwtMTEzMDA3MjI0Nl19
+eyJoaXN0b3J5IjpbLTYzODA4NTM4NiwtMTEzMDA3MjI0Nl19
 -->
