@@ -54,8 +54,12 @@ Euology, panegiric of beauty and youth
 
 
 
-beaur
+beauty now, vs future sad 
+
+present of youth and beauty, vs future of aging and uglyness
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwNTI5MzE2LDE2NDQyNDY0NTcsLTExMz
+eyJoaXN0b3J5IjpbOTU4ODU2MDU5LDE2NDQyNDY0NTcsLTExMz
 AwNzIyNDZdfQ==
 -->
