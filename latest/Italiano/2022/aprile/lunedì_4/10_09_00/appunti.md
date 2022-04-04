@@ -152,8 +152,13 @@ Impianto:
 	* Zeno scrive a 57 anni e parla del passato
 * romanzo senza trama e vero e proprio viluppo, dlusso di coscienza
 * Narrazione contraddittoria, inattendibile, più prospettive di lettura dei fatti
-S
+
+
+Antipatia
+
+p.303
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDgwMDk4Myw3NzM4OTU4NTEsLTg1MD
-QxNjk3MywxNjIwNTkyOTA2LC0xNzE5NzU0NDk1XX0=
+eyJoaXN0b3J5IjpbNzEyNjU0Nzk1LDE3NjA4MDA5ODMsNzczOD
+k1ODUxLC04NTA0MTY5NzMsMTYyMDU5MjkwNiwtMTcxOTc1NDQ5
+NV19
 -->
