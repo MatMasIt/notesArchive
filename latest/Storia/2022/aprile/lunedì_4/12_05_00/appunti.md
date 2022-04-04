@@ -104,9 +104,14 @@ In italia:
 		* Benito Mussolini direttore della rivista _Avanti!_
 	* Cattolici
 		* pontefice ostile alla guerra
-	* interventisti
-		* a favore in
+			* anche perchè asburgici erano cattolici
+			* sia con
+				* Pio X
+				* Benedetto XV
+	* Li
+* interventisti
+	* a favore intervento con intesa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2ODkzNjAwLC0xMTIxMTk0MzM1LC0yMz
-k5NjQ4MF19
+eyJoaXN0b3J5IjpbLTg4NjY0NjMwMCwtMTEyMTE5NDMzNSwtMj
+M5OTY0ODBdfQ==
 -->
