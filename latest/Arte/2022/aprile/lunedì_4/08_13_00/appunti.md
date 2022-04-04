@@ -38,6 +38,13 @@ design
 
 p.1129
 
+mondrian
+
+solo colori primari
+
+alla fine pochissime forme e 3 colori primari
+
+neoplasticismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxOTMxODc3XX0=
+eyJoaXN0b3J5IjpbNzk0NTA4NTA3XX0=
 -->
