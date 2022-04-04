@@ -63,7 +63,7 @@ esercito tedesco non abbastanza rifornito logisticamente rispetto al'avanzata
 francesi fermano tedeschi sul fiume Marna
 
 
-non più guerra di movimento, ma di trincea, di posiziob
+non più guerra di movimento, ma di trincea, di posizione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzAyNTE3MSwtMjM5OTY0ODBdfQ==
+eyJoaXN0b3J5IjpbNDExNDcxMzEwLC0yMzk5NjQ4MF19
 -->
