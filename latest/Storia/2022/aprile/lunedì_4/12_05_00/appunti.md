@@ -119,7 +119,9 @@ In italia:
 	* destra
 	* sinistra
 		* Sindacalisti rivoluzionari
+			* pensano che i sistemi politici europei saranno così sconquassati da creare le condizioni per la rivoluzione del proletariato
+			* questa diventa l'opinione 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjY3ODMsLTExMjExOTQzMzUsLTIzOT
-k2NDgwXX0=
+eyJoaXN0b3J5IjpbMTIzNTkzNDgzNiwtMTEyMTE5NDMzNSwtMj
+M5OTY0ODBdfQ==
 -->
