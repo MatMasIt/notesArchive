@@ -101,8 +101,12 @@ Occorre
 In italia:
 * neutralisti
 	* socialisti (contro interessi della borghesia)
-	* Benito 
+		* Benito Mussolini direttore della rivista _Avanti!_
+	* Cattolici
+		* pontefice ostile alla guerra
+	* interventisti
+		* a favore in
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE5NjI3MDUsLTExMjExOTQzMzUsLT
-IzOTk2NDgwXX0=
+eyJoaXN0b3J5IjpbMzg2ODkzNjAwLC0xMTIxMTk0MzM1LC0yMz
+k5NjQ4MF19
 -->
