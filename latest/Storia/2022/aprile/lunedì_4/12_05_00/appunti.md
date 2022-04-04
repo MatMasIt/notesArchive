@@ -98,8 +98,11 @@ Occorre
 * intervento massiccio dello stato all'interno dell'economia
 
 
-In 
+In italia:
+* neutralisti
+	* socialisti (contro interessi della borghesia)
+	* Benito 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzM1NzUwNTgsLTExMjExOTQzMzUsLT
+eyJoaXN0b3J5IjpbLTE4MDE5NjI3MDUsLTExMjExOTQzMzUsLT
 IzOTk2NDgwXX0=
 -->
