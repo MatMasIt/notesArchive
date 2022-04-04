@@ -121,7 +121,11 @@ Triangolo
 * Scultore Stefano Balli
 
 non suicidio, ma ritirata
+
+Destino uomo: autoinganno, autogiustificazioni per ingannare dolori vita
+
+Zeno fa a meno della lotta della viva
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDgwOTc2MiwxNjIwNTkyOTA2LC0xNz
+eyJoaXN0b3J5IjpbLTEyODMzNTY2OSwxNjIwNTkyOTA2LC0xNz
 E5NzU0NDk1XX0=
 -->
