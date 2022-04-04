@@ -38,11 +38,14 @@ sconfitta dell'idea della lotta tra classi
 
 
 in quasi tutti i paesi 
+ i socialisti si schierano con lo stato
+tranne Italia e Russia
 
+prima internazionale, 1864
+* Marx
+* Mazzini (all'inizio)
 
-$$
-\Huge Italia \sp
-$$
+morta nel '76 (Marxisti vs non-marxisti)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2NTQ2MzY1XX0=
+eyJoaXN0b3J5IjpbMjA1OTYyMzk0MF19
 -->
