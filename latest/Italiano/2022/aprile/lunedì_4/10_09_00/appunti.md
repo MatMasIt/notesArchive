@@ -60,7 +60,12 @@ p. 278, 279
 scrivere quotidianamente è terapeutico
 
 p.301 302
+
+fissare qualcosa del flusso dissolventesi della coscienza
+
+fluire dinamico
+
+non è misurabile per il 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjA5OTY2MTAsLTE3MTk3NTQ0OTVdfQ
-==
+eyJoaXN0b3J5IjpbODg1NTk5NjM1LC0xNzE5NzU0NDk1XX0=
 -->
