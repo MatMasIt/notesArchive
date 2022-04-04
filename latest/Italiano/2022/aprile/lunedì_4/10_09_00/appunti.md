@@ -37,6 +37,14 @@ Letture Filosofiche:
 * Nietsche
 * Darwin
 * Socialistie Marxisti
+
+sdpo matrimonio diventa dirigente azienda vernici e va in inghilterra incontrando joyce
+
+Legge freud e traduce una sinossi
+
+Edoardo Weiss era il principale psicoterapeuta feudiano a firenze
+
+Cugino Bruno, Chimico e Violinista, con forti disturb
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1NDE3MjQ4XX0=
+eyJoaXN0b3J5IjpbOTM3NDMwMjI5XX0=
 -->
