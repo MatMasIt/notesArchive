@@ -26,7 +26,23 @@ poi entra il giappone
 
 20 milioni di morti
 
-opinione pubblica intossicata di nazionalism
+opinione pubblica intossicata di nazionalismo
+
+conflitto armato abbracciato
+
+esultanza partiottica
+
+si annullano distinzioni di classe, di partito, di idelogia per gli interessi del paese
+
+sconfitta dell'idea della lotta tra classi
+
+
+in quasi tutti i paesi 
+
+
+$$
+\Huge Italia \sp
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU3MDE1NjRdfQ==
+eyJoaXN0b3J5IjpbMzc2NTQ2MzY1XX0=
 -->
