@@ -130,7 +130,13 @@ p.280 "Lottatori" e "contemplatori", Schopenhauer
 
 
 Inettitudine di un inetto consapevole
+
+la sua nevrosi
+
+confine tra malattia e salute
+
+i borghesi non sono sani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE4MzAwNjksLTg1MDQxNjk3MywxNj
-IwNTkyOTA2LC0xNzE5NzU0NDk1XX0=
+eyJoaXN0b3J5IjpbMTkwNTI1NzI2MSwtODUwNDE2OTczLDE2Mj
+A1OTI5MDYsLTE3MTk3NTQ0OTVdfQ==
 -->
