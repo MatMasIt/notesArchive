@@ -85,7 +85,9 @@ p.102-103
 * carri armati
 * sottomarini
 	* Transatantico USA Lusitania, affondato dai tedeschi nel 1914
-	* Uso indiscriminato da aprte dei tedeschi
+	* Uso indiscriminato da parte dei tedeschi: grande problema per gli USA
+* Aerei non hanno avuto grandissima importanza
+	* un
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2OTgyNTU3LC0yMzk5NjQ4MF19
+eyJoaXN0b3J5IjpbMTgyNTczNzA2NCwtMjM5OTY0ODBdfQ==
 -->
