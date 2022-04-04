@@ -203,10 +203,19 @@ il medico proibisce di fumare
 
 
 studiava giurisprudenza
-fugge dal
+fugge dal diritto e arriva alla scienza
+e poi torna alla legge 
+
+Questioni di proprietà e diritto
+
+poco ioneo alla chimica
+
+adesso che è qui ad analizzarsi
+
+dubbio: riversa colpa sulla sigar
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTMxNTc4MSwtODYzOTY2MjQwLDE3ND
+eyJoaXN0b3J5IjpbLTM3MTg0ODk0MiwtODYzOTY2MjQwLDE3ND
 MzNjkwNjEsLTExMTgyOTE1MiwxNzYwODAwOTgzLDc3Mzg5NTg1
 MSwtODUwNDE2OTczLDE2MjA1OTI5MDYsLTE3MTk3NTQ0OTVdfQ
 ==
