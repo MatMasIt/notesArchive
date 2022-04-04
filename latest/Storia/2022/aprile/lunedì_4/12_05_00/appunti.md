@@ -117,7 +117,13 @@ In italia:
 * interventisti
 	* a favore intervento con intesa
 	* destra
-		* naz
+		* nazionalisti (nasce _Associazione Nazionale Italiana_ 1910)
+			* affermare grandezza e forza dell'italia
+			* molti poi aderiranno al fascismo
+			* valori guerrieri
+			* l'importante è andare in guerra, non importa la parte
+		* futuristi (p.94)
+			* guerra è la sola igiene del mo
 	* sinistra
 		* Sindacalisti rivoluzionari (==Benito Mussolini==)
 			* pensano che i sistemi politici europei saranno così sconquassati da creare le condizioni per la rivoluzione del proletariato
@@ -136,6 +142,6 @@ In italia:
 				* FVG
 			* liberare terre dallo straniero, abitate da italiani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzY5NTAsLTExMjExOTQzMzUsLTIzOT
-k2NDgwXX0=
+eyJoaXN0b3J5IjpbLTE1NTE3ODcyNzAsLTExMjExOTQzMzUsLT
+IzOTk2NDgwXX0=
 -->
