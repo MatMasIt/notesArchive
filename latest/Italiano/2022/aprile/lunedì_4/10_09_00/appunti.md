@@ -77,8 +77,10 @@ guardare dentro
 
 Il personaggio dei romanzi è un "uomo qualunque"
 
-medio borghese, impegato di conce
+medio borghese, impegato di concetto
+intetto a vivere
+
+analisi sul tema della inettitudine 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE0NzUxNDAsLTE3MTk3NTQ0OTVdfQ
-==
+eyJoaXN0b3J5IjpbMTYyMDU5MjkwNiwtMTcxOTc1NDQ5NV19
 -->
