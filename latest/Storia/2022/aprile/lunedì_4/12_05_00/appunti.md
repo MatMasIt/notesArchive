@@ -73,21 +73,26 @@ occorre rendere innoffensivi i nemici
 Guerra immobile
 
 
-innovazioni belliche:
+> innovazioni belliche:
 p.102-103
-
-* mitragliatrici esistono già dalla guerra di seccessione americana
-* armi chimiche:
-	* Come
-		* Iprite
-	* Suscettibili a direzioni del vento
-		* Machere anti gas
-* carri armati
-* sottomarini
-	* Transatantico USA Lusitania, affondato dai tedeschi nel 1914
-	* Uso indiscriminato da parte dei tedeschi: grande problema per gli USA
-* Aerei non hanno avuto grandissima importanza
+> * mitragliatrici esistono già dalla guerra di seccessione americana
+> * armi chimiche:
+> 	* Come
+> 		* Iprite
+> 	* Suscettibili a direzioni del vento
+> 		* Machere anti gas
+> * carri armati
+> * sottomarini
+> 	* Transatantico USA Lusitania, affondato dai tedeschi nel 1914
+> 	* Uso indiscriminato da parte dei tedeschi: grande problema per gli USA
+> * Aerei non hanno avuto grandissima importanza
 	* Funzione di ricognizione
+
+
+Occorre 
+* sforzo industriale enorme
+* attivare la propaganda per garantire la compatteza del fronte interno
+	* manifesti 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTMxMTI0MiwtMjM5OTY0ODBdfQ==
+eyJoaXN0b3J5IjpbLTE3MTAyODIzNzcsLTIzOTk2NDgwXX0=
 -->
