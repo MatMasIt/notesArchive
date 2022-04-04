@@ -57,8 +57,10 @@ p. 278, 279
 
 1928, _Profilo Autobiografico_
 
-scrivere quotidianamente è tera
+scrivere quotidianamente è terapeutico
+
+p.301 302
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY5OTQ4NzYsLTE3MTk3NTQ0OTVdfQ
+eyJoaXN0b3J5IjpbLTEyMjA5OTY2MTAsLTE3MTk3NTQ0OTVdfQ
 ==
 -->
