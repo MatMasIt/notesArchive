@@ -162,8 +162,11 @@ transfert
 
 quando le sedute di psicanalisi diventano molte
 investimento affettivo del paziente nei riguardi del terapeuta
+
+
+non era prassi far scrivere il paziente: gli studiosi arricceranno il naso a tanta novità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjUwOTc5OCwxNzYwODAwOTgzLDc3Mz
+eyJoaXN0b3J5IjpbLTExMTgyOTE1MiwxNzYwODAwOTgzLDc3Mz
 g5NTg1MSwtODUwNDE2OTczLDE2MjA1OTI5MDYsLTE3MTk3NTQ0
 OTVdfQ==
 -->
