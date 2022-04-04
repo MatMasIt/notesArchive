@@ -195,9 +195,14 @@ narrazione inattendibile
 
 p.306
 
+Il vizio del fumo ha a che fare con il rapporto paterno
+
+il medico proibisce di fumare
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTcyNjI4LC04NjM5NjYyNDAsMTc0Mz
-M2OTA2MSwtMTExODI5MTUyLDE3NjA4MDA5ODMsNzczODk1ODUx
-LC04NTA0MTY5NzMsMTYyMDU5MjkwNiwtMTcxOTc1NDQ5NV19
+eyJoaXN0b3J5IjpbMTYwMzUzMjI0MiwtODYzOTY2MjQwLDE3ND
+MzNjkwNjEsLTExMTgyOTE1MiwxNzYwODAwOTgzLDc3Mzg5NTg1
+MSwtODUwNDE2OTczLDE2MjA1OTI5MDYsLTE3MTk3NTQ0OTVdfQ
+==
 -->
