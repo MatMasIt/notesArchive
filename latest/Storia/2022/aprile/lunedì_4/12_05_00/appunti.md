@@ -57,7 +57,13 @@ dovere partiottico: sfuggire al conformismo della società civile
 
 p. 91
 
-esercito t
+esercito tedesco non abbastanza rifornito logisticamente rispetto al'avanzata
+
+
+francesi fermano tedeschi sul fiume Marna
+
+
+non più guerra di movimento, ma di trincea, di posiziob
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjY3NjEwOCwtMjM5OTY0ODBdfQ==
+eyJoaXN0b3J5IjpbLTE2NzAyNTE3MSwtMjM5OTY0ODBdfQ==
 -->
