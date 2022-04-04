@@ -148,8 +148,12 @@ Novità del romanzo?
 ==Informazioni _**si ne qua non**_==
 Impianto:
 * romanzo memoriale scritto sotto consiglio dello psicanalista e pubblicato
-* lo psicanalista si vuole vendicare delal sospensione della terapia
+	* lo psicanalista si vuole vendicare delal sospensione della terapia
+	* Zeno scrive a 57 anni e parla del passato
+* romanzo senza trama e vero e proprio viluppo, dlusso di coscienza
+* Narrazione contraddittoria, inattendibile, più prospettive di lettura dei fatti
+S
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczODk1ODUxLC04NTA0MTY5NzMsMTYyMD
-U5MjkwNiwtMTcxOTc1NDQ5NV19
+eyJoaXN0b3J5IjpbMTc2MDgwMDk4Myw3NzM4OTU4NTEsLTg1MD
+QxNjk3MywxNjIwNTkyOTA2LC0xNzE5NzU0NDk1XX0=
 -->
