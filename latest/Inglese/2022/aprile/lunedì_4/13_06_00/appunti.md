@@ -76,7 +76,11 @@ beauty is the only thing being pursued
 shallow: superficial
 
 paradox: normally superficial people judge according to appearances
+
+the only meter of evaluation is beauty and appearances
+
+when you judge things according to the superficali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjMwMDM4MDIsMzM4OTA2MzIzLC0xMT
-czNTg5OTMxLDE2NDQyNDY0NTcsLTExMzAwNzIyNDZdfQ==
+eyJoaXN0b3J5IjpbLTUxMDA0MDQzMywzMzg5MDYzMjMsLTExNz
+M1ODk5MzEsMTY0NDI0NjQ1NywtMTEzMDA3MjI0Nl19
 -->
