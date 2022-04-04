@@ -82,7 +82,18 @@ intetto a vivere
 
 analisi sul tema della inettitudine 
 
+
+Clia fervido mitteleuropa
+* Ludwig Wittnestein
+* Schonberg
+* Loos
+* Kokoscka
+* Musil
+* Schnitzler
+* Kafka
+* Italo Svevo 
+* Roth
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwMjM5OTI4LDE2MjA1OTI5MDYsLTE3MT
-k3NTQ0OTVdfQ==
+eyJoaXN0b3J5IjpbMTU3Nzg1ODcxNiwxNjIwNTkyOTA2LC0xNz
+E5NzU0NDk1XX0=
 -->
