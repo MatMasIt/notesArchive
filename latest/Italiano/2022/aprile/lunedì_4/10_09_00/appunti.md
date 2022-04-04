@@ -97,6 +97,9 @@ analisi sul tema della inettitudine
 p.287
 
 ---
+## Una vita
+la madre avverte alfonso della differenza tra lui e le donne
+
 suicidio Alfonso
 
 legame morboso con il genitore
@@ -107,8 +110,15 @@ Emilio Brettani impiegato piccolo-borghese
 
 scrittore di romanzi fallito
 
-Angiolina, ragazza di facili costum
+Angiolina, ragazza di facili costumi
+
+Emilio vuole rapporto senza impegno
+
+Quadrilatero
+
+* Amalia (sorella emilio)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjE3MTU1OSwxNjIwNTkyOTA2LC0xNz
-E5NzU0NDk1XX0=
+eyJoaXN0b3J5IjpbMTE2NjkyNjA3LDE2MjA1OTI5MDYsLTE3MT
+k3NTQ0OTVdfQ==
 -->
