@@ -158,9 +158,12 @@ Antipatia
 
 p.303
 
-trans
+transfert
+
+quando le sedute di psicanalisi diventano molte
+investimento affettivo del paziente nei riguardi del terapeuta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0Nzc3NDQ1LDE3NjA4MDA5ODMsNzczOD
-k1ODUxLC04NTA0MTY5NzMsMTYyMDU5MjkwNiwtMTcxOTc1NDQ5
-NV19
+eyJoaXN0b3J5IjpbLTMyNjUwOTc5OCwxNzYwODAwOTgzLDc3Mz
+g5NTg1MSwtODUwNDE2OTczLDE2MjA1OTI5MDYsLTE3MTk3NTQ0
+OTVdfQ==
 -->
