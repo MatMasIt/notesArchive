@@ -93,6 +93,9 @@ Occorre
 * sforzo industriale enorme
 * attivare la propaganda per garantire la compatteza del fronte interno
 	* manifesti 
+	* cartoline partiottiche
+	* prestiti allo stato
+* intervento massiccio dello stato all'interno dell'economia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTAyODIzNzcsLTIzOTk2NDgwXX0=
+eyJoaXN0b3J5IjpbLTExMjExOTQzMzUsLTIzOTk2NDgwXX0=
 -->
