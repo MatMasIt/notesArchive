@@ -70,7 +70,9 @@ beauty may be superficial, but it is not as superficial as beauty according to H
 the essence of life is only beauty
 
 the only tning that matters in life is beauty
+
+beauty is the only thing being pursued
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDkzNjAzMywtMTE3MzU4OTkzMSwxNj
-Q0MjQ2NDU3LC0xMTMwMDcyMjQ2XX0=
+eyJoaXN0b3J5IjpbMzM4OTA2MzIzLC0xMTczNTg5OTMxLDE2ND
+QyNDY0NTcsLTExMzAwNzIyNDZdfQ==
 -->
