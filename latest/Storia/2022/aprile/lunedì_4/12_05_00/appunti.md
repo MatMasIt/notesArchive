@@ -87,7 +87,7 @@ p.102-103
 	* Transatantico USA Lusitania, affondato dai tedeschi nel 1914
 	* Uso indiscriminato da parte dei tedeschi: grande problema per gli USA
 * Aerei non hanno avuto grandissima importanza
-	* un
+	* Funzione di ricognizione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTczNzA2NCwtMjM5OTY0ODBdfQ==
+eyJoaXN0b3J5IjpbLTk2MTMxMTI0MiwtMjM5OTY0ODBdfQ==
 -->
