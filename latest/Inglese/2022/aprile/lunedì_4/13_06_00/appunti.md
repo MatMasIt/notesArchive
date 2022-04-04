@@ -46,7 +46,13 @@ art survives people and is eternal
 
 
 ---
-wilde text1
+wilde text1.docx
+
+Lord Henry Woton
+
+Euology, panegiric of beauty and youth 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODA4NTM4NiwtMTEzMDA3MjI0Nl19
+eyJoaXN0b3J5IjpbMTY0NDI0NjQ1NywtMTEzMDA3MjI0Nl19
 -->
