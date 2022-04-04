@@ -137,8 +137,10 @@ confine tra malattia e salute
 
 i borghesi non sono sani
 
-Svevo: 
+Svevo: condizione di malato di nervi 
+
+sconfinamento tra malattia e sanità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDkwMjU1MCwtODUwNDE2OTczLDE2Mj
-A1OTI5MDYsLTE3MTk3NTQ0OTVdfQ==
+eyJoaXN0b3J5IjpbMjQ1MDA1NDg0LC04NTA0MTY5NzMsMTYyMD
+U5MjkwNiwtMTcxOTc1NDQ5NV19
 -->
