@@ -188,8 +188,15 @@ preconscio: contenuti che potrebbero diventare consci perchè on ostacolati dall
 inconscio; luogo della rimozione
 
 Lapsus freudiano
+
+
+narrazione inattendibile
+
+
+p.306
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Mzk2NjI0MCwxNzQzMzY5MDYxLC0xMT
-E4MjkxNTIsMTc2MDgwMDk4Myw3NzM4OTU4NTEsLTg1MDQxNjk3
-MywxNjIwNTkyOTA2LC0xNzE5NzU0NDk1XX0=
+eyJoaXN0b3J5IjpbMTIzMzc0ODY2NCwtODYzOTY2MjQwLDE3ND
+MzNjkwNjEsLTExMTgyOTE1MiwxNzYwODAwOTgzLDc3Mzg5NTg1
+MSwtODUwNDE2OTczLDE2MjA1OTI5MDYsLTE3MTk3NTQ0OTVdfQ
+==
 -->
