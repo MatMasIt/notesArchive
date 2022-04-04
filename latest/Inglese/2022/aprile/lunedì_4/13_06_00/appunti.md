@@ -16,6 +16,13 @@ corrupt, depraved life
 Dorian kills basil because he considers him responsible of dorian's spiritual corruption
 
 he cannot bear this burden, seeing his corruption seen in the picture
+
+he decides to get rid of the portrait
+
+getting rid of the portait will free him, so he thinks
+
+
+the portrait is a witness to his spiritual corruption
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0NzIxMDRdfQ==
+eyJoaXN0b3J5IjpbLTExMzAwNzIyNDZdfQ==
 -->
