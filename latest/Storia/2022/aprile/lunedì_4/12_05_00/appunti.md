@@ -8,7 +8,11 @@ da qui in poi usa diventano dominanti
 
 1 agosto germania dichiara guerra a russia e il 3 alla francia
 
+zar aveva solo mobilitato il suo esercito
 
+pesanti responsabilità della germania
+
+alleanze hanno trasformato guerra locale in mondial
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc1MjAzNTldfQ==
+eyJoaXN0b3J5IjpbNTc4ODE1NDEyXX0=
 -->
