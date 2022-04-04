@@ -60,8 +60,10 @@ present of youth and beauty, vs future of aging and uglyness
 
 beauty is a form of geious
 
-beauty is higher than genious istelf, needs no explanation
+beauty is higher than genious istelf, needs no explaination
+
+herny wotton is claming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjY2OTU3MDcsMTY0NDI0NjQ1NywtMT
+eyJoaXN0b3J5IjpbLTE4ODI3MjI4NDgsMTY0NDI0NjQ1NywtMT
 EzMDA3MjI0Nl19
 -->
