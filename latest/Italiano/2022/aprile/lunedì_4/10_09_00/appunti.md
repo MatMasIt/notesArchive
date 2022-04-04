@@ -96,7 +96,9 @@ analisi sul tema della inettitudine
 
 p.287
 ## Senilità
+
+Alfonso si suicida
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDUyNjU0OCwxNjIwNTkyOTA2LC0xNz
-E5NzU0NDk1XX0=
+eyJoaXN0b3J5IjpbLTExNzQyMTM4NTAsMTYyMDU5MjkwNiwtMT
+cxOTc1NDQ5NV19
 -->
