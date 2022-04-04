@@ -180,12 +180,13 @@ presidente Wilson aveva spinto il principio di _autodeterminazione_ dei popoli
 
 Wilson: non si può dare fiume agli italiani, circondata di slavi
 
-Ha senso?
+> Ha senso?
 
 Cosa|In base ad Accordo di londra|In base a principio di autodeterminazione dei popoli|
 |---|---|---|
 |Dalmazia|Sì|No|
 |Fiume|No|Sì
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTQxMjQ4MiwxOTY2MjMzODMyXX0=
+eyJoaXN0b3J5IjpbODc5MTA3NjIwLDE5ODU0MTI0ODIsMTk2Nj
+IzMzgzMl19
 -->
