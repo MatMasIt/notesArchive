@@ -117,8 +117,11 @@ Emilio vuole rapporto senza impegno
 Quadrilatero
 
 * Amalia (sorella emilio)
-* 
+* Emilio Brentani
+* Scultore Stefano Balli
+
+n suicidio, ma ritirata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjkyNjA3LDE2MjA1OTI5MDYsLTE3MT
-k3NTQ0OTVdfQ==
+eyJoaXN0b3J5IjpbLTE2MzkzMTU3MDMsMTYyMDU5MjkwNiwtMT
+cxOTc1NDQ5NV19
 -->
