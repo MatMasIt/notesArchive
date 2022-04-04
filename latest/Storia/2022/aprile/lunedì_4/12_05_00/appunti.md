@@ -73,7 +73,16 @@ occorre rendere innoffensivi i nemici
 Guerra immobile
 
 
-innovao
+innovazioni belliche:
+p.102-103
+
+* mitragliatrici esistono già dalla guerra di seccessione americana
+* armi chimiche:
+	* Come
+		* Iprite
+	* Suscettibili a direzioni del vento
+		* Machere anti gas
+* carri armati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwMjQ4NzYyLC0yMzk5NjQ4MF19
+eyJoaXN0b3J5IjpbLTE4NzQzNzg5OSwtMjM5OTY0ODBdfQ==
 -->
