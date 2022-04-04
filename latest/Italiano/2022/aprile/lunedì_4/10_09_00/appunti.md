@@ -26,7 +26,17 @@ Protagonista di "Una Vita"
 
 Modeli:
 * Machiavelli
-* Dostovjeskii (psicol
+* Dostovjeskii (analisi psicologica)
+* realismo
+* Honorèe de Balzac
+* Laurence Stern (consigliato da Joyce)
+Letture Filosofiche:
+* Schopenhauer
+	* d
+* Kirkegaard
+* Nietsche
+* Darwin
+* Socialistie Marxisti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDc4Njk1NTldfQ==
+eyJoaXN0b3J5IjpbNTQ1NDE3MjQ4XX0=
 -->
