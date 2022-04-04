@@ -14,7 +14,9 @@ rivista _Il cavaliere azzurro_ p.1122
 
 artista per l''affermazzione di un nuovo tipo di arte contro la società borghese
 
-bollato come 
+bollato come "artista degenerato" dal regime hitleriano
+
+Teoria del colore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzOTAyMTQxXX0=
+eyJoaXN0b3J5IjpbLTE1ODM2NDM2NzddfQ==
 -->
