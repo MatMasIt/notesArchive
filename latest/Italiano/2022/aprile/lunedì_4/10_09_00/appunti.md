@@ -127,7 +127,10 @@ non suicidio, ma ritirata
 Destino uomo: autoinganno, autogiustificazioni per ingannare dolori vita
 
 p.280 "Lottatori" e "contemplatori", Schopenhauer
+
+
+Inettitudine di un inetto consapevole
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDQxNjk3MywxNjIwNTkyOTA2LC0xNz
-E5NzU0NDk1XX0=
+eyJoaXN0b3J5IjpbLTE0NjE4MzAwNjksLTg1MDQxNjk3MywxNj
+IwNTkyOTA2LC0xNzE5NzU0NDk1XX0=
 -->
