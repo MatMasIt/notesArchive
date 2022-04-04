@@ -165,8 +165,13 @@ investimento affettivo del paziente nei riguardi del terapeuta
 
 
 non era prassi far scrivere il paziente: gli studiosi arricceranno il naso a tanta novità
+
+
+--- 
+
+Zeno compra trattato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTgyOTE1MiwxNzYwODAwOTgzLDc3Mz
-g5NTg1MSwtODUwNDE2OTczLDE2MjA1OTI5MDYsLTE3MTk3NTQ0
-OTVdfQ==
+eyJoaXN0b3J5IjpbLTE2ODMxODg2OCwtMTExODI5MTUyLDE3Nj
+A4MDA5ODMsNzczODk1ODUxLC04NTA0MTY5NzMsMTYyMDU5Mjkw
+NiwtMTcxOTc1NDQ5NV19
 -->
