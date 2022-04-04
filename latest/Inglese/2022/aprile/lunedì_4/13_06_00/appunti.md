@@ -65,8 +65,12 @@ beauty is higher than genious istelf, needs no explaination
 herny wotton is claiming that beauty is better than genious, needs no explaination
 
 
-beaurt 
+beauty may be superficial, but it is not as superficial as beauty according to Henry wotton
+
+the essence of life is only beauty
+
+the only tning that matters in life is beauty
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDg0OTcyMzQsLTExNzM1ODk5MzEsMT
-Y0NDI0NjQ1NywtMTEzMDA3MjI0Nl19
+eyJoaXN0b3J5IjpbLTM5MDkzNjAzMywtMTE3MzU4OTkzMSwxNj
+Q0MjQ2NDU3LC0xMTMwMDcyMjQ2XX0=
 -->
