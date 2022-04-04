@@ -140,7 +140,13 @@ i borghesi non sono sani
 Svevo: condizione di malato di nervi 
 
 sconfinamento tra malattia e sanità
+
+
+Novità del romanzo?
+
+Impianto:
+* romanzo memoriale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1MDA1NDg0LC04NTA0MTY5NzMsMTYyMD
-U5MjkwNiwtMTcxOTc1NDQ5NV19
+eyJoaXN0b3J5IjpbLTk4ODk0NjU5OCwtODUwNDE2OTczLDE2Mj
+A1OTI5MDYsLTE3MTk3NTQ0OTVdfQ==
 -->
