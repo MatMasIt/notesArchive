@@ -23,6 +23,9 @@ getting rid of the portait will free him, so he thinks
 
 
 the portrait is a witness to his spiritual corruption
+
+
+he stab the portrait but he dies while the portrait survives
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzAwNzIyNDZdfQ==
+eyJoaXN0b3J5IjpbLTg3MzQ2NTI2NCwtMTEzMDA3MjI0Nl19
 -->
