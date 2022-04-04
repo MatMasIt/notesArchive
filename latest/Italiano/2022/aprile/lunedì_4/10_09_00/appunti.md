@@ -126,8 +126,8 @@ non suicidio, ma ritirata
 
 Destino uomo: autoinganno, autogiustificazioni per ingannare dolori vita
 
-p.280 "Lottatori" e 
+p.280 "Lottatori" e "contemplatori", Schopenhauer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzEzNzc4NDcsMTYyMDU5MjkwNiwtMT
-cxOTc1NDQ5NV19
+eyJoaXN0b3J5IjpbLTg1MDQxNjk3MywxNjIwNTkyOTA2LC0xNz
+E5NzU0NDk1XX0=
 -->
