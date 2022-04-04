@@ -202,9 +202,11 @@ il medico proibisce di fumare
 è consapevole dei suoi falsi propositi
 
 
+studiava giurisprudenza
+fugge dal
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODUyMDM3NSwtODYzOTY2MjQwLDE3ND
+eyJoaXN0b3J5IjpbLTExMTMxNTc4MSwtODYzOTY2MjQwLDE3ND
 MzNjkwNjEsLTExMTgyOTE1MiwxNzYwODAwOTgzLDc3Mzg5NTg1
 MSwtODUwNDE2OTczLDE2MjA1OTI5MDYsLTE3MTk3NTQ0OTVdfQ
 ==
