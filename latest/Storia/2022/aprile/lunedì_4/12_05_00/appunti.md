@@ -96,6 +96,10 @@ Occorre
 	* cartoline partiottiche
 	* prestiti allo stato
 * intervento massiccio dello stato all'interno dell'economia
+
+
+In 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjExOTQzMzUsLTIzOTk2NDgwXX0=
+eyJoaXN0b3J5IjpbLTEyNzM1NzUwNTgsLTExMjExOTQzMzUsLT
+IzOTk2NDgwXX0=
 -->
