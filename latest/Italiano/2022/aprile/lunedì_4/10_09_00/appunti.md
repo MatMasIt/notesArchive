@@ -95,13 +95,20 @@ analisi sul tema della inettitudine
 * Roth
 
 p.287
-## Senilità
- Suicidio
+
+---
+suicidio Alfonso
 
 legame morboso con il genitore
+## Senilità
+ 
 
-Emilio 
+Emilio Brettani impiegato piccolo-borghese
+
+scrittore di romanzi fallito
+
+Angiolina, ragazza di facili costum
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzI2MzA3MCwxNjIwNTkyOTA2LC0xNz
+eyJoaXN0b3J5IjpbMTYwMjE3MTU1OSwxNjIwNTkyOTA2LC0xNz
 E5NzU0NDk1XX0=
 -->
