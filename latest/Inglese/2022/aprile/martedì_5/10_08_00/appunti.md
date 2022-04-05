@@ -10,6 +10,8 @@ When you grow old you become ugly, there are no triumphs left for you
 You cannot be happy anymore
 
 Fear of aging
+
+stem = beauty, time is jealo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzA2NDAzNl19
+eyJoaXN0b3J5IjpbMTU4NzkxMzg4XX0=
 -->
