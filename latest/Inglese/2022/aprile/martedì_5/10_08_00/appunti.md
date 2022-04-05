@@ -89,6 +89,9 @@ purple stone
 color linked to death
 
 he feels like a hand of ice on his hearth
+
+
+he wishes to stay young and the picture to age
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjY2MDU5NiwzOTIyOTQ0ODNdfQ==
+eyJoaXN0b3J5IjpbLTEzODQxMjI2MDgsMzkyMjk0NDgzXX0=
 -->
