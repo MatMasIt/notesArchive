@@ -41,7 +41,13 @@ unti you are young you are not aware of the power of your beauty
 maggiociondolo: laburnum   =   yellow trees
 
 
-process of death and rebirth
+process of death and rebirth for plants
+
+clematis; rammpicante (climbing plant)
+
+greeen leaves with purple stars (flowers)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzg2NjA2MiwzOTIyOTQ0ODNdfQ==
+eyJoaXN0b3J5IjpbLTIyOTA0MTcwMCwzOTIyOTQ0ODNdfQ==
 -->
