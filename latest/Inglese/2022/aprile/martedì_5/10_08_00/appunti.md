@@ -83,7 +83,10 @@ he will become terrible and clumsy
 
 second effect: sharp pain that strikes him like a sharp kinfe
 
-he shivers and start
+he shivers and start crying
+purple stone
+
+color linked to death
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE0NDg4MjgsMzkyMjk0NDgzXX0=
+eyJoaXN0b3J5IjpbNjUwNzk5MjI2LDM5MjI5NDQ4M119
 -->
