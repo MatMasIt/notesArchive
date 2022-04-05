@@ -55,6 +55,12 @@ greeen leaves with purple stars (flowers)
 old: not human beings anymore, just hideous puppets
 
 regrets for not having the courage to indulge in temptations
+
+
+
+---
+
+How Dorian Gray reacts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDA4MDIyMSwzOTIyOTQ0ODNdfQ==
+eyJoaXN0b3J5IjpbLTgzMjg0NTQ4MCwzOTIyOTQ0ODNdfQ==
 -->
