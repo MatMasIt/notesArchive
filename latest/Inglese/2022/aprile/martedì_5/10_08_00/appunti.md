@@ -11,7 +11,11 @@ You cannot be happy anymore
 
 Fear of aging
 
-stem = beauty, time is jealo
+stem = beauty, time is jealous of beauty and an enemy
+
+You will become sallow (yellow skin), hollow cheecked (guance avvizite) and dull eyes(eyes that do not shine anymore)
+
+Aging is like a panful disease, sickness
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzkxMzg4XX0=
+eyJoaXN0b3J5IjpbMzkyMjk0NDgzXX0=
 -->
