@@ -87,6 +87,8 @@ he shivers and start crying
 purple stone
 
 color linked to death
+
+he feels like a hand of ice on his hearth
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwNzk5MjI2LDM5MjI5NDQ4M119
+eyJoaXN0b3J5IjpbLTk2MjY2MDU5NiwzOTIyOTQ0ODNdfQ==
 -->
