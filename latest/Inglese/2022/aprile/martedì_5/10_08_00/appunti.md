@@ -81,7 +81,9 @@ effects of aging
 
 he will become terrible and clumsy
 
-second effect: sharp pain
+second effect: sharp pain that strikes him like a sharp kinfe
+
+he shivers and start
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzM5MjQ3OSwzOTIyOTQ0ODNdfQ==
+eyJoaXN0b3J5IjpbLTEzMjE0NDg4MjgsMzkyMjk0NDgzXX0=
 -->
