@@ -21,7 +21,8 @@ Don't listen the victorians
 
 sick ideals, aims
 
-strict ad false m
+strict ad false moralcode
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTI3OTQxNDMsMzkyMjk0NDgzXX0=
+eyJoaXN0b3J5IjpbNTIzNTg5OTQwLDM5MjI5NDQ4M119
 -->
