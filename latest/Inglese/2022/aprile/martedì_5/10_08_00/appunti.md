@@ -31,6 +31,8 @@ doeian can become a symbol to this change
 Hedonism: a life of pleasure
 
 the world belongs to you for a season: youth
+
+immortality of art
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjY1MDgyOSwzOTIyOTQ0ODNdfQ==
+eyJoaXN0b3J5IjpbMTY5MjQ4ODgxNiwzOTIyOTQ0ODNdfQ==
 -->
