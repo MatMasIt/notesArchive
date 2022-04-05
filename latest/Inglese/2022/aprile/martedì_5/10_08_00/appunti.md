@@ -50,6 +50,9 @@ greeen leaves with purple stars (flowers)
 > **Youth! Youth! There is absolutely , nothing in the world but youth!’***
 à
 
+
+
+old: not human beings anymore, just hideous puppets
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTM5NjU4MywzOTIyOTQ0ODNdfQ==
+eyJoaXN0b3J5IjpbMTAwNTAyMDA2OSwzOTIyOTQ0ODNdfQ==
 -->
