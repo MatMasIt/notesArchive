@@ -38,7 +38,10 @@ immortality of art
 unti you are young you are not aware of the power of your beauty
 
 
-maggiociondolo: laburnumy
+maggiociondolo: laburnum   =   yellow trees
+
+
+process of death and rebirth
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjQzOTg5NCwzOTIyOTQ0ODNdfQ==
+eyJoaXN0b3J5IjpbMTcwMzg2NjA2MiwzOTIyOTQ0ODNdfQ==
 -->
