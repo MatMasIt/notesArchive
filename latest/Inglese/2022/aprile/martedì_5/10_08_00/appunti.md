@@ -91,7 +91,11 @@ color linked to death
 he feels like a hand of ice on his hearth
 
 
-he wishes to stay young and the picture to age
+he wishes to stay young and the picture to age, he would give his soul for that
+
+begin of ruin
+
+pact with the devil
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQxMjI2MDgsMzkyMjk0NDgzXX0=
+eyJoaXN0b3J5IjpbLTE2MTA1NzM5NDMsMzkyMjk0NDgzXX0=
 -->
