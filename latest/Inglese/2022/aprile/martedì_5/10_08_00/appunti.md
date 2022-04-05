@@ -16,6 +16,12 @@ stem = beauty, time is jealous of beauty and an enemy
 You will become sallow (yellow skin), hollow cheecked (guance avvizite) and dull eyes(eyes that do not shine anymore)
 
 Aging is like a panful disease, sickness
+
+Don't listen the victorians
+
+sick ideals, aims
+
+strict ad false m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyMjk0NDgzXX0=
+eyJoaXN0b3J5IjpbLTE2NTI3OTQxNDMsMzkyMjk0NDgzXX0=
 -->
