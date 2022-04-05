@@ -33,6 +33,9 @@ Hedonism: a life of pleasure
 the world belongs to you for a season: youth
 
 immortality of art
+
+
+unti you are young you are not aware of the power of your beauty
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjQ4ODgxNiwzOTIyOTQ0ODNdfQ==
+eyJoaXN0b3J5IjpbLTE2NDU4Nzk2MDYsMzkyMjk0NDgzXX0=
 -->
