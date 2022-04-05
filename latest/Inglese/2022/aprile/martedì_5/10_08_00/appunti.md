@@ -65,7 +65,12 @@ How Dorian Gray reacts
 
 For the first time dorian gray experiences his own beauty
 
-Before the realization of his handsomeness he thought they were obly friendly comp
+Before the realization of his handsomeness he thought they were obly friendly compliments
+
+
+the panegiric 
+
+shadow of his own ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg5NTA5MCwzOTIyOTQ0ODNdfQ==
+eyJoaXN0b3J5IjpbMTg1OTE4MzAyNCwzOTIyOTQ0ODNdfQ==
 -->
