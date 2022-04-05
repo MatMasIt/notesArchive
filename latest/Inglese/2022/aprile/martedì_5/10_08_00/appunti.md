@@ -77,6 +77,11 @@ shadow of his own loveliness = portrait
 sudden revelation
 
 effects of aging
+
+
+he will become terrible and clumsy
+
+second effect: sharp pain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTcwMTc3LDM5MjI5NDQ4M119
+eyJoaXN0b3J5IjpbMTU5NzM5MjQ3OSwzOTIyOTQ0ODNdfQ==
 -->
