@@ -61,6 +61,9 @@ regrets for not having the courage to indulge in temptations
 ---
 
 How Dorian Gray reacts
+
+
+For the first time dorian gray experiences his own beauty
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjg0NTQ4MCwzOTIyOTQ0ODNdfQ==
+eyJoaXN0b3J5IjpbLTQ5ODA4OTc3OCwzOTIyOTQ0ODNdfQ==
 -->
