@@ -68,9 +68,11 @@ For the first time dorian gray experiences his own beauty
 Before the realization of his handsomeness he thought they were obly friendly compliments
 
 
-the panegiric 
+the panegiric  worried him
 
-shadow of his own ...
+as he is looking at the 
+
+shadow of his own loveliness = portrait
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTE4MzAyNCwzOTIyOTQ0ODNdfQ==
+eyJoaXN0b3J5IjpbMTg3Njg0Njc4OCwzOTIyOTQ0ODNdfQ==
 -->
