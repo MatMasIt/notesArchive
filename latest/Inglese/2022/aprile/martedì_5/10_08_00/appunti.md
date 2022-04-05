@@ -23,6 +23,14 @@ sick ideals, aims
 
 strict ad false moralcode
 
+the victorian age needs a change
+
+doeian can become a symbol to this change
+
+
+Hedonism: a life of pleasure
+
+the world belongs to you for a season: youth
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzNTg5OTQwLDM5MjI5NDQ4M119
+eyJoaXN0b3J5IjpbLTk2NjY1MDgyOSwzOTIyOTQ0ODNdfQ==
 -->
