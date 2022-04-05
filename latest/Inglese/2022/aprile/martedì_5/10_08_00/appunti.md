@@ -73,6 +73,10 @@ the panegiric  worried him
 as he is looking at the 
 
 shadow of his own loveliness = portrait
+
+sudden revelation
+
+effects of aging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Njg0Njc4OCwzOTIyOTQ0ODNdfQ==
+eyJoaXN0b3J5IjpbLTk3MTcwMTc3LDM5MjI5NDQ4M119
 -->
