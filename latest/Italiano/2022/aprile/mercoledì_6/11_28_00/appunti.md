@@ -54,7 +54,10 @@ p.312
 il dottore si lamenta che non hanno fatto vedere il malato prima
 
 senso di colpa per non aver verificato lo stato di salute del padre
+
+
+è stato in tavola con sè
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDI1NDE3MywxOTU3MzU0NTk5LDMxNj
-E0NjIyNV19
+eyJoaXN0b3J5IjpbLTE4MTcxMjQ2ODUsMTk1NzM1NDU5OSwzMT
+YxNDYyMjVdfQ==
 -->
