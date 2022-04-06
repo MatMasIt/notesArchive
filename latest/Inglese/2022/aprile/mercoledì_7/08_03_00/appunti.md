@@ -32,7 +32,14 @@ He cannot bear his beauty anymore because it caused his corruption
 
 James Vein wanted to kill Dorian Grey but died in an hunting party (battuta di caccia)
 
-last years of James Vein's life were haunted by his sister's suicide       
+last years of James Vein's life were haunted by his sister's suicide      
+
+Alan Campbell hid Basil's corpse and shot himself 
+
+
+Dorian gray is sefish
+death of basil is not worrying him, but the death of is soul is 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjY1NTA0NCwtNTU0NTQ4NzIyXX0=
+eyJoaXN0b3J5IjpbMjA4Nzg0MTQ1LC0yMTY2NTUwNDQsLTU1ND
+U0ODcyMl19
 -->
