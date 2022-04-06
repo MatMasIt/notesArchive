@@ -5,7 +5,7 @@ p.131
 
 Droain Gray thinks about his boyhood before he was famous
 
-happy merton: innocent girl
+Hetti merton: innocent country girl
 
 he wants to move to the countryside with a girl
 
@@ -17,6 +17,8 @@ The girl laughs because wicked people are old and ugly but doria gray is young a
 
 
 innocence,purity, goodness, which dorian does not have
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjE2MzMwNSwtNTU0NTQ4NzIyXX0=
+eyJoaXN0b3J5IjpbLTEyNTg5MzY1NjcsLTU1NDU0ODcyMl19
 -->
