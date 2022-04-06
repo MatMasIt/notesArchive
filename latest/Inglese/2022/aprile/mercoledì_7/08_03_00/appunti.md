@@ -21,6 +21,8 @@ innocence,purity, goodness, which dorian does not have
 Dorian gray caused the disgrace to many
 * basil (killed)
 * Sybil Vane (suicide)
+
+he is regretting his wish
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODk3NTI4MiwtNTU0NTQ4NzIyXX0=
+eyJoaXN0b3J5IjpbMjMxOTMyODk1LC01NTQ1NDg3MjJdfQ==
 -->
