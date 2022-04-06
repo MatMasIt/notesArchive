@@ -69,7 +69,9 @@ parricido freudiano?
 
 desiderio indicibile da rimuovere
 
+
+rimorso, ha augurato al padre la morte
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjQ0Mzg4MiwxOTU3MzU0NTk5LDMxNj
-E0NjIyNV19
+eyJoaXN0b3J5IjpbMTg1ODA5NjA4NywxMjYyNDQzODgyLDE5NT
+czNTQ1OTksMzE2MTQ2MjI1XX0=
 -->
