@@ -22,7 +22,7 @@ Dorian gray caused the disgrace to many
 * basil (killed)
 * Sybil Vane (suicide)
 
-he is regretting his wish
+he is regretting his pact with the devil
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxOTMyODk1LC01NTQ1NDg3MjJdfQ==
+eyJoaXN0b3J5IjpbLTM4NDg1NjY3MSwtNTU0NTQ4NzIyXX0=
 -->
