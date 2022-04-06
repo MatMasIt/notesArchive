@@ -12,7 +12,7 @@ $$
 \int^b_a f(x) dx = f(c)(b-a)
 $$
 
-> In un intervallo $(a.b)$ trovare un valore $c$ tale che $\
+> In un intervallo $(a.b)$ trovare un valore $c$ tale che $\overline{AB}\cdot c=\int^a_bf(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjYzNjQwMV19
+eyJoaXN0b3J5IjpbLTIwNjE5MDMxMDhdfQ==
 -->
