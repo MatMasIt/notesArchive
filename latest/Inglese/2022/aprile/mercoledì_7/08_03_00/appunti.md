@@ -29,6 +29,10 @@ he took a mirror and looked at himself
 same as the "night on horror" when he saw the portrait change
 
 He cannot bear his beauty anymore because it caused his corruption
+
+James Vein wanted to kill Dorian Grey but died in an hunting party (battuta di caccia)
+
+last years of James Vein's life were haunted by his sister's suicide       
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzM3NDQ2NDksLTU1NDU0ODcyMl19
+eyJoaXN0b3J5IjpbLTIxNjY1NTA0NCwtNTU0NTQ4NzIyXX0=
 -->
