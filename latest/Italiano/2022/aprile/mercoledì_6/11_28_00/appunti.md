@@ -50,7 +50,9 @@ catena di contraddizioni e indecisioni
 
 
 p.312
+
+il dottore si lamenta che non hanno fatto vedere il malato prima
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2MjMxNjYxLDE5NTczNTQ1OTksMzE2MT
+eyJoaXN0b3J5IjpbMzY3NzA5ODY3LDE5NTczNTQ1OTksMzE2MT
 Q2MjI1XX0=
 -->
