@@ -11,6 +11,8 @@ narratore
 * contraddicentesi
 
 Il medico si vendica: non è un verso professionista, si vendica, non viola le prassi
+
+contradditorietà è nell'ordine delle cose stesse del vivere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzOTU4OTc4XX0=
+eyJoaXN0b3J5IjpbMTI3NjY3NDE0NV19
 -->
