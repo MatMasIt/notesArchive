@@ -14,6 +14,9 @@ Change or just another aesthete's experience
 he had told her he was poor (the girl believed but it is false) and wicked (he is bad, honest)
 
 The girl laughs because wicked people are old and ugly but doria gray is young and beautiful
+
+
+innocence,purity, goodness, which dorian does not have
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3Mjg3OTY0LC01NTQ1NDg3MjJdfQ==
+eyJoaXN0b3J5IjpbLTQzMjE2MzMwNSwtNTU0NTQ4NzIyXX0=
 -->
