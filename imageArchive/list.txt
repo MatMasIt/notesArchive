@@ -150,6 +150,7 @@ latest/Matematica/2021/settembre/lunedì_27/compiti.md:https://i.imgur.com/ZgZgm
 latest/Matematica/2021/settembre/martedì_28/12_29_00/appunti.md:https://i.imgur.com/6TDymk5.jpg
 latest/Matematica/2021/settembre/mercoledì_29/12_15_00/appunti.md:https://i.imgur.com/DqWnwA6.jpg
 latest/Matematica/2021/settembre/venerdì_24/12_37_00/appunti.md:https://i.imgur.com/hBJzQeL.jpg
+latest/Matematica/2022/aprile/mercoledì_6/09_03_00/appunti.md:https://i.imgur.com/2hfME2Y.jpg
 latest/Matematica/2022/gennaio/giovedì_20/12_09_00/appunti.md:https://i.imgur.com/WUQIk2Q.jpg
 latest/Storia/2021/ottobre/giovedì_07/appunti.md.md:https://i.imgur.com/9vmgKkl.jpg
 latest/Storia/2021/ottobre/giovedì_07/appunti.md.md:https://i.imgur.com/CYD7ZlW.jpg
