@@ -26,7 +26,16 @@ nell'ottavo capitolo se ne rende conto
 tempo misto,p poche date
 
 narrazione tra passato e predente
-prolessi 
+prolessi dentro analessi
+
+capitoli tra il 2° e il 7° seguito con indicazioni del medico tra in '13 e  il '14
+l'8° tra in '15 e il '16
+
+diffidenza per psicolonalisi
+
+condizione di saute non borghese
+
+inconcludente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODkyMDk4M119
+eyJoaXN0b3J5IjpbMzE2MTQ2MjI1XX0=
 -->
