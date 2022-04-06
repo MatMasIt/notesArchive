@@ -3,7 +3,7 @@
 
 ## Teorema del valor medio
 
-In un trettangol
+In un trettangolo
 $$
 \frac{1}{b}A=h
 $$
@@ -19,5 +19,5 @@ $$
 
 > In un intervallo $(a.b)$ trovare un valore $c$ tale che $\overline{AB}\cdot c=\int^a_bf(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NTcyOTA5XX0=
+eyJoaXN0b3J5IjpbLTE3NzkyMjg4ODZdfQ==
 -->
