@@ -52,7 +52,9 @@ catena di contraddizioni e indecisioni
 p.312
 
 il dottore si lamenta che non hanno fatto vedere il malato prima
+
+senso di colpa per non aver verificato lo stato di salute del padre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3NzA5ODY3LDE5NTczNTQ1OTksMzE2MT
-Q2MjI1XX0=
+eyJoaXN0b3J5IjpbLTcyMDI1NDE3MywxOTU3MzU0NTk5LDMxNj
+E0NjIyNV19
 -->
