@@ -26,10 +26,7 @@ $$
 
 ## p.389 es. 228
 
-$$
-f(x)=\int^1_0 \frac1{x+1}=[\ln |x+1|]
-$$
-
+sul foglio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA5NTIyXX0=
+eyJoaXN0b3J5IjpbMzM2NDg4NDk1XX0=
 -->
