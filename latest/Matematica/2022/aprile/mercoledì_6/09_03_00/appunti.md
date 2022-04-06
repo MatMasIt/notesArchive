@@ -3,6 +3,8 @@
 
 ## Teorema del valor medio
 
+![](https://i.imgur.com/2hfME2Y.jpg)
+
 In un trettangolo
 $$
 \frac{1}{b}A=h
@@ -18,6 +20,11 @@ $$
 $$
 
 > In un intervallo $(a.b)$ trovare un valore $c$ tale che $\overline{AB}\cdot c=\int^a_bf(x)$
+
+---
+
+
+p.389 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkyMjg4ODZdfQ==
+eyJoaXN0b3J5IjpbLTEwNjc4NDk5ODNdfQ==
 -->
