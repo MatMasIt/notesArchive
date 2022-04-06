@@ -23,6 +23,11 @@ Dorian gray caused the disgrace to many
 * Sybil Vane (suicide)
 
 he is regretting his pact with the devil
+
+he took a mirror and looked at himself
+
+same as the "night on horror" when he saw the portrait change
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDg1NjY3MSwtNTU0NTQ4NzIyXX0=
+eyJoaXN0b3J5IjpbLTc3NjY4NjY4OSwtNTU0NTQ4NzIyXX0=
 -->
