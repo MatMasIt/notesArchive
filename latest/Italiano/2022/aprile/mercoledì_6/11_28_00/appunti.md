@@ -63,8 +63,13 @@ possibilità
 
 possibilità di testare?
 
+ogni tanto si augura che voglia morire
+
+parricido freudiano?
+
+desiderio indicibile da rimuovere
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTUzMzQ2MiwxOTU3MzU0NTk5LDMxNj
+eyJoaXN0b3J5IjpbMTI2MjQ0Mzg4MiwxOTU3MzU0NTk5LDMxNj
 E0NjIyNV19
 -->
