@@ -23,10 +23,7 @@ $$
 
 ---
 
-
-## p.389 es. 228
-
-sul foglio
+De l'Hopital: entramve le funzionid evono essere derivabili nell'intorno di $\infin$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2NDg4NDk1XX0=
+eyJoaXN0b3J5IjpbMTg2NjUzMzgzNl19
 -->
