@@ -42,6 +42,11 @@ discrimine tra salute e malattia
 
 
 p.306 
+
+
+fumo come alibi
+
+catena di contraddizioni e indecisioni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzUyMjA4NTQsMzE2MTQ2MjI1XX0=
+eyJoaXN0b3J5IjpbMTk1NzM1NDU5OSwzMTYxNDYyMjVdfQ==
 -->
