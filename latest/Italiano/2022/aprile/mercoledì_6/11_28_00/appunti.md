@@ -47,6 +47,10 @@ p.306
 fumo come alibi
 
 catena di contraddizioni e indecisioni
+
+
+p.312
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzM1NDU5OSwzMTYxNDYyMjVdfQ==
+eyJoaXN0b3J5IjpbNzQ2MjMxNjYxLDE5NTczNTQ1OTksMzE2MT
+Q2MjI1XX0=
 -->
