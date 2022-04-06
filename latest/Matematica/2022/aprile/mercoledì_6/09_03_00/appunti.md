@@ -3,6 +3,11 @@
 
 ## Teorema del valor medio
 
+In un trettangol
+$$
+\frac{1}{b}A=h
+$$
+
 $$
 \frac1{a-b}\int^b_af(x)dx=f(x)
 $$
@@ -14,5 +19,5 @@ $$
 
 > In un intervallo $(a.b)$ trovare un valore $c$ tale che $\overline{AB}\cdot c=\int^a_bf(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE5MDMxMDhdfQ==
+eyJoaXN0b3J5IjpbNTM4NTcyOTA5XX0=
 -->
