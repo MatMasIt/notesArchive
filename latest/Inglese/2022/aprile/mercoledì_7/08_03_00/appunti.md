@@ -18,7 +18,9 @@ The girl laughs because wicked people are old and ugly but doria gray is young a
 
 innocence,purity, goodness, which dorian does not have
 
-
+Dorian gray caused the disgrace to many
+* basil (killed)
+* Sybil Vane (suicide)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg5MzY1NjcsLTU1NDU0ODcyMl19
+eyJoaXN0b3J5IjpbMTExODk3NTI4MiwtNTU0NTQ4NzIyXX0=
 -->
