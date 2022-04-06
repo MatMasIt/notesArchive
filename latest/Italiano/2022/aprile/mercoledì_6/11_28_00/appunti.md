@@ -9,6 +9,8 @@ narratore
 * discontinuo
 * inattendibile
 * contraddicentesi
+
+Il medico si vendica: non è un verso professionista, si vendica, non viola le prassi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDg3MjM1NV19
+eyJoaXN0b3J5IjpbODYzOTU4OTc4XX0=
 -->
