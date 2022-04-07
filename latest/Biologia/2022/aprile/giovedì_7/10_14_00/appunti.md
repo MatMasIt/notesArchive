@@ -246,8 +246,14 @@ batteri del suolo hanno effeto principale
 fetuina decresce con l'aumentare dell'età
 
 
+machine learning per predizioni
+
+
+In ogni scatola c' un cadavere
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk1MjI4MDcsMjcyMzgxODQ3LDEwMT
+eyJoaXN0b3J5IjpbLTE3MjY2ODg4ODksMjcyMzgxODQ3LDEwMT
 E0ODIzODddfQ==
 -->
