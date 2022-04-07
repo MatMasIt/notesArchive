@@ -109,7 +109,11 @@ She is teaching at UPO (Università del Piemonte Orientale)
 	* good for her job
 
 ### A lot of stuff
-* workshops and seminars
+* workshops and seminars, national and international
+* Supervisiond bachelor and masters
+* She was teaching lab techniques (80/90 eur /h) learn to teach to people
+* Teamwork, peer support
+* Many experiences
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczMDMyNjQ5XX0=
+eyJoaXN0b3J5IjpbOTQ4MjQ4NjM4XX0=
 -->
