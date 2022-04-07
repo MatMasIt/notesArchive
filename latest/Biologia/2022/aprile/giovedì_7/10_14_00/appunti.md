@@ -187,7 +187,15 @@ Stima intervallo post-mortem
 
 Si sa come gli insetti colonizzano l'individuo nel corso del tempo
 
-In un ambiente secco i cadaveri mummificano
+In un ambiente secco i cadaveri mummificano e tutto viene conservato e non si riesce a capire da quanto rempo è morto
+
+
+in ambienti umidi i batteri saponificano in c
+
+in una fossa comune non si capisce nulla
+
+
+fenomeni climatici di erosione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTM2MDk2MDJdfQ==
+eyJoaXN0b3J5IjpbLTE1NzA4MjY1N119
 -->
