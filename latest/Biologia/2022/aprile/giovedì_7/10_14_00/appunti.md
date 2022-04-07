@@ -170,6 +170,10 @@ stimare età dalle suture del cranio
 dai denti
 
 sinfisi pubica
+
+epifisi sterno 4° costa
+
+cresta iliaca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2Mzc0NDAyXX0=
+eyJoaXN0b3J5IjpbLTM4OTQxMDM1N119
 -->
