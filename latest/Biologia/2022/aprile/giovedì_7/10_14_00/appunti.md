@@ -220,7 +220,9 @@ acqua
 
 proteina decresce in maniera statisticamente significativa in tutti i casi
 
+batteri anaerobi decompongomo
 
+popolazione batterica dell'ambiente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDg5MTYyN119
+eyJoaXN0b3J5IjpbMTYzMTAzMTkwMl19
 -->
