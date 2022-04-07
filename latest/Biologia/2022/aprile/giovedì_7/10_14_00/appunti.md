@@ -181,6 +181,9 @@ traovata proteina che diminuisce costantemente
 fetuina (trovata nei feti)
 
 inibisce mineralizzazione quando l'indiividuo deve crescere
+
+
+Stima intervallo post-mortem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Mzc4NDE0NV19
+eyJoaXN0b3J5IjpbLTEzMDYzNzA1NzBdfQ==
 -->
