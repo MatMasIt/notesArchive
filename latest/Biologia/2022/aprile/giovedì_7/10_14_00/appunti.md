@@ -100,7 +100,10 @@ She is teaching at UPO (Università del Piemonte Orientale)
 
 ### Things true in england
 * Supervisor constantly present
-* 
+* Huge grant, can spend a lot of money
+* Well defined project, clear objective, relatively indipendent lab
+* Can co-author papers
+	* She published a paper 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1NjIyMzI2XX0=
+eyJoaXN0b3J5IjpbLTEwMTY4NzA1OTRdfQ==
 -->
