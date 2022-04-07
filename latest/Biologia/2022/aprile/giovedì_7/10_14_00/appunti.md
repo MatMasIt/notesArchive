@@ -224,8 +224,19 @@ batteri anaerobi decompongomo
 
 popolazione batterica dell'ambiente
 
-*gambetta con muscolo esposta senza terra: non ci si aspetta microbioma intestino e terreno
+
+Esperimento on topi
+* gambetta con muscolo esposta senza terra: non ci si aspetta microbioma intestino e terreno
+* ccorpi esposti: solo batteri interni
+* ossa: solo microbi del terreno
+
+
+mmm?
+
+occorre esperimento sugli umani
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDk3MDg3N119
+eyJoaXN0b3J5IjpbMTAxMTQ4MjM4N119
 -->
