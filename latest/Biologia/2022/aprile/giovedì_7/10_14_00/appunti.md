@@ -174,6 +174,9 @@ sinfisi pubica
 epifisi sterno 4° costa
 
 cresta iliaca
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTQxMDM1N119
+eyJoaXN0b3J5IjpbNDE4NTY5NjIxXX0=
 -->
