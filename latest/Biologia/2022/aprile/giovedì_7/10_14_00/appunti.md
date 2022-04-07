@@ -147,7 +147,10 @@ she won it and she got the fellowship in 2019
 
 1.2 mln pounds
 
-Forensomcicsùù
+Forensomcics
+
+Three itallians in the group
++ 1 from uk and 1 from nigeria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzU2MDMwNF19
+eyJoaXN0b3J5IjpbLTExNDMxNzMxNzNdfQ==
 -->
