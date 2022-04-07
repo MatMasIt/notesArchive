@@ -70,11 +70,20 @@ How proteins decay in bone _post-mortem_
 
 Proteomics
 
+Mike Buckley's group
+
 She is teaching at UPO (Università del Piemonte Orientale)
 
 
 
 
+---
+
+
+## Expectations vs Reality $PhD$
+
+
+### R
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDE4MDU5M119
+eyJoaXN0b3J5IjpbLTU4MTA0MTA0NV19
 -->
