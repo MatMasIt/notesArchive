@@ -92,7 +92,15 @@ She is teaching at UPO (Università del Piemonte Orientale)
 * new work experiences
 ### Reality
 * Learn supervisor's english
-* Getting some money (decent, ge you
+* Getting some money (decent, get your own flat)
+* 3 additionals exam (every year of pHD
+* Your dream job changed (no scientific police in Italy lol)
+* Lot of fun, good career
+
+
+### Things true in england
+* Supervisor constantly present
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTIzODYwNl19
+eyJoaXN0b3J5IjpbNDU1NjIyMzI2XX0=
 -->
