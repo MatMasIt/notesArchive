@@ -33,6 +33,16 @@ Nothing even closely associated with foresic science
 She contacted another doctor
 
 lab with real sample from the police
+
+Bachelor Thesis Paper: Low Template DNA
+
+
+Master: Immunocromatographic cards
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwNTI2ODM3XX0=
+eyJoaXN0b3J5IjpbLTEyNzIwMjkwMzVdfQ==
 -->
