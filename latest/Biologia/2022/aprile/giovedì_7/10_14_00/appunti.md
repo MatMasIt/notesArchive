@@ -239,9 +239,11 @@ casse di legno: btteri del suolo
 casse di zinco: batteri umani
 
 
+cadaveri nell zinco preservati molto meglio rispetto ai cadaveri in terra
 
+batteri del suolo hanno effeto principale
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU5ODM4NzUsMTAxMTQ4MjM4N119
+eyJoaXN0b3J5IjpbMjcyMzgxODQ3LDEwMTE0ODIzODddfQ==
 -->
