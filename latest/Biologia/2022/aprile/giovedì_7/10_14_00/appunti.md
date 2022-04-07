@@ -251,9 +251,9 @@ machine learning per predizioni
 
 In ogni scatola c' un cadavere
 
-
+                                     b
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY2ODg4ODksMjcyMzgxODQ3LDEwMT
-E0ODIzODddfQ==
+eyJoaXN0b3J5IjpbMTA5ODQzODU5NywtMTcyNjY4ODg4OSwyNz
+IzODE4NDcsMTAxMTQ4MjM4N119
 -->
