@@ -218,7 +218,9 @@ acqua
 * piscina
 
 
-proteina decresce in maniera statistic
+proteina decresce in maniera statisticamente significativa in tutti i casi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDc0ODczNl19
+eyJoaXN0b3J5IjpbMTExNDg5MTYyN119
 -->
