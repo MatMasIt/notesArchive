@@ -2,7 +2,16 @@
 ## _Noemi Procopio_
 
 Inizio h 10:16
-Parla in ing
+Parla in inglese
+
+Tutto iniziato dal cocito
+
+Biotecnology lab
+
+
+Gel
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Mjg0NzA2Ml19
+eyJoaXN0b3J5IjpbLTExOTQ1MTYxNDFdfQ==
 -->
