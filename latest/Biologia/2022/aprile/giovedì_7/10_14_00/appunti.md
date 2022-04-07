@@ -190,12 +190,19 @@ Si sa come gli insetti colonizzano l'individuo nel corso del tempo
 In un ambiente secco i cadaveri mummificano e tutto viene conservato e non si riesce a capire da quanto rempo è morto
 
 
-in ambienti umidi i batteri saponificano in c
+in ambienti umidi i batteri saponificano in una cera
+I batterii reagiscono con i lipidi
 
 in una fossa comune non si capisce nulla
 
 
 fenomeni climatici di erosione
+
+
+
+due fenomeni:
+
+*perdita di proteine
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA4MjY1N119
+eyJoaXN0b3J5IjpbMzA2MDg1NzM1XX0=
 -->
