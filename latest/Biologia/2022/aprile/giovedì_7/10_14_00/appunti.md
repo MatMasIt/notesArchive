@@ -114,6 +114,8 @@ She is teaching at UPO (Università del Piemonte Orientale)
 * She was teaching lab techniques (80/90 eur /h) learn to teach to people
 * Teamwork, peer support
 * Many experiences
+* She went to a confernce in new oerleans
+* She was presenting her own poster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4MjQ4NjM4XX0=
+eyJoaXN0b3J5IjpbNTMwMTEyNzk3XX0=
 -->
