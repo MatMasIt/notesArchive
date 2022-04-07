@@ -185,7 +185,9 @@ inibisce mineralizzazione quando l'indiividuo deve crescere
 
 Stima intervallo post-mortem
 
-Si sa come gli insett
+Si sa come gli insetti colonizzano l'individuo nel corso del tempo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzAzODUxNTddfQ==
+eyJoaXN0b3J5IjpbLTEyODkxMjMwMjNdfQ==
 -->
