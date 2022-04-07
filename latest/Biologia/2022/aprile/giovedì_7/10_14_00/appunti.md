@@ -28,7 +28,11 @@ in English
 focused in medical and practical applications
 
 
-Nothing even closely associated with fore
+Nothing even closely associated with foresic science
+
+She contacted another doctor
+
+lab with real sample from the police
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTgzNzM5MV19
+eyJoaXN0b3J5IjpbMzAwNTI2ODM3XX0=
 -->
