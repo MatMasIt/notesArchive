@@ -126,7 +126,17 @@ After PHd
 
 She applied for a lectureshuip un newcastle
 
+teaching and "research", almost no time for research
+
+She searched a fellowsip
+
+She applied for rfellowship scheme
+
+deven years long
+
+money to pay people to work for you
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMjYxOTExXX0=
+eyJoaXN0b3J5IjpbNjQxNDY5MTk3XX0=
 -->
