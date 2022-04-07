@@ -103,7 +103,13 @@ She is teaching at UPO (Università del Piemonte Orientale)
 * Huge grant, can spend a lot of money
 * Well defined project, clear objective, relatively indipendent lab
 * Can co-author papers
-	* She published a paper 
+	* She published a paper in 2016
+* Authored a paper il 2016
+* 2018: 5 paper as first author and 4 papers as co-author
+	* good for her job
+
+### A lot of stuff
+* workshops and seminars
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY4NzA1OTRdfQ==
+eyJoaXN0b3J5IjpbMjczMDMyNjQ5XX0=
 -->
