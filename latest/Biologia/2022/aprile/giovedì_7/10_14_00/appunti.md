@@ -202,7 +202,23 @@ fenomeni climatici di erosione
 
 due fenomeni:
 
-*perdita di proteine
+* perdita di proteine
+* si degradano
+
+
+
+16 topi in bottiglie di h2O
+
+Galleggiano, quindi si scotcha il topo sul fondo
+
+acqua
+* lavanndino
+* stagno
+* mare
+* piscina
+
+
+proteina decresce in maniera statistic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2MDg1NzM1XX0=
+eyJoaXN0b3J5IjpbLTg3MDc0ODczNl19
 -->
