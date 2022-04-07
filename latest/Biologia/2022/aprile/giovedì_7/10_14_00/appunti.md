@@ -143,6 +143,11 @@ plan in advances costs and motivate expenses
 
 
 she won it and she got the fellowship in 2019                                     
+
+
+1.2 mln pounds
+
+Forensomcicsùù
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTQ3OTk3MF19
+eyJoaXN0b3J5IjpbLTI1NzU2MDMwNF19
 -->
