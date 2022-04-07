@@ -152,6 +152,10 @@ Forensomcics
 Three itallians in the group
 + 1 from uk and 1 from nigeria
 
+---
+
+sutdio cadaveri (principalmente maiali, topi, e umani)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkxNzMwNjNdfQ==
+eyJoaXN0b3J5IjpbLTIxMTU3NjM4NTddfQ==
 -->
