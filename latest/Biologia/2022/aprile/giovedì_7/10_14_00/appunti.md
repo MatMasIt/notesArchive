@@ -122,6 +122,9 @@ She is teaching at UPO (Università del Piemonte Orientale)
 After PHd
 * postdoc
 * industry
+* lectureship: become a professor
+
+She applied for a lec
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1ODAxNjM5XX0=
+eyJoaXN0b3J5IjpbLTcxMTYwOTgzMV19
 -->
