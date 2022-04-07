@@ -168,6 +168,8 @@ Bones
 stimare età dalle suture del cranio
 
 dai denti
+
+sinfisi pubica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjIxNzk4M119
+eyJoaXN0b3J5IjpbMjQ2Mzc0NDAyXX0=
 -->
