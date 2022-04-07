@@ -55,9 +55,26 @@ PhD in manchester
 
 
 
-three interviews
+three interviews:
+* London
+* Manchester
+* ...
+
+
+Offered both places and went to mamchester
+
+
+PhD
+
+How proteins decay in bone _post-mortem_
+
+Proteomics
+
+She is teaching at UPO (Università del Piemonte Orientale)
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzU2NDc4Nl19
+eyJoaXN0b3J5IjpbMTg2MDE4MDU5M119
 -->
