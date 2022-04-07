@@ -187,7 +187,7 @@ Stima intervallo post-mortem
 
 Si sa come gli insetti colonizzano l'individuo nel corso del tempo
 
-
+In un ambiente secco i cadaveri mummificano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODkxMjMwMjNdfQ==
+eyJoaXN0b3J5IjpbLTE4NTM2MDk2MDJdfQ==
 -->
