@@ -124,7 +124,9 @@ After PHd
 * industry
 * lectureship: become a professor
 
-She applied for a lec
+She applied for a lectureshuip un newcastle
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTYwOTgzMV19
+eyJoaXN0b3J5IjpbNzcyMjYxOTExXX0=
 -->
