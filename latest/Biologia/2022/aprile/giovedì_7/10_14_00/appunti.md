@@ -234,9 +234,14 @@ Esperimento on topi
 mmm?
 
 occorre esperimento sugli umani
+casse di legno: btteri del suolo
+
+casse di zinco: batteri umani
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTQ4MjM4N119
+eyJoaXN0b3J5IjpbLTEzNDU5ODM4NzUsMTAxMTQ4MjM4N119
 -->
