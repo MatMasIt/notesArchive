@@ -83,7 +83,16 @@ She is teaching at UPO (Università del Piemonte Orientale)
 ## Expectations vs Reality $PhD$
 
 
-### R
+### Expectation
+* Learning english
+* Earn something
+* Everybody Does it
+* No exams anymore
+* Finished pHD I can come back to italy to do my job
+* new work experiences
+### Reality
+* Learn supervisor's english
+* Getting some money (decent, ge you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTA0MTA0NV19
+eyJoaXN0b3J5IjpbLTg3OTIzODYwNl19
 -->
