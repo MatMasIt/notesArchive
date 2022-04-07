@@ -137,6 +137,12 @@ deven years long
 money to pay people to work for you
 
 
+
+plan in advances costs and motivate expenses
+
+
+
+she won it and she got the fellowship in 2019                                     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNDY5MTk3XX0=
+eyJoaXN0b3J5IjpbMTQ0NTQ3OTk3MF19
 -->
