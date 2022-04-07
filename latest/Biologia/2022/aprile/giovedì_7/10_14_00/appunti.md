@@ -243,8 +243,11 @@ cadaveri nell zinco preservati molto meglio rispetto ai cadaveri in terra
 
 batteri del suolo hanno effeto principale
 
-fetuina s
+fetuina decresce con l'aumentare dell'età
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTYxMzc2NTAsMjcyMzgxODQ3LDEwMT
+eyJoaXN0b3J5IjpbLTEyNzk1MjI4MDcsMjcyMzgxODQ3LDEwMT
 E0ODIzODddfQ==
 -->
