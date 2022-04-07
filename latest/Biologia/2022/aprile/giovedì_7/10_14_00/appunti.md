@@ -185,7 +185,7 @@ inibisce mineralizzazione quando l'indiividuo deve crescere
 
 Stima intervallo post-mortem
 
-
+Si sa come gli insett
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjU3MDA2Nl19
+eyJoaXN0b3J5IjpbLTEwMzAzODUxNTddfQ==
 -->
