@@ -223,6 +223,9 @@ proteina decresce in maniera statisticamente significativa in tutti i casi
 batteri anaerobi decompongomo
 
 popolazione batterica dell'ambiente
+
+*gambetta con muscolo esposta senza terra: non ci si aspetta microbioma intestino e terreno
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTAzMTkwMl19
+eyJoaXN0b3J5IjpbMTQ4NDk3MDg3N119
 -->
