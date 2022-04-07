@@ -116,6 +116,12 @@ She is teaching at UPO (Università del Piemonte Orientale)
 * Many experiences
 * She went to a confernce in new oerleans
 * She was presenting her own poster
+
+
+
+After PHd
+* postdoc
+* industry
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwMTEyNzk3XX0=
+eyJoaXN0b3J5IjpbNDk1ODAxNjM5XX0=
 -->
