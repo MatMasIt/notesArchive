@@ -176,7 +176,11 @@ epifisi sterno 4° costa
 cresta iliaca
 
 
+traovata proteina che diminuisce costantemente
 
+fetuina (trovata nei feti)
+
+inibisce mineralizzazione quando l'indiividuo deve crescere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE4NTY5NjIxXX0=
+eyJoaXN0b3J5IjpbMTI4Mzc4NDE0NV19
 -->
