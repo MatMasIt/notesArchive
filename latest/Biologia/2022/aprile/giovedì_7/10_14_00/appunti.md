@@ -155,7 +155,14 @@ Three itallians in the group
 ---
 
 sutdio cadaveri (principalmente maiali, topi, e umani)
+decomposizione e microbioma
 
+types of molecules used 
+* dna, genomice
+* bacteria, metagenomics
+* proteines, proteomic
+* metabolites, metabolomic
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTU3NjM4NTddfQ==
+eyJoaXN0b3J5IjpbNzEwMzk0Mzk3XX0=
 -->
