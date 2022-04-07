@@ -162,7 +162,12 @@ types of molecules used
 * bacteria, metagenomics
 * proteines, proteomic
 * metabolites, metabolomic
-* 
+
+Bones
+
+stimare età dalle suture del cranio
+
+dai denti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMzk0Mzk3XX0=
+eyJoaXN0b3J5IjpbMTYwNjIxNzk4M119
 -->
