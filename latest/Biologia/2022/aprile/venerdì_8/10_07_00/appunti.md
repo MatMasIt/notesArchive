@@ -34,8 +34,14 @@ matrimonio breve e relativo rispetto alla vita
 
 augusta segue legge 
 
+la terra gira ma ci sono cose immobili
+* annello da matrimonio
+* vestiti
+* ore dei pasti e del sonno
+* cassetti ordinati
 
+Zeno vive simulando un borghese sano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTc0Mjg2NywtMTA0NjQwOTMzNiwtNT
+eyJoaXN0b3J5IjpbMTE1Nzg2NzAyOCwtMTA0NjQwOTMzNiwtNT
 MxNDIzMTY1XX0=
 -->
