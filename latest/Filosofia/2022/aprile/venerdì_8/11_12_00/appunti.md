@@ -22,8 +22,11 @@ dominazione violenta
 
 dittatura ma finalmente dittatura della maggioranza sulla minoranza
 
-per garantire dominio politico vanno presi provvedimenti:
-* 
+per garantire dominio politico vanno presi netti provvedimenti:
+* Espropriazione delle terre
+* abolire il diritto di successione (eredità)
+* Concentrare tutti i mezzi di trasposto e il credito (le banche) in mano dello stato
+Solo banca nazionale, no banche private 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzU0MDQyM119
+eyJoaXN0b3J5IjpbLTc3MjA3NDA5Nl19
 -->
