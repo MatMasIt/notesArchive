@@ -5,7 +5,9 @@ ad un certo punto le forze produttive crescono talmente tanto da condierarare i 
 
 non può non finre così
 
-mentalità per cui la rivo
+mentalità per cui la rivoluzione sarebbe avvenuta lo stessso, non serve impegnarsi?
+
+socialisti nel biennio rosso durante occupazione fabbriche stanno in vigile attesa della rivoluzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTM5NzE2MV19
+eyJoaXN0b3J5IjpbNDUwNDUwMzQyXX0=
 -->
