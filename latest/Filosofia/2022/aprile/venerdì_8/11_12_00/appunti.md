@@ -8,6 +8,17 @@ non può non finre così
 mentalità per cui la rivoluzione sarebbe avvenuta lo stessso, non serve impegnarsi?
 
 socialisti nel biennio rosso durante occupazione fabbriche stanno in vigile attesa della rivoluzione
+
+---
+
+
+Borghesia ha creato il suo nemico
+
+Manifesto
+
+dittatura del proletariato
+
+dominazione violen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNDUwMzQyXX0=
+eyJoaXN0b3J5IjpbLTE3NjI5NDE3OTZdfQ==
 -->
