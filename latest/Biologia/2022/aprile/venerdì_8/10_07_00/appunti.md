@@ -17,6 +17,8 @@ Guido si uccide
 Zeno-Inetto capisce che tutti sono malati, la vit è malata
 
 salute = capacità adattiva rispetto al caso
+
+macchine umane fanno sopravvivere anche gli inadatti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI1MjMwOTgsLTUzMTQyMzE2NV19
+eyJoaXN0b3J5IjpbLTE2MDMzODkxMzUsLTUzMTQyMzE2NV19
 -->
