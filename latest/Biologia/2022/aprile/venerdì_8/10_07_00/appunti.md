@@ -19,6 +19,10 @@ Zeno-Inetto capisce che tutti sono malati, la vit è malata
 salute = capacità adattiva rispetto al caso
 
 macchine umane fanno sopravvivere anche gli inadatti
+
+soluzione: megaesplosivo al centro del mondo che fa esplodere tutto
+
+p.316
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMzODkxMzUsLTUzMTQyMzE2NV19
+eyJoaXN0b3J5IjpbLTEzNTYyOTEzMDksLTUzMTQyMzE2NV19
 -->
