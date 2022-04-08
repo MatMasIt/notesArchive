@@ -23,6 +23,11 @@ macchine umane fanno sopravvivere anche gli inadatti
 soluzione: megaesplosivo al centro del mondo che fa esplodere tutto
 
 p.316
+
+
+cerca giustificazione e alibi
+
+morte del padre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTYyOTEzMDksLTUzMTQyMzE2NV19
+eyJoaXN0b3J5IjpbLTEwNDY0MDkzMzYsLTUzMTQyMzE2NV19
 -->
