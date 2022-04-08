@@ -18,7 +18,12 @@ Manifesto
 
 dittatura del proletariato
 
-dominazione violen
+dominazione violenta
+
+dittatura ma finalmente dittatura della maggioranza sulla minoranza
+
+per garantire dominio politico vanno presi provvedimenti:
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjI5NDE3OTZdfQ==
+eyJoaXN0b3J5IjpbMTM4NzU0MDQyM119
 -->
