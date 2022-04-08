@@ -34,9 +34,10 @@ Distinzione comunismo con altri socialistmi:
 
 * socialismo eaionario, che vuole trornare indietro 
 * socialismo conservatore: non vuole abolire proprietà privata, ma vuole distribuirla maggiormente (come Proudhon p.53) | vero concorrente del comunismo
-parole dure: 
+parole dure di Marx = rientrano in questa categorie: economisti, filantropi, organizzatori di beneficienze, protettore degli animali, etc
+* socialismo critico-utopistico
 
 p.47, cos'è la proprietà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTkzNTA0NCwtNzU3MDIzNjg0XX0=
+eyJoaXN0b3J5IjpbLTE3MTk4NDQ0MDYsLTc1NzAyMzY4NF19
 -->
