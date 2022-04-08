@@ -28,6 +28,12 @@ per garantire dominio politico vanno presi netti provvedimenti:
 * Concentrare tutti i mezzi di trasposto e il credito (le banche) in mano dello stato
 Solo banca nazionale, no banche private 
 * istruzione pubblica e gratuita di tutti i fanciulli, che non possono lavorare in fabbrica
+
+
+Distinzione comunismo con altri socialistmi:
+
+* socialismo eaionario, che vuole trornare indietro 
+* socialismo conservatore: non vuole abolire proprietà privata, ma vuole distribuirla maggiormente (come Proudhon p.53)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzAyMzY4NF19
+eyJoaXN0b3J5IjpbLTMyNDU4OTYzMSwtNzU3MDIzNjg0XX0=
 -->
