@@ -4,7 +4,13 @@ Zeno: Augusta malfenti come modello
 
 vede che poi anche i borghesi sono malati
 
-confine sa
+confine salute-malattia
+
+ada: colpita dal morbo di Basedov, che la deturpa
+
+Guido da borghese realizzato diventa fallimentare
+
+scoperto tradimento moglie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzMxNTc1XX0=
+eyJoaXN0b3J5IjpbLTUzMTQyMzE2NV19
 -->
