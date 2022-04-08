@@ -27,6 +27,7 @@ per garantire dominio politico vanno presi netti provvedimenti:
 * abolire il diritto di successione (eredità)
 * Concentrare tutti i mezzi di trasposto e il credito (le banche) in mano dello stato
 Solo banca nazionale, no banche private 
+* istruzione pubblica e gratuita di tutti i fanciulli, che non possono lavorare in fabbrica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjA3NDA5Nl19
+eyJoaXN0b3J5IjpbLTc1NzAyMzY4NF19
 -->
