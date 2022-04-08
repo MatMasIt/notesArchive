@@ -33,7 +33,10 @@ Solo banca nazionale, no banche private
 Distinzione comunismo con altri socialistmi:
 
 * socialismo eaionario, che vuole trornare indietro 
-* socialismo conservatore: non vuole abolire proprietà privata, ma vuole distribuirla maggiormente (come Proudhon p.53)
+* socialismo conservatore: non vuole abolire proprietà privata, ma vuole distribuirla maggiormente (come Proudhon p.53) | vero concorrente del comunismo
+parole dure: 
+
+p.47, cos'è la proprietà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDU4OTYzMSwtNzU3MDIzNjg0XX0=
+eyJoaXN0b3J5IjpbLTUwNTkzNTA0NCwtNzU3MDIzNjg0XX0=
 -->
