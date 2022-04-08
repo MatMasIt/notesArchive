@@ -5,7 +5,7 @@ ad un certo punto le forze produttive crescono talmente tanto da condierarare i 
 
 non può non finre così
 
-
+mentalità per cui la rivo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ0NTI5NDRdfQ==
+eyJoaXN0b3J5IjpbMjAzOTM5NzE2MV19
 -->
