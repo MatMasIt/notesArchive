@@ -128,9 +128,21 @@ riproposizione come pensa Nietsche
 
 Percieval
 Opera di Wagner diventa meno credibile per Nietsche, che rimane deluso
-Allontamane
+Allontanamento
 
 Schopenhauer sempre più criticato da N per il pessimismo e la visione irrazionalistica della realtà
+
+
+Seconda opera:
+Umano, troppo umano
+_Un libro per spiriti liberi_
+
+cambia stile 
+non più un saggio
+
+opera aforistica
+
+più o meno brevi pensieri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTgwNjg5OTddfQ==
+eyJoaXN0b3J5IjpbLTU5ODEzNTU1Ml19
 -->
