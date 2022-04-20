@@ -109,7 +109,10 @@ Opinioni filologiche contestate
 componente irrazionale di Schopehauer (volontà) fatta propria da Nietsche
 
 
-Secono
+Secondo Nietsche nei drammi di Wagner si ritrova la fusione tra gesto, immagine (apollinea) e musica (dionisiaca) all'altezza antiche tragedie
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzgzMzc4Nl19
+eyJoaXN0b3J5IjpbLTIwMDU1MDE0MTddfQ==
 -->
