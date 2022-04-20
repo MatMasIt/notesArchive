@@ -14,7 +14,8 @@ Comte positivista: ha esaltato la scienza come miglior sapere
 ma passaggio da stato metafisico a positivo è sostanzialmente necessario
 
 filosofia della storia
-visione necessa
+visione necessaristica  e finalistica come Marx o Hegel
+non molto scientifica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjMwMzM3M119
+eyJoaXN0b3J5IjpbLTExNjA4MTczMzZdfQ==
 -->
