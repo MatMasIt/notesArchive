@@ -26,8 +26,9 @@ righe
 tipologia C
 deve essere argomentativa
 
-
+grafica pulita
+no 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc2NTQ4MywtMzQ5OTk3MzYzLDIwMT
-Q2MjQzNjNdfQ==
+eyJoaXN0b3J5IjpbNjU0MTg2NzYyLC0zNDk5OTczNjMsMjAxND
+YyNDM2M119
 -->
