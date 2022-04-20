@@ -12,7 +12,16 @@ laorare sui fogli di consegna
 "testo" o "brano", quando si tratta da un testo completo
 genere "racconto"
 
+salto riga tra cappello e riassun possiileto
 
+scrittura continua nel riassunto,
+
+
+b1 20
+b2 25
+b3 30
+
+righe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTQ1Njk1LDIwMTQ2MjQzNjNdfQ==
+eyJoaXN0b3J5IjpbLTM0OTk5NzM2MywyMDE0NjI0MzYzXX0=
 -->
