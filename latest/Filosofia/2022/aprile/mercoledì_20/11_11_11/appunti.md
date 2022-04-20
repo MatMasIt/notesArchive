@@ -60,6 +60,13 @@ Diventa professore ordinario nell'aprile 1870
 _La nascita della tragedia_
 
 forte impatto in ambito filosofico e filologico
+
+concezione della cultura greca classica molto diversa da quella diffusa nella seconda metà del'800
+
+N prende in considerazione la tragedia greca e dice che è stata la massima expr artistica e culturale del mondo greco
+
+due grandi forze nela dimensione della tragedia greca (che animano lo spirito greco)
+* L'
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTIzMDU3N119
+eyJoaXN0b3J5IjpbLTE5NjU4MDM1ODFdfQ==
 -->
