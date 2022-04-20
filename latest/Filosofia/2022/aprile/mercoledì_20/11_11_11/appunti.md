@@ -143,6 +143,10 @@ non più un saggio
 opera aforistica
 
 più o meno brevi pensieri
+
+difficile da studiare
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODEzNTU1Ml19
+eyJoaXN0b3J5IjpbODQ4Mzc3ODQzXX0=
 -->
