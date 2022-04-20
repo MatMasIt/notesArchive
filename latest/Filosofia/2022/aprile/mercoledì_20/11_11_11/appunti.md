@@ -112,7 +112,7 @@ componente irrazionale di Schopehauer (volontà) fatta propria da Nietsche
 Secondo Nietsche nei drammi di Wagner si ritrova la fusione tra gesto, immagine (apollinea) e musica (dionisiaca) all'altezza antiche tragedie
 
 
-
+in questa prima fase del suo pensiera (estetico) l'arte è la chiave per comprendere la verità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU1MDE0MTddfQ==
+eyJoaXN0b3J5IjpbLTMxMjYxNjgxM119
 -->
