@@ -9,7 +9,7 @@ C: valutare con cura le informazioni e le conoscenze in proprio possesso, possib
 
 laorare sui fogli di consegna
 
-
+"ts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjgxMTE5MCwyMDE0NjI0MzYzXX0=
+eyJoaXN0b3J5IjpbLTIxMTg3MDcwMzUsMjAxNDYyNDM2M119
 -->
