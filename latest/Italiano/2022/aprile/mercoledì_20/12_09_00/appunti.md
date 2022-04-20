@@ -1,8 +1,8 @@
 # Italiano
 
-Restituzione della tipologia B
+Restituzione della simulazione
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5NzIwMTQxXX0=
+eyJoaXN0b3J5IjpbLTE0MTk2NDI5ODldfQ==
 -->
