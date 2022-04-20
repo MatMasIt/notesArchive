@@ -87,7 +87,7 @@ dismisura, caos, disordine
 
 Danza e musica ne sono espressione
 
-dare espressione a interiorità
+dare espressione a istintività
 
 
 Tragedia antica
@@ -103,6 +103,13 @@ filosofie atitragiche
 
 gli uomini non posono disfarsi però del caos e del disordine
 
+Opinioni filologiche contestate
+
+
+componente irrazionale di Schopehauer (volontà) fatta propria da Nietsche
+
+
+Secono
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2MzI2OTVdfQ==
+eyJoaXN0b3J5IjpbLTQ0NzgzMzc4Nl19
 -->
