@@ -47,7 +47,13 @@ N nega principio ultimo
 
 Il tentativo di avere curato la malattia del divenire ha fatto più male della malattia, ha reso l'uomo infelice
 
+p 120
 
+N ha avuto due punti di riferimento in formazione
+* Schopenhauer
+* Incontro con Richard Wagner (conosciuto nel 1868) contatti mantenuti fino a una rottura del 1878
+	* doppia influenza
+* studii
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTExOTU4Ml19
+eyJoaXN0b3J5IjpbLTIxNzYyNjQ0MV19
 -->
