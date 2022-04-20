@@ -23,8 +23,11 @@ b3 30
 
 righe
 
-tipolo
+tipologia C
+deve essere argomentativa
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTIzMzI2MiwtMzQ5OTk3MzYzLDIwMT
+eyJoaXN0b3J5IjpbLTEzMDc2NTQ4MywtMzQ5OTk3MzYzLDIwMT
 Q2MjQzNjNdfQ==
 -->
