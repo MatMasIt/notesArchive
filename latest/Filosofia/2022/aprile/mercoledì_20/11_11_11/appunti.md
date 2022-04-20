@@ -123,8 +123,14 @@ carattere asistematico
 ---
 ---
 1878
-Qagner, Tristano e Isotta
-riproposizione ar
+Wagner, Tristano e Isotta
+riproposizione come pensa Nietsche
+
+Percieval
+Opera di Wagner diventa meno credibile per Nietsche, che rimane deluso
+Allontamane
+
+Schopenhauer sempre più criticato da N per il pessimismo e la visione irrazionalistica della realtà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzM5MDQ5MF19
+eyJoaXN0b3J5IjpbLTEwOTgwNjg5OTddfQ==
 -->
