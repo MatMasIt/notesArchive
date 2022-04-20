@@ -148,7 +148,9 @@ difficile da studiare
 
 dubbi sulla possibilità dell'arte di fornirci un discorso sulla verità 
 
-Strategia: la 
+Strategia: la _scienza_
+
+> ==Umano, Troppo umano 07:58==
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzE1MTE5NF19
+eyJoaXN0b3J5IjpbMjUxNTI0MDM3XX0=
 -->
