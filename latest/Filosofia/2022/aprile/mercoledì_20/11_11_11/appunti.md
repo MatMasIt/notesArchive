@@ -66,7 +66,18 @@ concezione della cultura greca classica molto diversa da quella diffusa nella se
 N prende in considerazione la tragedia greca e dice che è stata la massima expr artistica e culturale del mondo greco
 
 due grandi forze nela dimensione della tragedia greca (che animano lo spirito greco)
-* L'
+* L'apollineo
+* Il dionisiaco
+
+
+entrambi presenti e dal loro contrasto scaturisce la grandezza tragedia greca
+
+Apollineo:
+Apollo è il dio della luce e della chiarezza, della misura e della forma
+
+Tendenza dell'uomo a raggiungere forma, equilibrio perfetti
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjU4MDM1ODFdfQ==
+eyJoaXN0b3J5IjpbLTUyODM3Mzk2Ml19
 -->
