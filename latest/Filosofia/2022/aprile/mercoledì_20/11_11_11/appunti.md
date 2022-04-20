@@ -33,7 +33,21 @@ Muore nel 1900
 
 La filosofia ha sempre cercato struttura ultima, origine e senso della realtà
 
-coordinate per orientarsi nel dive
+coordinate per orientarsi nel divenire apparentemente privo di un ordine
+
+delineare una spieazione e una cornice di senso per il reale
+
+
+N seppellisce questa idea
+
+Gli esseri umani hanno sacrificato troppo nella ricerca del principio ultimo della realtà
+
+
+N nega principio ultimo
+
+Il tentativo di avere curato la malattia del divenire ha fatto più male della malattia, ha reso l'uomo infelice
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTI0NjM4OF19
+eyJoaXN0b3J5IjpbMTc0OTExOTU4Ml19
 -->
