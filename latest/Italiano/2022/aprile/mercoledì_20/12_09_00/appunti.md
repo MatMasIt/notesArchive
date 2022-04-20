@@ -9,7 +9,10 @@ C: valutare con cura le informazioni e le conoscenze in proprio possesso, possib
 
 laorare sui fogli di consegna
 
-"ts
+"testo" o "brano", quando si tratta da un testo completo
+genere "racconto"
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg3MDcwMzUsMjAxNDYyNDM2M119
+eyJoaXN0b3J5IjpbMjA0MTQ1Njk1LDIwMTQ2MjQzNjNdfQ==
 -->
