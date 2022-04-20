@@ -97,6 +97,12 @@ equilibrio tradito da Euripide, dove appare di più componente apollinea
 
 Euripide vive nei tempi di Socrate e Platone, che hanno cominciato a costruire metafisiche che avevano lo scopo di espellere il caos dalla vicenda umana
 
+
+metafsiche rassicurante
+filosofie atitragiche
+
+gli uomini non posono disfarsi però del caos e del disordine
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTMyODI0MV19
+eyJoaXN0b3J5IjpbNzY2MzI2OTVdfQ==
 -->
