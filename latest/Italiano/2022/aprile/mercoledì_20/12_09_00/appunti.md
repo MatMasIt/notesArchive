@@ -27,8 +27,9 @@ tipologia C
 deve essere argomentativa
 
 grafica pulita
-no 
+no continue correzioni
+no mezze pagine in bianco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0MTg2NzYyLC0zNDk5OTczNjMsMjAxND
-YyNDM2M119
+eyJoaXN0b3J5IjpbMTYxNTY3NjkyOCwtMzQ5OTk3MzYzLDIwMT
+Q2MjQzNjNdfQ==
 -->
