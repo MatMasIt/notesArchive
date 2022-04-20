@@ -113,6 +113,16 @@ Secondo Nietsche nei drammi di Wagner si ritrova la fusione tra gesto, immagine 
 
 
 in questa prima fase del suo pensiera (estetico) l'arte è la chiave per comprendere la verità
+
+
+
+aforismi
+carattere asistematico
+
+----
+---
+---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjYxNjgxM119
+eyJoaXN0b3J5IjpbLTE2MjI3NDU4MjZdfQ==
 -->
