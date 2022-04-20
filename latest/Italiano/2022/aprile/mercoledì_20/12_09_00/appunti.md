@@ -7,7 +7,9 @@ A e B: valutare il grado di comprensione del testo e fare ipotesi sulla produzio
 
 C: valutare con cura le informazioni e le conoscenze in proprio possesso, possibilmente con l'associazione alle fonti e ai fatti di cronica con cui sono in relazione
 
-la
+laorare sui fogli di consegna
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTAyMzE1NCwyMDE0NjI0MzYzXX0=
+eyJoaXN0b3J5IjpbLTIyMjgxMTE5MCwyMDE0NjI0MzYzXX0=
 -->
