@@ -92,6 +92,11 @@ dare espressione a interiorità
 
 Tragedia antica
 Eschilo e sofocle
+
+equilibrio tradito da Euripide, dove appare di più componente apollinea
+
+Euripide vive nei tempi di Socrate e Platone, che hanno cominciato a costruire metafisiche che avevano lo scopo di espellere il caos dalla vicenda umana
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTkwMjM2NTNdfQ==
+eyJoaXN0b3J5IjpbMTM2MTMyODI0MV19
 -->
