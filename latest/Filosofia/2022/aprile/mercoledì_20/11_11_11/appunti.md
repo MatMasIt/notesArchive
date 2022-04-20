@@ -77,7 +77,15 @@ Apollo è il dio della luce e della chiarezza, della misura e della forma
 
 Tendenza dell'uomo a raggiungere forma, equilibrio perfetti
 
+Scultura e architettura, espressione apollineo
 
+nella tragedia si manifesta come struttura argomentativa
+
+Dionisiaco:
+Dioniso è il dio della notte e dell'ebbrezza
+dismisura, caos, disordine
+
+Danza e musica ne sono e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODM3Mzk2Ml19
+eyJoaXN0b3J5IjpbMTA1NzkwMDkzNl19
 -->
