@@ -85,7 +85,13 @@ Dionisiaco:
 Dioniso è il dio della notte e dell'ebbrezza
 dismisura, caos, disordine
 
-Danza e musica ne sono e
+Danza e musica ne sono espressione
+
+dare espressione a interiorità
+
+
+Tragedia antica
+Eschilo e sofocle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzkwMDkzNl19
+eyJoaXN0b3J5IjpbLTE4MTkwMjM2NTNdfQ==
 -->
