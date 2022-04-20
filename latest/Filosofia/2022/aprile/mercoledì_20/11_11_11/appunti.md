@@ -23,7 +23,17 @@ non molto scientifica
 
 p 120
 Nasce nei pressi di Lipsia nel 1844
-muore 
+Muore nel 1900
+
+
+> Abbreviazione
+> N = Nietzsce
+
+
+
+La filosofia ha sempre cercato struttura ultima, origine e senso della realtà
+
+coordinate per orientarsi nel dive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2MzI4NTIxXX0=
+eyJoaXN0b3J5IjpbLTc5NTI0NjM4OF19
 -->
