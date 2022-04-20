@@ -53,7 +53,13 @@ N ha avuto due punti di riferimento in formazione
 * Schopenhauer
 * Incontro con Richard Wagner (conosciuto nel 1868) contatti mantenuti fino a una rottura del 1878
 	* doppia influenza
-* studii
+* studi filologici sulle letterature classiche, greca e latina
+* Insegna già nel 1869 lingua e letteratura greca presso l'università  di Basilea (a 25 anni)
+Diventa professore ordinario nell'aprile 1870
+1872: pubblica la sua prima opera
+_La nascita della tragedia_
+
+forte impatto in ambito filosofico e filologico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzYyNjQ0MV19
+eyJoaXN0b3J5IjpbLTg2NTIzMDU3N119
 -->
