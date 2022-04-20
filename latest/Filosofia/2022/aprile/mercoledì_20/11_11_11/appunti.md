@@ -146,7 +146,9 @@ più o meno brevi pensieri
 
 difficile da studiare
 
+dubbi sulla possibilità dell'arte di fornirci un discorso sulla verità 
 
+Strategia: la 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4Mzc3ODQzXX0=
+eyJoaXN0b3J5IjpbLTM1NzE1MTE5NF19
 -->
