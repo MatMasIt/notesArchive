@@ -13,8 +13,9 @@ disorientation
 why?
 1. WWI & WWII
 After WWI english people were left astonished, disappointed, disillusioned young generation but also the people who fought the world were left shocked and suffered trauma
-"The shell-shocked victims" shell explosion: bomb explosion, psychological disorder caused by the horrors of the wars (mental breakdowns, going crazy, depression), difficult to recover, they felt guilty, they felt responsive to the tagedy of the war. In one of the novel by Virginia Woolf we will study ("Mrs Dalloway", 1925), one of the protagonists of the war is a shellshocked victim "Septimus Warren Smith"
+"The shell-shocked victims" shell explosion: bomb explosion, psychological disorder caused by the horrors of the wars (mental breakdowns, going crazy, depression), difficult to recover, they felt guilty, they felt responsive to the tagedy of the war. In one of the novel by Virginia Woolf we will study ("Mrs Dalloway", 1925), one of the protagonists of the war is a shellshocked victim "Septimus Warren Smith", who feels guilty for everything
+Post-Traumatic stress disorder
 2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk2NzUxNjNdfQ==
+eyJoaXN0b3J5IjpbLTE4MDcxMTQ1MTNdfQ==
 -->
