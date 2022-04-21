@@ -75,7 +75,11 @@ Multiple perspectives, carachteristic of he modernist novel
 	* studies based on the interpretations of dreams
 	The core is not the plot, is the character's mind
 	The core is not the event, but the perception that the character has of it
-6. W. Jame's stream of conscioueness
+4. W. Jame's stream of conscioueness
+Free flow of thouhgts and senations that characterizes the human mind
+Interior monologue technique:
+* Joyce, Ulysses
+* La Coscienza di Zeno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE0NTI5NDVdfQ==
+eyJoaXN0b3J5IjpbLTEzMjEwODQwMiwtMTMxMTQ1Mjk0NV19
 -->
