@@ -66,13 +66,13 @@ Multiple perspectives, carachteristic of he modernist novel
 	> We live in the present, have memories of the past and we can think of the furure
 	
 	Overlapping of time in protagonist's time
-	J. oyce, Ulysses (1922) [
+	J. Joyce, Ulysses (1922) [mr and Mrs Bloom) | W.Woolf
 	*	Historical time, or time of the clock
  Objective, external, linear time
-3. Freud's psychoanalysis on the unconscious (1900
+3. Freud's psychoanalysis on the unconscious (1900)
 	*  Fragmentation of the self
 	*	powe of the unconscious (1900)
 6. W. Jame's stream of conscioueness
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzY4NDA5XX0=
+eyJoaXN0b3J5IjpbLTE2ODQ2ODU3OTZdfQ==
 -->
