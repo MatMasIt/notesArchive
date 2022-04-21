@@ -83,11 +83,10 @@ Interior monologue technique:
 
 everything takes place in the human mind
 
+Dubliners, by James Joyce
 
-two paintings
 
-Les mademoisel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjMxMTU1NzYsLTEzMTE0NTI5NDVdfQ
+eyJoaXN0b3J5IjpbLTE1MjUyOTE4NTIsLTEzMTE0NTI5NDVdfQ
 ==
 -->
