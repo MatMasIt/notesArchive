@@ -21,7 +21,16 @@ Break of victorial values
 Failure of ideals, optimism, faith in progress, patriotism
 
 
-people 
+people feel fragile, crysis o identity
+fragmentation
+
+cultural crisis
+
+rootlessnes
+
+slow dissolution of the british empire
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDgyNTE2NjBdfQ==
+eyJoaXN0b3J5IjpbMTg2MjcxNjY5OF19
 -->
