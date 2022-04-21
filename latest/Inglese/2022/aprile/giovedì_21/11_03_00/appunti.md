@@ -20,8 +20,7 @@ Break of victorial values
 
 Failure of ideals, optimism, faith in progress, patriotism
 
-
-people feel fragile, crysis o identity
+people feel fragile, crysis of identity
 fragmentation
 
 cultural crisis
@@ -30,7 +29,10 @@ rootlessnes
 
 slow dissolution of the british empire
 
+power and superiority of british empire, western civilization is being questioned by common people
 
+
+colonies want to be indipendent
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjcxNjY5OF19
+eyJoaXN0b3J5IjpbLTMzODkyOTM0MV19
 -->
