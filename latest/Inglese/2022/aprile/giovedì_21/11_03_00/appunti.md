@@ -53,6 +53,14 @@ Not very well welcomed by british government
 He analyzes the british power also by the point of view of the indians
 
 Multiple perspectives, carachteristic of he modernist novel
+
+## 3. New psycological, scientific and philosophical theories
+
+1. Eintein's theory of relativity
+	* multiple view of 
+2. Bergson's relativity of time
+3. Freud's psychoanalysis on the unconscious (1900
+4. W. Jame's stream of conscioueness
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY3Njk4NF19
+eyJoaXN0b3J5IjpbLTcxNDY3NzQ4MV19
 -->
