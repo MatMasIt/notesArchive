@@ -38,7 +38,15 @@ colonies want to be indipendent
 Indian rebellion against the british empire
 first signal of the will to be indipendent
 
-                     
+The queen was "Empress of india"
+
+
+another modernist author 
+Edward Morgan Forster
+wrote
+"A passage to India" (1924)
+
+for the first time the author questions the suoperiority of we
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY3MDM1NTNdfQ==
+eyJoaXN0b3J5IjpbLTU3NTkxNjIyNl19
 -->
