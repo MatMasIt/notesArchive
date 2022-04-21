@@ -52,7 +52,7 @@ Not very well welcomed by british government
 
 He analyzes the british power also by the point of view of the indians
 
-Multiple perspectives
+Multiple perspectives, carachteristic of he modernist novel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5OTM2MDk0XX0=
+eyJoaXN0b3J5IjpbLTE3NjY3Njk4NF19
 -->
