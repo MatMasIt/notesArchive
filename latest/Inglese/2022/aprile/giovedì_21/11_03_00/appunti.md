@@ -73,8 +73,9 @@ Multiple perspectives, carachteristic of he modernist novel
 	*  Fragmentation of the self
 	* power of the unconscious (1900)
 	* studies based on the interpretations of dreams
-Th
+	The core is not the plot, is the character's mind
+	The core is not the event, but the perception that the character has of it
 6. W. Jame's stream of conscioueness
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNTczNDY4XX0=
+eyJoaXN0b3J5IjpbLTEzMTE0NTI5NDVdfQ==
 -->
