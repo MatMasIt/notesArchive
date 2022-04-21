@@ -57,10 +57,12 @@ Multiple perspectives, carachteristic of he modernist novel
 ## 3. New psycological, scientific and philosophical theories
 
 1. Eintein's theory of relativity
-	* multiple view of 
-2. Bergson's relativity of time
+	* multiple view of reality
+	* time and space are relative
+2. Henri Bergson's relativity of time 
+	Time is like a dlow
 3. Freud's psychoanalysis on the unconscious (1900
 4. W. Jame's stream of conscioueness
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDY3NzQ4MV19
+eyJoaXN0b3J5IjpbLTE2NTQ2MjMxNTBdfQ==
 -->
