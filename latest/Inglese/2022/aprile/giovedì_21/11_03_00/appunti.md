@@ -71,8 +71,10 @@ Multiple perspectives, carachteristic of he modernist novel
  Objective, external, linear time
 3. Freud's psychoanalysis on the unconscious (1900)
 	*  Fragmentation of the self
-	*	powe of the unconscious (1900)
+	* power of the unconscious (1900)
+	* studies based on the interpretations of dreams
+Th
 6. W. Jame's stream of conscioueness
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQ2ODU3OTZdfQ==
+eyJoaXN0b3J5IjpbMzgyNTczNDY4XX0=
 -->
