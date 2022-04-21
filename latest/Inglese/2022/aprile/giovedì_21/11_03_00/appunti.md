@@ -60,11 +60,15 @@ Multiple perspectives, carachteristic of he modernist novel
 	* multiple view of reality
 	* time and space are relative
 2. Henri Bergson's relativity of time 
-	Time is like a continous flow in which past, present and future overlap
+	* Psychological time (or time of the mind)
+	Individual perception of time 
+	this time is like a continous flow in which past, present and future overlap
 	> We live in the present, have memories of the past and we can think of the furure
 	
+	*	Historical time, or time of the clock
+ Objective, external, linear time
 3. Freud's psychoanalysis on the unconscious (1900
 4. W. Jame's stream of conscioueness
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzIxMjkzMl19
+eyJoaXN0b3J5IjpbLTIxMzgzMTYwODJdfQ==
 -->
