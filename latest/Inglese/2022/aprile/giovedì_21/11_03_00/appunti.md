@@ -80,6 +80,14 @@ Free flow of thouhgts and senations that characterizes the human mind
 Interior monologue technique:
 * Joyce, Ulysses
 * La Coscienza di Zeno
+
+everything takes place in the human mind
+
+
+two paintings
+
+Les mademoisel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjEwODQwMiwtMTMxMTQ1Mjk0NV19
+eyJoaXN0b3J5IjpbLTEyNjMxMTU1NzYsLTEzMTE0NTI5NDVdfQ
+==
 -->
