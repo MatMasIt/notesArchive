@@ -65,10 +65,14 @@ Multiple perspectives, carachteristic of he modernist novel
 	this time is like a continous flow in which past, present and future overlap
 	> We live in the present, have memories of the past and we can think of the furure
 	
+	Overlapping of time in protagonist's time
+	J. oyce, Ulysses (1922) [
 	*	Historical time, or time of the clock
  Objective, external, linear time
 3. Freud's psychoanalysis on the unconscious (1900
-4. W. Jame's stream of conscioueness
+	*  Fragmentation of the self
+	*	powe of the unconscious (1900)
+6. W. Jame's stream of conscioueness
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzgzMTYwODJdfQ==
+eyJoaXN0b3J5IjpbMTc3MzY4NDA5XX0=
 -->
