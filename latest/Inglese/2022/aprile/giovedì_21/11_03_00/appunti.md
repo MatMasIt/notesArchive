@@ -33,6 +33,12 @@ power and superiority of british empire, western civilization is being questione
 
 
 colonies want to be indipendent
+
+1857 Indian Mutiny
+Indian rebellion against the british empire
+first signal of the will to be indipendent
+
+                     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODkyOTM0MV19
+eyJoaXN0b3J5IjpbLTEwNTY3MDM1NTNdfQ==
 -->
