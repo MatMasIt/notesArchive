@@ -46,7 +46,13 @@ Edward Morgan Forster
 wrote
 "A passage to India" (1924)
 
-for the first time the author questions the suoperiority of we
+for the first time the author questions the suoperiority of wester civilization (first english author)
+
+Not very well welcomed by british government
+
+He analyzes the british power also by the point of view of the indians
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTkxNjIyNl19
+eyJoaXN0b3J5IjpbMTI1ODg5MDg5NV19
 -->
