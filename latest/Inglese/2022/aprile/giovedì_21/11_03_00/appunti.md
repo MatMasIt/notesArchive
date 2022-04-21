@@ -11,7 +11,8 @@ uenasyness
 disorientation
 
 why?
-1. WWI & W
+1. WWI & WWII
+After WWI english people were left astonished, disappointed, disillusioned young generation but olso 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDY3MDU0N119
+eyJoaXN0b3J5IjpbOTQyMzU2MDQ0XX0=
 -->
