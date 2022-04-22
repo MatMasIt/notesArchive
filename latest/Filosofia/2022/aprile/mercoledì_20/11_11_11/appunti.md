@@ -204,7 +204,14 @@ p 145-147
 
 effettivamente ormai la consapevolezza del fatto che la credenza in dio è stata ccolpita al cuore e gli uomini si stanno allontanando
 
-ormai è giunta 
+ormai è giunta questa consapevolezza nella nostra società, ma tutti ancora non ne hanno capito le poderose conseguenze
+
+Siccome la morale è stata fondata sulla trascendenza
+
+valori fondanti della società sono uelli cristiani
+
+
+se dio muore occorrono valori nuovi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDg3Nzg0LDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbNTI2NTE2MTkxLDI1MTUyNDAzN119
 -->
