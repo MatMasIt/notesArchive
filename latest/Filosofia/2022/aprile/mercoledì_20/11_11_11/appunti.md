@@ -219,6 +219,14 @@ guado, passaggio cruciale
 guado
 
 noi dobbiamo fondare i nostri valori morali
+
+critica della trascendenza si porta dietro la critica della morale, basata sull'elemento trascendente
+
+i valori morali dominanti sono quelli cristiani
+
+* amore per il prossimo
+* compassione
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzc4NjgwMiwyNTE1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbODg1ODYwMjQxLDI1MTUyNDAzN119
 -->
