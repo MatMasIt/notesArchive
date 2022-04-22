@@ -192,7 +192,15 @@ siamo inseriti in vicenda caotica che finisce del tutto con la nostra morte
 
 opera: Gaia scienza
 
+Opera di quattro ani più tardi
 
+fase illuministica
+
+opera dedicata  a voltaire
+
+aforisma dell'annuncio della morte di Dio
+
+p 145-147
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ3MjgzNTEsMjUxNTI0MDM3XX0=
+eyJoaXN0b3J5IjpbOTE1MTYxMTkyLDI1MTUyNDAzN119
 -->
