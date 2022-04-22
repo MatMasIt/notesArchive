@@ -169,6 +169,15 @@ N è convinto che tutti i filosofi del passato hanno commesso errore creando met
 Non vle essere confuso con questa tradizione, quindi  usa nome "scienza"
 
 condizione umana connotata dallo spirito dionisiaco, che ora comincia ad assumere ruolo più importante
+
+
+N 
+
+Umano troppo umano
+
+bersagli poetici:
+
+* trascendenza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2Mzg1Mzg0LDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbLTE3NjU2MjY2OTgsMjUxNTI0MDM3XX0=
 -->
