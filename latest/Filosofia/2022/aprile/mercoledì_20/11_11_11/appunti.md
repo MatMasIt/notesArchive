@@ -256,6 +256,19 @@ egoismo, non altruismo
 
 
 valori di matrice cristiana ancorati ad elementi nobili ma che non lo sono
+
+valori che negano la vita, la sostanziale tensione  che muove la nostra esistenza
+
+morale della rinuncia, bisogna rinunciare a s stessi  tutto questo va rigfiutato, è profondamente contrario alla vita
+
+
+morale antivitalistica, va contro alla spinta vitale
+
+volontà di superare i limiti
+
+vera morale
+
+solo alcuni uomi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0MTM3OTc5LDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbMTIwNDc3ODQwNSwyNTE1MjQwMzddfQ==
 -->
