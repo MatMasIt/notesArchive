@@ -69,6 +69,18 @@ guerra come ricerca della sua identità
 quello che scrive per tutti
 
 nessun vate o forma oracolare
+
+
+
+t.2 il porto sepolto
+
+
+analisi attraverso uso della parola anche attraverso lo studo dei classici
+
+
+
+t.2
+Il porto sepolto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzUzMzIxNiw1NDUzOTgyNDBdfQ==
+eyJoaXN0b3J5IjpbLTE2MDgzNjA2ODEsNTQ1Mzk4MjQwXX0=
 -->
