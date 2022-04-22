@@ -108,7 +108,14 @@ accento sulla ineffabilità
 poesia non è un gioco solipsistico, ma è universale
 
 la parola poetica non è pura ispirazione, qui c'è un lavoro attivo del poeta
+
+
+parola scavata e trovata come in un abisso del porto sepolto
+
+quando trovo una parola ell'abisso quello èun ritrovaento prezioso e archeologico, e la isolo e la valorizzo
+
+mistero isondabile appena sfiorat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0MDU3Nzc5LDcxNDc1ODk2MSw1NDUzOT
-gyNDBdfQ==
+eyJoaXN0b3J5IjpbMTI0ODE3NjQ2MCw3MTQ3NTg5NjEsNTQ1Mz
+k4MjQwXX0=
 -->
