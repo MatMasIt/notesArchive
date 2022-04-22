@@ -226,7 +226,11 @@ i valori morali dominanti sono quelli cristiani
 
 * amore per il prossimo
 * compassione
-* 
+* umiltà
+* abnegazione (negazione di sè per gli altri)
+
+
+gli uomini mostrano compassione perchè credono sia stato indicato da Dio, quindi sia un atteggiamennto nobile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1ODYwMjQxLDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbNDQyNzA3MTU4LDI1MTUyNDAzN119
 -->
