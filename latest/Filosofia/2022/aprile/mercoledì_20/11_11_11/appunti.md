@@ -150,7 +150,7 @@ dubbi sulla possibilità dell'arte di fornirci un discorso sulla verità
 
 Strategia: la _scienza_
 
-> ==Umano, Troppo umano 07:58==
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxNTI0MDM3XX0=
+eyJoaXN0b3J5IjpbLTExMzYwNDg0NTksMjUxNTI0MDM3XX0=
 -->
