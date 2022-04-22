@@ -249,7 +249,10 @@ quando bisogna condividere una gioia queste nature compassionevoli spariscono, l
 incapacità
 si è rispettosi degli altriperchè si ha paura del contrasto
 
+Si soccorre qualcuno in acqua se ci sono persone vicine che non fano nulla
+vanità di apparire bravi e superiori rispetto agli altri
 
+egoismo, non altruismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDY4NDU5NCwyNTE1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbLTE2MTYxNTA1NzcsMjUxNTI0MDM3XX0=
 -->
