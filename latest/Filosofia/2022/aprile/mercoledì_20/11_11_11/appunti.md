@@ -268,7 +268,13 @@ volontà di superare i limiti
 
 vera morale
 
-solo alcuni uomi
+solo alcuni uomini la possono davero persegurie
+
+
+
+tema dello spirito libero: uomo nuovo che deve affermarsi, colui che non ha soggezione rispetto alle regole della società
+
+sa accettare tragicità della 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDc3ODQwNSwyNTE1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbLTExOTAyMTk0NDMsMjUxNTI0MDM3XX0=
 -->
