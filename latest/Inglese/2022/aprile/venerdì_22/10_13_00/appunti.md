@@ -42,8 +42,16 @@ l'insondabile
 
 p.437, 434, 435
 
-par
+parola pura, come i simbolisti
 
+indagine profonda della coscienza dell'uomo
+
+Ungaretti non ha fiducia nela psicanalisi
+
+Lui crede nella potenza dlla poesia
+
+
+Ci di
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzAxNDA1OF19
+eyJoaXN0b3J5IjpbLTEwMDQ2NTM3NzBdfQ==
 -->
