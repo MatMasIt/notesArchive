@@ -231,6 +231,9 @@ i valori morali dominanti sono quelli cristiani
 
 
 gli uomini mostrano compassione perchè credono sia stato indicato da Dio, quindi sia un atteggiamennto nobile
+
+
+questi valori non sono fodnati su Dio però sono atteggiamenti molto umani, troppo umani, nascono da tendenze umane che non  sono morali o nobili
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyNzA3MTU4LDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbMzE1Njc2MTY0LDI1MTUyNDAzN119
 -->
