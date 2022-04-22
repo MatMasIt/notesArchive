@@ -238,7 +238,12 @@ questi valori non sono fodnati su Dio però sono atteggiamenti molto umani, trop
 aforisma 321 nel pdf:
 
 i compassionevoli sono di rado quelle che partecipano insieme alle gioie altrui
-nelle felicità degli altri sono superflue e mostrano 
+nelle felicità degli altri sono superflue e mostrano facilmente disappunto
+
+
+se io ti aiuto sono superiori rispetto a te
+
+quando bisogna condividere una gioia queste nature compassione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MjAyNDA2LDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbMTEzNTcxMTE3MiwyNTE1MjQwMzddfQ==
 -->
