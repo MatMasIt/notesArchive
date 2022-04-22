@@ -114,8 +114,18 @@ parola scavata e trovata come in un abisso del porto sepolto
 
 quando trovo una parola ell'abisso quello èun ritrovaento prezioso e archeologico, e la isolo e la valorizzo
 
-mistero isondabile appena sfiorat
+mistero isondabile appena sfiorato
+parola è frammento infinitesimo del mistero da valorizzare 
+parola pregna di significato per l'umanità 
+deve ricevere grande considerazione
+
+
+Mattina
+
+mi illumino di immenso
+
+accesso al'assoluto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODE3NjQ2MCw3MTQ3NTg5NjEsNTQ1Mz
+eyJoaXN0b3J5IjpbLTI0NzgyNjc1Niw3MTQ3NTg5NjEsNTQ1Mz
 k4MjQwXX0=
 -->
