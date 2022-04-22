@@ -125,7 +125,18 @@ Mattina
 mi illumino di immenso
 
 accesso al'assoluto
+
+distico
+
+due ternari sdruccioli che ricomposti formano un senario
+
+
+aspetto fonico studiato
+
+i-o i-o aperture e chiusure vocaliche
+
+fine costruzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NzgyNjc1Niw3MTQ3NTg5NjEsNTQ1Mz
-k4MjQwXX0=
+eyJoaXN0b3J5IjpbMTc1OTgyMjkxLDcxNDc1ODk2MSw1NDUzOT
+gyNDBdfQ==
 -->
