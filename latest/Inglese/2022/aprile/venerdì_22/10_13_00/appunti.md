@@ -81,6 +81,10 @@ analisi attraverso uso della parola anche attraverso lo studo dei classici
 
 t.2
 Il porto sepolto
+p.447
+
+Vi arriva il poeta (al porto sepolto, al luogo dell'anima) 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDgzNjA2ODEsNTQ1Mzk4MjQwXX0=
+eyJoaXN0b3J5IjpbMTcxNzExNDk3LDU0NTM5ODI0MF19
 -->
