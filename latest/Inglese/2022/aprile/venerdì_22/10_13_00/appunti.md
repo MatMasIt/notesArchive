@@ -6,7 +6,11 @@ A lui piaceva essere noto, pativa concorrenza di Quasimodo (con parente Elio Vit
 
 Professore sotto il fascismo
 
-Racc
+Raccolta "L'alegria" 
+
+molti rimaneggiamenti
+
+ossimorica allegria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTUyMDA1MV19
+eyJoaXN0b3J5IjpbMTExNTI3OTc1N119
 -->
