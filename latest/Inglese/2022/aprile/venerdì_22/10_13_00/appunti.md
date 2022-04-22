@@ -51,7 +51,15 @@ Ungaretti non ha fiducia nela psicanalisi
 Lui crede nella potenza dlla poesia
 
 
-Ci di
+Ci dice che non avrebbe scritto per visibilità come soldato
+
+rispetto del sacrificio della guerra
+
+ma sentiva urgenza di scrivere
+
+scriveva su ritagli vari
+
+Ettore serra li prende e lo convince a pubblicare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ2NTM3NzBdfQ==
+eyJoaXN0b3J5IjpbNTQ1Mzk4MjQwXX0=
 -->
