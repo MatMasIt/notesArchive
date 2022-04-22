@@ -104,6 +104,9 @@ nulla inesauribile, ossimorico
 se non c'è nulla, non è esauribile
 
 accento sulla ineffabilità
+
+poesia non è un gioco solipsistico, ma è universale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0NzU4OTYxLDU0NTM5ODI0MF19
+eyJoaXN0b3J5IjpbNTY5NjQwMjA0LDcxNDc1ODk2MSw1NDUzOT
+gyNDBdfQ==
 -->
