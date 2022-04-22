@@ -107,8 +107,8 @@ accento sulla ineffabilità
 
 poesia non è un gioco solipsistico, ma è universale
 
-
+la parola poetica non è pura ispirazione, qui c'è un lavoro attivo del poeta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTAxMzUyOCw3MTQ3NTg5NjEsNTQ1Mz
-k4MjQwXX0=
+eyJoaXN0b3J5IjpbNTA0MDU3Nzc5LDcxNDc1ODk2MSw1NDUzOT
+gyNDBdfQ==
 -->
