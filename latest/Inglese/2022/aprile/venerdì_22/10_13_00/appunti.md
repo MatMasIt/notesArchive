@@ -90,7 +90,14 @@ arrivare: _apax legomenon_
 > Parola o locuzione che appare una e una volta soltanto
 
 
-Valore eccezionaleil poeta ci arriva c
+Valore eccezionaleil poeta ci arriva con 'illuminazione improvvisa
+
+Carlo Ossola (grande studioso di Ungaretti) dice che per ungaretti il viaggio è il partire
+
+tornare alla luce con i canti e dissiparli (dimensione collettiva)
+
+v 5 della poesia mi resta al termine del viaggio fino al mistero delle cose
+quel nulla, soltanto una allusione, uno sf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDYzNTY5Myw1NDUzOTgyNDBdfQ==
+eyJoaXN0b3J5IjpbMTkxMTc2NzQ0Miw1NDUzOTgyNDBdfQ==
 -->
