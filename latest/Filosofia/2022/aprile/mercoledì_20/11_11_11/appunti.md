@@ -185,7 +185,14 @@ Metafisica: bugie per evitare la propria finitezza e debolezza
 
 l'uomo secondo N deve accettare il messaggio della tragedia antica
 
-l'Happy
+l'Happy end non è previsto
+
+
+siamo inseriti in vicenda caotica che finisce del tutto con la nostra morte
+
+opera: Gaia scienza
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDkwOTM2OSwyNTE1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbLTEyOTQ3MjgzNTEsMjUxNTI0MDM3XX0=
 -->
