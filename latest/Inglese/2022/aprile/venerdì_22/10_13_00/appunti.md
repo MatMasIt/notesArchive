@@ -84,7 +84,13 @@ Il porto sepolto
 p.447
 
 Vi arriva il poeta (al porto sepolto, al luogo dell'anima) 
+inabissamento
 
+arrivare: _apax legomenon_
+> Parola o locuzione che appare una e una volta soltanto
+
+
+Valore eccezionaleil poeta ci arriva c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzExNDk3LDU0NTM5ODI0MF19
+eyJoaXN0b3J5IjpbMTMwMDYzNTY5Myw1NDUzOTgyNDBdfQ==
 -->
