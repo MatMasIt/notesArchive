@@ -211,7 +211,14 @@ Siccome la morale è stata fondata sulla trascendenza
 valori fondanti della società sono uelli cristiani
 
 
-se dio muore occorrono valori nuovi
+se dio muore occorrono valori nuovià
+
+allora gli uomini stessi devono farsi divinità
+
+guado, passaggio cruciale
+guado
+
+noi dobbiamo fondare i nostri valori morali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2NTE2MTkxLDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbMTcwNzc4NjgwMiwyNTE1MjQwMzddfQ==
 -->
