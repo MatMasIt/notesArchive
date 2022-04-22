@@ -234,6 +234,11 @@ gli uomini mostrano compassione perchè credono sia stato indicato da Dio, quind
 
 
 questi valori non sono fodnati su Dio però sono atteggiamenti molto umani, troppo umani, nascono da tendenze umane che non  sono morali o nobili
+
+aforisma 321 nel pdf:
+
+i compassionevoli sono di rado quelle che partecipano insieme alle gioie altrui
+nelle felicità degli altri sono superflue e mostrano 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1Njc2MTY0LDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbMzE1MjAyNDA2LDI1MTUyNDAzN119
 -->
