@@ -34,7 +34,16 @@ e scriveva il porto sepolto
 
 contatto con la guerra
 
-natura conosciuta in m
+natura conosciuta in modo nuovo e terribile
+
+Morte rappresenta l'assoluto
+l'insondabile
+
+
+p.437, 434, 435
+
+par
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQ2Nzc2ODBdfQ==
+eyJoaXN0b3J5IjpbMTEzNzAxNDA1OF19
 -->
