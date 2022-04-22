@@ -175,9 +175,17 @@ N
 
 Umano troppo umano
 
-bersagli poetici:
+bersagli polemici:
 
 * trascendenza
+* tradizionale concezione della morale della cultura europea
+
+
+Metafisica: bugie per evitare la propria finitezza e debolezza
+
+l'uomo secondo N deve accettare il messaggio della tragedia antica
+
+l'Happy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU2MjY2OTgsMjUxNTI0MDM3XX0=
+eyJoaXN0b3J5IjpbMTQ1MDkwOTM2OSwyNTE1MjQwMzddfQ==
 -->
