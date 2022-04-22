@@ -156,6 +156,15 @@ diffidenza retorica
 
 critica di ogni aspetto apparentemente scontato della realtà
 
+praticamente definizione di  Filosofia 
+
+che è la chiave per comprendere la realtà
+
+filosofia rimessa al centro
+
+N ha molti dubbi rispetto ai filosofi del passato
+
+N è convinto che tutti i filosofi del passato hanno commesso errore creando metafisiche antitragiche, perchè la realtà è t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDM1MjAxLDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbLTEwMTY4NDc5MzQsMjUxNTI0MDM3XX0=
 -->
