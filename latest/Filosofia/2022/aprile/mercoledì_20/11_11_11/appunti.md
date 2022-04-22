@@ -164,7 +164,11 @@ filosofia rimessa al centro
 
 N ha molti dubbi rispetto ai filosofi del passato
 
-N è convinto che tutti i filosofi del passato hanno commesso errore creando metafisiche antitragiche, perchè la realtà è t
+N è convinto che tutti i filosofi del passato hanno commesso errore creando metafisiche antitragiche, perchè la realtà è tutto caos irrazionale senza principi
+
+Non vle essere confuso con questa tradizione, quindi  usa nome "scienza"
+
+condizione umana connotata dallo spirito dionisiaco, che ora comincia ad assumere ruolo più importante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY4NDc5MzQsMjUxNTI0MDM3XX0=
+eyJoaXN0b3J5IjpbOTU2Mzg1Mzg0LDI1MTUyNDAzN119
 -->
