@@ -97,7 +97,13 @@ Carlo Ossola (grande studioso di Ungaretti) dice che per ungaretti il viaggio è
 tornare alla luce con i canti e dissiparli (dimensione collettiva)
 
 v 5 della poesia mi resta al termine del viaggio fino al mistero delle cose
-quel nulla, soltanto una allusione, uno sf
+quel nulla, soltanto una allusione, uno sfioramento del mistero
+
+nulla inesauribile, ossimorico
+
+se non c'è nulla, non è esauribile
+
+accento sulla ineffabilità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTc2NzQ0Miw1NDUzOTgyNDBdfQ==
+eyJoaXN0b3J5IjpbNzE0NzU4OTYxLDU0NTM5ODI0MF19
 -->
