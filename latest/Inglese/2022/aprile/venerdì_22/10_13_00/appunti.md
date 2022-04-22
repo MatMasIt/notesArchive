@@ -106,7 +106,9 @@ se non c'è nulla, non è esauribile
 accento sulla ineffabilità
 
 poesia non è un gioco solipsistico, ma è universale
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5NjQwMjA0LDcxNDc1ODk2MSw1NDUzOT
-gyNDBdfQ==
+eyJoaXN0b3J5IjpbLTg2OTAxMzUyOCw3MTQ3NTg5NjEsNTQ1Mz
+k4MjQwXX0=
 -->
