@@ -201,6 +201,10 @@ opera dedicata  a voltaire
 aforisma dell'annuncio della morte di Dio
 
 p 145-147
+
+effettivamente ormai la consapevolezza del fatto che la credenza in dio è stata ccolpita al cuore e gli uomini si stanno allontanando
+
+ormai è giunta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1MTYxMTkyLDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbMTkxMDg3Nzg0LDI1MTUyNDAzN119
 -->
