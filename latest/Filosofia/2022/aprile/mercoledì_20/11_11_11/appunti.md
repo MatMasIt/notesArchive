@@ -274,7 +274,23 @@ solo alcuni uomini la possono davero persegurie
 
 tema dello spirito libero: uomo nuovo che deve affermarsi, colui che non ha soggezione rispetto alle regole della società
 
-sa accettare tragicità della 
+sa accettare tragicità della vita
+
+sperimentazione, disponibile a provare tutto quello che può dare pienezza della vita
+
+
+antesignano dell' _oltreuomo_ o del _superuomo_
+
+
+spregiudicatezza intellettuale e di vita
+
+capacità di accettare il tragico
+
+nessuna illusione, lucidità
+
+tutto questo non da luogo al pessimismo
+
+vita gaia, audace, temeraria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAyMTk0NDMsMjUxNTI0MDM3XX0=
+eyJoaXN0b3J5IjpbLTIxMzgwMTQ0NjgsMjUxNTI0MDM3XX0=
 -->
