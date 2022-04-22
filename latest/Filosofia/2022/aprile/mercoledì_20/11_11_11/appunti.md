@@ -253,6 +253,9 @@ Si soccorre qualcuno in acqua se ci sono persone vicine che non fano nulla
 vanità di apparire bravi e superiori rispetto agli altri
 
 egoismo, non altruismo
+
+
+valori di matrice cristiana ancorati ad elementi nobili ma che non lo sono
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTYxNTA1NzcsMjUxNTI0MDM3XX0=
+eyJoaXN0b3J5IjpbNjY0MTM3OTc5LDI1MTUyNDAzN119
 -->
