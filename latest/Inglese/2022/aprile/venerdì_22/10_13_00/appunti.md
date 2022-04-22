@@ -61,8 +61,14 @@ scriveva su ritagli vari
 
 Ettore serra li prende e lo convince a pubblicare
 
-
+Poesia "Italia"
 ---
+
+guerra come ricerca della sua identità
+
+quello che scrive per tutti
+
+nessun vate o forma oracolare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ5Mzk3MTUsNTQ1Mzk4MjQwXX0=
+eyJoaXN0b3J5IjpbMTA0NzUzMzIxNiw1NDUzOTgyNDBdfQ==
 -->
