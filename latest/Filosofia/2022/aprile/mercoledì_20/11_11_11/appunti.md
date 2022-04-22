@@ -150,7 +150,12 @@ dubbi sulla possibilità dell'arte di fornirci un discorso sulla verità
 
 Strategia: la _scienza_
 
+Anallisi critica della realtà
+dubbio sistematico 
+diffidenza retorica
+
+critica di ogni aspetto apparentemente scontato della realtà
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYwNDg0NTksMjUxNTI0MDM3XX0=
+eyJoaXN0b3J5IjpbLTY3NDM1MjAxLDI1MTUyNDAzN119
 -->
