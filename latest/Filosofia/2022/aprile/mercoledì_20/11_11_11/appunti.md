@@ -243,7 +243,13 @@ nelle felicità degli altri sono superflue e mostrano facilmente disappunto
 
 se io ti aiuto sono superiori rispetto a te
 
-quando bisogna condividere una gioia queste nature compassione
+quando bisogna condividere una gioia queste nature compassionevoli spariscono, lì non hanno nulla da fare
+
+
+incapacità
+si è rispettosi degli altriperchè si ha paura del contrasto
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTcxMTE3MiwyNTE1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbMTA1NDY4NDU5NCwyNTE1MjQwMzddfQ==
 -->
