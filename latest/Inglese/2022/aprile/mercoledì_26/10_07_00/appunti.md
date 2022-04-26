@@ -23,11 +23,14 @@ melting of time, relativity, typical in modernist literature
 James Joyce's Ulysses,  the whole novel is set on one single day,
 16th June 1904, 16th of june is usualy "blooms day" in dublin
 
-national celebrations
+Thick book, about 1000 pages
+dilated time, eveything takes place in the mind of the characte
+
+national celebrations, they celebrate James Joyce
 
 they remember the events of 
 
-boom: protagonist of ulysses
+Mr Bloom: protagonist of ulysses
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTAxODM4MF19
+eyJoaXN0b3J5IjpbOTcxNDcwMzg1XX0=
 -->
