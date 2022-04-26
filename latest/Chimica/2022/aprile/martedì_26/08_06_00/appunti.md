@@ -11,7 +11,15 @@
 Azoto ammoniacale, determinazione spettrofotometrica con reattivo di Nessler
 
 Cloruro di ammonio
+
+$$
+V_i=\frac{C_f\cdot V_f}{C_i}
+$$
+
+
+|Soluzione|$C_f$|$V_i$|$V_f$|
+|---|--
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjUyOTg1NzMsNDg1MzgxMjA4LDY0Nj
-QzMjkzOF19
+eyJoaXN0b3J5IjpbNTAwMTYwODI2LDQ4NTM4MTIwOCw2NDY0Mz
+I5MzhdfQ==
 -->
