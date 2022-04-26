@@ -21,7 +21,7 @@ $$
 V_i=\frac{C_f\cdot V_f}{C_i}
 $$
 
-$C_i=1\frac{g}L$
+P
 |Soluzione|$C_f$|$V_i$|$V_f$|
 |---|---|---|---|
 |1|$0,4\frac{mg}L$|$0,02L$|$0,05L$
@@ -32,6 +32,6 @@ $C_i=1\frac{g}L$
 
 Prelevare $\{20,30,40,50\}mL$ da diluire nei matraccini per preparare la curva di taratura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTU2MzI4Miw0ODUzODEyMDgsNjQ2ND
-MyOTM4XX0=
+eyJoaXN0b3J5IjpbLTE0NjYyNTEyOTYsMTM2OTU2MzI4Miw0OD
+UzODEyMDgsNjQ2NDMyOTM4XX0=
 -->
