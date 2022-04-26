@@ -43,9 +43,12 @@ Cultural movement involving different kinds of art , which spread in europe at t
 
 Aim: **experimentation** (of new forms of expressions)
 
+_Novelty_
 
+Victorian standards were not suitable anymore to describe their sense of fragmentation, unaesyness, fragmentation, realtivity of time
 
-Victorian standards were not suitable anymore to describe their sense of 
+Sociocultural context of the period
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQyOTcwOTJdfQ==
+eyJoaXN0b3J5IjpbLTczOTkxNjUxOV19
 -->
