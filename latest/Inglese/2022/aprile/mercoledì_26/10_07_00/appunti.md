@@ -56,7 +56,11 @@ Prose:
 * Woolf
 * Joyce
 Poetry:
-* T.S. Elliot: angloamerrican, but always studied and travveled in europe (s, and got the british citizenship
+* T.S. Elliot: angloamerrican, but always studied and travveled in europe (studied in Paris), and got the british citizenship
+
+
+*Annus Mirabilis* of English literature: 1922 links together the three authors
+* First 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzE5MDU3NF19
+eyJoaXN0b3J5IjpbMTMyMzU3MTM3OV19
 -->
