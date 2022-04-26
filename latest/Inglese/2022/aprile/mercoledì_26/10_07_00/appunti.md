@@ -79,7 +79,20 @@ In this year:
 > * ==Geographical reasons==: separated from the continnent
 > He had a cosmopolitan approach
 
+Joyce
+
+He studied in paris, went back to ireland for mothe
 1905, voluntary exhile, he went to Trieste and he thaught engilsh
+
+he had financials difficulty in Italy
+
+After WWI he wento To Zurich
+
+In 1922 he pubblished dubliners in paris
+
+he suffers of almost blindness
+
+He died in 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTUxNTAxMDJdfQ==
+eyJoaXN0b3J5IjpbLTE3NTY5Nzk1MDJdfQ==
 -->
