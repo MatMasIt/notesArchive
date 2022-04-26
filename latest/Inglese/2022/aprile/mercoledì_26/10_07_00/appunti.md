@@ -74,9 +74,12 @@ In this year:
 
 > ^1^ _"I want to write a chapter of a moral history of my country"_
 > He percieved Dublin as the center of the **paralysis**, beacuse it is historycall stuck:
-> * strictness of the gesuite church ( Joyce's parents were strict gesuites
-> * Influence of the british govern
+> * ==Religious reasons==: strictness of the gesuite church ( Joyce's parents were strict gesuites
+> * ==Political reasons==: Influence of the british government (not indipendent)
+> * ==Geographical reasons==: separated from the continnent
 > He had a cosmopolitan approach
+
+1905, voluntary exhile, he went to Trieste and he thaught engilsh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3NTY4NzMyXX0=
+eyJoaXN0b3J5IjpbLTE1NTUxNTAxMDJdfQ==
 -->
