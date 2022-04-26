@@ -1,6 +1,9 @@
 # Lezione di Inglese
 
-Cubism: fragmentation of realitt,
+Cubism: fragmentation of reality in all its different perceptions 
+
+
+No unique plot and story, di
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTE2MTg0OV19
+eyJoaXN0b3J5IjpbLTIzMzgwMzg2N119
 -->
