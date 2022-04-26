@@ -73,8 +73,10 @@ In this year:
 |Dubliners (collection of stories set in Dublin)^1^, Ulysses |Jacob's Room, To the lightouse, Mrs: Dallaway, The Waves (the last, experimental, direct interior monologue)|
 
 > ^1^ _"I want to write a chapter of a moral history of my country"_
-> He percieved Dublin as the center of the **paralysis**
-> He had a cosmopoli
+> He percieved Dublin as the center of the **paralysis**, beacuse it is historycall stuck:
+> * strictness of the gesuite church ( Joyce's parents were strict gesuites
+> * Influence of the british govern
+> He had a cosmopolitan approach
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDMwNzY3NF19
+eyJoaXN0b3J5IjpbODU3NTY4NzMyXX0=
 -->
