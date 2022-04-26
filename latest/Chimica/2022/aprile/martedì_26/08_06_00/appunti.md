@@ -26,14 +26,14 @@ Prima soluzione $10\frac{mg}L$
 
 |Soluzione|$C_f$|$V_i$|$V_f$|
 |---|---|---|---|
-|1|$0,4\frac{mg}L$|$0,002L=2$|$0,05L$
-|2|$0,6\frac{mg}L$|$0,003L$|$0,05L$
-|3|$0,8\frac{mg}L$|$0,004L$|$0,05L$
-|4|$1,0\frac{mg}L$|$0,005L$|$0,05L$
-|5|$0\frac{mg}L$|$0L$|$0,05L$
+|1|$0,4\frac{mg}L$|$0,002L=2mL$|$0,05L=50mL$
+|2|$0,6\frac{mg}L$|$0,003L=3mL$|$0,05L=50mL$
+|3|$0,8\frac{mg}L$|$0,004L=4mL$|$0,05L=50mL$$
+|4|$1,0\frac{mg}L$|$0,005L=5mL$|$0,05L=50mL$
+|5|$0\frac{mg}L$|$0L$|$0,05L=50mL$
 
 Prelevare $\{20,30,40,50\}mL$ da diluire nei matraccini per preparare la curva di taratura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzOTA2NDUsMTM2OTU2MzI4Miw0ODUzOD
-EyMDgsNjQ2NDMyOTM4XX0=
+eyJoaXN0b3J5IjpbMTU1NjEyNDU4MSwxMzY5NTYzMjgyLDQ4NT
+M4MTIwOCw2NDY0MzI5MzhdfQ==
 -->
