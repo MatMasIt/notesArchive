@@ -29,7 +29,9 @@ $C_i=1\frac{g}L$
 |3|$0,8\frac{mg}L$|$0,04L$|$0,05L$
 |4|$1,0\frac{mg}L$|$0,05L$|$0,05L$
 |5|$0\frac{mg}L$|$0L$|$0,05L$
+
+Prelevare $\{20,30,40,50\}mL$ da diluire nei matraccini per preparare la curva di taratura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NzI5NDM3LDQ4NTM4MTIwOCw2NDY0Mz
-I5MzhdfQ==
+eyJoaXN0b3J5IjpbMTM2OTU2MzI4Miw0ODUzODEyMDgsNjQ2ND
+MyOTM4XX0=
 -->
