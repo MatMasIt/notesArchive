@@ -19,11 +19,12 @@ $$
 
 |Soluzione|$C_f$|$V_i$|$V_f$|
 |---|---|---|---|
-|1|$0,4\frac{mg}$|
-|2|$0,6$|
-|3|$0,8$|
-|4|$1,0$|
+|1|$0,4\frac{mg}L$|$0,25L$|$0,05L$
+|2|$0,6\frac{mg}L$|$1L$|
+|3|$0,8\frac{mg}L$|$2L$
+|4|$1,0\frac{mg}L$|$3L$
+|5|$0\frac{mg}L$|$0L$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzgwOTQ1MCw0ODUzODEyMDgsNjQ2ND
+eyJoaXN0b3J5IjpbMTcxNjY0NTgyNSw0ODUzODEyMDgsNjQ2ND
 MyOTM4XX0=
 -->
