@@ -85,8 +85,9 @@ In one single moment, the whole meaning of a life is revealed, past present and 
 She understand she did not want to have the same paralyzed life
 Escape to Buenos Aires with her boyfriend
 > 
-> However, she will never go to Bueons Aires because Dublin stops her, the paralysis of the 
-
+> However, she will never go to Bueons Aires because Dublin stops her, the paralysis of the family and city, she is not brave enoguh to leave everything and go away
+> 
+> The dubliners are fragile, they want to escape but never do it
 ---
 > ^1^ _"I want to write a chapter of a moral history of my country"_
 > He percieved Dublin as the center of the **paralysis**, beacuse it is historycall stuck:
@@ -111,5 +112,5 @@ he suffers of almost blindness
 
 He died in Zurich, 1931
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDQxMzAyMSwtNDk1ODI3MjM2XX0=
+eyJoaXN0b3J5IjpbOTcyNjI5NTk0LC00OTU4MjcyMzZdfQ==
 -->
