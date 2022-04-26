@@ -112,7 +112,16 @@ he suffers of almost blindness
 
 He died in Zurich, 1931
 
-
+```m
+graph  TD;  
+ A(Paralysis)-->B(Realization);  
+ A-->C;  
+ B-->D;  
+ C-->D;
+```
+Elliot:
+* Objective correlative (like montale)
+* mythical method
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5Mjk1NjcwLC00OTU4MjcyMzZdfQ==
+eyJoaXN0b3J5IjpbMTM3NjQ1NjI2OCwtNDk1ODI3MjM2XX0=
 -->
