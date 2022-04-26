@@ -33,7 +33,11 @@ Prima soluzione $10\frac{mg}L$
 |5|$0\frac{mg}L$|$0L$|$0,05L=50mL$
 
 Prelevare $\{2,3,4,5\}mL$ da diluire nei matraccini per preparare la curva di taratura
+
+Sale di saignette (2 gocce)
+
+1 Ml di reattivo di Nessler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzMTg1OTcsMTM2OTU2MzI4Miw0ODUzOD
-EyMDgsNjQ2NDMyOTM4XX0=
+eyJoaXN0b3J5IjpbLTEyMTcwMzE2NTEsMzIzMTg1OTcsMTM2OT
+U2MzI4Miw0ODUzODEyMDgsNjQ2NDMyOTM4XX0=
 -->
