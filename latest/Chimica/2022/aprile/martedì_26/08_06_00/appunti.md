@@ -27,8 +27,8 @@ Prima soluzione $10\frac{mg}L$
 |Soluzione|$C_f$|$V_i$|$V_f$|Assorbanza|
 |---|---|---|---|---|
 |1|$0,4\frac{mg}L$|$0,002L=2mL$|$0,05L=50mL$|$0,004$|
-|2|$0,6\frac{mg}L$|$0,003L=3mL$|$0,05L=50mL$|
-|3|$0,8\frac{mg}L$|$0,004L=4mL$|$0,05L=50mL$|
+|2 (scartato)|$0,6\frac{mg}L$|$0,003L=3mL$|$0,05L=50mL$|$-0,003$
+|3|$0,8\frac{mg}L$|$0,004L=4mL$|$0,05L=50mL$|$$
 |4|$1,0\frac{mg}L$|$0,005L=5mL$|$0,05L=50mL$|
 |5|$0\frac{mg}L$|$0L$|$0,05L=50mL$|$0$|
 
@@ -42,7 +42,7 @@ analisi 420nm
 
 covetta di vetro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjM5MDQ3OTUsMTE5MzgwODE0OSwtMT
+eyJoaXN0b3J5IjpbLTExNjA3MTA1OTcsMTE5MzgwODE0OSwtMT
 IxNzAzMTY1MSwzMjMxODU5NywxMzY5NTYzMjgyLDQ4NTM4MTIw
 OCw2NDY0MzI5MzhdfQ==
 -->
