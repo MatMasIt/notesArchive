@@ -39,7 +39,13 @@ Also Mrs Dallaway, by W.Woolf is set on one single say
 
 Modernism, p 167
 
-Cultural movement involving different kinds of art , which spread in europe at the begin
+Cultural movement involving different kinds of art , which spread in europe at the beginning of the 20th century
+
+Aim: **experimentation** (of new forms of expressions)
+
+
+
+Victorian standards were not suitable anymore to describe their sense of 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg5NzU2MzRdfQ==
+eyJoaXN0b3J5IjpbLTE0ODQyOTcwOTJdfQ==
 -->
