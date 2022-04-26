@@ -21,11 +21,8 @@ $$
 V_i=\frac{C_f\cdot V_f}{C_i}
 $$
 
-Prima soluzione p
+Prima soluzione $10\frac{mg}L$
 
-$$
-C = 10\frac{mgL}
-$$
 
 |Soluzione|$C_f$|$V_i$|$V_f$|
 |---|---|---|---|
@@ -37,6 +34,6 @@ $$
 
 Prelevare $\{20,30,40,50\}mL$ da diluire nei matraccini per preparare la curva di taratura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTEwOTA0NjAsMTM2OTU2MzI4Miw0OD
+eyJoaXN0b3J5IjpbLTEzNTQ3NTY5MTQsMTM2OTU2MzI4Miw0OD
 UzODEyMDgsNjQ2NDMyOTM4XX0=
 -->
