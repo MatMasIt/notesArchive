@@ -112,16 +112,16 @@ he suffers of almost blindness
 
 He died in Zurich, 1931
 
-```m
+```mermaid
 graph  TD;  
- A(Paralysis)-->B(Realization);  
- A-->C;  
- B-->D;  
- C-->D;
+ A(Escape)-->B(Failure);  
+ B-->C(Paralysis);  
+ C-->D(Ephiphany);  
+ D-->A;
 ```
 Elliot:
 * Objective correlative (like montale)
 * mythical method
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjQ1NjI2OCwtNDk1ODI3MjM2XX0=
+eyJoaXN0b3J5IjpbMTIzMDA0NDIzMSwtNDk1ODI3MjM2XX0=
 -->
