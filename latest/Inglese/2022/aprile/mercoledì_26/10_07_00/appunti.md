@@ -70,8 +70,10 @@ In this year:
 |Joyce|Woolf|
 |---|--|
 |Direct interior monologue (most experimental)|Indirect interior monologue|
-|Dubliners (collection of stories set in Dublin)^1^, Ulysses |Jacob's Room, To the lightouse, Mrs: Dallaway, The Waves (the last, experimental, direct interior monologue)|
+|Dubliners (collection of stories set in Dublin)^1^, Ulysses, Finnegan's Wake (most experimental) |Jacob's Room, To the lightouse, Mrs: Dallaway, The Waves (the last, experimental, direct interior monologue)|
+|Epiphany|Moment of being|
 
+epiphany and mome
 > ^1^ _"I want to write a chapter of a moral history of my country"_
 > He percieved Dublin as the center of the **paralysis**, beacuse it is historycall stuck:
 > * ==Religious reasons==: strictness of the gesuite church ( Joyce's parents were strict gesuites
@@ -81,7 +83,8 @@ In this year:
 
 Joyce
 
-He studied in paris, went back to ireland for mothe
+He studied in paris, went back to ireland for mother's death
+
 1905, voluntary exhile, he went to Trieste and he thaught engilsh
 
 he had financials difficulty in Italy
@@ -92,7 +95,7 @@ In 1922 he pubblished dubliners in paris
 
 he suffers of almost blindness
 
-He died in 
+He died in Zurich, 1931
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY5Nzk1MDJdfQ==
+eyJoaXN0b3J5IjpbLTI1ODQyMTgyMl19
 -->
