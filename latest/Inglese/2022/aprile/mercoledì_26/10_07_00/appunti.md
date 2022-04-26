@@ -44,11 +44,19 @@ Cultural movement involving different kinds of art , which spread in europe at t
 Aim: **experimentation** (of new forms of expressions)
 
 _Novelty_
+acceptance of new forms usually not widely accepted
+
 
 Victorian standards were not suitable anymore to describe their sense of fragmentation, unaesyness, fragmentation, realtivity of time
 
 Sociocultural context of the period
 
+
+Prose:
+* Woolf
+* Joyce
+Poetry:
+* T.S. Elliot: angloamerrican, but always studied and travveled in europe (s, and got the british citizenship
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTkxNjUxOV19
+eyJoaXN0b3J5IjpbLTU2MzE5MDU3NF19
 -->
