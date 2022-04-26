@@ -18,8 +18,12 @@ $$
 
 
 |Soluzione|$C_f$|$V_i$|$V_f$|
-|---|--
+|---|---|---|---|
+|1|$0,4\frac{mg}$|
+|2|$0,6$|
+|3|$0,8$|
+|4|$1,0$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwMTYwODI2LDQ4NTM4MTIwOCw2NDY0Mz
-I5MzhdfQ==
+eyJoaXN0b3J5IjpbMTYyMzgwOTQ1MCw0ODUzODEyMDgsNjQ2ND
+MyOTM4XX0=
 -->
