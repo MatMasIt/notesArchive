@@ -33,6 +33,13 @@ they remember the events of
 Mr Bloom: protagonist of ulysses
 
 Also Mrs Dallaway, by W.Woolf is set on one single say
+
+
+---
+
+Modernism, p 167
+
+Cultural movement involving different kinds of art , which spread in europe at the begin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwMTYyNzE2XX0=
+eyJoaXN0b3J5IjpbLTEyMTg5NzU2MzRdfQ==
 -->
