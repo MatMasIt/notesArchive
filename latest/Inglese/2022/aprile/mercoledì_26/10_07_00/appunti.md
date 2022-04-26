@@ -70,7 +70,11 @@ In this year:
 |Joyce|Woolf|
 |---|--|
 |Direct interior monologue (most experimental)|Indirect interior monologue|
-|Dubliners, Ulysses |Jacob's Room, To the lightouse, Mrs: Dallaway, The Waves (the last, experimental, direct interior monologue)|
+|Dubliners (collection of stories set in Dublin)^1^, Ulysses |Jacob's Room, To the lightouse, Mrs: Dallaway, The Waves (the last, experimental, direct interior monologue)|
+
+> ^1^ _"I want to write a chapter of a moral history of my country"_
+> He percieved Dublin as the center of the **paralysis**
+> He had a cosmopoli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTIzMDI0OV19
+eyJoaXN0b3J5IjpbLTU1MDMwNzY3NF19
 -->
