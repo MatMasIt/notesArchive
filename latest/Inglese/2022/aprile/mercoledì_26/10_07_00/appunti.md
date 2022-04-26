@@ -79,10 +79,13 @@ epiphany and moment of being are the same technique but the author calls it diff
 
 In one single moment, the whole meaning of a life is revealed, past present and future
 
-Eveline, in Dubliners
-Street organ playing in the street is playing the same music that Eveline had heard when her mother had died
+> Eveline, 17, in Dubliners
+> 
+> Street organ playing in the street is playing the same music that Eveline had heard when her mother had died
 She understand she did not want to have the same paralyzed life
 Escape to Buenos Aires with her boyfriend
+> 
+> However, she will never go to Bueons Aires because Dublin stops her, the paralysis of the 
 
 ---
 > ^1^ _"I want to write a chapter of a moral history of my country"_
@@ -108,5 +111,5 @@ he suffers of almost blindness
 
 He died in Zurich, 1931
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODg3OTE1MywtNDk1ODI3MjM2XX0=
+eyJoaXN0b3J5IjpbMTY3NDQxMzAyMSwtNDk1ODI3MjM2XX0=
 -->
