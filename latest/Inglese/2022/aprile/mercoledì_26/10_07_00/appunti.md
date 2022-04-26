@@ -2,8 +2,18 @@
 
 Cubism: fragmentation of reality in all its different perceptions 
 
+Einsteniant relativity
 
-No unique plot and story, di
+No unique plot and story, diferent point of view, fous on the mind of the character
+
+
+stream of consciousness: interior monologue
+
+authors:
+* Virgina Woolf
+* James Joyce
+
+srurrealist painting: distorsion of time
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMzgwMzg2N119
+eyJoaXN0b3J5IjpbLTQwMTEwMDY0NF19
 -->
