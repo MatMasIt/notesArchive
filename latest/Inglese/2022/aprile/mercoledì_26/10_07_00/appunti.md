@@ -76,6 +76,11 @@ In this year:
 epiphany and moment of being are the same technique but the author calls it differently, but it means
 > the sudden revelation of a truth in the life of the characters conveyed by something trivial
 
+
+In one single moment, the whole meaning of a life is revealed, past present and future
+
+
+
 ---
 > ^1^ _"I want to write a chapter of a moral history of my country"_
 > He percieved Dublin as the center of the **paralysis**, beacuse it is historycall stuck:
@@ -100,5 +105,5 @@ he suffers of almost blindness
 
 He died in Zurich, 1931
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTgyNzIzNl19
+eyJoaXN0b3J5IjpbMTQ0NzU3NDk4NywtNDk1ODI3MjM2XX0=
 -->
