@@ -10,7 +10,8 @@
 
 Azoto ammoniacale, determinazione spettrofotometrica con reattivo di Nessler
 
+$NaCl+AgNO_3\implies NaNO_3+AgCl$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1MzgxMjA4LDY0NjQzMjkzOF19
+eyJoaXN0b3J5IjpbLTQwNDk4NDY5OSw2NDY0MzI5MzhdfQ==
 -->
