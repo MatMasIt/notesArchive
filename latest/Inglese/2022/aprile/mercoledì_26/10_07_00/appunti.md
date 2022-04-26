@@ -26,6 +26,8 @@ James Joyce's Ulysses,  the whole novel is set on one single day,
 national celebrations
 
 they remember the events of 
+
+boom: protagonist of ulysses
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU0OTg2NzhdfQ==
+eyJoaXN0b3J5IjpbMTc1NTAxODM4MF19
 -->
