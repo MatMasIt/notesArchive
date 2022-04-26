@@ -32,8 +32,8 @@ Prima soluzione $10\frac{mg}L$
 |4|$1,0\frac{mg}L$|$0,005L=5mL$|$0,05L=50mL$
 |5|$0\frac{mg}L$|$0L$|$0,05L=50mL$
 
-Prelevare $\{20,30,40,50\}mL$ da diluire nei matraccini per preparare la curva di taratura
+Prelevare $\{2,3,4,5\}mL$ da diluire nei matraccini per preparare la curva di taratura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjEyNDU4MSwxMzY5NTYzMjgyLDQ4NT
-M4MTIwOCw2NDY0MzI5MzhdfQ==
+eyJoaXN0b3J5IjpbMzIzMTg1OTcsMTM2OTU2MzI4Miw0ODUzOD
+EyMDgsNjQ2NDMyOTM4XX0=
 -->
