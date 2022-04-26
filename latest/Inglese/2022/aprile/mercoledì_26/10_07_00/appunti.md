@@ -65,7 +65,12 @@ In this year:
 * First modernist novel by Wirginia Woolf (_Jacob's room_)
 * _Ulysses_, by James Joyce's masterpiece
 * _The wasteland_, T.S. Elliot's masterpiece ("la terro desolata")
-Jo
+
+
+|Joyce|Woolf|
+|---|--|
+|Direct interior monologue (most experimental)|Indirect interior monologue|
+|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2Mzk2NDU5XX0=
+eyJoaXN0b3J5IjpbMTUxNzQ3NTM4NV19
 -->
