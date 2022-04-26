@@ -60,7 +60,8 @@ Poetry:
 
 
 *Annus Mirabilis* of English literature: 1922 links together the three authors
-* First 
+* First modernist novel by Wirginia Woolf (Jacob's room)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzU3MTM3OV19
+eyJoaXN0b3J5IjpbNjMyNTk5MjMxXX0=
 -->
