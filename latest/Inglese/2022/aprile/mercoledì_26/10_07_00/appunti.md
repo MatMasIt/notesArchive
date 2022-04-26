@@ -73,7 +73,10 @@ In this year:
 |Dubliners (collection of stories set in Dublin)^1^, Ulysses, Finnegan's Wake (most experimental) |Jacob's Room, To the lightouse, Mrs: Dallaway, The Waves (the last, experimental, direct interior monologue)|
 |Epiphany|Moment of being|
 
-epiphany and mome
+epiphany and moment of being are the same technique but the author calls it differently, but it means
+> the sudden revelation of a truth in the life of the characters conveyed by something trivial
+
+---
 > ^1^ _"I want to write a chapter of a moral history of my country"_
 > He percieved Dublin as the center of the **paralysis**, beacuse it is historycall stuck:
 > * ==Religious reasons==: strictness of the gesuite church ( Joyce's parents were strict gesuites
@@ -97,5 +100,5 @@ he suffers of almost blindness
 
 He died in Zurich, 1931
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODQyMTgyMl19
+eyJoaXN0b3J5IjpbLTQ5NTgyNzIzNl19
 -->
