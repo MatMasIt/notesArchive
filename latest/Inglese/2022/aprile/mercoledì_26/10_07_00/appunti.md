@@ -70,7 +70,7 @@ In this year:
 |Joyce|Woolf|
 |---|--|
 |Direct interior monologue (most experimental)|Indirect interior monologue|
-|
+|Dubliners, Ulysses |Jacob's Room, To the lightouse, Mrs: Dallaway, The Waves (the last, experimental, direct interior monologue)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzQ3NTM4NV19
+eyJoaXN0b3J5IjpbMTQ3NTIzMDI0OV19
 -->
