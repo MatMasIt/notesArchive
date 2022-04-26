@@ -30,7 +30,7 @@ Prima soluzione $10\frac{mg}L$
 |2|$0,6\frac{mg}L$|$0,003L=3mL$|$0,05L=50mL$|
 |3|$0,8\frac{mg}L$|$0,004L=4mL$|$0,05L=50mL$|
 |4|$1,0\frac{mg}L$|$0,005L=5mL$|$0,05L=50mL$|
-|5|$0\frac{mg}L$|$0L$|$0,05L=50mL$|
+|5|$0\frac{mg}L$|$0L$|$0,05L=50mL$|$0$|
 
 Prelevare $\{2,3,4,5\}mL$ da diluire nei matraccini per preparare la curva di taratura
 
@@ -42,7 +42,7 @@ analisi 420nm
 
 covetta di vetro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MzgwODE0OSwtMTIxNzAzMTY1MSwzMj
-MxODU5NywxMzY5NTYzMjgyLDQ4NTM4MTIwOCw2NDY0MzI5Mzhd
-fQ==
+eyJoaXN0b3J5IjpbNjYwNDA5NTkzLDExOTM4MDgxNDksLTEyMT
+cwMzE2NTEsMzIzMTg1OTcsMTM2OTU2MzI4Miw0ODUzODEyMDgs
+NjQ2NDMyOTM4XX0=
 -->
