@@ -76,8 +76,14 @@ Qui le colecole accettano fotoni per ottenere elettroni liberi
 
 Elettrone: salto di livello energetico
 
+rubisco: enzima più diffuso sulal superficie terrestre
+
+orgnicazione del carbonio
+
+ogni ribulosio mi lega un c2: c6 instabile, si rompe in due da c3
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2Mzg5MjYwLDIwMjAyNjAyNTUsLTY0Nj
-k0NzExNl19
+eyJoaXN0b3J5IjpbLTE4MDYzNDEwMDAsMjc2Mzg5MjYwLDIwMj
+AyNjAyNTUsLTY0Njk0NzExNl19
 -->
