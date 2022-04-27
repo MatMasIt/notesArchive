@@ -114,7 +114,11 @@ salandra si dimette
 
 p.99 Paolo Boselli PdC
 
+p.113
 
+disfatta di Caporetto, pericolo conquista Italia? però era una disfatta pesante
+
+Italia perde tut
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDQ2NTA2MCwxODQ0NDAxMDM2XX0=
+eyJoaXN0b3J5IjpbLTIyMjQ3NjA4MiwxODQ0NDAxMDM2XX0=
 -->
