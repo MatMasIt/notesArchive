@@ -221,10 +221,10 @@ E in quel suo torbido
 Mi sono rimescolato  
 E mi sono conosciuto
 
-Questi sono i miei fiumi  
+> Questi sono i miei fiumi  
 Contati nell’Isonzo
 
-Questa è la mia nostalgia  
+> Questa è la mia nostalgia  
 Che in ognuno  
 Mi traspare  
 Ora ch’è notte  
@@ -232,6 +232,6 @@ Che la mia vita mi pare
 Una corolla  
 Di tenebre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA3NjcyNzgsLTYxMzk5NDcwNSwtMT
-IwNjcxMDY0OCwxMDAxMzkxMzI2XX0=
+eyJoaXN0b3J5IjpbNzQyNjkwMjU4LC02MTM5OTQ3MDUsLTEyMD
+Y3MTA2NDgsMTAwMTM5MTMyNl19
 -->
