@@ -43,6 +43,12 @@ Sequestro 85% dei profitti di guerra
  rimettere in riga i socialisti, fascisti 
 
 p96
+
+6 aprile 1920
+
+assoluta segretezza, neanche i deputati del parlamento non lo sapevano
+
+patto di londra, l'italia si impegnav
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTgwNDc0OF19
+eyJoaXN0b3J5IjpbNzA4OTMwMzY2XX0=
 -->
