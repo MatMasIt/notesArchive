@@ -32,6 +32,10 @@ Ft marinetti, L'alcova d'acciaio
 Gabrielle d'Annunzio, Il notturno
 
 Luigi Pirandello, Brecche e la guerra
+
+figli pirandello fatti prigionieri dal nemico
+
+Clemente Rebora, colpito da un Obice, squilibrio 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzAyMzU0MiwxMDAxMzkxMzI2XX0=
+eyJoaXN0b3J5IjpbLTgyNTM5MDU5MywxMDAxMzkxMzI2XX0=
 -->
