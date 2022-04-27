@@ -53,6 +53,10 @@ anche montale fu al fronte e scrive di guerra
 
 Valmorbia Montale
 Nino, umberto saba, espunge quasi tutte le poesie di guerra dal canzoniere
+
+
+
+t.12 veglia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzMjAwODM5LDEwMDEzOTEzMjZdfQ==
+eyJoaXN0b3J5IjpbMTc3MTkwMDk5NiwxMDAxMzkxMzI2XX0=
 -->
