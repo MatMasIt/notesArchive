@@ -35,6 +35,8 @@ alcuni industriali vorrebbero neutralità per vendere armi a tutti
 
 
 1919, manifesto del movimento dei fasci di combattimento
+
+industriali pescecane hano guadagnato dalla guerra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyMTkwMDE2XX0=
+eyJoaXN0b3J5IjpbMTgwMDM4NjE4Ml19
 -->
