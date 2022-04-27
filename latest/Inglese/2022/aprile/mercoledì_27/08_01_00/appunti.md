@@ -54,6 +54,12 @@ stratificano verso l'alto
 
 antenna, captare la luce del sole
 
+fase luminosa: tilacoidi
+
+fase oscura: stroma
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDI2MDI1NSwtNjQ2OTQ3MTE2XX0=
+eyJoaXN0b3J5IjpbLTU1MzA4NDk5MCwyMDIwMjYwMjU1LC02ND
+Y5NDcxMTZdfQ==
 -->
