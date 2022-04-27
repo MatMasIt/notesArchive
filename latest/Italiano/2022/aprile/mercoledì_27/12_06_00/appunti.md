@@ -99,8 +99,18 @@ buttato (disteso sena forze) accanto ad un compagno colpito, lacerato
 
 qui è tutto in ellissi
 
-il compagno ha la sua bocca contratta, digrignata, denti in una smorfia
+il compagno ha la sua bocca contratta, digrignata, denti in una smorfia, rivolta al plenilunio (no è un poeta selenofilo, come foscolo e leopardi) 
+
+luna che dall'alto illumina una visione desolata, cruda con un dettaglio dell'immagine che viene esasperato
+
+dato espressionistico
+
+come  i ritratti volutamente deformati da espressionisti
+
+con una congestione
+
+sangue congestionato con
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzM2OTgyMiwtMTIwNjcxMDY0OCwxMD
+eyJoaXN0b3J5IjpbMTY1NTE2Nzc4NCwtMTIwNjcxMDY0OCwxMD
 AxMzkxMzI2XX0=
 -->
