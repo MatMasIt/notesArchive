@@ -139,8 +139,10 @@ riscatto finale
 indagine di sè nel silenzio, espressione della reasponsaibilità poetica di trovare un riscatto, riesstere alla barbarie, all'imbestialimento, strumento di riscatto, resistenza al dramma, allo strazio attraveso alla scrittura, alla parola poetica che qui è isolata, non colla versificazione tradizionale ma con misure metriche che frangono la frase
 
 
-rivoluzio
+rivoluzione formale attuata da ungaretti, p 466 (Piervincenzo ___)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE4MTgwNzgsLTEyMDY3MTA2NDgsMT
-AwMTM5MTMyNl19
+eyJoaXN0b3J5IjpbLTYxMzk5NDcwNSwtMTIwNjcxMDY0OCwxMD
+AxMzkxMzI2XX0=
 -->
