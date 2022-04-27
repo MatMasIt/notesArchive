@@ -100,7 +100,13 @@ Il parlamento non vuole farlo
 
 Italia dichiara guerra austria-ungheria e più di un anno dopo alla germania
 
+guerra forma il sentimento di patria
 
+1915, l'Italia ha tentato diversi assalti contro l'impero asburgico
+
+battaglie che hanno avuto come scena in fiume Isonzo p.98
+
+morte 250'000 soldati caduti per nulla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDQwMTAzNl19
+eyJoaXN0b3J5IjpbMTUzMzc1MDMyMSwxODQ0NDAxMDM2XX0=
 -->
