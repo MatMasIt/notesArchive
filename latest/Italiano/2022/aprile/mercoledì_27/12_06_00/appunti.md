@@ -65,6 +65,34 @@ guerra come esperienza forte
 redenzione
 
 slancio vitale inestinguibile
+
+
+> Un’intera nottata  
+buttato vicino  
+a un compagno  
+massacrato  
+con la sua bocca  
+digrignata  
+volta al plenilunio  
+con la congestione  
+delle sue mani  
+penetrata  
+nel mio silenzio  
+ho scritto  
+lettere piene d’amore
+Non sono mai stato  
+tanto  
+attaccato alla vita
+> 
+> _Cima Quattro il 23 dicembre 1915_
+
+
+
+tanto: avverbio
+parte del discorso tendenzialmente vuota che acquista significato
+
+vers sciolti e liberi, ma presenza di rime inter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY3MTA2NDgsMTAwMTM5MTMyNl19
+eyJoaXN0b3J5IjpbLTE5OTQzODIwNzMsLTEyMDY3MTA2NDgsMT
+AwMTM5MTMyNl19
 -->
