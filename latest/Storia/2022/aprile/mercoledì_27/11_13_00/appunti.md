@@ -106,7 +106,13 @@ guerra forma il sentimento di patria
 
 battaglie che hanno avuto come scena in fiume Isonzo p.98
 
-morte 250'000 soldati caduti per nulla
+morte 250'000 soldati caduti per nulla e nelle alture del carso, in cui gli alpini hanno avuto un ruolo centrale
+
+nel corso del 1916 gli Austriaci ottengono un risultato importante (giugno) e questo mette in difficoltà anche politiche italia
+
+salandra si dimette
+
+p.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzc1MDMyMSwxODQ0NDAxMDM2XX0=
+eyJoaXN0b3J5IjpbLTg4MjgxNTYxNCwxODQ0NDAxMDM2XX0=
 -->
