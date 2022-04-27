@@ -288,8 +288,11 @@ il **mio** supplizio
 
 rara felicità, desiderio di conciliabilità di uomo e realtà naturale
 
-ha portato il passato attraverso il silenzio e lo scavo
+ha portato il passato al presente attraverso il silenzio e lo scavo
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3MTU3MTU4LC02MTM5OTQ3MDUsLTEyMD
-Y3MTA2NDgsMTAwMTM5MTMyNl19
+eyJoaXN0b3J5IjpbLTEwOTc2Njc1MDMsLTYxMzk5NDcwNSwtMT
+IwNjcxMDY0OCwxMDAxMzkxMzI2XX0=
 -->
