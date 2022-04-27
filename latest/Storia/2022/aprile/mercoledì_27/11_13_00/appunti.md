@@ -29,6 +29,12 @@ Direttore luigi albertini
 industriai vogliono commesse pubbliche
 
 infatti poi fiat passa da 3000 a 30000 operai
+
+
+alcuni industriali vorrebbero neutralità per vendere armi a tutti
+
+
+1919, manifesto del movimento dei fasci di combattimento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDEzMjA2XX0=
+eyJoaXN0b3J5IjpbMzUyMTkwMDE2XX0=
 -->
