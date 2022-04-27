@@ -118,7 +118,18 @@ p.113
 
 disfatta di Caporetto, pericolo conquista Italia? però era una disfatta pesante
 
-Italia perde tut
+Italia perde tutti i territori terza guerra indipendenza
+
+capo di stato maggiore, gen. Cadorna rimossa
+
+gen. Armando DIaz nominato
+
+
+motivazione giuste ora per combattere gli altri mesi di guerra
+
+linea del Piave, inizio della riscossa dell'esercito italiano
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjQ3NjA4MiwxODQ0NDAxMDM2XX0=
+eyJoaXN0b3J5IjpbMTA3MTY5Nzk5MywxODQ0NDAxMDM2XX0=
 -->
