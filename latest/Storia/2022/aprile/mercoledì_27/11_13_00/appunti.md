@@ -85,7 +85,12 @@ D'annunzio: nuova vita a tradizioni imperiali, antica roma
 Giolitti non accetta l'incarico in questo clima, dovrebbe dare seguito al patto di Londra
 
 
+Salandra riconfermato
 
+votata in tutta fretta e senza acun dibattito
+
+
+Il re ha dato l'incarico a Salandra, che vuole entrare in guerra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzcwODc3MF19
+eyJoaXN0b3J5IjpbNjc5MDYwODE2XX0=
 -->
