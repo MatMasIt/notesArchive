@@ -31,6 +31,7 @@ Ft marinetti, L'alcova d'acciaio
 
 Gabrielle d'Annunzio, Il notturno
 
+Luigi Pirandello, Brecche e la guerra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjM5MzgyMiwxMDAxMzkxMzI2XX0=
+eyJoaXN0b3J5IjpbMTM5MzAyMzU0MiwxMDAxMzkxMzI2XX0=
 -->
