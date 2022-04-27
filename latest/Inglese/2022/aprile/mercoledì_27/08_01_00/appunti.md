@@ -24,6 +24,10 @@ clorofilla: pigmento evoluto
 p. 258
 
 Clorofilla a: assorbe luce rossa e violetta
+
+Clorofilla b: gruppo aldeidico CHO sul secondo ciclo al postodi un gruppo OH
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Njc5ODgyNl19
+eyJoaXN0b3J5IjpbMTQ0OTU4Nzg5OV19
 -->
