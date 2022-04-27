@@ -132,8 +132,15 @@ sfiorare il dramma
 non sono mai stato tanto attaccato alla vita
 
 
-vision
+visione nottura del cadavere espressionisticamente privato della vita
+
+riscatto finale
+
+indagine di sè nel silenzio, espressione della reasponsaibilità poetica di trovare un riscatto, riesstere alla barbarie, all'imbestialimento, strumento di riscatto, resistenza al dramma, allo strazio attraveso alla scrittura, alla parola poetica che qui è isolata, non colla versificazione tradizionale ma con misure metriche che frangono la frase
+
+
+rivoluzio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTE0NTIwMSwtMTIwNjcxMDY0OCwxMD
-AxMzkxMzI2XX0=
+eyJoaXN0b3J5IjpbLTIxNDE4MTgwNzgsLTEyMDY3MTA2NDgsMT
+AwMTM5MTMyNl19
 -->
