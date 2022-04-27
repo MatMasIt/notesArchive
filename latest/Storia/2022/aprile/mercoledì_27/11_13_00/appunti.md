@@ -131,7 +131,11 @@ linea del Piave, inizio della riscossa dell'esercito italiano
 
 durante guerra donne lavorano in attività 
 
-grande capacit
+grande possibilità di emancipazione
+
+hanno visto che potevano fare una vita diversa, realizzarsi nel lavoro
+
+quando la guerra è finita, tornate al vostro posto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTE0MjAwOCwxODQ0NDAxMDM2XX0=
+eyJoaXN0b3J5IjpbMTk3OTI3NDQzOCwxODQ0NDAxMDM2XX0=
 -->
