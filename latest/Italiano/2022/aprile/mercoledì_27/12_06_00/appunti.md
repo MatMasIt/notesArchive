@@ -262,7 +262,21 @@ levigato come un sasso, similitudine
 ossa/sasso in consonanza
 
 gesto acrobattico am anche essaitico, gesto sacro
+
+come beduino del deserto
+
+rituale, bevanda, the arabo
+
+r.52-56 nilo, alenssandria d'egitto
+
+infanzia alessandrina
+
+chinato a ricevere il sole
+
+ordine non cronologico, la senna viene dopo
+
+docile fibra dell'universo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjIzNzM2MzYsLTYxMzk5NDcwNSwtMT
-IwNjcxMDY0OCwxMDAxMzkxMzI2XX0=
+eyJoaXN0b3J5IjpbMjA1NTk5NDQ0MiwtNjEzOTk0NzA1LC0xMj
+A2NzEwNjQ4LDEwMDEzOTEzMjZdfQ==
 -->
