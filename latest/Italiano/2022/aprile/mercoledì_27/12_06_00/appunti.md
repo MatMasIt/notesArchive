@@ -144,7 +144,94 @@ rivoluzione formale attuata da ungaretti, p 466 (Piervincenzo ___)
 dilata forza del singolo vocabolo
 
 no punteggiatura
+
+t.6 I fiumi
+
+> _Cotici, il 16 agosto 1916_
+
+> Mi tengo a quest’albero mutilato  
+Abbandonato in questa dolina  
+Che ha il languore  
+Di un circo  
+Prima o dopo lo spettacolo  
+E guardo  
+Il passaggio quieto  
+Delle nuvole sulla luna
+
+> Stamani mi sono disteso  
+In un’urna d’acqua  
+E come una reliquia  
+Ho riposato
+
+> L’Isonzo scorrendo  
+Mi levigava  
+Come un suo sasso  
+Ho tirato su  
+Le mie quattro ossa  
+E me ne sono andato  
+Come un acrobata  
+Sull’acqua
+
+>  Mi sono accoccolato  
+Vicino ai miei panni  
+Sudici di guerra  
+E come un beduino  
+Mi sono chinato a ricevere  
+Il sole
+
+> Questo è l’Isonzo  
+E qui meglio  
+Mi sono riconosciuto  
+Una docile fibra  
+Dell’universo
+
+> Il mio supplizio  
+È quando  
+Non mi credo  
+In armonia
+
+> Ma quelle occulte  
+Mani  
+Che m’intridono  
+Mi regalano  
+La rara  
+Felicità
+
+> Ho ripassato  
+Le epoche  
+Della mia vita
+
+> Questi sono  
+I miei fiumi
+
+> Questo è il Serchio  
+Al quale hanno attinto  
+Duemil’anni forse  
+Di gente mia campagnola  
+E mio padre e mia madre.
+
+> Questo è il Nilo  
+Che mi ha visto  
+Nascere e crescere  
+E ardere d’inconsapevolezza  
+Nelle distese pianure
+
+> Questa è la Senna  
+E in quel suo torbido  
+Mi sono rimescolato  
+E mi sono conosciuto
+
+Questi sono i miei fiumi  
+Contati nell’Isonzo
+
+Questa è la mia nostalgia  
+Che in ognuno  
+Mi traspare  
+Ora ch’è notte  
+Che la mia vita mi pare  
+Una corolla  
+Di tenebre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTIwNjgyMCwtNjEzOTk0NzA1LC0xMj
-A2NzEwNjQ4LDEwMDEzOTEzMjZdfQ==
+eyJoaXN0b3J5IjpbLTEyNDA3NjcyNzgsLTYxMzk5NDcwNSwtMT
+IwNjcxMDY0OCwxMDAxMzkxMzI2XX0=
 -->
