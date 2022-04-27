@@ -59,7 +59,12 @@ fase luminosa: tilacoidi
 fase oscura: stroma
 
 
+fotosistemi:
+* molecole antenna che catturano la luce
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzA4NDk5MCwyMDIwMjYwMjU1LC02ND
+eyJoaXN0b3J5IjpbMTYzNDM5OTYxNCwyMDIwMjYwMjU1LC02ND
 Y5NDcxMTZdfQ==
 -->
