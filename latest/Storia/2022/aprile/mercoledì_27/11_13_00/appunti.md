@@ -136,6 +136,10 @@ grande possibilità di emancipazione
 hanno visto che potevano fare una vita diversa, realizzarsi nel lavoro
 
 quando la guerra è finita, tornate al vostro posto
+
+In molti paesi occidentali ottengono diritto di voto
+
+Italia 1919, diritto legale ad amministrare i propri beni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTI3NDQzOCwxODQ0NDAxMDM2XX0=
+eyJoaXN0b3J5IjpbLTE1OTgxMjYwNDMsMTg0NDQwMTAzNl19
 -->
