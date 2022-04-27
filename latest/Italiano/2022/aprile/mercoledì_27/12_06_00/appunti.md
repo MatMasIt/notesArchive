@@ -11,7 +11,26 @@ con il "Diario di Caporetto"
 
  ingegnere polimi, considerato dalla critica un imprenscindibile del 1900, alla stregua di Fenoglio, Primo Levi, Italo Calvino
 
+Quel pasticciacio, Gadda
+
+Corrado Alvaro, Gente d'aspromonte
+
+Piero Jahhier
+Con me o con gli alpeni
+
+Gianni Stuparich
+Ritorneranno
+
+
+
+Trieste mitteleuropea
+umberto saba
+
+
+Ft marinetti, L'alcova d'acciaio
+
+Gabrielle d'Annunzio, Il notturno
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTM5MTMyNl19
+eyJoaXN0b3J5IjpbMTgzMjM5MzgyMiwxMDAxMzkxMzI2XX0=
 -->
