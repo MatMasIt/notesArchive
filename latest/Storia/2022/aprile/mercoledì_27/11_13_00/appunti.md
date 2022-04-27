@@ -112,7 +112,9 @@ nel corso del 1916 gli Austriaci ottengono un risultato importante (giugno) e qu
 
 salandra si dimette
 
-p.
+p.99 Paolo Boselli PdC
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjgxNTYxNCwxODQ0NDAxMDM2XX0=
+eyJoaXN0b3J5IjpbMTQ3MDQ2NTA2MCwxODQ0NDAxMDM2XX0=
 -->
