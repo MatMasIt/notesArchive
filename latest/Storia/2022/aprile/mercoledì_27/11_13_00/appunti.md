@@ -40,7 +40,9 @@ industriali pescecane hanno guadagnato dalla guerra
 
 Sequestro 85% dei profitti di guerra
 
+ rimettere in riga i socialisti, fascisti 
 
+p96
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3MTgxMDExXX0=
+eyJoaXN0b3J5IjpbMTY0NTgwNDc0OF19
 -->
