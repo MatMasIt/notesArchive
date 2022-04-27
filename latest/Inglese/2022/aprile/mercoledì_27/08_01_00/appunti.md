@@ -17,7 +17,7 @@ $$
 reazione endoergonica
 
 
-Luca: $E=h\nu$
+Energia associata ad una frequenza: $E=h\nu$ (costante di planck e frequenza)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzgxNDM1ODldfQ==
+eyJoaXN0b3J5IjpbLTI1ODk5OTUzM119
 -->
