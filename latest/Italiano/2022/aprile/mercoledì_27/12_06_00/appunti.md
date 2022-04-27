@@ -35,7 +35,20 @@ Luigi Pirandello, Brecche e la guerra
 
 figli pirandello fatti prigionieri dal nemico
 
-Clemente Rebora, colpito da un Obice, squilibrio 
+Clemente Rebora, colpito da un Obice, squilibrio Psichico
+
+vocazione mistica, religiosa
+
+entra in ordine religoso
+
+sacerdote
+
+
+Rebora scrive poesie anche sulla guerra
+
+espressionista
+
+anche montae
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTM5MDU5MywxMDAxMzkxMzI2XX0=
+eyJoaXN0b3J5IjpbLTEwODc1NDc4ODksMTAwMTM5MTMyNl19
 -->
