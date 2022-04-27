@@ -28,6 +28,11 @@ Clorofilla a: assorbe luce rossa e violetta
 Clorofilla b: gruppo aldeidico CHO sul secondo ciclo al postodi un gruppo OH
 
 
+Al centro
+Emoglobina: Ferro
+Clorofilla: Magnesio
+
+molte molecole si sono evolute nel tempo per assorbire colori
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTU4Nzg5OV19
+eyJoaXN0b3J5IjpbMTYwMzE0MjY1MV19
 -->
