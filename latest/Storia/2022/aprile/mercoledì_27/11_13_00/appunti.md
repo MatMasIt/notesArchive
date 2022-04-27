@@ -61,6 +61,20 @@ PdC Salandra
 e Re
 
 ora bisogna farla accettare al parlamento, che è a maggioranza neutralista
+
+patto:
+previsti
+
+Trentino e alto adige fino a linea del Brennero
+Gorizia
+Istria tranne Fiume
+dalmazia
+isole del dodecaneso
+il protettorato sull'albania
+alcune colonie tedesche
+miniere di carbone in asia minore
+
+Salandra qu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE1MDk4NTRdfQ==
+eyJoaXN0b3J5IjpbLTkyMjU5Mzk3NF19
 -->
