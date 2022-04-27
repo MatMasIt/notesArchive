@@ -109,8 +109,19 @@ come  i ritratti volutamente deformati da espressionisti
 
 con una congestione
 
-sangue congestionato con
+sangue congestionato gonfia gli arti, le estremità, li rende lividi
+
+questa sua condizione ha compenetrato il mio silenzio
+
+ricevo in me stesso il dramma della morte
+
+campo semantico della morte, del cadavere, della fisicità della morte, la smorfia digrignato, inerzia, mancanza di vita
+
+poi appare campo della vita
+
+
+nel mio silenzio ho scitto (slancio vitale, allegria di naufragi) le
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTE2Nzc4NCwtMTIwNjcxMDY0OCwxMD
+eyJoaXN0b3J5IjpbMjA4MDQwNzg0MSwtMTIwNjcxMDY0OCwxMD
 AxMzkxMzI2XX0=
 -->
