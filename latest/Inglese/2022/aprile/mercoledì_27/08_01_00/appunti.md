@@ -61,10 +61,21 @@ fase oscura: stroma
 
 fotosistemi:
 * molecole antenna che catturano la luce
+* 
 
+
+Ciclo di Krebs:
+
+NADH + H^+^
+
+elettrofilo eccellente
+
+---
+
+Qui le colecole accettano fotoni per ottenere elettroni liberi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDM5OTYxNCwyMDIwMjYwMjU1LC02ND
+eyJoaXN0b3J5IjpbMTk5OTQ0NzU4MiwyMDIwMjYwMjU1LC02ND
 Y5NDcxMTZdfQ==
 -->
