@@ -74,7 +74,13 @@ il protettorato sull'albania
 alcune colonie tedesche
 miniere di carbone in asia minore
 
-Salandra qu
+Salandra quando si rende conto che il parlamento è ostile si dimette
+
+Il re allora offre l'incarico a Giolitti ma Salandra punta sul fatto che i nazionalisti avrebbero mobilitato le folle per la guerra
+
+Comizi del Marzo Radioso, D'annunzio aizza la piazza contro Giolitti
+
+D'annunzio: nuova vita a tradizioni imperiali, antica rom
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjU5Mzk3NF19
+eyJoaXN0b3J5IjpbMTYxMTYxNTRdfQ==
 -->
