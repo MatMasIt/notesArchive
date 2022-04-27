@@ -80,7 +80,12 @@ Il re allora offre l'incarico a Giolitti ma Salandra punta sul fatto che i nazio
 
 Comizi del Marzo Radioso, D'annunzio aizza la piazza contro Giolitti
 
-D'annunzio: nuova vita a tradizioni imperiali, antica rom
+D'annunzio: nuova vita a tradizioni imperiali, antica roma
+
+Giolitti non accetta l'incarico in questo clima, dovrebbe dare seguito al patto di Londra
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTYxNTRdfQ==
+eyJoaXN0b3J5IjpbMTg4MzcwODc3MF19
 -->
