@@ -141,8 +141,10 @@ indagine di sè nel silenzio, espressione della reasponsaibilità poetica di tro
 
 rivoluzione formale attuata da ungaretti, p 466 (Piervincenzo ___)
 
+dilata forza del singolo vocabolo
 
+no punteggiatura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzk5NDcwNSwtMTIwNjcxMDY0OCwxMD
-AxMzkxMzI2XX0=
+eyJoaXN0b3J5IjpbLTc4MTIwNjgyMCwtNjEzOTk0NzA1LC0xMj
+A2NzEwNjQ4LDEwMDEzOTEzMjZdfQ==
 -->
