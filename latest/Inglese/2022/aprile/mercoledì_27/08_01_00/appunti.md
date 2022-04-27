@@ -32,7 +32,9 @@ Al centro
 Emoglobina: Ferro
 Clorofilla: Magnesio
 
-molte molecole si sono evolute nel tempo per assorbire colori
+molte molecole si sono evolute nel tempo per assorbire frequenze d'onda diverse della luce, pigmenti
+
+Ossigeno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzE0MjY1MV19
+eyJoaXN0b3J5IjpbMTk5Njg5NTQxNl19
 -->
