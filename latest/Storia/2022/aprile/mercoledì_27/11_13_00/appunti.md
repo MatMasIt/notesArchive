@@ -129,7 +129,9 @@ motivazione giuste ora per combattere gli altri mesi di guerra
 
 linea del Piave, inizio della riscossa dell'esercito italiano
 
+durante guerra donne lavorano in attività 
 
+grande capacit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTY5Nzk5MywxODQ0NDAxMDM2XX0=
+eyJoaXN0b3J5IjpbLTY0OTE0MjAwOCwxODQ0NDAxMDM2XX0=
 -->
