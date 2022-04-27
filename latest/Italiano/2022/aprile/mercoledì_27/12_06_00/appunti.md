@@ -236,8 +236,20 @@ Di tenebre
 
 albero abbbandonato o io lirico
 
-conca come pista del circo
+conca come pista del circo, o corolla finale
+
+urna: teca con qualcosa di prezioso o mortuario
+
+come una reliquia 
+
+analogia
+
+gesto purificatore di mettersi nell'acqua
+
+gesto sacro, purificante
+
+come una reliquia ha 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODExOTAwOTMsLTYxMzk5NDcwNSwtMT
+eyJoaXN0b3J5IjpbLTE1Njc2Mzc1NjEsLTYxMzk5NDcwNSwtMT
 IwNjcxMDY0OCwxMDAxMzkxMzI2XX0=
 -->
