@@ -37,12 +37,20 @@ molte molecole si sono evolute nel tempo per assorbire frequenze d'onda diverse 
 Ossigeno importante per noi nella fosforillazione ossidativa
 
 Fasi della fotosintesi
-1. Fase luminosa
+1. Fase luminosa (luce necessaria)
 a) Fotolisi dell'HSO
 b) Fotosistemi
 c) **NADPH**; ATP
-2. Fase oscura
+2. Fase oscura (luce non necessaria)
+a) Ciclo di Calvin-Benson
+b) Produzione di glucosi
+
+
+La fotosintesi avviene nei cloroplasti
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDg3ODI5MjBdfQ==
+eyJoaXN0b3J5IjpbLTY0Njk0NzExNl19
 -->
