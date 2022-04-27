@@ -48,7 +48,11 @@ Rebora scrive poesie anche sulla guerra
 
 espressionista
 
-anche montae
+anche montale fu al fronte e scrive di guerra
+
+
+Valmorbia Montale
+Nino, umberto saba, espunge quasi tutte le poesie di guerra dal canzoniere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODc1NDc4ODksMTAwMTM5MTMyNl19
+eyJoaXN0b3J5IjpbNjIzMjAwODM5LDEwMDEzOTEzMjZdfQ==
 -->
