@@ -48,7 +48,19 @@ p96
 
 assoluta segretezza, neanche i deputati del parlamento non lo sapevano
 
-patto di londra, l'italia si impegnav
+patto di londra, l'italia si impegnava a entrare in guerra con alleati entro un mese
+
+salandra persuaso vittoria alleati a causa del fallimento del piano Schlieffen
+
+firmato con il pattodel re
+
+questa cosa lo sanno
+
+Ministro esteri Sonnino
+PdC Salandra
+e Re
+
+ora bisogna farla accettare al parlamento, che è a maggioranza neutralista
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4OTMwMzY2XX0=
+eyJoaXN0b3J5IjpbLTE1NDE1MDk4NTRdfQ==
 -->
