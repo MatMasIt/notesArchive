@@ -120,8 +120,20 @@ campo semantico della morte, del cadavere, della fisicità della morte, la smorf
 poi appare campo della vita
 
 
-nel mio silenzio ho scitto (slancio vitale, allegria di naufragi) le
+nel mio silenzio ho scitto (slancio vitale, allegria di naufragi) lettere piene d'amore, ho assunto in me la realtà di morte e l'ho riconciliata allaa luce in un tentatiivo di armonia, conciliazione
+
+
+lettere, epistole, missive
+
+lettere (littearae), anche "le lettere", ovvero la parola,  preziosissima, simbolisti: sfioramento del misterio, corrispondenze della realtà
+
+sfiorare il dramma
+
+non sono mai stato tanto attaccato alla vita
+
+
+vision
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDQwNzg0MSwtMTIwNjcxMDY0OCwxMD
+eyJoaXN0b3J5IjpbMjAyOTE0NTIwMSwtMTIwNjcxMDY0OCwxMD
 AxMzkxMzI2XX0=
 -->
