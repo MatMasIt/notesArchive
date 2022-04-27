@@ -284,7 +284,12 @@ uscire dalla propria individualità per cercare fratellanza universale
 il riscatto attraverso alla parola dalla condizione drammatica della guerra
 
 il **mio** supplizio
+
+
+rara felicità, desiderio di conciliabilità di uomo e realtà naturale
+
+ha portato il passato attraverso il silenzio e lo scavo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzQ5MiwtNjEzOTk0NzA1LC0xMjA2Nz
-EwNjQ4LDEwMDEzOTEzMjZdfQ==
+eyJoaXN0b3J5IjpbNjE3MTU3MTU4LC02MTM5OTQ3MDUsLTEyMD
+Y3MTA2NDgsMTAwMTM5MTMyNl19
 -->
