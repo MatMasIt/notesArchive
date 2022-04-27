@@ -248,8 +248,21 @@ gesto purificatore di mettersi nell'acqua
 
 gesto sacro, purificante
 
-come una reliquia ha 
+come una reliquia ha riposato
+
+panni sudici di guerra:
+* sporchi di sangue e fango
+* la guerra è una tragedia umana ("sudicia")
+
+
+participi desinenziali aggettivanti, tirato, coccolato
+
+levigato come un sasso, similitudine
+
+ossa/sasso in consonanza
+
+gesto acrobattico am anche essaitico, gesto sacro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc2Mzc1NjEsLTYxMzk5NDcwNSwtMT
+eyJoaXN0b3J5IjpbLTIwMjIzNzM2MzYsLTYxMzk5NDcwNSwtMT
 IwNjcxMDY0OCwxMDAxMzkxMzI2XX0=
 -->
