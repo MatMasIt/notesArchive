@@ -276,7 +276,15 @@ chinato a ricevere il sole
 ordine non cronologico, la senna viene dopo
 
 docile fibra dell'universo
+
+uomini uniti
+
+uscire dalla propria individualità per cercare fratellanza universale
+
+il riscatto attraverso alla parola dalla condizione drammatica della guerra
+
+il **mio** supplizio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTk5NDQ0MiwtNjEzOTk0NzA1LC0xMj
-A2NzEwNjQ4LDEwMDEzOTEzMjZdfQ==
+eyJoaXN0b3J5IjpbMTk4MzQ5MiwtNjEzOTk0NzA1LC0xMjA2Nz
+EwNjQ4LDEwMDEzOTEzMjZdfQ==
 -->
