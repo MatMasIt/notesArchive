@@ -36,7 +36,13 @@ molte molecole si sono evolute nel tempo per assorbire frequenze d'onda diverse 
 
 Ossigeno importante per noi nella fosforillazione ossidativa
 
-Fasi della fotosintes
+Fasi della fotosintesi
+1. Fase luminosa
+a) Fotolisi dell'HSO
+b) Fotosistemi
+c) **NADPH**; ATP
+2. Fase oscura
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDEyMjc0ODBdfQ==
+eyJoaXN0b3J5IjpbLTE0NDg3ODI5MjBdfQ==
 -->
