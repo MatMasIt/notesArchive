@@ -231,7 +231,13 @@ Ora ch’è notte
 Che la mia vita mi pare  
 Una corolla  
 Di tenebre
+
+
+
+albero abbbandonato o io lirico
+
+conca come pista del circo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNjkwMjU4LC02MTM5OTQ3MDUsLTEyMD
-Y3MTA2NDgsMTAwMTM5MTMyNl19
+eyJoaXN0b3J5IjpbLTExODExOTAwOTMsLTYxMzk5NDcwNSwtMT
+IwNjcxMDY0OCwxMDAxMzkxMzI2XX0=
 -->
