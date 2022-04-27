@@ -57,6 +57,14 @@ Nino, umberto saba, espunge quasi tutte le poesie di guerra dal canzoniere
 
 
 t.12 veglia
+
+
+guerra come esperienza forte
+
+
+redenzione
+
+slancio vitale inestinguibile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTkwMDk5NiwxMDAxMzkxMzI2XX0=
+eyJoaXN0b3J5IjpbLTEyMDY3MTA2NDgsMTAwMTM5MTMyNl19
 -->
