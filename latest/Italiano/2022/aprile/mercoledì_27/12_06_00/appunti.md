@@ -91,8 +91,16 @@ attaccato alla vita
 tanto: avverbio
 parte del discorso tendenzialmente vuota che acquista significato
 
-vers sciolti e liberi, ma presenza di rime inter
+vers sciolti e liberi, ma presenza di rime interne che sono facili, participio passato, desinenziali, ma che mantengono qualche rimando alla metrica formae per esempio attraverso alle geminat doppiadella consonante t "nottata, buttato, lettere"
+
+Ho trascorso (sottointeso ) una nottata intero
+
+buttato (disteso sena forze) accanto ad un compagno colpito, lacerato
+
+qui è tutto in ellissi
+
+il compagno ha la sua bocca contratta, digrignata, denti in una smorfia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQzODIwNzMsLTEyMDY3MTA2NDgsMT
-AwMTM5MTMyNl19
+eyJoaXN0b3J5IjpbMTQ3MzM2OTgyMiwtMTIwNjcxMDY0OCwxMD
+AxMzkxMzI2XX0=
 -->
