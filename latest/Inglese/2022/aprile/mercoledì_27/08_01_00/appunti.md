@@ -48,9 +48,12 @@ b) Produzione di glucosi
 
 La fotosintesi avviene nei cloroplasti
 
+tilacoidi, pile di cloroplasti in cuui avviene fase luminosa
 
+stratificano verso l'alto
 
+antenna, captare la luce del sole
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Njk0NzExNl19
+eyJoaXN0b3J5IjpbMjAyMDI2MDI1NSwtNjQ2OTQ3MTE2XX0=
 -->
