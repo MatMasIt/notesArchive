@@ -126,8 +126,9 @@ inizia operazione barbarossa
 
 ricognizione sul Mar d'Azov ed euler non torna più
 
-
+Gli americani 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTA5ODg5MTcsMTEzNjEzODUyXX0=
+eyJoaXN0b3J5IjpbMTQ0NDYzMzE3NiwtMTk5MDk4ODkxNywxMT
+M2MTM4NTJdfQ==
 -->
