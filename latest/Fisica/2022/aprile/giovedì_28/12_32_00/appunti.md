@@ -107,7 +107,16 @@ Euler, comunista convinto, fidanzato con ebrea che era ora in svizzera
 
 Padre poverissimo
 
-Euler no
+Euler non lascia la germania, radici troppo profonde
+
+Euler rifiuta di partecipare club uranio
+
+
+costretto ad arruolarsi nell'esercito
+
+E. si fa mettere il un reparto della Luftwaffe che opera ricognizioni sul confine orientale
+
+modo per non fare dei danni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4MTY4MTk4LDExMzYxMzg1Ml19
+eyJoaXN0b3J5IjpbLTgzNDcxMDkzMywxMTM2MTM4NTJdfQ==
 -->
