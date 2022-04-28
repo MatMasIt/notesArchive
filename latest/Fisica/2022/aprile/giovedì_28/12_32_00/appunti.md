@@ -121,6 +121,10 @@ modo per non fare dei danni
 odia sia hitler che stalin
 
 squadriglia di Euler era in grecia a fare ricognizioni
+
+inizia operazione barbarossa
+
+ricognizione sul Mar d'Azov ed euler non torna 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MDE3Njk3LDExMzYxMzg1Ml19
+eyJoaXN0b3J5IjpbMTk3NzgzMTU3MSwxMTM2MTM4NTJdfQ==
 -->
