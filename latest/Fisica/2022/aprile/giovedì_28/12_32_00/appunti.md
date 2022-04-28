@@ -40,7 +40,10 @@ l'imprecisione è nelle cose
 
 filosofia kantiana dal punto teorico messa in discussione
 
-H ha una discussione con una
+H ha una discussione con una neokantiana
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDA5NTUyNl19
+eyJoaXN0b3J5IjpbMTc0ODExNjQ2NV19
 -->
