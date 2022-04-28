@@ -35,7 +35,16 @@ reshaping of the classical tradition, myth in a modern context with a completely
 opposite meaning
 
 Mythical method: recover the past in a completely different context and with a reversal of maening
+
+
+Stephen Dedalus, an orphan and failed artist
+
+while thelemacus was a brave boy that was able to rul during his  father's absence
+
+Dedalus, even though he is young feels like a failure
+
+Mr dedalus and Bloom meet in a brothe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2MzkzMzk4LDg3NjY0OTA5NSwtMzY2Nz
-Q1MTE5XX0=
+eyJoaXN0b3J5IjpbLTEyMzMxNDg1MzgsOTI2MzkzMzk4LDg3Nj
+Y0OTA5NSwtMzY2NzQ1MTE5XX0=
 -->
