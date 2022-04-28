@@ -28,10 +28,14 @@ Leopold, wandering like Ulysses, but alienated and with no aim
 
 Leopold is the modern anti-herostrikethrough text
 
-
+Molly Bloom: unfaithful wife
 
 reshaping of the classical tradition, myth in a modern context with a completely different meaning 
+
+opposite meaning
+
+Mythical method: recover the past in a completely different context and with a reversal of maening
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDA5Nzg5MTYsODc2NjQ5MDk1LC0zNj
-Y3NDUxMTldfQ==
+eyJoaXN0b3J5IjpbOTI2MzkzMzk4LDg3NjY0OTA5NSwtMzY2Nz
+Q1MTE5XX0=
 -->
