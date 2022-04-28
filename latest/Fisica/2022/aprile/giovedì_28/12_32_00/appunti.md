@@ -82,7 +82,21 @@ Gli dicono: cerca di sfruttare al massimo energia atomica
 
 fisici rimasti in germania
 
-Si forma il 
+Si forma il _Il club dell' Uranio_
+
+Uranio 235, 1% del 238
+
+discussione della possibilità della bomba atomica
+
+si pensava che massa critica fosse molto alta
+
+Uranio 238 può decadere in plutonio, che è fissile
+
+ci sono prospettive
+
+terreno pericoloso
+
+H ne è consapevole
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4Nzc2ODYyLDExMzYxMzg1Ml19
+eyJoaXN0b3J5IjpbOTk1Mjc1NTk5LDExMzYxMzg1Ml19
 -->
