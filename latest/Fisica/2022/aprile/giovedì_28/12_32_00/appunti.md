@@ -139,7 +139,13 @@ forse H voleva sapere da Bohr informazioni sul programa negli USA
 
 
 N deve dire ai gerarchi che è infattibile, 
+o che è fattibile in poco tempo
+
+
+Giugno 42 dice a Sper che vanno avanti con il progetto del reattore
+
+pochi fondi, fine bomba atomica tedesca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzU0MDY3MDAsLTczNzkzNzMxOSwtMT
-k5MDk4ODkxNywxMTM2MTM4NTJdfQ==
+eyJoaXN0b3J5IjpbNDY2OTY0MzkxLC03Mzc5MzczMTksLTE5OT
+A5ODg5MTcsMTEzNjEzODUyXX0=
 -->
