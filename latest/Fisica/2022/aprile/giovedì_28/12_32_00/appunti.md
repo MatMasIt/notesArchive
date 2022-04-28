@@ -42,8 +42,13 @@ filosofia kantiana dal punto teorico messa in discussione
 
 H ha una discussione con una neokantiana
 
+H chiede a Planck se si può rimanere in germania
+
+domanda gli viene dopo che un collega viene espulso perchè ha origini ebraiche
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODExNjQ2NV19
+eyJoaXN0b3J5IjpbMTEzNjEzODUyXX0=
 -->
