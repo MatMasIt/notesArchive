@@ -46,9 +46,11 @@ H chiede a Planck se si può rimanere in germania
 
 domanda gli viene dopo che un collega viene espulso perchè ha origini ebraiche
 
+H cerca di rifarsi all'imperativo categorico Kantiano
 
+non tutti possono fuggire ma tu sei anche un fisico nuclea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjEzODUyXX0=
+eyJoaXN0b3J5IjpbLTQzOTEzNjA5MiwxMTM2MTM4NTJdfQ==
 -->
