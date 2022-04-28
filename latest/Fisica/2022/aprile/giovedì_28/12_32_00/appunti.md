@@ -74,7 +74,15 @@ regola di cartesio: segui la strada fino alla fine quando hai scelto
 
 alla fine spirito hegeliano
 
+rimane in germania
 
+H chiamato alle armi, ma non viene chiamato nei fucilieri di montagna, dice (ironia o ingenuità)
+
+Gli dicono: cerca di sfruttare al massimo energia atomica
+
+fisici rimasti in germania
+
+Si forma il 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjMwOTI0MSwxMTM2MTM4NTJdfQ==
+eyJoaXN0b3J5IjpbNjg4Nzc2ODYyLDExMzYxMzg1Ml19
 -->
