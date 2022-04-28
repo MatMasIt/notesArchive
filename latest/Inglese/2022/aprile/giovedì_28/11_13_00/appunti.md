@@ -27,6 +27,11 @@ Stephen Dedalus
 Leopold, wandering like Ulysses, but alienated and with no aim
 
 Leopold is the modern anti-herostrikethrough text
+
+
+
+reshaping of the classical tradition, myth in a modern context with a completely different meaning 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2NjQ5MDk1LC0zNjY3NDUxMTldfQ==
+eyJoaXN0b3J5IjpbLTE5NDA5Nzg5MTYsODc2NjQ5MDk1LC0zNj
+Y3NDUxMTldfQ==
 -->
