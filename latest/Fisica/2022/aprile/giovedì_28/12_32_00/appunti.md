@@ -22,7 +22,11 @@ poco più di 20 anni, la fisica dei ragazzi
 
 a roma poi via Panisperma, giovani fisici guidati da Fermi
 
+Nel '43 Bohr viene rapito da un commando e va in amrerica al progetto Manhattan
+
+va prima in inghilterra e incontra Churchill
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMzMzAzMzldfQ==
+eyJoaXN0b3J5IjpbLTc1MTY1MDU0Nl19
 -->
