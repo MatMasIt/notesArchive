@@ -152,8 +152,9 @@ sono vicino a Cambridge con Einstenin e Otto Hann
 
 numero immenso di innocenti morti
 
-
+H dice: ma gli scienziati americani hanno riflettuto?
+Bohr ha 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDk1Mjg2LC03Mzc5MzczMTksLTE5OT
-A5ODg5MTcsMTEzNjEzODUyXX0=
+eyJoaXN0b3J5IjpbLTIwNjI0NDc3MjgsMTA0NDk1Mjg2LC03Mz
+c5MzczMTksLTE5OTA5ODg5MTcsMTEzNjEzODUyXX0=
 -->
