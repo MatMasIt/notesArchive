@@ -37,6 +37,10 @@ certezze meccanica classica scardinate
 
 l'imprecisione è nelle cose
 
+
+filosofia kantiana dal punto teorico messa in discussione
+
+H ha una discussione con una
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjUzNzY2ODRdfQ==
+eyJoaXN0b3J5IjpbMTUzMDA5NTUyNl19
 -->
