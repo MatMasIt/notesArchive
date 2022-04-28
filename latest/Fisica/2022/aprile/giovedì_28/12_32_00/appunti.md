@@ -26,7 +26,7 @@ Nel '43 Bohr viene rapito da un commando e va in amrerica al progetto Manhattan
 
 va prima in inghilterra e incontra Churchill
 
-
+Il Timeo di Platone in cui Platone ritiene che la struttura del mondo naturale sia intessuta di particelle con geometriche perfette
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTY1MDU0Nl19
+eyJoaXN0b3J5IjpbLTk1NDgwNjA2N119
 -->
