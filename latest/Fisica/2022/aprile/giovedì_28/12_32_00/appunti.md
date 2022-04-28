@@ -159,7 +159,9 @@ secondo Bohr dipende dal contesto
 
 
 H dice a Bohr
+
+Quando va in germania, i fisici americani rifiutano di stringere la sua mano, che non ha fatto nula
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDMzODczMSwxMDQ0OTUyODYsLTczNz
+eyJoaXN0b3J5IjpbMTA0ODE5MjkwMCwxMDQ0OTUyODYsLTczNz
 kzNzMxOSwtMTk5MDk4ODkxNywxMTM2MTM4NTJdfQ==
 -->
