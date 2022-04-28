@@ -28,7 +28,15 @@ va prima in inghilterra e incontra Churchill
 
 Il Timeo di Platone in cui Platone ritiene che la struttura del mondo naturale sia intessuta di particelle con geometriche perfette
 
-posizione 
+posizione e quantità di moto con incertezza inversamente proporzionale
+
+
+l'osservazione perturba il sistema
+
+certezze meccanica classica scardinate
+
+l'imprecisione è nelle cose
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODEyMTE3XX0=
+eyJoaXN0b3J5IjpbLTE4MjUzNzY2ODRdfQ==
 -->
