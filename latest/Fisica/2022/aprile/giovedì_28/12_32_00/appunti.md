@@ -126,9 +126,11 @@ inizia operazione barbarossa
 
 ricognizione sul Mar d'Azov ed euler non torna più
 
-Gli americani 
+è giusto collaborare a produrre la bomba atimica se siamo americani e il fine è giusto o è sbagliata a priori
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDYzMzE3NiwtMTk5MDk4ODkxNywxMT
-M2MTM4NTJdfQ==
+eyJoaXN0b3J5IjpbLTE4NjQxMzUwLC0xOTkwOTg4OTE3LDExMz
+YxMzg1Ml19
 -->
