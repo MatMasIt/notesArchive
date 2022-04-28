@@ -22,6 +22,11 @@ everybody feels like life is a failure
 Mr Leopold Bloom and his wife, Mrs Molly bloom
 
 Stephen Dedalus
+
+
+Leopold, wandering like Ulysses, but alienated and with no aim
+
+Leopold is the modern anti-herostrikethrough text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Njc0NTExOV19
+eyJoaXN0b3J5IjpbODc2NjQ5MDk1LC0zNjY3NDUxMTldfQ==
 -->
