@@ -128,9 +128,16 @@ ricognizione sul Mar d'Azov ed euler non torna più
 
 è giusto collaborare a produrre la bomba atimica se siamo americani e il fine è giusto o è sbagliata a priori
 
-noi in germania non colalboriamo al programma
+noi in germania non colalboriamo al programma però abitiamo qui, etc
+
+
+Colloqui con Bohr del 41 è un fallimento
+
+Bohr turbato appena capisce possibilità bomba atomica
+
+forse H voleva sapere da Bohr informazioni sugli usa
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzkzNzMxOSwtMTk5MDk4ODkxNywxMT
-M2MTM4NTJdfQ==
+eyJoaXN0b3J5IjpbLTg5NzI2MzI0MiwtNzM3OTM3MzE5LC0xOT
+kwOTg4OTE3LDExMzYxMzg1Ml19
 -->
