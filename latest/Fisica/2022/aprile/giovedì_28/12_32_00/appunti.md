@@ -135,9 +135,11 @@ Colloqui con Bohr del 41 è un fallimento
 
 Bohr turbato appena capisce possibilità bomba atomica
 
-forse H voleva sapere da Bohr informazioni sugli usa
+forse H voleva sapere da Bohr informazioni sul programa negli USA
 
+
+N deve dire ai gerarchi che è infattibile, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzI2MzI0MiwtNzM3OTM3MzE5LC0xOT
-kwOTg4OTE3LDExMzYxMzg1Ml19
+eyJoaXN0b3J5IjpbLTE1MzU0MDY3MDAsLTczNzkzNzMxOSwtMT
+k5MDk4ODkxNywxMTM2MTM4NTJdfQ==
 -->
