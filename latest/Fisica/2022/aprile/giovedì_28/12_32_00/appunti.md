@@ -124,7 +124,10 @@ squadriglia di Euler era in grecia a fare ricognizioni
 
 inizia operazione barbarossa
 
-ricognizione sul Mar d'Azov ed euler non torna 
+ricognizione sul Mar d'Azov ed euler non torna più
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzgzMTU3MSwxMTM2MTM4NTJdfQ==
+eyJoaXN0b3J5IjpbLTE5OTA5ODg5MTcsMTEzNjEzODUyXX0=
 -->
