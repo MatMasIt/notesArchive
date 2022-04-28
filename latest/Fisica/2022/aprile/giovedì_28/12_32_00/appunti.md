@@ -63,7 +63,9 @@ Otto hann ha realizzato la fissione nucleare
 premesse teoriche
 
 
-nel 1939 incontra fermi che è già emigrato negli stati uniti, in cui Heisenberg stava c
+nel 1939 incontra fermi che è già emigrato negli stati uniti, in cui Heisenberg stava compiendo qualche conferenza e riflette quanto dice Fermi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgxNjkyMzEsMTEzNjEzODUyXX0=
+eyJoaXN0b3J5IjpbMjEwOTQ2MzY5NiwxMTM2MTM4NTJdfQ==
 -->
