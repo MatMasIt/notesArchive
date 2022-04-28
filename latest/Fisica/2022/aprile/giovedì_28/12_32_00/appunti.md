@@ -128,9 +128,9 @@ ricognizione sul Mar d'Azov ed euler non torna più
 
 è giusto collaborare a produrre la bomba atimica se siamo americani e il fine è giusto o è sbagliata a priori
 
-
+noi in germania non colalboriamo al programma
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQxMzUwLC0xOTkwOTg4OTE3LDExMz
-YxMzg1Ml19
+eyJoaXN0b3J5IjpbLTczNzkzNzMxOSwtMTk5MDk4ODkxNywxMT
+M2MTM4NTJdfQ==
 -->
