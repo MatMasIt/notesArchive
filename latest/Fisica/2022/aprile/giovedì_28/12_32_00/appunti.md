@@ -63,9 +63,18 @@ Otto hann ha realizzato la fissione nucleare
 premesse teoriche
 
 
-nel 1939 incontra fermi che è già emigrato negli stati uniti, in cui Heisenberg stava compiendo qualche conferenza e riflette quanto dice Fermi
+nel 1939 incontra fermi che è già emigrato negli stati uniti, in cui Heisenberg stava compiendo qualche conferenza e riflette quando fermi dice che la bomba nucleare può essere realizzata non in troppo tempo
+
+H dice che non ci sono principi generali
+
+decisione giusta o sbagliata non si può 
+sapere prima
+
+regola di cartesio: segui la strada fino alla fine quando hai scelto
+
+alla fine spirito hegeliano
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTQ2MzY5NiwxMTM2MTM4NTJdfQ==
+eyJoaXN0b3J5IjpbLTU3NjMwOTI0MSwxMTM2MTM4NTJdfQ==
 -->
