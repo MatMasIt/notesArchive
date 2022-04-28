@@ -57,6 +57,13 @@ ognuno di noi appartiene ad una certa nazione per nascita
 
 radicamento alla realtà di popolo a cui appartiene
 
+
+Otto hann ha realizzato la fissione nucleare
+
+premesse teoriche
+
+
+nel 1939 incontra fermi che è già emigrato negli stati uniti, in cui Heisenberg stava c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODQ2OTM0LDExMzYxMzg1Ml19
+eyJoaXN0b3J5IjpbLTEyMDgxNjkyMzEsMTEzNjEzODUyXX0=
 -->
