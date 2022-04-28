@@ -97,6 +97,17 @@ ci sono prospettive
 terreno pericoloso
 
 H ne è consapevole
+
+Euler rimane in germania, ma trova il modo di non collaborare se vuole 
+
+
+Euler, comunista convinto, fidanzato con ebrea che era ora in svizzera
+
+
+
+Padre poverissimo
+
+Euler no
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1Mjc1NTk5LDExMzYxMzg1Ml19
+eyJoaXN0b3J5IjpbODU4MTY4MTk4LDExMzYxMzg1Ml19
 -->
