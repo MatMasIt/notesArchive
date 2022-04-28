@@ -160,8 +160,18 @@ secondo Bohr dipende dal contesto
 
 H dice a Bohr
 
-Quando va in germania, i fisici americani rifiutano di stringere la sua mano, che non ha fatto nula
+Quando va in germania, i fisici americani rifiutano di stringere la sua mano, che non ha fatto nulla, mentre quelle mani hanno costruita la bomba atomica
+
+Bohr se le persone si dovessero misurare, H continua: serve una nuova strana etica quantistica
+
+
+Le incertezze sono relative alle motivazioni di quello che si fa, al contesto e agli esiti
+
+
+quanto più fissiamo intenzioni, più ci sfugge l'esito
+
+quanto più guardiamo l'esito ci sfuggono le intenzioni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODE5MjkwMCwxMDQ0OTUyODYsLTczNz
-kzNzMxOSwtMTk5MDk4ODkxNywxMTM2MTM4NTJdfQ==
+eyJoaXN0b3J5IjpbLTE1NTc4MjcxMjIsMTA0NDk1Mjg2LC03Mz
+c5MzczMTksLTE5OTA5ODg5MTcsMTEzNjEzODUyXX0=
 -->
