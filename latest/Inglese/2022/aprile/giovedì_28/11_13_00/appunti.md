@@ -43,8 +43,12 @@ while thelemacus was a brave boy that was able to rul during his  father's absen
 
 Dedalus, even though he is young feels like a failure
 
-Mr dedalus and Bloom meet in a brothe
+Mr dedalus and Bloom meet in a brothel
+
+Dedauls is looking for an adoptive father
+
+Mr bloom in a certain way becomes his adoptive father
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzMxNDg1MzgsOTI2MzkzMzk4LDg3Nj
-Y0OTA5NSwtMzY2NzQ1MTE5XX0=
+eyJoaXN0b3J5IjpbMTI0MzkyOTgzNCw5MjYzOTMzOTgsODc2Nj
+Q5MDk1LC0zNjY3NDUxMTldfQ==
 -->
