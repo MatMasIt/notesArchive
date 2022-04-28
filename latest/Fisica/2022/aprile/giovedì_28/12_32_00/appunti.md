@@ -145,7 +145,15 @@ o che è fattibile in poco tempo
 Giugno 42 dice a Sper che vanno avanti con il progetto del reattore
 
 pochi fondi, fine bomba atomica tedesca
+
+6 agosto arriva notizia esplosione bomba atomica  a Hiroshima
+
+sono vicino a Cambridge con Einstenin e Otto Hann
+
+numero immenso di innocenti morti
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2OTY0MzkxLC03Mzc5MzczMTksLTE5OT
+eyJoaXN0b3J5IjpbMTA0NDk1Mjg2LC03Mzc5MzczMTksLTE5OT
 A5ODg5MTcsMTEzNjEzODUyXX0=
 -->
