@@ -153,8 +153,13 @@ sono vicino a Cambridge con Einstenin e Otto Hann
 numero immenso di innocenti morti
 
 H dice: ma gli scienziati americani hanno riflettuto?
-Bohr ha 
+Bohr hai riflettuto? anche tu hai collaborato?
+\- Beh non lavoravamo per Hitler
+secondo Bohr dipende dal contesto
+
+
+H dice a Bohr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI0NDc3MjgsMTA0NDk1Mjg2LC03Mz
-c5MzczMTksLTE5OTA5ODg5MTcsMTEzNjEzODUyXX0=
+eyJoaXN0b3J5IjpbLTE1NDMzODczMSwxMDQ0OTUyODYsLTczNz
+kzNzMxOSwtMTk5MDk4ODkxNywxMTM2MTM4NTJdfQ==
 -->
