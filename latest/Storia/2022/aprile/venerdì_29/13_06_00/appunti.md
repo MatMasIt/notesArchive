@@ -61,6 +61,9 @@ Guerra sottomarina totale
 
 questo elemento e gli altri induce gli stati uniti
 
+2 aprile 1917 Wilson dichiara guerra alla germania in divesa dei valori liberali e democratici
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NDg0Njg4LC0xODczOTMwMDc1XX0=
+eyJoaXN0b3J5IjpbLTE3OTYxNDc5MzMsLTE4NzM5MzAwNzVdfQ
+==
 -->
