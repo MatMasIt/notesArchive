@@ -92,6 +92,11 @@ p 113
 ultima offensiva italiana
 
 impero asburgico si stava sfaldando sotto pressione indipendentisti
+
+
+ammutinamento flotta tedesca diventa una rivoluzione che si espande fino a berlino, operai fanno conflitti come soviet
+
+Guglielmo II fugge dal pa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODg5NzUwOSwtMTg3MzkzMDA3NV19
+eyJoaXN0b3J5IjpbMTE5OTIyMDkzMSwtMTg3MzkzMDA3NV19
 -->
