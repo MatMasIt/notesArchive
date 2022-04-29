@@ -34,7 +34,12 @@ p 449 Fratelli
 
 ungaretti e clemente rebora sono nelle trincee
 
-Eugenio Montale ne parlerà soprattutto in una itnervista
+Eugenio Montale ne parlerà soprattutto in una intervista
+
+
+Psichiatra dice Rebora: delirio di infinito
+
+nasce in fa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ4NzgyODRdfQ==
+eyJoaXN0b3J5IjpbMTM1Mjg1OTk2M119
 -->
