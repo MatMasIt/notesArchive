@@ -44,8 +44,21 @@ maggio 1915, p.101 affoondamento Lusitania (piroscafo inglese che porta quasi si
 
 presidente USA Woodrow Wilson chiede ai tedeschi di smettere
 
-Tedeschi
+Tedeschi: si darà preavviso alle navi prima di affondare per fare in modo che passegeri evacuino le navi
+
+
+nel corso del '17 il blocco navale inglese si insensifica
+
+materie prime difficili da reperire
+
+recrudescenza della guerra sottomarina tedesca
+
+dal 31 gennaio 1917
+
+affondamento di tutte e navi, chiunque 
+
+Guerra sottoma
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0MDc3ODE2LC0xODczOTMwMDc1XX0=
+eyJoaXN0b3J5IjpbLTI1NTEwMTA1OCwtMTg3MzkzMDA3NV19
 -->
