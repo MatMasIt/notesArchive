@@ -63,7 +63,16 @@ questo elemento e gli altri induce gli stati uniti
 
 2 aprile 1917 Wilson dichiara guerra alla germania in divesa dei valori liberali e democratici
 
+Guerra ora tende a favore della triplice intesa
+
+
+estate 1918, cinque grandi offensive arrivano a minacciare parigi p 112
+
+dopo ultima offensiva lo stato maggiore sa che guerra non può essere vinta
+
+
+dice ai politici: trattate
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTYxNDc5MzMsLTE4NzM5MzAwNzVdfQ
-==
+eyJoaXN0b3J5IjpbMTI0Mjc1MTAyMCwtMTg3MzkzMDA3NV19
 -->
