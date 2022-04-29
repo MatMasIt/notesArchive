@@ -1,4 +1,4 @@
-#Lezione di storia
+# Lezione di storia
 
 1914, Impero ottomano entra in guerra
 
@@ -125,6 +125,6 @@ p 115 e 116
 6. riduzione armamenti
 7. costituzione della società delle nazioni, che doveva essere una associazioni di stati che doveva risolvere le constroversie in maniera pacifica, antenato ONU
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTk2Mjg0MCwtNTIzMDUyNzIxLC0xOD
-czOTMwMDc1XX0=
+eyJoaXN0b3J5IjpbLTExNDU1NDM5MDIsLTUyMzA1MjcyMSwtMT
+g3MzkzMDA3NV19
 -->
