@@ -96,7 +96,17 @@ impero asburgico si stava sfaldando sotto pressione indipendentisti
 
 ammutinamento flotta tedesca diventa una rivoluzione che si espande fino a berlino, operai fanno conflitti come soviet
 
-Guglielmo II fugge dal pa
+Guglielmo II fugge dal paese
+
+Friedrich Heber, esponente socialdemocratici
+
+germania firma armistizio
+
+p 121, cartina europa
+
+visione di Wilson
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTIyMDkzMSwtMTg3MzkzMDA3NV19
+eyJoaXN0b3J5IjpbMTE3NDU5NzU5NCwtMTg3MzkzMDA3NV19
 -->
