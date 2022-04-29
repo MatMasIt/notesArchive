@@ -89,7 +89,9 @@ Hemingway: sul fronte italiano
 
 p 113
 
-u
+ultima offensiva italiana
+
+impero asburgico si stava sfaldando sotto pressione indipendentisti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDY0NTQwMiwtMTg3MzkzMDA3NV19
+eyJoaXN0b3J5IjpbLTQwODg5NzUwOSwtMTg3MzkzMDA3NV19
 -->
