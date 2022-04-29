@@ -37,10 +37,16 @@ ungaretti e clemente rebora sono nelle trincee
 Eugenio Montale ne parlerà soprattutto in una intervista
 
 
-Psichiatra dice Rebora: delirio di infinito
+Psichiatra dice Rebora: delirio di infinito (allora non c'erano i manuali OMS)
 
 nasce in famiglia milanese laica borghese
 ferventi mazziniani
+
+
+Intervista di Montale anni 60
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI3OTQ3NTRdfQ==
+eyJoaXN0b3J5IjpbMTk1MjMwOTE0NV19
 -->
