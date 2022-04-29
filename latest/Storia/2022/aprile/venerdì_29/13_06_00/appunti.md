@@ -71,8 +71,14 @@ estate 1918, cinque grandi offensive arrivano a minacciare parigi p 112
 dopo ultima offensiva lo stato maggiore sa che guerra non può essere vinta
 
 
-dice ai politici: trattate
+dice ai politici: trattate la pace
+
+Hitler dirà che i socialdemocratici che hanno iniziato a guidare la germania a aprtire da settembe ottobre 1918 i responsabili della sconfitta
+
+avrebbero scelto di intraprendere trattative di pace
+
+la verità è che lo stesso esercito ha realizzato guerra impossib
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Mjc1MTAyMCwtMTg3MzkzMDA3NV19
+eyJoaXN0b3J5IjpbNjkyODI0NTk3LC0xODczOTMwMDc1XX0=
 -->
