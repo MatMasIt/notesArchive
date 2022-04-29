@@ -26,9 +26,14 @@ USA prestano soldi alle nazioni europee per la ricostruzione
 stati uniti fanno prestiti per sforzo bellico
 
 motivi per sperare che francia e inghilterra vincano:
-*affinità culturale
+* affinità culturale
 * resituzione prestiti
-* Germania affonda con sommergibili
+* Germania affonda con sommergibili navi americane
+
+Flotta inglese è comunque superiore a quella tedesca
+
+inghilterra fa blocco navale nei confronti dei porti tedeschi, bisogna fare in modo che la germania non si possa approvvigionare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MTcxMzcxLC0xODczOTMwMDc1XX0=
+eyJoaXN0b3J5IjpbLTE4MDczNzYxMzksLTE4NzM5MzAwNzVdfQ
+==
 -->
