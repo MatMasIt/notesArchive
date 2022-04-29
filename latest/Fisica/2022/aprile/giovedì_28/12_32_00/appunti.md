@@ -171,7 +171,11 @@ Le incertezze sono relative alle motivazioni di quello che si fa, al contesto e 
 quanto più fissiamo intenzioni, più ci sfugge l'esito
 
 quanto più guardiamo l'esito ci sfuggono le intenzioni
+
+
+etica delle intenzioni vs etica della responsabilità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc4MjcxMjIsMTA0NDk1Mjg2LC03Mz
-c5MzczMTksLTE5OTA5ODg5MTcsMTEzNjEzODUyXX0=
+eyJoaXN0b3J5IjpbLTE1MTk1NzE0OTUsLTE1NTc4MjcxMjIsMT
+A0NDk1Mjg2LC03Mzc5MzczMTksLTE5OTA5ODg5MTcsMTEzNjEz
+ODUyXX0=
 -->
