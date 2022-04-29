@@ -40,7 +40,12 @@ allora i tedeschi usano i sommergibili (chehanno solo loro) per affodnare le nav
 
 non sempre i sommergibili riescono a individuare navi militari
 
-maggio 1915, p.101 affoondamento Lusitania
+maggio 1915, p.101 affoondamento Lusitania (piroscafo inglese che porta quasi sicuramente armi con passeggeri americani, 123 | muoiono circa 1000 persone)
+
+presidente USA Woodrow Wilson chiede ai tedeschi di smettere
+
+Tedeschi
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NjIzNzY1LC0xODczOTMwMDc1XX0=
+eyJoaXN0b3J5IjpbNTk0MDc3ODE2LC0xODczOTMwMDc1XX0=
 -->
