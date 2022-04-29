@@ -34,7 +34,13 @@ Flotta inglese è comunque superiore a quella tedesca
 
 inghilterra fa blocco navale nei confronti dei porti tedeschi, bisogna fare in modo che la germania non si possa approvvigionarsi
 
-il blocco navale 
+il blocco navale è efficace
+
+allora i tedeschi usano i sommergibili (chehanno solo loro) per affodnare le navi inglesi che sorvegliano i porti tedeschi
+
+non sempre i sommergibili riescono a individuare navi militari
+
+maggio 1915, p.101 affoondamento Lusitania
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Njc0Mzg3NiwtMTg3MzkzMDA3NV19
+eyJoaXN0b3J5IjpbNzQ0NjIzNzY1LC0xODczOTMwMDc1XX0=
 -->
