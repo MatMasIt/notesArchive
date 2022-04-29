@@ -39,7 +39,8 @@ Eugenio Montale ne parlerà soprattutto in una intervista
 
 Psichiatra dice Rebora: delirio di infinito
 
-nasce in fa
+nasce in famiglia milanese laica borghese
+ferventi mazziniani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Mjg1OTk2M119
+eyJoaXN0b3J5IjpbLTEwMTI3OTQ3NTRdfQ==
 -->
