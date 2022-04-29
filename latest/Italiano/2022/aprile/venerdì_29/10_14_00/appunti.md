@@ -48,7 +48,11 @@ Intervista di Montale anni 60
 
 Non era interventista, ma non voleva essere visto male (in sostanza)
 
-Montale assiste a fucilazione 
+Montale assiste a fucilazione di un soldato che aveva rubato
+
+non fece effetto, era come un sogno, un grande sogno in cui tutto poteva accadere
+
+e lui avanzava come un sonnambulo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDMwNDkxMzhdfQ==
+eyJoaXN0b3J5IjpbLTU1NjgzNzY0MV19
 -->
