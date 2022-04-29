@@ -16,7 +16,12 @@ deportazioni di massa, marce forzate li decimano
 
 sterminio documentato ma per molto tempo nell'oblio
 
-repubblica turca nega la 
+repubblica turca nega il genocidio
+
+gli stati uniti hanno grandi quantità di capitali  (grande industria)
+
+
+USA prestano soldi alle nazioni europee per la ricostruzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzM5MzAwNzVdfQ==
+eyJoaXN0b3J5IjpbLTI3NDIxODIwNSwtMTg3MzkzMDA3NV19
 -->
