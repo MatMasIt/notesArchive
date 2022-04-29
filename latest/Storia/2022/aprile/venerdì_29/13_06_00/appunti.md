@@ -57,8 +57,10 @@ dal 31 gennaio 1917
 
 affondamento di tutte e navi, chiunque 
 
-Guerra sottoma
+Guerra sottomarina totale
+
+questo elemento e gli altri induce gli stati uniti
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTEwMTA1OCwtMTg3MzkzMDA3NV19
+eyJoaXN0b3J5IjpbNzE1NDg0Njg4LC0xODczOTMwMDc1XX0=
 -->
