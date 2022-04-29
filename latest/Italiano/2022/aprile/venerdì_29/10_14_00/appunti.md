@@ -65,7 +65,13 @@ forsennato: fuori di senno
 Piangere è una condizione che è consentita a chi è rimasto vivo
 
 
+scavo della coscienza di fronte alla guerra
 
+Rebora: orrore bellico troppo grande, inseffabile
+
+chiasmo
+
+non dire, tu uomo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjc2NjU3Nl19
+eyJoaXN0b3J5IjpbMTY2NzE0Mjg0NV19
 -->
