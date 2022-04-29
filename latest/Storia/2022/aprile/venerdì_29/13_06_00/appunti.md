@@ -25,7 +25,10 @@ USA prestano soldi alle nazioni europee per la ricostruzione
 
 stati uniti fanno prestiti per sforzo bellico
 
-motivi per sper
+motivi per sperare che francia e inghilterra vincano:
+*affinità culturale
+* resituzione prestiti
+* Germania affonda con sommergibili
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTg1MTk2LC0xODczOTMwMDc1XX0=
+eyJoaXN0b3J5IjpbODY4MTcxMzcxLC0xODczOTMwMDc1XX0=
 -->
