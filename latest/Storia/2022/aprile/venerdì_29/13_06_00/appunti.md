@@ -11,7 +11,12 @@ entrata guerra, nazionalismo sfrenato
 
 armeni identificati come nemico interno
 
-deportazioni di massa, marce forzate li deciamno
+deportazioni di massa, marce forzate li decimano
+
+
+sterminio documentato ma per molto tempo nell'oblio
+
+repubblica turca nega la 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjM1NDAzMl19
+eyJoaXN0b3J5IjpbLTE4NzM5MzAwNzVdfQ==
 -->
