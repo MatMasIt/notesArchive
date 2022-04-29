@@ -117,13 +117,14 @@ No trattati segreti, basta
 
 p 115 e 116
 
-
+1. Emancipazione dei popoli (ogni popolo deve poter autogovernarsi)
+2. relazioni dei paesi da assetto competitivo ad assetto collaborativo
 3. Diplomazia aperta
 4. no barriere doganali
 5. libertà di navigazione del mondo
 6. riduzione armamenti
-7. costituzione della società delle nazioni, che doveva essere una associazioni di stati che doveva risolvere le cons
+7. costituzione della società delle nazioni, che doveva essere una associazioni di stati che doveva risolvere le constroversie in maniera pacifica, antenato ONU
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk1MjUwNTcsLTUyMzA1MjcyMSwtMT
-g3MzkzMDA3NV19
+eyJoaXN0b3J5IjpbMjE0NTk2Mjg0MCwtNTIzMDUyNzIxLC0xOD
+czOTMwMDc1XX0=
 -->
