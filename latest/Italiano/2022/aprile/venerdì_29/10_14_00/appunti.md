@@ -52,7 +52,18 @@ Montale assiste a fucilazione di un soldato che aveva rubato
 
 non fece effetto, era come un sogno, un grande sogno in cui tutto poteva accadere
 
-e lui avanzava come un sonnambulo       bnn
+e lui avanzava come un sonnambulo     
+
+
+Rebora
+
+
+Voce di vedetta morta, Rebora
+
+
+p.474  Veglia, ungaretti
+
+forsennato: fuori di s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQyNTAyNTFdfQ==
+eyJoaXN0b3J5IjpbNjIyNzkzNzY1XX0=
 -->
