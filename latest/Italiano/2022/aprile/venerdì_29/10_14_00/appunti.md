@@ -52,7 +52,7 @@ Montale assiste a fucilazione di un soldato che aveva rubato
 
 non fece effetto, era come un sogno, un grande sogno in cui tutto poteva accadere
 
-e lui avanzava come un sonnambulo
+e lui avanzava come un sonnambulo       bnn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjgzNzY0MV19
+eyJoaXN0b3J5IjpbLTE0NjQyNTAyNTFdfQ==
 -->
