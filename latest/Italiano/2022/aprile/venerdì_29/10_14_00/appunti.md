@@ -20,9 +20,9 @@ Haiku giapponese classico del 1600
 
 immaine e calligrama
 
-Mat
+_Matsuo Bashyo_
 
 Nell vecchio stanno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTE4ODMzMF19
+eyJoaXN0b3J5IjpbMTc0ODA0OTY1NV19
 -->
