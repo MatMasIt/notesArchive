@@ -46,7 +46,9 @@ ferventi mazziniani
 Intervista di Montale anni 60
 
 
+Non era interventista, ma non voleva essere visto male (in sostanza)
 
+Montale assiste a fucilazione 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjMwOTE0NV19
+eyJoaXN0b3J5IjpbLTEwNDMwNDkxMzhdfQ==
 -->
