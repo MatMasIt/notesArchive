@@ -10,6 +10,8 @@ Rivoluzione giovani turchi
 entrata guerra, nazionalismo sfrenato
 
 armeni identificati come nemico interno
+
+deportazioni di massa, marce forzate li deciamno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzgxMzc2Ml19
+eyJoaXN0b3J5IjpbMTE2NjM1NDAzMl19
 -->
