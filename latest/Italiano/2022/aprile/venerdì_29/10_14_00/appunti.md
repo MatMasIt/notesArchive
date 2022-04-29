@@ -32,7 +32,9 @@ pubblicati sui giornali occidentali
 
 p 449 Fratelli
 
-j
+ungaretti e clemente rebora sono nelle trincee
+
+Eugenio Montale ne parlerà soprattutto in una itnervista
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMzMTU2ODFdfQ==
+eyJoaXN0b3J5IjpbLTE4NzQ4NzgyODRdfQ==
 -->
