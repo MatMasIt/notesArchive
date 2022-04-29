@@ -22,7 +22,17 @@ immaine e calligrama
 
 _Matsuo Bashyo_
 
-Nell vecchio stanno
+brevità
+
+Nel vecchio stagno
+
+pubblicati sui giornali occidentali
+
+---
+
+p 449 Fratelli
+
+j
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODA0OTY1NV19
+eyJoaXN0b3J5IjpbLTE2OTMzMTU2ODFdfQ==
 -->
