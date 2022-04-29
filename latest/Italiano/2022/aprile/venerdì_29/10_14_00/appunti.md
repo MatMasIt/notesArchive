@@ -82,7 +82,13 @@ Gorgo di baci, avvolgimento
 
 violenza nell'amoreggiare (?)
 
-se potrai tornare 
+se potrai tornare soffiale che nulla del mondo redimerà ciò che è perso
+
+non c'è conciliazione, ritrovamentp dell'armonia
+
+la poesia non sana la frattura
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwMDYxODQ1XX0=
+eyJoaXN0b3J5IjpbLTc4NTU0MTQ4NV19
 -->
