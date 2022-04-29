@@ -114,7 +114,16 @@ come wilson pensava che il mondo dovesse essere riorganizzato, nello specifico l
 
 No trattati segreti, basta
 
+
 p 115 e 116
+
+
+3. Diplomazia aperta
+4. no barriere doganali
+5. libertà di navigazione del mondo
+6. riduzione armamenti
+7. costituzione della società delle nazioni, che doveva essere una associazioni di stati che doveva risolvere le cons
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzA1MjcyMSwtMTg3MzkzMDA3NV19
+eyJoaXN0b3J5IjpbLTE3MDk1MjUwNTcsLTUyMzA1MjcyMSwtMT
+g3MzkzMDA3NV19
 -->
