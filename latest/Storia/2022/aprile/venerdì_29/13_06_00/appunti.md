@@ -22,6 +22,10 @@ gli stati uniti hanno grandi quantità di capitali  (grande industria)
 
 
 USA prestano soldi alle nazioni europee per la ricostruzione
+
+stati uniti fanno prestiti per sforzo bellico
+
+motivi per sper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDIxODIwNSwtMTg3MzkzMDA3NV19
+eyJoaXN0b3J5IjpbLTYxNTg1MTk2LC0xODczOTMwMDc1XX0=
 -->
