@@ -77,8 +77,8 @@ Hitler dirà che i socialdemocratici che hanno iniziato a guidare la germania a 
 
 avrebbero scelto di intraprendere trattative di pace
 
-la verità è che lo stesso esercito ha realizzato guerra impossib
+la verità è che lo stesso esercito ha realizzato guerra impossibile da vincere
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyODI0NTk3LC0xODczOTMwMDc1XX0=
+eyJoaXN0b3J5IjpbMTIxMDk0OTU0NiwtMTg3MzkzMDA3NV19
 -->
