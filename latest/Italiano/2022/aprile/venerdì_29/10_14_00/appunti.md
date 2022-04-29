@@ -58,12 +58,14 @@ e lui avanzava come un sonnambulo
 Rebora
 
 
-Voce di vedetta morta, Rebora
+Voce di vedetta morta, Rebora, sembra p.474  Veglia, ungaretti
+
+forsennato: fuori di senno
+
+Piangere è una condizione che è consentita a chi è rimasto vivo
 
 
-p.474  Veglia, ungaretti
 
-forsennato: fuori di s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyNzkzNzY1XX0=
+eyJoaXN0b3J5IjpbLTkyMjc2NjU3Nl19
 -->
