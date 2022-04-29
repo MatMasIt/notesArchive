@@ -32,8 +32,9 @@ motivi per sperare che francia e inghilterra vincano:
 
 Flotta inglese è comunque superiore a quella tedesca
 
-inghilterra fa blocco navale nei confronti dei porti tedeschi, bisogna fare in modo che la germania non si possa approvvigionare
+inghilterra fa blocco navale nei confronti dei porti tedeschi, bisogna fare in modo che la germania non si possa approvvigionarsi
+
+il blocco navale 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDczNzYxMzksLTE4NzM5MzAwNzVdfQ
-==
+eyJoaXN0b3J5IjpbMTc4Njc0Mzg3NiwtMTg3MzkzMDA3NV19
 -->
