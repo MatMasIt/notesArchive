@@ -106,7 +106,15 @@ p 121, cartina europa
 
 visione di Wilson
 
+messaggio a congresso usa genanio 1918
 
+programma storicamente noto come "programma dei 14 punti di wilson"
+
+come wilson pensava che il mondo dovesse essere riorganizzato, nello specifico l'europa
+
+No trattati segreti, basta
+
+p 115 e 116
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDU5NzU5NCwtMTg3MzkzMDA3NV19
+eyJoaXN0b3J5IjpbLTUyMzA1MjcyMSwtMTg3MzkzMDA3NV19
 -->
