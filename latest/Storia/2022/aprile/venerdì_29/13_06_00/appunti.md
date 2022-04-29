@@ -82,6 +82,14 @@ la verità è che lo stesso esercito ha realizzato guerra impossibile da vincere
 
 ora la germania invece di offendere comincia a difendere
 
+4 novembre, armistizio con austria
+
+Hemingway: sul fronte italiano
+
+
+p 113
+
+u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTAyODMxOCwtMTg3MzkzMDA3NV19
+eyJoaXN0b3J5IjpbMTM2MDY0NTQwMiwtMTg3MzkzMDA3NV19
 -->
