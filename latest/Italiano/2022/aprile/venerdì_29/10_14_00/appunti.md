@@ -72,6 +72,17 @@ Rebora: orrore bellico troppo grande, inseffabile
 chiasmo
 
 non dire, tu uomo 
+
+
+la poesia non riesce a sanare la frattura tra uomo e dramma, io e realtà esterna
+
+natura realtà violentata dalla guerra
+
+Gorgo di baci, avvolgimento
+
+violenza nell'amoreggiare (?)
+
+se potrai tornare 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzE0Mjg0NV19
+eyJoaXN0b3J5IjpbNTAwMDYxODQ1XX0=
 -->
