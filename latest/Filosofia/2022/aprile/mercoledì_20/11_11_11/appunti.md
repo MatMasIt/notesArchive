@@ -334,8 +334,10 @@ rilancio dalla terza fase del pensiero Nietscheano
 
 morale contestata, morale cristiana
 
-a
+abnegazione
+
+schopenhauer capisce insensatezza ma propone abnegazione, ascesi, strada opposta a quella di nietsche, che vuole portare alla piena, assoluta, indefett
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDE4OTM5NywxMzY0NTA4OTgsLTQyOD
+eyJoaXN0b3J5IjpbLTM4MDgzMzcxNSwxMzY0NTA4OTgsLTQyOD
 c4NDIxMCwtMjEzODAxNDQ2OCwyNTE1MjQwMzddfQ==
 -->
