@@ -339,9 +339,13 @@ abnegazione
 schopenhauer capisce insensatezza ma propone abnegazione, ascesi, strada opposta a quella di nietsche, che vuole portare alla piena, assoluta, indefettibile affermazione di se
 
 
-dicotomia tra morale 
+dicotomia tra morale dei signori e degli schiavi
+
+considerazione del "dialogo Gorgia e platone"
+
+dia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzU0MTUwOCwtMTMyMDk2NTk2NCwxMz
-Y0NTA4OTgsLTQyODc4NDIxMCwtMjEzODAxNDQ2OCwyNTE1MjQw
-MzddfQ==
+eyJoaXN0b3J5IjpbLTExODk0MzY0NjAsLTEzMjA5NjU5NjQsMT
+M2NDUwODk4LC00Mjg3ODQyMTAsLTIxMzgwMTQ0NjgsMjUxNTI0
+MDM3XX0=
 -->
