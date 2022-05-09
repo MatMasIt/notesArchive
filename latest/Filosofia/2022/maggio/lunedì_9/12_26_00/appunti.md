@@ -38,9 +38,15 @@ bene ha valore soltanto come oggettivazione del lavoro umano e costituisce il su
 se guardiamo algi oggetti dimenticandoci del lavoro rischiamo di considerare oggetti come feticci (trasformare oggetti prodotti dall'uomo in divinità autonome)
 
 
-Sistema del passato: $MDM$
+Sistema del passato: $MDM$:
+
+modello mercantile
+
+Merci-denaro-merci
+
+dalla vendita della merce si ricava denaro per ottenere altre merci
 
 Sistema corrente: $DMD'$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTczNTAwNTUsLTk2OTEwNDgzM119
+eyJoaXN0b3J5IjpbMzQ4MzM4ODcsLTk2OTEwNDgzM119
 -->
