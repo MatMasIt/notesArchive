@@ -305,8 +305,9 @@ vita gaia, audace, temeraria
 
 2 avversari:
 
-* trascendenza 
+* trascendenza ( e tradizione metafisica)
+* morale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTgwOTE3MSwtNDI4Nzg0MjEwLC0yMT
-M4MDE0NDY4LDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbMTM2NDUwODk4LC00Mjg3ODQyMTAsLTIxMz
+gwMTQ0NjgsMjUxNTI0MDM3XX0=
 -->
