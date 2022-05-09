@@ -377,9 +377,17 @@ Oltreuomo
 
 uomo: qualcosa che deve essere superato
 
+L'oltreuomo diventi il senso della terra
+
+siate fedeli alla terra e non credete ai manipolatori che vi propongono qualcosa dopo la vita
+
+spregiatori della vita, se ne vadano in pace
+
+una volta il peccato contro dio era il peggior sacrilegio, ma dio è morto
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzI0MDA4OCwxOTczOTc0MDAsODY0Nj
-A1NTUxLDEwMDMzMzExMTYsNTQ5ODA0OTcwLC0xMzIwOTY1OTY0
-LDEzNjQ1MDg5OCwtNDI4Nzg0MjEwLC0yMTM4MDE0NDY4LDI1MT
-UyNDAzN119
+eyJoaXN0b3J5IjpbLTEyNDE2MTg4MDgsMTk3Mzk3NDAwLDg2ND
+YwNTU1MSwxMDAzMzMxMTE2LDU0OTgwNDk3MCwtMTMyMDk2NTk2
+NCwxMzY0NTA4OTgsLTQyODc4NDIxMCwtMjEzODAxNDQ2OCwyNT
+E1MjQwMzddfQ==
 -->
