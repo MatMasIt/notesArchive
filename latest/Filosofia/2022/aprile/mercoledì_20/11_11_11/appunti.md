@@ -327,7 +327,15 @@ terza fase del pensiero, da "così parlo Zarathustra"
 occorrono nuovi principi
 * fiducia forza
 * affermazione di sè
+
+Vuoto o occasione per il rilancio?
+
+rilancio dalla terza fase del pensiero Nietscheano
+
+morale contestata, morale cristiana
+
+a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDc2NTUyMzMsMTM2NDUwODk4LC00Mj
-g3ODQyMTAsLTIxMzgwMTQ0NjgsMjUxNTI0MDM3XX0=
+eyJoaXN0b3J5IjpbLTQ3NDE4OTM5NywxMzY0NTA4OTgsLTQyOD
+c4NDIxMCwtMjEzODAxNDQ2OCwyNTE1MjQwMzddfQ==
 -->
