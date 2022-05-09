@@ -47,6 +47,14 @@ Merci-denaro-merci
 dalla vendita della merce si ricava denaro per ottenere altre merci
 
 Sistema corrente: $DMD'$
+
+Società capitalistica
+
+$$
+D'> D
+$$
+
+Il capitale originario vie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4MzM4ODcsLTk2OTEwNDgzM119
+eyJoaXN0b3J5IjpbMzk0NTQ2MDQzLC05NjkxMDQ4MzNdfQ==
 -->
