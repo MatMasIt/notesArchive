@@ -254,6 +254,12 @@ vanità di apparire bravi e superiori rispetto agli altri
 
 egoismo, non altruismo
 
+dietro atto eroico: vanità
+
+egoista
+
+ci si getta in acqua per soccorrere qualcuno tanto più volentieri se vicino non ci sono 
+
 
 valori di matrice cristiana ancorati ad elementi nobili ma che non lo sono
 
@@ -293,12 +299,8 @@ tutto questo non da luogo al pessimismo
 vita gaia, audace, temeraria
 
 
-dietro atto eroico: vanità
 
-egoista
-
-ci si getta in acqua per soccorrere qualcuno tanto più volentieri se vicino non ci sono 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3NzQwMzMyLC0yMTM4MDE0NDY4LDI1MT
-UyNDAzN119
+eyJoaXN0b3J5IjpbLTQyODc4NDIxMCwtMjEzODAxNDQ2OCwyNT
+E1MjQwMzddfQ==
 -->
