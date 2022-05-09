@@ -57,8 +57,9 @@ $$
 Il capitale originario $D'$ viene da un furto, le enclosures inglesi, terre comuni dei contadini
 
 
-
+operaio vende la forza lavoro come merce e ottiene incambio il salario 
+Questo scambio dovrebbe seere  uguale ma non lo è
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY3ODA2NjAsNzAyMjczMTE4LC05Nj
+eyJoaXN0b3J5IjpbLTExNjE2NjA1MDUsNzAyMjczMTE4LC05Nj
 kxMDQ4MzNdfQ==
 -->
