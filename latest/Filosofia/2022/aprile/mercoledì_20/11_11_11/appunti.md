@@ -452,10 +452,14 @@ in una concezione circolare, se so che l'attimo che vivo è destinato a ripeters
 Massima:
 > _"Vivi questo singolo attimo in un modo tale che tu possa desiderare di riviverlo in eterno"_
 
+
+Non uccidere e sacrificare in vista di un fine ulteriore
+
+premio, eterno ritorno dell'eguale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTI1NTY5NTUsMTA2NjY0MzY1LC04Nj
-cwMjAxMDIsOTQyMTM0NzQzLC0xMjQxNjE4ODA4LDE5NzM5NzQw
-MCw4NjQ2MDU1NTEsMTAwMzMzMTExNiw1NDk4MDQ5NzAsLTEzMj
-A5NjU5NjQsMTM2NDUwODk4LC00Mjg3ODQyMTAsLTIxMzgwMTQ0
-NjgsMjUxNTI0MDM3XX0=
+eyJoaXN0b3J5IjpbNjMxNjU4NTUxLDEwNjY2NDM2NSwtODY3MD
+IwMTAyLDk0MjEzNDc0MywtMTI0MTYxODgwOCwxOTczOTc0MDAs
+ODY0NjA1NTUxLDEwMDMzMzExMTYsNTQ5ODA0OTcwLC0xMzIwOT
+Y1OTY0LDEzNjQ1MDg5OCwtNDI4Nzg0MjEwLC0yMTM4MDE0NDY4
+LDI1MTUyNDAzN119
 -->
