@@ -300,8 +300,13 @@ vita gaia, audace, temeraria
 
 
 --- 
+# Conclusioni
 
+
+2 avversari:
+
+* trascendenza 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk2MzAyNjMsLTQyODc4NDIxMCwtMj
-EzODAxNDQ2OCwyNTE1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbMjE0NTgwOTE3MSwtNDI4Nzg0MjEwLC0yMT
+M4MDE0NDY4LDI1MTUyNDAzN119
 -->
