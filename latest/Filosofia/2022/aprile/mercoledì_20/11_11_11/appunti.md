@@ -373,9 +373,13 @@ dopo aver trascorso 10 anni nei monti torna tra le persone ad annunciare quello 
 profeta di una nuova veritò molto diverso da gesù cristo
 
 
+Oltreuomo
+
+uomo: qualcosa che deve essere superato
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjIwNTcxLDE5NzM5NzQwMCw4NjQ2MD
-U1NTEsMTAwMzMzMTExNiw1NDk4MDQ5NzAsLTEzMjA5NjU5NjQs
-MTM2NDUwODk4LC00Mjg3ODQyMTAsLTIxMzgwMTQ0NjgsMjUxNT
-I0MDM3XX0=
+eyJoaXN0b3J5IjpbMTA0NzI0MDA4OCwxOTczOTc0MDAsODY0Nj
+A1NTUxLDEwMDMzMzExMTYsNTQ5ODA0OTcwLC0xMzIwOTY1OTY0
+LDEzNjQ1MDg5OCwtNDI4Nzg0MjEwLC0yMTM4MDE0NDY4LDI1MT
+UyNDAzN119
 -->
