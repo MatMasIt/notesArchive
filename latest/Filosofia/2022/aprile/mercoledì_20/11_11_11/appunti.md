@@ -343,9 +343,13 @@ dicotomia tra morale dei signori e degli schiavi
 
 considerazione del "dialogo Gorgia e platone"
 
-dia
+dialogo tra Socrate e Callicle
+
+socrate precristiano, morale della rinuncia, meglio subire che perpetrare
+
+callicle è un sofista
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk0MzY0NjAsLTEzMjA5NjU5NjQsMT
-M2NDUwODk4LC00Mjg3ODQyMTAsLTIxMzgwMTQ0NjgsMjUxNTI0
-MDM3XX0=
+eyJoaXN0b3J5IjpbNTQ5ODA0OTcwLC0xMzIwOTY1OTY0LDEzNj
+Q1MDg5OCwtNDI4Nzg0MjEwLC0yMTM4MDE0NDY4LDI1MTUyNDAz
+N119
 -->
