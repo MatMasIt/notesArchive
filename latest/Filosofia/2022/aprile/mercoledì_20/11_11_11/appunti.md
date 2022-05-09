@@ -311,7 +311,10 @@ vita gaia, audace, temeraria
 Concetto di "nichilismo" da _nihil_ nulla
 
 Gli uomini riconoscono assenza fondamento metafisico della realtà (quindi anche dei fondamenti religiosi)
+
+
+Profondo senso di vuoto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTMwOTA0OTMsMTM2NDUwODk4LC00Mj
-g3ODQyMTAsLTIxMzgwMTQ0NjgsMjUxNTI0MDM3XX0=
+eyJoaXN0b3J5IjpbLTg0MzEyODMwMiwxMzY0NTA4OTgsLTQyOD
+c4NDIxMCwtMjEzODAxNDQ2OCwyNTE1MjQwMzddfQ==
 -->
