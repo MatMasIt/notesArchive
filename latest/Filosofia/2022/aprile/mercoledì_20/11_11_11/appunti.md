@@ -353,9 +353,9 @@ Morale degli schiavi
 
 svuotare l'energia vitale dei più forti
 
-I deboli spesso con il loro unirsi 
+I deboli spesso con il loro unirsi insieme riescono a costruire reti di vincoli che bloccano il vitalismo dei forti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMjkzOTUyLDEwMDMzMzExMTYsNTQ5OD
-A0OTcwLC0xMzIwOTY1OTY0LDEzNjQ1MDg5OCwtNDI4Nzg0MjEw
-LC0yMTM4MDE0NDY4LDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbLTE2Nzk4MzcxMjIsMTAwMzMzMTExNiw1ND
+k4MDQ5NzAsLTEzMjA5NjU5NjQsMTM2NDUwODk4LC00Mjg3ODQy
+MTAsLTIxMzgwMTQ0NjgsMjUxNTI0MDM3XX0=
 -->
