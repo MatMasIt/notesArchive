@@ -404,9 +404,16 @@ istinti profondi dell'essere umano
 
 esaltazione della dimensione corporea
 
-Riscoperta dimensione corporea rispetto al traduzi
+Riscoperta dimensione corporea rispetto al tradizionale dominio dell'anima
+
+aspetti fionisiaci
+
+* defeltà terra
+* esaltazione di volontà
+* imporsi se necessario
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDk2NzYzOSw5NDIxMzQ3NDMsLTEyND
+eyJoaXN0b3J5IjpbLTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyND
 E2MTg4MDgsMTk3Mzk3NDAwLDg2NDYwNTU1MSwxMDAzMzMxMTE2
 LDU0OTgwNDk3MCwtMTMyMDk2NTk2NCwxMzY0NTA4OTgsLTQyOD
 c4NDIxMCwtMjEzODAxNDQ2OCwyNTE1MjQwMzddfQ==
