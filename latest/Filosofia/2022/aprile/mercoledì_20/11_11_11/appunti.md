@@ -330,7 +330,7 @@ occorrono nuovi principi
 
 Vuoto o occasione per il rilancio?
 
-rilancio dalla terza fase del pensiero Nietscheano
+rilancio dalla terza fase del pensiero Nietzschiano
 
 morale contestata, morale cristiana
 
@@ -341,7 +341,7 @@ schopenhauer capisce insensatezza ma propone abnegazione, ascesi, strada opposta
 
 dicotomia tra morale dei signori e degli schiavi
 
-considerazione del "dialogo Gorgia e platone"
+considerazione del "dialogo Gorgia e Platone"
 
 dialogo tra Socrate e Callicle
 
@@ -362,15 +362,15 @@ danni, risentimento e malattia
 Terza fase
 
 Zarathustra
-semimitico fondatore della religione persiana, zoroastrismo
+semi-mitico fondatore della religione persiana, zoroastrismo
 prima dell'arrivo dell'islam VII sec ac
 
-Secondo Nietsche
+Secondo Nietzsche
 
 a 30 anni Z. si ritira sui monti
 dopo aver trascorso 10 anni nei monti torna tra le persone ad annunciare quello che ha capito
 
-profeta di una nuova veritò molto diverso da gesù cristo
+profeta di una nuova verità molto diverso da gesù cristo
 
 
 Oltreuomo
@@ -386,7 +386,7 @@ spregiatori della vita, se ne vadano in pace
 una volta il peccato contro dio era il peggior sacrilegio, ma dio è morto
 
 nichilismo positivo 
-oltreuomo: nuova prospettiva
+oltre-uomo: nuova prospettiva
 
 valori:
 * forza 
@@ -404,7 +404,7 @@ istinti profondi dell'essere umano
 
 esaltazione della dimensione corporea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDkxMDgzLC0xMjQxNjE4ODA4LDE5Nz
+eyJoaXN0b3J5IjpbOTQyMTM0NzQzLC0xMjQxNjE4ODA4LDE5Nz
 M5NzQwMCw4NjQ2MDU1NTEsMTAwMzMzMTExNiw1NDk4MDQ5NzAs
 LTEzMjA5NjU5NjQsMTM2NDUwODk4LC00Mjg3ODQyMTAsLTIxMz
 gwMTQ0NjgsMjUxNTI0MDM3XX0=
