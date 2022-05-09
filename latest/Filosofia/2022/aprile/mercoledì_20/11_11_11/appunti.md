@@ -432,10 +432,19 @@ concezione ebraico-cristiana
 nella filosofia ellenistica non era così
 
 
+N: concezione circolare di nuovo del tempo
+
+gli eventi della realtà si presentano nella stessa identica maniera
+
+non è concezione cosmologico
+
+messaggio morale
+
+se pensiamo il 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzYyNzQsMTA2NjY0MzY1LC04NjcwMj
-AxMDIsOTQyMTM0NzQzLC0xMjQxNjE4ODA4LDE5NzM5NzQwMCw4
-NjQ2MDU1NTEsMTAwMzMzMTExNiw1NDk4MDQ5NzAsLTEzMjA5Nj
-U5NjQsMTM2NDUwODk4LC00Mjg3ODQyMTAsLTIxMzgwMTQ0Njgs
-MjUxNTI0MDM3XX0=
+eyJoaXN0b3J5IjpbMTI5NDE0NzYwMCwxMDY2NjQzNjUsLTg2Nz
+AyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4MDgsMTk3Mzk3NDAw
+LDg2NDYwNTU1MSwxMDAzMzMxMTE2LDU0OTgwNDk3MCwtMTMyMD
+k2NTk2NCwxMzY0NTA4OTgsLTQyODc4NDIxMCwtMjEzODAxNDQ2
+OCwyNTE1MjQwMzddfQ==
 -->
