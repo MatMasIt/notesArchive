@@ -31,7 +31,9 @@ nel mondo moderno non funziona così, ci sono altri elementi artificiosi
 
 secondo Marx questo è feticismo delle merci
 
-esaltazione ruolo dell'op
+esaltazione ruolo dell'operaio
+
+bene ha valore soltanto come oggettivazione del lavoro umano e costituisce il s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM2OTI2NDAsLTk2OTEwNDgzM119
+eyJoaXN0b3J5IjpbLTE4NzMyMDQ5OTEsLTk2OTEwNDgzM119
 -->
