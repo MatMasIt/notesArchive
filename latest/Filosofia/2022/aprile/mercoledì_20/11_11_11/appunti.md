@@ -418,10 +418,20 @@ no consolazione
 oltreuomo annunciato ma lungi da essere presente
 
 N. come profeta
+
+Tema dell'eterno ritorno dell'eguale
+
+tema di tradizione cristiana
+
+tempo per il cristianesimo è lineare
+
+inizio ----- fine
+
+concezione ebraico-cristiana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjY0MzY1LC04NjcwMjAxMDIsOTQyMT
-M0NzQzLC0xMjQxNjE4ODA4LDE5NzM5NzQwMCw4NjQ2MDU1NTEs
-MTAwMzMzMTExNiw1NDk4MDQ5NzAsLTEzMjA5NjU5NjQsMTM2ND
-UwODk4LC00Mjg3ODQyMTAsLTIxMzgwMTQ0NjgsMjUxNTI0MDM3
-XX0=
+eyJoaXN0b3J5IjpbNzAxNDc0MTI1LDEwNjY2NDM2NSwtODY3MD
+IwMTAyLDk0MjEzNDc0MywtMTI0MTYxODgwOCwxOTczOTc0MDAs
+ODY0NjA1NTUxLDEwMDMzMzExMTYsNTQ5ODA0OTcwLC0xMzIwOT
+Y1OTY0LDEzNjQ1MDg5OCwtNDI4Nzg0MjEwLC0yMTM4MDE0NDY4
+LDI1MTUyNDAzN119
 -->
