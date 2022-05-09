@@ -33,7 +33,11 @@ secondo Marx questo è feticismo delle merci
 
 esaltazione ruolo dell'operaio
 
-bene ha valore soltanto come oggettivazione del lavoro umano e costituisce il s
+bene ha valore soltanto come oggettivazione del lavoro umano e costituisce il suo valore di scambio
+
+se guardiamo algi oggetti dimenticandoci del lavoro rischiamo di considerare oggetti come feticci (trasformare oggetti prodotti dall'uomo in divinit autonome)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMyMDQ5OTEsLTk2OTEwNDgzM119
+eyJoaXN0b3J5IjpbLTIxMzA2NDIwNzEsLTk2OTEwNDgzM119
 -->
