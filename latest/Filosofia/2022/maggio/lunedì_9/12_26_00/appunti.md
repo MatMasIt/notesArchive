@@ -16,6 +16,16 @@ uso: una certa merce soddisfa un certo bisogno materiale o intellettuale
 p.55
 
 valore di scambio: rapporto di corrispondenza quantitativa con valore d'uso
+
+p.56
+
+quantità di lavoro incorporato in una merce la rende scambiabile
+
+un vestito ha un valore di scambio dovuto al tempo e agli sforzi necessari per produrlo
+
+questo la rende equivalente ad altra merce con lo stesso tempo di produzione
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjY2ODU0NF19
+eyJoaXN0b3J5IjpbLTg0ODIwOTA0XX0=
 -->
