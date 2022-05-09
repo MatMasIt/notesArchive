@@ -25,7 +25,8 @@ un vestito ha un valore di scambio dovuto al tempo e agli sforzi necessari per p
 
 questo la rende equivalente ad altra merce con lo stesso tempo di produzione
 
+la merce ha valore come oggettivazione del lavoro umano
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODIwOTA0XX0=
+eyJoaXN0b3J5IjpbLTE3MjM5MjgzMDZdfQ==
 -->
