@@ -297,8 +297,8 @@ dietro atto eroico: vanità
 
 egoista
 
-ci si getta in aqc
+ci si getta in acqua per soccorrere qualcuno tanto più volentieri se vicino non ci sono 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDMyMDk0NywtMjEzODAxNDQ2OCwyNT
-E1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbNDg3NzQwMzMyLC0yMTM4MDE0NDY4LDI1MT
+UyNDAzN119
 -->
