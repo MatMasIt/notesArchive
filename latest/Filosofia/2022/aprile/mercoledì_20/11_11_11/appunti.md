@@ -320,8 +320,11 @@ sconfortante vuoto, no significato
 Nietsche chiama questo nichilismo "passivo": coloritura negativa dellla mancanza di fondamento
 
 
-terza fase del pensiero, da "così parlo Zarath
+terza fase del pensiero, da "così parlo Zarathustra"
+* al di la del bene e del mane
+* crepuscolo degli idoli
+* ecce homo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2NzYzMTc4LDEzNjQ1MDg5OCwtNDI4Nz
+eyJoaXN0b3J5IjpbNzcyMzU0Njk0LDEzNjQ1MDg5OCwtNDI4Nz
 g0MjEwLC0yMTM4MDE0NDY4LDI1MTUyNDAzN119
 -->
