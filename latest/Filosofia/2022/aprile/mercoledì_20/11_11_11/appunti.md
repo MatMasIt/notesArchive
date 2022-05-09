@@ -314,7 +314,14 @@ Gli uomini riconoscono assenza fondamento metafisico della realtà (quindi anche
 
 
 Profondo senso di vuoto
+
+sconfortante vuoto, no significato
+
+Nietsche chiama questo nichilismo "passivo": coloritura negativa dellla mancanza di fondamento
+
+
+terza fase del pensiero, da "così parlo Zarath
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzEyODMwMiwxMzY0NTA4OTgsLTQyOD
-c4NDIxMCwtMjEzODAxNDQ2OCwyNTE1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbNTU2NzYzMTc4LDEzNjQ1MDg5OCwtNDI4Nz
+g0MjEwLC0yMTM4MDE0NDY4LDI1MTUyNDAzN119
 -->
