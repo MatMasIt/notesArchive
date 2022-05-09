@@ -336,8 +336,8 @@ morale contestata, morale cristiana
 
 abnegazione
 
-schopenhauer capisce insensatezza ma propone abnegazione, ascesi, strada opposta a quella di nietsche, che vuole portare alla piena, assoluta, indefett
+schopenhauer capisce insensatezza ma propone abnegazione, ascesi, strada opposta a quella di nietsche, che vuole portare alla piena, assoluta, indefettibile affermazione di se
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDgzMzcxNSwxMzY0NTA4OTgsLTQyOD
-c4NDIxMCwtMjEzODAxNDQ2OCwyNTE1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbLTEzMjA5NjU5NjQsMTM2NDUwODk4LC00Mj
+g3ODQyMTAsLTIxMzgwMTQ0NjgsMjUxNTI0MDM3XX0=
 -->
