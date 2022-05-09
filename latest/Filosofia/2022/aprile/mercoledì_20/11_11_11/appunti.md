@@ -324,7 +324,10 @@ terza fase del pensiero, da "così parlo Zarathustra"
 * al di la del bene e del mane
 * crepuscolo degli idoli
 * ecce homo
+occorrono nuovi principi
+* fiducia forza
+* affermazione di sè
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMzU0Njk0LDEzNjQ1MDg5OCwtNDI4Nz
-g0MjEwLC0yMTM4MDE0NDY4LDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbLTEyNDc2NTUyMzMsMTM2NDUwODk4LC00Mj
+g3ODQyMTAsLTIxMzgwMTQ0NjgsMjUxNTI0MDM3XX0=
 -->
