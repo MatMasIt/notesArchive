@@ -440,9 +440,14 @@ non è concezione cosmologico
 
 messaggio morale
 
-se pensiamo il 
+se pensiamo il tempo come una linea, ogni attimo è vissuto prima di quello successivo, verso un fine ultimo
+
+
+elemento cristianesimo e delle filosofie della storia
+
+attimo ha valore solo quando partecipa in un proces
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDE0NzYwMCwxMDY2NjQzNjUsLTg2Nz
+eyJoaXN0b3J5IjpbLTkwMTcwODM2NywxMDY2NjQzNjUsLTg2Nz
 AyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4MDgsMTk3Mzk3NDAw
 LDg2NDYwNTU1MSwxMDAzMzMxMTE2LDU0OTgwNDk3MCwtMTMyMD
 k2NTk2NCwxMzY0NTA4OTgsLTQyODc4NDIxMCwtMjEzODAxNDQ2
