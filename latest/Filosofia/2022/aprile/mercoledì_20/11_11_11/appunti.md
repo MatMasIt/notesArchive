@@ -347,9 +347,9 @@ dialogo tra Socrate e Callicle
 
 socrate precristiano, morale della rinuncia, meglio subire che perpetrare
 
-callicle è un sofista
+callicle è un sofista, morale del più forte, che possono imporsi sui deboli, sui mediocri, sui conformisti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5ODA0OTcwLC0xMzIwOTY1OTY0LDEzNj
-Q1MDg5OCwtNDI4Nzg0MjEwLC0yMTM4MDE0NDY4LDI1MTUyNDAz
-N119
+eyJoaXN0b3J5IjpbMTAwMzMzMTExNiw1NDk4MDQ5NzAsLTEzMj
+A5NjU5NjQsMTM2NDUwODk4LC00Mjg3ODQyMTAsLTIxMzgwMTQ0
+NjgsMjUxNTI0MDM3XX0=
 -->
