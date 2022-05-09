@@ -365,12 +365,16 @@ Zarathustra
 semimitico fondatore della religione persiana, zoroastrismo
 prima dell'arrivo dell'islam VII sec ac
 
+Secondo Nietsche
 
-a 3
+a 30 anni Z. si ritira sui monti
+dopo aver trascorso 10 anni nei monti torna tra le persone ad annunciare quello che ha capito
+
+profeta di una nuova veritò molto diverso da gesù cristo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2MDM3NDU3LDE5NzM5NzQwMCw4NjQ2MD
+eyJoaXN0b3J5IjpbLTE1NjIwNTcxLDE5NzM5NzQwMCw4NjQ2MD
 U1NTEsMTAwMzMzMTExNiw1NDk4MDQ5NzAsLTEzMjA5NjU5NjQs
 MTM2NDUwODk4LC00Mjg3ODQyMTAsLTIxMzgwMTQ0NjgsMjUxNT
 I0MDM3XX0=
