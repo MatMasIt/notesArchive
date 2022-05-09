@@ -456,10 +456,14 @@ Massima:
 Non uccidere e sacrificare in vista di un fine ulteriore
 
 premio, eterno ritorno dell'eguale
+
+Ultima considerazione; uso politico del pensiero di N
+
+rapporto tra la sua filosofia, gli orientamenti politici del suo tempo e quelli successivi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxNjU4NTUxLDEwNjY2NDM2NSwtODY3MD
-IwMTAyLDk0MjEzNDc0MywtMTI0MTYxODgwOCwxOTczOTc0MDAs
-ODY0NjA1NTUxLDEwMDMzMzExMTYsNTQ5ODA0OTcwLC0xMzIwOT
-Y1OTY0LDEzNjQ1MDg5OCwtNDI4Nzg0MjEwLC0yMTM4MDE0NDY4
-LDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbMzM2MjU1NjMzLDYzMTY1ODU1MSwxMDY2Nj
+QzNjUsLTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4MDgs
+MTk3Mzk3NDAwLDg2NDYwNTU1MSwxMDAzMzMxMTE2LDU0OTgwND
+k3MCwtMTMyMDk2NTk2NCwxMzY0NTA4OTgsLTQyODc4NDIxMCwt
+MjEzODAxNDQ2OCwyNTE1MjQwMzddfQ==
 -->
