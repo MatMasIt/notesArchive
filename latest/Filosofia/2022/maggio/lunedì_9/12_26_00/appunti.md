@@ -57,6 +57,8 @@ $$
 Il capitale originario $D'$ viene da un furto, le enclosures inglesi, terre comuni dei contadini
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyMjczMTE4LC05NjkxMDQ4MzNdfQ==
+eyJoaXN0b3J5IjpbLTE2ODY3ODA2NjAsNzAyMjczMTE4LC05Nj
+kxMDQ4MzNdfQ==
 -->
