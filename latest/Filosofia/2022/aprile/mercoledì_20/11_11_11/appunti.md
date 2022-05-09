@@ -291,6 +291,14 @@ nessuna illusione, lucidità
 tutto questo non da luogo al pessimismo
 
 vita gaia, audace, temeraria
+
+
+dietro atto eroico: vanità
+
+egoista
+
+ci si getta in aqc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzgwMTQ0NjgsMjUxNTI0MDM3XX0=
+eyJoaXN0b3J5IjpbMTgyMDMyMDk0NywtMjEzODAxNDQ2OCwyNT
+E1MjQwMzddfQ==
 -->
