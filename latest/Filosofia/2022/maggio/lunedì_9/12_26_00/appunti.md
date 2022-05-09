@@ -54,7 +54,9 @@ $$
 D'> D
 $$
 
-Il capitale originario vie
+Il capitale originario $D'$ viene da un furto, le enclosures inglesi, terre comuni dei contadini
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0NTQ2MDQzLC05NjkxMDQ4MzNdfQ==
+eyJoaXN0b3J5IjpbNzAyMjczMTE4LC05NjkxMDQ4MzNdfQ==
 -->
