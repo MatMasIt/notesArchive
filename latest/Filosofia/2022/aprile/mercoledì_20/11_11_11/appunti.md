@@ -365,8 +365,12 @@ Zarathustra
 semimitico fondatore della religione persiana, zoroastrismo
 prima dell'arrivo dell'islam VII sec ac
 
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NjA1NTUxLDEwMDMzMzExMTYsNTQ5OD
-A0OTcwLC0xMzIwOTY1OTY0LDEzNjQ1MDg5OCwtNDI4Nzg0MjEw
-LC0yMTM4MDE0NDY4LDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbMTk3Mzk3NDAwLDg2NDYwNTU1MSwxMDAzMz
+MxMTE2LDU0OTgwNDk3MCwtMTMyMDk2NTk2NCwxMzY0NTA4OTgs
+LTQyODc4NDIxMCwtMjEzODAxNDQ2OCwyNTE1MjQwMzddfQ==
 -->
