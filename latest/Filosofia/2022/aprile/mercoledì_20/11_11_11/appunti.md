@@ -412,11 +412,16 @@ aspetti fionisiaci
 * esaltazione di volontà
 * imporsi se necessario
 
+no consolazione
 
+
+oltreuomo annunciato ma lungi da essere presente
+
+N. come profeta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzA2MTIxNCwtODY3MDIwMTAyLDk0Mj
-EzNDc0MywtMTI0MTYxODgwOCwxOTczOTc0MDAsODY0NjA1NTUx
-LDEwMDMzMzExMTYsNTQ5ODA0OTcwLC0xMzIwOTY1OTY0LDEzNj
-Q1MDg5OCwtNDI4Nzg0MjEwLC0yMTM4MDE0NDY4LDI1MTUyNDAz
-N119
+eyJoaXN0b3J5IjpbMTA2NjY0MzY1LC04NjcwMjAxMDIsOTQyMT
+M0NzQzLC0xMjQxNjE4ODA4LDE5NzM5NzQwMCw4NjQ2MDU1NTEs
+MTAwMzMzMTExNiw1NDk4MDQ5NzAsLTEzMjA5NjU5NjQsMTM2ND
+UwODk4LC00Mjg3ODQyMTAsLTIxMzgwMTQ0NjgsMjUxNTI0MDM3
+XX0=
 -->
