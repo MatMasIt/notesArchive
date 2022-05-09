@@ -385,9 +385,27 @@ spregiatori della vita, se ne vadano in pace
 
 una volta il peccato contro dio era il peggior sacrilegio, ma dio è morto
 
+nichilismo positivo 
+oltreuomo: nuova prospettiva
+
+valori:
+* forza 
+* volontà
+* fierezza
+* gioia
+* salute
+* amore
+* inimicizia
+* conflitto
+* guerra
+
+istinti profondi dell'essere umano
+
+
+esaltazione della dimensione corporea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE2MTg4MDgsMTk3Mzk3NDAwLDg2ND
-YwNTU1MSwxMDAzMzMxMTE2LDU0OTgwNDk3MCwtMTMyMDk2NTk2
-NCwxMzY0NTA4OTgsLTQyODc4NDIxMCwtMjEzODAxNDQ2OCwyNT
-E1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbLTk5MDkxMDgzLC0xMjQxNjE4ODA4LDE5Nz
+M5NzQwMCw4NjQ2MDU1NTEsMTAwMzMzMTExNiw1NDk4MDQ5NzAs
+LTEzMjA5NjU5NjQsMTM2NDUwODk4LC00Mjg3ODQyMTAsLTIxMz
+gwMTQ0NjgsMjUxNTI0MDM3XX0=
 -->
