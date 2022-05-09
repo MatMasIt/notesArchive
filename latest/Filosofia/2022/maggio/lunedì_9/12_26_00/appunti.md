@@ -35,9 +35,12 @@ esaltazione ruolo dell'operaio
 
 bene ha valore soltanto come oggettivazione del lavoro umano e costituisce il suo valore di scambio
 
-se guardiamo algi oggetti dimenticandoci del lavoro rischiamo di considerare oggetti come feticci (trasformare oggetti prodotti dall'uomo in divinit autonome)
+se guardiamo algi oggetti dimenticandoci del lavoro rischiamo di considerare oggetti come feticci (trasformare oggetti prodotti dall'uomo in divinità autonome)
 
 
+Sistema del passato: $MDM$
+
+Sistema corrente: $DMD'$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA2NDIwNzEsLTk2OTEwNDgzM119
+eyJoaXN0b3J5IjpbLTE0OTczNTAwNTUsLTk2OTEwNDgzM119
 -->
