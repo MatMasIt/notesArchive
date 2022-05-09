@@ -358,8 +358,15 @@ I deboli spesso con il loro unirsi insieme riescono a costruire reti di vincoli 
 repressione degli istinti
 causa
 danni, risentimento e malattia
+
+Terza fase
+
+Zarathustra
+semimitico fondatore della religione persiana, zoroastrismo
+prima dell'arrivo dell'islam VII sec ac
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTIzNTkwMCwxMDAzMzMxMTE2LDU0OT
-gwNDk3MCwtMTMyMDk2NTk2NCwxMzY0NTA4OTgsLTQyODc4NDIx
-MCwtMjEzODAxNDQ2OCwyNTE1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbODY0NjA1NTUxLDEwMDMzMzExMTYsNTQ5OD
+A0OTcwLC0xMzIwOTY1OTY0LDEzNjQ1MDg5OCwtNDI4Nzg0MjEw
+LC0yMTM4MDE0NDY4LDI1MTUyNDAzN119
 -->
