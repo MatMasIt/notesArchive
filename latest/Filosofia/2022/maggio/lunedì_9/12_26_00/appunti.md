@@ -21,12 +21,16 @@ p.56
 
 quantità di lavoro incorporato in una merce la rende scambiabile
 
-un vestito ha un valore di scambio dovuto al tempo e agli sforzi necessari per produrlo
+un vestito ha un valore di scambio dovuto al tempo necessario per produrlo
 
 questo la rende equivalente ad altra merce con lo stesso tempo di produzione
 
 la merce ha valore come oggettivazione del lavoro umano
 
+nel mondo moderno non funziona così, ci sono altri elementi artificiosi
+
+secondo Marx questo è feticismo delle merci
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM5MjgzMDZdfQ==
+eyJoaXN0b3J5IjpbLTk2OTEwNDgzM119
 -->
