@@ -307,7 +307,11 @@ vita gaia, audace, temeraria
 
 * trascendenza ( e tradizione metafisica)
 * morale
+
+Concetto di "nichilismo" da _nihil_ nulla
+
+Gli uomini riconoscono assenza fondamento metafisico della realtà (quindi anche dei fondamenti religiosi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDUwODk4LC00Mjg3ODQyMTAsLTIxMz
-gwMTQ0NjgsMjUxNTI0MDM3XX0=
+eyJoaXN0b3J5IjpbLTE4MTMwOTA0OTMsMTM2NDUwODk4LC00Mj
+g3ODQyMTAsLTIxMzgwMTQ0NjgsMjUxNTI0MDM3XX0=
 -->
