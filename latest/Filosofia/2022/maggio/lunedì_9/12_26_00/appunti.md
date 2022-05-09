@@ -31,6 +31,7 @@ nel mondo moderno non funziona così, ci sono altri elementi artificiosi
 
 secondo Marx questo è feticismo delle merci
 
+esaltazione ruolo dell'op
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTEwNDgzM119
+eyJoaXN0b3J5IjpbLTE5ODM2OTI2NDAsLTk2OTEwNDgzM119
 -->
