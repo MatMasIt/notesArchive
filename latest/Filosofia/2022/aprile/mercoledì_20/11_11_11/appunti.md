@@ -445,11 +445,17 @@ se pensiamo il tempo come una linea, ogni attimo è vissuto prima di quello succ
 
 elemento cristianesimo e delle filosofie della storia
 
-attimo ha valore solo quando partecipa in un proces
+in questa concezione attimo ha valore solo quando partecipa in un processo complessivo dotato di fine  e non vale di per se, per se stesso
+
+in una concezione circolare, se so che l'attimo che vivo è destinato a ripetersi in eterno, mi ispirerà a viverlo al meglio delle mie possibilità
+
+Massima:
+> _"Vivi questo singolo attimo in un modo tale che tu possa desiderare di riviverlo in eterno"_
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTcwODM2NywxMDY2NjQzNjUsLTg2Nz
-AyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4MDgsMTk3Mzk3NDAw
-LDg2NDYwNTU1MSwxMDAzMzMxMTE2LDU0OTgwNDk3MCwtMTMyMD
-k2NTk2NCwxMzY0NTA4OTgsLTQyODc4NDIxMCwtMjEzODAxNDQ2
-OCwyNTE1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbLTE3NTI1NTY5NTUsMTA2NjY0MzY1LC04Nj
+cwMjAxMDIsOTQyMTM0NzQzLC0xMjQxNjE4ODA4LDE5NzM5NzQw
+MCw4NjQ2MDU1NTEsMTAwMzMzMTExNiw1NDk4MDQ5NzAsLTEzMj
+A5NjU5NjQsMTM2NDUwODk4LC00Mjg3ODQyMTAsLTIxMzgwMTQ0
+NjgsMjUxNTI0MDM3XX0=
 -->
