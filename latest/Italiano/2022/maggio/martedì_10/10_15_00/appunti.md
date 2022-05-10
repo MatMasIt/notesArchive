@@ -34,8 +34,12 @@ nuvole vegetali, addensamenti di piante, di petali si diffondevano sul tuo fonto
 
 noi (plurale) volti (avvolti)
 
-razzo militare c
+razzo militare come fiore e fuoco d'artificio
+
+lacrima nell'aria
+
+sboccia un razzo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzkyMTM4OCwtMjUzNzU2Nzc5LDYxNT
-AwMDU1MV19
+eyJoaXN0b3J5IjpbMjg2MDc1ODg1LC0yNTM3NTY3NzksNjE1MD
+AwNTUxXX0=
 -->
