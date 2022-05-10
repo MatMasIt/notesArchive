@@ -516,12 +516,19 @@ controllo dei sintomi corporei
 
 lenire sintomi corporei
 
+ritorna a vienna e comincia a collaborare con un altro studioso di isteria
+
 Joseph Breuer
+
+svolta: scoperta dell'
+1910: nasce la società internazionale di psicanalisi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDkwNDk5NDEsLTE3NDAzMTY2MjksLT
-Q0MDA2NDUwMyw1MTA3NDY1NDIsMzM2MjU1NjMzLDYzMTY1ODU1
-MSwxMDY2NjQzNjUsLTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyND
-E2MTg4MDgsMTk3Mzk3NDAwLDg2NDYwNTU1MSwxMDAzMzMxMTE2
-LDU0OTgwNDk3MCwtMTMyMDk2NTk2NCwxMzY0NTA4OTgsLTQyOD
-c4NDIxMCwtMjEzODAxNDQ2OCwyNTE1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbMTc3MTUzMTgyOSwtMTc0MDMxNjYyOSwtND
+QwMDY0NTAzLDUxMDc0NjU0MiwzMzYyNTU2MzMsNjMxNjU4NTUx
+LDEwNjY2NDM2NSwtODY3MDIwMTAyLDk0MjEzNDc0MywtMTI0MT
+YxODgwOCwxOTczOTc0MDAsODY0NjA1NTUxLDEwMDMzMzExMTYs
+NTQ5ODA0OTcwLC0xMzIwOTY1OTY0LDEzNjQ1MDg5OCwtNDI4Nz
+g0MjEwLC0yMTM4MDE0NDY4LDI1MTUyNDAzN119
 -->
