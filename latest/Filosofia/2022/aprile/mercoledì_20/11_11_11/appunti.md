@@ -558,12 +558,16 @@ qualcosa nel cervello dei soggetti doveva non funzionare
 secondo F certi stati di sofferenza mentale non sono causati da questo, ma dalle traversie che la psiche nella sua evoluzione si trova ad affrotnare
 
 psicogeni
+
+breue
+
+È possibile attraverso all'ipnosi richiamare alla mente avvenimenti penosi che il paziente ha dimenticato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjQwMDIxMCwyMDYwNjQ5MDI0LC0xMD
-E1NjI5NTEwLC0xNzQwMzE2NjI5LC00NDAwNjQ1MDMsNTEwNzQ2
-NTQyLDMzNjI1NTYzMyw2MzE2NTg1NTEsMTA2NjY0MzY1LC04Nj
-cwMjAxMDIsOTQyMTM0NzQzLC0xMjQxNjE4ODA4LDE5NzM5NzQw
-MCw4NjQ2MDU1NTEsMTAwMzMzMTExNiw1NDk4MDQ5NzAsLTEzMj
-A5NjU5NjQsMTM2NDUwODk4LC00Mjg3ODQyMTAsLTIxMzgwMTQ0
-NjhdfQ==
+eyJoaXN0b3J5IjpbLTExOTg5OTE5MDUsLTczMjQwMDIxMCwyMD
+YwNjQ5MDI0LC0xMDE1NjI5NTEwLC0xNzQwMzE2NjI5LC00NDAw
+NjQ1MDMsNTEwNzQ2NTQyLDMzNjI1NTYzMyw2MzE2NTg1NTEsMT
+A2NjY0MzY1LC04NjcwMjAxMDIsOTQyMTM0NzQzLC0xMjQxNjE4
+ODA4LDE5NzM5NzQwMCw4NjQ2MDU1NTEsMTAwMzMzMTExNiw1ND
+k4MDQ5NzAsLTEzMjA5NjU5NjQsMTM2NDUwODk4LC00Mjg3ODQy
+MTBdfQ==
 -->
