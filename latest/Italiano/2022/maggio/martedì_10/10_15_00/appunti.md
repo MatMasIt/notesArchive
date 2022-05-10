@@ -42,7 +42,11 @@ sboccia un razzo
 
 più compostezza della omposizione rspetto ad ungaretti, ritorno all'ordine
 
+
+Ripetizione delle r
+
+schema delle rime
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4Nzg0ODE5LC0yNTM3NTY3NzksNjE1MD
-AwNTUxXX0=
+eyJoaXN0b3J5IjpbNDA0NDExNjY5LDgxODc4NDgxOSwtMjUzNz
+U2Nzc5LDYxNTAwMDU1MV19
 -->
