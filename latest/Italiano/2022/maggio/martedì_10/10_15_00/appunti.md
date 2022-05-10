@@ -19,6 +19,21 @@ sembrava che la valle salpasse con la luna
 
 volpi
 senhal per una amante di montale
+
+
+Valmorbia, Montale
+
+Linguaggio più aulico
+
+discurrere: correre quà e là 
+diffondersi
+
+nuvoli: nuvole al maschile
+
+nuvole vegetali, addensamenti di piante, di petali si diffondevano sul tuo fonto (valle) a iasoli (soffi di vento)
+
+noi (plurale) volti (avvolti)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Mzc1Njc3OSw2MTUwMDA1NTFdfQ==
+eyJoaXN0b3J5IjpbLTM5MjM3NTE1NiwtMjUzNzU2Nzc5LDYxNT
+AwMDU1MV19
 -->
