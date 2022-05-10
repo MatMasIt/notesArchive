@@ -9,6 +9,9 @@ Microfiltriamo acqua con siringa e filtro
 
 * acqua laghetto 
 * acqua via pozzo bra
+
+0,01M EDTA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg1OTI3ODEsMTcyNjMwNDc4OF19
+eyJoaXN0b3J5IjpbMTU1MjgyMTk1LC0xNzE4NTkyNzgxLDE3Mj
+YzMDQ3ODhdfQ==
 -->
