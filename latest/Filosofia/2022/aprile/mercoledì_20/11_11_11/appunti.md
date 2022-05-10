@@ -562,12 +562,23 @@ psicogeni
 breue
 
 È possibile attraverso all'ipnosi richiamare alla mente avvenimenti penosi che il paziente ha dimenticato
+
+
+allentamento della tensione
+
+caso di Anna O.
+
+anoressia, tosse nervosa, idrofobia
+
+mediante l'ipnosi Breuer riuscì a farsi richiamare un episodio di quando Anna era bambina
+
+cane della governante con la quale la bambina aveva un rappor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTg5OTE5MDUsLTczMjQwMDIxMCwyMD
-YwNjQ5MDI0LC0xMDE1NjI5NTEwLC0xNzQwMzE2NjI5LC00NDAw
-NjQ1MDMsNTEwNzQ2NTQyLDMzNjI1NTYzMyw2MzE2NTg1NTEsMT
-A2NjY0MzY1LC04NjcwMjAxMDIsOTQyMTM0NzQzLC0xMjQxNjE4
-ODA4LDE5NzM5NzQwMCw4NjQ2MDU1NTEsMTAwMzMzMTExNiw1ND
-k4MDQ5NzAsLTEzMjA5NjU5NjQsMTM2NDUwODk4LC00Mjg3ODQy
-MTBdfQ==
+eyJoaXN0b3J5IjpbLTg5NzE1MjcyMiwtNzMyNDAwMjEwLDIwNj
+A2NDkwMjQsLTEwMTU2Mjk1MTAsLTE3NDAzMTY2MjksLTQ0MDA2
+NDUwMyw1MTA3NDY1NDIsMzM2MjU1NjMzLDYzMTY1ODU1MSwxMD
+Y2NjQzNjUsLTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4
+MDgsMTk3Mzk3NDAwLDg2NDYwNTU1MSwxMDAzMzMxMTE2LDU0OT
+gwNDk3MCwtMTMyMDk2NTk2NCwxMzY0NTA4OTgsLTQyODc4NDIx
+MF19
 -->
