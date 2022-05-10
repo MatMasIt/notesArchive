@@ -586,8 +586,10 @@ occorre strategia più ampia per accedere all'inconscio
 complessità di forze in tensione
 
 Breuer continua inposi mentre invece freud va avanti
+
+co
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTc3ODEzNCwtNzMyNDAwMjEwLDIwNj
+eyJoaXN0b3J5IjpbLTkxMDk1MDU4NiwtNzMyNDAwMjEwLDIwNj
 A2NDkwMjQsLTEwMTU2Mjk1MTAsLTE3NDAzMTY2MjksLTQ0MDA2
 NDUwMyw1MTA3NDY1NDIsMzM2MjU1NjMzLDYzMTY1ODU1MSwxMD
 Y2NjQzNjUsLTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4
