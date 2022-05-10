@@ -540,13 +540,19 @@ Opere:
 * Il disagio della civiltà, 1929
 
 
+seconda metà 800
+
+positivismo: sciemnza come unico sapere autentico
+
+bisogna far somigliare qualsiasi disciplina alla scienza per renderla solida e credibile come la scienza
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM2NzYxMjYsLTEwMTU2Mjk1MTAsLT
-E3NDAzMTY2MjksLTQ0MDA2NDUwMyw1MTA3NDY1NDIsMzM2MjU1
-NjMzLDYzMTY1ODU1MSwxMDY2NjQzNjUsLTg2NzAyMDEwMiw5ND
-IxMzQ3NDMsLTEyNDE2MTg4MDgsMTk3Mzk3NDAwLDg2NDYwNTU1
-MSwxMDAzMzMxMTE2LDU0OTgwNDk3MCwtMTMyMDk2NTk2NCwxMz
-Y0NTA4OTgsLTQyODc4NDIxMCwtMjEzODAxNDQ2OCwyNTE1MjQw
-MzddfQ==
+eyJoaXN0b3J5IjpbMjA2MDY0OTAyNCwtMTAxNTYyOTUxMCwtMT
+c0MDMxNjYyOSwtNDQwMDY0NTAzLDUxMDc0NjU0MiwzMzYyNTU2
+MzMsNjMxNjU4NTUxLDEwNjY2NDM2NSwtODY3MDIwMTAyLDk0Mj
+EzNDc0MywtMTI0MTYxODgwOCwxOTczOTc0MDAsODY0NjA1NTUx
+LDEwMDMzMzExMTYsNTQ5ODA0OTcwLC0xMzIwOTY1OTY0LDEzNj
+Q1MDg5OCwtNDI4Nzg0MjEwLC0yMTM4MDE0NDY4LDI1MTUyNDAz
+N119
 -->
