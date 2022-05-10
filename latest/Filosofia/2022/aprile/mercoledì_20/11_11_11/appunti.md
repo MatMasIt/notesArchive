@@ -554,12 +554,16 @@ fatti verificabili
 medicina tradizionale: i disturbi mentali dovevano avere una base fisica
 
 qualcosa nel cervello dei soggetti doveva non funzionare
+
+secondo F certi stati di sofferenza mentale non sono causati da questo, ma dalle traversie che la psiche nella sua evoluzione si trova ad affrotnare
+
+psicogeni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4NjIzOTMwLDIwNjA2NDkwMjQsLTEwMT
-U2Mjk1MTAsLTE3NDAzMTY2MjksLTQ0MDA2NDUwMyw1MTA3NDY1
-NDIsMzM2MjU1NjMzLDYzMTY1ODU1MSwxMDY2NjQzNjUsLTg2Nz
-AyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4MDgsMTk3Mzk3NDAw
-LDg2NDYwNTU1MSwxMDAzMzMxMTE2LDU0OTgwNDk3MCwtMTMyMD
-k2NTk2NCwxMzY0NTA4OTgsLTQyODc4NDIxMCwtMjEzODAxNDQ2
-OF19
+eyJoaXN0b3J5IjpbLTczMjQwMDIxMCwyMDYwNjQ5MDI0LC0xMD
+E1NjI5NTEwLC0xNzQwMzE2NjI5LC00NDAwNjQ1MDMsNTEwNzQ2
+NTQyLDMzNjI1NTYzMyw2MzE2NTg1NTEsMTA2NjY0MzY1LC04Nj
+cwMjAxMDIsOTQyMTM0NzQzLC0xMjQxNjE4ODA4LDE5NzM5NzQw
+MCw4NjQ2MDU1NTEsMTAwMzMzMTExNiw1NDk4MDQ5NzAsLTEzMj
+A5NjU5NjQsMTM2NDUwODk4LC00Mjg3ODQyMTAsLTIxMzgwMTQ0
+NjhdfQ==
 -->
