@@ -39,7 +39,10 @@ razzo militare come fiore e fuoco d'artificio
 lacrima nell'aria
 
 sboccia un razzo
+
+più compostezza della omposizione rspetto ad ungaretti, ritorno all'ordine
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2MDc1ODg1LC0yNTM3NTY3NzksNjE1MD
+eyJoaXN0b3J5IjpbODE4Nzg0ODE5LC0yNTM3NTY3NzksNjE1MD
 AwNTUxXX0=
 -->
