@@ -581,13 +581,17 @@ forte repulsione
 
 pur avendo rimosso questo episodio, la paziente mostrava dei sintomi idrofobici che scomparsero quando il ricordo riaffiorò
 
-occorre strategia più ampia per accedere all'inc
+occorre strategia più ampia per accedere all'inconscio
+
+complessità di forze in tensione
+
+Breuer continua inposi mentre invece freud va avanti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1ODA0NDI2LC03MzI0MDAyMTAsMjA2MD
-Y0OTAyNCwtMTAxNTYyOTUxMCwtMTc0MDMxNjYyOSwtNDQwMDY0
-NTAzLDUxMDc0NjU0MiwzMzYyNTU2MzMsNjMxNjU4NTUxLDEwNj
-Y2NDM2NSwtODY3MDIwMTAyLDk0MjEzNDc0MywtMTI0MTYxODgw
-OCwxOTczOTc0MDAsODY0NjA1NTUxLDEwMDMzMzExMTYsNTQ5OD
-A0OTcwLC0xMzIwOTY1OTY0LDEzNjQ1MDg5OCwtNDI4Nzg0MjEw
-XX0=
+eyJoaXN0b3J5IjpbMTgxOTc3ODEzNCwtNzMyNDAwMjEwLDIwNj
+A2NDkwMjQsLTEwMTU2Mjk1MTAsLTE3NDAzMTY2MjksLTQ0MDA2
+NDUwMyw1MTA3NDY1NDIsMzM2MjU1NjMzLDYzMTY1ODU1MSwxMD
+Y2NjQzNjUsLTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4
+MDgsMTk3Mzk3NDAwLDg2NDYwNTU1MSwxMDAzMzMxMTE2LDU0OT
+gwNDk3MCwtMTMyMDk2NTk2NCwxMzY0NTA4OTgsLTQyODc4NDIx
+MF19
 -->
