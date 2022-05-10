@@ -11,7 +11,11 @@ Microfiltriamo acqua con siringa e filtro
 * acqua via pozzo bra
 
 0,01M EDTA
+
+
+
+edta 19 ml
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjgyMTk1LC0xNzE4NTkyNzgxLDE3Mj
-YzMDQ3ODhdfQ==
+eyJoaXN0b3J5IjpbMTI3MTM2NTAzMiwxNTUyODIxOTUsLTE3MT
+g1OTI3ODEsMTcyNjMwNDc4OF19
 -->
