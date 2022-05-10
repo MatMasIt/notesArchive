@@ -596,13 +596,20 @@ no ipnosi
 secondo Freud si rende conto della ridotta efficacia dell'ipnosi
 
 
-approccio delle associazioni liber
+approccio delle associazioni libere
+
+innanzitutto rilassare il paziente
+
+fenomeno del transfert o della transazione
+
+
+il paziente trasporta amore e odio sulla persona del suo medico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODI3MjQ2MywtNzMyNDAwMjEwLDIwNj
-A2NDkwMjQsLTEwMTU2Mjk1MTAsLTE3NDAzMTY2MjksLTQ0MDA2
-NDUwMyw1MTA3NDY1NDIsMzM2MjU1NjMzLDYzMTY1ODU1MSwxMD
-Y2NjQzNjUsLTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4
-MDgsMTk3Mzk3NDAwLDg2NDYwNTU1MSwxMDAzMzMxMTE2LDU0OT
-gwNDk3MCwtMTMyMDk2NTk2NCwxMzY0NTA4OTgsLTQyODc4NDIx
-MF19
+eyJoaXN0b3J5IjpbNDc2MDE5NTI3LC03MzI0MDAyMTAsMjA2MD
+Y0OTAyNCwtMTAxNTYyOTUxMCwtMTc0MDMxNjYyOSwtNDQwMDY0
+NTAzLDUxMDc0NjU0MiwzMzYyNTU2MzMsNjMxNjU4NTUxLDEwNj
+Y2NDM2NSwtODY3MDIwMTAyLDk0MjEzNDc0MywtMTI0MTYxODgw
+OCwxOTczOTc0MDAsODY0NjA1NTUxLDEwMDMzMzExMTYsNTQ5OD
+A0OTcwLC0xMzIwOTY1OTY0LDEzNjQ1MDg5OCwtNDI4Nzg0MjEw
+XX0=
 -->
