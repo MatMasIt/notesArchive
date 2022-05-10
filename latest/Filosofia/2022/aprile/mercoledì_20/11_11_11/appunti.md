@@ -691,9 +691,13 @@ piccoli fenomeni hanno significato ben preciso
 
 manifestazione camuffata dell'inconscio
 
+non posso dirlo normalmente
 
+
+
+nevrosi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTYxMjI2OSwtMTQzNDAwODA0NywtMT
+eyJoaXN0b3J5IjpbMTk1NTUzNTcyOCwtMTQzNDAwODA0NywtMT
 QwOTg5MDQ3NywxODg4Nzk1MjEsLTE1NjQ0NjQ0MzMsMTI3NTM3
 MDM1NywxNDc5OTI3ODcxLC03MzI0MDAyMTAsMjA2MDY0OTAyNC
 wtMTAxNTYyOTUxMCwtMTc0MDMxNjYyOSwtNDQwMDY0NTAzLDUx
