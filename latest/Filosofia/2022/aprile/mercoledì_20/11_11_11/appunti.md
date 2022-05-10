@@ -664,12 +664,22 @@ comportamenti antisociali o proibiti
 o meno spazio all'Es
 soggetto sistematicamente frustrato
 sintomo nevrotico
+
+
+Nuove vie per accedere al rimosso
+
+Opera
+
+
+Interpretazione dei sogni:
+
+conoscenza inconscio nella vita 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODc5NTIxLC0xNTY0NDY0NDMzLDEyNz
-UzNzAzNTcsMTQ3OTkyNzg3MSwtNzMyNDAwMjEwLDIwNjA2NDkw
-MjQsLTEwMTU2Mjk1MTAsLTE3NDAzMTY2MjksLTQ0MDA2NDUwMy
-w1MTA3NDY1NDIsMzM2MjU1NjMzLDYzMTY1ODU1MSwxMDY2NjQz
-NjUsLTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4MDgsMT
-k3Mzk3NDAwLDg2NDYwNTU1MSwxMDAzMzMxMTE2LDU0OTgwNDk3
-MF19
+eyJoaXN0b3J5IjpbNzMzNjQzOTAyLDE4ODg3OTUyMSwtMTU2ND
+Q2NDQzMywxMjc1MzcwMzU3LDE0Nzk5Mjc4NzEsLTczMjQwMDIx
+MCwyMDYwNjQ5MDI0LC0xMDE1NjI5NTEwLC0xNzQwMzE2NjI5LC
+00NDAwNjQ1MDMsNTEwNzQ2NTQyLDMzNjI1NTYzMyw2MzE2NTg1
+NTEsMTA2NjY0MzY1LC04NjcwMjAxMDIsOTQyMTM0NzQzLC0xMj
+QxNjE4ODA4LDE5NzM5NzQwMCw4NjQ2MDU1NTEsMTAwMzMzMTEx
+Nl19
 -->
