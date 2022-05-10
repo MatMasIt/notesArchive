@@ -54,8 +54,13 @@ umberto Saba nevrastemico
 
 Saba
 
+Versi Militari (durante la leva in Sicilia), 
 
+Poesie Scritte Durante la Guerra
+
+
+canzoniere di Saba, riedizione fino agli anni 50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzMDk2NjgzLDgxODc4NDgxOSwtMjUzNz
+eyJoaXN0b3J5IjpbNjQyODMzMzA0LDgxODc4NDgxOSwtMjUzNz
 U2Nzc5LDYxNTAwMDU1MV19
 -->
