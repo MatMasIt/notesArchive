@@ -16,9 +16,10 @@ Microfiltriamo acqua con siringa e filtro
 
 Laghetto san cassiano edta 
 1 19 ml
-2 
+2 tarato a 31
 Monticello edta 24,3  ml
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTAzNzk5NjIsMTI3MTM2NTAzMiwxNT
-UyODIxOTUsLTE3MTg1OTI3ODEsMTcyNjMwNDc4OF19
+eyJoaXN0b3J5IjpbLTEyNTcxMTk0OCwtMTUxMDM3OTk2MiwxMj
+cxMzY1MDMyLDE1NTI4MjE5NSwtMTcxODU5Mjc4MSwxNzI2MzA0
+Nzg4XX0=
 -->
