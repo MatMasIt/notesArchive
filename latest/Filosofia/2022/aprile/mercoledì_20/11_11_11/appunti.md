@@ -680,8 +680,10 @@ Sogno: contenuto manifesta
 
 
 pulsioni profonde censurate attraverso il contenuto manifesto, scena che a differenza delle pulsioni inconoscibili è rappresentabile
+
+Lo psicanalista deve ripercorrere il processso al contrario, accedere al contenuto latente inconscio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTM1MjEwLC0xNDA5ODkwNDc3LDE4OD
+eyJoaXN0b3J5IjpbMjM5Mjc1NDgxLC0xNDA5ODkwNDc3LDE4OD
 g3OTUyMSwtMTU2NDQ2NDQzMywxMjc1MzcwMzU3LDE0Nzk5Mjc4
 NzEsLTczMjQwMDIxMCwyMDYwNjQ5MDI0LC0xMDE1NjI5NTEwLC
 0xNzQwMzE2NjI5LC00NDAwNjQ1MDMsNTEwNzQ2NTQyLDMzNjI1
