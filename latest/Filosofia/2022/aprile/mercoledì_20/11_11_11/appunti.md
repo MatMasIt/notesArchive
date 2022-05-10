@@ -682,12 +682,20 @@ Sogno: contenuto manifesta
 pulsioni profonde censurate attraverso il contenuto manifesto, scena che a differenza delle pulsioni inconoscibili è rappresentabile
 
 Lo psicanalista deve ripercorrere il processso al contrario, accedere al contenuto latente inconscio
+
+
+
+atti mancati non casuali, nulla avviene in modo fortuito
+
+piccoli fenomeni hanno significato ben preciso
+
+manifestazione camuffata dell'inconscio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5Mjc1NDgxLC0xNDA5ODkwNDc3LDE4OD
-g3OTUyMSwtMTU2NDQ2NDQzMywxMjc1MzcwMzU3LDE0Nzk5Mjc4
-NzEsLTczMjQwMDIxMCwyMDYwNjQ5MDI0LC0xMDE1NjI5NTEwLC
-0xNzQwMzE2NjI5LC00NDAwNjQ1MDMsNTEwNzQ2NTQyLDMzNjI1
-NTYzMyw2MzE2NTg1NTEsMTA2NjY0MzY1LC04NjcwMjAxMDIsOT
-QyMTM0NzQzLC0xMjQxNjE4ODA4LDE5NzM5NzQwMCw4NjQ2MDU1
-NTFdfQ==
+eyJoaXN0b3J5IjpbLTE0MzQwMDgwNDcsLTE0MDk4OTA0NzcsMT
+g4ODc5NTIxLC0xNTY0NDY0NDMzLDEyNzUzNzAzNTcsMTQ3OTky
+Nzg3MSwtNzMyNDAwMjEwLDIwNjA2NDkwMjQsLTEwMTU2Mjk1MT
+AsLTE3NDAzMTY2MjksLTQ0MDA2NDUwMyw1MTA3NDY1NDIsMzM2
+MjU1NjMzLDYzMTY1ODU1MSwxMDY2NjQzNjUsLTg2NzAyMDEwMi
+w5NDIxMzQ3NDMsLTEyNDE2MTg4MDgsMTk3Mzk3NDAwLDg2NDYw
+NTU1MV19
 -->
