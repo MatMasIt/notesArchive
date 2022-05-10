@@ -60,7 +60,11 @@ Poesie Scritte Durante la Guerra
 
 
 canzoniere di Saba, riedizione fino agli anni 50
+
+
+_Nino_ (scheda)
+Due episodi, quasi un dialogo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyODMzMzA0LDgxODc4NDgxOSwtMjUzNz
-U2Nzc5LDYxNTAwMDU1MV19
+eyJoaXN0b3J5IjpbLTE5OTg3MjU3NDEsNjQyODMzMzA0LDgxOD
+c4NDgxOSwtMjUzNzU2Nzc5LDYxNTAwMDU1MV19
 -->
