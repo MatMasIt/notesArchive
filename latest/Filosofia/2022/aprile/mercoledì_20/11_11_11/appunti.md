@@ -572,9 +572,16 @@ anoressia, tosse nervosa, idrofobia
 
 mediante l'ipnosi Breuer riuscì a farsi richiamare un episodio di quando Anna era bambina
 
-cane della governante con la quale la bambina aveva un rappor
+cane della governante con la quale la bambina aveva un rapporto pessimo
+
+
+il cane aveva bevuto in un bicchiere
+
+forte repulsione
+
+pur avendo rimosso questo episodio, la paziente mostrava dei sintomi idrofobici che scomparsero quando il ricordo riaffiorò
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzE1MjcyMiwtNzMyNDAwMjEwLDIwNj
+eyJoaXN0b3J5IjpbMTYxNTY5NDQwMiwtNzMyNDAwMjEwLDIwNj
 A2NDkwMjQsLTEwMTU2Mjk1MTAsLTE3NDAzMTY2MjksLTQ0MDA2
 NDUwMyw1MTA3NDY1NDIsMzM2MjU1NjMzLDYzMTY1ODU1MSwxMD
 Y2NjQzNjUsLTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4
