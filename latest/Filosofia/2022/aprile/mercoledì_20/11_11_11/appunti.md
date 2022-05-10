@@ -608,8 +608,15 @@ il paziente trasporta amore e odio sulla persona del suo medico
 grande affidamento 
 
 strumento potente in una certa misura
+
+
+altri modi:
+
+* sogni
+* atti mancati
+* sintomi nevrotici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzA5Njk1NywtNzMyNDAwMjEwLDIwNj
+eyJoaXN0b3J5IjpbMTQ3OTkyNzg3MSwtNzMyNDAwMjEwLDIwNj
 A2NDkwMjQsLTEwMTU2Mjk1MTAsLTE3NDAzMTY2MjksLTQ0MDA2
 NDUwMyw1MTA3NDY1NDIsMzM2MjU1NjMzLDYzMTY1ODU1MSwxMD
 Y2NjQzNjUsLTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4
