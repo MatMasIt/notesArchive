@@ -460,10 +460,15 @@ premio, eterno ritorno dell'eguale
 Ultima considerazione; uso politico del pensiero di N
 
 rapporto tra la sua filosofia, gli orientamenti politici del suo tempo e quelli successivi
+
+--- 
+Sigmund Freud, padre della psicanalisi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2MjU1NjMzLDYzMTY1ODU1MSwxMDY2Nj
-QzNjUsLTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4MDgs
-MTk3Mzk3NDAwLDg2NDYwNTU1MSwxMDAzMzMxMTE2LDU0OTgwND
-k3MCwtMTMyMDk2NTk2NCwxMzY0NTA4OTgsLTQyODc4NDIxMCwt
-MjEzODAxNDQ2OCwyNTE1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbMTE0ODUzNTUxOSwzMzYyNTU2MzMsNjMxNj
+U4NTUxLDEwNjY2NDM2NSwtODY3MDIwMTAyLDk0MjEzNDc0Mywt
+MTI0MTYxODgwOCwxOTczOTc0MDAsODY0NjA1NTUxLDEwMDMzMz
+ExMTYsNTQ5ODA0OTcwLC0xMzIwOTY1OTY0LDEzNjQ1MDg5OCwt
+NDI4Nzg0MjEwLC0yMTM4MDE0NDY4LDI1MTUyNDAzN119
 -->
