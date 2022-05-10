@@ -547,12 +547,19 @@ positivismo: sciemnza come unico sapere autentico
 bisogna far somigliare qualsiasi disciplina alla scienza per renderla solida e credibile come la scienza
 
 
+anche la medicina vuole essere scientifica
+
+fatti verificabili
+
+medicina tradizionale: i disturbi mentali dovevano avere una base fisica
+
+qualcosa nel cervello dei soggetti doveva non funzionare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDY0OTAyNCwtMTAxNTYyOTUxMCwtMT
-c0MDMxNjYyOSwtNDQwMDY0NTAzLDUxMDc0NjU0MiwzMzYyNTU2
-MzMsNjMxNjU4NTUxLDEwNjY2NDM2NSwtODY3MDIwMTAyLDk0Mj
-EzNDc0MywtMTI0MTYxODgwOCwxOTczOTc0MDAsODY0NjA1NTUx
-LDEwMDMzMzExMTYsNTQ5ODA0OTcwLC0xMzIwOTY1OTY0LDEzNj
-Q1MDg5OCwtNDI4Nzg0MjEwLC0yMTM4MDE0NDY4LDI1MTUyNDAz
-N119
+eyJoaXN0b3J5IjpbOTE4NjIzOTMwLDIwNjA2NDkwMjQsLTEwMT
+U2Mjk1MTAsLTE3NDAzMTY2MjksLTQ0MDA2NDUwMyw1MTA3NDY1
+NDIsMzM2MjU1NjMzLDYzMTY1ODU1MSwxMDY2NjQzNjUsLTg2Nz
+AyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4MDgsMTk3Mzk3NDAw
+LDg2NDYwNTU1MSwxMDAzMzMxMTE2LDU0OTgwNDk3MCwtMTMyMD
+k2NTk2NCwxMzY0NTA4OTgsLTQyODc4NDIxMCwtMjEzODAxNDQ2
+OF19
 -->
