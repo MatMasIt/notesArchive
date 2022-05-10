@@ -525,12 +525,22 @@ svolta: scoperta dell'inconscio
 
 1910: nasce la società internazionale di psicanalisi
 
+nel '33 vengono bruciati i libri di Feud, che è ebreo e contrario ai principi del nazismo
+
+quando nel 38 si prospetta l'annessione dell'austria
+
+Freud si reca a londra dove muore nel 39
+
+Opere:
+* Studi su
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU2Mjk1MTAsLTE3NDAzMTY2MjksLT
-Q0MDA2NDUwMyw1MTA3NDY1NDIsMzM2MjU1NjMzLDYzMTY1ODU1
-MSwxMDY2NjQzNjUsLTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyND
-E2MTg4MDgsMTk3Mzk3NDAwLDg2NDYwNTU1MSwxMDAzMzMxMTE2
-LDU0OTgwNDk3MCwtMTMyMDk2NTk2NCwxMzY0NTA4OTgsLTQyOD
-c4NDIxMCwtMjEzODAxNDQ2OCwyNTE1MjQwMzddfQ==
+eyJoaXN0b3J5IjpbLTEzNTcyNjYyMCwtMTAxNTYyOTUxMCwtMT
+c0MDMxNjYyOSwtNDQwMDY0NTAzLDUxMDc0NjU0MiwzMzYyNTU2
+MzMsNjMxNjU4NTUxLDEwNjY2NDM2NSwtODY3MDIwMTAyLDk0Mj
+EzNDc0MywtMTI0MTYxODgwOCwxOTczOTc0MDAsODY0NjA1NTUx
+LDEwMDMzMzExMTYsNTQ5ODA0OTcwLC0xMzIwOTY1OTY0LDEzNj
+Q1MDg5OCwtNDI4Nzg0MjEwLC0yMTM4MDE0NDY4LDI1MTUyNDAz
+N119
 -->
