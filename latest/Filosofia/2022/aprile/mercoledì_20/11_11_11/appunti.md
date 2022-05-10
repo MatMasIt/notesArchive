@@ -618,9 +618,12 @@ altri modi:
 
 ----
 
-am
+analogia tra freud e marx
+
+
+marx: lotta tra classi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzc4OTIzNywxNDc5OTI3ODcxLC03Mz
+eyJoaXN0b3J5IjpbMTI3NTM3MDM1NywxNDc5OTI3ODcxLC03Mz
 I0MDAyMTAsMjA2MDY0OTAyNCwtMTAxNTYyOTUxMCwtMTc0MDMx
 NjYyOSwtNDQwMDY0NTAzLDUxMDc0NjU0MiwzMzYyNTU2MzMsNj
 MxNjU4NTUxLDEwNjY2NDM2NSwtODY3MDIwMTAyLDk0MjEzNDc0
