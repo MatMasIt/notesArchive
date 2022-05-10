@@ -33,7 +33,9 @@ nuvoli: nuvole al maschile
 nuvole vegetali, addensamenti di piante, di petali si diffondevano sul tuo fonto (valle) a iasoli (soffi di vento)
 
 noi (plurale) volti (avvolti)
+
+razzo militare c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjM3NTE1NiwtMjUzNzU2Nzc5LDYxNT
+eyJoaXN0b3J5IjpbMTMzMzkyMTM4OCwtMjUzNzU2Nzc5LDYxNT
 AwMDU1MV19
 -->
