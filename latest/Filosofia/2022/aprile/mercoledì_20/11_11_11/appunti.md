@@ -474,12 +474,18 @@ grande quantità di impulsi costituirebbero maggior parte della nostra psiche
 
 indagare
 marx: econommia
-N:
+N: dionisiaco vs apollineo
+freud: inconscio
+
+tre maestri del sospetto
+
+nasce a Freiberg, moravia, nel 1856
+impero asburfico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxOTQzMDQsNTEwNzQ2NTQyLDMzNjI1NT
-YzMyw2MzE2NTg1NTEsMTA2NjY0MzY1LC04NjcwMjAxMDIsOTQy
-MTM0NzQzLC0xMjQxNjE4ODA4LDE5NzM5NzQwMCw4NjQ2MDU1NT
-EsMTAwMzMzMTExNiw1NDk4MDQ5NzAsLTEzMjA5NjU5NjQsMTM2
-NDUwODk4LC00Mjg3ODQyMTAsLTIxMzgwMTQ0NjgsMjUxNTI0MD
-M3XX0=
+eyJoaXN0b3J5IjpbMTkwMjY2ODIyLDUxMDc0NjU0MiwzMzYyNT
+U2MzMsNjMxNjU4NTUxLDEwNjY2NDM2NSwtODY3MDIwMTAyLDk0
+MjEzNDc0MywtMTI0MTYxODgwOCwxOTczOTc0MDAsODY0NjA1NT
+UxLDEwMDMzMzExMTYsNTQ5ODA0OTcwLC0xMzIwOTY1OTY0LDEz
+NjQ1MDg5OCwtNDI4Nzg0MjEwLC0yMTM4MDE0NDY4LDI1MTUyND
+AzN119
 -->
