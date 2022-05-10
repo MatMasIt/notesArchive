@@ -464,11 +464,14 @@ rapporto tra la sua filosofia, gli orientamenti politici del suo tempo e quelli 
 --- 
 Sigmund Freud, padre della psicanalisi
 
+Psicologia: scienza recente
+
+come darwin, freud influenza la filosofia
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODUzNTUxOSwzMzYyNTU2MzMsNjMxNj
-U4NTUxLDEwNjY2NDM2NSwtODY3MDIwMTAyLDk0MjEzNDc0Mywt
-MTI0MTYxODgwOCwxOTczOTc0MDAsODY0NjA1NTUxLDEwMDMzMz
-ExMTYsNTQ5ODA0OTcwLC0xMzIwOTY1OTY0LDEzNjQ1MDg5OCwt
-NDI4Nzg0MjEwLC0yMTM4MDE0NDY4LDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbNTEwNzQ2NTQyLDMzNjI1NTYzMyw2MzE2NT
+g1NTEsMTA2NjY0MzY1LC04NjcwMjAxMDIsOTQyMTM0NzQzLC0x
+MjQxNjE4ODA4LDE5NzM5NzQwMCw4NjQ2MDU1NTEsMTAwMzMzMT
+ExNiw1NDk4MDQ5NzAsLTEzMjA5NjU5NjQsMTM2NDUwODk4LC00
+Mjg3ODQyMTAsLTIxMzgwMTQ0NjgsMjUxNTI0MDM3XX0=
 -->
