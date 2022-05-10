@@ -487,11 +487,19 @@ si trasferisce a vienna
 famiglia di etnia ebraica, che rappresenterà un problema quando il nazismo arriverà al potere
 
 studi universitari medici 1880: completa studi
+
+poi costretto ad abbandonare studi e prende carriera medica
+
+interesse per caratteri psichiatrici
+
+psiclogia si occupa di indagare la psiche umana
+
+la psichiatria è la parte del sapere psicologico che si occupa dei disturbi della psiche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0NDMwNjM5LC00NDAwNjQ1MDMsNTEwNz
-Q2NTQyLDMzNjI1NTYzMyw2MzE2NTg1NTEsMTA2NjY0MzY1LC04
-NjcwMjAxMDIsOTQyMTM0NzQzLC0xMjQxNjE4ODA4LDE5NzM5Nz
-QwMCw4NjQ2MDU1NTEsMTAwMzMzMTExNiw1NDk4MDQ5NzAsLTEz
-MjA5NjU5NjQsMTM2NDUwODk4LC00Mjg3ODQyMTAsLTIxMzgwMT
-Q0NjgsMjUxNTI0MDM3XX0=
+eyJoaXN0b3J5IjpbLTE3NDAzMTY2MjksLTQ0MDA2NDUwMyw1MT
+A3NDY1NDIsMzM2MjU1NjMzLDYzMTY1ODU1MSwxMDY2NjQzNjUs
+LTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4MDgsMTk3Mz
+k3NDAwLDg2NDYwNTU1MSwxMDAzMzMxMTE2LDU0OTgwNDk3MCwt
+MTMyMDk2NTk2NCwxMzY0NTA4OTgsLTQyODc4NDIxMCwtMjEzOD
+AxNDQ2OCwyNTE1MjQwMzddfQ==
 -->
