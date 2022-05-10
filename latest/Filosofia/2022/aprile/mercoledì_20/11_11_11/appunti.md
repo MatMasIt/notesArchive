@@ -468,12 +468,18 @@ Psicologia: scienza recente
 
 come darwin, freud influenza la filosofia
 
-Freud ha cance
+Freud ha cancellato l'idea da socrate in poi che la psiche umana sia prevalentemente razionalità
+
+grande quantità di impulsi costituirebbero maggior parte della nostra psiche
+
+indagare
+marx: econommia
+N:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDQ3NDY0OSw1MTA3NDY1NDIsMzM2Mj
-U1NjMzLDYzMTY1ODU1MSwxMDY2NjQzNjUsLTg2NzAyMDEwMiw5
-NDIxMzQ3NDMsLTEyNDE2MTg4MDgsMTk3Mzk3NDAwLDg2NDYwNT
-U1MSwxMDAzMzMxMTE2LDU0OTgwNDk3MCwtMTMyMDk2NTk2NCwx
-MzY0NTA4OTgsLTQyODc4NDIxMCwtMjEzODAxNDQ2OCwyNTE1Mj
-QwMzddfQ==
+eyJoaXN0b3J5IjpbODMxOTQzMDQsNTEwNzQ2NTQyLDMzNjI1NT
+YzMyw2MzE2NTg1NTEsMTA2NjY0MzY1LC04NjcwMjAxMDIsOTQy
+MTM0NzQzLC0xMjQxNjE4ODA4LDE5NzM5NzQwMCw4NjQ2MDU1NT
+EsMTAwMzMzMTExNiw1NDk4MDQ5NzAsLTEzMjA5NjU5NjQsMTM2
+NDUwODk4LC00Mjg3ODQyMTAsLTIxMzgwMTQ0NjgsMjUxNTI0MD
+M3XX0=
 -->
