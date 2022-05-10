@@ -587,9 +587,18 @@ complessità di forze in tensione
 
 Breuer continua inposi mentre invece freud va avanti
 
-co
+conscio: unica parte visibile
+
+come si fa a far emergere il rimosso?
+
+no ipnosi
+
+secondo Freud si rende conto della ridotta efficacia dell'ipnosi
+
+
+approccio delle associazioni liber
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDk1MDU4NiwtNzMyNDAwMjEwLDIwNj
+eyJoaXN0b3J5IjpbMTQwODI3MjQ2MywtNzMyNDAwMjEwLDIwNj
 A2NDkwMjQsLTEwMTU2Mjk1MTAsLTE3NDAzMTY2MjksLTQ0MDA2
 NDUwMyw1MTA3NDY1NDIsMzM2MjU1NjMzLDYzMTY1ODU1MSwxMD
 Y2NjQzNjUsLTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyNDE2MTg4
