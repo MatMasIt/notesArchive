@@ -655,8 +655,17 @@ superio bilancia
 
 
 Io:ego, parte consciam che deve mediare le istanze
+
+bilancio
+se superio troppo debole o forte l'equilibrio si spezza
+
+troppo spazio all'Es
+comportamenti antisociali o proibiti
+o meno spazio all'Es
+soggetto sistematicamente frustrato
+sintomo nevrotico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjE3MzEzLC0xNTY0NDY0NDMzLDEyNz
+eyJoaXN0b3J5IjpbMTg4ODc5NTIxLC0xNTY0NDY0NDMzLDEyNz
 UzNzAzNTcsMTQ3OTkyNzg3MSwtNzMyNDAwMjEwLDIwNjA2NDkw
 MjQsLTEwMTU2Mjk1MTAsLTE3NDAzMTY2MjksLTQ0MDA2NDUwMy
 w1MTA3NDY1NDIsMzM2MjU1NjMzLDYzMTY1ODU1MSwxMDY2NjQz
