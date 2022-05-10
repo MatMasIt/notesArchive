@@ -496,12 +496,19 @@ psiclogia si occupa di indagare la psiche umana
 
 la psichiatria è la parte del sapere psicologico che si occupa dei disturbi della psiche
 
-'85
+'85: borsa di studio
+
+
+si trasferisce a parigi, e incontra un professionista che si occupa di disturbi isterici
+
+isteria: patologia della mente che produce conseguenze di carattere somatico
+
+a quel tempo veniva considerata com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTg1MTg5NSwtMTc0MDMxNjYyOSwtND
-QwMDY0NTAzLDUxMDc0NjU0MiwzMzYyNTU2MzMsNjMxNjU4NTUx
-LDEwNjY2NDM2NSwtODY3MDIwMTAyLDk0MjEzNDc0MywtMTI0MT
-YxODgwOCwxOTczOTc0MDAsODY0NjA1NTUxLDEwMDMzMzExMTYs
-NTQ5ODA0OTcwLC0xMzIwOTY1OTY0LDEzNjQ1MDg5OCwtNDI4Nz
-g0MjEwLC0yMTM4MDE0NDY4LDI1MTUyNDAzN119
+eyJoaXN0b3J5IjpbLTEzNTI3NTQ5MjEsLTE3NDAzMTY2MjksLT
+Q0MDA2NDUwMyw1MTA3NDY1NDIsMzM2MjU1NjMzLDYzMTY1ODU1
+MSwxMDY2NjQzNjUsLTg2NzAyMDEwMiw5NDIxMzQ3NDMsLTEyND
+E2MTg4MDgsMTk3Mzk3NDAwLDg2NDYwNTU1MSwxMDAzMzMxMTE2
+LDU0OTgwNDk3MCwtMTMyMDk2NTk2NCwxMzY0NTA4OTgsLTQyOD
+c4NDIxMCwtMjEzODAxNDQ2OCwyNTE1MjQwMzddfQ==
 -->
