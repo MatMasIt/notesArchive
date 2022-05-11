@@ -54,7 +54,15 @@ saba pensava di rivendere vecchia libreria, invece ci vive tutta la vita
 
 prosatori italiani del 900, tutti commercialisti o tecnici
 
+quasimodo ingegnere
 
+
+
+Montale e saba
+
+tradizione corrotta
+
+poet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2MDQzNjQzXX0=
+eyJoaXN0b3J5IjpbLTM0NTcxNzk4XX0=
 -->
