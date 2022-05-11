@@ -82,6 +82,11 @@ sonda l'indicibile
 Nino, pode niga, non posso
 
 pace e guerra, antitesi
+
+
+--- Montale
+
+Gen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3NzQwOTk5XX0=
+eyJoaXN0b3J5IjpbLTU1MTg5NDcxNl19
 -->
