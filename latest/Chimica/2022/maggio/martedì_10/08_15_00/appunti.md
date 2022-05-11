@@ -34,10 +34,25 @@ faccimo finta che tutto quelo che abbiamo trovato si a calcio
 
 $_{EDTA}$
 
+$C_{EDTA}=0,01M$
 
+$V_{CAMPIONE}=50mL$
+
+$C_{CaCO_3}=?\frac{mg}L$
+
+
+Punto equivalente
+
+
+$$
+n_{EDTA}=C_{EDTA}V_{EDTA}
+$$
+
+
+$g_{CaCO_3}=mEDTA\cdot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDIxNDc5MywxOTIzMTc1ODM3LC0xNz
-E2MDI0MDAsMTAwMjg1NDIyMSwtMTI1NzExOTQ4LC0xNTEwMzc5
-OTYyLDEyNzEzNjUwMzIsMTU1MjgyMTk1LC0xNzE4NTkyNzgxLD
-E3MjYzMDQ3ODhdfQ==
+eyJoaXN0b3J5IjpbLTY0OTgwMTY0MCwxNzc0MjE0NzkzLDE5Mj
+MxNzU4MzcsLTE3MTYwMjQwMCwxMDAyODU0MjIxLC0xMjU3MTE5
+NDgsLTE1MTAzNzk5NjIsMTI3MTM2NTAzMiwxNTUyODIxOTUsLT
+E3MTg1OTI3ODEsMTcyNjMwNDc4OF19
 -->
