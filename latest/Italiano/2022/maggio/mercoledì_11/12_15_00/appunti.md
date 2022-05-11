@@ -45,6 +45,12 @@ Umberto Saba, pseudonimo di Umberto Poli
 
 malattia nervosa, forme depressive imputate da lui alla su condizione infantile
 
+
+saba capisce che la politica democristiana sarebbe durata a nullo 
+
+p499
+
+saba pensava di rivendere vecchia libreria, invece 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTE2NTIzMl19
+eyJoaXN0b3J5IjpbNzUyMzMxMjgzXX0=
 -->
