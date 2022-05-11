@@ -461,8 +461,10 @@ Ultima considerazione; uso politico del pensiero di N
 
 rapporto tra la sua filosofia, gli orientamenti politici del suo tempo e quelli successivi
 D'annunzio, mussolini
-la Pokemon - Black Version (DSi Enhanced)(USA) (E).zip1	Termine inaspettato dell'archivio2	Errore dati di N quando egli muore nel 900 a 50 anni da una piega conservatrice alle pubblicazioni postumeno eguaglianza (democrazia) e no socialismone egualianza giuridica e materialeno filosofia razziale della storiaN è un conservatore ma* è convinto che i migliori spesso sono ostacolati dagli ostacoli predisposti dai deboli* caratterizzazione personale, non etnico-biologica* N non da troppo spazio allo stato [Guglielmo II criticato da N]--- 
-Sigmund Freud, padre della psicanalisi
+la Pokemon - Black Version (DSi Enhanced)(USA) (E).zip1	Termine inaspettato dell'archivio2	Errore dati di N quando egli muore nel 900 a 50 anni da una piega conservatrice alle pubblicazioni postumeno eguaglianza (democrazia) e no socialismone egualianza giuridica e materialeno filosofia razziale della storiaN è un conservatore ma* è convinto che i migliori spesso sono ostacolati dagli ostacoli predisposti dai deboli* caratterizzazione personale, non etnico-biologica* N non da troppo spazio allo stato [Guglielmo II criticato da N]
+
+--- 
+# Sigmund Freud, padre della psicanalisi
 
 Psicologia: scienza recente
 
@@ -697,11 +699,11 @@ non posso dirlo normalmente
 
 nevrosi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE2NzU5NTMsMTk1NTUzNTcyOCwtMT
-QzNDAwODA0NywtMTQwOTg5MDQ3NywxODg4Nzk1MjEsLTE1NjQ0
-NjQ0MzMsMTI3NTM3MDM1NywxNDc5OTI3ODcxLC03MzI0MDAyMT
-AsMjA2MDY0OTAyNCwtMTAxNTYyOTUxMCwtMTc0MDMxNjYyOSwt
-NDQwMDY0NTAzLDUxMDc0NjU0MiwzMzYyNTU2MzMsNjMxNjU4NT
-UxLDEwNjY2NDM2NSwtODY3MDIwMTAyLDk0MjEzNDc0MywtMTI0
-MTYxODgwOF19
+eyJoaXN0b3J5IjpbMTgwMjU5MTk4MiwxOTU1NTM1NzI4LC0xND
+M0MDA4MDQ3LC0xNDA5ODkwNDc3LDE4ODg3OTUyMSwtMTU2NDQ2
+NDQzMywxMjc1MzcwMzU3LDE0Nzk5Mjc4NzEsLTczMjQwMDIxMC
+wyMDYwNjQ5MDI0LC0xMDE1NjI5NTEwLC0xNzQwMzE2NjI5LC00
+NDAwNjQ1MDMsNTEwNzQ2NTQyLDMzNjI1NTYzMyw2MzE2NTg1NT
+EsMTA2NjY0MzY1LC04NjcwMjAxMDIsOTQyMTM0NzQzLC0xMjQx
+NjE4ODA4XX0=
 -->
