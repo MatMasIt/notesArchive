@@ -76,6 +76,12 @@ In Ernesto, che non viene pubblicato negli anni 50, verrà pubblicato solo venti
 romanzo in cui un ragazzino confida alla madre di una relazione omosessuale
 
 sonda l'indicibile
+
+---
+
+Nino, pode niga, non posso
+
+pace e guerra, antitesi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQwMDAzMTldfQ==
+eyJoaXN0b3J5IjpbMjQ3NzQwOTk5XX0=
 -->
