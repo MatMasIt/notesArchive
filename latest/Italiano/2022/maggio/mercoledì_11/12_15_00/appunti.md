@@ -68,7 +68,7 @@ saba crede nella psicanalisi
 
 io onesto, indagine su ogni fenomeno dell'interiorità umana, non parole ricercate
 
-
+parole com 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxODM3ODMwXX0=
+eyJoaXN0b3J5IjpbMjA0NTQwMzQ0Nl19
 -->
