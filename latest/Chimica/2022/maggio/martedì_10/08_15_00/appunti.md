@@ -23,9 +23,21 @@ Monticello edta 24,3  ml
 pH 7,54
 Conducibilità 
 998$\mu S /cm$i
+
+
+---
+
+Calcolo durezza
+
+faccimo finta che tutto quelo che abbiamo trovato si a calcio
+
+
+$_{EDTA}$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzE3NTgzNywtMTcxNjAyNDAwLDEwMD
-I4NTQyMjEsLTEyNTcxMTk0OCwtMTUxMDM3OTk2MiwxMjcxMzY1
-MDMyLDE1NTI4MjE5NSwtMTcxODU5Mjc4MSwxNzI2MzA0Nzg4XX
-0=
+eyJoaXN0b3J5IjpbMTc3NDIxNDc5MywxOTIzMTc1ODM3LC0xNz
+E2MDI0MDAsMTAwMjg1NDIyMSwtMTI1NzExOTQ4LC0xNTEwMzc5
+OTYyLDEyNzEzNjUwMzIsMTU1MjgyMTk1LC0xNzE4NTkyNzgxLD
+E3MjYzMDQ3ODhdfQ==
 -->
