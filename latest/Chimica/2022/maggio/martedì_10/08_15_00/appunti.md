@@ -83,7 +83,7 @@ $$
 
 san cassiano 19 ml = 38 °F
 monticello 24,3 ml  48,6 °F
-
+residuo fisso: 
 
 convertendo 
 
@@ -100,8 +100,8 @@ Acque molto dure
 |Acuqa moderatamente dura|100-200|
 |Acqua dura|> 200|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDIzNzE4NywxNzc0MjE0NzkzLDE5Mj
-MxNzU4MzcsLTE3MTYwMjQwMCwxMDAyODU0MjIxLC0xMjU3MTE5
-NDgsLTE1MTAzNzk5NjIsMTI3MTM2NTAzMiwxNTUyODIxOTUsLT
-E3MTg1OTI3ODEsMTcyNjMwNDc4OF19
+eyJoaXN0b3J5IjpbNzQzOTYxOTYwLC0yMDAyMzcxODcsMTc3ND
+IxNDc5MywxOTIzMTc1ODM3LC0xNzE2MDI0MDAsMTAwMjg1NDIy
+MSwtMTI1NzExOTQ4LC0xNTEwMzc5OTYyLDEyNzEzNjUwMzIsMT
+U1MjgyMTk1LC0xNzE4NTkyNzgxLDE3MjYzMDQ3ODhdfQ==
 -->
