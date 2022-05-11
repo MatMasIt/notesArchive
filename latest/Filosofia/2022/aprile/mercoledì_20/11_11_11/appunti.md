@@ -466,6 +466,7 @@ la Pokemon - Black Version (DSi Enhanced)(USA) (E).zip1	Termine inaspettato dell
 --- 
 # Sigmund Freud, padre della psicanalisi
 
+
 Psicologia: scienza recente
 
 come darwin, freud influenza la filosofia
@@ -699,11 +700,11 @@ non posso dirlo normalmente
 
 nevrosi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjU5MTk4MiwxOTU1NTM1NzI4LC0xND
-M0MDA4MDQ3LC0xNDA5ODkwNDc3LDE4ODg3OTUyMSwtMTU2NDQ2
-NDQzMywxMjc1MzcwMzU3LDE0Nzk5Mjc4NzEsLTczMjQwMDIxMC
-wyMDYwNjQ5MDI0LC0xMDE1NjI5NTEwLC0xNzQwMzE2NjI5LC00
-NDAwNjQ1MDMsNTEwNzQ2NTQyLDMzNjI1NTYzMyw2MzE2NTg1NT
-EsMTA2NjY0MzY1LC04NjcwMjAxMDIsOTQyMTM0NzQzLC0xMjQx
-NjE4ODA4XX0=
+eyJoaXN0b3J5IjpbLTQ0MzQ0ODg2OCwxODAyNTkxOTgyLDE5NT
+U1MzU3MjgsLTE0MzQwMDgwNDcsLTE0MDk4OTA0NzcsMTg4ODc5
+NTIxLC0xNTY0NDY0NDMzLDEyNzUzNzAzNTcsMTQ3OTkyNzg3MS
+wtNzMyNDAwMjEwLDIwNjA2NDkwMjQsLTEwMTU2Mjk1MTAsLTE3
+NDAzMTY2MjksLTQ0MDA2NDUwMyw1MTA3NDY1NDIsMzM2MjU1Nj
+MzLDYzMTY1ODU1MSwxMDY2NjQzNjUsLTg2NzAyMDEwMiw5NDIx
+MzQ3NDNdfQ==
 -->
