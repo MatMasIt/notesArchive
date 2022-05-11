@@ -64,7 +64,9 @@ canzoniere di Saba, riedizione fino agli anni 50
 
 _Nino_ (scheda)
 Due episodi, quasi un dialogo
+
+tormento interventisti che pernavano che la guerra fosse un'occasione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg3MjU3NDEsNjQyODMzMzA0LDgxOD
-c4NDgxOSwtMjUzNzU2Nzc5LDYxNTAwMDU1MV19
+eyJoaXN0b3J5IjpbMTE4MTU4NDMwMCw2NDI4MzMzMDQsODE4Nz
+g0ODE5LC0yNTM3NTY3NzksNjE1MDAwNTUxXX0=
 -->
