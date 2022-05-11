@@ -83,7 +83,7 @@ $$
 
 san cassiano 19 ml = 38 °F
 monticello 24,3 ml  48,6 °F
-residuo fisso: 101,492 g, tara 101,427 = 0,0
+monticell residuo fisso: 101,492 g, tara 101,427 = 0,065g = 65 mg
 
 convertendo 
 
@@ -100,7 +100,7 @@ Acque molto dure
 |Acuqa moderatamente dura|100-200|
 |Acqua dura|> 200|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODgxMDI1NiwtMjAwMjM3MTg3LDE3Nz
+eyJoaXN0b3J5IjpbMTQxMzYwNjkyOSwtMjAwMjM3MTg3LDE3Nz
 QyMTQ3OTMsMTkyMzE3NTgzNywtMTcxNjAyNDAwLDEwMDI4NTQy
 MjEsLTEyNTcxMTk0OCwtMTUxMDM3OTk2MiwxMjcxMzY1MDMyLD
 E1NTI4MjE5NSwtMTcxODU5Mjc4MSwxNzI2MzA0Nzg4XX0=
