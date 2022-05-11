@@ -62,8 +62,12 @@ $$
 $$
 C_{CaCO_3}=\frac{g_{CaCO_3}\cdot 10^3\frac{mg}g}{0,05L}
 $$
+
+$$
+C_{CACO_3}=\frac{C_{EDTA}V_{EDTA}MM_{EDTA}{
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjY2Njk2LDE3NzQyMTQ3OTMsMTkyMz
+eyJoaXN0b3J5IjpbMTE4MDUwODg5LDE3NzQyMTQ3OTMsMTkyMz
 E3NTgzNywtMTcxNjAyNDAwLDEwMDI4NTQyMjEsLTEyNTcxMTk0
 OCwtMTUxMDM3OTk2MiwxMjcxMzY1MDMyLDE1NTI4MjE5NSwtMT
 cxODU5Mjc4MSwxNzI2MzA0Nzg4XX0=
