@@ -43,8 +43,8 @@ la madre torna dal nonno di Saba e da a balia il piccolo a una donna di nome "Pe
 
 Umberto Saba, pseudonimo di Umberto Poli
 
-
+malattia nervosa, forme depressive imputate da lui alla su condizione infantile
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjcwODI0XX0=
+eyJoaXN0b3J5IjpbLTI2OTE2NTIzMl19
 -->
