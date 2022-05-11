@@ -33,7 +33,18 @@ triste vicenda anche per lei, si sposa quasi ma viene lasciata
 
 p496
 
+Umberto
+
+Il padre sparisce alla sua nascita
+per lui è stato "l'assassino"
+la madre torna dal nonno di Saba e da a balia il piccolo a una donna di nome "Peppa Sabaz"
+
+"Saba": omaggio alla amatissima balia
+
+Umberto Saba, pseudonimo di Umberto Poli
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIzMzA4ODJdfQ==
+eyJoaXN0b3J5IjpbLTExMjcwODI0XX0=
 -->
