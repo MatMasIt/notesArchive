@@ -86,7 +86,13 @@ pace e guerra, antitesi
 
 --- Montale
 
-Gen
+Genova, Monterosso (5 terre)
+
+il male di vivere
+
+il miracolo
+
+l'inganno consueto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTg5NDcxNl19
+eyJoaXN0b3J5IjpbLTg4NjgyODEzMV19
 -->
