@@ -68,11 +68,11 @@ C_{CACO_3}=\frac{C_{EDTA}V_{EDTA}MM_{CACO_3}}{0,05L}
 $$
 
 $$
-C_{CACO_3}=\frac{\cancel{0,01}\}{}
+C_{CACO_3}=\frac{\cancel{0,01}\frac{\cancel{mol}}{L}\cdot 4,3\cancel L\cdot \cancel{100}\frac{\cancel g}{\xmol}\cdot 1000\frac{\cancel{mg}}{\cancel g}}{}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3MjE0ODEwLDE3NzQyMTQ3OTMsMTkyMz
-E3NTgzNywtMTcxNjAyNDAwLDEwMDI4NTQyMjEsLTEyNTcxMTk0
-OCwtMTUxMDM3OTk2MiwxMjcxMzY1MDMyLDE1NTI4MjE5NSwtMT
-cxODU5Mjc4MSwxNzI2MzA0Nzg4XX0=
+eyJoaXN0b3J5IjpbLTY2MTEwNTkzNSwxNzc0MjE0NzkzLDE5Mj
+MxNzU4MzcsLTE3MTYwMjQwMCwxMDAyODU0MjIxLC0xMjU3MTE5
+NDgsLTE1MTAzNzk5NjIsMTI3MTM2NTAzMiwxNTUyODIxOTUsLT
+E3MTg1OTI3ODEsMTcyNjMwNDc4OF19
 -->
