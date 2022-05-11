@@ -460,8 +460,8 @@ premio, eterno ritorno dell'eguale
 Ultima considerazione; uso politico del pensiero di N
 
 rapporto tra la sua filosofia, gli orientamenti politici del suo tempo e quelli successivi
-
---- 
+D'annunzio, mussolini
+la Pokemon - Black Version (DSi Enhanced)(USA) (E).zip1	Termine inaspettato dell'archivio2	Errore dati di N quando egli muore nel 900 a 50 anni da una piega conservatrice alle pubblicazioni postumeno eguaglianza (democrazia) e no socialismone egualianza giuridica e materialeno filosofia razziale della storiaN è un conservatore ma* è convinto che i migliori spesso sono ostacolati dagli ostacoli predisposti dai deboli* caratterizzazione personale, non etnico-biologica* N non da troppo spazio allo stato [Guglielmo II criticato da N]--- 
 Sigmund Freud, padre della psicanalisi
 
 Psicologia: scienza recente
@@ -697,11 +697,11 @@ non posso dirlo normalmente
 
 nevrosi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTUzNTcyOCwtMTQzNDAwODA0NywtMT
-QwOTg5MDQ3NywxODg4Nzk1MjEsLTE1NjQ0NjQ0MzMsMTI3NTM3
-MDM1NywxNDc5OTI3ODcxLC03MzI0MDAyMTAsMjA2MDY0OTAyNC
-wtMTAxNTYyOTUxMCwtMTc0MDMxNjYyOSwtNDQwMDY0NTAzLDUx
-MDc0NjU0MiwzMzYyNTU2MzMsNjMxNjU4NTUxLDEwNjY2NDM2NS
-wtODY3MDIwMTAyLDk0MjEzNDc0MywtMTI0MTYxODgwOCwxOTcz
-OTc0MDBdfQ==
+eyJoaXN0b3J5IjpbLTExODE2NzU5NTMsMTk1NTUzNTcyOCwtMT
+QzNDAwODA0NywtMTQwOTg5MDQ3NywxODg4Nzk1MjEsLTE1NjQ0
+NjQ0MzMsMTI3NTM3MDM1NywxNDc5OTI3ODcxLC03MzI0MDAyMT
+AsMjA2MDY0OTAyNCwtMTAxNTYyOTUxMCwtMTc0MDMxNjYyOSwt
+NDQwMDY0NTAzLDUxMDc0NjU0MiwzMzYyNTU2MzMsNjMxNjU4NT
+UxLDEwNjY2NDM2NSwtODY3MDIwMTAyLDk0MjEzNDc0MywtMTI0
+MTYxODgwOF19
 -->
