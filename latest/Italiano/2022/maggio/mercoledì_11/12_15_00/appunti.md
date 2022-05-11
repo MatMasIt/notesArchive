@@ -63,6 +63,12 @@ Montale e saba
 tradizione corrotta
 
 poetica di saba: chiarezza, come avrebbe voluto intitolare il suo anzoniere
+
+saba crede nella psicanalisi
+
+io onesto, indagine su ogni fenomeno dell'interiorità umana, non parole ricercate
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ5ODA2NTZdfQ==
+eyJoaXN0b3J5IjpbNjcxODM3ODMwXX0=
 -->
