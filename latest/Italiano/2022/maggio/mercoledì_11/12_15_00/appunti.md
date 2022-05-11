@@ -62,7 +62,7 @@ Montale e saba
 
 tradizione corrotta
 
-poet
+poetica di saba: chiarezza, come avrebbe voluto intitolare il suo anzoniere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTcxNzk4XX0=
+eyJoaXN0b3J5IjpbLTE2MjQ5ODA2NTZdfQ==
 -->
