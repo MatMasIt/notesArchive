@@ -68,7 +68,14 @@ saba crede nella psicanalisi
 
 io onesto, indagine su ogni fenomeno dell'interiorità umana, non parole ricercate
 
-parole com 
+parole comprensibili 
+
+
+
+In Ernesto, che non viene pubblicato negli anni 50, verrà pubblicato solo venti anni dopo
+romanzo in cui un ragazzino confida alla madre di una relazione omosessuale
+
+sonda l'indicibile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTQwMzQ0Nl19
+eyJoaXN0b3J5IjpbLTE3MzQwMDAzMTldfQ==
 -->
