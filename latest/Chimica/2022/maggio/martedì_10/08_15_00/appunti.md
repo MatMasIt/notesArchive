@@ -72,15 +72,19 @@ C_{CACO_3}=\frac{\cancel{0,01}\frac{\cancel{mol}}{L}\cdot 4,3\cancel L\cdot \can
 $$
 
 $$
-=v\cdot 
+=V_{EDTA}\cdot 20
 $$
 
 
 $$
 \Large 1°F = 10\frac{mg}LCaCO_3
 $$
+
+
+san cassiano 19 ml
+montiello 24,3 ml
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTUxMTI3NSwxNzc0MjE0NzkzLDE5Mj
+eyJoaXN0b3J5IjpbLTk2MDMzNjg1OSwxNzc0MjE0NzkzLDE5Mj
 MxNzU4MzcsLTE3MTYwMjQwMCwxMDAyODU0MjIxLC0xMjU3MTE5
 NDgsLTE1MTAzNzk5NjIsMTI3MTM2NTAzMiwxNTUyODIxOTUsLT
 E3MTg1OTI3ODEsMTcyNjMwNDc4OF19
