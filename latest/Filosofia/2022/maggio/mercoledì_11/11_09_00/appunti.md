@@ -20,10 +20,16 @@ stipendio meno del lavoro generato
 
 parte del capitale per pagare il salario
 
-spese sotenute per l'apprendimento delle attività necessarie alla formazione del lavoratore + a
+spese sotenute per l'apprendimento delle attività necessarie alla formazione del lavoratore + al suo sostentamento
 
 
 profitto (o plusvalore) si verifica se il salario è solo quello che permette la sussitenza dell'operaio
+
+
+pluslavoro genere plusvalore
+
+
+capitale costante: necessario per ammodernamento dei processi produttivi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTc3MDYwOF19
+eyJoaXN0b3J5IjpbMTgxNDk1MjA2M119
 -->
