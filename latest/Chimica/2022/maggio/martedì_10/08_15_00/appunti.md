@@ -81,10 +81,10 @@ $$
 $$
 
 
-san cassiano 19 ml
-montiello 24,3 ml
+san cassiano 19 ml = 38 °F
+montiello 24,3 ml  2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDMzNjg1OSwxNzc0MjE0NzkzLDE5Mj
+eyJoaXN0b3J5IjpbMTgxMjI5MDE1OSwxNzc0MjE0NzkzLDE5Mj
 MxNzU4MzcsLTE3MTYwMjQwMCwxMDAyODU0MjIxLC0xMjU3MTE5
 NDgsLTE1MTAzNzk5NjIsMTI3MTM2NTAzMiwxNTUyODIxOTUsLT
 E3MTg1OTI3ODEsMTcyNjMwNDc4OF19
