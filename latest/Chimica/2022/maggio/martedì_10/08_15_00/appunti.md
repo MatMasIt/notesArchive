@@ -49,20 +49,22 @@ n_{EDTA}=C_{EDTA}V_{EDTA}
 $$
 
 
-$g_{CaCO_3}=n_EDTA\cdot MM_{CaCO_3}$
-
-
 $$
-=n_{EDTA\cdot 100\frac{g}{mol}
+g_{CaCO_3}=n_EDTA\cdot MM_{CaCO_3}
 $$
 
 
 $$
-C_{CaCO_3
+=n_{EDTA}\cdot 100\frac{g}{mol}
+$$
+
+
+$$
+C_{CaCO_3}=\frac{g_{CaCO_3}\cdot 10^3\frac{mg}g}{0,05L}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MTY4NDEsMTc3NDIxNDc5MywxOTIzMT
-c1ODM3LC0xNzE2MDI0MDAsMTAwMjg1NDIyMSwtMTI1NzExOTQ4
-LC0xNTEwMzc5OTYyLDEyNzEzNjUwMzIsMTU1MjgyMTk1LC0xNz
-E4NTkyNzgxLDE3MjYzMDQ3ODhdfQ==
+eyJoaXN0b3J5IjpbLTk1NjY2Njk2LDE3NzQyMTQ3OTMsMTkyMz
+E3NTgzNywtMTcxNjAyNDAwLDEwMDI4NTQyMjEsLTEyNTcxMTk0
+OCwtMTUxMDM3OTk2MiwxMjcxMzY1MDMyLDE1NTI4MjE5NSwtMT
+cxODU5Mjc4MSwxNzI2MzA0Nzg4XX0=
 -->
