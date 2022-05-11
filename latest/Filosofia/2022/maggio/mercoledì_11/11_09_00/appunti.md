@@ -11,7 +11,16 @@ come generare il profitto?
 
 la fonte del profitto
 
-chi for
+chi presta forza lavoro ha nel lavoro il suo unico mezzo di sostentamento
+
+forza lavoro è una merce e serve per produrre il profitto
+
+stipendio meno del lavoro generato
+
+
+parte del capitale per pagare il salario
+
+spese sotenute per 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Njg2MzIwMl19
+eyJoaXN0b3J5IjpbMTUzNDg2MzIzXX0=
 -->
