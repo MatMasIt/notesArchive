@@ -30,6 +30,11 @@ pluslavoro genere plusvalore
 
 
 capitale costante: necessario per ammodernamento dei processi produttivi
+che cresce
+
+capitale variabile: colllegato al costo del lavoro che il capitalista prova a comprimere quanto può (ex. delocalizzazione)
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDk1MjA2M119
+eyJoaXN0b3J5IjpbNTgyNDUwNzg1XX0=
 -->
