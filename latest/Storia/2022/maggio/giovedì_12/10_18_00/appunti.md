@@ -37,6 +37,16 @@ Premier inglese Clemenceau non troppo d'accordo con rafforzamento della francia
 ma che si fa con il medio oriente (che era impero ottomano) dove c'è il petrolio?
 
 accordo con la francia per la spartizione collegato al rafforzamento europeo della francia
+
+
+wilson impedisce ccessione renania a francia
+
+
+p 117, fine:
+
+cessione ti tutte le colonie tedesche (aprigi e londra)
+
+restituz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzY4NjE0MV19
+eyJoaXN0b3J5IjpbLTE2OTY5NDA3MzldfQ==
 -->
