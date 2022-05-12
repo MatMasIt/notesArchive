@@ -30,7 +30,13 @@ Franica perderebbe parti africa
 
 
 i francesi volevano punire la germania
-presidente Clemenca
+presidente Clemenceau
+
+Premier inglese Clemenceau non troppo d'accordo con rafforzamento della francia
+
+ma che si fa con il medio oriente (che era impero ottomano) dove c'è il petrolio?
+
+accordo con la francia per la spartizione collegato al rafforzamento europeo della francia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTYxMTk2M119
+eyJoaXN0b3J5IjpbMTQ5MzY4NjE0MV19
 -->
