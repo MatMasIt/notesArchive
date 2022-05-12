@@ -73,7 +73,13 @@ punto 13 obbligo di ripagare tutti i danni di guerra
 
 1921: cifra 132 miliardi di marchi in monete d'oro, da pagare in 30 anni
 
-doveva impedire possibilità ripresa eco
+doveva impedire possibilità ripresa economia
+
+umiliazione
+
+1953: cifra rivista (ridotta)
+
+ultimi 60 mln euro saldati il 3 ottobre 2010
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDQ1NzUzXX0=
+eyJoaXN0b3J5IjpbLTg1NjM2ODc1Ml19
 -->
