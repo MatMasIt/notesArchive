@@ -98,6 +98,13 @@ conferenza parigi annulla clausole brest litolsk
 marzo 1918: ucraina persa dalla ruassia che poi li riprende nel 1920
 
 repubbliche baltiche indipendenti
+
+società nazioni
+
+9 membri, 5 permanenti e 4 eletti periodicamente da assemblea
+
+delibera all'unanimità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODUxNTc2OSwtMTQ1NDc4NjE1NV19
+eyJoaXN0b3J5IjpbLTEzNzAxNjQ5MjksLTE0NTQ3ODYxNTVdfQ
+==
 -->
