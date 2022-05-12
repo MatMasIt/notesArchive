@@ -56,6 +56,13 @@ Osana e alta svesia vanno alla ricostrituita a polonia + il corridoio di danzica
 Danzica città libera
 
 città filopolacca ma con molti tedeschi
+
+punto 8: abolita leva militare obbligatoria
+
+esercito al massimo di 100'000 uomini con 
+
+no areaonautica
+similitari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzIyNDkzOV19
+eyJoaXN0b3J5IjpbMzQ4MzU1MjYwXX0=
 -->
