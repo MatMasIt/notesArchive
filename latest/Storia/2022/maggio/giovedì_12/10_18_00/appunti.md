@@ -20,7 +20,13 @@ p 117
 
 
 
-problema: 
+problema: principio dell'autodeterminazione dei popoli non semplice da realizzare direttamente
+
+francia e inghilterra vogliono continuare ad essere potenze coloniali
+
+GB perderebbe india
+
+Franica perderebbe parti africa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTk5MjA2Ml19
+eyJoaXN0b3J5IjpbLTY3NzIxNDMxNl19
 -->
