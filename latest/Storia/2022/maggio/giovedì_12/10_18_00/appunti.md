@@ -91,7 +91,13 @@ nazione va a rendere autonomi territori impero ottomano
 arabia e altri territori indipendenti lo stesso sottoposti al controllo 
 
 p119
+
+[Ricontrollare]
+conferenza parigi annulla clausole brest litolsk
+
+marzo 1918: ucraina persa dalla ruassia che poi li riprende nel 1920
+
+repubbliche baltiche indipendenti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzk2NTA2MjgsLTE0NTQ3ODYxNTVdfQ
-==
+eyJoaXN0b3J5IjpbMTUyODUxNTc2OSwtMTQ1NDc4NjE1NV19
 -->
