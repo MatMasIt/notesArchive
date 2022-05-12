@@ -27,6 +27,9 @@ francia e inghilterra vogliono continuare ad essere potenze coloniali
 GB perderebbe india
 
 Franica perderebbe parti africa
+
+
+i francesi volevano punire la germania
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzIxNDMxNl19
+eyJoaXN0b3J5IjpbNzcxNjMxMDMyXX0=
 -->
