@@ -59,10 +59,21 @@ città filopolacca ma con molti tedeschi
 
 punto 8: abolita leva militare obbligatoria
 
-esercito al massimo di 100'000 uomini con 
+esercito al massimo di 100'000 uomini con armamenti legger
 
 no areaonautica
-similitari
+
+similitarizzazione fascia 50 Km sulla riva del reno
+
+
+occupazione per 5 ani della riva sinistra del reno con truppe francesi, belghe, inglesi
+
+
+punto 13 obbligo di ripagare tutti i danni di guerra
+
+1921: cifra 132 miliardi di marchi in monete d'oro, da pagare in 30 anni
+
+doveva impedire possibilità ripresa eco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4MzU1MjYwXX0=
+eyJoaXN0b3J5IjpbLTIzMDQ1NzUzXX0=
 -->
