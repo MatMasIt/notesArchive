@@ -104,7 +104,12 @@ società nazioni
 9 membri, 5 permanenti e 4 eletti periodicamente da assemblea
 
 delibera all'unanimità
+
+
+Società delle nazioni si sfalda 
+
+repubblicani vogliono essere isolazionisti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzAxNjQ5MjksLTE0NTQ3ODYxNTVdfQ
-==
+eyJoaXN0b3J5IjpbMjI2NDMwOTQ2LC0xMzcwMTY0OTI5LC0xND
+U0Nzg2MTU1XX0=
 -->
