@@ -4,6 +4,8 @@ Conferenza di Parigi (Versailles)
 
 Germania esclusa ( e i perdenti)
 
+DIKTAT
+
 Russia esclusa (comunismo inaccettabile)
 
 
@@ -81,5 +83,5 @@ umiliazione
 
 ultimi 60 mln euro saldati il 3 ottobre 2010
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjM2ODc1Ml19
+eyJoaXN0b3J5IjpbLTE0NTQ3ODYxNTVdfQ==
 -->
