@@ -87,6 +87,11 @@ ultimi 60 mln euro saldati il 3 ottobre 2010
 Mmandati: (p 121) articolo 22 protocollo dellle Società delle nazioni
 
 nazione va a rendere autonomi territori impero ottomano
+
+arabia e altri territori indipendenti lo stesso sottoposti al controllo 
+
+p119
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDk2NzE0LC0xNDU0Nzg2MTU1XX0=
+eyJoaXN0b3J5IjpbLTE5Mzk2NTA2MjgsLTE0NTQ3ODYxNTVdfQ
+==
 -->
