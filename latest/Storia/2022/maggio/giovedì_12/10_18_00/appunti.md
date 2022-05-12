@@ -51,7 +51,11 @@ restituz alsazia e lorena alla francia
 per 15 anni la francia avrebbe potuto sfruttrare i bacini carboniferi della Saar ( p 118)
 alldanimarca  lo Schlesvig
 
-Osana e alta svesia vanno alla ricostrit
+Osana e alta svesia vanno alla ricostrituita a polonia + il corridoio di danzica o corrido polacco, sboccco sul mar baltico
+
+Danzica città libera
+
+città filopolacca ma con molti tedeschi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA5MDcwMzhdfQ==
+eyJoaXN0b3J5IjpbMTc2NzIyNDkzOV19
 -->
