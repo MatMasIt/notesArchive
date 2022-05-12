@@ -46,7 +46,12 @@ p 117, fine:
 
 cessione ti tutte le colonie tedesche (aprigi e londra)
 
-restituz
+restituz alsazia e lorena alla francia
+
+per 15 anni la francia avrebbe potuto sfruttrare i bacini carboniferi della Saar ( p 118)
+alldanimarca  lo Schlesvig
+
+Osana e alta svesia vanno alla ricostrit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY5NDA3MzldfQ==
+eyJoaXN0b3J5IjpbLTIwMzA5MDcwMzhdfQ==
 -->
