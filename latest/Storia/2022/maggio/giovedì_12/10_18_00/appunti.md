@@ -30,6 +30,7 @@ Franica perderebbe parti africa
 
 
 i francesi volevano punire la germania
+presidente Clemenca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxNjMxMDMyXX0=
+eyJoaXN0b3J5IjpbMTU0OTYxMTk2M119
 -->
