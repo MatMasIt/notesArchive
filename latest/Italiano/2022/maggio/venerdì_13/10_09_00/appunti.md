@@ -118,6 +118,12 @@ p.572, ascoltami, come d'annunzio
 io lirico appare al verso 
 
 Classico montaliano: io lirico che comunica con un "tu"
+
+
+t.5 p 586  Spesso il male di vivere ho incontrato
+t.6 p. 589
+
+Forse ilmattino andando in un'aria di vetro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQ0Nzg4MjBdfQ==
+eyJoaXN0b3J5IjpbMTUxNDExNDY2MV19
 -->
