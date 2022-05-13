@@ -126,6 +126,10 @@ t.5 p 586  Spesso il male di vivere ho incontrato
 t.6 p. 589 Forse un mattino andando in un'aria di vetro
 
 Forse ilmattino andando in un'aria di vetro
+
+
+D'annunzio e pascoli, etc
+poeti savi, disincantati, avvenuti, co
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzMyMjYxOSwxNTE0MTE0NjYxXX0=
+eyJoaXN0b3J5IjpbLTExNDgzMzY4OTcsMTUxNDExNDY2MV19
 -->
