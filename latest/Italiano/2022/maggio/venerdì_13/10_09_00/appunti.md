@@ -55,7 +55,17 @@ luoghi comuni, il male di vivere
 
 poesia che ha uno sguardo lungimirante, prospettico
 
-Esistenzialismo da Heidegger a S
+Esistenzialismo da Heidegger a Sartre, la nausea
+
+filosofia ma premio nobel per la letteratura
+
+temi dell'esistenzialismo europeo che nasce negli anni 30 ma si ridiffonde in anni 50, poi contestazion e parigina anni 60
+
+condizione dell'uomo gettato nel mondo, riflessione
+
+alla ricerca di un senso ontologico, metafisico per al sua esistenza, uomo gettato che trova la sua casa dell'essere nel suo linguaggi o
+
+ ## T!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzIxODYyMF19
+eyJoaXN0b3J5IjpbLTE2NTcxMDQ0NzddfQ==
 -->
