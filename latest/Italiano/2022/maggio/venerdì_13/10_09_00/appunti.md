@@ -35,9 +35,19 @@ Terza òagna: cultura
 
 Satura esce negli anni 70
 
-poesia che ha scelte linguistiche più piani, colloquiali, comprensibile, a tratt quasi prosastica e giornalistica
+poesia che ha scelte linguistiche più piani, colloquiali, comprensibile, a tratti quasi prosastica e giornalistica
 
-entrano
+entrano gli stessi temi che pier paolo pasolini sulla rivista "Officina", mondo agricolo che si è industrializzato rapidamente
+
+
+Diari, riferiti agli anni 70
+
+
+
+Noi ci fermeremo sul primo montale, che gli è valso il nobel
+
+Gian Franco contini, dice che è il più grande del 900
+nobel 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwNTYxNjFdfQ==
+eyJoaXN0b3J5IjpbLTY5NDY5ODI2NF19
 -->
