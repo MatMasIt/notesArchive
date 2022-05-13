@@ -65,7 +65,8 @@ condizione dell'uomo gettato nel mondo, riflessione
 
 alla ricerca di un senso ontologico, metafisico per al sua esistenza, uomo gettato che trova la sua casa dell'essere nel suo linguaggi o
 
- ## T!
+ ## T1
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcxMDQ0NzddfQ==
+eyJoaXN0b3J5IjpbMTcyNDYwNTI2N119
 -->
