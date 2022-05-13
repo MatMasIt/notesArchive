@@ -65,8 +65,11 @@ condizione dell'uomo gettato nel mondo, riflessione
 
 alla ricerca di un senso ontologico, metafisico per al sua esistenza, uomo gettato che trova la sua casa dell'essere nel suo linguaggi o
 
- ## T1
- 
+
+T1  intervista immaginaria di Montale 1946
+
+
+(come programmi rai che poi negli anni '50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDYwNTI2N119
+eyJoaXN0b3J5IjpbLTIxODU1OTEzOV19
 -->
