@@ -109,7 +109,9 @@ delibera all'unanimità
 Società delle nazioni si sfalda 
 
 repubblicani vogliono essere isolazionisti
+
+iugoslavia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NDMwOTQ2LC0xMzcwMTY0OTI5LC0xND
-U0Nzg2MTU1XX0=
+eyJoaXN0b3J5IjpbLTU3MDA5MDIzNiwyMjY0MzA5NDYsLTEzNz
+AxNjQ5MjksLTE0NTQ3ODYxNTVdfQ==
 -->
