@@ -101,9 +101,14 @@ potrebbe dare un'accesso al metafisico, il quid
 ---
 
 
-annetta, che conosce a monterosso durante i soggiorni a monterosso
+annetta, personaggio femminile conosciuto nella sua infanzia durante le vacanze a monterosso, ma non ha avuto con lei relazioni affettive
 
-Ib, Irma brandeis, la crocifera, portatrice di Croce, donna-angelo, folata, improvvisa luce che porta la salvezza, mito di clizia punita perchè aveva ostacolato apollo e fu punita trasformandola in un girasole,c he
+Ib, Irma brandeis, la crocifera, portatrice di Croce, donna-angelo, folata, improvvisa luce che porta la salvezza, mito di clizia punita perchè aveva ostacolato apollo e fu punita trasformandola in un girasole, che segue il carro del sole
+
+apollo regge le muse 
+
+**Rulo della poesia**
+sanare la disarmonia del'uomo con i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjM1NTg4MF19
+eyJoaXN0b3J5IjpbLTYwNTA2NTkzN119
 -->
