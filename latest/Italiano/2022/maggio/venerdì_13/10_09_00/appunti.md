@@ -96,6 +96,14 @@ ricerca di un senso, un quid
 un miracolo laico, un prodigio,, un segno potrebbe schiudere un possibile significato otre il velo della realtà come rappresentazione
 
 potrebbe dare un'accesso al metafisico, il quid 
+
+
+---
+
+
+annetta, che conosce a monterosso durante i soggiorni a monterosso
+
+Ib, Irma brandeis, la crocifera, portatrice di Croce, donna-angelo, folata, improvvisa luce che porta la salvezza, mito di clizia punita perchè aveva ostacolato apollo e fu punita trasformandola in un girasole,c he
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDY4MTM1Ml19
+eyJoaXN0b3J5IjpbLTUwMjM1NTg4MF19
 -->
