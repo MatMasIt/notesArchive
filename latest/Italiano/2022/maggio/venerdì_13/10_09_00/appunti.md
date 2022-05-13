@@ -47,7 +47,15 @@ Diari, riferiti agli anni 70
 Noi ci fermeremo sul primo montale, che gli è valso il nobel
 
 Gian Franco contini, dice che è il più grande del 900
-nobel 
+nobel nelle corde della sensibilità popolare
+
+
+luoghi comuni, il male di vivere
+
+
+poesia che ha uno sguardo lungimirante, prospettico
+
+Esistenzialismo da Heidegger a S
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDY5ODI2NF19
+eyJoaXN0b3J5IjpbMTc3MzIxODYyMF19
 -->
