@@ -132,6 +132,11 @@ D'annunzio e pascoli, etc
 No, servono
 poeti savi, disincantati, avvenuti, coscenti dei limiti
 nessuna missione esclusiva, enfatica, di salvatore
+
+
+p 572
+
+Io amo le strade che si affacciano sugli erbosi fossi dove i ragazzi agguandano le anguille
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODU1MjA2OCwxNTE0MTE0NjYxXX0=
+eyJoaXN0b3J5IjpbLTk4Mjk2NTU1NCwxNTE0MTE0NjYxXX0=
 -->
