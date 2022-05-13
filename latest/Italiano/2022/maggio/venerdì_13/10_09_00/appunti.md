@@ -129,7 +129,9 @@ Forse ilmattino andando in un'aria di vetro
 
 
 D'annunzio e pascoli, etc
-poeti savi, disincantati, avvenuti, co
+No, servono
+poeti savi, disincantati, avvenuti, coscenti dei limiti
+nessuna missione esclusiva, enfatica, di salvatore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDgzMzY4OTcsMTUxNDExNDY2MV19
+eyJoaXN0b3J5IjpbMTY0ODU1MjA2OCwxNTE0MTE0NjYxXX0=
 -->
