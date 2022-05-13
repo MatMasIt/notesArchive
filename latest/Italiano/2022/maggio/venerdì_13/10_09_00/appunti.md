@@ -89,6 +89,13 @@ Miracolo?
 
 miracolo laico
 montale si professa laico da un punto di vista spirituale
+
+
+ricerca di un senso, un quid
+
+un miracolo laico, un prodigio,, un segno potrebbe schiudere un possibile significato otre il velo della realtà come rappresentazione
+
+potrebbe dare un'accesso al metafisico, il quid 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjI0OTQyNjNdfQ==
+eyJoaXN0b3J5IjpbMTg4MDY4MTM1Ml19
 -->
