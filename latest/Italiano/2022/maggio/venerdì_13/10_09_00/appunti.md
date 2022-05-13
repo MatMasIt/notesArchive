@@ -73,6 +73,22 @@ p 572 T1 _I limoni_, considerazione sugli ossi di seppia, intervista immaginaria
 
 
 Realtà disordinata dalle leggi della necessità fisica
+
+
+Poesia come ricerca di un **miracolo**
+
+parola chiave della ricerca di montale
+
+p 562
+
+ricerca di senso
+
+Guardare oltre l'apparenza delll cose, la ricerca del miracolo
+
+Miracolo?
+
+miracolo laico
+montale si professa laico da un punto di vista spirituale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU1Nzc1OV19
+eyJoaXN0b3J5IjpbLTE3NjI0OTQyNjNdfQ==
 -->
