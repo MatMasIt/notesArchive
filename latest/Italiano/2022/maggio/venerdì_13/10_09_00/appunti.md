@@ -121,11 +121,11 @@ Classico montaliano: io lirico che comunica con un "tu"
 
 t.3 p.581Non chiederci la parola
 Non è un vate dannunziano, un raimbaud o un ungaretti che si inabissa
-
+Uom che non si rende conte della prigione della realtà rappresentata
 t.5 p 586  Spesso il male di vivere ho incontrato
 t.6 p. 589 Forse un mattino andando in un'aria di vetro
 
 Forse ilmattino andando in un'aria di vetro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk2MDk1MzcsMTUxNDExNDY2MV19
+eyJoaXN0b3J5IjpbLTc4MzMyMjYxOSwxNTE0MTE0NjYxXX0=
 -->
