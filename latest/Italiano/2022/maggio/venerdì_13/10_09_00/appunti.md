@@ -66,10 +66,13 @@ condizione dell'uomo gettato nel mondo, riflessione
 alla ricerca di un senso ontologico, metafisico per al sua esistenza, uomo gettato che trova la sua casa dell'essere nel suo linguaggi o
 
 
-T1 _la bufera_, considerazione sugli ossi di seppia, intervista immaginaria di Montale 1946
+p 572 T1 _I limoni_, considerazione sugli ossi di seppia, intervista immaginaria di Montale 1946
 
 
 (come programmi rai che poi negli anni '50 faranno interviste immaginarie)
+
+
+Realtà disordinata dalle leggi della necessità fisica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzQyNDAyN119
+eyJoaXN0b3J5IjpbLTEzMDU1Nzc1OV19
 -->
