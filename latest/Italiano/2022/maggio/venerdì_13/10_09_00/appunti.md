@@ -25,7 +25,19 @@ gli viene proposto di scrivere la Terza pagina alla morte di Ghandi
 eugenio lo fa benissimo ed entra a far parte di via solferino e fino al '52 è precario
 
 
-poeta per scelta, famiglia borghese, non troppe diffic
+poeta per scelta, famiglia borghese, non troppe difficoltà
+
+p 583: il secondo mesteirere, non quello di poeta ma quello di gionrallista di terza pagina, che scrive di musica, di arte etc
+
+lui reputa la poesia come il suo primo lavoro
+
+Terza òagna: cultura
+
+Satura esce negli anni 70
+
+poesia che ha scelte linguistiche più piani, colloquiali, comprensibile, a tratt quasi prosastica e giornalistica
+
+entrano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTU5MjUyN119
+eyJoaXN0b3J5IjpbNTQwNTYxNjFdfQ==
 -->
