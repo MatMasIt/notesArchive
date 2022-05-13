@@ -108,7 +108,10 @@ Ib, Irma brandeis, la crocifera, portatrice di Croce, donna-angelo, folata, impr
 apollo regge le muse 
 
 **Rulo della poesia**
-sanare la disarmonia del'uomo con i
+Riflettere sulla disarmonia del'uomo con il mondo
+
+
+il male di vivere, la sodderenza esistenziale individuale e universale dell'uomo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTA2NTkzN119
+eyJoaXN0b3J5IjpbLTEwNTIwODkyNzNdfQ==
 -->
