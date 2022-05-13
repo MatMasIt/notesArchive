@@ -142,6 +142,9 @@ Io amo le strade che si affacciano sugli erbosi fossi dove i ragazzi agguandano 
 torcere il collo all'eloquenza 
 
 antilirica, antiretorica [definizione di Gianranco Contini]
+
+
+Officina p 1049
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTg4OTI2MiwxNTE0MTE0NjYxXX0=
+eyJoaXN0b3J5IjpbLTE4MjY2MTgzNDUsMTUxNDExNDY2MV19
 -->
