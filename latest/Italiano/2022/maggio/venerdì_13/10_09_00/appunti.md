@@ -112,6 +112,12 @@ Riflettere sulla disarmonia del'uomo con il mondo
 
 
 il male di vivere, la sodderenza esistenziale individuale e universale dell'uomo
+
+p.572, ascoltami, come d'annunzio
+
+io lirico appare al verso 
+
+Classico montaliano: io lirico che comunica con un "tu"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTIwODkyNzNdfQ==
+eyJoaXN0b3J5IjpbLTE3MzQ0Nzg4MjBdfQ==
 -->
