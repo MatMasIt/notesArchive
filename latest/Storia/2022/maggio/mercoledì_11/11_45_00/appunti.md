@@ -11,6 +11,12 @@ usa resta fuori, congresso non vuole
 
 situazione complessiva europa dopo WWI
 prestititi con USA
+
+inflazione
+
+salari fissi, impoverimento
+
+potere d'acquisto si ridue
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTI3NTAwN119
+eyJoaXN0b3J5IjpbLTE3OTYyOTQwNTJdfQ==
 -->
