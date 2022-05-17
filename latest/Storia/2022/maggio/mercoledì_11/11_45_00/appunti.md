@@ -76,7 +76,11 @@ serve qualcuno che faccia meglio gli interessi degli industriali
 piccolo movimento 1919
 Movimento dei Fasci di Combattimento
 
-Ben
+Benito Mussolini
+
+di lì a oco attraverso alla violenza sui socialisti attira molti interessi
+
+questione di Fiume: primo ministro fa negoziato diretto con regno serbi, croati e sloveni solto da dissoluzione impero asburgico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDY1MTUyN119
+eyJoaXN0b3J5IjpbNTk4MTMzODFdfQ==
 -->
