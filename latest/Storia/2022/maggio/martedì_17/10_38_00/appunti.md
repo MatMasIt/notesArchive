@@ -17,6 +17,14 @@ iniziativa di Antonio Gramsci e Amedeo Bordiga
 
 
 scissione 
+
+
+PCI diventerà negli anni 90 PSDI, poi Democratici di Sinistra e poi fondendosi con altri approda alla formazione del Partito Democratico
+
+
+p 270
+
+Idee del movimento dei 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODcxMjcyNF19
+eyJoaXN0b3J5IjpbMTkxNDI1OTI3NSwtMjM4NzEyNzI0XX0=
 -->
