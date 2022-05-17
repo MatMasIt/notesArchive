@@ -19,6 +19,18 @@ salari fissi, impoverimento
 potere d'acquisto si riduce
 
 vedi ven 1 aprile
+
+---
+
+parito liberale con buoni risultati ma non in maggioranza
+
+elezioni novembre 2019
+
+emerge giolitti di nuovo
+
+governo primavera 1920
+
+Problema di fiume
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4MzgyNDEyXX0=
+eyJoaXN0b3J5IjpbLTIwMDU2NTI3NzddfQ==
 -->
