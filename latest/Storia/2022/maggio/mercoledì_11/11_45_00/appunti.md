@@ -49,7 +49,23 @@ operai fanno ostruzionismo, rallentano produzione
 
 Impresa milanese chiude stabilimenti, serrata
 
-per lui chiudere la fabbrica per 7 gio
+per lui chiudere la fabbrica per 7 giorni non è un problema
+
+riduzione di 1/3 del salario o possono non riceverlo se la fabbrica è chiusa pr un mese
+
+prova di forza
+
+gli operai le riaprono, e le rimettono in funzione
+
+occupazione delle fabbriche
+
+molti operai vorrebbero rivoluzione marxista anche in italia
+
+
+giolitti cerca il dialogo
+
+
+accordo isolando p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5NTk4NTk1XX0=
+eyJoaXN0b3J5IjpbLTcyMDI4NTg5OV19
 -->
