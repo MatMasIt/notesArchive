@@ -131,7 +131,7 @@ dilagano altre proteste
 
 nel 1905 si costituisce nella capitale il Soviet (consiglio), rappresentanti di circa 250'000 operai russi, 550 delegati, eletti sui luoghi di lavoro e sempre revocabili
 * organismo politico operaio
-* i fronte al caos delle proteste il Soviet si mostra capace di garantire un certo ordine, a differenza dei funzionari dello zar
+* i fronte al caos delle proteste il Soviet si mostra capace di garantire un certo ordine, a differenza dei funzionari dello zarf
 
 Lo zarr cede e concede la nascita del parlamento
 
@@ -159,5 +159,5 @@ Generale malcontento con cui la russia entra in WWI
 
 1917 altra esplosione rivoluzionaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTEwNDcxMTVdfQ==
+eyJoaXN0b3J5IjpbMTU1MjM3OTQ1OSwtMTE5MTA0NzExNV19
 -->
