@@ -31,6 +31,17 @@ emerge giolitti di nuovo
 governo primavera 1920
 
 Problema di fiume
+
+proteste operaie
+proteste agosto-settembre 1920
+
+succede cosa clamorosa
+
+p 211
+
+metalmeccanici paiono iniziare una 
+
+FI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU2NTI3NzddfQ==
+eyJoaXN0b3J5IjpbLTgzODIxMjA2MV19
 -->
