@@ -25,6 +25,11 @@ PCI diventerà negli anni 90 PSDI, poi Democratici di Sinistra e poi fondendosi 
 p 270
 
 Idee del movimento dei fasci abbastanza innovative
+
+
+suffragio universale
+soppressione senato di nomina regia
+abbassamento età elettori a 18 anni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxOTIwNDMsLTIzODcxMjcyNF19
+eyJoaXN0b3J5IjpbLTE5OTQ0MzQ0MzksLTIzODcxMjcyNF19
 -->
