@@ -65,7 +65,18 @@ molti operai vorrebbero rivoluzione marxista anche in italia
 giolitti cerca il dialogo
 
 
-accordo isolando p
+accordo isolando parti più estreme
+
+vertenza sindacale, aumento salari
+
+si pensa di nuovoche giolitti sia troppo debole
+
+serve qualcuno che faccia meglio gli interessi degli industriali
+
+piccolo movimento 1919
+Movimento dei Fasci di Combattimento
+
+Ben
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDI4NTg5OV19
+eyJoaXN0b3J5IjpbMTI1NDY1MTUyN119
 -->
