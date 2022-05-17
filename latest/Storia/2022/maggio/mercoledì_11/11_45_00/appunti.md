@@ -5,6 +5,12 @@ Società
 c'è anche italia
 
 usa resta fuori, congresso non vuole
+
+----
+
+
+situazione complessiva europa dopo WWI
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTI1MjgxNV19
+eyJoaXN0b3J5IjpbMTgyOTAyMDY5XX0=
 -->
