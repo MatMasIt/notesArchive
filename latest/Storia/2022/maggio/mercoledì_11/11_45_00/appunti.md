@@ -39,9 +39,17 @@ succede cosa clamorosa
 
 p 211
 
-metalmeccanici paiono iniziare una 
+metalmeccanici paiono iniziare una rivolta
 
-FI
+FIOM aveva chiesto un rinnovo dei contratti del lavoro con aumenti salarali
+
+dirigenti non ci stanno
+
+operai fanno ostruzionismo, rallentano produzione
+
+Impresa milanese chiude stabilimenti, serrata
+
+per lui chiudere la fabbrica per 7 gio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODIxMjA2MV19
+eyJoaXN0b3J5IjpbMjc5NTk4NTk1XX0=
 -->
