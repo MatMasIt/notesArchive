@@ -16,7 +16,9 @@ inflazione
 
 salari fissi, impoverimento
 
-potere d'acquisto si ridue
+potere d'acquisto si riduce
+
+vedi ven 1 aprile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTYyOTQwNTJdfQ==
+eyJoaXN0b3J5IjpbNDI4MzgyNDEyXX0=
 -->
