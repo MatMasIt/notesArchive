@@ -24,7 +24,7 @@ PCI diventerà negli anni 90 PSDI, poi Democratici di Sinistra e poi fondendosi 
 
 p 270
 
-Idee del movimento dei 
+Idee del movimento dei fasci abbastanza innovative
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDI1OTI3NSwtMjM4NzEyNzI0XX0=
+eyJoaXN0b3J5IjpbNTcxOTIwNDMsLTIzODcxMjcyNF19
 -->
