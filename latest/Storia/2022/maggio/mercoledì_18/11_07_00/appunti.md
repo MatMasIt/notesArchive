@@ -97,7 +97,15 @@ scrive Mein Kampf, già idee chiare
 * Disdegno per ebrei, che sono alla base del capitalismo statiunitense e del bolscevismo
 * La Germania deve svilupparsi verso est
 
+NSDAP antiliberale e antisoclaista
 
+allora partecila
+
+
+Ss nasconocome guardie del corpo di hitler
+
+prima SA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA5NTEwNjMsMzc5NjAyMzg2XX0=
+eyJoaXN0b3J5IjpbMTQ5NTY0MjcxMywtMTczMDk1MTA2MywzNz
+k2MDIzODZdfQ==
 -->
