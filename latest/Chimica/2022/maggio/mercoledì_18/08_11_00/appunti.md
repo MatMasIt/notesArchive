@@ -27,6 +27,23 @@ Fotosintesi:
 3. ATP, $\boxed{\text{NADPH}}$
 
 
+
+
+		CH2
+		|
+		C-O
+		|    O
+ 		|  //
+		C
+		  \
+		     O
+
+
+
+polidrossialdeidi glusocio
+poliidr
+ossichetone: fluttsio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4NzI0NDM3LDEzNDI3Nzc3MTRdfQ==
+eyJoaXN0b3J5IjpbLTMxNDAwMDI0MCwzMjg3MjQ0MzcsMTM0Mj
+c3NzcxNF19
 -->
