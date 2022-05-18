@@ -82,7 +82,14 @@ intraprende carriera politica
 
 1923, 9 novembre, 5 anni esatti dopo caduta Guglielmo II
 
-colpo di stato in baviera con 3
+tenta colpo di stato in baviera con 300 uomini, per poi conquistare berlino
+
+
+vuole imitare Benito Mussolini, verso cui Hitler avrà molta ammirazione, non ripagata
+
+tentativo fallisce
+
+5 anni di carcere, ma viene 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzUwNzY3MSwzNzk2MDIzODZdfQ==
+eyJoaXN0b3J5IjpbLTEwNDcxNzgzMjEsMzc5NjAyMzg2XX0=
 -->
