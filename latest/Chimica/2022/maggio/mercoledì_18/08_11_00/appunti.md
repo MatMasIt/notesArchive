@@ -38,12 +38,27 @@ Fotosintesi:
 		  \
 		     O
 
+Piruvato deidrogebasu
+
+
+
+$$
+NAD^+\to NADH
+$$
+
+
+		CH3
+		|
+		C=O
+		||
+		COA
+Acetil coenzima a, innesca il circlo
 
 
 polidrossialdeidi glusocio
 poliidr
 ossichetone: fluttsio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDAwMDI0MCwzMjg3MjQ0MzcsMTM0Mj
+eyJoaXN0b3J5IjpbMjAwNDU5MDY1MywzMjg3MjQ0MzcsMTM0Mj
 c3NzcxNF19
 -->
