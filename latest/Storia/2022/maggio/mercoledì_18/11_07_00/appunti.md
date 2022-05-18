@@ -36,7 +36,12 @@ cosa mai perdonata dai comunisti
 
 si crea assemblea costituente
 
-in germania molti sono nost
+in germania molti sono nostalgici del Kaiser, della grandezza della geermania persa
+
+SPD propone stabilità
+rasserenanti
+
+no maggioranza assoluta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMjU4ODY5LDM3OTYwMjM4Nl19
+eyJoaXN0b3J5IjpbMjEwMTkwODU3MCwzNzk2MDIzODZdfQ==
 -->
