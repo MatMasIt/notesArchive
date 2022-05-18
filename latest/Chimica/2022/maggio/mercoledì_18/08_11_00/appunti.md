@@ -11,8 +11,10 @@ defosforillazione
 energia dall'ambiente esterno 
 
 $$
-E_{prodotti}< 
+E_{prodotti}<E_{reagenti}
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDI4MTE0MV19
+eyJoaXN0b3J5IjpbMTM0Mjc3NzcxNF19
 -->
