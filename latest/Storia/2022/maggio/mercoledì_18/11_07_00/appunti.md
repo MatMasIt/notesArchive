@@ -99,13 +99,17 @@ scrive Mein Kampf, già idee chiare
 
 NSDAP antiliberale e antisoclaista
 
-allora partecila
+allora partecipa elezioni
+
+indimidire avversari politici
+
+grandi  manifestazioni di massa
 
 
 Ss nasconocome guardie del corpo di hitler
 
 prima SA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTY0MjcxMywtMTczMDk1MTA2MywzNz
-k2MDIzODZdfQ==
+eyJoaXN0b3J5IjpbLTEzNjE5NTE2NjAsLTE3MzA5NTEwNjMsMz
+c5NjAyMzg2XX0=
 -->
