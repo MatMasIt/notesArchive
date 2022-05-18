@@ -58,7 +58,10 @@ Acetil coenzima a, innesca il circlo
 polidrossialdeidi glusocio
 poliidr
 ossichetone: fluttsio
+
+
+p.245
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDU5MDY1MywzMjg3MjQ0MzcsMTM0Mj
+eyJoaXN0b3J5IjpbMjEwMTc4MDEyMCwzMjg3MjQ0MzcsMTM0Mj
 c3NzcxNF19
 -->
