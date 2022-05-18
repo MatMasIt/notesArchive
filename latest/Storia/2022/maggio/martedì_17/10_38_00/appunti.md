@@ -34,6 +34,10 @@ Proposte Sociali (un po' socialisteggianti)
 * giornata legale di 8 ore
 * limiti di paga
 * rappresentanti dei lavoratori dei consigli che regolamentano le industrie
+
+Proposte militari:
+* nazionalizzare fabbriche espolisivi per evitare profitti eccessivi
+15:17 audio A
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTYyNTg2MDQsLTIzODcxMjcyNF19
+eyJoaXN0b3J5IjpbNTYzNzQ4MDE4LC0yMzg3MTI3MjRdfQ==
 -->
