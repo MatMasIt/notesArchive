@@ -94,7 +94,10 @@ tentativo fallisce
 scrive Mein Kampf, già idee chiare
 
 * supremazia razziale [Razza ariana, indoeuropea]
-* 
+* Disdegno per ebrei, che sono alla base del capitalismo statiunitense e del bolscevismo
+* La Germania deve svilupparsi verso est
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDk4NTk0MywzNzk2MDIzODZdfQ==
+eyJoaXN0b3J5IjpbLTE3MzA5NTEwNjMsMzc5NjAyMzg2XX0=
 -->
