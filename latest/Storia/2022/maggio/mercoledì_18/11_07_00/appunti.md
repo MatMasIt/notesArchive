@@ -89,7 +89,11 @@ vuole imitare Benito Mussolini, verso cui Hitler avrà molta ammirazione, non ri
 
 tentativo fallisce
 
-5 anni di carcere, ma viene 
+5 anni di carcere, ma sta solo 9 mesi per buona condotta
+
+scrive Mein Kampf, già idee chiare
+
+* supremazia razziale [Raza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDcxNzgzMjEsMzc5NjAyMzg2XX0=
+eyJoaXN0b3J5IjpbLTE3MTg0NzcwNjcsMzc5NjAyMzg2XX0=
 -->
