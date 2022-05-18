@@ -70,7 +70,19 @@ era previsto che nel caso ci fossero state situazioni particolari si potevano so
 
 Hitler, tentato senza successo la carriera artistica
 
-diventa segreta
+diventa segretario Partito nazionalsocialista dei lavoratori
+
+
+WWI, individuato dai suoi superiori come persona molto abile dal punto di vista oratorio
+
+
+per lui grande scoperta
+
+intraprende carriera politica
+
+1923, 9 novembre, 5 anni esatti dopo caduta Guglielmo II
+
+colpo di stato in baviera con 3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg2MDcxNjIsMzc5NjAyMzg2XX0=
+eyJoaXN0b3J5IjpbMjAzMzUwNzY3MSwzNzk2MDIzODZdfQ==
 -->
