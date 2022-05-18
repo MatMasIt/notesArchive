@@ -50,6 +50,22 @@ costituzione molto avanzata
 liberal-democrazia
 
 diritti civili, politici e sociali
+
+due camere
+
+
+
+Reichstag Deputati
+Reichsrat: camera delle regioni (oggi Bundesrat)
+
+presidente eletto dal popolo con suffragio universale
+
+
+sette anni
+
+semipresidenzialismo 
+
+era previsto che nel caso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Njg5MDQyOCwzNzk2MDIzODZdfQ==
+eyJoaXN0b3J5IjpbMTM0NTA0NDcxNSwzNzk2MDIzODZdfQ==
 -->
