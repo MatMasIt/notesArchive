@@ -42,6 +42,14 @@ SPD propone stabilità
 rasserenanti
 
 no maggioranza assoluta
+
+costituzione scritta nella citàà di Weimar, centro cultura tedesca dove tutti potevano riconoscersi
+
+costituzione molto avanzata
+
+liberal-democrazia
+
+diritti civili, politici e sociali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTkwODU3MCwzNzk2MDIzODZdfQ==
+eyJoaXN0b3J5IjpbLTY0Njg5MDQyOCwzNzk2MDIzODZdfQ==
 -->
