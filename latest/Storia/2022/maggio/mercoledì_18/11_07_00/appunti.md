@@ -58,14 +58,19 @@ due camere
 Reichstag Deputati
 Reichsrat: camera delle regioni (oggi Bundesrat)
 
-presidente eletto dal popolo con suffragio universale
-
+presidente della repubblica eletto dal popolo con suffragio universale
+presidente della repubblica nomina un cancelliere
 
 sette anni
 
 semipresidenzialismo 
 
-era previsto che nel caso
+era previsto che nel caso ci fossero state situazioni particolari si potevano sospendere i diritti costituzionali
+
+
+Hitler, tentato senza successo la carriera artistica
+
+diventa segreta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTA0NDcxNSwzNzk2MDIzODZdfQ==
+eyJoaXN0b3J5IjpbLTE1Nzg2MDcxNjIsMzc5NjAyMzg2XX0=
 -->
