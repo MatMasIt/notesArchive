@@ -21,6 +21,22 @@ Spagna: Francisco Franco vs Socialisti repubblicani
 Tedeschi e Italiani si alleano nel 36 in spagna
 
 impegni bellici
+
+
+francia e inghilterra non partecipano per non aiutare socialisti
+
+
+germania: SPD al govern miacciata da sinistra [Lega di sparta, Spartachisti comunisti]
+
+15 gennaio '19, tentativo rivoluzionario represso nel sangue [muore leade, Rosa Luxembourg]
+
+Freikorps usati, gruppi di destra violenti
+
+cosa mai perdonata dai comunisti
+
+si crea assemblea costituente
+
+in germania molti sono nost
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5NjAyMzg2XX0=
+eyJoaXN0b3J5IjpbOTcyMjU4ODY5LDM3OTYwMjM4Nl19
 -->
