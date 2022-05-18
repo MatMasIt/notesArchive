@@ -11,6 +11,16 @@ Mussolini viene anche rassicurato da Hitler che non vuole fare una uerra subito
 Italia deve consolidare esercito
 
 Conquista albania puramente imprerialistica
+
+
+Alleanza con germania: errore
+
+
+Spagna: Francisco Franco vs Socialisti repubblicani
+
+Tedeschi e Italiani si alleano nel 36 in spagna
+
+impegni bellici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODg3MzI2Ml19
+eyJoaXN0b3J5IjpbMzc5NjAyMzg2XX0=
 -->
