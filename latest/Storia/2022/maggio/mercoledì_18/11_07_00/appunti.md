@@ -93,7 +93,8 @@ tentativo fallisce
 
 scrive Mein Kampf, già idee chiare
 
-* supremazia razziale [Raza
+* supremazia razziale [Razza ariana, indoeuropea]
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg0NzcwNjcsMzc5NjAyMzg2XX0=
+eyJoaXN0b3J5IjpbMTAyMDk4NTk0MywzNzk2MDIzODZdfQ==
 -->
