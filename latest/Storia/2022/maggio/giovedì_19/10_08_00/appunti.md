@@ -31,6 +31,11 @@ stipendi fissi vengno danneggiati
 marco diventa quasi carta straccia
 
 1 dollaro: centinaia di migliaia di marchi
+
+
+cancelliere streseman
+
+leader partito liberal-democratico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDg2OTcyNV19
+eyJoaXN0b3J5IjpbLTkzNTM1NTExMF19
 -->
