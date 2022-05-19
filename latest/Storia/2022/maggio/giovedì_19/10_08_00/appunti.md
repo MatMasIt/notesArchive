@@ -49,6 +49,11 @@ temporanea sospensione debito, per riavviare l'industria, sovvenzionata dagli us
 necessaria riconversioe
 
 --- stiamo analizzando il foglio sul classrom, ora prendo appunti solo se serve ---
+
+
+Dopo prima guerra mondiale ultima cosa che vogliono GB e FR è un'altra guerra
+
+appeasement, politica di pace
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTczMjkxNl19
+eyJoaXN0b3J5IjpbMjAxNzg3MjgzMV19
 -->
