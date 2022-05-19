@@ -44,7 +44,9 @@ rentenmark, nuova moneta, 1/4 di dollaro, retta da tutte le proprietà private c
 
 24: piano Davis, pensato da finanziere USA
 
+temporanea sospensione debito, per riavviare l'industria, sovvenzionata dagli usa
 
+necessaria riconversioe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4ODc0MTczXX0=
+eyJoaXN0b3J5IjpbMjU4NDU2MjcxXX0=
 -->
