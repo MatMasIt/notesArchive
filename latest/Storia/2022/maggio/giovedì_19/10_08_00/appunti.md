@@ -36,6 +36,15 @@ marco diventa quasi carta straccia
 cancelliere streseman
 
 leader partito liberal-democratico
+
+rentenmark, nuova moneta, 1/4 di dollaro, retta da tutte le proprietà private come garanzia
+
+23, si blocca spirale inflattiva
+
+
+24: piano Davis, pensato da finanziere USA
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTM1NTExMF19
+eyJoaXN0b3J5IjpbNDA4ODc0MTczXX0=
 -->
