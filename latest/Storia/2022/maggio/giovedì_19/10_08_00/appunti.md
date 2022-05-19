@@ -59,6 +59,15 @@ c'è un limite: Varsavia, la polonia
 
 
 marzo 39, la germania chiede alla polonia la città di Danzica (libera ma con governo filopolacco
+
+
+
+URSS ha trattato a lungo con  FR e GB con funzione antisovietica senza successo
+
+quei paesi non potevano di certo allearsi con i comunisti
+
+
+URSS doveva garantirsi tempo per creare difese contro i tedeschi che tanto volevano conquistarli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzM3Njc3OF19
+eyJoaXN0b3J5IjpbMTMxNzYxNzUxNl19
 -->
