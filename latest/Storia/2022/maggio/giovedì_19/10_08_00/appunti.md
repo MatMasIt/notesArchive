@@ -47,6 +47,8 @@ rentenmark, nuova moneta, 1/4 di dollaro, retta da tutte le proprietà private c
 temporanea sospensione debito, per riavviare l'industria, sovvenzionata dagli usa
 
 necessaria riconversioe
+
+--- stiamo analizzando il foglio sul classrooo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4NDU2MjcxXX0=
+eyJoaXN0b3J5IjpbLTIwMjQ5MzAyMDRdfQ==
 -->
