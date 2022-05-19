@@ -42,7 +42,7 @@ rentenmark, nuova moneta, 1/4 di dollaro, retta da tutte le proprietà private c
 23, si blocca spirale inflattiva
 
 
-24: piano Da, pensato da finanziere USA
+24: piano Dawes, pensato da finanziere USA
 
 temporanea sospensione debito, per riavviare l'industria, sovvenzionata dagli usa
 
@@ -50,5 +50,5 @@ necessaria riconversioe
 
 --- stiamo analizzando il foglio sul classrom, ora prendo appunti solo se serve ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzEzNDY3MV19
+eyJoaXN0b3J5IjpbMTc3MTczMjkxNl19
 -->
