@@ -13,11 +13,12 @@ interipr monologue
 
 lack of chronological order of events
 
-the story is presented through the toughts of the 
+the story is presented through the toughts of the character
+
 
 the story begins in medias res
 avelie p 253
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDUwMjc1OTMsLTIwMDc4NTkzNjNdfQ
+eyJoaXN0b3J5IjpbLTEzMTgzMTE4MzAsLTIwMDc4NTkzNjNdfQ
 ==
 -->
