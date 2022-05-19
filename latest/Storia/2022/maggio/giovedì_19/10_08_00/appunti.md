@@ -21,6 +21,12 @@ germania avrebbe dovuto ottenere prestiti? hmm difficile
 
 
 s stampa cartamoneta
+
+inflazione con efetti incredibili
+
+valore moneta si abbassa, i beni costano di più 
+
+stipendi fisssi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDg0OTc4NDJdfQ==
+eyJoaXN0b3J5IjpbMTQ5NDA2NzgzMF19
 -->
