@@ -68,6 +68,9 @@ quei paesi non potevano di certo allearsi con i comunisti
 
 
 URSS doveva garantirsi tempo per creare difese contro i tedeschi che tanto volevano conquistarli
+
+
+1 settembre 1939, invasione polonia, intervengono FR e GB
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzYxNzUxNl19
+eyJoaXN0b3J5IjpbLTE1OTY3MDIwNDJdfQ==
 -->
