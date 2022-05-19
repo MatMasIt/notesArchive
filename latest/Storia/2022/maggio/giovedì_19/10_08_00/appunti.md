@@ -26,7 +26,11 @@ inflazione con efetti incredibili
 
 valore moneta si abbassa, i beni costano di più 
 
-stipendi fisssi
+stipendi fissi vengno danneggiati
+
+marco diventa quasi carta straccia
+
+1 dollaro: centinaia di migliaia di marchi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDA2NzgzMF19
+eyJoaXN0b3J5IjpbMjEwNDg2OTcyNV19
 -->
