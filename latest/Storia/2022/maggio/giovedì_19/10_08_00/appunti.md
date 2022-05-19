@@ -54,6 +54,11 @@ necessaria riconversioe
 Dopo prima guerra mondiale ultima cosa che vogliono GB e FR è un'altra guerra
 
 appeasement, politica di pace
+
+c'è un limite: Varsavia, la polonia
+
+
+marzo 39, la germania chiede alla polonia la città di Danzica (libera ma con governo filopolacco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzg3MjgzMV19
+eyJoaXN0b3J5IjpbMjA5NzM3Njc3OF19
 -->
