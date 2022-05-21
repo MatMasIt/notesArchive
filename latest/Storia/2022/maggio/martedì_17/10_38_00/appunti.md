@@ -37,7 +37,7 @@ Proposte Sociali (un po' socialisteggianti)
 
 Proposte militari:
 * nazionalizzare fabbriche espolisivi per evitare profitti eccessivi
-15:17 audio A
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzNzQ4MDE4LC0yMzg3MTI3MjRdfQ==
+eyJoaXN0b3J5IjpbMTM2NTM5OTkwNSw1NjM3NDgwMTgsLTIzOD
+cxMjcyNF19
 -->
