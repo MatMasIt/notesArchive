@@ -47,8 +47,18 @@ assetto modificato per intercettare consenso classe dirigente\
 
 movimento nasce a milano
 
-grande successo in ambito rurake
+grande successo in ambito rurale
+
+
+occupazione fabbriche e terre 1920
+
+
+
+primo episodio
+
+p.215
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTUxNzM5MiwxNjc1NjU1MzczLC0xMD
-k3Mzg0Mjk1LDU2Mzc0ODAxOCwtMjM4NzEyNzI0XX0=
+eyJoaXN0b3J5IjpbMTg4OTMyNjc3MSwtMzIxNTE3MzkyLDE2Nz
+U2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3MTI3
+MjRdfQ==
 -->
