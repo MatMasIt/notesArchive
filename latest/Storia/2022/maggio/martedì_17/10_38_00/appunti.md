@@ -79,9 +79,13 @@ p 216
 
 forze dell'ordine accondiscendenti
 
-ceti medi, rivalsa
+ceti medi, rivalsa sui ceti più bassi
+
+altre forze e chiesa cattolica consolidano
+
+giolitti 1920
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjEwODE5MywtMzIxNTE3MzkyLDE2Nz
-U2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3MTI3
-MjRdfQ==
+eyJoaXN0b3J5IjpbMzIwMTQ1MzA1LC0zMjE1MTczOTIsMTY3NT
+Y1NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgwMTgsLTIzODcxMjcy
+NF19
 -->
