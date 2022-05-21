@@ -74,8 +74,10 @@ grande campagna di violenza ed aggressione nelle campagne
 violenza centro sud italia contro contadini socialisteggianti 
 
 agrari felici che ci sia un freno al movimento socialista
+
+p 216
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Mjc4ODA5NSwtMzIxNTE3MzkyLDE2Nz
-U2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3MTI3
-MjRdfQ==
+eyJoaXN0b3J5IjpbOTI1MjMwMDMyLC0zMjE1MTczOTIsMTY3NT
+Y1NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgwMTgsLTIzODcxMjcy
+NF19
 -->
