@@ -37,8 +37,13 @@ Proposte Sociali (un po' socialisteggianti)
 
 Proposte militari:
 * nazionalizzare fabbriche espolisivi per evitare profitti eccessivi
-* 
+* espropriazione parziale di tutte le ricchezze (socialista)
+* sequestro tutti i beni delle congregazioni religiose
+
+movimento abbastanza rivoluzionario, che chiede cambiamento, non è molto interessante per i conservatori
+
+assetto modificato per intercettare consenso classe dirigente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTczODQyOTUsNTYzNzQ4MDE4LC0yMz
-g3MTI3MjRdfQ==
+eyJoaXN0b3J5IjpbMTY3NTY1NTM3MywtMTA5NzM4NDI5NSw1Nj
+M3NDgwMTgsLTIzODcxMjcyNF19
 -->
