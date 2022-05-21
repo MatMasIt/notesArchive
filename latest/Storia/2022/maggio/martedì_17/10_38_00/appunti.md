@@ -76,8 +76,12 @@ violenza centro sud italia contro contadini socialisteggianti
 agrari felici che ci sia un freno al movimento socialista
 
 p 216
+
+forze dell'ordine accondiscendenti
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1MjMwMDMyLC0zMjE1MTczOTIsMTY3NT
-Y1NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgwMTgsLTIzODcxMjcy
-NF19
+eyJoaXN0b3J5IjpbLTIwMzExMDI5MTUsLTMyMTUxNzM5MiwxNj
+c1NjU1MzczLC0xMDk3Mzg0Mjk1LDU2Mzc0ODAxOCwtMjM4NzEy
+NzI0XX0=
 -->
