@@ -70,8 +70,12 @@ scontri per tentativo di irruzione in una cerimonia
 uccisi tre persone nella cosa, anche 3 esponenti dei fasci
 
 grande campagna di violenza ed aggressione nelle campagne
+
+violenza centro sud italia contro contadini socialisteggianti 
+
+agrari felici che ci sia un freno al movimento socialista
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTk3ODYwMDQsLTMyMTUxNzM5MiwxNj
-c1NjU1MzczLC0xMDk3Mzg0Mjk1LDU2Mzc0ODAxOCwtMjM4NzEy
-NzI0XX0=
+eyJoaXN0b3J5IjpbLTM5Mjc4ODA5NSwtMzIxNTE3MzkyLDE2Nz
+U2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3MTI3
+MjRdfQ==
 -->
