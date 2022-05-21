@@ -42,8 +42,13 @@ Proposte militari:
 
 movimento abbastanza rivoluzionario, che chiede cambiamento, non è molto interessante per i conservatori
 
-assetto modificato per intercettare consenso classe dirigente
+assetto modificato per intercettare consenso classe dirigente\
+
+
+movimento nasce a milano
+
+grande successo in ambito rurake
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTY1NTM3MywtMTA5NzM4NDI5NSw1Nj
-M3NDgwMTgsLTIzODcxMjcyNF19
+eyJoaXN0b3J5IjpbLTMyMTUxNzM5MiwxNjc1NjU1MzczLC0xMD
+k3Mzg0Mjk1LDU2Mzc0ODAxOCwtMjM4NzEyNzI0XX0=
 -->
