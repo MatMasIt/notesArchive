@@ -57,8 +57,21 @@ occupazione fabbriche e terre 1920
 primo episodio
 
 p.215
+
+gampagne emilia
+
+
+novembre 1920, nuova giunta comunale sicialista comune di bologna
+
+Palazzo d'acursio
+
+scontri per tentativo di irruzione in una cerimonia
+
+uccisi tre persone nella cosa, anche 3 esponenti dei fasci
+
+grande campagna di violenza ed aggressione nelle campagne
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTMyNjc3MSwtMzIxNTE3MzkyLDE2Nz
-U2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3MTI3
-MjRdfQ==
+eyJoaXN0b3J5IjpbLTE4MTk3ODYwMDQsLTMyMTUxNzM5MiwxNj
+c1NjU1MzczLC0xMDk3Mzg0Mjk1LDU2Mzc0ODAxOCwtMjM4NzEy
+NzI0XX0=
 -->
