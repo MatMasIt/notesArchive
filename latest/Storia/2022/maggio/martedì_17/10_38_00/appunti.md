@@ -146,9 +146,12 @@ decisione in contrasto con vertici psi
 appello non accolto dai liberali
 
 anche vaticano contrario
+
+socialisti pericolo per l'ordine costuito
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Mjc1OTM3MSw2NTAzMTAzMDYsODIxND
-Y3NDg0LC0xNTM1Mzg3ODkzLC0xNzcwNjI3ODYwLC0xMTYzODEz
-ODcyLDMyMDE0NTMwNSwtMzIxNTE3MzkyLDE2NzU2NTUzNzMsLT
-EwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3MTI3MjRdfQ==
+eyJoaXN0b3J5IjpbLTE3NDI3Nzk2NTksLTY5Mjc1OTM3MSw2NT
+AzMTAzMDYsODIxNDY3NDg0LC0xNTM1Mzg3ODkzLC0xNzcwNjI3
+ODYwLC0xMTYzODEzODcyLDMyMDE0NTMwNSwtMzIxNTE3MzkyLD
+E2NzU2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3
+MTI3MjRdfQ==
 -->
