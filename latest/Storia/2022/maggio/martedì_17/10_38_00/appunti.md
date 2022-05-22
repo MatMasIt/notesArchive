@@ -237,9 +237,9 @@ p 219
 
 * atteggiamento verso la classe dirigente industriale, fascismo liberista, margine di movimento degli industriali
 	* smantellamento apprato statale costituito durante la guerra
-	* abolizione nominatività dei titoli azionari (introdotta da Giolitti nel 1920, disinnescare la bomba delle occupazioni delle fab
+	* abolizione nominatività dei titoli azionari (introdotta da Giolitti nel 1920, disinnescare la bomba delle occupazioni delle fabbriche) [Al tempo le quote azionarie non dovevano avere un nome e non dovevano essere legate ad una persona fisica]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQxMjQ4MzYsMTE4MDExNDg2MiwxMz
+eyJoaXN0b3J5IjpbLTE2MDEyMzc1MTgsMTE4MDExNDg2MiwxMz
 ExMzQ2MzIxLC02OTI3NTkzNzEsNjUwMzEwMzA2LDgyMTQ2NzQ4
 NCwtMTUzNTM4Nzg5MywtMTc3MDYyNzg2MCwtMTE2MzgxMzg3Mi
 wzMjAxNDUzMDUsLTMyMTUxNzM5MiwxNjc1NjU1MzczLC0xMDk3
