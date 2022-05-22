@@ -240,10 +240,12 @@ p 219
 	* abolizione nominatività dei titoli azionari (introdotta da Giolitti nel 1920, disinnescare la bomba delle occupazioni delle fabbriche) [Al tempo le quote azionarie non dovevano avere un nome e non dovevano essere legate ad una persona fisica, non si pagavano tasse sui grandi pacchetti azionari], Giolitti aveva stabilito tassazione delle azioni | fascismo favorisce i ricchi | poltica filoindustriale
 * ottenere consenso del vaticano
 	* rimuovere minaccia bolscevica
+* Gran consiglio del fascismo diventa struttura 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjA4MjQ5NCwxMTgwMTE0ODYyLDEzMT
-EzNDYzMjEsLTY5Mjc1OTM3MSw2NTAzMTAzMDYsODIxNDY3NDg0
-LC0xNTM1Mzg3ODkzLC0xNzcwNjI3ODYwLC0xMTYzODEzODcyLD
-MyMDE0NTMwNSwtMzIxNTE3MzkyLDE2NzU2NTUzNzMsLTEwOTcz
-ODQyOTUsNTYzNzQ4MDE4LC0yMzg3MTI3MjRdfQ==
+eyJoaXN0b3J5IjpbMTIyNjY3NzY1MCwtNDY2MDgyNDk0LDExOD
+AxMTQ4NjIsMTMxMTM0NjMyMSwtNjkyNzU5MzcxLDY1MDMxMDMw
+Niw4MjE0Njc0ODQsLTE1MzUzODc4OTMsLTE3NzA2Mjc4NjAsLT
+ExNjM4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1MTczOTIsMTY3NTY1
+NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgwMTgsLTIzODcxMjcyNF
+19
 -->
