@@ -409,6 +409,10 @@ prodotti esteri giungono in misura minore, non tutti potevano permetterseli
 
 italia povera di materie prime
 
+politica dl 26: autarchia
+
+volontàà dell'italia soprattutto sul grano di ottenere solo grado italia
+
 
 
 
@@ -828,7 +832,7 @@ italia povera di materie prime
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQ5OTE0MTYsLTIwMTE3NjczOTMsLT
+eyJoaXN0b3J5IjpbLTE1MDU5NTgyMzQsLTIwMTE3NjczOTMsLT
 UzMTMwMjE2NCwxMTI5MjI0NzE2LDE3NDE1NzU0ODMsLTExMDMz
 MzQ1NzMsMzk4OTQyODQsNjU5OTg2ODY2LC04MTg2OTEzMTQsMj
 Q4MzM0MTg3LC02MzU4Njc4Nyw2NDYxMTA1MDMsMTY3NjE2Mzg1
