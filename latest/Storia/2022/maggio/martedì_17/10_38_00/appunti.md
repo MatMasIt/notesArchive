@@ -185,8 +185,16 @@ mussolini è convinto che esercito non sparerà ai fascisti  che il vaticano sia
 circa 25'000 - 30'000 uomini armati alla bell'e meglio
 
 luigi facta chiede al sovrano di firmare lo stato d'assedio
+
+Vittorio emanuele III sembra disponibile ma alla fine non lo firma, l'esercito non viene schierato contro i fascisti che entrano nella città e si accampano nei ruoli pi portanti
+
+presenza inquietante
+
+
+perchè Vittorio Emanuele III non firma la dichiarazione?
+Non ci sarebbe stata molta difficoltà a eliminare i fasc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODc2OTA3OSwtNjkyNzU5MzcxLDY1MD
+eyJoaXN0b3J5IjpbLTg5NzI1MDcxNCwtNjkyNzU5MzcxLDY1MD
 MxMDMwNiw4MjE0Njc0ODQsLTE1MzUzODc4OTMsLTE3NzA2Mjc4
 NjAsLTExNjM4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1MTczOTIsMT
 Y3NTY1NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgwMTgsLTIzODcx
