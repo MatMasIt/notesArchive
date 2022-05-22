@@ -274,11 +274,18 @@ generica protesta morale
 3 gennaio 1925, in celeberrimo discorso alla camera, si assume pienamente la responsabilità del delitto matteotti
 
 p222, p226
+
+
+---
+
+Politica estera del fascismo
+
+avvicinameto tra mussolini e hitler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2MTEwNTAzLDE2NzYxNjM4NTAsLTQ2Nj
-A4MjQ5NCwxMTgwMTE0ODYyLDEzMTEzNDYzMjEsLTY5Mjc1OTM3
-MSw2NTAzMTAzMDYsODIxNDY3NDg0LC0xNTM1Mzg3ODkzLC0xNz
-cwNjI3ODYwLC0xMTYzODEzODcyLDMyMDE0NTMwNSwtMzIxNTE3
-MzkyLDE2NzU2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC
-0yMzg3MTI3MjRdfQ==
+eyJoaXN0b3J5IjpbMTY0ODg3NzI1Niw2NDYxMTA1MDMsMTY3Nj
+E2Mzg1MCwtNDY2MDgyNDk0LDExODAxMTQ4NjIsMTMxMTM0NjMy
+MSwtNjkyNzU5MzcxLDY1MDMxMDMwNiw4MjE0Njc0ODQsLTE1Mz
+UzODc4OTMsLTE3NzA2Mjc4NjAsLTExNjM4MTM4NzIsMzIwMTQ1
+MzA1LC0zMjE1MTczOTIsMTY3NTY1NTM3MywtMTA5NzM4NDI5NS
+w1NjM3NDgwMTgsLTIzODcxMjcyNF19
 -->
