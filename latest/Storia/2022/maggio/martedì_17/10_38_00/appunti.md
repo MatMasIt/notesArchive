@@ -91,10 +91,14 @@ Liberali e fascisti
 
 abticipare le elezioni e costituire i "blocchi nazionali"
 
-liste un cui verrebberi ubserutu sua
+liste un cui verrebbero inseriti sia liberali che fascisti
+
+giolitti capisce che la violenza squadrista non  è accettabile
+
+si vuole cost
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE1OTI1NzgsLTE1MzUzODc4OTMsLT
-E3NzA2Mjc4NjAsLTExNjM4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1
-MTczOTIsMTY3NTY1NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgwMT
-gsLTIzODcxMjcyNF19
+eyJoaXN0b3J5IjpbMTEyMzI0NzA0NSwtMTUzNTM4Nzg5MywtMT
+c3MDYyNzg2MCwtMTE2MzgxMzg3MiwzMjAxNDUzMDUsLTMyMTUx
+NzM5MiwxNjc1NjU1MzczLC0xMDk3Mzg0Mjk1LDU2Mzc0ODAxOC
+wtMjM4NzEyNzI0XX0=
 -->
