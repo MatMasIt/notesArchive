@@ -143,10 +143,11 @@ nel luglio 1922 diversi deputati socialisti (durante il governo facta) propongon
 decisione in contrasto con vertici psi
 
 
+appello non accolto dai liberali
 
-
+anche vaticano contrario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTQ3NzgxNyw2NTAzMTAzMDYsODIxND
+eyJoaXN0b3J5IjpbLTY5Mjc1OTM3MSw2NTAzMTAzMDYsODIxND
 Y3NDg0LC0xNTM1Mzg3ODkzLC0xNzcwNjI3ODYwLC0xMTYzODEz
 ODcyLDMyMDE0NTMwNSwtMzIxNTE3MzkyLDE2NzU2NTUzNzMsLT
 EwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3MTI3MjRdfQ==
