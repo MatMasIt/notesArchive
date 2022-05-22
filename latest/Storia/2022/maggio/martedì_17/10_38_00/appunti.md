@@ -411,8 +411,13 @@ italia povera di materie prime
 
 politica dl 26: autarchia
 
-volontàà dell'italia soprattutto sul grano di ottenere solo grado italia
+volontàà dell'italia soprattutto sul grano di ottenere solo grado italiano
 
+battaglia del grano [molto mediatica]
+
+buoni risultati, si aumenta la produzione di grano, agro pontino dove sorge Latina, fondata dal fascismo [che si chiamava Littoria] venne bonificato
+
+Il grano costavacomunque di più
 
 
 
@@ -832,11 +837,11 @@ volontàà dell'italia soprattutto sul grano di ottenere solo grado italia
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDU5NTgyMzQsLTIwMTE3NjczOTMsLT
-UzMTMwMjE2NCwxMTI5MjI0NzE2LDE3NDE1NzU0ODMsLTExMDMz
-MzQ1NzMsMzk4OTQyODQsNjU5OTg2ODY2LC04MTg2OTEzMTQsMj
-Q4MzM0MTg3LC02MzU4Njc4Nyw2NDYxMTA1MDMsMTY3NjE2Mzg1
-MCwtNDY2MDgyNDk0LDExODAxMTQ4NjIsMTMxMTM0NjMyMSwtNj
-kyNzU5MzcxLDY1MDMxMDMwNiw4MjE0Njc0ODQsLTE1MzUzODc4
-OTNdfQ==
+eyJoaXN0b3J5IjpbMzU1NTAxODg0LC0yMDExNzY3MzkzLC01Mz
+EzMDIxNjQsMTEyOTIyNDcxNiwxNzQxNTc1NDgzLC0xMTAzMzM0
+NTczLDM5ODk0Mjg0LDY1OTk4Njg2NiwtODE4NjkxMzE0LDI0OD
+MzNDE4NywtNjM1ODY3ODcsNjQ2MTEwNTAzLDE2NzYxNjM4NTAs
+LTQ2NjA4MjQ5NCwxMTgwMTE0ODYyLDEzMTEzNDYzMjEsLTY5Mj
+c1OTM3MSw2NTAzMTAzMDYsODIxNDY3NDg0LC0xNTM1Mzg3ODkz
+XX0=
 -->
