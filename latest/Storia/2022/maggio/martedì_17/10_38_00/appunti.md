@@ -267,8 +267,11 @@ apertamente in contrasto con il governo
 
 si temeva un'altra fase estremamente complicata e confusa come il governo bonomi
 
+si poteva fare una secessione dell'aventino, lasciare i fascisti nella loro camera [opposizione poteva farlo]
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjAwNjczMiwxNjc2MTYzODUwLC00Nj
+eyJoaXN0b3J5IjpbMTk1MDA1Njk1NCwxNjc2MTYzODUwLC00Nj
 YwODI0OTQsMTE4MDExNDg2MiwxMzExMzQ2MzIxLC02OTI3NTkz
 NzEsNjUwMzEwMzA2LDgyMTQ2NzQ4NCwtMTUzNTM4Nzg5MywtMT
 c3MDYyNzg2MCwtMTE2MzgxMzg3MiwzMjAxNDUzMDUsLTMyMTUx
