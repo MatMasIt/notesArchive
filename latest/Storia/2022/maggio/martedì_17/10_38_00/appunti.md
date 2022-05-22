@@ -240,12 +240,14 @@ p 219
 	* abolizione nominatività dei titoli azionari (introdotta da Giolitti nel 1920, disinnescare la bomba delle occupazioni delle fabbriche) [Al tempo le quote azionarie non dovevano avere un nome e non dovevano essere legate ad una persona fisica, non si pagavano tasse sui grandi pacchetti azionari], Giolitti aveva stabilito tassazione delle azioni | fascismo favorisce i ricchi | poltica filoindustriale
 * ottenere consenso del vaticano
 	* rimuovere minaccia bolscevica
-* Gran consiglio del fascismo diventa struttura 
+* Riforma scuola gentile 1926
+* Gran consiglio del fascismo diventa struttura costituzionale dello stato da organismo interno del pnf
+* Milizia volontaria per la sicurezza nazionale, trasformare milizia di partito in una polizia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjY3NzY1MCwtNDY2MDgyNDk0LDExOD
-AxMTQ4NjIsMTMxMTM0NjMyMSwtNjkyNzU5MzcxLDY1MDMxMDMw
-Niw4MjE0Njc0ODQsLTE1MzUzODc4OTMsLTE3NzA2Mjc4NjAsLT
-ExNjM4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1MTczOTIsMTY3NTY1
-NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgwMTgsLTIzODcxMjcyNF
-19
+eyJoaXN0b3J5IjpbNjkxODUxMTI4LC00NjYwODI0OTQsMTE4MD
+ExNDg2MiwxMzExMzQ2MzIxLC02OTI3NTkzNzEsNjUwMzEwMzA2
+LDgyMTQ2NzQ4NCwtMTUzNTM4Nzg5MywtMTc3MDYyNzg2MCwtMT
+E2MzgxMzg3MiwzMjAxNDUzMDUsLTMyMTUxNzM5MiwxNjc1NjU1
+MzczLC0xMDk3Mzg0Mjk1LDU2Mzc0ODAxOCwtMjM4NzEyNzI0XX
+0=
 -->
