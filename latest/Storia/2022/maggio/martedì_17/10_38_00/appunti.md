@@ -117,9 +117,19 @@ inoltre
 
 movimento un po' troppo ribellistico
 
+avvicinamento fra classe dirigente e fascismo
 
+squadrismo dilagante continua
+
+insuccesso di bonomi nella stabilizzazione del paese
+
+bonomi si dimette
+
+nel febbraio del 1922 subentra luigi facta, collaboratore di giolitti 
+
+si capisce che situazione italiana è estremamente caotica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODQ2MDgwMiw2NTAzMTAzMDYsODIxND
+eyJoaXN0b3J5IjpbMTE0Njg2MDAyOCw2NTAzMTAzMDYsODIxND
 Y3NDg0LC0xNTM1Mzg3ODkzLC0xNzcwNjI3ODYwLC0xMTYzODEz
 ODcyLDMyMDE0NTMwNSwtMzIxNTE3MzkyLDE2NzU2NTUzNzMsLT
 EwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3MTI3MjRdfQ==
