@@ -204,8 +204,14 @@ la prima è stata di volere la prima guerra mondiale, la seconda è questa
 avere consentito al fascismo di prendere il potere
 
 facta si dimette
+
+terza grossa responsabilità sarà poi firmare leggi razziali del 1938
+
+gravissima iniominia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc1NDExMzAsLTY5Mjc1OTM3MSw2NT
+eyJoaXN0b3J5IjpbLTEwNTExMzYwNTksLTY5Mjc1OTM3MSw2NT
 AzMTAzMDYsODIxNDY3NDg0LC0xNTM1Mzg3ODkzLC0xNzcwNjI3
 ODYwLC0xMTYzODEzODcyLDMyMDE0NTMwNSwtMzIxNTE3MzkyLD
 E2NzU2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3
