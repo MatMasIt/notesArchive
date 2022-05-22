@@ -243,11 +243,12 @@ p 219
 * Riforma scuola gentile 1926
 * Gran consiglio del fascismo diventa struttura costituzionale dello stato da organismo interno del pnf
 * Milizia volontaria per la sicurezza nazionale, trasformare milizia di partito in una polizia
+* legge elettorale, leggge Acerbo; se una forza politica avesse ottenuto il 40% dei voti (con collegi maggioritari), avrebbe ottenuto 2/3 deu seggu akkkka canera
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxODUxMTI4LC00NjYwODI0OTQsMTE4MD
-ExNDg2MiwxMzExMzQ2MzIxLC02OTI3NTkzNzEsNjUwMzEwMzA2
-LDgyMTQ2NzQ4NCwtMTUzNTM4Nzg5MywtMTc3MDYyNzg2MCwtMT
-E2MzgxMzg3MiwzMjAxNDUzMDUsLTMyMTUxNzM5MiwxNjc1NjU1
-MzczLC0xMDk3Mzg0Mjk1LDU2Mzc0ODAxOCwtMjM4NzEyNzI0XX
-0=
+eyJoaXN0b3J5IjpbMjA3MjQ1NTgyOCwtNDY2MDgyNDk0LDExOD
+AxMTQ4NjIsMTMxMTM0NjMyMSwtNjkyNzU5MzcxLDY1MDMxMDMw
+Niw4MjE0Njc0ODQsLTE1MzUzODc4OTMsLTE3NzA2Mjc4NjAsLT
+ExNjM4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1MTczOTIsMTY3NTY1
+NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgwMTgsLTIzODcxMjcyNF
+19
 -->
