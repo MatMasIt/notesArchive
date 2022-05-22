@@ -235,11 +235,13 @@ p 219
 
 4 passaggi +1 a p 220
 
-* atteggiamento verso la classe dirigente industriale, fascismo liberista, margine di movimento degli in
+* atteggiamento verso la classe dirigente industriale, fascismo liberista, margine di movimento degli industriali
+	* smantellamento apprato statale costituito durante la guerra
+	* abolizione nominatività dei titoli azionari (introdotta da Giolitti nel 1920, disinnescare la bomba delle occupazioni delle fab
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODYwNzg4NSwxMTgwMTE0ODYyLDEzMT
-EzNDYzMjEsLTY5Mjc1OTM3MSw2NTAzMTAzMDYsODIxNDY3NDg0
-LC0xNTM1Mzg3ODkzLC0xNzcwNjI3ODYwLC0xMTYzODEzODcyLD
-MyMDE0NTMwNSwtMzIxNTE3MzkyLDE2NzU2NTUzNzMsLTEwOTcz
-ODQyOTUsNTYzNzQ4MDE4LC0yMzg3MTI3MjRdfQ==
+eyJoaXN0b3J5IjpbLTE0MTQxMjQ4MzYsMTE4MDExNDg2MiwxMz
+ExMzQ2MzIxLC02OTI3NTkzNzEsNjUwMzEwMzA2LDgyMTQ2NzQ4
+NCwtMTUzNTM4Nzg5MywtMTc3MDYyNzg2MCwtMTE2MzgxMzg3Mi
+wzMjAxNDUzMDUsLTMyMTUxNzM5MiwxNjc1NjU1MzczLC0xMDk3
+Mzg0Mjk1LDU2Mzc0ODAxOCwtMjM4NzEyNzI0XX0=
 -->
