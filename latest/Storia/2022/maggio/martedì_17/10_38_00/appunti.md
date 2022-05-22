@@ -98,9 +98,19 @@ giolitti capisce che la violenza squadrista non  è accettabile
 si vuole costituzionalizzare il fascismo per eliminare la sua tendenza alla violenza
 
 operazione non conduce ai risultati sperati
+
+lieve flessione dei socialisti
+
+PPI cresce
+
+35 deputati fascisti, tra cui benito mussolini
+
+
+giolitti nel luglio 1921 cede il posto ad ivanoe bonomi
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDM2MDc2LC0xNTM1Mzg3ODkzLC0xNz
-cwNjI3ODYwLC0xMTYzODEzODcyLDMyMDE0NTMwNSwtMzIxNTE3
-MzkyLDE2NzU2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC
-0yMzg3MTI3MjRdfQ==
+eyJoaXN0b3J5IjpbLTM0OTg2NDI3NCwtMTUzNTM4Nzg5MywtMT
+c3MDYyNzg2MCwtMTE2MzgxMzg3MiwzMjAxNDUzMDUsLTMyMTUx
+NzM5MiwxNjc1NjU1MzczLC0xMDk3Mzg0Mjk1LDU2Mzc0ODAxOC
+wtMjM4NzEyNzI0XX0=
 -->
