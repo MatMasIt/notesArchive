@@ -309,7 +309,13 @@ avvicinameto tra mussolini e hitler
 					* 	notaio
 					* giornalista (p.246)
 					* alunni ebrei devono essere espulsi dalle scuole pubbliche
-					* 
+
+
+
+
+---
+
+Propaganda fascista
 
 
 
@@ -746,7 +752,7 @@ avvicinameto tra mussolini e hitler
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDIzNzc0MSwtMTEwMzMzNDU3MywzOT
+eyJoaXN0b3J5IjpbMTc0MTU3NTQ4MywtMTEwMzMzNDU3MywzOT
 g5NDI4NCw2NTk5ODY4NjYsLTgxODY5MTMxNCwyNDgzMzQxODcs
 LTYzNTg2Nzg3LDY0NjExMDUwMywxNjc2MTYzODUwLC00NjYwOD
 I0OTQsMTE4MDExNDg2MiwxMzExMzQ2MzIxLC02OTI3NTkzNzEs
