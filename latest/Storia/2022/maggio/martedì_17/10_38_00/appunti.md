@@ -307,7 +307,8 @@ avvicinameto tra mussolini e hitler
 				* divieto di avere domestici di razza ariana
 				* interdizione dallo svolgimento delle professioni di 
 					* 	notaio
-					* giornalista
+					* giornalista (p.246)
+					* alunni ebrei devono essere espulsi dalle scuole pubbliche
 
 
 
@@ -744,11 +745,11 @@ avvicinameto tra mussolini e hitler
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjkzMzc1MCwzOTg5NDI4NCw2NTk5OD
-Y4NjYsLTgxODY5MTMxNCwyNDgzMzQxODcsLTYzNTg2Nzg3LDY0
-NjExMDUwMywxNjc2MTYzODUwLC00NjYwODI0OTQsMTE4MDExND
-g2MiwxMzExMzQ2MzIxLC02OTI3NTkzNzEsNjUwMzEwMzA2LDgy
-MTQ2NzQ4NCwtMTUzNTM4Nzg5MywtMTc3MDYyNzg2MCwtMTE2Mz
-gxMzg3MiwzMjAxNDUzMDUsLTMyMTUxNzM5MiwxNjc1NjU1Mzcz
-XX0=
+eyJoaXN0b3J5IjpbLTExMDMzMzQ1NzMsMzk4OTQyODQsNjU5OT
+g2ODY2LC04MTg2OTEzMTQsMjQ4MzM0MTg3LC02MzU4Njc4Nyw2
+NDYxMTA1MDMsMTY3NjE2Mzg1MCwtNDY2MDgyNDk0LDExODAxMT
+Q4NjIsMTMxMTM0NjMyMSwtNjkyNzU5MzcxLDY1MDMxMDMwNiw4
+MjE0Njc0ODQsLTE1MzUzODc4OTMsLTE3NzA2Mjc4NjAsLTExNj
+M4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1MTczOTIsMTY3NTY1NTM3
+M119
 -->
