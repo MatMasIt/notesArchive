@@ -269,12 +269,12 @@ si temeva un'altra fase estremamente complicata e confusa come il governo bonomi
 
 si poteva fare una secessione dell'aventino, lasciare i fascisti nella loro camera [opposizione poteva farlo]
 
-
+generica protesta molare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDA1Njk1NCwxNjc2MTYzODUwLC00Nj
-YwODI0OTQsMTE4MDExNDg2MiwxMzExMzQ2MzIxLC02OTI3NTkz
-NzEsNjUwMzEwMzA2LDgyMTQ2NzQ4NCwtMTUzNTM4Nzg5MywtMT
-c3MDYyNzg2MCwtMTE2MzgxMzg3MiwzMjAxNDUzMDUsLTMyMTUx
-NzM5MiwxNjc1NjU1MzczLC0xMDk3Mzg0Mjk1LDU2Mzc0ODAxOC
-wtMjM4NzEyNzI0XX0=
+eyJoaXN0b3J5IjpbNzI1MjI0MDcyLDE2NzYxNjM4NTAsLTQ2Nj
+A4MjQ5NCwxMTgwMTE0ODYyLDEzMTEzNDYzMjEsLTY5Mjc1OTM3
+MSw2NTAzMTAzMDYsODIxNDY3NDg0LC0xNTM1Mzg3ODkzLC0xNz
+cwNjI3ODYwLC0xMTYzODEzODcyLDMyMDE0NTMwNSwtMzIxNTE3
+MzkyLDE2NzU2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC
+0yMzg3MTI3MjRdfQ==
 -->
