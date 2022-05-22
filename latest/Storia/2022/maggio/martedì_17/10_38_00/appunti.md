@@ -85,9 +85,9 @@ altre forze e chiesa cattolica consolidano
 
 giolitti 1920
 
-
+pensa che ci possa essere a possibilità di riconquistare la maggioranza assoluta parlamentare che i liberali avevano perso nel 1919
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Nzg2MjkwMSwzMjAxNDUzMDUsLTMyMT
-UxNzM5MiwxNjc1NjU1MzczLC0xMDk3Mzg0Mjk1LDU2Mzc0ODAx
-OCwtMjM4NzEyNzI0XX0=
+eyJoaXN0b3J5IjpbLTExNjM4MTM4NzIsMzIwMTQ1MzA1LC0zMj
+E1MTczOTIsMTY3NTY1NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgw
+MTgsLTIzODcxMjcyNF19
 -->
