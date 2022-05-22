@@ -309,6 +309,7 @@ avvicinameto tra mussolini e hitler
 					* 	notaio
 					* giornalista (p.246)
 					* alunni ebrei devono essere espulsi dalle scuole pubbliche
+					* 
 
 
 
@@ -745,11 +746,11 @@ avvicinameto tra mussolini e hitler
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDMzMzQ1NzMsMzk4OTQyODQsNjU5OT
-g2ODY2LC04MTg2OTEzMTQsMjQ4MzM0MTg3LC02MzU4Njc4Nyw2
-NDYxMTA1MDMsMTY3NjE2Mzg1MCwtNDY2MDgyNDk0LDExODAxMT
-Q4NjIsMTMxMTM0NjMyMSwtNjkyNzU5MzcxLDY1MDMxMDMwNiw4
-MjE0Njc0ODQsLTE1MzUzODc4OTMsLTE3NzA2Mjc4NjAsLTExNj
-M4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1MTczOTIsMTY3NTY1NTM3
-M119
+eyJoaXN0b3J5IjpbLTYyNDIzNzc0MSwtMTEwMzMzNDU3MywzOT
+g5NDI4NCw2NTk5ODY4NjYsLTgxODY5MTMxNCwyNDgzMzQxODcs
+LTYzNTg2Nzg3LDY0NjExMDUwMywxNjc2MTYzODUwLC00NjYwOD
+I0OTQsMTE4MDExNDg2MiwxMzExMzQ2MzIxLC02OTI3NTkzNzEs
+NjUwMzEwMzA2LDgyMTQ2NzQ4NCwtMTUzNTM4Nzg5MywtMTc3MD
+YyNzg2MCwtMTE2MzgxMzg3MiwzMjAxNDUzMDUsLTMyMTUxNzM5
+Ml19
 -->
