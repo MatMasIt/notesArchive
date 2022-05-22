@@ -405,6 +405,10 @@ in 1 anno quota 90 viene raggiunta
 
 costo da pagare:
 
+prodotti esteri giungono in misura minore, non tutti potevano permetterseli
+
+italia povera di materie prime
+
 
 
 
@@ -824,11 +828,11 @@ costo da pagare:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDQ3Njk3MywtMjAxMTc2NzM5MywtNT
-MxMzAyMTY0LDExMjkyMjQ3MTYsMTc0MTU3NTQ4MywtMTEwMzMz
-NDU3MywzOTg5NDI4NCw2NTk5ODY4NjYsLTgxODY5MTMxNCwyND
-gzMzQxODcsLTYzNTg2Nzg3LDY0NjExMDUwMywxNjc2MTYzODUw
-LC00NjYwODI0OTQsMTE4MDExNDg2MiwxMzExMzQ2MzIxLC02OT
-I3NTkzNzEsNjUwMzEwMzA2LDgyMTQ2NzQ4NCwtMTUzNTM4Nzg5
-M119
+eyJoaXN0b3J5IjpbLTExNDQ5OTE0MTYsLTIwMTE3NjczOTMsLT
+UzMTMwMjE2NCwxMTI5MjI0NzE2LDE3NDE1NzU0ODMsLTExMDMz
+MzQ1NzMsMzk4OTQyODQsNjU5OTg2ODY2LC04MTg2OTEzMTQsMj
+Q4MzM0MTg3LC02MzU4Njc4Nyw2NDYxMTA1MDMsMTY3NjE2Mzg1
+MCwtNDY2MDgyNDk0LDExODAxMTQ4NjIsMTMxMTM0NjMyMSwtNj
+kyNzU5MzcxLDY1MDMxMDMwNiw4MjE0Njc0ODQsLTE1MzUzODc4
+OTNdfQ==
 -->
