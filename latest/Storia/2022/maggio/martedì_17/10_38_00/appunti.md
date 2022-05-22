@@ -287,6 +287,8 @@ avvicinameto tra mussolini e hitler
 	* rapporto con Gran bretagna, si vuole mettere un tappo al comunismo
 	* accordi di locarno 1925
 	* Accordi di Stresa, 1935 [volontà di hitler di mettere in dicsussione equilibri che la germania non vuole più accettare
+	* condanna riarmo tedesco per i principi di Versaillles
+	* nel 1934 la germania tenta un colpo di mano in austria, dove i nazisti locali uccidono il canceliere
 
 
 
@@ -729,11 +731,11 @@ avvicinameto tra mussolini e hitler
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3NTE4MjQ4LDI0ODMzNDE4NywtNjM1OD
-Y3ODcsNjQ2MTEwNTAzLDE2NzYxNjM4NTAsLTQ2NjA4MjQ5NCwx
-MTgwMTE0ODYyLDEzMTEzNDYzMjEsLTY5Mjc1OTM3MSw2NTAzMT
-AzMDYsODIxNDY3NDg0LC0xNTM1Mzg3ODkzLC0xNzcwNjI3ODYw
-LC0xMTYzODEzODcyLDMyMDE0NTMwNSwtMzIxNTE3MzkyLDE2Nz
-U2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3MTI3
-MjRdfQ==
+eyJoaXN0b3J5IjpbLTgxODY5MTMxNCwyNDgzMzQxODcsLTYzNT
+g2Nzg3LDY0NjExMDUwMywxNjc2MTYzODUwLC00NjYwODI0OTQs
+MTE4MDExNDg2MiwxMzExMzQ2MzIxLC02OTI3NTkzNzEsNjUwMz
+EwMzA2LDgyMTQ2NzQ4NCwtMTUzNTM4Nzg5MywtMTc3MDYyNzg2
+MCwtMTE2MzgxMzg3MiwzMjAxNDUzMDUsLTMyMTUxNzM5MiwxNj
+c1NjU1MzczLC0xMDk3Mzg0Mjk1LDU2Mzc0ODAxOCwtMjM4NzEy
+NzI0XX0=
 -->
