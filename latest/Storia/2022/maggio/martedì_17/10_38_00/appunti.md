@@ -253,11 +253,21 @@ matteotti denuncia lo scandalo delle violenze e dice che le elezioni vanno inval
 30mmaggio 1924
 
 Matteotti sequestrato ed ucciso
+
+cadavere scoperto solo il 16 di agosto
+
+assassinato praticamebte subito
+
+evebto clamoroso
+
+consenso del fasciso in crisi
+
+corsera e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIxMTQ4MTcsMTY3NjE2Mzg1MCwtND
-Y2MDgyNDk0LDExODAxMTQ4NjIsMTMxMTM0NjMyMSwtNjkyNzU5
-MzcxLDY1MDMxMDMwNiw4MjE0Njc0ODQsLTE1MzUzODc4OTMsLT
-E3NzA2Mjc4NjAsLTExNjM4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1
-MTczOTIsMTY3NTY1NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgwMT
-gsLTIzODcxMjcyNF19
+eyJoaXN0b3J5IjpbMTQ0MjA2NTg4NiwxNjc2MTYzODUwLC00Nj
+YwODI0OTQsMTE4MDExNDg2MiwxMzExMzQ2MzIxLC02OTI3NTkz
+NzEsNjUwMzEwMzA2LDgyMTQ2NzQ4NCwtMTUzNTM4Nzg5MywtMT
+c3MDYyNzg2MCwtMTE2MzgxMzg3MiwzMjAxNDUzMDUsLTMyMTUx
+NzM5MiwxNjc1NjU1MzczLC0xMDk3Mzg0Mjk1LDU2Mzc0ODAxOC
+wtMjM4NzEyNzI0XX0=
 -->
