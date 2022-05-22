@@ -222,9 +222,11 @@ svolta autoritaria
 
 costruzione dittatura fascista non accade in pochi mesi
 
-a hitler bastano 
+a hitler bastano 3 o 4 mesi per diventare dittatore
+
+fascisno più lento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgzNjA5MDIsLTY5Mjc1OTM3MSw2NT
+eyJoaXN0b3J5IjpbLTE5NTk4NDE3NjksLTY5Mjc1OTM3MSw2NT
 AzMTAzMDYsODIxNDY3NDg0LC0xNTM1Mzg3ODkzLC0xNzcwNjI3
 ODYwLC0xMTYzODEzODcyLDMyMDE0NTMwNSwtMzIxNTE3MzkyLD
 E2NzU2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3
