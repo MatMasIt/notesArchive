@@ -291,10 +291,7 @@ avvicinameto tra mussolini e hitler
 	* nel 1934 la germania tenta un colpo di mano in austria, dove i nazisti locali uccidono il cancelliere
 	* n1l 1935 mussolini vuole occupare l'etipioa, che fa parte della società delle nazioni, operazione che inizia nel 1936
 		* invasione completata nel 1936, dopo la conquista della capitale "L'italia ha riconquistato il suo impero" | operazione spregiudicata
-		* 
-
-
-
+		* serve uno sbocco per la manodopera italiana
 
 
 
@@ -733,11 +730,11 @@ avvicinameto tra mussolini e hitler
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4OTQyODQsNjU5OTg2ODY2LC04MTg2OT
-EzMTQsMjQ4MzM0MTg3LC02MzU4Njc4Nyw2NDYxMTA1MDMsMTY3
-NjE2Mzg1MCwtNDY2MDgyNDk0LDExODAxMTQ4NjIsMTMxMTM0Nj
-MyMSwtNjkyNzU5MzcxLDY1MDMxMDMwNiw4MjE0Njc0ODQsLTE1
-MzUzODc4OTMsLTE3NzA2Mjc4NjAsLTExNjM4MTM4NzIsMzIwMT
-Q1MzA1LC0zMjE1MTczOTIsMTY3NTY1NTM3MywtMTA5NzM4NDI5
-NV19
+eyJoaXN0b3J5IjpbLTE5Mjg5NzUwODUsMzk4OTQyODQsNjU5OT
+g2ODY2LC04MTg2OTEzMTQsMjQ4MzM0MTg3LC02MzU4Njc4Nyw2
+NDYxMTA1MDMsMTY3NjE2Mzg1MCwtNDY2MDgyNDk0LDExODAxMT
+Q4NjIsMTMxMTM0NjMyMSwtNjkyNzU5MzcxLDY1MDMxMDMwNiw4
+MjE0Njc0ODQsLTE1MzUzODc4OTMsLTE3NzA2Mjc4NjAsLTExNj
+M4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1MTczOTIsMTY3NTY1NTM3
+M119
 -->
