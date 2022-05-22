@@ -247,8 +247,14 @@ p 219
 mancanza proporzione, si spinge sulla solidità del governo
 Il pnf aveva il 64% nel'aprile 1924. Azione di intimidazione vicino ai seggi, umiiazioni e bastonate, olio di ricino
 Violenza politica p.220
+374 seggi sui 533 disponibili nella camera
+brogli
+matteotti denuncia lo scandalo delle violenze e dice che le elezioni vanno invalidate
+30mmaggio 1924
+
+Matteotti sequestrato ed ucciso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzYxNTQ1MzUsMTY3NjE2Mzg1MCwtND
+eyJoaXN0b3J5IjpbLTEzMzIxMTQ4MTcsMTY3NjE2Mzg1MCwtND
 Y2MDgyNDk0LDExODAxMTQ4NjIsMTMxMTM0NjMyMSwtNjkyNzU5
 MzcxLDY1MDMxMDMwNiw4MjE0Njc0ODQsLTE1MzUzODc4OTMsLT
 E3NzA2Mjc4NjAsLTExNjM4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1
