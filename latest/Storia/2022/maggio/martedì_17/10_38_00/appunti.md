@@ -387,7 +387,11 @@ far giungere produzione italiana all'estero
 
 esporsi alla concorenza delle merci straniere
 
+si svaluta la lira, inflazione
 
+nel 1926 mussolini interviene
+
+giuseppe volpi al governo al posto di De stef
 
 
 
@@ -808,7 +812,7 @@ esporsi alla concorenza delle merci straniere
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTk0NDg2OCwtMjAxMTc2NzM5MywtNT
+eyJoaXN0b3J5IjpbMTI4NDk5Mzk0MiwtMjAxMTc2NzM5MywtNT
 MxMzAyMTY0LDExMjkyMjQ3MTYsMTc0MTU3NTQ4MywtMTEwMzMz
 NDU3MywzOTg5NDI4NCw2NTk5ODY4NjYsLTgxODY5MTMxNCwyND
 gzMzQxODcsLTYzNTg2Nzg3LDY0NjExMDUwMywxNjc2MTYzODUw
