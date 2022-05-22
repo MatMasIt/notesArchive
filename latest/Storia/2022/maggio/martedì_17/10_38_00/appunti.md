@@ -243,13 +243,15 @@ p 219
 * Riforma scuola gentile 1926
 * Gran consiglio del fascismo diventa struttura costituzionale dello stato da organismo interno del pnf
 * Milizia volontaria per la sicurezza nazionale, trasformare milizia di partito in una polizia
-* legge elettorale, leggge Acerbo; se una forza politica avesse ottenuto il 40% dei voti (con collegi maggioritari), avrebbe ottenuto 2/3 di seggi della camera
+* legge elettorale, leggge Acerbo 1923; se una forza politica avesse ottenuto il 40% dei voti (con collegi maggioritari), avrebbe ottenuto 2/3 di seggi della camera
 mancanza proporzione, si spinge sulla solidità del governo
+Il pnf aveva il 64% nel'aprile 1924. Azione di intimidazione vicino ai seggi, umiiazioni e bastonate, olio di ricino
+Violenza politica p.220
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NjE2Mzg1MCwtNDY2MDgyNDk0LDExOD
-AxMTQ4NjIsMTMxMTM0NjMyMSwtNjkyNzU5MzcxLDY1MDMxMDMw
-Niw4MjE0Njc0ODQsLTE1MzUzODc4OTMsLTE3NzA2Mjc4NjAsLT
-ExNjM4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1MTczOTIsMTY3NTY1
-NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgwMTgsLTIzODcxMjcyNF
-19
+eyJoaXN0b3J5IjpbLTIwMzYxNTQ1MzUsMTY3NjE2Mzg1MCwtND
+Y2MDgyNDk0LDExODAxMTQ4NjIsMTMxMTM0NjMyMSwtNjkyNzU5
+MzcxLDY1MDMxMDMwNiw4MjE0Njc0ODQsLTE1MzUzODc4OTMsLT
+E3NzA2Mjc4NjAsLTExNjM4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1
+MTczOTIsMTY3NTY1NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgwMT
+gsLTIzODcxMjcyNF19
 -->
