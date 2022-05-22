@@ -377,6 +377,17 @@ incentivi industriali
 ridotta spesa pubblica
 
 
+classe dirigente favorita in questa prima fase
+
+
+il fascismo promuove il liberismo economico
+
+far giungere produzione italiana all'estero
+
+
+esporsi alla concorenza delle merci straniere
+
+
 
 
 
@@ -797,7 +808,7 @@ ridotta spesa pubblica
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDU5NzgxMSwtMjAxMTc2NzM5MywtNT
+eyJoaXN0b3J5IjpbLTc1MTk0NDg2OCwtMjAxMTc2NzM5MywtNT
 MxMzAyMTY0LDExMjkyMjQ3MTYsMTc0MTU3NTQ4MywtMTEwMzMz
 NDU3MywzOTg5NDI4NCw2NTk5ODY4NjYsLTgxODY5MTMxNCwyND
 gzMzQxODcsLTYzNTg2Nzg3LDY0NjExMDUwMywxNjc2MTYzODUw
