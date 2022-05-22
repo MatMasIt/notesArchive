@@ -294,7 +294,8 @@ avvicinameto tra mussolini e hitler
 		* serve uno sbocco per la manodopera italiana
 		* gran bretagna e francia varano sanzioni nei confronti dell'italia
 		* non erano sanzioni gravi (non tocavano acciaio, carbone, petrolio)
-		* asse roma-berlino si crea per questa crisi dei rapporti con fr
+		* asse roma-berlino si crea per questa crisi dei rapporti con francia e gran bretagna
+		* conquista spietata, incluso utilizzo gas peroibiti, atteggiamento razzista
 
 
 
@@ -733,11 +734,11 @@ avvicinameto tra mussolini e hitler
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzY4OTQ1NSwzOTg5NDI4NCw2NTk5OD
-Y4NjYsLTgxODY5MTMxNCwyNDgzMzQxODcsLTYzNTg2Nzg3LDY0
-NjExMDUwMywxNjc2MTYzODUwLC00NjYwODI0OTQsMTE4MDExND
-g2MiwxMzExMzQ2MzIxLC02OTI3NTkzNzEsNjUwMzEwMzA2LDgy
-MTQ2NzQ4NCwtMTUzNTM4Nzg5MywtMTc3MDYyNzg2MCwtMTE2Mz
-gxMzg3MiwzMjAxNDUzMDUsLTMyMTUxNzM5MiwxNjc1NjU1Mzcz
-XX0=
+eyJoaXN0b3J5IjpbMzgwODk1NDk0LDM5ODk0Mjg0LDY1OTk4Nj
+g2NiwtODE4NjkxMzE0LDI0ODMzNDE4NywtNjM1ODY3ODcsNjQ2
+MTEwNTAzLDE2NzYxNjM4NTAsLTQ2NjA4MjQ5NCwxMTgwMTE0OD
+YyLDEzMTEzNDYzMjEsLTY5Mjc1OTM3MSw2NTAzMTAzMDYsODIx
+NDY3NDg0LC0xNTM1Mzg3ODkzLC0xNzcwNjI3ODYwLC0xMTYzOD
+EzODcyLDMyMDE0NTMwNSwtMzIxNTE3MzkyLDE2NzU2NTUzNzNd
+fQ==
 -->
