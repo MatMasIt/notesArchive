@@ -301,9 +301,13 @@ avvicinameto tra mussolini e hitler
 		* razza ebraica inferiore e pericolosa
 			* settembre 1938, legislazione 
 				* no matrimoni misti
-				* licenzia
-
-
+				* licenziamento di tutti gli ebrei dalla pubblica amministrazione
+				* licenziamnteo degli ebrei da banche e assicurazioni
+				* divieto di possedere aziende e beni sopra un certo valore
+				* divieto di avere domestici di razza ariana
+				* interdizione dallo svolgimento delle professioni di 
+					* 	notaio
+					* giornalista
 
 
 
@@ -740,11 +744,11 @@ avvicinameto tra mussolini e hitler
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzMjMxMTY4LDM5ODk0Mjg0LDY1OTk4Nj
-g2NiwtODE4NjkxMzE0LDI0ODMzNDE4NywtNjM1ODY3ODcsNjQ2
-MTEwNTAzLDE2NzYxNjM4NTAsLTQ2NjA4MjQ5NCwxMTgwMTE0OD
-YyLDEzMTEzNDYzMjEsLTY5Mjc1OTM3MSw2NTAzMTAzMDYsODIx
-NDY3NDg0LC0xNTM1Mzg3ODkzLC0xNzcwNjI3ODYwLC0xMTYzOD
-EzODcyLDMyMDE0NTMwNSwtMzIxNTE3MzkyLDE2NzU2NTUzNzNd
-fQ==
+eyJoaXN0b3J5IjpbMTYwMjkzMzc1MCwzOTg5NDI4NCw2NTk5OD
+Y4NjYsLTgxODY5MTMxNCwyNDgzMzQxODcsLTYzNTg2Nzg3LDY0
+NjExMDUwMywxNjc2MTYzODUwLC00NjYwODI0OTQsMTE4MDExND
+g2MiwxMzExMzQ2MzIxLC02OTI3NTkzNzEsNjUwMzEwMzA2LDgy
+MTQ2NzQ4NCwtMTUzNTM4Nzg5MywtMTc3MDYyNzg2MCwtMTE2Mz
+gxMzg3MiwzMjAxNDUzMDUsLTMyMTUxNzM5MiwxNjc1NjU1Mzcz
+XX0=
 -->
