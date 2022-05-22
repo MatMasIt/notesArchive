@@ -297,7 +297,11 @@ avvicinameto tra mussolini e hitler
 		* asse roma-berlino si crea per questa crisi dei rapporti con francia e gran bretagna
 		* conquista spietata, incluso utilizzo gas peroibiti, atteggiamento razzista
 		* forte segregazione, non è possibile gestire impero se non si riesce a comprendere di appartenere ad una razza superiore
-		* 
+		* leggi antisemite non è stata una richiesta da parte della germania, ma una decisione di mussolini
+		* razza ebraica inferiore e pericolosa
+			* settembre 1938, legislazione 
+				* no matrimoni misti
+				* licenzia
 
 
 
@@ -736,11 +740,11 @@ avvicinameto tra mussolini e hitler
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUxMTkwMjEsMzk4OTQyODQsNjU5OT
-g2ODY2LC04MTg2OTEzMTQsMjQ4MzM0MTg3LC02MzU4Njc4Nyw2
-NDYxMTA1MDMsMTY3NjE2Mzg1MCwtNDY2MDgyNDk0LDExODAxMT
-Q4NjIsMTMxMTM0NjMyMSwtNjkyNzU5MzcxLDY1MDMxMDMwNiw4
-MjE0Njc0ODQsLTE1MzUzODc4OTMsLTE3NzA2Mjc4NjAsLTExNj
-M4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1MTczOTIsMTY3NTY1NTM3
-M119
+eyJoaXN0b3J5IjpbMzAzMjMxMTY4LDM5ODk0Mjg0LDY1OTk4Nj
+g2NiwtODE4NjkxMzE0LDI0ODMzNDE4NywtNjM1ODY3ODcsNjQ2
+MTEwNTAzLDE2NzYxNjM4NTAsLTQ2NjA4MjQ5NCwxMTgwMTE0OD
+YyLDEzMTEzNDYzMjEsLTY5Mjc1OTM3MSw2NTAzMTAzMDYsODIx
+NDY3NDg0LC0xNTM1Mzg3ODkzLC0xNzcwNjI3ODYwLC0xMTYzOD
+EzODcyLDMyMDE0NTMwNSwtMzIxNTE3MzkyLDE2NzU2NTUzNzNd
+fQ==
 -->
