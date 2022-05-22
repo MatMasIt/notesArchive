@@ -108,10 +108,11 @@ PPI cresce
 
 giolitti nel luglio 1921 cede il posto ad ivanoe bonomi
 
-
+la situazione non ha soluzione anche quando mussolini crea il PNF
+c'era il rischio di perdere il controllo dei fascisti locali, anche un po' anarchici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNDY3NDg0LC0xNTM1Mzg3ODkzLC0xNz
-cwNjI3ODYwLC0xMTYzODEzODcyLDMyMDE0NTMwNSwtMzIxNTE3
-MzkyLDE2NzU2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC
-0yMzg3MTI3MjRdfQ==
+eyJoaXN0b3J5IjpbLTE2NTQ3MjcxNyw4MjE0Njc0ODQsLTE1Mz
+UzODc4OTMsLTE3NzA2Mjc4NjAsLTExNjM4MTM4NzIsMzIwMTQ1
+MzA1LC0zMjE1MTczOTIsMTY3NTY1NTM3MywtMTA5NzM4NDI5NS
+w1NjM3NDgwMTgsLTIzODcxMjcyNF19
 -->
