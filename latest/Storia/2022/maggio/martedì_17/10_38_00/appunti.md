@@ -115,9 +115,9 @@ struttura gerarchica meglio articolata
 
 inoltre
 
-movimento 
+movimento un po' troppo ribellistico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3Mjc4NjY2LDgyMTQ2NzQ4NCwtMTUzNT
+eyJoaXN0b3J5IjpbNjUwMzEwMzA2LDgyMTQ2NzQ4NCwtMTUzNT
 M4Nzg5MywtMTc3MDYyNzg2MCwtMTE2MzgxMzg3MiwzMjAxNDUz
 MDUsLTMyMTUxNzM5MiwxNjc1NjU1MzczLC0xMDk3Mzg0Mjk1LD
 U2Mzc0ODAxOCwtMjM4NzEyNzI0XX0=
