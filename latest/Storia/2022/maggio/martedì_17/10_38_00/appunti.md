@@ -95,10 +95,10 @@ liste un cui verrebbero inseriti sia liberali che fascisti
 
 giolitti capisce che la violenza squadrista non  è accettabile
 
-si vuole cost
+si vuole costituzionalizzare il fascismo per eliminare la sua tendenza alla violenza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzI0NzA0NSwtMTUzNTM4Nzg5MywtMT
-c3MDYyNzg2MCwtMTE2MzgxMzg3MiwzMjAxNDUzMDUsLTMyMTUx
-NzM5MiwxNjc1NjU1MzczLC0xMDk3Mzg0Mjk1LDU2Mzc0ODAxOC
-wtMjM4NzEyNzI0XX0=
+eyJoaXN0b3J5IjpbOTMwMDkwMzEzLC0xNTM1Mzg3ODkzLC0xNz
+cwNjI3ODYwLC0xMTYzODEzODcyLDMyMDE0NTMwNSwtMzIxNTE3
+MzkyLDE2NzU2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC
+0yMzg3MTI3MjRdfQ==
 -->
