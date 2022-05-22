@@ -262,12 +262,15 @@ evebto clamoroso
 
 consenso del fasciso in crisi
 
-corsera e
+corsera e la stampa, borghesia liberale italiana
+apertamente in contrasto con il governo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjA2NTg4NiwxNjc2MTYzODUwLC00Nj
-YwODI0OTQsMTE4MDExNDg2MiwxMzExMzQ2MzIxLC02OTI3NTkz
-NzEsNjUwMzEwMzA2LDgyMTQ2NzQ4NCwtMTUzNTM4Nzg5MywtMT
-c3MDYyNzg2MCwtMTE2MzgxMzg3MiwzMjAxNDUzMDUsLTMyMTUx
-NzM5MiwxNjc1NjU1MzczLC0xMDk3Mzg0Mjk1LDU2Mzc0ODAxOC
-wtMjM4NzEyNzI0XX0=
+eyJoaXN0b3J5IjpbNDk0MDA0NTksMTY3NjE2Mzg1MCwtNDY2MD
+gyNDk0LDExODAxMTQ4NjIsMTMxMTM0NjMyMSwtNjkyNzU5Mzcx
+LDY1MDMxMDMwNiw4MjE0Njc0ODQsLTE1MzUzODc4OTMsLTE3Nz
+A2Mjc4NjAsLTExNjM4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1MTcz
+OTIsMTY3NTY1NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgwMTgsLT
+IzODcxMjcyNF19
 -->
