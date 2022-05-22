@@ -237,10 +237,11 @@ p 219
 
 * atteggiamento verso la classe dirigente industriale, fascismo liberista, margine di movimento degli industriali
 	* smantellamento apprato statale costituito durante la guerra
-	* abolizione nominatività dei titoli azionari (introdotta da Giolitti nel 1920, disinnescare la bomba delle occupazioni delle fabbriche) [Al tempo le quote azionarie non dovevano avere un nome e non dovevano essere legate ad una persona fisica, non si pagavano tasse sui grandi pacchetti azionari], Giolitti aveva stabilito tassazione delle azioni | fascismo favorisce i ricchi
-	* 
+	* abolizione nominatività dei titoli azionari (introdotta da Giolitti nel 1920, disinnescare la bomba delle occupazioni delle fabbriche) [Al tempo le quote azionarie non dovevano avere un nome e non dovevano essere legate ad una persona fisica, non si pagavano tasse sui grandi pacchetti azionari], Giolitti aveva stabilito tassazione delle azioni | fascismo favorisce i ricchi | poltica filoindustriale
+* ottenere consenso del vaticano
+	* rimuovere minaccia bolscevica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTg1NDA1NiwxMTgwMTE0ODYyLDEzMT
+eyJoaXN0b3J5IjpbLTQ2NjA4MjQ5NCwxMTgwMTE0ODYyLDEzMT
 EzNDYzMjEsLTY5Mjc1OTM3MSw2NTAzMTAzMDYsODIxNDY3NDg0
 LC0xNTM1Mzg3ODkzLC0xNzcwNjI3ODYwLC0xMTYzODEzODcyLD
 MyMDE0NTMwNSwtMzIxNTE3MzkyLDE2NzU2NTUzNzMsLTEwOTcz
