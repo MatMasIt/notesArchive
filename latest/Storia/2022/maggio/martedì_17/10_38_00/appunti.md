@@ -89,10 +89,12 @@ pensa che ci possa essere a possibilità di riconquistare la maggioranza assolut
 
 Liberali e fascisti
 
+abticipare le elezioni e costituire i "blocchi nazionali"
 
+liste un cui verrebberi ubserutu sua
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzUzODc4OTMsLTE3NzA2Mjc4NjAsLT
-ExNjM4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1MTczOTIsMTY3NTY1
-NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgwMTgsLTIzODcxMjcyNF
-19
+eyJoaXN0b3J5IjpbLTE2NTE1OTI1NzgsLTE1MzUzODc4OTMsLT
+E3NzA2Mjc4NjAsLTExNjM4MTM4NzIsMzIwMTQ1MzA1LC0zMjE1
+MTczOTIsMTY3NTY1NTM3MywtMTA5NzM4NDI5NSw1NjM3NDgwMT
+gsLTIzODcxMjcyNF19
 -->
