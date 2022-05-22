@@ -129,10 +129,12 @@ nel febbraio del 1922 subentra luigi facta, collaboratore di giolitti
 
 si capisce che situazione italiana è estremamente caotica
 
-fragilità dei socialisti, ostili alm
+fragilità dei socialisti, ostili al partito liberale
+
+forse sarebbe stata possibile alleanza socialista-liberale se si fossero resi conto che lo statuto albertino era minacciato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTgzNjY0OCw2NTAzMTAzMDYsODIxND
-Y3NDg0LC0xNTM1Mzg3ODkzLC0xNzcwNjI3ODYwLC0xMTYzODEz
-ODcyLDMyMDE0NTMwNSwtMzIxNTE3MzkyLDE2NzU2NTUzNzMsLT
-EwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3MTI3MjRdfQ==
+eyJoaXN0b3J5IjpbMjU2MzIwMzAzLDY1MDMxMDMwNiw4MjE0Nj
+c0ODQsLTE1MzUzODc4OTMsLTE3NzA2Mjc4NjAsLTExNjM4MTM4
+NzIsMzIwMTQ1MzA1LC0zMjE1MTczOTIsMTY3NTY1NTM3MywtMT
+A5NzM4NDI5NSw1NjM3NDgwMTgsLTIzODcxMjcyNF19
 -->
