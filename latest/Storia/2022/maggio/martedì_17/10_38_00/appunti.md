@@ -361,9 +361,11 @@ eiar, predecessore RAI
 educare la popolazione con la radio
 
 
+i cinema dovevano proiettare i cinegiornali dell' istituto Luce, fondato da mussolini
 
+Mussolini definisce il cinema l'arma più forte per il consenso
 
-
+realizzata cinecitt 
 
 
 
@@ -790,11 +792,11 @@ educare la popolazione con la radio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDA0Mzc4NzYsMTc0MTU3NTQ4MywtMT
-EwMzMzNDU3MywzOTg5NDI4NCw2NTk5ODY4NjYsLTgxODY5MTMx
-NCwyNDgzMzQxODcsLTYzNTg2Nzg3LDY0NjExMDUwMywxNjc2MT
-YzODUwLC00NjYwODI0OTQsMTE4MDExNDg2MiwxMzExMzQ2MzIx
-LC02OTI3NTkzNzEsNjUwMzEwMzA2LDgyMTQ2NzQ4NCwtMTUzNT
-M4Nzg5MywtMTc3MDYyNzg2MCwtMTE2MzgxMzg3MiwzMjAxNDUz
-MDVdfQ==
+eyJoaXN0b3J5IjpbMTEyOTIyNDcxNiwxNzQxNTc1NDgzLC0xMT
+AzMzM0NTczLDM5ODk0Mjg0LDY1OTk4Njg2NiwtODE4NjkxMzE0
+LDI0ODMzNDE4NywtNjM1ODY3ODcsNjQ2MTEwNTAzLDE2NzYxNj
+M4NTAsLTQ2NjA4MjQ5NCwxMTgwMTE0ODYyLDEzMTEzNDYzMjEs
+LTY5Mjc1OTM3MSw2NTAzMTAzMDYsODIxNDY3NDg0LC0xNTM1Mz
+g3ODkzLC0xNzcwNjI3ODYwLC0xMTYzODEzODcyLDMyMDE0NTMw
+NV19
 -->
