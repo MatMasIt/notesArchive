@@ -321,6 +321,18 @@ certa evoluione durante il ventennio
 
 educare ogni italiano ai principi dell'ideologia
 
+solo un partito
+stampa d regime
+
+serve la tessera del PNF
+indispensabile per ogni incarico statale
+
+irregimentare tutta la popolazione
+
+Opera nazionale del dopolavoro
+
+g
+
 
 
 
@@ -756,7 +768,7 @@ educare ogni italiano ai principi dell'ideologia
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI5MDczODIsMTc0MTU3NTQ4MywtMT
+eyJoaXN0b3J5IjpbLTExMjUwOTUzNjYsMTc0MTU3NTQ4MywtMT
 EwMzMzNDU3MywzOTg5NDI4NCw2NTk5ODY4NjYsLTgxODY5MTMx
 NCwyNDgzMzQxODcsLTYzNTg2Nzg3LDY0NjExMDUwMywxNjc2MT
 YzODUwLC00NjYwODI0OTQsMTE4MDExNDg2MiwxMzExMzQ2MzIx
