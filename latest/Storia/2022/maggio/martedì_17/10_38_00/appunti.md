@@ -281,11 +281,14 @@ p222, p226
 Politica estera del fascismo
 
 avvicinameto tra mussolini e hitler
+
+
+1. L'italia deve guadagnare uno spazio (secondo Mussolini l'italia si deve meritare un posto al sole, una posizione di prestigio che non ha)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODg3NzI1Niw2NDYxMTA1MDMsMTY3Nj
-E2Mzg1MCwtNDY2MDgyNDk0LDExODAxMTQ4NjIsMTMxMTM0NjMy
-MSwtNjkyNzU5MzcxLDY1MDMxMDMwNiw4MjE0Njc0ODQsLTE1Mz
-UzODc4OTMsLTE3NzA2Mjc4NjAsLTExNjM4MTM4NzIsMzIwMTQ1
-MzA1LC0zMjE1MTczOTIsMTY3NTY1NTM3MywtMTA5NzM4NDI5NS
-w1NjM3NDgwMTgsLTIzODcxMjcyNF19
+eyJoaXN0b3J5IjpbLTYzNTg2Nzg3LDY0NjExMDUwMywxNjc2MT
+YzODUwLC00NjYwODI0OTQsMTE4MDExNDg2MiwxMzExMzQ2MzIx
+LC02OTI3NTkzNzEsNjUwMzEwMzA2LDgyMTQ2NzQ4NCwtMTUzNT
+M4Nzg5MywtMTc3MDYyNzg2MCwtMTE2MzgxMzg3MiwzMjAxNDUz
+MDUsLTMyMTUxNzM5MiwxNjc1NjU1MzczLC0xMDk3Mzg0Mjk1LD
+U2Mzc0ODAxOCwtMjM4NzEyNzI0XX0=
 -->
