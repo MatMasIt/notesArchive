@@ -138,10 +138,16 @@ la fiducia reciproca non si è delineata perchè il PSI era massimalista
 
 dopo l'occupazione delle fabbriche i liberali non si fidavano dei socialisti
 
-nel luglio 1922 di
+nel luglio 1922 diversi deputati socialisti (durante il governo facta) propongono ai liberali una alleanza di governo
+
+decisione in contrasto con vertici psi
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTkwMzUzLDY1MDMxMDMwNiw4MjE0Nj
-c0ODQsLTE1MzUzODc4OTMsLTE3NzA2Mjc4NjAsLTExNjM4MTM4
-NzIsMzIwMTQ1MzA1LC0zMjE1MTczOTIsMTY3NTY1NTM3MywtMT
-A5NzM4NDI5NSw1NjM3NDgwMTgsLTIzODcxMjcyNF19
+eyJoaXN0b3J5IjpbMTQ0OTQ3NzgxNyw2NTAzMTAzMDYsODIxND
+Y3NDg0LC0xNTM1Mzg3ODkzLC0xNzcwNjI3ODYwLC0xMTYzODEz
+ODcyLDMyMDE0NTMwNSwtMzIxNTE3MzkyLDE2NzU2NTUzNzMsLT
+EwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3MTI3MjRdfQ==
 -->
