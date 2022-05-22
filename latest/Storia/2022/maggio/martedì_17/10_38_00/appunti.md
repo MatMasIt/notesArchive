@@ -417,7 +417,11 @@ battaglia del grano [molto mediatica]
 
 buoni risultati, si aumenta la produzione di grano, agro pontino dove sorge Latina, fondata dal fascismo [che si chiamava Littoria] venne bonificato
 
-Il grano costavacomunque di più
+Il grano costava comunque di più
+
+ceti medio bassi ebbero riduzione potere d'acquisto
+
+grano con prezzo molto alto
 
 
 
@@ -837,11 +841,11 @@ Il grano costavacomunque di più
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1NTAxODg0LC0yMDExNzY3MzkzLC01Mz
-EzMDIxNjQsMTEyOTIyNDcxNiwxNzQxNTc1NDgzLC0xMTAzMzM0
-NTczLDM5ODk0Mjg0LDY1OTk4Njg2NiwtODE4NjkxMzE0LDI0OD
-MzNDE4NywtNjM1ODY3ODcsNjQ2MTEwNTAzLDE2NzYxNjM4NTAs
-LTQ2NjA4MjQ5NCwxMTgwMTE0ODYyLDEzMTEzNDYzMjEsLTY5Mj
-c1OTM3MSw2NTAzMTAzMDYsODIxNDY3NDg0LC0xNTM1Mzg3ODkz
-XX0=
+eyJoaXN0b3J5IjpbMTIyNzQ2ODA0MiwtMjAxMTc2NzM5MywtNT
+MxMzAyMTY0LDExMjkyMjQ3MTYsMTc0MTU3NTQ4MywtMTEwMzMz
+NDU3MywzOTg5NDI4NCw2NTk5ODY4NjYsLTgxODY5MTMxNCwyND
+gzMzQxODcsLTYzNTg2Nzg3LDY0NjExMDUwMywxNjc2MTYzODUw
+LC00NjYwODI0OTQsMTE4MDExNDg2MiwxMzExMzQ2MzIxLC02OT
+I3NTkzNzEsNjUwMzEwMzA2LDgyMTQ2NzQ4NCwtMTUzNTM4Nzg5
+M119
 -->
