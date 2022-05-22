@@ -132,8 +132,15 @@ si capisce che situazione italiana è estremamente caotica
 fragilità dei socialisti, ostili al partito liberale
 
 forse sarebbe stata possibile alleanza socialista-liberale se si fossero resi conto che lo statuto albertino era minacciato
+
+
+la fiducia reciproca non si è delineata perchè il PSI era massimalista
+
+dopo l'occupazione delle fabbriche i liberali non si fidavano dei socialisti
+
+nel luglio 1922 di
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2MzIwMzAzLDY1MDMxMDMwNiw4MjE0Nj
+eyJoaXN0b3J5IjpbLTgzOTkwMzUzLDY1MDMxMDMwNiw4MjE0Nj
 c0ODQsLTE1MzUzODc4OTMsLTE3NzA2Mjc4NjAsLTExNjM4MTM4
 NzIsMzIwMTQ1MzA1LC0zMjE1MTczOTIsMTY3NTY1NTM3MywtMT
 A5NzM4NDI5NSw1NjM3NDgwMTgsLTIzODcxMjcyNF19
