@@ -110,9 +110,15 @@ giolitti nel luglio 1921 cede il posto ad ivanoe bonomi
 
 la situazione non ha soluzione anche quando mussolini crea il PNF
 c'era il rischio di perdere il controllo dei fascisti locali, anche un po' anarchici
+
+struttura gerarchica meglio articolata
+
+inoltre
+
+movimento 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ3MjcxNyw4MjE0Njc0ODQsLTE1Mz
-UzODc4OTMsLTE3NzA2Mjc4NjAsLTExNjM4MTM4NzIsMzIwMTQ1
-MzA1LC0zMjE1MTczOTIsMTY3NTY1NTM3MywtMTA5NzM4NDI5NS
-w1NjM3NDgwMTgsLTIzODcxMjcyNF19
+eyJoaXN0b3J5IjpbMjU3Mjc4NjY2LDgyMTQ2NzQ4NCwtMTUzNT
+M4Nzg5MywtMTc3MDYyNzg2MCwtMTE2MzgxMzg3MiwzMjAxNDUz
+MDUsLTMyMTUxNzM5MiwxNjc1NjU1MzczLC0xMDk3Mzg0Mjk1LD
+U2Mzc0ODAxOCwtMjM4NzEyNzI0XX0=
 -->
