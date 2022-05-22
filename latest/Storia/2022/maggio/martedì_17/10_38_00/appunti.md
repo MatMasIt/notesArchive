@@ -391,7 +391,19 @@ si svaluta la lira, inflazione
 
 nel 1926 mussolini interviene
 
-giuseppe volpi al governo al posto di De stef
+giuseppe volpi al governo al posto di De stefani
+
+protezionismo, percoso di rivalutazione monetaria
+
+quota 90
+
+1 sterlina = 90 lire
+
+mentre nel 26 ci volevano 150 lire per sterlina
+
+in 1 anno quota 90 viene raggiunta
+
+costo da pagare:
 
 
 
@@ -812,7 +824,7 @@ giuseppe volpi al governo al posto di De stef
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDk5Mzk0MiwtMjAxMTc2NzM5MywtNT
+eyJoaXN0b3J5IjpbMTUyNDQ3Njk3MywtMjAxMTc2NzM5MywtNT
 MxMzAyMTY0LDExMjkyMjQ3MTYsMTc0MTU3NTQ4MywtMTEwMzMz
 NDU3MywzOTg5NDI4NCw2NTk5ODY4NjYsLTgxODY5MTMxNCwyND
 gzMzQxODcsLTYzNTg2Nzg3LDY0NjExMDUwMywxNjc2MTYzODUw
