@@ -431,6 +431,12 @@ molti realtà assicurative, imprenditoriali e bancarie sarebbero fallite
 intervento massiccio dello stato
 
 
+nel 1933 viene fondato l'iri, l'istituto per la ricostruzione imprenditoriale, azionista di maggioranza di molte aziende
+banche in crisi
+ilva, 
+acciaierie di terni
+ansaldo di Genova
+
 
 
 
@@ -849,11 +855,11 @@ intervento massiccio dello stato
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkzNDY4MTYsLTIwMTE3NjczOTMsLT
-UzMTMwMjE2NCwxMTI5MjI0NzE2LDE3NDE1NzU0ODMsLTExMDMz
-MzQ1NzMsMzk4OTQyODQsNjU5OTg2ODY2LC04MTg2OTEzMTQsMj
-Q4MzM0MTg3LC02MzU4Njc4Nyw2NDYxMTA1MDMsMTY3NjE2Mzg1
-MCwtNDY2MDgyNDk0LDExODAxMTQ4NjIsMTMxMTM0NjMyMSwtNj
-kyNzU5MzcxLDY1MDMxMDMwNiw4MjE0Njc0ODQsLTE1MzUzODc4
-OTNdfQ==
+eyJoaXN0b3J5IjpbMTcwMzI3MDU4NCwtMjAxMTc2NzM5MywtNT
+MxMzAyMTY0LDExMjkyMjQ3MTYsMTc0MTU3NTQ4MywtMTEwMzMz
+NDU3MywzOTg5NDI4NCw2NTk5ODY4NjYsLTgxODY5MTMxNCwyND
+gzMzQxODcsLTYzNTg2Nzg3LDY0NjExMDUwMywxNjc2MTYzODUw
+LC00NjYwODI0OTQsMTE4MDExNDg2MiwxMzExMzQ2MzIxLC02OT
+I3NTkzNzEsNjUwMzEwMzA2LDgyMTQ2NzQ4NCwtMTUzNTM4Nzg5
+M119
 -->
