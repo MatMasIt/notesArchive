@@ -209,11 +209,12 @@ terza grossa responsabilità sarà poi firmare leggi razziali del 1938
 
 gravissima iniominia
 
-
+orientamento repubblicano nel 46 (referendum) non ha poi vinto di molto
+molti hanno votato per queste 3 gravi responsabilità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTExMzYwNTksLTY5Mjc1OTM3MSw2NT
-AzMTAzMDYsODIxNDY3NDg0LC0xNTM1Mzg3ODkzLC0xNzcwNjI3
-ODYwLC0xMTYzODEzODcyLDMyMDE0NTMwNSwtMzIxNTE3MzkyLD
-E2NzU2NTUzNzMsLTEwOTczODQyOTUsNTYzNzQ4MDE4LC0yMzg3
-MTI3MjRdfQ==
+eyJoaXN0b3J5IjpbNTQ4Njg3NDk2LC02OTI3NTkzNzEsNjUwMz
+EwMzA2LDgyMTQ2NzQ4NCwtMTUzNTM4Nzg5MywtMTc3MDYyNzg2
+MCwtMTE2MzgxMzg3MiwzMjAxNDUzMDUsLTMyMTUxNzM5MiwxNj
+c1NjU1MzczLC0xMDk3Mzg0Mjk1LDU2Mzc0ODAxOCwtMjM4NzEy
+NzI0XX0=
 -->
