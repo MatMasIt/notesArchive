@@ -58,7 +58,13 @@ fascismo è un totalitarismo imperfetto
 azione cattolica sopravvive
 
 mussolini in teroria ha sopra di se un monarca
+
+giovanni gentile esalta la rinuncia al potere temporale
+
+stampa cattolica felice per "la restaurazione cattolica"
+
+non tutti felici ma mussolini passa agli occhi di molti cattolici come "Uomo della provvidenza", come il papa aveva detto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Njc5MzI5NiwtMTQzODQxODUxOCwxOD
-E3MzgxODEwXX0=
+eyJoaXN0b3J5IjpbMzU4NjExMjk3LC0xNDM4NDE4NTE4LDE4MT
+czODE4MTBdfQ==
 -->
