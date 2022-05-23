@@ -50,7 +50,15 @@ si introduce a figura del cappellano spirituale
 
 ora religione anche nelle scuole superiori
 
-Azione cattolica può continuare il suo operatp
+Azione cattolica può continuare il suo operato
+
+
+fascismo è un totalitarismo imperfetto
+
+azione cattolica sopravvive
+
+mussolini in teroria ha sopra di se un monarca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzg0MTg1MTgsMTgxNzM4MTgxMF19
+eyJoaXN0b3J5IjpbMTI3Njc5MzI5NiwtMTQzODQxODUxOCwxOD
+E3MzgxODEwXX0=
 -->
