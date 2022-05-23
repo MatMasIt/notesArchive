@@ -32,6 +32,16 @@ eating always the same things
 dull, monotonous life
 
 spiritually dead people
+
+lack of passion
+
+sad and bored, time to have love
+
+objective correlative, lack of passio and emotions
+
+boredom, no excitement, passion
+
+mechanical 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0MTAyMzUxXX0=
+eyJoaXN0b3J5IjpbMTgxOTc5MTY3M119
 -->
