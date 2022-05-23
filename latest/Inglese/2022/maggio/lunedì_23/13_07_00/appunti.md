@@ -18,6 +18,9 @@ objective correlative
 
 
 the emotion istelf is not mentioned, but evoked through a series of images, situations etc
+
+
+carele
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDU0OTk2NF19
+eyJoaXN0b3J5IjpbMjUzMTE1MzQwXX0=
 -->
