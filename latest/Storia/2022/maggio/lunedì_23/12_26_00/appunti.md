@@ -47,6 +47,8 @@ sacerdoti esonerati dal servizio militare
 
 
 si introduce a figura del cappellano spirituale
+
+ora religione anche nelle scuole superiori
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzM4MTgxMF19
+eyJoaXN0b3J5IjpbLTM5MTMxOTcwNiwxODE3MzgxODEwXX0=
 -->
