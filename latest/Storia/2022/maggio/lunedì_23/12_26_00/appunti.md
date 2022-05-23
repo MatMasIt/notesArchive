@@ -26,7 +26,8 @@ trattato internazionale:
 * stato italiano riconosciuto da vaticano
 * Stato della città del vaticano riconosiuto dallo stato italiano
 + Concordato
-* 
+* convenzione finanziaria per rimborsare i territori
+indennità [mutata nel tempo], somma prevista: 3 milioni e 225 mila lire all'anno pari circa a 15 milioni di euro oggi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDg4NzkwMV19
+eyJoaXN0b3J5IjpbLTYzNjU3NTE5NF19
 -->
