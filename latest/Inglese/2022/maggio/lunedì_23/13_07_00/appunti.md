@@ -42,6 +42,18 @@ objective correlative, lack of passio and emotions
 boredom, no excitement, passion
 
 mechanical love, phisical love
+
+boy just cares about fullfilment of phisical desire
+
+fragmented, references to dante, chaucher, shakespeare, the bible, etc
+
+but with new characters, the typist, the boy
+
+
+mythical method and objective correlative
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzUxMTQ5OF19
+eyJoaXN0b3J5IjpbLTExNTg5OTM3MTVdfQ==
 -->
