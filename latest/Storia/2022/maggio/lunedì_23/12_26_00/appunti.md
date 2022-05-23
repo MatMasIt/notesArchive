@@ -27,7 +27,12 @@ trattato internazionale:
 * Stato della città del vaticano riconosiuto dallo stato italiano
 + Concordato
 * convenzione finanziaria per rimborsare i territori
-indennità [mutata nel tempo], somma prevista: 3 milioni e 225 mila lire all'anno pari circa a 15 milioni di euro oggi
+indennità [mutata nel tempo], somma prevista: 3 milioni e 225 mila lire all'anno pari circa a 15 milioni di euro oggi, dal 1870 in poi
+
+
+accordo ridefinito negli anni '80 dal Governo Craxi, introdotto l'otto per mille
+
+ora alla chiesa arriva un miliardo di euro all'anno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjU3NTE5NF19
+eyJoaXN0b3J5IjpbLTY4NjU3MjQ2NV19
 -->
