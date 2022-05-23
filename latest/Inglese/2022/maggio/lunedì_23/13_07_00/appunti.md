@@ -61,6 +61,11 @@ eveline p 254
 l 57-74 
 
 Eveline's memories of Frank's courtship
+
+
+frank used to take her to the theatre
+
+excaping from the paralysis of her family
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzNzI5NDI0XX0=
+eyJoaXN0b3J5IjpbNTI5OTkwMzg5LDQ5MzcyOTQyNF19
 -->
