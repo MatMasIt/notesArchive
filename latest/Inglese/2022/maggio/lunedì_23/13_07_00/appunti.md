@@ -41,7 +41,7 @@ objective correlative, lack of passio and emotions
 
 boredom, no excitement, passion
 
-mechanical 
+mechanical love, phisical love
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTc5MTY3M119
+eyJoaXN0b3J5IjpbLTU1NzUxMTQ5OF19
 -->
