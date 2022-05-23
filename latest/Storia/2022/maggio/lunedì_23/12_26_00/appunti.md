@@ -7,6 +7,24 @@ fascismo vuole il consenso della chiesa
 nel 1923 viene introdotto l'insegnamento della religione cattolica nelle scuole elementari
 
 grandissimo regalo alla chiesa
+
+
+1926, negoziati
+
+p 229 
+
+2.5 anni
+
+11 febbraio 1929, patti lateranensi
+
+mussolini e Pietro Gasparri su rappresentanza di Papa Pio XI
+
+Palazzo di san giovanni laterano
+
+
+trattato internazionale:
+* stato italiano riconosciuto
+Concordat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0NjkyMzQ0XX0=
+eyJoaXN0b3J5IjpbLTg2ODE2MDM2OF19
 -->
