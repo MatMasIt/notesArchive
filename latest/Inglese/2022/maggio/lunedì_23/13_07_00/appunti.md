@@ -84,7 +84,23 @@ paralyzed by the promise to her mom to run the house
 she realizes the meaninglessness of her life
 
 epiphany
+
+---
+notes on the book
+
+---
+
+she turns pale
+
+
+she feels scared at the sight of the boat
+
+she wants to know if the decision is right or wrong
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU5MTMwMzMsLTg4OTMwNzY1NSwtMT
-k5OTc0OTgxMyw1Mjk5OTAzODksNDkzNzI5NDI0XX0=
+eyJoaXN0b3J5IjpbOTMzMTQyOTQyLC0xNTY1OTEzMDMzLC04OD
+kzMDc2NTUsLTE5OTk3NDk4MTMsNTI5OTkwMzg5LDQ5MzcyOTQy
+NF19
 -->
