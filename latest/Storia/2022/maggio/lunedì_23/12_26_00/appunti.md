@@ -49,6 +49,8 @@ sacerdoti esonerati dal servizio militare
 si introduce a figura del cappellano spirituale
 
 ora religione anche nelle scuole superiori
+
+Azione cattolica può continuare il suo operatp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTMxOTcwNiwxODE3MzgxODEwXX0=
+eyJoaXN0b3J5IjpbLTE0Mzg0MTg1MTgsMTgxNzM4MTgxMF19
 -->
