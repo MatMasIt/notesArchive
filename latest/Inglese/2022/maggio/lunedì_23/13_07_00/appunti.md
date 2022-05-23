@@ -77,7 +77,10 @@ oppression
 harry = brother
 
 written two letters to his brother and father before leaving the city
+
+
+paralyze
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTMwNzY1NSwtMTk5OTc0OTgxMyw1Mj
-k5OTAzODksNDkzNzI5NDI0XX0=
+eyJoaXN0b3J5IjpbLTE1OTgzODcyMjEsLTg4OTMwNzY1NSwtMT
+k5OTc0OTgxMyw1Mjk5OTAzODksNDkzNzI5NDI0XX0=
 -->
