@@ -43,7 +43,10 @@ matrimonio religioso, valore come quelli civili
 
 tribunale ecclesiastico può scogliere un matrimonio
 
+sacerdoti esonerati dal servizio militare
 
+
+si introduce a figura del cappellano spirituale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTAwMTkzOV19
+eyJoaXN0b3J5IjpbMTgxNzM4MTgxMF19
 -->
