@@ -17,7 +17,7 @@ In elliot just another circle of despair starts
 objective correlative
 
 
-the emotion istelf is not mentioned, but evoked through a series of images, s
+the emotion istelf is not mentioned, but evoked through a series of images, situations etc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTczNTExNl19
+eyJoaXN0b3J5IjpbMTI5NDU0OTk2NF19
 -->
