@@ -38,6 +38,12 @@ ora alla chiesa arriva un miliardo di euro all'anno
 **Concordato**
 
 Cattolicesimo religione di stato
+
+matrimonio religioso, valore come quelli civili
+
+tribunale ecclesiastico può scogliere un matrimonio
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjMwNDI1N119
+eyJoaXN0b3J5IjpbMTg0OTAwMTkzOV19
 -->
