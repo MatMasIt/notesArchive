@@ -20,7 +20,18 @@ objective correlative
 the emotion istelf is not mentioned, but evoked through a series of images, situations etc
 
 
-carele
+carelessness, untidy flat
+
+sexual relationship with ugly boy: squallor
+
+
+objective correlatives
+
+eating always the same things
+
+dull, monotonous life
+
+spiritually dead people
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzMTE1MzQwXX0=
+eyJoaXN0b3J5IjpbNTA0MTAyMzUxXX0=
 -->
