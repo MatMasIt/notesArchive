@@ -73,7 +73,11 @@ old country = europe
 strict father forbid eveline to see the sailor
 
 oppression
+
+harry = brother
+
+written two letters to his brother and father before leaving the city
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk3NDk4MTMsNTI5OTkwMzg5LDQ5Mz
-cyOTQyNF19
+eyJoaXN0b3J5IjpbLTg4OTMwNzY1NSwtMTk5OTc0OTgxMyw1Mj
+k5OTAzODksNDkzNzI5NDI0XX0=
 -->
