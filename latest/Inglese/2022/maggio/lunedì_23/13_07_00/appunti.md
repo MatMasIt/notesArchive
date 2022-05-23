@@ -66,6 +66,14 @@ Eveline's memories of Frank's courtship
 frank used to take her to the theatre
 
 excaping from the paralysis of her family
+
+old country = europe
+
+
+strict father forbid eveline to see the sailor
+
+oppression
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5OTkwMzg5LDQ5MzcyOTQyNF19
+eyJoaXN0b3J5IjpbLTE5OTk3NDk4MTMsNTI5OTkwMzg5LDQ5Mz
+cyOTQyNF19
 -->
