@@ -23,8 +23,10 @@ Palazzo di san giovanni laterano
 
 
 trattato internazionale:
-* stato italiano riconosciuto
-Concordat
+* stato italiano riconosciuto da vaticano
+* Stato della città del vaticano riconosiuto dallo stato italiano
++ Concordato
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODE2MDM2OF19
+eyJoaXN0b3J5IjpbLTY3MDg4NzkwMV19
 -->
