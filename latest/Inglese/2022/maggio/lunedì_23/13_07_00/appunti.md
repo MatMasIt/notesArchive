@@ -52,8 +52,15 @@ but with new characters, the typist, the boy
 
 mythical method and objective correlative
 
+---
 
 
+eveline p 254
+
+
+l 57-74 
+
+Eveline's memories of Frank's courtship
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg5OTM3MTVdfQ==
+eyJoaXN0b3J5IjpbNDkzNzI5NDI0XX0=
 -->
