@@ -21,18 +21,23 @@ mussolini e Pietro Gasparri su rappresentanza di Papa Pio XI
 
 Palazzo di san giovanni laterano
 
+2 parti dell'accordo
 
-trattato internazionale:
+**trattato internazionale:**
 * stato italiano riconosciuto da vaticano
 * Stato della città del vaticano riconosiuto dallo stato italiano
-+ Concordato
-* convenzione finanziaria per rimborsare i territori
+
+* convenzione finanziaria per rimborsare i territori, in appendice al trattato
 indennità [mutata nel tempo], somma prevista: 3 milioni e 225 mila lire all'anno pari circa a 15 milioni di euro oggi, dal 1870 in poi
 
 
 accordo ridefinito negli anni '80 dal Governo Craxi, introdotto l'otto per mille
 
 ora alla chiesa arriva un miliardo di euro all'anno
+
+**Concordato**
+
+Cattolicesimo religione di stato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjU3MjQ2NV19
+eyJoaXN0b3J5IjpbMTY5MjMwNDI1N119
 -->
