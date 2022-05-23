@@ -79,8 +79,12 @@ harry = brother
 written two letters to his brother and father before leaving the city
 
 
-paralyze
+paralyzed by the promise to her mom to run the house
+
+she realizes the meaninglessness of her life
+
+epiphany
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTgzODcyMjEsLTg4OTMwNzY1NSwtMT
+eyJoaXN0b3J5IjpbLTE1NjU5MTMwMzMsLTg4OTMwNzY1NSwtMT
 k5OTc0OTgxMyw1Mjk5OTAzODksNDkzNzI5NDI0XX0=
 -->
