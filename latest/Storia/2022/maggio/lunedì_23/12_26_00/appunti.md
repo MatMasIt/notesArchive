@@ -64,7 +64,18 @@ giovanni gentile esalta la rinuncia al potere temporale
 stampa cattolica felice per "la restaurazione cattolica"
 
 non tutti felici ma mussolini passa agli occhi di molti cattolici come "Uomo della provvidenza", come il papa aveva detto
+
+---
+
+prima fase WWII
+
+Tedeschi si espandono ad oriente e i russi ad occidente
+
+
+germania attacca la polonia e la russia vuole riprendersi la finlandia e le repubbliche perse nella pace di parigi
+
+p 3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4NjExMjk3LC0xNDM4NDE4NTE4LDE4MT
-czODE4MTBdfQ==
+eyJoaXN0b3J5IjpbLTE3MTcxMzIzNTEsMzU4NjExMjk3LC0xND
+M4NDE4NTE4LDE4MTczODE4MTBdfQ==
 -->
