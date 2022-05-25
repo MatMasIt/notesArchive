@@ -177,8 +177,18 @@ contadini russi ostili all'entrata in russia
 guerra da ricchi e borghesi, i proletari si devono tenere  fuori
 
 socialisti russi e italiani; avversione alla guerra
+
+russia costretta ad entrare
+
+conflitto tragico
+
+2 mln caduti in 1 anno
+
+generali incapaci, trubbe allo sbaraglio
+
+conflitto con potenze maggiore 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODIxNDk4NCwxMTg1Mzc1NTUsLTQ3Nz
+eyJoaXN0b3J5IjpbMTA1OTczODkxMywxMTg1Mzc1NTUsLTQ3Nz
 Y1NzY5MiwxMTI3MTEzMDYwLC00OTk4MjM1OTQsMTU1MjM3OTQ1
 OSwtMTE5MTA0NzExNV19
 -->
