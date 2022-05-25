@@ -337,9 +337,13 @@ i bolscevichi si distinguono
 maggioranza nei soviet di pietrogrado e mosca
 
 
+
+eliminazione governo provvisorio
+controllo della città
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODY5MzYxOSwxMTI4NzU2NTM1LC03Mj
-UyODMyMDQsMTA1OTczODkxMywxMTg1Mzc1NTUsLTQ3NzY1NzY5
-MiwxMTI3MTEzMDYwLC00OTk4MjM1OTQsMTU1MjM3OTQ1OSwtMT
-E5MTA0NzExNV19
+eyJoaXN0b3J5IjpbOTcxNTQ3OTcsMTEyODc1NjUzNSwtNzI1Mj
+gzMjA0LDEwNTk3Mzg5MTMsMTE4NTM3NTU1LC00Nzc2NTc2OTIs
+MTEyNzExMzA2MCwtNDk5ODIzNTk0LDE1NTIzNzk0NTksLTExOT
+EwNDcxMTVdfQ==
 -->
