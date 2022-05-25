@@ -228,8 +228,10 @@ bolscevichi non entrano a far parte del governo  provvisorio
 secondo i menscevichi si p nella prima fase del processo rivoluzonario
 
 la borghesia ha scalzato il re e verrà scalzata dai proletari
+
+governo si propone di continuare la guerra, rispettare gli accordi con l'intesa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjIyNzY2NCwxMDU5NzM4OTEzLDExOD
-UzNzU1NSwtNDc3NjU3NjkyLDExMjcxMTMwNjAsLTQ5OTgyMzU5
-NCwxNTUyMzc5NDU5LC0xMTkxMDQ3MTE1XX0=
+eyJoaXN0b3J5IjpbLTE0MDA5NDc3OTAsMTA1OTczODkxMywxMT
+g1Mzc1NTUsLTQ3NzY1NzY5MiwxMTI3MTEzMDYwLC00OTk4MjM1
+OTQsMTU1MjM3OTQ1OSwtMTE5MTA0NzExNV19
 -->
