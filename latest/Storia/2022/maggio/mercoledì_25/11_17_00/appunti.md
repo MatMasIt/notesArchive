@@ -146,6 +146,8 @@ Il Duce voleva una guerra parallela a quella tedesca
 le truppe tedesche arrivano in soccorso di quelle italiane
 
 progetto di guerra autonoma fallisce
+
+22 giugno 1941 inizia l'operazione barbarossa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTAwMDMwMl19
+eyJoaXN0b3J5IjpbMjI1NDUyNTk3XX0=
 -->
