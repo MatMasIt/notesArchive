@@ -249,8 +249,17 @@ secondo potere che si presenta
 
 molti rappresentanti di soldati
 costituito da aderenti alle formazioni socialrivoluzionarie e socialdemocratiche (menscevichi e bolscevichi)
+
+
+paese caotico
+
+ordine gestito dai soviet risorti
+
+operai si prendono la responsabilità di gestire l'ordine
+
+orientamento politico dei soviet diverso dal 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzc4NDk1MiwxMDU5NzM4OTEzLDExOD
+eyJoaXN0b3J5IjpbMTAyNTc3NjMzNCwxMDU5NzM4OTEzLDExOD
 UzNzU1NSwtNDc3NjU3NjkyLDExMjcxMTMwNjAsLTQ5OTgyMzU5
 NCwxNTUyMzc5NDU5LC0xMTkxMDQ3MTE1XX0=
 -->
