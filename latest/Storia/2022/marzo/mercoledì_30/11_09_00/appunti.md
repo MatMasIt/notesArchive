@@ -213,8 +213,12 @@ governo  provvisorio
 serve rifondare il paese 
 
 partito dei cadetti, costituzionale democratico
+
+governo provvisorio governato da un liberale moderato 
+
+principe lvov
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjY2MjQ2MywxMDU5NzM4OTEzLDExOD
+eyJoaXN0b3J5IjpbLTc4OTA0NDYwMiwxMDU5NzM4OTEzLDExOD
 UzNzU1NSwtNDc3NjU3NjkyLDExMjcxMTMwNjAsLTQ5OTgyMzU5
 NCwxNTUyMzc5NDU5LC0xMTkxMDQ3MTE1XX0=
 -->
