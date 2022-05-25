@@ -58,6 +58,11 @@ confini italo-inglesi
 
 
 Italia ha fatto una pessima Seconda Guerra Mondiale
+
+
+Inghilterra ha avuto il suo momento eroico
+
+bombardamento e progettazione dello sbarco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM2MDk2NTldfQ==
+eyJoaXN0b3J5IjpbLTgzMjc4MTU4MV19
 -->
