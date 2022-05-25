@@ -79,7 +79,21 @@ aviazione inglese molto preparata, ricorso al RADAR, che i tedeschi non hanno
 
 p.352-353
 
-Hitler e Mussolini av
+Hitler e Mussolini avevano avuto una grande considerazione per la germania
+
+tentativi di accordo con inghilterra
+
+Churchill seguì una inea molto precisa
+non cercare pace con hitler
+
+contrario a tentativi di accordarsi con la germania
+
+"Noi non ci arrenderemo mai"
+
+Opinione pubblica condivideva
+
+Inglesi hanno ungrande impero, co
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MTY4MDIwXX0=
+eyJoaXN0b3J5IjpbMTc3NTUwNTU2OF19
 -->
