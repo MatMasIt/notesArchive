@@ -63,6 +63,11 @@ Italia ha fatto una pessima Seconda Guerra Mondiale
 Inghilterra ha avuto il suo momento eroico
 
 bombardamento e progettazione dello sbarco
+
+ottica a minacce da overs (russia): terra bruciata
+
+
+germania punta su polon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjc4MTU4MV19
+eyJoaXN0b3J5IjpbMTEyMjkzMTM3OV19
 -->
