@@ -152,7 +152,13 @@ progetto di guerra autonoma fallisce
 avanzata verso la russia, che dura fino al luglio del 1942
 
 
-Conquista di stalingrado
+Conquista di stalingrado, che non si riesce a prendere, inizio sconfitta tedesca
+
+---
+
+patto di non aggressione disatteso
+
+sorpresa stalin era convinto che aggressione tedesca non fosse accaduta praima del 43
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDM4MzgxNF19
+eyJoaXN0b3J5IjpbMTA1NDE0NTAzXX0=
 -->
