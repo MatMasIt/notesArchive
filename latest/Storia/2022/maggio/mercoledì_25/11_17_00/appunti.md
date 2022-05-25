@@ -120,6 +120,19 @@ rifornimenti costanti dall'impero
 
 Insdia, Asia, Africa, Canada
 
+4283 cacciabombardieri tedeschi
+3000 della germania
+
+airforce inglesi parte indietro ma raggiunge
+
+
+inglesi colsero la natura della guerra ideologica
+
+modello di valori vs altro
+
+guerra lampo fallisce e viene riinviato
+
+44-4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY1NjM0NDFdfQ==
+eyJoaXN0b3J5IjpbMTI4MzcwMzM4OF19
 -->
