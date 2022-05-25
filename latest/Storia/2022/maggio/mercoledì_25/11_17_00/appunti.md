@@ -102,6 +102,24 @@ Hitler: invasione marina all'inghilterra dopo aver conquistato dominio dell'aria
 
 seminare il panico tra la gente per poi obbligare il governo afare la pace
 
+luglio ottobre 1940, scontri
+
+RAF - Luftwaffe
+
+Battaglia d'inghilterra
+
+bombardamenti della città inglesa
+
+Birmnhingam e Conenrty rase al suolo
+
+Londra subisce distruzioni massice
+
+fronte interno regge, apparato industriale regge
+
+rifornimenti costanti dall'impero
+
+Insdia, Asia, Africa, Canada
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDU4NjM1MzddfQ==
+eyJoaXN0b3J5IjpbLTIxMTY1NjM0NDFdfQ==
 -->
