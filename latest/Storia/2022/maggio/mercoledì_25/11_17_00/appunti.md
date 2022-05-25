@@ -92,8 +92,16 @@ contrario a tentativi di accordarsi con la germania
 
 Opinione pubblica condivideva
 
-Inglesi hanno ungrande impero, co
+Inglesi hanno ungrande impero, consapevoli di essere Leader del mondo
+
+Royal navy
+
+---
+
+Hitler: invasione marina all'inghilterra dopo aver conquistato dominio dell'aria
+
+seminare il panico tra la gente per poi obbligare il governo afare la pace
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTUwNTU2OF19
+eyJoaXN0b3J5IjpbLTE5MDU4NjM1MzddfQ==
 -->
