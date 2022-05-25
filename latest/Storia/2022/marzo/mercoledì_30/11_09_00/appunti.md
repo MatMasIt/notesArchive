@@ -198,10 +198,11 @@ cittò di san pietroburgo
 
 burg, origine germanica,   ora si chiama Pietrogrado, con suffisso slavo
 
+8 marzo 1917, ma per loro che usano il calendario giuliano è rivoluzione di **febbraio** ( si usa notazione russa alla fine)
 
-marzo 1917, ma per loro che usanodel calendario giuliano
+rivolta di operai a pietrogra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTk2MDEzMywxMDU5NzM4OTEzLDExOD
+eyJoaXN0b3J5IjpbMTAzOTM5MTQ4OSwxMDU5NzM4OTEzLDExOD
 UzNzU1NSwtNDc3NjU3NjkyLDExMjcxMTMwNjAsLTQ5OTgyMzU5
 NCwxNTUyMzc5NDU5LC0xMTkxMDQ3MTE1XX0=
 -->
