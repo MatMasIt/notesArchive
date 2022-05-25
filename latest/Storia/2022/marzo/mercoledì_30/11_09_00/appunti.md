@@ -210,9 +210,11 @@ paese rischia di cadere lo zar
 
 governo  provvisorio
 
-dualismo di poteri
+serve rifondare il paese 
+
+partito dei cadetti, costituzionale democratico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxNjk3OTg5LDEwNTk3Mzg5MTMsMTE4NT
-M3NTU1LC00Nzc2NTc2OTIsMTEyNzExMzA2MCwtNDk5ODIzNTk0
-LDE1NTIzNzk0NTksLTExOTEwNDcxMTVdfQ==
+eyJoaXN0b3J5IjpbLTYwNjY2MjQ2MywxMDU5NzM4OTEzLDExOD
+UzNzU1NSwtNDc3NjU3NjkyLDExMjcxMTMwNjAsLTQ5OTgyMzU5
+NCwxNTUyMzc5NDU5LC0xMTkxMDQ3MTE1XX0=
 -->
