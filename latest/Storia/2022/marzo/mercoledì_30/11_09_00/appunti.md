@@ -351,9 +351,21 @@ lenin e stalin
 
 avviare trattative per pace
 sopprimere proprietà terrieri e spartirla
+
+elezioni non cancellate, sperano di essere confermati alla guida
+
+elezioni, novembre 1917
+
+le elezioni non vanno come i bolscevichi avrebbero sperato, prendono 1/4 dei seggi, 175 su 707
+
+partito socialrivoluzionario ottiene successo notevole
+
+storia della russia conosce una svolta, i bolscevichi non accettano la perdita del potere
+
+gennaio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyOTAzMTI4LDExMjg3NTY1MzUsLTcyNT
-I4MzIwNCwxMDU5NzM4OTEzLDExODUzNzU1NSwtNDc3NjU3Njky
-LDExMjcxMTMwNjAsLTQ5OTgyMzU5NCwxNTUyMzc5NDU5LC0xMT
-kxMDQ3MTE1XX0=
+eyJoaXN0b3J5IjpbLTk4OTQ2NTkxOSw0MzI5MDMxMjgsMTEyOD
+c1NjUzNSwtNzI1MjgzMjA0LDEwNTk3Mzg5MTMsMTE4NTM3NTU1
+LC00Nzc2NTc2OTIsMTEyNzExMzA2MCwtNDk5ODIzNTk0LDE1NT
+IzNzk0NTksLTExOTEwNDcxMTVdfQ==
 -->
