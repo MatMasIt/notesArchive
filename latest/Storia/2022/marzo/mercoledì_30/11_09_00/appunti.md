@@ -200,9 +200,13 @@ burg, origine germanica,   ora si chiama Pietrogrado, con suffisso slavo
 
 8 marzo 1917, ma per loro che usano il calendario giuliano è rivoluzione di **febbraio** ( si usa notazione russa alla fine)
 
-rivolta di operai a pietrogra
+rivolta di operai a pietrogrado, partecipano anche alcuni soldati ammutinati
+
+truppe dello zar si rifiutano di sparare sugli insorti
+
+Nicola II Romanov è costretto ad abdicare e viene arrestato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTM5MTQ4OSwxMDU5NzM4OTEzLDExOD
-UzNzU1NSwtNDc3NjU3NjkyLDExMjcxMTMwNjAsLTQ5OTgyMzU5
-NCwxNTUyMzc5NDU5LC0xMTkxMDQ3MTE1XX0=
+eyJoaXN0b3J5IjpbMTE3Nzg2ODgxLDEwNTk3Mzg5MTMsMTE4NT
+M3NTU1LC00Nzc2NTc2OTIsMTEyNzExMzA2MCwtNDk5ODIzNTk0
+LDE1NTIzNzk0NTksLTExOTEwNDcxMTVdfQ==
 -->
