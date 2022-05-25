@@ -18,6 +18,12 @@ linea maginot sorpassata
 
 
 Linea Maginot evitata
+Parigi occupata il 14 di giugno
+
+
+Hitler alle basi della Torre Eifell
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxMzQ5MzIyXX0=
+eyJoaXN0b3J5IjpbNzE2OTU1ODkwXX0=
 -->
