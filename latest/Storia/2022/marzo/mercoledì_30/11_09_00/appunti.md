@@ -300,10 +300,15 @@ prima fase conclusa
 occorre aprire nuova fase e passare alla seconda fase in cui il proletariato deve prendere il potere
 
 
-eliminare il go verno provvisorio, realizzare la piena rivoluz
+eliminare il governo provvisorio, realizzare la piena rivoluzione del proletariato
+
+soviet insitono su pace immediata
+
+
+dis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTIxMDU1NTAsMTEyODc1NjUzNSwtNz
-I1MjgzMjA0LDEwNTk3Mzg5MTMsMTE4NTM3NTU1LC00Nzc2NTc2
-OTIsMTEyNzExMzA2MCwtNDk5ODIzNTk0LDE1NTIzNzk0NTksLT
-ExOTEwNDcxMTVdfQ==
+eyJoaXN0b3J5IjpbLTM0NzYxODU4MSwxMTI4NzU2NTM1LC03Mj
+UyODMyMDQsMTA1OTczODkxMywxMTg1Mzc1NTUsLTQ3NzY1NzY5
+MiwxMTI3MTEzMDYwLC00OTk4MjM1OTQsMTU1MjM3OTQ1OSwtMT
+E5MTA0NzExNV19
 -->
