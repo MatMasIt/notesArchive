@@ -276,10 +276,20 @@ esponenti minoritari sia del partito social rivoluzionario che del partito opera
 
 Lenin, leader componente bolscevica in esilio da anni
 
-aprile 1917, suo ritorno in patria favorito dallre p
+aprile 1917, suo ritorno in patria favorito dalle potenze degli imperi centrali, germania
+
+Lenin è in esilio in Svizzera, neutrale
+
+prende un treno che attraversa germania e arriva a pietrogrado
+
+i tedeschi sapevano che lenin era a favore della pace, che la russia dovesse tirarsi fuori dal conflitto
+
+possibilità di uscita di scena della russia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzI5NTUzMywxMTI4NzU2NTM1LC03Mj
-UyODMyMDQsMTA1OTczODkxMywxMTg1Mzc1NTUsLTQ3NzY1NzY5
-MiwxMTI3MTEzMDYwLC00OTk4MjM1OTQsMTU1MjM3OTQ1OSwtMT
-E5MTA0NzExNV19
+eyJoaXN0b3J5IjpbLTEyODk3MzAzMTAsMTEyODc1NjUzNSwtNz
+I1MjgzMjA0LDEwNTk3Mzg5MTMsMTE4NTM3NTU1LC00Nzc2NTc2
+OTIsMTEyNzExMzA2MCwtNDk5ODIzNTk0LDE1NTIzNzk0NTksLT
+ExOTEwNDcxMTVdfQ==
 -->
