@@ -365,8 +365,16 @@ storia della russia conosce una svolta, i bolscevichi non accettano la perdita d
 gennaio 1918, sciogliere assemblea costituente appena eletta
 
 1mln di russi circa abbandona la russia
+
+inglesi, giapponesi etc bandano truppe per scalzare bolscevichi
+
+guerra che l'armata rossa vince
+
+unico partito legale: bolscevico
+
+svolta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1NDAxODgzLDQzMjkwMzEyOCwxMTI4Nz
+eyJoaXN0b3J5IjpbNDQxODU1OTIwLDQzMjkwMzEyOCwxMTI4Nz
 U2NTM1LC03MjUyODMyMDQsMTA1OTczODkxMywxMTg1Mzc1NTUs
 LTQ3NzY1NzY5MiwxMTI3MTEzMDYwLC00OTk4MjM1OTQsMTU1Mj
 M3OTQ1OSwtMTE5MTA0NzExNV19
