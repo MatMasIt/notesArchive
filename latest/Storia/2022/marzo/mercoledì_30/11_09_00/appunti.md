@@ -315,11 +315,17 @@ grandi errore degli avversari (governo provvisorio)
 
 kerenskij, nel nuovo governo: offensiva nella galizia
 
+fallisce
 
+molti contadini disertano e assaliscono aristocratici
 
-governo attua grande offensica 
+instabilità maggiore
+
+inflazione cresce tantissimo
+
+diserzioni di interi reparti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjgyMTc0OTQsMTEyODc1NjUzNSwtNz
+eyJoaXN0b3J5IjpbLTIxNDQ0NjkyNjUsMTEyODc1NjUzNSwtNz
 I1MjgzMjA0LDEwNTk3Mzg5MTMsMTE4NTM3NTU1LC00Nzc2NTc2
 OTIsMTEyNzExMzA2MCwtNDk5ODIzNTk0LDE1NTIzNzk0NTksLT
 ExOTEwNDcxMTVdfQ==
