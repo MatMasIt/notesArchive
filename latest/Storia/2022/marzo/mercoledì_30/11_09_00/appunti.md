@@ -162,8 +162,8 @@ Generale malcontento con cui la russia entra in WWI
 
 ---
 
-Lenin
+febbraio 1917
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzExMzA2MCwtNDk5ODIzNTk0LDE1NT
-IzNzk0NTksLTExOTEwNDcxMTVdfQ==
+eyJoaXN0b3J5IjpbLTQ3NzY1NzY5MiwxMTI3MTEzMDYwLC00OT
+k4MjM1OTQsMTU1MjM3OTQ1OSwtMTE5MTA0NzExNV19
 -->
