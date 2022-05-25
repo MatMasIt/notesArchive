@@ -148,6 +148,11 @@ le truppe tedesche arrivano in soccorso di quelle italiane
 progetto di guerra autonoma fallisce
 
 22 giugno 1941 inizia l'operazione barbarossa
+
+avanzata verso la russia, che dura fino al luglio del 1942
+
+
+Conquista di stalingrado
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1NDUyNTk3XX0=
+eyJoaXN0b3J5IjpbMTI4MDM4MzgxNF19
 -->
