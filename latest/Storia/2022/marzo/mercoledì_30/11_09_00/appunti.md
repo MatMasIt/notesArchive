@@ -188,9 +188,15 @@ generali incapaci, trubbe allo sbaraglio
 
 conflitto con potenze maggiore 
 
-cond
+condizioni di vita peggiorano
+
+ondate riccorrenti idi proteste e scioperi da autunno '15
+primi mesi 1917: situazione peggiora
+
+
+cittò di san pietroburgo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjM2NDU3MSwxMDU5NzM4OTEzLDExOD
+eyJoaXN0b3J5IjpbMTY3MjkzNjcxNiwxMDU5NzM4OTEzLDExOD
 UzNzU1NSwtNDc3NjU3NjkyLDExMjcxMTMwNjAsLTQ5OTgyMzU5
 NCwxNTUyMzc5NDU5LC0xMTkxMDQ3MTE1XX0=
 -->
