@@ -324,9 +324,18 @@ instabilità maggiore
 inflazione cresce tantissimo
 
 diserzioni di interi reparti
+
+tentativo nel settembre del 1917
+
+reazionari, tentativo di colpo di stato voluto dal generale cornilov
+si verifica tentativo controrivoluzionario
+
+kereskij chiede a tutte le forze di difendere la rivoluzione
+
+i bolscevichi si distinguono
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ0NjkyNjUsMTEyODc1NjUzNSwtNz
-I1MjgzMjA0LDEwNTk3Mzg5MTMsMTE4NTM3NTU1LC00Nzc2NTc2
-OTIsMTEyNzExMzA2MCwtNDk5ODIzNTk0LDE1NTIzNzk0NTksLT
-ExOTEwNDcxMTVdfQ==
+eyJoaXN0b3J5IjpbMzExMTAxMzg4LDExMjg3NTY1MzUsLTcyNT
+I4MzIwNCwxMDU5NzM4OTEzLDExODUzNzU1NSwtNDc3NjU3Njky
+LDExMjcxMTMwNjAsLTQ5OTgyMzU5NCwxNTUyMzc5NDU5LC0xMT
+kxMDQ3MTE1XX0=
 -->
