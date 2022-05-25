@@ -169,8 +169,12 @@ borghesia fragile, numeriacmente poco consistente
 ci sono molti radicalisti, radicale trasformazione
 
 russia non riesce a dare luogo alle riforme
+
+WWI alleanza serbia-russia
+
+contadini russi ostili all'entrata in russia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTM3NTU1LC00Nzc2NTc2OTIsMTEyNz
-ExMzA2MCwtNDk5ODIzNTk0LDE1NTIzNzk0NTksLTExOTEwNDcx
-MTVdfQ==
+eyJoaXN0b3J5IjpbMTg3OTY3NzAxNCwxMTg1Mzc1NTUsLTQ3Nz
+Y1NzY5MiwxMTI3MTEzMDYwLC00OTk4MjM1OTQsMTU1MjM3OTQ1
+OSwtMTE5MTA0NzExNV19
 -->
