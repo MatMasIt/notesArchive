@@ -341,9 +341,19 @@ maggioranza nei soviet di pietrogrado e mosca
 eliminazione governo provvisorio
 controllo della città
 
+arrestati tutti membri
+
+
+governo bolscevico gestito dal consiglio dei commissari del popoll
+
+lenin e stalin
+
+
+avviare trattative per pace
+sopprimere proprietà terrieri e spartirla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxNTQ3OTcsMTEyODc1NjUzNSwtNzI1Mj
-gzMjA0LDEwNTk3Mzg5MTMsMTE4NTM3NTU1LC00Nzc2NTc2OTIs
-MTEyNzExMzA2MCwtNDk5ODIzNTk0LDE1NTIzNzk0NTksLTExOT
-EwNDcxMTVdfQ==
+eyJoaXN0b3J5IjpbNDMyOTAzMTI4LDExMjg3NTY1MzUsLTcyNT
+I4MzIwNCwxMDU5NzM4OTEzLDExODUzNzU1NSwtNDc3NjU3Njky
+LDExMjcxMTMwNjAsLTQ5OTgyMzU5NCwxNTUyMzc5NDU5LC0xMT
+kxMDQ3MTE1XX0=
 -->
