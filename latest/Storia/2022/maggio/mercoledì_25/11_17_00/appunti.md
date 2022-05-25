@@ -136,7 +136,12 @@ guerra lampo fallisce e viene riinviato
 
 ---
 
-otto
+ottobre 1930, italia attacca la grecia
+c'erano buoni rapporti, regime filofascista
+
+mancanza correttezza da parte italiana
+
+Il Duce voleva una guerra parallela a quella tedesca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQzMjI4OTBdfQ==
+eyJoaXN0b3J5IjpbNTIwNDk0NDEyXX0=
 -->
