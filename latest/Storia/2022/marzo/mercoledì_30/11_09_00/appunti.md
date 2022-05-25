@@ -205,8 +205,14 @@ rivolta di operai a pietrogrado, partecipano anche alcuni soldati ammutinati
 truppe dello zar si rifiutano di sparare sugli insorti
 
 Nicola II Romanov è costretto ad abdicare e viene arrestato
+
+paese rischia di cadere lo zar
+
+governo  provvisorio
+
+dualismo di poteri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Nzg2ODgxLDEwNTk3Mzg5MTMsMTE4NT
+eyJoaXN0b3J5IjpbMjUxNjk3OTg5LDEwNTk3Mzg5MTMsMTE4NT
 M3NTU1LC00Nzc2NTc2OTIsMTEyNzExMzA2MCwtNDk5ODIzNTk0
 LDE1NTIzNzk0NTksLTExOTEwNDcxMTVdfQ==
 -->
