@@ -33,6 +33,18 @@ governo di Vichy
 sconfitta clamorosa
 
 p. 350
+
+De Gaulle, generale
+
+Machisar, nascosti nella macchia
+
+
+Radio londra
+
+
+francesi incitati alla resistenza con i tedeschi
+
+crollo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2MDc3MTI5XX0=
+eyJoaXN0b3J5IjpbLTIxMjEwMDgzMDldfQ==
 -->
