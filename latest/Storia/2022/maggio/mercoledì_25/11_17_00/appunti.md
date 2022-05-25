@@ -75,7 +75,11 @@ ora bisogna conquistare Gran Bretagna
 Flotta superiroe a quella tedesca
 
 
-aviazione inglese molto preparata, ricorso al RADAR
+aviazione inglese molto preparata, ricorso al RADAR, che i tedeschi non hanno
+
+p.352-353
+
+Hitler e Mussolini av
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDA5MTM1NF19
+eyJoaXN0b3J5IjpbNjI5MTY4MDIwXX0=
 -->
