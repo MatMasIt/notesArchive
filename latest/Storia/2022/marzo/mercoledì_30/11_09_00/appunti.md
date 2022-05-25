@@ -270,9 +270,11 @@ Governo provvisorio con cospicua presenza di appartenenti al partito costituzion
 
 esponenti minoritari sia del partito social rivoluzionario che del partito operaio social democratico russo menscevica
 
+
+19
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODc1NjUzNSwtNzI1MjgzMjA0LDEwNT
-k3Mzg5MTMsMTE4NTM3NTU1LC00Nzc2NTc2OTIsMTEyNzExMzA2
-MCwtNDk5ODIzNTk0LDE1NTIzNzk0NTksLTExOTEwNDcxMTVdfQ
-==
+eyJoaXN0b3J5IjpbLTM0MDM1MzIzNywxMTI4NzU2NTM1LC03Mj
+UyODMyMDQsMTA1OTczODkxMywxMTg1Mzc1NTUsLTQ3NzY1NzY5
+MiwxMTI3MTEzMDYwLC00OTk4MjM1OTQsMTU1MjM3OTQ1OSwtMT
+E5MTA0NzExNV19
 -->
