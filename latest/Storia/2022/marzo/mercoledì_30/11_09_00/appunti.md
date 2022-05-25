@@ -163,7 +163,14 @@ Generale malcontento con cui la russia entra in WWI
 ---
 
 febbraio 1917
+
+borghesia fragile, numeriacmente poco consistente
+
+ci sono molti radicalisti, radicale trasformazione
+
+russia non riesce a dare luogo alle riforme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzY1NzY5MiwxMTI3MTEzMDYwLC00OT
-k4MjM1OTQsMTU1MjM3OTQ1OSwtMTE5MTA0NzExNV19
+eyJoaXN0b3J5IjpbMTE4NTM3NTU1LC00Nzc2NTc2OTIsMTEyNz
+ExMzA2MCwtNDk5ODIzNTk0LDE1NTIzNzk0NTksLTExOTEwNDcx
+MTVdfQ==
 -->
