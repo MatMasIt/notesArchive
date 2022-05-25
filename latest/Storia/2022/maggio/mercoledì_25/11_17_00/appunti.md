@@ -132,7 +132,11 @@ modello di valori vs altro
 
 guerra lampo fallisce e viene riinviato
 
-44-4
+'44 bombardamenti con v1 e v2
+
+---
+
+otto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzcwMzM4OF19
+eyJoaXN0b3J5IjpbLTE4NTQzMjI4OTBdfQ==
 -->
