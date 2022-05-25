@@ -67,7 +67,15 @@ bombardamento e progettazione dello sbarco
 ottica a minacce da overs (russia): terra bruciata
 
 
-germania punta su polon
+germania punta su polonia, danimarca, norvegia, lussemburgo, oalnda etc
+
+
+ora bisogna conquistare Gran Bretagna
+
+Flotta superiroe a quella tedesca
+
+
+aviazione inglese molto preparata, ricorso al RADAR
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjkzMTM3OV19
+eyJoaXN0b3J5IjpbMTc0NDA5MTM1NF19
 -->
