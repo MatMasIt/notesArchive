@@ -271,9 +271,14 @@ Governo provvisorio con cospicua presenza di appartenenti al partito costituzion
 esponenti minoritari sia del partito social rivoluzionario che del partito operaio social democratico russo menscevica
 
 
-19
+1918, bolsevichi in minoranza, poi prendono potere nei soviet e fanno rivoluzione ad **ottobre** 1917
+
+
+Lenin, leader componente bolscevica in esilio da anni
+
+aprile 1917, suo ritorno in patria favorito dallre p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDM1MzIzNywxMTI4NzU2NTM1LC03Mj
+eyJoaXN0b3J5IjpbMTM1NzI5NTUzMywxMTI4NzU2NTM1LC03Mj
 UyODMyMDQsMTA1OTczODkxMywxMTg1Mzc1NTUsLTQ3NzY1NzY5
 MiwxMTI3MTEzMDYwLC00OTk4MjM1OTQsMTU1MjM3OTQ1OSwtMT
 E5MTA0NzExNV19
