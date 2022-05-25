@@ -373,8 +373,15 @@ guerra che l'armata rossa vince
 unico partito legale: bolscevico
 
 famiglia reale eliminata nel luglio 1918
+
+dittatura, paese a partito unico
+
+dittatura che punta ad educare la popolazione in senso politico, far credere alla popolazione la rivoluzione
+
+
+totalitarismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTU4MzI0NCw0MzI5MDMxMjgsMTEyOD
+eyJoaXN0b3J5IjpbLTc2MzQ3NDE1OSw0MzI5MDMxMjgsMTEyOD
 c1NjUzNSwtNzI1MjgzMjA0LDEwNTk3Mzg5MTMsMTE4NTM3NTU1
 LC00Nzc2NTc2OTIsMTEyNzExMzA2MCwtNDk5ODIzNTk0LDE1NT
 IzNzk0NTksLTExOTEwNDcxMTVdfQ==
