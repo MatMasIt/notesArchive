@@ -49,7 +49,15 @@ crollo francia: Benito mussolini capisce che anche se l'italia è militarmente i
 
 promessa  patto d'accoao
 
-italia deve participare alla sparti
+italia deve participare alla spartizione bottino
+
+
+10 giugno 1940, discorso in cui annuncia ingresso in guerra dell'italia
+
+confini italo-inglesi
+
+
+Italia ha fatto una pessima Seconda Guerra Mondiale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3ODA0MzUxXX0=
+eyJoaXN0b3J5IjpbLTE1MDM2MDk2NTldfQ==
 -->
