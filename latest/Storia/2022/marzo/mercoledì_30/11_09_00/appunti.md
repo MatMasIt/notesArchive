@@ -305,10 +305,22 @@ eliminare il governo provvisorio, realizzare la piena rivoluzione del proletaria
 soviet insitono su pace immediata
 
 
-dis
+pace e distribuzione terra
+
+
+occorre movimentare il proletariato
+
+
+grandi errore degli avversari (governo provvisorio)
+
+kerenskij, nel nuovo governo: offensiva nella galizia
+
+
+
+governo attua grande offensica 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzYxODU4MSwxMTI4NzU2NTM1LC03Mj
-UyODMyMDQsMTA1OTczODkxMywxMTg1Mzc1NTUsLTQ3NzY1NzY5
-MiwxMTI3MTEzMDYwLC00OTk4MjM1OTQsMTU1MjM3OTQ1OSwtMT
-E5MTA0NzExNV19
+eyJoaXN0b3J5IjpbLTEzMjgyMTc0OTQsMTEyODc1NjUzNSwtNz
+I1MjgzMjA0LDEwNTk3Mzg5MTMsMTE4NTM3NTU1LC00Nzc2NTc2
+OTIsMTEyNzExMzA2MCwtNDk5ODIzNTk0LDE1NTIzNzk0NTksLT
+ExOTEwNDcxMTVdfQ==
 -->
