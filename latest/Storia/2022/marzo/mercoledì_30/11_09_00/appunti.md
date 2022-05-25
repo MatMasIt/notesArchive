@@ -266,10 +266,12 @@ distribuzione della terra ai contadini   (che è degli aristocratici e dei kulak
 
 ---
 
+Governo provvisorio con cospicua presenza di appartenenti al partito costituzionale democratico (liberali), che hanno la maggioranza tra cui il capo del Governo, principe lvov
 
-B
+esponenti minoritari sia del partito social rivoluzionario che del partito operaio social democratico russo menscevica
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjYyNjA2MCwtNzI1MjgzMjA0LDEwNT
+eyJoaXN0b3J5IjpbMTEyODc1NjUzNSwtNzI1MjgzMjA0LDEwNT
 k3Mzg5MTMsMTE4NTM3NTU1LC00Nzc2NTc2OTIsMTEyNzExMzA2
 MCwtNDk5ODIzNTk0LDE1NTIzNzk0NTksLTExOTEwNDcxMTVdfQ
 ==
