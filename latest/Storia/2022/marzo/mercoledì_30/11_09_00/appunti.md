@@ -333,9 +333,13 @@ si verifica tentativo controrivoluzionario
 kereskij chiede a tutte le forze di difendere la rivoluzione
 
 i bolscevichi si distinguono
+
+maggioranza nei soviet di pietrogrado e mosca
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExMTAxMzg4LDExMjg3NTY1MzUsLTcyNT
-I4MzIwNCwxMDU5NzM4OTEzLDExODUzNzU1NSwtNDc3NjU3Njky
-LDExMjcxMTMwNjAsLTQ5OTgyMzU5NCwxNTUyMzc5NDU5LC0xMT
-kxMDQ3MTE1XX0=
+eyJoaXN0b3J5IjpbMTk3ODY5MzYxOSwxMTI4NzU2NTM1LC03Mj
+UyODMyMDQsMTA1OTczODkxMywxMTg1Mzc1NTUsLTQ3NzY1NzY5
+MiwxMTI3MTEzMDYwLC00OTk4MjM1OTQsMTU1MjM3OTQ1OSwtMT
+E5MTA0NzExNV19
 -->
