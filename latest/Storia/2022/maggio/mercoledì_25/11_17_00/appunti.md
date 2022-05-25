@@ -23,7 +23,16 @@ Parigi occupata il 14 di giugno
 
 Hitler alle basi della Torre Eifell
 
+nord tedeschi
 
+
+parte centro-meridionale collaborazionista
+
+governo di Vichy
+
+sconfitta clamorosa
+
+p. 350
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2OTU1ODkwXX0=
+eyJoaXN0b3J5IjpbODM2MDc3MTI5XX0=
 -->
