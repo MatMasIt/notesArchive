@@ -142,6 +142,10 @@ c'erano buoni rapporti, regime filofascista
 mancanza correttezza da parte italiana
 
 Il Duce voleva una guerra parallela a quella tedesca
+
+le truppe tedesche arrivano in soccorso di quelle italiane
+
+progetto di guerra autonoma fallisce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwNDk0NDEyXX0=
+eyJoaXN0b3J5IjpbLTE0MTAwMDMwMl19
 -->
