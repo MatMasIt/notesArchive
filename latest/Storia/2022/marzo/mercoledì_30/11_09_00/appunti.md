@@ -230,8 +230,22 @@ secondo i menscevichi si p nella prima fase del processo rivoluzonario
 la borghesia ha scalzato il re e verrà scalzata dai proletari
 
 governo si propone di continuare la guerra, rispettare gli accordi con l'intesa
+
+la russia dovrebbe industrializzarsi sul governo europeo
+
+occidentalizzazione della russia
+
+
+assemblea costituente
+
+difficile da far accettare alla popolazione
+
+
+dualismo di poteri
+
+accanto al governo provvisorio c'è il potere dei soviet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA5NDc3OTAsMTA1OTczODkxMywxMT
+eyJoaXN0b3J5IjpbLTE5NDkyMzg1MzIsMTA1OTczODkxMywxMT
 g1Mzc1NTUsLTQ3NzY1NzY5MiwxMTI3MTEzMDYwLC00OTk4MjM1
 OTQsMTU1MjM3OTQ1OSwtMTE5MTA0NzExNV19
 -->
