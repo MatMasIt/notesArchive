@@ -362,10 +362,12 @@ partito socialrivoluzionario ottiene successo notevole
 
 storia della russia conosce una svolta, i bolscevichi non accettano la perdita del potere
 
-gennaio
+gennaio 1918, sciogliere assemblea costituente appena eletta
+
+1mln di russi circa abbandona la russia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTQ2NTkxOSw0MzI5MDMxMjgsMTEyOD
-c1NjUzNSwtNzI1MjgzMjA0LDEwNTk3Mzg5MTMsMTE4NTM3NTU1
-LC00Nzc2NTc2OTIsMTEyNzExMzA2MCwtNDk5ODIzNTk0LDE1NT
-IzNzk0NTksLTExOTEwNDcxMTVdfQ==
+eyJoaXN0b3J5IjpbNDk1NDAxODgzLDQzMjkwMzEyOCwxMTI4Nz
+U2NTM1LC03MjUyODMyMDQsMTA1OTczODkxMywxMTg1Mzc1NTUs
+LTQ3NzY1NzY5MiwxMTI3MTEzMDYwLC00OTk4MjM1OTQsMTU1Mj
+M3OTQ1OSwtMTE5MTA0NzExNV19
 -->
