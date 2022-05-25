@@ -44,7 +44,12 @@ Radio londra
 
 francesi incitati alla resistenza con i tedeschi
 
-crollo 
+crollo francia: Benito mussolini capisce che anche se l'italia è militarmente impreparata, è convinto che la guerra ormai sia finita
+
+
+promessa  patto d'accoao
+
+italia deve participare alla sparti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjEwMDgzMDldfQ==
+eyJoaXN0b3J5IjpbODg3ODA0MzUxXX0=
 -->
