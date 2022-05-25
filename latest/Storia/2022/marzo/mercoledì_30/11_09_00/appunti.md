@@ -195,8 +195,13 @@ primi mesi 1917: situazione peggiora
 
 
 cittò di san pietroburgo
+
+burg, origine germanica,   ora si chiama Pietrogrado, con suffisso slavo
+
+
+marzo 1917, ma per loro che usanodel calendario giuliano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjkzNjcxNiwxMDU5NzM4OTEzLDExOD
+eyJoaXN0b3J5IjpbMTQ4NTk2MDEzMywxMDU5NzM4OTEzLDExOD
 UzNzU1NSwtNDc3NjU3NjkyLDExMjcxMTMwNjAsLTQ5OTgyMzU5
 NCwxNTUyMzc5NDU5LC0xMTkxMDQ3MTE1XX0=
 -->
