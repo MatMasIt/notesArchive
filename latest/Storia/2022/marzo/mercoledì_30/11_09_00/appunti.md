@@ -216,9 +216,16 @@ partito dei cadetti, costituzionale democratico
 
 governo provvisorio governato da un liberale moderato 
 
-principe lvov
+principe LVOV
+
+esponenti partito socialrivoluzionario, ra cui Kerenski
+
+e anche alcuni appartenenti al partito operaio socialdemocratico russo, componente menscevica
+
+
+bolscevichi non entrano a far parte del
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTA0NDYwMiwxMDU5NzM4OTEzLDExOD
-UzNzU1NSwtNDc3NjU3NjkyLDExMjcxMTMwNjAsLTQ5OTgyMzU5
-NCwxNTUyMzc5NDU5LC0xMTkxMDQ3MTE1XX0=
+eyJoaXN0b3J5IjpbLTIxMTkxMzg3MTAsMTA1OTczODkxMywxMT
+g1Mzc1NTUsLTQ3NzY1NzY5MiwxMTI3MTEzMDYwLC00OTk4MjM1
+OTQsMTU1MjM3OTQ1OSwtMTE5MTA0NzExNV19
 -->
