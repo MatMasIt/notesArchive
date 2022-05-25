@@ -162,8 +162,8 @@ Generale malcontento con cui la russia entra in WWI
 
 ---
 
-
+Lenin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTgyMzU5NCwxNTUyMzc5NDU5LC0xMT
-kxMDQ3MTE1XX0=
+eyJoaXN0b3J5IjpbMTEyNzExMzA2MCwtNDk5ODIzNTk0LDE1NT
+IzNzk0NTksLTExOTEwNDcxMTVdfQ==
 -->
