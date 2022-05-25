@@ -372,10 +372,10 @@ guerra che l'armata rossa vince
 
 unico partito legale: bolscevico
 
-svolta
+famiglia reale eliminata nel luglio 1918
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxODU1OTIwLDQzMjkwMzEyOCwxMTI4Nz
-U2NTM1LC03MjUyODMyMDQsMTA1OTczODkxMywxMTg1Mzc1NTUs
-LTQ3NzY1NzY5MiwxMTI3MTEzMDYwLC00OTk4MjM1OTQsMTU1Mj
-M3OTQ1OSwtMTE5MTA0NzExNV19
+eyJoaXN0b3J5IjpbLTc5NTU4MzI0NCw0MzI5MDMxMjgsMTEyOD
+c1NjUzNSwtNzI1MjgzMjA0LDEwNTk3Mzg5MTMsMTE4NTM3NTU1
+LC00Nzc2NTc2OTIsMTEyNzExMzA2MCwtNDk5ODIzNTk0LDE1NT
+IzNzk0NTksLTExOTEwNDcxMTVdfQ==
 -->
