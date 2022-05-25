@@ -21,7 +21,8 @@ Gran Bretagna dichiara guerra alla germania il 4 di agosto
 
 6 agosto 1914 dichiarazione di guerra ufficiale austria-ungheria alla russia (diventerà famoso nel 1945 per Hiroshima)
 
-poi entra il giappone
+poi entra il giapponeno costituzioni e no diritti sociali, 300 anni dalle rivoluzioni inglesi del 1600 o riv francese e poi tutti gli avanzamenti dopo
+
 
 
 20 milioni di morti
@@ -149,6 +150,6 @@ In italia:
 	* Ok neutralismo per vendere armi a tutte le altre potenze 
 	* Ok guerra perchè ricevono commesse statali per sforzo bellico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzQ1NTAzOCwtMTEyMTE5NDMzNSwtMj
-M5OTY0ODBdfQ==
+eyJoaXN0b3J5IjpbLTMzMTg5NzgwLDEzMjM0NTUwMzgsLTExMj
+ExOTQzMzUsLTIzOTk2NDgwXX0=
 -->
