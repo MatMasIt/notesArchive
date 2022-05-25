@@ -257,9 +257,16 @@ ordine gestito dai soviet risorti
 
 operai si prendono la responsabilità di gestire l'ordine
 
-orientamento politico dei soviet diverso dal 
+orientamento politico dei soviet diverso dal governo
+
+
+spingono per pace immediata
+
+distribuzione della terra ai contadini   (che è degli aristocratici e dei kulakhi)
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTc3NjMzNCwxMDU5NzM4OTEzLDExOD
+eyJoaXN0b3J5IjpbLTcyNTI4MzIwNCwxMDU5NzM4OTEzLDExOD
 UzNzU1NSwtNDc3NjU3NjkyLDExMjcxMTMwNjAsLTQ5OTgyMzU5
 NCwxNTUyMzc5NDU5LC0xMTkxMDQ3MTE1XX0=
 -->
