@@ -265,8 +265,12 @@ spingono per pace immediata
 distribuzione della terra ai contadini   (che è degli aristocratici e dei kulakhi)
 
 ---
+
+
+B
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTI4MzIwNCwxMDU5NzM4OTEzLDExOD
-UzNzU1NSwtNDc3NjU3NjkyLDExMjcxMTMwNjAsLTQ5OTgyMzU5
-NCwxNTUyMzc5NDU5LC0xMTkxMDQ3MTE1XX0=
+eyJoaXN0b3J5IjpbMTk3MjYyNjA2MCwtNzI1MjgzMjA0LDEwNT
+k3Mzg5MTMsMTE4NTM3NTU1LC00Nzc2NTc2OTIsMTEyNzExMzA2
+MCwtNDk5ODIzNTk0LDE1NTIzNzk0NTksLTExOTEwNDcxMTVdfQ
+==
 -->
