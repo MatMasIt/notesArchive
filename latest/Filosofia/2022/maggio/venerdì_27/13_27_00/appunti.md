@@ -32,9 +32,14 @@ culto del sapere scientifico
 
 scoperta delle leggi, relazioni costanti tra i fenomeni
 
-idels
+romantcismo ha messo in secondo piano la raziojalità
+
+le arti non hanno valore conoscitivo
+
+elementi di vicinanza
+
+in comune con l'idealismo un approccio razionalistico e sull'immanentismo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDYyMDE4MTcsLTEwMDk1NzIxNDJdfQ
-==
+eyJoaXN0b3J5IjpbLTI2OTgzMDAyLC0xMDA5NTcyMTQyXX0=
 -->
