@@ -47,7 +47,21 @@ esaltazione dell'assoluto come obiettivo ultimo a cui si tende
 scienza come religiose
 
 
-filoso
+filosofia della storia, progresso necessario della scienza
+
+Auguste Comte, francese
+
+iniziatore positivismo
+
+Montpellier, studia a politecnico
+
+p 86, Comte mette per iscritto lezioni 1830-1842
+
+Corso di Filosofia positiva
+
+
+per i posi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDUyOTEyNiwtMTAwOTU3MjE0Ml19
+eyJoaXN0b3J5IjpbLTIxMjgxNTQ5NzcsLTEwMDk1NzIxNDJdfQ
+==
 -->
