@@ -40,6 +40,13 @@ elementi di vicinanza
 
 in comune con l'idealismo un approccio razionalistico e sull'immanentismo
 
+romanticismo-positivismo
+
+esaltazione dell'assoluto come obiettivo ultimo a cui
+
+scienza come religiose
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTgzMDAyLC0xMDA5NTcyMTQyXX0=
+eyJoaXN0b3J5IjpbLTE3Mzk1MDIwMjgsLTEwMDk1NzIxNDJdfQ
+==
 -->
