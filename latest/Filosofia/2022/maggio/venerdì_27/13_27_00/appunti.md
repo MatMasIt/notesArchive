@@ -32,9 +32,9 @@ culto del sapere scientifico
 
 scoperta delle leggi, relazioni costanti tra i fenomeni
 
-
+idels
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjUxNzQ1MzYsLTEwMDk1NzIxNDJdfQ
+eyJoaXN0b3J5IjpbLTE4NDYyMDE4MTcsLTEwMDk1NzIxNDJdfQ
 ==
 -->
