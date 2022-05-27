@@ -27,6 +27,14 @@ la conoscenza vera è quella scientifica
 figura letteraria di Sherlock Holmes
 
 
+
+culto del sapere scientifico
+
+scoperta delle leggi, relazioni costanti tra i fenomeni
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk1NzIxNDJdfQ==
+eyJoaXN0b3J5IjpbLTE4MjUxNzQ1MzYsLTEwMDk1NzIxNDJdfQ
+==
 -->
