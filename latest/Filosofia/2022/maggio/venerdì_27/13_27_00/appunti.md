@@ -74,7 +74,20 @@ etc
 
 
 cosa non ovvia per la cultura europea
+
+
+
+muore nel 1857
+
+
+Tesi fondamentale: legge dei tre stati p 87
+
+intera società e anche singolo individuo
+
+evoluzione necessaria per tre fasi
+* stato teologico
+* metafisico
+* stato positivo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzE1NzY4MzMsLTEwMDk1NzIxNDJdfQ
-==
+eyJoaXN0b3J5IjpbMTE2OTY5MjU1OCwtMTAwOTU3MjE0Ml19
 -->
