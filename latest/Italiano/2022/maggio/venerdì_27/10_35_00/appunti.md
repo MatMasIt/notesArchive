@@ -18,7 +18,7 @@ non ridulta del tutto condivisibil/ difficilmente dcondivisibile
 
 le affermazioni appaiono opinabili/controverse/suscettibili di una diversa interoretazione
 
-le prove/gli elementi addotti a supporto della tesi risultano/appaiono piuttosto /in buona misura adeguate/ quanto mai opinabili
+le prove/gli elementi addotti a supporto della tesi risultano/appaiono piuttosto /in buona misura adeguate/ quanto mai opinabilie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY1NzI0NzFdfQ==
+eyJoaXN0b3J5IjpbLTU3MjEyNjYxOCwtMTY1NjU3MjQ3MV19
 -->
