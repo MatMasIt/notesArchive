@@ -42,11 +42,12 @@ in comune con l'idealismo un approccio razionalistico e sull'immanentismo
 
 romanticismo-positivismo
 
-esaltazione dell'assoluto come obiettivo ultimo a cui
+esaltazione dell'assoluto come obiettivo ultimo a cui si tende
 
 scienza come religiose
 
+
+filoso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk1MDIwMjgsLTEwMDk1NzIxNDJdfQ
-==
+eyJoaXN0b3J5IjpbMTgxNDUyOTEyNiwtMTAwOTU3MjE0Ml19
 -->
