@@ -19,7 +19,14 @@ p 80
 sapere scientifico e la sua affermazione in italia sono schiacciate
 
 
-il positivismo riconduce ogni conosc
+il positivismo riconduce ogni conoscenza su fatti empiricamente accettati  e scientificamente connessi in un sistema di connessioni logiche
+
+la conoscenza vera è quella scientifica
+
+
+figura letteraria di Sherlock Holmes
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwMzg1MzI4XX0=
+eyJoaXN0b3J5IjpbLTEwMDk1NzIxNDJdfQ==
 -->
