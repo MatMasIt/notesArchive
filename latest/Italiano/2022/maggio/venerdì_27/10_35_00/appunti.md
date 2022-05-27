@@ -14,7 +14,11 @@ Controbattere:
 si potrebbe obiettare che/ chiedersi se
 L'affermazione/l'ipotesi/l'interpreatazione/la posizione appare poco convincente
 
-non ridulta del tutto condivisibil
+non ridulta del tutto condivisibil/ difficilmente dcondivisibile
+
+le affermazioni appaiono opinabili/controverse/suscettibili di una diversa interoretazione
+
+le prove/gli elementi addotti a supporto della tesi risultano/appaiono piuttosto /in buona misura adeguate/ quanto mai opinabili
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTU5MDY2OV19
+eyJoaXN0b3J5IjpbLTE2NTY1NzI0NzFdfQ==
 -->
