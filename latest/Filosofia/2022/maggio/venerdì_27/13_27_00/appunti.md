@@ -60,8 +60,21 @@ p 86, Comte mette per iscritto lezioni 1830-1842
 Corso di Filosofia positiva
 
 
-per i posi
+per i positivisti la filosofia si subordina quasi alla scienza
+
+estendere modello scientifico a tutti i campi del sapere
+
+immagine del mondo che si sta sviluppando
+
+* chimica
+* elettricità
+* medicina
+
+etc
+
+
+cosa non ovvia per la cultura europea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjgxNTQ5NzcsLTEwMDk1NzIxNDJdfQ
+eyJoaXN0b3J5IjpbLTE3MzE1NzY4MzMsLTEwMDk1NzIxNDJdfQ
 ==
 -->
