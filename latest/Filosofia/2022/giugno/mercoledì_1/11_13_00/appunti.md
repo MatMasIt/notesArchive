@@ -30,7 +30,15 @@ Scienza prorompente, cambia il voloto alla società e permette agli europei a co
 
 disincanto del mondo: la realtà è fatta di materia e forze | non può sopperire ai bisogni dell'animo umano
 
+Hennrì Bergson 
 
+approccio antipositivista
+
+elementi non razionali
+
+1859-1941
+
+vince preio nobel per la letteratura nel 1927
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE2ODk5NDldfQ==
+eyJoaXN0b3J5IjpbMTM1NTA3MDY3OF19
 -->
