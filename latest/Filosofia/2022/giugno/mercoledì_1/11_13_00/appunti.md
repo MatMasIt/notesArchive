@@ -61,7 +61,13 @@ e 2 circoli:
 
 
 inghiltrra, USA
-emigrati aus
+emigrati austriaci alimentano scienza
+
+neopositivismo crede nella scienza come unica autentica forma di conoscenza
+
+visione unitaria, scientifica del monto
+
+attenzione nei 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjU5OTM0NV19
+eyJoaXN0b3J5IjpbLTgzMDg3NTYxNF19
 -->
