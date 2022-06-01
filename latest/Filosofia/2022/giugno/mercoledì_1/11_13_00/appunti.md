@@ -33,12 +33,21 @@ disincanto del mondo: la realtà è fatta di materia e forze | non può sopperir
 Hennrì Bergson 
 
 approccio antipositivista
-
+La scienza non basta
 elementi non razionali
 
 1859-1941
 
-vince preio nobel per la letteratura nel 1927
+vince premio nobel per la letteratura nel 1927
+
+
+Italia: positivismo molto debole
+
+
+spiritualismo cattolico
+neoidealismo di croce e gentile
+
+avversano il positivismo italiano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTA3MDY3OF19
+eyJoaXN0b3J5IjpbMTMxNzM4MjkyXX0=
 -->
