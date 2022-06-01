@@ -48,6 +48,16 @@ spiritualismo cattolico
 neoidealismo di croce e gentile
 
 avversano il positivismo italiano
+
+
+---
+
+anni '20, '30, '40 del 1900: neopositivismo
+
+1° fase: austro-tedesca
+e 2 circoli:
+* circolo di vienna (
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzM4MjkyXX0=
+eyJoaXN0b3J5IjpbOTMyMTQyNzUxXX0=
 -->
