@@ -23,6 +23,9 @@ p.89
 Filosofia ha la funzione di coordinarie le varie scienze, studiando le relazioni tra le scienze
 
 sistema generale delle idee 
+
+nell'ottocento il positivismo è molto forte ma una parte delal cultura lo rifiuta
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDExNTY1N119
+eyJoaXN0b3J5IjpbMTQ2ODM5MzMzM119
 -->
