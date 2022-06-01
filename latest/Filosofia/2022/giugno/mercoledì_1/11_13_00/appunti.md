@@ -67,7 +67,10 @@ neopositivismo crede nella scienza come unica autentica forma di conoscenza
 
 visione unitaria, scientifica del monto
 
-attenzione nei 
+attenzione nei confronti del linguaggio
+
+
+finire 1800, logico tedesco Frege ha scritto nel 1884 "Fondamenti dell'aritmetica"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDg3NTYxNF19
+eyJoaXN0b3J5IjpbLTEwMTQzODE0MTNdfQ==
 -->
