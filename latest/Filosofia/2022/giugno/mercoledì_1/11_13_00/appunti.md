@@ -10,7 +10,9 @@ Comte dice che all'inizio gli umani vogliono trovare la natura delle cose
 solo che questa essenza viene attinta con la fantasia ad entità superiori, divine
 prima politeiste poi monoteiste
 
-Secondo stadio: in
+Secondo stadio: entità astratte immanenti alla natura stessa
+
+aspetto della realtà colto con la ragione ma poco definito
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk5Nzc0NDNdfQ==
+eyJoaXN0b3J5IjpbLTE1ODE3Njg1OThdfQ==
 -->
