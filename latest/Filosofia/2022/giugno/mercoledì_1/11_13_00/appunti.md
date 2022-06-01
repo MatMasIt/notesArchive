@@ -76,7 +76,12 @@ filosofia della matematica
 
 il linguaggio è dotato di senso o no?
 
-criterio d significanz 
+criterio d significanza del linguaggio
+
+
+principio di verificazione
+
+una espressione ha senso solo se la sua verità è verificabile empiricamente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5ODgwOTE3XX0=
+eyJoaXN0b3J5IjpbMTAwMTU0OTk2N119
 -->
