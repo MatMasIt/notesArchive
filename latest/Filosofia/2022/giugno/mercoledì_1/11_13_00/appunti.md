@@ -20,7 +20,9 @@ terzo stadio: solo fatti fenomenici e sulle lloro relazioni (scienza), che si so
 
 p.89
 
-F9
+Filosofia ha la funzione di coordinarie le varie scienze, studiando le relazioni tra le scienze
+
+sistema generale delle idee 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTMyOTEyN119
+eyJoaXN0b3J5IjpbMTE2NDExNTY1N119
 -->
