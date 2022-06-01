@@ -71,6 +71,12 @@ attenzione nei confronti del linguaggio
 
 
 finire 1800, logico tedesco Frege ha scritto nel 1884 "Fondamenti dell'aritmetica"
+
+filosofia della matematica
+
+il linguaggio è dotato di senso o no?
+
+criterio d significanz 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQzODE0MTNdfQ==
+eyJoaXN0b3J5IjpbNzk5ODgwOTE3XX0=
 -->
