@@ -87,6 +87,14 @@ una espressione ha senso solo se la sua verità è verificabile empiricamente
 "Il superamento della metafisica mediante l'analisi logica del linguaggio", Rudolf Carnap
 
 
+"Dio è la totalità delle cose pensabili": non ha senso
+
+spirito santo
+
+amore: comportamenti verificabili che stabilit
+
+svolta linguistica
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTA2NDAwOV19
+eyJoaXN0b3J5IjpbLTE1MzM0MDM1NV19
 -->
