@@ -16,7 +16,11 @@ aspetto della realtà colto con la ragione ma poco definito
 mi spiego la realtà con fondamenti imamnenti che possano renderla comprensibile
 ex. universo proviene dall'acqua
 
-ter
+terzo stadio: solo fatti fenomenici e sulle lloro relazioni (scienza), che si solgono per osservazione ed esperimento e conducono a leggi necessarie
+
+p.89
+
+F9
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTc4MjU1MV19
+eyJoaXN0b3J5IjpbLTMwOTMyOTEyN119
 -->
