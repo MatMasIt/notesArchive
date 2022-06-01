@@ -13,6 +13,10 @@ prima politeiste poi monoteiste
 Secondo stadio: entità astratte immanenti alla natura stessa
 
 aspetto della realtà colto con la ragione ma poco definito
+mi spiego la realtà con fondamenti imamnenti che possano renderla comprensibile
+ex. universo proviene dall'acqua
+
+ter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE3Njg1OThdfQ==
+eyJoaXN0b3J5IjpbMTg2MTc4MjU1MV19
 -->
