@@ -56,8 +56,12 @@ anni '20, '30, '40 del 1900: neopositivismo
 
 1° fase: austro-tedesca
 e 2 circoli:
-* circolo di vienna (
-* 
+* circolo di vienna (1923-1936)
+* circolo di berlino (1928-1936)
+
+
+inghiltrra, USA
+emigrati aus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyMTQyNzUxXX0=
+eyJoaXN0b3J5IjpbLTYyNjU5OTM0NV19
 -->
