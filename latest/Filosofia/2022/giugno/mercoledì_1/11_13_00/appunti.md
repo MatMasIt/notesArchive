@@ -82,6 +82,11 @@ criterio d significanza del linguaggio
 principio di verificazione
 
 una espressione ha senso solo se la sua verità è verificabile empiricamente
+
+
+"Il superamento della metafisica mediante l'analisi logica del linguaggio", Rudolf Carnap
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTU0OTk2N119
+eyJoaXN0b3J5IjpbMTAxOTA2NDAwOV19
 -->
