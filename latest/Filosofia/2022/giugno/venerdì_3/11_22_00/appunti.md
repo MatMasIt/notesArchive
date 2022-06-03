@@ -21,6 +21,13 @@ Logica della ricerca Scientifica
 Congettura e Confutazione
 
 interesse anche politico
+
+Popper crede nella scienza
+
+cosa è e non è scienza?
+marx? freud?
+
+i positivisti pensavano che la verifica empirica fosse la linea di demarcazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ5Njk4MzVdfQ==
+eyJoaXN0b3J5IjpbNjk1MzYxNDk3XX0=
 -->
