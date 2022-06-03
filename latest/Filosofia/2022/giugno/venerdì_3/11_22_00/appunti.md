@@ -39,7 +39,7 @@ Se sto male per (x) è conferma del super-IO?
 
 teoria della gravità di einstein viene verificata
 
-Capisce: la scienza è tl
+Capisce: la scienza è tale perchè può essere confutata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzMTkzODIzXX0=
+eyJoaXN0b3J5IjpbLTQ5Mjc2NDM0Nl19
 -->
