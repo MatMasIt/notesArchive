@@ -91,10 +91,14 @@ una espressione ha senso solo se la sua verità è verificabile empiricamente
 
 spirito santo
 
-amore: comportamenti verificabili che stabilit
+amore: comportamenti verificabili che stabiliscono affetto
+
+comportamentismo, psicologia
 
 svolta linguistica
 
+
+Principio di verificazione ha un problema
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM0MDM1NV19
+eyJoaXN0b3J5IjpbLTE2MjM3OTc2OV19
 -->
