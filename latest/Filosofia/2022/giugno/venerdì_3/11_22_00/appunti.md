@@ -28,6 +28,18 @@ cosa è e non è scienza?
 marx? freud?
 
 i positivisti pensavano che la verifica empirica fosse la linea di demarcazione
+
+
+1919, isola di principe, nuova guinea  Eddington
+
+Altro esservatore inglese si trovava a Sobral in brasil: riuscire ad esaminare una eclissi di sole
+
+
+Se sto male per (x) è conferma del super-IO?
+
+teoria della gravità di einstein viene verificata
+
+Capisce: la scienza è tl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1MzYxNDk3XX0=
+eyJoaXN0b3J5IjpbOTUzMTkzODIzXX0=
 -->
