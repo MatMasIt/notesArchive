@@ -8,8 +8,14 @@ anni '70-'80 distinzione tra analitici (anglosassoni) e continentali
 
 Grande influenza di Ludwig Wittgenstein
 
-
+Sh
 La proposizione stessa che istituisce il principio di verificazione non è verificabile
+
+1963, karl Popper, partecipa al circolo di vienna senza mai entrarci
+
+
+Logica della ricerca Scientifica
+Congettura e Confutazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjQ3ODEwMF19
+eyJoaXN0b3J5IjpbLTczNjU5MjUyNV19
 -->
