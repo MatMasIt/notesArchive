@@ -15,7 +15,9 @@ explosion surmount the hatred, give her peace
 experience running like a wave 
 she keeps calm
 
+pistol shot interrupt the flow f thought
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMzIyOTE2LDgwMzY0NDEwNCwtMjAwMD
-YzMDIxNV19
+eyJoaXN0b3J5IjpbLTE4MTcyOTY3OTAsODAzNjQ0MTA0LC0yMD
+AwNjMwMjE1XX0=
 -->
