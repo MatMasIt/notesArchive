@@ -27,10 +27,14 @@ passerby think thath they have seen someone important in the car
 
 a driver drew the blind very quick when the accident happened
 
-queen/prime minister
+queen/prime minister ?
+
+nobody knows
 
 dove: color of the car
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzA3NTUzOCw4MDM2NDQxMDQsLTIwMD
-A2MzAyMTVdfQ==
+eyJoaXN0b3J5IjpbNjI2NDYwOTYwLDgwMzY0NDEwNCwtMjAwMD
+YzMDIxNV19
 -->
