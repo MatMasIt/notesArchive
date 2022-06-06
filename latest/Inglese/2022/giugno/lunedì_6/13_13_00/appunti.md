@@ -9,7 +9,9 @@ Miss Pym is kind but this year she has grown old
 line 11-16: as it it were evening and girl in beautiful dresses would pick up the flowers, shining in the dark
 line 14
 
+hatred: relationship between the daug
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjIyOTI1OCw4MDM2NDQxMDQsLTIwMD
+eyJoaXN0b3J5IjpbMTUzMzMzMzU0NCw4MDM2NDQxMDQsLTIwMD
 A2MzAyMTVdfQ==
 -->
