@@ -16,7 +16,10 @@ dal 09-06 al 21-06 <u>Programmazione</u>
 ## Vademecum
 
 ### Sul foglio protocollo
-* scrivere tutti la stessa **intestazione** (
+* scrivere tutti la stessa **intestazione** (nome e cognome, classe, data, _Prima prova dell'Esame di Stato 2021-2022_, Tipologia B2 [esempio])
+* Scrivere "prescrittura", "brutta copia" con penna indelebile
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjc2MTc2NiwtMTA0MTg4OTI2NF19
+eyJoaXN0b3J5IjpbLTEyOTQ4Mzg5NTQsLTEwNDE4ODkyNjRdfQ
+==
 -->
