@@ -62,7 +62,11 @@ fails to separate external reality from the perception that he has of the extern
 
 
 Septimius: it is I that am blocking the road
+
+why is septimus rooted to the pavement 
+
+obsession with the meaninglessness of life
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjU0MzQxNiw4MDM2NDQxMDQsLTIwMD
+eyJoaXN0b3J5IjpbMjExNjI5NDkxNSw4MDM2NDQxMDQsLTIwMD
 A2MzAyMTVdfQ==
 -->
