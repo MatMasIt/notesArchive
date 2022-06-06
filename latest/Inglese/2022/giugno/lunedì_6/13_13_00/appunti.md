@@ -55,8 +55,10 @@ sun
 
 everything together make him feel  horrified, responsible
 
-explosio
+explosions, noise remind him of the war
+
+fails to separate external reality from the perception that he has of the external world
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNzA0Mjg3LDgwMzY0NDEwNCwtMjAwMD
-YzMDIxNV19
+eyJoaXN0b3J5IjpbLTUwMTcxODE0MCw4MDM2NDQxMDQsLTIwMD
+A2MzAyMTVdfQ==
 -->
