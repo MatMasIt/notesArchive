@@ -58,7 +58,11 @@ everything together make him feel  horrified, responsible
 explosions, noise remind him of the war
 
 fails to separate external reality from the perception that he has of the external world
+
+
+
+Septimius: it is I that am blocking the road
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTcxODE0MCw4MDM2NDQxMDQsLTIwMD
+eyJoaXN0b3J5IjpbLTkwMjU0MzQxNiw4MDM2NDQxMDQsLTIwMD
 A2MzAyMTVdfQ==
 -->
