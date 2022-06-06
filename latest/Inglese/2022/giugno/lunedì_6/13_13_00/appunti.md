@@ -23,7 +23,14 @@ not a gun, but a motor car
 
 Miss Pym: anticipation of septimus
 
+passerby think thath they have seen someone important in the car
+
+a driver drew the blind very quick when the accident happened
+
+queen/prime minister
+
+dove: color of the car
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg5NjYzNDYsODAzNjQ0MTA0LC0yMD
-AwNjMwMjE1XX0=
+eyJoaXN0b3J5IjpbMTQyNzA3NTUzOCw4MDM2NDQxMDQsLTIwMD
+A2MzAyMTVdfQ==
 -->
