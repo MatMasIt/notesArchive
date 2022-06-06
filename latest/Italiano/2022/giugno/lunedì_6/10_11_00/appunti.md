@@ -34,8 +34,9 @@ dal 09-06 al 21-06 <u>Programmazione</u>
 * Produzione
 	* si impersonale
 	* interlinea tra analisi e produzione
-	* curare pianificazione e o
+	* curare pianificazione e organizzazione per parti
 	* terza persona singolare della voce verbale e il presente storico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjM1MzEwMywtMTA0MTg4OTI2NF19
+eyJoaXN0b3J5IjpbLTE0MjM5ODAyMTcsLTEwNDE4ODkyNjRdfQ
+==
 -->
