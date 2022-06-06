@@ -26,6 +26,9 @@ dal 09-06 al 21-06 <u>Programmazione</u>
 * attenzione alla consegna
 * se è richiesta sintesi/riassunto, scrivere il cappello introduttivo di alcune righe, in cui risultino nome e cognome dell'autore, titolo dell'opera e genere, anno di pubblicazione, i nomi e il ruolo dei personaggi del brano, dove e quando è mbientata la storia del brano in prosa da riassumere
 * Riassunto di circa $\frac13$, escluso il cappello introduttivo
+### Tipologia $B$
+* inizare il riassunto indicando l'autore, il titolo dell'opera o dell'articolo (con indicazione della T, data di pubblicazione e far seguire subito dopo l'attribuzione della tesi dell'auore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjI1MjQwNSwtMTA0MTg4OTI2NF19
+eyJoaXN0b3J5IjpbLTE2NzcxMDMyNzcsLTEwNDE4ODkyNjRdfQ
+==
 -->
