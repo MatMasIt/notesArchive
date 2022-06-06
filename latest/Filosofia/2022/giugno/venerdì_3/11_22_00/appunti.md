@@ -45,7 +45,11 @@ se l'oroscopo è spesso vero è scientifico?
 però è confutabile
 
 
-f
+fallibilità della scienza
+
+un buno sicenziato deve sempre provare a contraddire
+
+Kuhn osserva rispetto a Popper che la scienza non funziona così a livello sociale dento 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTEyMzI4XX0=
+eyJoaXN0b3J5IjpbMTg3NDAwNDE0NF19
 -->
