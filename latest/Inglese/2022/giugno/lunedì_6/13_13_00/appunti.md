@@ -66,7 +66,10 @@ Septimius: it is I that am blocking the road
 why is septimus rooted to the pavement 
 
 obsession with the meaninglessness of life
+
+
+wife : worried about passerby's prejudices because Septimus is acting strange, let's go away
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjI5NDkxNSw4MDM2NDQxMDQsLTIwMD
-A2MzAyMTVdfQ==
+eyJoaXN0b3J5IjpbMjEwODY3OTM5LDgwMzY0NDEwNCwtMjAwMD
+YzMDIxNV19
 -->
