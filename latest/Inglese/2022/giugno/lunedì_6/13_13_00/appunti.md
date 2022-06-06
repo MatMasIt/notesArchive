@@ -45,7 +45,18 @@ Septimus perceives that Earth is angry with mankind iteslf
 where it will descend, who will be hit
 
 septimus feels reponsible for the accident
+
+as if the world stopped
+
+
+Accumulation of traffic
+Car tyre explosion
+sun
+
+everything together make him feel  horrified, responsible
+
+explosio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjI4ODQ0NCw4MDM2NDQxMDQsLTIwMD
-A2MzAyMTVdfQ==
+eyJoaXN0b3J5IjpbOTkzNzA0Mjg3LDgwMzY0NDEwNCwtMjAwMD
+YzMDIxNV19
 -->
