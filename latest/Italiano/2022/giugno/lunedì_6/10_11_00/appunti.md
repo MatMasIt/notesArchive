@@ -6,6 +6,12 @@
 * due penne indelebili nere e due penne indelebili blu
 * un orologio analogico
 * vocabolario
+
+---
+
+dal 09-06 al 21-06 <u>Programmazione</u>
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTU4MDE4NV19
+eyJoaXN0b3J5IjpbLTEwNDE4ODkyNjRdfQ==
 -->
