@@ -33,8 +33,10 @@ nobody knows
 
 dove: color of the car
 
+hazel eyes
 
+look of fear, anguish
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2NDYwOTYwLDgwMzY0NDEwNCwtMjAwMD
-YzMDIxNV19
+eyJoaXN0b3J5IjpbMjAzNzI3NDQyNyw4MDM2NDQxMDQsLTIwMD
+A2MzAyMTVdfQ==
 -->
