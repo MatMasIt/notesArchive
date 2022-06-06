@@ -17,7 +17,11 @@ she keeps calm
 
 pistol shot interrupt the flow f thought
 
+explosion
+
+not a gun, but a motor car
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTcyOTY3OTAsODAzNjQ0MTA0LC0yMD
-AwNjMwMjE1XX0=
+eyJoaXN0b3J5IjpbMTY2NjQxMzU4LDgwMzY0NDEwNCwtMjAwMD
+YzMDIxNV19
 -->
