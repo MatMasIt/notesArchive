@@ -36,7 +36,16 @@ dove: color of the car
 hazel eyes
 
 look of fear, anguish
+
+
+The world has raised its whip
+
+Septimus perceives that Earth is angry with mankind iteslf
+
+where it will descend, who will be hit
+
+septimus feels reponsible for the accident
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzI3NDQyNyw4MDM2NDQxMDQsLTIwMD
+eyJoaXN0b3J5IjpbMTg5MjI4ODQ0NCw4MDM2NDQxMDQsLTIwMD
 A2MzAyMTVdfQ==
 -->
