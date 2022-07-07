@@ -40,7 +40,7 @@ p.31
 
 Engels e Marx
 
-_ La Sacra Famiglia_ e _Tesi su Auyerbach_ 
+_La Sacra Famiglia_ e _Tesi su Auyerbach_ 
 
 Predono distanze da _Auyerbach_
 
@@ -71,6 +71,6 @@ le idee sono il frutto della realtà
 
 devo prima modificare il mond per cambiare le idee
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjY3MTAyNywtNzI2ODQzODEwLDI2MD
-EyODI0M119
+eyJoaXN0b3J5IjpbMTM2MTE1ODE3NywxMTQyNjcxMDI3LC03Mj
+Y4NDM4MTAsMjYwMTI4MjQzXX0=
 -->
